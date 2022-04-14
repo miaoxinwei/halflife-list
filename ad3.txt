@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0O5IFWqnhQl9FwQ2rkDiKg
+! Checksum: BL2QaFjfCIH2oB6eoQx0IA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202204140927
-! Last Modified: 2022年04月14日 09:27
+! Version: 202204141422
+! Last Modified: 2022年04月14日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -9473,9 +9473,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zx590.com/assets/style/js/paigu.js
 ||zxdy777.com/myimg/
 ||zxip.com/2013_ad/
-||zxzj.fun/slade
-||zxzj.fun/t.js
-||zxzjtv.com/upload/vod/yuyua.png
+||zxzjtv.com/slade
+||zxzjtv.com/t.js
 ||zywlyy.cn/JS/
 ||zzbaike.com/main/*-20
 ||zzbaike.com/main/arvixe
@@ -9489,6 +9488,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+guozhivip.com##.tit > a[style="color: #f80"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -11867,7 +11867,7 @@ ifeng.com##.cont_bottom_YySmall
 u-car.com.tw##.contad
 u-car.com.tw##.contad_text
 dragon-guide.net##.container > .gutter:first-child
-zxzj.fun##.container > .none
+zxzjtv.com##.container > .none
 ygdy8.cc##.container > a[href^="/"]
 rijutv.co##.container > div[style="height: 128px;"]
 vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
@@ -17406,6 +17406,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||jiatu.co^
 ||weix.xyz^
 ||llhhbb.top^
+||dhhpm.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
