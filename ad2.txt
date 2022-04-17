@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jq+VhpRxfWoVntG4g1JOfQ
+! Checksum: 0C+y9J7s11j+dGywdCpCpQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202204171421
-! Last Modified: 2022年04月17日 14:21
+! Version: 202204172028
+! Last Modified: 2022年04月17日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -15,7 +15,6 @@ qq.com,huya.com,yy.com,le.com##+js(nowebrtc)
 ||tracker.$xhr,websocket,script,ping
 ||p2p.$xhr,websocket,ping,domain=~huya.com
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-v.youku.com##+js(aeld,dblclick,triggerEvent)
 m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
 !m.youku.com,v.youku.com##+js(cookie-remover, cna)
 atm.youku.com
