@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3vt2KLDBautp6yr1TWPiDA
+! Checksum: fi4Yzqbc91ijq0HDyqi5mA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202204200946
-! Last Modified: 2022年04月20日 09:46
+! Version: 202204201423
+! Last Modified: 2022年04月20日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -30892,7 +30892,7 @@ _800x80_
 ##[href^="http://trafficare.net/"]
 ##[href^="http://www.pingperfect.com/aff.php"]
 ##[href^="https://affect3dnetwork.com/track/"]
-##[href^="https://affiliate.fastcomet.com/"]
+##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://awbbjmp.com/"]
 ##[href^="https://click2cvs.com/"]
 ##[href^="https://detachedbates.com/"]
@@ -61859,6 +61859,7 @@ ubmcmm.baidustatic.com
 ||netdjs.net^
 ||govlihu.cn^
 ||xdw9.top^
+||daisycontroversy.com^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -77414,6 +77415,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||mals.shop^
 ||2613.store^
+||xiaomianao666.top^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
