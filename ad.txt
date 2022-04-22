@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e2ghRQR8a51L6xlPZ5wEUg
+! Checksum: 44icyp1vKJKv8wgK5rqyxg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202204222034
-! Last Modified: 2022年04月22日 20:34
+! Version: 202204230221
+! Last Modified: 2022年04月23日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2309,6 +2309,8 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||seinse27.com^
+||iknight.xyz^
 ||lm553.com^
 ||23617710.com^
 ||00-gov.cn^
@@ -14755,6 +14757,7 @@ stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/ima
 107cine.com##a[href^="http://107cine.com/ads/"]
 hepuwang.com##a[href^="http://ad."]
 m.nownews.com##a[href^="http://ad1.nownews.com"]
+mydrivers.com##a[href^="http://click.aliyun.com/"]
 wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
 big5.china.com.cn##a[href^="http://big5.china.com.cn/gate/big5/"]:not([href*="/science."])
 chinaz.com,cnbeta.com,oschina.net##a[href^="http://click.aliyun.com/"]
@@ -17880,6 +17883,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||lajidewanyi.top^
 ||rinc.ink^
 ||qdbh.store^
 ||wubocheng.top^
