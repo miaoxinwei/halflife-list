@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hgbT53evWVfgPQ31ix/atA
+! Checksum: mcuFjM2Yawwm0nZWJi029g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202205021423
-! Last Modified: 2022年05月02日 14:23
+! Version: 202205022036
+! Last Modified: 2022年05月02日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1127,7 +1127,7 @@ ubmcmm.baidustatic.com
 ###rip[href*=".taobao.com"]
 ###search > a[href="/top1.html"]
 ###sitefocus.focus
-###slide3 > a[href^="/goto.php?url="]
+###bannerslide > a[href^="/goto.php?url="]
 ###snActive-wrap
 ###sponsorAdDiv2
 ###swtleft[style^="position:fixed;"]
@@ -1865,6 +1865,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||kukanlm-lubu1.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -8679,7 +8680,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||szhk.com/include/taobao
 ||szhongzi.com/js/
 ||szjjzs.com/js/cs*.js
-||szjjzs.com/js/dd.js
+||szjjzs.com/js/d*.js
 ||szjjzs.com/js/fe
 ||szjjzs.com/js/piao.js
 ||sznews.com/s?z=
@@ -9544,6 +9545,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||btwuji.com/js2/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+yxlady.com##.banner_simple
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -22027,6 +22029,7 @@ qq.com#@#.side_ad
 ##.heg > .partner-list
 ##a[href^="/dasp.php?a="]
 !#sihu
+##.col5 > dl#randomBox
 ##.search + #midBox
 ##.wrap + #btmBox
 ##.wrap + #midBox
