@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OuKjuo16YYbEtU69+z2vFA
+! Checksum: 47JKsMgEWiF1sSNnDNLwjQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202205040947
-! Last Modified: 2022年05月04日 09:47
+! Version: 202205041424
+! Last Modified: 2022年05月04日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59728,6 +59728,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||developers.google.com/ad-manager/$~third-party
 @@||digiads.com.au/images/shared/misc/ad-disclaimer.gif
 @@||dilbert.com/assets/ad-vendor-$script,~third-party
+@@||discretemath.org/ads/
+@@||discretemath.org^$image,stylesheet
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com
@@ -59741,6 +59743,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ezoic.net/detroitchicago/cmb.js$script,domain=gerweck.net
 @@||f-droid.org/assets/Ads_$~third-party
 @@||facebook.com/ads/profile/$~third-party,xmlhttprequest
+@@||faculty.uml.edu/klevasseur/ads/
+@@||faculty.uml.edu^$image,stylesheet
 @@||fdyn.pubwise.io^$script,domain=urbanglasgow.co.uk
 @@||files.slack.com^$image,~third-party
 @@||flying-lines.com/banners/$image,~third-party
@@ -62018,6 +62022,7 @@ ubmcmm.baidustatic.com
 .8ox.cn
 ||00-gov.cn^
 ||000123456789.site^
+||afenx.top^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -77629,6 +77634,13 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||kohen.biz^
 ||jmypdkzixne.com^
+||lihongyu.xyz^
+||xtime.hk^
+||sydz.tw^
+||e41.xyz^
+||70we55s.cn^
+||singledog.fun^
+||ybxw.shop^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
