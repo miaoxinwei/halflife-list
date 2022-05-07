@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZKARGXjY8hlnjRoYRdOJpQ
+! Checksum: wX+Pd+dJCPNxxRz9lI6q3Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202205070920
-! Last Modified: 2022年05月07日 09:20
+! Version: 202205071422
+! Last Modified: 2022年05月07日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -17516,6 +17516,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||loveyour.name^
 ||qijiuwangluo.ltd^
 ||helloc.xyz^
+||selectinstall.cn^
+||jzcan.xyz^
+||weldsystem.online^
+||qhonzpl.cn^
+||3z3sfuj.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -22521,6 +22526,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
+@@||threatbook.cn/public/asset/js/zhugeIo.
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
 ! EasyList Lite
