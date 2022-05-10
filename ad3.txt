@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ho4Zmb1BQiO3qqmoZ+sX8Q
+! Checksum: l0ENallPJmcUJ3G/yejSbA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202205100227
-! Last Modified: 2022年05月10日 02:27
+! Version: 202205100916
+! Last Modified: 2022年05月10日 09:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17507,6 +17507,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||yuhui.run^
+||bqgyy.com^
+||dxftocy.cn^
+||zgnzhymh.mobi^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -22195,7 +22199,7 @@ t66y.com##.tips
 ||alicdn.com^$domain=28th.cc
 !#theporn.xyz
 ###ad-ft
-theporn.cc###to_top + div > div[id]
+theporn.cc##.pt-70 > div[id]
 ###wp > div > #top_banner
 ##.ads > #video_playr_sider
 ##.bottom-gg
@@ -25731,6 +25735,7 @@ m.babytree.com##script + a[class]
 /banner-tracker.
 /banner.stats?
 /banners-stat.
+/base/es6/bundle.js
 /basesdc.js
 /basicMetricsTracking.
 /basilic.php
