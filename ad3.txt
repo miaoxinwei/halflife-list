@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zQ2uwK6V9oHIgttH6KO++g
+! Checksum: jlLT0aeOM3elt8V5a1RXiQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202205120944
-! Last Modified: 2022年05月12日 09:44
+! Version: 202205121425
+! Last Modified: 2022年05月12日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17465,6 +17465,7 @@ $image,third-party,domain=258zw.com
 /aa_*_a1.js$script,third-party
 /assets/frameworks/types-*?plm=$script,third-party
 /bbhd_*_kkis.js
+/sg.asp?wsg&df=1$script,third-party
 /c.js#pid=$script,third-party
 /ce_l.aspx?showid=$third-party
 /hmzn_*_*_*.js?$script,third-party
@@ -17543,6 +17544,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||b85xx.site^
 ||sciillr.cn^
 ||i03.xyz^
+||jiangsg.me^
+||bzyunduan.cn^
+||unnqyqq.cn^
+||j46.xyz^
+||uebabuf.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -23598,7 +23604,10 @@ _box_ad_
 ||jlwz.cn/js/xf*.js
 ||book118.com^*/js/crm.
 ||book118.com^*/showRecommend.
+||mbalib.com/common/a_mbalib/
+||lotuscard.cc/online/
 !------------------------Specific element hiding rules------------------------!
+guancha.cn##.g_swiper_container
 fantuan.tv##.app-guide
 dyxs15.com,dianying.im##.popup,.shortcuts-mobile-overlay
 dm010.com##a[href*=".apk"]
