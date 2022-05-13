@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: luZv46owbWInQHhadUJXrQ
+! Checksum: ZmsOBSgcu/oR2GlxCHFq0g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202205131426
-! Last Modified: 2022年05月13日 14:26
+! Version: 202205132041
+! Last Modified: 2022年05月13日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1858,6 +1858,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||29525187.com^
 ||17271819.com^
 ||23991511.com^
@@ -9608,6 +9609,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -50517,6 +50519,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||logger.uol.com.br^
 ||metrics.uol.com.br^
 ||olx.com.br^*/lurker.
+||r7.com/comscore/
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
 ||tags.globo.com^
@@ -51619,6 +51622,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
 @@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
