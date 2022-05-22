@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QVJJ+z59zEjZFjHwmSawRw
+! Checksum: 4claniEFbbztAHtwu+x74A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202205220926
-! Last Modified: 2022年05月22日 09:26
+! Version: 202205221422
+! Last Modified: 2022年05月22日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55484,6 +55484,7 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||vix.*.criteo.net^$domain=spiegel.de
 ||yieldlab.net^$domain=spiegel.de
 @@||jetzt.de^$generichide
+/^https?:\/\/www\.[0-9a-z]{8,}\.com\/[0-9a-z]{1,4}\.js$/$script,third-party,domain=dood.la|dood.pm|dood.sh|dood.so|dood.to|dood.watch|dood.ws
 $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id​|adblockstreamtape.art|adblockstreamtape.fr|adblockstreamtape.site|animeworld.biz|apl100.me|apl102.me|apl96.me|assia2.com|assia4.com​|cloudemb.com|cloudvideo.tv|couchtuner.show|databasegdriveplayer.xyz|dembed1.com|diampokusy.com|dir-proxy.net|dirproxy.info|dood.ws|dulu.to|embedsb.com|embedsito.com|fembed-hd.com|file-upload.com|freeplayervideo.com|geoip.redirect-ads.com|gogoanime.lol|haes.tech|highstream.tv|hubfiles.ws|hydrax.xyz|katfile.com|kissanime.lol|kokostream.net|livesports4u.xyz|livetv498.me|loader.to|mangovideo.pw|mixdrop.bz|mixdrop.ch|mixdrop.club|mixdrop.co|mixdrop.sx|mixdrop.to|mixdrops.xyz|myflixer.to|mystream.to|oneproxy.org|piracyproxy.biz|piraproxy.info|pixroute.com|play.hydracdn.network|playtube.ws|pomvideo.cc|pouvideo.cc|projectfreetv2.com|proxyer.org|raes.tech|sbfast.com|sbplay2.com|sbplay2.xyz|scloud.online|stape.fun|stape.me|streamas.cloud|streambee.to|streamlare.com|streamon.to|streamta.pe|streamtape.com|streamtapeadblock.art|streamtapse.com|streamz.ws|streamzz.to|strtape.cloud|strtpe.link|supervideo.tv|suzihaza.com|theproxy.ws|trafficdepot.xyz|tubeload.co|uploadfiles.pw|uprot.net|uproxy.best|uproxy.co|upstream.to|upvid.biz|upvideo.to|userload.co|uwatchfree.fo|vidcloud9.com|videovard.sx|vidlox.me|viewsb.com|vivo.sx|voe-unblock.com|voe-unblock.net|voe.sx|vupload.com|watchsb.com|wiztube.xyz|youtubedownloader.sh|ytmp3.sh
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /hkz*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
@@ -60323,7 +60324,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=quotidiano.net
 @@||ads1.atpclick.com/atpClick.aspx?$image,script,domain=jobnet.co.il|jobs-israel.com
-@@||adsafeprotected.com/iasPET.$script,domain=reuters.com
+@@||adsafeprotected.com/iasPET.$script,domain=bloomberg.com|reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adserve.atedra.com/js/$script,domain=repeatmyvids.com
@@ -62699,6 +62700,7 @@ ubmcmm.baidustatic.com
 ||00-gov.cn^
 ||000123456789.site^
 ||jssxpb.cn^
+||yuemmu.com^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -70478,6 +70480,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ggxwb.miguvideo.com^
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -78435,6 +78438,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||dkfmhv.xyz^
 ||teqcdnk.cn^
 ||3r3ijsa.cn^
+||jwhfkj.cn^
+||zhanglibomgmail.online^
+||vsmyhky.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -87312,6 +87318,7 @@ fqsousou.com,kengso.com#@#.user-share
 /rm.gif?
 /RMAnalytics.
 /rmntracking.
+/rntracking.
 /roi_tracker.
 /roiengine.
 /roitrack.
@@ -89363,7 +89370,7 @@ _sdcTrackingCode.
 /client_204?$image,other,ping,script
 /csi_204?$image,other,ping,script
 /gen_204?$image,other,ping,script
-/generate_204$image,other,ping,script
+/generate_204
 ||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
@@ -94224,13 +94231,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||he2d.com^$third-party
 ||hotrank.com.tw^$third-party
 ||hubpd.com^$third-party
-||i-mobile.co.jp^$third-party
 ||ipinyou.com^$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
 ||jpush.cn^$third-party
 ||lndata.com^$third-party
-||logly.co.jp^$third-party
 ||mediav.com^$third-party
 ||miaozhen.com^$third-party
 ||mmstat.com^$third-party
@@ -94416,6 +94421,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||datasign.co^$third-party
+||dbfocus.jp^$third-party
 ||deteql.net^$third-party
 ||docodoco.jp^$third-party
 ||docomo-analytics.com^$third-party
@@ -94438,6 +94444,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gyro-n.com^$third-party
 ||h-cast.jp^$third-party
 ||hitgraph.jp^$third-party
+||i-mobile.co.jp^$third-party
 ||i2ad.jp^$third-party
 ||i2i.jp^$third-party
 ||iid-network.jp^$third-party
@@ -94447,6 +94454,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kaizenplatform.net^$third-party
 ||keyword-match.com^$third-party
 ||letro.jp^$third-party
+||logly.co.jp^$third-party
 ||macromill.com^$third-party
 ||mobylog.jp^$third-party
 ||moshimo.com^$third-party
@@ -97720,6 +97728,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
 ||bidder.mediams.mb.softbank.jp^
+||bridge-ashiato.appspot.com/beacon/
 ||buzzurl.jp/api/counter/
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
