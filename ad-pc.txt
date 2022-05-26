@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jy0bwF7aUfWZ/1pm3/ggFA
+! Checksum: JfoOUaY1LcHN4LzwDOjGyA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202205260222
-! Last Modified: 2022年05月26日 02:22
+! Version: 202205260945
+! Last Modified: 2022年05月26日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -12992,6 +12992,7 @@ _800x80_
 ###caAdLarger
 ###canmobileanchoradclick
 ###captcha-adspace
+###carbonads
 ###carbonads-container
 ###card-ads-top
 ###catad
@@ -26542,6 +26543,7 @@ _800x80_
 ##.inline_ads
 ##.inlinead
 ##.inlinead-tagtop
+##.inlinead_lazyload
 ##.inlineadsense
 ##.inlineadtitle
 ##.inlist-ad
@@ -49107,7 +49109,6 @@ tf2r.com#@#.adverts
 ||xxxadv.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
-||xxxhd.cc^
 ||xxxiijmp.com^
 ||xxxijmp.com^
 ||xxxivjmp.com^
@@ -51161,6 +51162,7 @@ tf2r.com#@#.adverts
 ||xmlmonetize.com^$third-party
 ||xtendadvert.com^$third-party
 ||xtendmedia.com^$third-party
+||xxxhd.cc^$script,third-party
 ||yellads.com^$third-party
 ||yeswegays.com^$third-party
 ||yieldkit.com^$third-party
@@ -54650,6 +54652,7 @@ tf2r.com#@#.adverts
 ||vpnfortorrents.org^$popup
 ||whataboutnews.com^$popup,third-party
 ||windadblocker.com^$popup
+||xxxhd.cc/ads/$popup
 ||yield.app^*utm_source=$popup
 ||18onlygirls.tv/wp-content/banners/
 ||4fcams.com/in/?track=$subdocument,third-party
@@ -55162,6 +55165,7 @@ tf2r.com#@#.adverts
 ||idlebrain.com^*/main-
 ||idlebrain.com^*/sky-
 ||idlebrain.com^*/square-
+||idrive.com/include/images/idrive-120240.png
 ||ign.com/s/js/zad.js
 ||ign.com/zdadkit2.js
 ||ignimgs.com/ign/pogoadk.js$script,domain=ign.com
@@ -55935,6 +55939,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id​|adblockstreamtap
 ||letsjerk.org/api/spots/
 ||letsjerk.to/api/click/
 ||load.xxxdb.io^
+||lolhentai.net/tceb29242cf7.js
 ||lustypuppy.com/sbbi/
 ||madchensex.com/extras/
 ||madmen2.alastonsuomi.com^
@@ -58872,6 +58877,7 @@ complaintsingapore.com##[href*="/adv.php"]
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href*="@"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,carmag.co.za,cnx-software.com,coingolive.com,cryptoslate.com,digitallydownloaded.net,dotesports.com,downturk.net,forum.ragezone.com,fresherslive.com,gizmochina.com,glodls.to,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,myreadingmanga.info,nexter.org,owaahh.com,parkablogs.com,pastemytxt.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,thinknews.com.ng,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,wccftech.com,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
+beforeitsnews.com,bigleaguepolitics.com,in5d.com,thetruedefender.com##[href*="hop.clickbank.net"]
 steroid.com##[href*="https://www.anabolics.com"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
@@ -58995,6 +59001,7 @@ webcamtests.com##[src^="/MyShowroom/view.php?medium="]
 manganelo.com##[src^="/ads/"]
 ice.hockey##[src^="/images/banners/"]
 linuxtopia.org##[src^="/includes/index.php/?img="]
+academictorrents.com##[src^="/pic/sponsors/"]
 publish0x.com##[src^="blob:"]
 tampermonkey.net##[src^="data:image"]
 exportfromnigeria.info##[src^="http://storage2.proboards.com/"]
@@ -59042,7 +59049,6 @@ isaidubb.net,orutamil.com##a[href*="/ucdownloader.php?"]
 isaidubb.net,orutamil.com##a[href*="/ucmini.php?"]
 distrowatch.com##a[href*="3cx.com"]
 aliexpress.com##a[href*="aliexpress.com/item/"][href*="&aem_p4p_detail="]
-beforeitsnews.com,bigleaguepolitics.com,in5d.com##a[href*="hop.clickbank.net"]
 filefleck.com,sadeempc.com,upload4earn.org##a[href*="javascript:"]
 twitter.com##a[href*="src=promoted_trend_click"]
 twitter.com##a[href*="src=promoted_trend_click"] + div
@@ -60433,7 +60439,7 @@ imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
 barelist.com##a[onclick="CallServer('ad', '')"]
 girlonthenet.com##aside[data-adrotic]
 mysexgames.com##body > div[style*="z-index:"]
-boobieblog.com,imgadult.com,picdollar.com,porngames.club,porngames.com,thenipslip.com,wetpussygames.com##canvas
+boobieblog.com,imgadult.com,lolhentai.net,picdollar.com,porngames.club,porngames.com,thenipslip.com,wetpussygames.com##canvas
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
 redtube.com##div > iframe
 motherless.com##div > table[style][border]
@@ -62611,8 +62617,8 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -62899,10 +62905,10 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||gzzcxxzx.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
-||670360.com^
 ||008844.cc^
 ||00xvppy.cn^
 ||012.tw^$third-party
@@ -63182,6 +63188,7 @@ ubmcmm.baidustatic.com
 ||66996.top^
 ||66997.top^
 ||66998.top^
+||670360.com^
 ||6728812.com^
 ||6756240.com^
 ||6789.net^$third-party
@@ -78650,17 +78657,14 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
-||325szdv.cn^
-||shzuggo.cn^
-||etrckeh.cn^
-||yidulu.cn^
-||jwdhoxw.cn^
-||ngwadzu.cn^
-||rqwnzbx.cn^
-||papbp.com^
-||hongbao456.ink^
-||handuwl.top^
-||keyi.mobi^
+||weilaa.xyz^
+||suqiguoji.wang^
+||taihuajiao.vip^
+||xypksuk.cn^
+||bt365.club^
+||u8hexo5v.com^
+||87fgr4.site^
+||zszcxxzx.com^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -78772,6 +78776,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||30life.top^
 ||31du.wang^
 ||3201556.site^
+||325szdv.cn^
 ||32jiang.com^
 ||3336637.com^
 ||3356534.work^
@@ -79890,6 +79895,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||esyzdb.com^
 ||etfprj.cn^
 ||etfuxd.cn^
+||etrckeh.cn^
 ||etrht.cn^
 ||euler7.club^
 ||evsvyqi.cn^
@@ -80217,6 +80223,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||haixingou.shop^
 ||haiyinsiwang.com^
 ||hami-china.xyz^
+||handuwl.top^
 ||hanhaiedu.tech^
 ||hanqingstudio.com^
 ||hansaisai.top^
@@ -80387,6 +80394,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||holyyjs.xyz^
 ||homchang.site^
 ||homfen.me^
+||hongbao456.ink^
 ||hongdejituan.vip^
 ||hongjiaex.cn^
 ||hongshikai.com^
@@ -80789,6 +80797,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||juxuyun.com^
 ||jvyigg.biqugeq.com^
 ||jvyigg.zbzw.la^
+||jwdhoxw.cn^
 ||jwhfkj.cn^
 ||jwmfxp.xyz^
 ||jwvjcr.cn^
@@ -80881,6 +80890,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ketaoke.com^
 ||ketianguanye.com^
 ||keyand.xyz^
+||keyi.mobi^
 ||kf3.xyz^
 ||kfir.club^
 ||kfweo2.com^
@@ -81404,6 +81414,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||nggdwfz.cn^
 ||ngogmbe.cn^
 ||ngsaang.top^
+||ngwadzu.cn^
 ||nh738.cn^
 ||nhfpdc.cn^
 ||nhm32.site^
@@ -81572,6 +81583,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||panruo.net.cn^
 ||panwenjun.top^
 ||paohao.com^
+||papbp.com^
 ||paperfree.cx^
 ||papzp.com^
 ||pazppsim.cn^
@@ -81884,6 +81896,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||rongnuo.pw^
 ||rqjhhg.cn^
 ||rqkgcd.xyz^
+||rqwnzbx.cn^
 ||rrgapzw.cn^
 ||rrogfhs.cn^
 ||rsftjj.cn^
@@ -82026,6 +82039,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||shunxinyuancaiwu.cn^
 ||shushuya.com^*.gif
 ||shweiwen.cn^
+||shzuggo.cn^
 ||signstu.top^
 ||siikzd1.cn^
 ||sikai.ink^
@@ -82982,6 +82996,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yhkt.online^
 ||yidcd.cn^
 ||yidiansurong.com^
+||yidulu.cn^
 ||yierheng.top^
 ||yigesi.top^
 ||yiiyo.top^
@@ -97491,6 +97506,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.media-proweb.de^
 ||analytics.praetor.im^$third-party
 ||andyhoppe.com/count/
+||api.fanmatics.com/event
 ||audimark.de/tracking/
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
@@ -97890,7 +97906,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmtgo.upc.biz^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
-||nextday.media/static/tags/
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||pijper.io/visits/
 ||sp.dpgmedia.net^
@@ -98107,6 +98122,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||top.chebra.lt^$third-party
 ||top.dating.lt^$third-party
 ||top.dkd.lt^$third-party
+||collect.adplogger.no^
 ||engage-cdn.schibsted.media^
 ||log.medietall.no^
 ||webhit.snd.no^
@@ -108835,6 +108851,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||cmp2.channelpartner.de^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/api2/$ping,xmlhttprequest
+||cp.finanzfrage.net/stats
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||dejure.org/cgi-bin/sitzung.fcgi?
@@ -110368,8 +110385,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
-@@||rtoaster.jp/Rtoaster.js$domain=satofull.jp
-@@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
@@ -110377,6 +110392,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
+@@||stellen.donaukurier.de/Scripts/ApiTracking.js?$script,~third-party
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/call.js?$script,~third-party
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/tracking.js$script,~third-party
 @@||sunday.de/skin/*/googleanalytics.js$script
@@ -110627,6 +110643,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ovp.piksel.tech/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||query.petametrics.com^$image,xmlhttprequest,domain=comics.mecha.cc
+@@||rtoaster.jp/Rtoaster.js$domain=satofull.jp
+@@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
 @@||s.yjtag.jp/tag.js$script,domain=www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
