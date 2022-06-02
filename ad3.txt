@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9UvN+cQBBoF5zcAK5ApOSQ
+! Checksum: tKgAnwKoLTRs6k8qxyrr8A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206020945
-! Last Modified: 2022年06月02日 09:45
+! Version: 202206021425
+! Last Modified: 2022年06月02日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1587,8 +1587,8 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:973px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:973px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:974px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:974px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -1878,6 +1878,7 @@ ubmcmm.baidustatic.com
 ||jiantiquan.cn^
 .8ox.cn
 ||00-gov.cn^
+||shequdaohang.com^$third-party
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -17699,6 +17700,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhuogego8.top^
 ||gaoai.wang^
 ||zvkoukk.cn^
+||xindong.fun^
+||goldenlee.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -36821,6 +36824,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c3metrics.medifast1.com^
 ||cache2.delvenetworks.com^
 ||cahf4eed.mooo.com^
+||californiatimes.com/privacy/$image
 ||calltrk.com/companies/
 ||camel.headfarming.com^
 ||canada.com/js/analytics/
