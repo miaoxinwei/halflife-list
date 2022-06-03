@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bP/9dm/HxN5q0X05ii/2iw
+! Checksum: OGpGJDqBJGkT03m5pw3KrA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206030921
-! Last Modified: 2022年06月03日 09:21
+! Version: 202206031422
+! Last Modified: 2022年06月03日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -140,11 +140,11 @@ waust.at
 age.tv,agemys.com##+js(noeval-if, devtoolsDetector)
 ||toutiaoimg.com/origin/$image,domain=mgtv1.net|agemys.com|acgndmku.com|subaibaiys.com
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
-dandanzan10.top,nnyy6.top##+js(set,RTCPeerConnection,null)
-dandanzan10.top,nnyy6.top##+js(set,webkitRTCPeerConnection,null)
-dandanzan10.top,nnyy6.top##+js(set,mozRTCPeerConnection,null)
-dandanzan10.top,nnyy6.top#@#+js(nowebrtc)
-dandanzan10.top,nnyy6.top##.gm-fp-body video:style(max-height:100%!important)
+dandanzan10.top,nunuyy1.org##+js(set,RTCPeerConnection,null)
+dandanzan10.top,nunuyy1.org##+js(set,webkitRTCPeerConnection,null)
+dandanzan10.top,nunuyy1.org##+js(set,mozRTCPeerConnection,null)
+dandanzan10.top,nunuyy1.org#@#+js(nowebrtc)
+dandanzan10.top,nunuyy1.org##.gm-fp-body video:style(max-height:100%!important)
 adx1.com
 aqours.today
 envyindebted.com
@@ -17709,6 +17709,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||lemoncai.xyz^
 ||xiangwuquan.cn^
 ||tangli.ltd^
+||xfdqxfpm.cn^
+||qgfwets.cn^
+||blingbling.wiki^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
