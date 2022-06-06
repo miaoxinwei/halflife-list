@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xfEdV8SdnMMiRkuCJ7Tntw
+! Checksum: +EE7G2Yot63+CLnAQereiw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206060941
-! Last Modified: 2022年06月06日 09:41
+! Version: 202206061422
+! Last Modified: 2022年06月06日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -9736,6 +9736,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+imydl.com##.banner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -17716,6 +17717,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ynlmsc.pw^
 ||liyuan.cloud^
 ||csdn.love^
+||heimen.xyz^
+||imview.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -28843,6 +28846,7 @@ m.babytree.com##script + a[class]
 /pubimppixel/*
 /public/analytics.js
 /public/statsd
+/public/visit/record
 /public/visitor.json?
 /public/visitor/create?
 /publisher:getClientId?key=
@@ -30245,6 +30249,7 @@ m.babytree.com##script + a[class]
 /v1/page-hit
 /v1/pixel.js
 /v1/pixel?
+/v1/stats/track
 /v1/tracker.js
 /v2/tracking/*
 /v4/analytics.
