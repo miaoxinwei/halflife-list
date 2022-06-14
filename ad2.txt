@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qGF/68ktgz46C7LnDyfRzw
+! Checksum: Ak8awv20x5TFFdU5D4tGfA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202206140954
-! Last Modified: 2022年06月14日 09:54
+! Version: 202206141422
+! Last Modified: 2022年06月14日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -185,7 +185,6 @@ youle55.com
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
-/smbaidu/*.js
 /images/ggzz/*.gif
 -1688-wp-media/ads/
 -880-80-4.jpg
@@ -1425,6 +1424,8 @@ ubmcmm.baidustatic.com
 ##.pagecon + .ad1
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
+##div[id][style="position: fixed; bottom: 40%; z-index: 19999 !important; right: 2px;"]
+##.mbads
 ##.pcd_ad
 ##.pcgg
 ##.photo-two > a[onclick^="_czc."]
@@ -1935,6 +1936,7 @@ ubmcmm.baidustatic.com
 ||ylkjit.com^
 !2301
 !2212
+||laijd.cn^
 ||xinshizongqin.com^
 !2211
 ||8686865554893.com^
@@ -9813,6 +9815,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+dmh8.com##body > a
 hmoe11.net##A[href*=".taobao.com"]
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -17799,6 +17802,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
 !2306
+||machan.fans^
 ||cfqc.me^
 ||fetm.xin^
 ||tokay.pro^
@@ -17817,6 +17821,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yyyyt.ltd^
 ||zhongmeigk.hk^
 !2305
+||hs89.cn^
 ||chaotickets.cn^
 ||2329.ink^
 ||666video.asia^
@@ -17835,6 +17840,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhuomengwangluo.com^
 ||zwgege.cn^
 !2304
+||ponymi.xyz^
+||aa9u.cn^
 ||aa9v.cn^
 ||aa9z.cn^
 ||aak7.cn^
