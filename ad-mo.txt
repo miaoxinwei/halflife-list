@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: csZE1euYIQc85W3jS2MkrA
+! Checksum: PAQkm6lcIF7z4xE5uoym6A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202206182029
-! Last Modified: 2022年06月18日 20:29
+! Version: 202206190220
+! Last Modified: 2022年06月19日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60495,6 +60495,8 @@ ebay.co.uk,ebay.com,ebay.com.au#?#.s-item:-abp-has(span[class^="s-item__title--t
 etsy.com#?#li.wt-grid__item-xs-6:-abp-has(a[href*="&plkey="])
 etsy.com#?#li.wt-grid__item-xs-6:-abp-has(a[href*="?plkey="])
 eztv.tf,eztv.yt,123unblock.bar#?#tbody:-abp-contains(WARNING! Use a)
+gamersnexus.net#?#.moduleContent:-abp-contains(Advertisement)
+gamersnexus.net#?##right_col > div:-abp-has(p:-abp-contains(Advertisement))
 facebook.com#?#div[style="max-width: 390px; min-width: 190px;"]:-abp-has(a[href^="/ads/"])
 facebook.com,facebookcorewwwi.onion#?#._6y8t:-abp-has(a[href="/ads/about/?entry_product=ad_preferences"])
 gankrin.org#?#.code-block:-abp-has(.adsbygoogle)
@@ -62068,6 +62070,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/images/segucrwj*.jpg
 /images/segucrwj*.gif
 /images/mobileads*.jpg
 -880-80-4.jpg
@@ -63465,7 +63468,7 @@ ubmcmm.baidustatic.com
 ##a[target="_blank"] > img[height="60px"][src*=".meituan.net"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".tripcdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*="qlogo.cn"][src$=".png"]
-##a[target="_blank"] > img[height^="60"][src*=".360buyimg.com"][src$=".gif"]
+~jd.com##a[target="_blank"] > img[height="60"][src*=".360buyimg.com"][src$=".gif"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##body .has-ad
 ##body[class|="view"] > .ad-box
@@ -63780,6 +63783,9 @@ ubmcmm.baidustatic.com
 !2308
 ||jrhbhz.com^
 !2306
+||afk3rs.xyz^
+||tklm77.top^
+||306842.com^
 ##a[href*="/682kg.com"]
 ||9191919199.com^
 ||bob4915.com^
@@ -79412,6 +79418,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||1kcx.hk^
 ||slinindy.top^
 ||hklst.top^
+||ttdds.top^
 ||cfqc.me^
 ||cnpask.com^
 ||dalucm.xyz^
@@ -79531,6 +79538,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||whzshoes.com^
 ||zhihuinongye.biz^
 !2209
+||tihushuo.com^
 ||cojwnb.com^
 ||duihuan8.wang^
 ||hdw0.top^
@@ -92324,6 +92332,7 @@ _mongo_stats/
 ||semasio.net^$third-party
 ||sematext.com^$third-party
 ||sendtraffic.com^$third-party
+||sensorsdata.cn^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry.io^$third-party
 ||seomonitor.ro^$third-party
