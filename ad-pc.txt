@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kRp0fCPdB813NKzUJK4HCQ
+! Checksum: 0qIlefE6/Tns91C/+FsaaQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202206181420
-! Last Modified: 2022年06月18日 14:20
+! Version: 202206182029
+! Last Modified: 2022年06月18日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32530,6 +32530,7 @@ shop.asobistore.jp#@#.block-sponsor
 ixbtlabs.com#@#.bottom_ad_block
 wired.com#@#.box-radvert
 9l.pl#@#.boxAds
+canonsupports.com#@#.box_ads
 8field.net,deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,freedom-shift.net,kotan.link,lovepanky.com,markekaizen.jp,netafull.net,photopoint.com.ua,posh-samples.com#@#.category-ad:not(html):not(body)
 business-hack.net,clip.m-boso.net,iine-tachikawa.net,meihong.work#@#.category-ads:not(html):not(body)
 studio55.fi#@#.column-ad
@@ -56697,7 +56698,6 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||hotgirlsdream.com/tf40bbdd1767.js
 ||hotmovs.com/suhum/
 ||hottystop.com/t33638ba5008.js
-||hpjav.tv/asset/js/mainzk.js
 ||hqpornstream.com/pub/
 ||hypnohub.net/assets/hub.js
 ||i.pixl.is/*.gif$image,domain=bunkr.is
@@ -58176,6 +58176,7 @@ imgtaxi.com##.bottom_abs
 collive.com##.bottom_leaderboard
 allmonitors24.com,streamable.com##.bottombanner
 arcadebomb.com##.bottombox
+canonsupports.com##.box
 efe.com##.box-publi
 accuratefiles.com##.box-result
 mybroadband.co.za##.box-sponsored
@@ -63937,6 +63938,7 @@ ubmcmm.baidustatic.com
 ||sosrom.cn^
 ||xtp01.com^
 !2302
+||666592.xyz^
 ||666576.xyz^
 ||666577.xyz^
 ||666579.xyz^
@@ -63948,6 +63950,7 @@ ubmcmm.baidustatic.com
 ||nbgsintl.com^
 ||ylkjit.com^
 !2301
+||eiya.net^
 ||yanzunyang.top^
 !2212
 ||laijd.cn^
@@ -69844,9 +69847,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||maiche.com/iframe/rank.html
 ||mail.pchome.com.tw/img/classifieds/300120.gif
 ||mail.qq.com/lview?
+||malimali5.com/ad1.png
 ||makaidong.com/img/
-||malimali3.com/upload/site/*.gif
-||malimali3.com/upload/site/*/640.
 ||mall.xinkuaituan.com/zhuanti/
 ||mall0.qiyipic.com^
 ||manage.wdfans.cn^
@@ -70797,9 +70799,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||taizexy.com^*.gif
 ||talkfx.*/showTKImg?
 ||taobaocdn.com^$image,domain=cnblogs.com
-||taoguba.com.cn/js/tgbduilian
 ||taoguba.com.cn/res/js/tgbgg/
-||taoguba.com.cn/res/libs/tgbxc.js
 ||taosq.net/public/250x250.jpg
 ||taotaoxiang.*/111/
 ||taotaoxiang.cc/333/
@@ -70963,8 +70963,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||uho.com.tw^$subdocument
 ||ulifestyle.com.hk/images/*_300x100
 ||ultraimg.com^$domain=18board.com|18p2p.com
-||ulzdk.com/statics/v2/js/kulis.js
-||ulzdk.com/Uploads/ulzdkgif/bfq.gif
 ||union.591.com.tw/cpt?
 ||union.china.com.cn^
 ||union.yihaodian.com^
@@ -70975,7 +70973,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||up.qingdaonews.com/up/$object,script
 ||upaiyun.com/system/post_tile/new_web_banners/
 ||upan.cc/images/pay/
-||upanso.com/taoke/
 ||upantool.com/a/
 ||upload.cc^$domain=141jj.com|mizhiav.com
 ||uploadhouse.com^*.gif$domain=wishct.com
@@ -71633,6 +71630,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+qq.com,sogou.com##.banner-vda
+qq.com,sogou.com##div[class^="page-top-banner"]
 uliba.net###focusslide
 fuliba2020.net,fuliba2021.net,fuliba2022.net,uliba.net###focusslide
 fuliba2020.net,fuliba2021.net,fuliba2022.net,uliba.net##.widget_custom_html
@@ -71826,7 +71825,6 @@ c114.com.cn###ad_r1
 chinanews.com.cn###ad_right_fc1
 kdslife.com###ad_swip
 bioon.com###ad_tb
-taoguba.com.cn###ad_tgb_list
 cctime.com###ad_three
 sina.com.cn###ad_tl_01
 gaokao.com###ad_top_gkw
@@ -72780,7 +72778,6 @@ appinn.com###ranshownow
 game2.cn###rb
 junshidao.com###rb_wap
 moe.best###rcm_sidebar
-tiboo.cn###read_hd1
 chinaqking.com###readerServiceDIV
 pujia8.com###recommend
 ganji.com###recommend_storeg_div
@@ -73152,7 +73149,6 @@ bestopview.com##.Adv_c
 pc6.com##.Advbox
 chaicp.com,qiuyi.cn##.Advertisement
 big5.china.com.cn##.Advertising > a
-usefultools.icu##.Advertising_all
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.BAIDU_CLB_AD
 le.com##.Banner
 zhihu.com##.Banner-link
@@ -73211,7 +73207,6 @@ zhihu.com##.MRelateFeedAd
 my0511.com##.MY0511-broadcast
 ltn.com.tw##.NC1.boxTitle
 ltn.com.tw##.NC3
-taoguba.com.cn##.NH_ad
 cnfol.com##.NavTopAd
 cnfol.com##.NewAdBox
 taoguba.com.cn##.NewH_top_left + .left
@@ -74061,7 +74056,6 @@ zuowen.com##.couplet_left
 tigtag.com##.couplet_r
 zuowen.com##.couplet_right
 atyun.com##.coupletbox
-upanso.com##.coupon
 caixin.com##.course_box
 meishij.net##.cp_body_right
 baidu.com##.cpc-adv-container
@@ -79416,6 +79410,7 @@ smjb.net##div[style*="height: 50%"]
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
 ||zhuishubox.com/js/after-rain.js
+||wbxsw.com/js/app_wap.
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -79528,6 +79523,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ##a[href*="/jianjianjiao.top"]
 ||1kcx.hk^
 ||slinindy.top^
+||hklst.top^
 ||cfqc.me^
 ||cnpask.com^
 ||dalucm.xyz^
@@ -79586,6 +79582,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhuomengwangluo.com^
 ||zwgege.cn^
 !2304
+||salemarket.online^
+||glspjvy.cn^
 ||172872.com^
 ||aa9q.cn^
 ||aa9u.cn^
@@ -79607,6 +79605,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yping.online^
 ||zhrrrec.cn^
 !2303
+||ceshi5.ink^
 ||bptxcg.xyz^
 ||469716.top^
 ||blddnwt.cn^
@@ -79630,6 +79629,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||nanjian.ink^
 ||vz1m.com^
 !2212
+||nfqplus.com^
 ||iauto.wang^
 ||bestnfq.com^
 ||kongbao.ren^
@@ -86525,6 +86525,7 @@ fqsousou.com,kengso.com#@#.user-share
 /gcui_vidtracker/*
 /gd-stat.
 /gd.stat?
+/gd_tracker_
 /gemius.3.15.js
 /gemius.js
 /gemius/*
@@ -95654,6 +95655,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||360buyimg.com/jdf/1.0.0/unit/log/
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
+||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com^
 ||51network.com^$third-party
 ||99widgets.com/counters/
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
