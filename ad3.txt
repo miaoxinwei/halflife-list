@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d3+GxBb6WRlOKTnkNPw2HQ
+! Checksum: MBFBJ6zTH0nkTwhvWDZK2A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206260220
-! Last Modified: 2022年06月26日 02:20
+! Version: 202206260952
+! Last Modified: 2022年06月26日 09:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1195,6 +1195,7 @@ ubmcmm.baidustatic.com
 ~05wang.com##.a_pr
 ~88liu.com,~briian.com##.a_pt
 ##.a_ssk_cn
+##script + a[href^="https://l.hyenadata.com/"]
 ##.a_sxc
 ##.a_xsfl
 ##.aab-post
@@ -1961,6 +1962,15 @@ ubmcmm.baidustatic.com
 ||zhangzhiyang01.cn^
 ||zhetoutiao.top^
 ||zsgwed.cn^
+||666632.xyz^
+||cwphgqu.cn^
+||topnfj.com^
+||oyybgs.cn^
+||pfskzj.cn^
+||sliiindy.top^
+||letsread.club^
+||ntyrt.top^
+##a[href*=".urfatek.com/"]
 !2403
 ##a[href*=".impreshunz.com/"]
 ||readysugerfree.top^
@@ -14218,8 +14228,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||zimuku.org/sp1.gif
+||qy0.ru/data/game/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zimuku.org###rbad
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -27367,6 +27380,7 @@ m.babytree.com##script + a[class]
 /jquery.trackstar.
 /jquery.unica.
 /JqueryEtracker.
+/js-sdk-event.
 /js-tag-manager/*
 /js/_analytics/*
 /js/analitics.
@@ -38731,6 +38745,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-files.prsmedia.fr^*/xiti/
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
+||collect-v6.51.la^
 ||compteur.websiteout.net^
 ||core.unit-sense.net^
 ||da-kolkoz.com/da-top/track/
@@ -50084,6 +50099,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||l.franceculture.fr^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-layout/tracking-
+||lacoccinelle.net/g.js
 ||lardennais.fr/sites/all/themes/enabootstrap/js/stat-callback.js
 ||ldlc.com/V4px/js/ldlcmachine.js
 ||lecho.be/fb2?
