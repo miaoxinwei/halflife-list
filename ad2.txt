@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hBnza2M2snbRk6r/lSCwrQ
+! Checksum: Cj7q57tQNFEPSFztoPnyuw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202206280948
-! Last Modified: 2022年06月28日 09:48
+! Version: 202206281423
+! Last Modified: 2022年06月28日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -150,6 +150,7 @@ adx1.com
 aqours.today
 envyindebted.com
 in-page-push.com
+mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
@@ -172,6 +173,7 @@ ieeod0.com
 jinrongwang.net
 onenews.vip
 qdwght.com
+qfnoyix.cn
 quickapp.cn
 v4dwkcv.com
 weizhenwx.com
@@ -2000,6 +2002,8 @@ ubmcmm.baidustatic.com
 ||666638.xyz^
 ||yyrrw.top^
 ||piilvhtu.cn^
+||trznrug.cn^
+||qichegongxiang.xyz^
 ##a[href*=".impreshunz.com/"]
 ||readysugerfree.top^
 ##a[href*=".eampakt.com/"]

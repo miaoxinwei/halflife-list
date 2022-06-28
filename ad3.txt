@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RL5rpkJeQlmIxk0MoxA2lg
+! Checksum: Ih5GtFsS6jRejg+powJvTA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206280948
-! Last Modified: 2022年06月28日 09:48
+! Version: 202206281423
+! Last Modified: 2022年06月28日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -150,6 +150,7 @@ adx1.com
 aqours.today
 envyindebted.com
 in-page-push.com
+mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
@@ -172,6 +173,7 @@ ieeod0.com
 jinrongwang.net
 onenews.vip
 qdwght.com
+qfnoyix.cn
 quickapp.cn
 v4dwkcv.com
 weizhenwx.com
@@ -2000,6 +2002,8 @@ ubmcmm.baidustatic.com
 ||666638.xyz^
 ||yyrrw.top^
 ||piilvhtu.cn^
+||trznrug.cn^
+||qichegongxiang.xyz^
 ##a[href*=".impreshunz.com/"]
 ||readysugerfree.top^
 ##a[href*=".eampakt.com/"]
@@ -27832,6 +27836,7 @@ m.babytree.com##script + a[class]
 /mpl/mpulse.
 /mpulse.js
 /mpulse.min.js
+/ms.analytics-
 /msa-vowels/1/OP/*
 /msftaudience.
 /mstartracking/*
@@ -30850,6 +30855,7 @@ _mongo_stats/
 ||wknd.ai^
 ||wmgroup.us^
 ||woodpeckerlog.com^
+||yardianalytics.com^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zenaps.com^
@@ -37436,6 +37442,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
 ||ordergroove.com/log/offer?
+||organiccdn.io/assets/sdk/monitor.unit-sdk.js
 ||organicfruitapps.com/analytics/
 ||orts.wixawin.com^$third-party
 ||outbrain.com/nanoWidget/externals/cookie/
@@ -40483,7 +40490,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webengage.sky.com^$xmlhttprequest
 ||weblog.flyasiana.com^
 ||weblog.strawberrynet.com^
-||webmd.com/pixel/
 ||webmd.com/static/v/c?
 ||wellsfargo.com/AIDO/
 ||wellsfargo.com/tracking/
@@ -40562,6 +40568,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bing.com/fd/ls/lsp.aspx
 ||bing.com^*/glinkping.aspx$ping,xmlhttprequest
 ||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
+###cxense-recs-in-article
 ##.embed-responsive-trendmd
 ||aliyuncs.com/r.png
 ||gj.mmstat.com^
@@ -51378,6 +51385,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||support.brother.com^*/js/analytics.js$script,~third-party
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
+@@||tag.aticdn.net^*/smarttag.js$domain=rte.ie
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
@@ -51687,6 +51695,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
 @@||beppegrillo.it/mt-static/js/ga_social_tracking.js
 @@||cdn.trustcommander.net/privacy$script,domain=enigaseluce.com
+@@||clerk.io/clerk.js$script,domain=trony.it
 @@||codicebusiness.shinystat.com/cgi-bin/getcod.cgi?$script,domain=grazia.it|panorama-auto.it|panorama.it
 @@||codicefl.shinystat.com/cgi-bin/getserver.cgi?$script,domain=3bmeteo.com|quotidiano.net|radioitalia.it
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
