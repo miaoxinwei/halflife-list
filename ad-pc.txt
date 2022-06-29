@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +3kHAB20kOIKlQ4RN0rehg
+! Checksum: jSkpf6t+RYkzOdtkFl8CTw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202206290226
-! Last Modified: 2022年06月29日 02:26
+! Version: 202206290950
+! Last Modified: 2022年06月29日 09:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10741,6 +10741,7 @@ _800x80_
 ###adbg_ad_0
 ###adbg_ad_1
 ###adbig
+###adbineScroll
 ###adblade
 ###adblade-disc
 ###adbladeSp
@@ -17113,6 +17114,7 @@ _800x80_
 ###wp-topAds
 ###wp125adwrap_2c
 ###wp_ad_marker
+###wp_adbn_root
 ###wp_ads_gpt_widget-16
 ###wp_ads_gpt_widget-17
 ###wp_ads_gpt_widget-18
@@ -57538,6 +57540,7 @@ myrealgames.com##.block_adv_mix_top2
 gametracker.com##.blocknewnopad
 simkl.com##.blockplacecente
 wowhead.com##.blocks
+mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
 animexin.xyz##.blox
 weather-forecast.com##.bn-placeholder
@@ -58090,6 +58093,7 @@ gelbooru.com##.headerAd
 thelakewoodscoop.com##.headerPromo
 gautengnewspaper.co.za##.header__banner
 manofmany.com##.header_banner_wrap
+koreaherald.com##.header_bnn
 phonearena.com##.heading-deal
 thenewslens.com##.help-tnl-container-300_250
 thenewslens.com##.help-tnl-container-970_250
@@ -58209,6 +58213,7 @@ goldprice.org##.kenbi
 trustedreviews.com##.keystone-single-widget
 gamertweak.com##.kfzyntmcd-caption
 dallasobserver.com##.kgbqfwag
+koreaherald.com##.khadv1
 wantedinafrica.com##.kn-widget-banner
 iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
@@ -63466,6 +63471,15 @@ ubmcmm.baidustatic.com
 ||zhetoutiao.top^
 ||zsgwed.cn^
 ||zzycj.com^
+||gfvip08as.com^
+||rqkfhquz.cn^
+||nfqhome.com^
+||ayst.love^
+||slivindy.top^
+||caimei.me^
+||lyggt.top^
+||goldnfz.com^
+||iusnajah.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -88950,7 +88964,6 @@ fqsousou.com,kengso.com#@#.user-share
 /uxm_tracking.
 /v.gif?
 /v1/analytics.js
-/v1/analytics/*$domain=~platform.axway.com
 /v1/custom-metrics
 /v1/impressions
 /v1/log_event
@@ -89868,6 +89881,7 @@ _mongo_stats/
 ||cdnhst.xyz^
 ||click360.io^
 ||cloudwp.io^
+||clrt.ai^
 ||cpx.to^
 ||crsspxl.com^
 ||crwdcntrl.net^
@@ -96336,7 +96350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kiwi.mdldb.net^
 ||kiwisizing.com/api/log
 ||kk-resources.com/ks.js
-||klarnaservices.com/lib.js
+||klarnaservices.com/v1/osm-client-script/
 ||klarnaservices.com^$image,third-party
 ||klaviyo.com/onsite/js/sentry.
 ||klickly.com/track
