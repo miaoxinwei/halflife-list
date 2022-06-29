@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jSkpf6t+RYkzOdtkFl8CTw
+! Checksum: MbiPn4/EyRPPaAX5cuMtFQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202206290950
-! Last Modified: 2022年06月29日 09:50
+! Version: 202206291422
+! Last Modified: 2022年06月29日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -25031,6 +25031,7 @@ _800x80_
 ##.dfp-top_leaderboard
 ##.dfp-wrapper
 ##.dfpAd
+##.dfpAdUnitContainer
 ##.dfpAds
 ##.dfpAdvert
 ##.dfp_ATF_wrapper
@@ -32276,9 +32277,9 @@ _800x80_
 ##.rec_container_right
 ##.rec_title_footer
 ##[onclick*="content.ad/"]
-##.chp_ads_blocker-overlay
-##.chp_ads_blocker_detector
 ##.chp_branding
+##[class^="chp_ads_block"]
+##[id^="chp_ads_block"]
 ##.amp-ad-container
 ##.amp-ad-wrapper
 ##.amp-adv-container
@@ -56671,7 +56672,7 @@ transfermarkt.com###home-rectangle-spotlight
 afkgaming.com###home_sticky_footer
 downloadsafer.com###homebannerbottom
 semiconductor-today.com###homeright
-nutritioninsight.com###horizontalblk
+nutritioninsight.com,packaginginsights.com###horizontalblk
 skylinewebcams.com###hostedby
 cd1025.com###hp-leader
 trakt.tv###hu-ck-s-t-er-de-sk-top-sidenav
@@ -58372,6 +58373,7 @@ codeproject.com##.msg-300x250
 marinetraffic.com##.mt-desktop-mode
 zerolives.com##.munder-fn5udnsn
 d123movies.to,yifymovies.one##.mvic-btn
+cannabishealthnews.co.uk##.mvp-side-widget img
 malwaretips.com##.mwt_ads
 invezz.com,reviewparking.com##.mx-auto
 standardmedia.co.ke##.my-2
@@ -58910,7 +58912,7 @@ motorauthority.com##.sq-block
 reneweconomy.com.au,thedriven.io##.sq_get_quotes
 pocket-lint.com##.sqr_p
 ftvlive.com##.sqs-block-image-link
-nutritioninsight.com##.squarblk
+nutritioninsight.com,packaginginsights.com##.squarblk
 autoaction.com.au##.square
 getmyuni.com##.squareDiv
 pocket-lint.com##.squirrel_widget
@@ -59095,6 +59097,7 @@ ktm2day.com##.vc_wp_text
 ggrecon.com##.venatus-block
 fox10phoenix.com,fox26houston.com,fox4news.com,fox7austin.com,foxla.com##.vendor-unit
 tetris.com##.verticalAx
+packaginginsights.com##.verticlblk
 videogameschronicle.com##.vgc-boxout
 bestlifeonline.com,eatthis.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
@@ -59316,6 +59319,7 @@ spys.one##[href^="https://socksescort.com/"]
 steamanalyst.com##[href^="https://static.steamanalyst.com/steam/delivery/"]
 terraria.wiki.gg##[href^="https://store.steampowered.com/app/"]
 brighteon.com##[href^="https://support.brighteon.com/"]
+cannabishealthnews.co.uk##[href^="https://themedicalcannabisclinics.com/"]
 beforeitsnews.com,highshortinterest.com##[href^="https://tinyurl.com/"]
 minidl.org##[href^="https://uploadgig.com/premium/index/"]
 cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
@@ -63480,6 +63484,9 @@ ubmcmm.baidustatic.com
 ||lyggt.top^
 ||goldnfz.com^
 ||iusnajah.cn^
+||krkcryk.cn^
+||yimi1818.xyz^
+||yeyuly.love^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -75705,6 +75712,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+91duba.com###topBanner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -89553,6 +89561,7 @@ cgi-bin/counter
 .smartrmail.co/o/$image
 .southwest.com/r/$image
 .sparkpostmail2.com/q/$image
+.spmailtechnol.com/q/$image
 .spmailtechnolo.com/q/$image
 .spreadshirt.net/mo/$image
 .starbucks.com/a/
