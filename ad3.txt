@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cjeB68nkdWgzvtQVB/xi7Q
+! Checksum: NAoDfcDJ52XLLzAb77yphg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206300947
-! Last Modified: 2022年06月30日 09:47
+! Version: 202206301422
+! Last Modified: 2022年06月30日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2037,6 +2037,11 @@ ubmcmm.baidustatic.com
 ||hhyyt.top^
 ##a[href*=".dbrows.com/"]
 ||666643.xyz^
+||hnshangzhongxia.com^
+||aoxiang.fun^
+||tdtxkvj.cn^
+||abbqhst.cn^
+||hsiaik.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14260,6 +14265,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||weibo.cn/status/banner?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -28477,6 +28483,7 @@ m.babytree.com##script + a[class]
 /quidsi.ga.js?
 /QuotaService.RecordEvent?
 /r.gif?
+/r.rnc?
 /r/collect?
 /ra_track.
 /radar/trace?
