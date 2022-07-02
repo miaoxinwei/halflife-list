@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xqbGBfk1RKtQbpsm/27RCg
+! Checksum: cKUelKAf/MZluiJpVYhRQw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207020224
-! Last Modified: 2022年07月02日 02:24
+! Version: 202207020945
+! Last Modified: 2022年07月02日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2073,6 +2073,13 @@ ubmcmm.baidustatic.com
 ||badcniop.top^
 ||axt.cool^
 ||zhe8000.pw^
+||gfvip06ab.com^
+||qianyan.love^
+||baddniop.top^
+||ce33m7.com^
+||dididi.love^
+||lomo.cool^
+||badhniop.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14298,6 +14305,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||bzhanyy.com^*.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -50066,6 +50074,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||fc.vodafone.de^
 ||froglytics.eventfrog.ch^
 ||geoip.finanzen.net^
+||glomex.com^$ping
 ||gmx.net/monitoring/
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||hartgeld.com/cgi-sys/Count.cgi?
@@ -50080,8 +50089,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||logging.wilmaa.com^
 ||ma.tarnkappe.info^
 ||metrics.n-tv.de^
+||mlm-tracking-service.meinestadt.de^
 ||moviepilot.de/assets/autotrack-
 ||mydirtyhobby.de/tracker
+||navigation-timing.meinestadt.de^
 ||netzwelt.de/log?
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
