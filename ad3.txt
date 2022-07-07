@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AOXUxIeJvnrX05/Q4tFWBQ
+! Checksum: DlUEhMJH7gnGF7/G97qCDQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207070954
-! Last Modified: 2022年07月07日 09:54
+! Version: 202207071423
+! Last Modified: 2022年07月07日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2183,6 +2183,12 @@ ubmcmm.baidustatic.com
 ||niuspykmn.bar^
 ||onekeyedu.com^
 ||xpdyqax.cn^
+||prudence.love^
+||cnglish.site^
+||guojinfeng123.top^
+||zygaoshou888.cn^
+||ling07.icu^
+||xcjcy.pro^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -36865,7 +36871,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.medio.com^
 ||events.ocdn.eu^
 ||events.realgravity.com^
-||events.release.narrativ.com^$script,xmlhttprequest
+||events.release.narrativ.com^$subdocument,xmlhttprequest
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
@@ -39567,6 +39573,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.tradedoubler.com^
 ||analytics.twitter.com^
 ||analytics.vedantu.com^
+||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
@@ -40539,6 +40546,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webmd.com/pixel/
 ||webmd.com/static/v/c?
 ||wellsfargo.com/AIDO/
+||wellsfargo.com/dti_apg/
 ||wellsfargo.com/tracking/
 ||whattomine.com/stats
 ||whistleout.com.au/track
