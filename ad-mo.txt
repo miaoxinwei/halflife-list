@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RR7v6SlklXJhGRuRuX+AeA
+! Checksum: KlZpbuW3dGBVSm9mvMByCg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207101421
-! Last Modified: 2022年07月10日 14:21
+! Version: 202207102030
+! Last Modified: 2022年07月10日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32610,7 +32610,7 @@ dr.dk,smartadserver.de#@#a[href*=".smartadserver.com"]
 slickdeals.net#@#a[href*="adzerk.net"]
 sweetdeals.com#@#a[href*="https://www.sweetdeals.com/"] img
 legacy.com#@#a[href^="http://pubads.g.doubleclick.net/"]
-mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 badoinkvr.com#@#a[href^="https://badoinkvr.com/"]
 xbdeals.net#@#a[href^="https://click.linksynergy.com/"]
 naughtyamerica.com#@#a[href^="https://natour.naughtyamerica.com/track/"]
@@ -33882,6 +33882,7 @@ tf2r.com#@#.adverts
 ||agrarianeruption.com^
 ||agreedrunawaysalty.com^
 ||agreementdarcypainless.com^
+||agregadorcode.com^
 ||agriculta.top^
 ||aguehalved.com^
 ||agukalty.net^
@@ -36941,6 +36942,7 @@ tf2r.com#@#.adverts
 ||deityhencelikewise.com^
 ||dejectioninvention.com^
 ||del-del-ete.com^
+||delayeddisembroildisembroil.com^
 ||delayyawn.com^
 ||deliberatelycube.com^
 ||deliciousinvestor.com^
@@ -41983,6 +41985,7 @@ tf2r.com#@#.adverts
 ||meleguetre.com^
 ||melindahicks.xyz^
 ||mellategrannom.com^
+||mellivoracode.com^
 ||mellodur.net^
 ||mellowpresence.com^
 ||melodramaticsubsequentdeceiving.com^
@@ -44621,6 +44624,7 @@ tf2r.com#@#.adverts
 ||pufagobs.com^
 ||puggedproses.com^
 ||puhtml.com^
+||puitaexb.com^
 ||pulpix.com^
 ||pulpsbarndomed.com^
 ||pulpyads.com^
@@ -45118,6 +45122,7 @@ tf2r.com#@#.adverts
 ||referactsgrey.com^
 ||reflectedcockbegan.com^
 ||reflectedenhanced.com^
+||reflectedintegrity.com^
 ||reflexalright.com^
 ||reflushneuma.com^
 ||refnippod.com^
@@ -45981,6 +45986,7 @@ tf2r.com#@#.adverts
 ||serverscurtain.com^
 ||serversfrenchruse.com^
 ||servicegetbook.net^
+||servicesrc.org^
 ||serving-sys.com^
 ||serving-system.com^
 ||servtraff97.com^
@@ -47974,6 +47980,7 @@ tf2r.com#@#.adverts
 ||unlessorolii.xyz^
 ||unlikelybeside.com^
 ||unlimitate.club^
+||unloadpoetry.com^
 ||unlockr.com^
 ||unluxioer.com^
 ||unmetalised.com^
@@ -53098,6 +53105,7 @@ tf2r.com#@#.adverts
 ||unfaithfulmakeryearly.com^$popup
 ||unforgivablegrowl.com^$popup
 ||unlimited-media.co^$popup
+||unloadpoetry.com^$popup
 ||unseen2020.com^$popup
 ||unshiftryr.com^$popup
 ||untimburra.com^$popup
@@ -58350,7 +58358,6 @@ nintendolife.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
-defenseone.com##.interstitial
 allnurses.com##.ipsAreaBackground
 allnurses.com##.ipsSpacer_both
 alibaba.com##.is-creative
@@ -58766,7 +58773,7 @@ videobb.com##.promo_tab
 animecharactersdatabase.com##.promobanner
 hellomagazine.com##.promohola
 afullcup.com##.promos
-designspiration.com,investors.com,search.genieo.com,search.installmac.com##.promoted
+canstar.com.au,designspiration.com,investors.com,search.genieo.com,search.installmac.com##.promoted
 twitter.com##.promoted-account
 andoveradvertiser.co.uk,asianimage.co.uk,autoexchange.co.uk,banburycake.co.uk,barryanddistrictnews.co.uk,basildonstandard.co.uk,basingstokegazette.co.uk,bicesteradvertiser.net,borehamwoodtimes.co.uk,bournemouthecho.co.uk,braintreeandwithamtimes.co.uk,brentwoodlive.co.uk,bridgwatermercury.co.uk,bridportnews.co.uk,bromsgroveadvertiser.co.uk,bucksfreepress.co.uk,burnhamandhighbridgeweeklynews.co.uk,burytimes.co.uk,campaignseries.co.uk,chardandilminsternews.co.uk,chelmsfordweeklynews.co.uk,chesterlestreetadvertiser.co.uk,chorleycitizen.co.uk,clactonandfrintongazette.co.uk,cotswoldessence.co.uk,cotswoldjournal.co.uk,cravenherald.co.uk,creweguardian.co.uk,dailyecho.co.uk,darlingtonandstocktontimes.co.uk,dorsetecho.co.uk,droitwichadvertiser.co.uk,dudleynews.co.uk,ealingtimes.co.uk,echo-news.co.uk,enfieldindependent.co.uk,eppingforestguardian.co.uk,eveshamjournal.co.uk,falmouthpacket.co.uk,freepressseries.co.uk,gazette-news.co.uk,gazetteherald.co.uk,gazetteseries.co.uk,guardian-series.co.uk,halesowennews.co.uk,halsteadgazette.co.uk,hampshirechronicle.co.uk,harrowtimes.co.uk,harwichandmanningtreestandard.co.uk,heraldseries.co.uk,herefordtimes.com,hillingdontimes.co.uk,ilkleygazette.co.uk,keighleynews.co.uk,kidderminstershuttle.co.uk,knutsfordguardian.co.uk,lancashiretelegraph.co.uk,ledburyreporter.co.uk,leighjournal.co.uk,ludlowadvertiser.co.uk,maldonandburnhamstandard.co.uk,malverngazette.co.uk,messengernewspapers.co.uk,milfordmercury.co.uk,newsshopper.co.uk,northwichguardian.co.uk,oxfordmail.co.uk,penarthtimes.co.uk,prestwichandwhitefieldguide.co.uk,redditchadvertiser.co.uk,redhillandreigatelife.co.uk,richmondandtwickenhamtimes.co.uk,romseyadvertiser.co.uk,runcornandwidnesworld.co.uk,salisburyjournal.co.uk,somersetcountygazette.co.uk,southendstandard.co.uk,southwalesargus.co.uk,southwalesguardian.co.uk,southwestfarmer.co.uk,stalbansreview.co.uk,sthelensstar.co.uk,stourbridgenews.co.uk,surreycomet.co.uk,suttonguardian.co.uk,swindonadvertiser.co.uk,tewkesburyadmag.co.uk,theargus.co.uk,theboltonnews.co.uk,thenational.scot,thenorthernecho.co.uk,thescottishfarmer.co.uk,thetelegraphandargus.co.uk,thetottenhamindependent.co.uk,thewestmorlandgazette.co.uk,thisisthewestcountry.co.uk,thurrockgazette.co.uk,times-series.co.uk,wandsworthguardian.co.uk,warringtonguardian.co.uk,watfordobserver.co.uk,westerntelegraph.co.uk,wharfedaleobserver.co.uk,wiltsglosstandard.co.uk,wiltshiretimes.co.uk,wimbledonguardian.co.uk,wirralglobe.co.uk,witneygazette.co.uk,worcesternews.co.uk,yeovilexpress.co.uk,yorkpress.co.uk,yourlocalguardian.co.uk##.promoted-block
 imdb.com##.promoted-provider
@@ -63946,6 +63953,11 @@ ubmcmm.baidustatic.com
 ||yuvvddt.cn^
 ||gnbunbiv.rest^
 ||qsxfsp.shop^
+||mthdqs.cn^
+||ghhtt.top^
+##a[href*=".qilinsb.com/"]
+||mdjf9vh9.xyz^
+||gxzhshop.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -72603,6 +72615,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||chinamedevice.cn/cnbanner/zjmz.gif
 ||chinanews.com/ad2019/wujiu_ad.jpg
 ||chinanews.com/shipin/sptp.xml
+||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinanewsx.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinapress.com.my/public/static_resources/img/*636x105.
 ||chinapress.com.my/public/static_resources/img/600x337
@@ -75977,6 +75990,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+pianba.tv##.cpcad
 theporn.cc##.toolbar-gg
 theporn.cc##.gg-config
 vpsmm.com#?#.sidebar div:-abp-has(>a>img)
@@ -97670,6 +97684,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trustcommander.net/iab-tcfapi/
 ||trustcommander.net/privacy/$third-party
 ||trustedform.com/trustedform.js?provide_referrer
+||trustpilot.com/stats/
 ||try.abtasty.com^
 ||ts.tradetracker.net^
 ||turnto.com/event
@@ -98102,7 +98117,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||verify.safesigned.com^$third-party
 ||websecurity.norton.com^$third-party
 ||webutation.net/js/load_badge.js
-||widget.trustpilot.com^$third-party
 ||widgets.trustedshops.com^$third-party
 ||jsrdn.com/s/cs.js
 ||d1z2jf7jlzjs58.cloudfront.net^$rewrite=abp-resource:blank-js,domain=voici.fr
@@ -100155,6 +100169,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citibank.com.ph/tmx/js/
 ||drfdisvc.walmart.com^
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
+||ebaystatic.com/rs/v/10341xh50yz21mhhydueu4m5wad.js
+||ebaystatic.com/rs/v/enk4ekgiky2ufpj3l2fgfblxaqd.js
+||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
 ||ir.ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||pages.ebay.com/identity/device/$subdocument
@@ -111048,7 +111065,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||oms.dowjoneson.com/b/ss/$image,domain=wsj.com
 @@||omtrdc.net/b/ss/$image,domain=britishairways.com|costco.com|halifax-online.co.uk|logmein.com|macworld.com|msnbc.com|nbc.com|pcworld.com|techhive.com|usanetwork.com
 @@||omtrdc.net/rest/$xmlhttprequest
-@@||securemetrics.apple.com/b/ss/$image
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
 @@||google.com/analytics/$domain=analytics.google.com
 !----------------Allowlists to fix broken international sites-----------------!

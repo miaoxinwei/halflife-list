@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hIs0kEOjBHZS0cTxEdk0NA
+! Checksum: 5zPbN8Or2uDfgDHwjJUhXg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202207101421
-! Last Modified: 2022年07月10日 14:21
+! Version: 202207102030
+! Last Modified: 2022年07月10日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2251,6 +2251,11 @@ ubmcmm.baidustatic.com
 ||yuvvddt.cn^
 ||gnbunbiv.rest^
 ||qsxfsp.shop^
+||mthdqs.cn^
+||ghhtt.top^
+##a[href*=".qilinsb.com/"]
+||mdjf9vh9.xyz^
+||gxzhshop.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -10908,6 +10913,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||chinamedevice.cn/cnbanner/zjmz.gif
 ||chinanews.com/ad2019/wujiu_ad.jpg
 ||chinanews.com/shipin/sptp.xml
+||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinanewsx.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinapress.com.my/public/static_resources/img/*636x105.
 ||chinapress.com.my/public/static_resources/img/600x337
@@ -14282,6 +14288,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+pianba.tv##.cpcad
 theporn.cc##.toolbar-gg
 theporn.cc##.gg-config
 vpsmm.com#?#.sidebar div:-abp-has(>a>img)
