@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GfVod6xGBeMnOhxPPVZyLA
+! Checksum: hIs0kEOjBHZS0cTxEdk0NA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202207100958
-! Last Modified: 2022年07月10日 09:58
+! Version: 202207101421
+! Last Modified: 2022年07月10日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2247,6 +2247,10 @@ ubmcmm.baidustatic.com
 ||lvjoe.pw^
 ||gogpix.cn^
 ||7080ys.top^
+||rofvjko.cn^
+||yuvvddt.cn^
+||gnbunbiv.rest^
+||qsxfsp.shop^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14278,6 +14282,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+theporn.cc##.toolbar-gg
+theporn.cc##.gg-config
+vpsmm.com#?#.sidebar div:-abp-has(>a>img)
+vpsmm.com##.top_a1
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18294,7 +18302,7 @@ firefoxchina.cn##.sp-content
 zww.me##.sp-top-img
 missyuan.com##.spaceborder
 baidu.com##.spage-couplet-container
-vpsdx.com##.span4 > a > img
+vpsdx.cn,vpsdx.com##.span4 > a > img
 ithome.com.tw##.span4:nth-child(5)
 ithome.com.tw##.span4:nth-child(8)
 shmet.com##.spb-biz-cont
