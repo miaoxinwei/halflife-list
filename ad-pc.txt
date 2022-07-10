@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: k1nq6CczyKKb69YZBmQOkg
+! Checksum: i4m6jcabe3HaiuYBp5N08Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207102030
-! Last Modified: 2022年07月10日 20:30
+! Version: 202207110220
+! Last Modified: 2022年07月11日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14701,6 +14701,7 @@ _800x80_
 ###iqadtile4
 ###iqadtile41
 ###iqadtile5
+###iqadtile6
 ###iqadtile8
 ###iqadtile9
 ###iqadtile99
@@ -55739,6 +55740,7 @@ tf2r.com#@#.adverts
 ||strtapeadblock.club/adult
 ||strtpe.link/ppmain.js
 ||sundayobserver.lk/sites/default/files/pictures/COVID19-Flash-1_0.gif
+||sundayworld.co.za/wp-content/uploads/*/home-page-take-over-
 ||surfmusic.de/anz
 ||survivalblog.com/marketplace/
 ||szm.com/reklama
@@ -56237,6 +56239,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||creatives.pichunter.com^
 ||cumlouder.com/nnubb.js
 ||cuntlick.net/banner/
+||cutegurlz.com/promos-royal-slider/aff/
 ||dads-banging-teens.com/polished-
 ||daftporn.com/nb_
 ||dailyporn.club/at/code.php
@@ -56378,6 +56381,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||mylust.com/154-5imcjoe8o7f/
 ||mylust.com/b/
 ||mypornstarblogs.com/ads/
+||mypornstarbook.net/ads/
 ||mysexgames.com/pix/best-sex-games/
 ||mysexgames.com/plop.js
 ||nackte.com/extras/
@@ -56474,11 +56478,13 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||tbib.org/tbib.
 ||teens-fucking-matures.com/shrill-
 ||theboobsblog.com/long-pine-4086/
+||thegay.com/ckakmlui/
 ||thegay.com/ejtxclxnes/
 ||thegay.com/giwkwmmncsgn/
 ||thegay.com/nofa/
 ||thegay.com/psyttioschbs/
 ||thegay.com/xcgspnprfzd/
+||thegay.com^*/momass
 ||thegay.porn/hksdxivygl/
 ||thehun.net/banners/
 ||thenipslip.com/8bf6a64db50f.js
@@ -56546,6 +56552,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=4tube.com|alotporn.com|alphaporno.com|alrincon.com|amateur8.com|anyporn.com|anysex.com|badjojo.com|bdsmstreak.com|bestfreetube.xxx|bigtitslust.com|bravotube.net|cockmeter.com|daftporn.com|erome.com|exoav.com|fantasti.cc|fapality.com|fapnado.com|fetishshrine.com|freeporn8.com|gfsvideos.com|gotporn.com|hdporn24.org|hdpornmax.com|hdtube.porn|hellporno.com|hottorrent.org|hqsextube.xxx|hqtube.xxx|iceporn.com|imx.to|katestube.com|lustypuppy.com|manhwa18.cc|maturetubehere.com|megatube.xxx|milffox.com|momxxxfun.com|openloadporn.co|orsm.net|pervclips.com|porn-plus.com|porndr.com|pornicom.com|pornotrack.net|pornrabbit.com|pornwatchers.com|pornwhite.com|pussy.org|redhdtube.xxx|rule34.art|sexvid.xxx|sexytorrents.info|shameless.com|sleazyneasy.com|smutty.com|sortporn.com|stepmom.one|stileproject.com|str8ongay.com|tnaflix.com|urgayporn.com|vikiporn.com|wankoz.com|xbabe.com|xcafe.com|xxx-torrent.net|xxxdessert.com|xxxextreme.org|xxxonxxx.com|xxxrip.net|yourlust.com|youx.xxx|zbporn.tv
 /^https?:\/\/.*\.eporner\.com\/[0-9a-f]{10,}\/$/$script,domain=eporner.com
 $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
+||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:
 .com./$popup,domain=pornhub.com|pornhubthbh7ap3u.onion
 |http*://*?$popup,third-party,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|tube8.com|youporn.com|youporngay.com
 ||hotscopes.to/goways.php$popup
@@ -59929,6 +59936,7 @@ apkonline.net##div[id^="adzz"]
 amgreatness.com##div[id^="ag-front-"]
 digg.com##div[id^="bsa-zone_"]
 competenetwork.com##div[id^="compe-"]
+constructionreviewonline.com##div[id^="const-"]
 titantv.com##div[id^="ctl00_TTLB"]
 cyprus-mail.com##div[id^="cypru-"]
 football-tribe.com##div[id^="da-article-"]
@@ -60841,6 +60849,7 @@ amateur-vids.eu,camgirl-video.com,gigapornmovies.com##.happy-under-player
 redtube.com##.hd
 xgroovy.com##.headP
 megatube.xxx##.header-panel-1
+cutegurlz.com##.header-widget
 mansurfer.com##.headerbanner
 allfuckpics.com##.herb
 txxx.com##.herrmhlmolu
@@ -60873,6 +60882,7 @@ babesandstars.com,pornhubpremium.com##.join
 japan-whores.com##.js-advConsole
 sexlikereal.com##.js-m-goto
 pornpapa.com##.js-mob-popup
+eurogirlsescort.com##.js-stats-click
 freeones.com##.js-track-event
 ts-tube.net##.js-uvb-spot
 porndig.com##.js_footer_partner_container_wrapper
@@ -60892,6 +60902,7 @@ spankbang.com##.livecam-rotate
 proporn.com,vivatube.com##.livecams
 javhd.run##.loading-ad
 peekvids.com##.mediaPlayerSponsored
+efukt.com##.media_below_container
 empflix.com,tnaflix.com##.mewBlock
 sopornmovies.com##.mexu-bns-bl
 avn.com##.mfc
@@ -63745,6 +63756,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".meta-kp.com/"]
 ##a[href*=".meta-wg.com/"]
 ##a[href*=".picoville.com/"]
+##a[href*=".qilinsb.com/"]
 ##a[href*=".saeilkorea.com/"]
 ##a[href*=".supernfp.com/"]
 ##a[href*=".tholikiranam.com/"]
@@ -63778,7 +63790,11 @@ ubmcmm.baidustatic.com
 ||666672.xyz^
 ||666673.xyz^
 ||666674.xyz^
+||666679.xyz^
 ||69688qp.com^
+||7080ys.top^
+||884329.com^
+||885842.com^
 ||aaapvu.cn^
 ||abbqhst.cn^
 ||aizhigu.tv^
@@ -63845,6 +63861,7 @@ ubmcmm.baidustatic.com
 ||gdls114.com^
 ||gfdh56.site^
 ||gfnormal00aa.com^
+||gfnormal00aj.com^
 ||gfvip06ab.com^
 ||gfvip06af.com^
 ||gfvip06al.com^
@@ -63853,14 +63870,18 @@ ubmcmm.baidustatic.com
 ||gfvip09aa.com^
 ||gfvip09at.com^
 ||ggkkl.top^
+||ghhtt.top^
 ||gnaunbiu.rest^
+||gnbunbiv.rest^
 ||gocyghol.vip^
+||gogpix.cn^
 ||goldnfh.com^
 ||goldnfn.com^
 ||goldnfu.com^
 ||goldnfz.com^
 ||greatnfw.com^
 ||guojinfeng123.top^
+||gxzhshop.com^
 ||gytty.top^
 ||hbtyk.top^
 ||helilong.xyz^
@@ -63918,9 +63939,11 @@ ubmcmm.baidustatic.com
 ||lomo.cool^
 ||ltht.tech^
 ||luotuoma.center^
+||lvjoe.pw^
 ||lyggt.top^
 ||mbveryu.top^
 ||mbxsku.cn^
+||mdjf9vh9.xyz^
 ||mdjxm.com^
 ||mdjxz.com^
 ||melife.love^
@@ -63929,6 +63952,7 @@ ubmcmm.baidustatic.com
 ||miuspzkmn.bar^
 ||mmrrk.top^
 ||mqjeut5.com^
+||mthdqs.cn^
 ||mttty.top^
 ||neornad.cn^
 ||nfhtech.com^
@@ -63946,6 +63970,7 @@ ubmcmm.baidustatic.com
 ||pfskzj.cn^
 ||piilvhtu.cn^
 ||plkmd.com^
+||pqfgtp.cn^
 ||prudence.love^
 ||pxfeiws.cn^
 ||pymby.top^
@@ -63955,6 +63980,8 @@ ubmcmm.baidustatic.com
 ||qingtian.love^
 ||qncphvc.cn^
 ||qqwxi.xyz^
+||qsxfsp.shop^
+||rofvjko.cn^
 ||rqkfhquz.cn^
 ||rrkky.top^
 ||scardetect.cn^
@@ -63962,6 +63989,7 @@ ubmcmm.baidustatic.com
 ||sdutmedia.com^
 ||shuying.run^
 ||shzq8888.com^
+||siqwfy.cn^
 ||sl6.top^
 ||slcgngo.cn^
 ||slieindy.top^
@@ -63989,6 +64017,7 @@ ubmcmm.baidustatic.com
 ||unpfqc9.com^
 ||unypud.cn^
 ||uquholhm.cn^
+||uu99k.com^
 ||uyzdcun.cn^
 ||very010.com^
 ||vhlret.cn^
@@ -64037,6 +64066,7 @@ ubmcmm.baidustatic.com
 ||yrrcc.top^
 ||yular.cn^
 ||yuretb.site^
+||yuvvddt.cn^
 ||yyrrw.top^
 ||yyttc.top^
 ||yyttm.top^
@@ -64053,23 +64083,6 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
-||666679.xyz^
-||uu99k.com^
-||gfnormal00aj.com^
-||pqfgtp.cn^
-||siqwfy.cn^
-||lvjoe.pw^
-||gogpix.cn^
-||7080ys.top^
-||rofvjko.cn^
-||yuvvddt.cn^
-||gnbunbiv.rest^
-||qsxfsp.shop^
-||mthdqs.cn^
-||ghhtt.top^
-##a[href*=".qilinsb.com/"]
-||mdjf9vh9.xyz^
-||gxzhshop.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -72727,7 +72740,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||chinamedevice.cn/cnbanner/zjmz.gif
 ||chinanews.com/ad2019/wujiu_ad.jpg
 ||chinanews.com/shipin/sptp.xml
-||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinanewsx.com^$csp=script-src 'self' * 'unsafe-eval'
 ||chinapress.com.my/public/static_resources/img/*636x105.
 ||chinapress.com.my/public/static_resources/img/600x337
@@ -75392,12 +75404,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
 ||tuan.cs090.com/gettuan.php?
-||tucao.in/uploadfile/*/1000_150.
-||tucao.in/uploadfile/*/ch.gif
-||tucao.in/uploadfile/20*/*1000x
-||tucao.in/uploadfile/20*/1000-*.gif
-||tucao.in/uploadfile/20*/20*.gif
-||tucao.in/uploadfile/2022/0211/t5.
+||tucao.lol/uploadfile/*/1000_150.
+||tucao.lol/uploadfile/20*/1000-*.gif
+||tucao.lol/uploadfile/20*/20*.gif
 ||tui.gtimg.com//res/
 ||tuicool.com/images/upload/aliyun
 ||tupian55.com^*.gif
@@ -76063,6 +76072,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zongheng.com/upload/recommend/game/
 ||zongheng.com/v2014/js/mod/bad.js
 ||zongheng.com/zhuanti/2014/active/js/active.js
+||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zpgjz.com/cdn/new1/4.gif
 ||zpiyi.com/public/js/global.js
 ||zqnow.net/js/kh.js
@@ -76102,11 +76112,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-pianba.tv##.cpcad
-theporn.cc##.toolbar-gg
-theporn.cc##.gg-config
-vpsmm.com#?#.sidebar div:-abp-has(>a>img)
-vpsmm.com##.top_a1
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -77381,8 +77386,7 @@ showtv.com.tw###sub-ad
 yxdown.com###sy
 windowszj.com###system_type
 tw116.com###t365
-tucao.in###t5
-tucao.in###t7_att
+tucao.lol###t7_att
 voicetube.com###tab-ad-site
 firefoxchina.cn###tab-mod-tehui
 steelcn.cn###table img
@@ -78373,7 +78377,6 @@ baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 suning.com##.c2c-recommend
 myexception.cn##.c_a_3
 cnblogs.com##.c_ad_block
-tucao.in##.c_att
 121xz.com##.c_money
 kdnet.net##.c_spread
 lenniu.com##.caClass
@@ -78524,6 +78527,7 @@ caixin.com##.course_box
 meishij.net##.cp_body_right
 baidu.com##.cpc-adv-container
 makepolo.com##.cpc_tgs
+pianba.tv##.cpcad
 zuoye.baidu.com,zybang.com##.cpro
 docin.com##.cpro_mod
 qq.com##.cps_inner
@@ -78885,6 +78889,7 @@ yahoo.com##.geminiAd
 infoq.cn##.geo-banner
 1kkk.com,40407.com,5068.com,88148.com,chazidian.com,china.com,cnwnews.com,elecfans.com,ghjie.com,iask.ca,ifeng.com,iqilu.com,juqingba.cn,liuxue86.com,qzwb.com,sina.com.cn,tianya.cn,zsnews.cn##.gg
 morningpost.com.cn##.gg-2
+theporn.cc##.gg-config
 baidu.com##.gg-content
 bilibili.com##.gg-floor-module
 iqiyi.com##.gg-l
@@ -80219,7 +80224,7 @@ baidu.com##.tc-card[tpl="fc_before_fixads"]
 52pk.com##.tcgg
 nobugin.com##.td-a-rec
 zeekmagazine.com##.td-all-devices
-tucao.in##.td1
+tucao.lol##.td1
 boniu123.cc##.td_item
 mobanwang.com##.teagg
 baiduyun.wiki##.tecent-adsense
@@ -80304,6 +80309,7 @@ chinanews.com##.tonglan_advert
 3dmgame.com##.tonglona_2
 3dmgame.com##.tonglona_3
 3dmgame.com##.tonglona_4
+theporn.cc##.toolbar-gg
 loldk.com##.tools-recommend
 meizhou.com##.top + .w1000
 2345.com##.top > .fred
@@ -80343,6 +80349,7 @@ afzhan.com##.topRightAdv
 hao123.cn##.top_2_2
 51wangdai.com##.top_AD
 pjtime.com##.top_R
+vpsmm.com##.top_a1
 duba.com,newduba.cn##.top_ad_tmall
 40407.com,lzep.cn,qudong.com,xitong8.com,xt700.com##.top_banner
 cngold.org##.top_bigad
@@ -80765,14 +80772,14 @@ apprcn.com##a[href*=".lizhi."]
 jitashe.org,mumujita.com##a[href*=".makeding.com/"]
 sina.cn##a[href*=".maozhuar.com"]
 douyu.com##a[href*=".miaozhen.com"]
-tucao.in##a[href*=".onelink.me"]
+tucao.lol##a[href*=".onelink.me"]
 iqiyi.com##a[href*=".oppo."]
 zhibo8.cc##a[href*=".rd-game."]
 v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
 ccav5.com##a[href*=".sinaimg."]
 chdbits.co##a[href*=".taobao"]
-52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,hmog.me,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.tv,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,tucao.in,vpansou.com,whsir.com,xxshe.info,xxshe.xyz,youku.com,zhideqiang.com##a[href*=".taobao.com"]
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,hmog.me,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.tv,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,tucao.lol,vpansou.com,whsir.com,xxshe.info,xxshe.xyz,youku.com,zhideqiang.com##a[href*=".taobao.com"]
 rouman5.com##a[href*=".tapdb.net"]
 boke112.com##a[href*=".tencent.com"]
 acgdoge.net,acglala.me,chinalawedu.com,douyu.com,dzbhdm.net,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
@@ -80806,7 +80813,6 @@ ccav1.com##a[href*="/go"]
 yusuan123.com##a[href*="/goto/"]
 dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 cableabc.com##a[href*="/img1/"]
-tucao.in##a[href*="/index.php?m=poster&"]
 ithome.com##a[href*="/lapin."]
 ithome.com##a[href*="/lapin."] + .ad
 6park.com##a[href*="/link.php?key="]
@@ -80853,7 +80859,7 @@ dapenti.com##a[href*="sq.cc"]
 mtrend.cn##a[href*="taomoubao.com"]
 jinti.com##a[href*="tempurchina.com"]
 58.com##a[href*="to8to.com"]
-1090ys8.com,rouman5.com,tucao.in##a[href*="tyrantdb.com"]
+1090ys8.com,rouman5.com,tucao.lol##a[href*="tyrantdb.com"]
 boke112.com##a[href*="url.cn"]
 enjoymore.fun##a[href*="urlto.pw"]
 jd.com,~wan.jd.com##a[href*="wan.jd.com/"]
@@ -81171,7 +81177,7 @@ cztv.com##div[class^="banner_"]
 elecfans.com##div[class^="banner_ad"]
 ijiandao.com##div[class^="banner_h_"]
 ifeng.com##div[class^="bottomDbox"]
-tucao.in##div[class^="c_c"]
+tucao.lol##div[class^="c_c"]
 ifeng.com##div[class^="container-"][content^="[object"]
 78dm.net##div[class^="couple-"]
 ifeng.com##div[class^="coupletBox"]
@@ -81389,7 +81395,6 @@ pchome.com.tw##div[style*="982"][style*="85"]
 blog.sina.com.cn##div[style*="WiDTH: 200px;"][style$="HeiGHT: 300px"]
 mypianku.net##div[style*="background:url"]
 bilibili.com##div[style*="height:"][data-loc-id]
-tucao.in##div[style*="height:10"][style*="width:964"]
 taiwan.cn##div[style*="height:250px;padding:5px 17px 5px 18px;"]
 bccn.net##div[style*="height:90"]
 qiyeku.com##div[style*="height:90px;"]
@@ -81711,6 +81716,7 @@ toutiao.com#?#.has_action:-abp-has(> .icon_ad)
 cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 zdfans.com##ul[id^="gaosuxiazai"]
 firefoxchina.cn##ul[track-key="adv_links"]
+vpsmm.com#?#.sidebar div:-abp-has(>a>img)
 toolfk.com##wavy + div[style]
 wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
@@ -88309,7 +88315,6 @@ fqsousou.com,kengso.com#@#.user-share
 /seo.tagCommander-
 /seo.tagCommander.
 /seo/tr_aff_
-/seomonitor/*
 /seosite-tracker/*
 /seostats/*
 /seoTracker.
@@ -96288,6 +96293,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbds.js$third-party
+||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
 ||consensu.org/geoip
@@ -111194,6 +111200,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
+@@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
 @@||derwesten.de/resources/*/img/transparent_pixel.png$image,~third-party
 @@||deutschlandfunkkultur.de/themes/*/js.php?files=*,script/smarttag.js,$script,~third-party
@@ -111220,6 +111227,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||online.mps-gba.de/praeludium/caravAFW.js?$domain=caravaning.de
 @@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
+@@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||shoutcast.hubu.fm/stats?sid=$script,~third-party
