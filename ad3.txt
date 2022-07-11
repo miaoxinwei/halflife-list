@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UTkXNZ1l002ErffjK8VSaw
+! Checksum: XjT9ggUQIGVevE619G17Ng
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207111424
-! Last Modified: 2022年07月11日 14:24
+! Version: 202207112037
+! Last Modified: 2022年07月11日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -50889,6 +50889,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||dot.wp.pl^$script
 ||entryhit.wp.pl^
 ||eventstream.dodopizza.com^
+||ingbank.pl/mojeing/bs/xx.js
 ||interia.pl^*/hit.
 ||iplsc.com/inpl.log/
 ||iwa.iplsc.com^
@@ -51339,7 +51340,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||geo.gorillanation.com/geo.php$script,domain=sherdog.com
 @@||geo.ngtv.io/locate/$domain=hbo.com
 @@||geoip-db.com/jsonp/$script,third-party
-@@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com|myvanillacard.com|web.aw.ca
+@@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com|luminskin.com|myvanillacard.com|web.aw.ca
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=freshdesk.com|ibanez.com
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
