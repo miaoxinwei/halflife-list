@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ikGfhC9XousmGfrip2194A
+! Checksum: yLi8ke51QDxZmPTacLDB4A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207112037
-! Last Modified: 2022年07月11日 20:37
+! Version: 202207120222
+! Last Modified: 2022年07月12日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -25070,6 +25070,7 @@ _800x80_
 ##.dfpAd
 ##.dfpAdUnitContainer
 ##.dfpAds
+##.dfpAdspot
 ##.dfpAdvert
 ##.dfp_ATF_wrapper
 ##.dfp_ad
@@ -32913,6 +32914,7 @@ tf2r.com#@#.adverts
 ||268stephe5en3king.com^
 ||2694f0eeb6.com^
 ||26968963.com^
+||27417130d3.com^
 ||2748cfaad3.com^
 ||27ceb2d5631623.com^
 ||27f51e5610.com^
@@ -33269,6 +33271,7 @@ tf2r.com#@#.adverts
 ||96e8abd9c4.com^
 ||976b97b6da.com^
 ||97d73lsi.com^
+||986808cb44.com^
 ||98bf9h8jbg.com^
 ||99dc6ef64c.com^
 ||99e83e3024.com^
@@ -34977,6 +34980,7 @@ tf2r.com#@#.adverts
 ||bbaannrr03.com^
 ||bbaannrr05.com^
 ||bbaannrr11.com^
+||bbcrgate.com^
 ||bbes.xyz^
 ||bbgomsvyyacndcf.xyz^
 ||bblo.xyz^
@@ -35966,6 +35970,7 @@ tf2r.com#@#.adverts
 ||cernamer.com^
 ||cernrefraidinterva.xyz^
 ||certainalmostcontent.com^
+||certaintysurroundingcab.com^
 ||certified-apps.com^
 ||cessationbarrellocations.com^
 ||cestoshagli.com^
@@ -37288,6 +37293,7 @@ tf2r.com#@#.adverts
 ||directrev.com^
 ||directtrack.com^
 ||directuklye.co^
+||directuklyecon.pics^
 ||diresozines.com^
 ||dirgywhacks.com^
 ||dirtyasmr.com^
@@ -38442,6 +38448,7 @@ tf2r.com#@#.adverts
 ||fccinteractive.com^
 ||fcdnmkc.com^
 ||fckjoujpsna.xyz^
+||fcouvtlwzocok.com^
 ||fcrbsqtsuvexcsy.com^
 ||fd555b2faf5a40c.com^
 ||fd5orie8e.com^
@@ -41234,6 +41241,7 @@ tf2r.com#@#.adverts
 ||ktkjmp.com^
 ||kttarmufti.com^
 ||ktvnnfres.com^
+||ku2d3a7pa8mdi.com^
 ||kubiadserv.icu^
 ||kubicserves.icu^
 ||kubrer.com^
@@ -42518,6 +42526,7 @@ tf2r.com#@#.adverts
 ||msads.net^
 ||msbuqruhcefx.xyz^
 ||mscklogtxblb.xyz^
+||mscoldness.com^
 ||msdhyexj.com^
 ||msgose.com^
 ||mshago.com^
@@ -42590,6 +42599,7 @@ tf2r.com#@#.adverts
 ||mvlzxlcmsrqjc.com^
 ||mvtmkpysz.com^
 ||mwbiwypvprg.com^
+||mworkh.buzz^
 ||mworkhovd.com^
 ||mwprotected.com^
 ||mwquick.com^
@@ -42753,7 +42763,9 @@ tf2r.com#@#.adverts
 ||necessarysheriff.com^
 ||neciqetlqkrajma.com^
 ||necklaceboarupstairs.com^
+||nedassiu.buzz^
 ||nedukeratio.com^
+||nedukeratio.lol^
 ||neechube.net^
 ||neechuce.net^
 ||needfulforesightharness.com^
@@ -47807,6 +47819,7 @@ tf2r.com#@#.adverts
 ||ttnrd.com^
 ||ttoc8ok.com^
 ||ttrailwaysint.com^
+||ttwscqlqmbcb.com^
 ||ttyvdilxsuorg.com^
 ||ttzmedia.com^
 ||tualaticurnock.com^
@@ -47898,6 +47911,7 @@ tf2r.com#@#.adverts
 ||txcsudkymdq.com^
 ||txgakrasgns.com^
 ||txmboigodejgj.xyz^
+||txmdgiscnlows.com^
 ||txpodqjhabos.com^
 ||txrzhshxdtn.com^
 ||txzezttrqf.com^
@@ -49498,6 +49512,7 @@ tf2r.com#@#.adverts
 ||yeegsxcwbnn.com^
 ||yefbmjqdjkpr.com^
 ||yellowacorn.net^
+||yellowblue.io^
 ||yemecotum.com^
 ||yemisleol.xyz^
 ||yempid.com^
@@ -51730,6 +51745,7 @@ tf2r.com#@#.adverts
 ||algocashmaster.com^$popup
 ||alklinker.com^$popup
 ||allashark.site^$popup
+||alleviatepracticableaddicted.com^$popup
 ||allow-to-continue.com^$popup
 ||allsportsflix.best^$popup
 ||allsportsflix.top^$popup
@@ -51798,6 +51814,7 @@ tf2r.com#@#.adverts
 ||b7om8bdayac6at.com^$popup
 ||baiweluy.com^$popup
 ||baypops.com^$popup
+||bbcrgate.com^$popup
 ||bbuni.com^$popup
 ||bcvcmedia.com^$popup
 ||becomeapartner.io^$popup
@@ -52037,6 +52054,7 @@ tf2r.com#@#.adverts
 ||directdexchange.com^$popup
 ||directionssecondary.com^$popup
 ||directrev.com^$popup
+||directuklyecon.pics^$popup
 ||disappearingassurance.com^$popup
 ||distantnews.com^$popup
 ||distractcomeback.com^$popup
@@ -52569,6 +52587,7 @@ tf2r.com#@#.adverts
 ||moviestreamingonline.club^$popup
 ||mpqfzyh.com^$popup
 ||mrtpcfegryfgqtbuvksbaebneewer.com^$popup
+||mscoldness.com^$popup
 ||mugrikees.com^$popup
 ||murkilyergots.com^$popup
 ||muvflix.com^$popup
@@ -52598,6 +52617,7 @@ tf2r.com#@#.adverts
 ||narrowstaredmaking.com^$popup
 ||nathanaeldan.pro^$popup
 ||ncncu.xyz^$popup
+||nedassiu.buzz^$popup
 ||nehodyshy.pro^$popup
 ||neptuntrack.com^$popup
 ||nessainy.net^$popup
@@ -52863,6 +52883,7 @@ tf2r.com#@#.adverts
 ||qz496amxfh87mst.com^$popup
 ||r-tb.com^$popup
 ||r3adyt0download.com^$popup
+||r3f.technology^$popup
 ||ranchauthorization.com^$popup
 ||rantsbroug.biz^$popup
 ||razdvabm.com^$popup
@@ -53008,6 +53029,7 @@ tf2r.com#@#.adverts
 ||slashstar.net^$popup
 ||slaydesperatelyimmensely.com^$popup
 ||slidecaffeinecrown.com^$popup
+||slideff.com^$popup
 ||slikslik.com^$popup
 ||slimsk.pro^$popup
 ||slimspots.com^$popup,third-party
@@ -53060,6 +53082,7 @@ tf2r.com#@#.adverts
 ||srv-ad.com^$popup
 ||srv2trking.com^$popup
 ||srvbytrking.com^$popup
+||srvpcn.com^$popup
 ||srvpub.com^$popup
 ||ssl2anyone3.com^$popup
 ||stagetortoiseinfatuated.com^$popup
@@ -54629,6 +54652,7 @@ tf2r.com#@#.adverts
 ||d18g6t7whf8ejf.cloudfront.net^
 ||d18mealirgdbbz.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
+||d192r5l88wrng7.cloudfront.net^
 ||d1a3jb5hjny5s4.cloudfront.net^
 ||d1ac2du043ydir.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
@@ -63857,22 +63881,26 @@ ubmcmm.baidustatic.com
 ||byfft.top^
 ||byqiu.xyz^
 ||caimei.me^
+||cckb.online^
 ||cdweikebaba.xin^
 ||ce33m7.com^
 ||cheynewalk.com^
 ||china-india.wang^
+||cjwtkm.cn^
 ||clear7.love^
 ||cnglish.site^
 ||colour5.top^
 ||cosyroom.biz^
 ||csztzc.com^
 ||cwphgqu.cn^
+||cytrd0.site^
 ||dabaicai.ink^
 ||daibu.me^
 ||danaoren.shop^
 ||dhrfnyw.xyz^
 ||dididi.love^
 ||dkxobcs.cn^
+||dokawd.cn^
 ||dwchenzlforever.love^
 ||dxzky.love^
 ||dyjcydn.cloud^
@@ -63892,6 +63920,7 @@ ubmcmm.baidustatic.com
 ||gfdh56.site^
 ||gfnormal00aa.com^
 ||gfnormal00aj.com^
+||gfnormal00an.com^
 ||gfvip06ab.com^
 ||gfvip06af.com^
 ||gfvip06al.com^
@@ -63903,6 +63932,7 @@ ubmcmm.baidustatic.com
 ||ghhtt.top^
 ||gnaunbiu.rest^
 ||gnbunbiv.rest^
+||gncunbiw.rest^
 ||gocyghol.vip^
 ||gogpix.cn^
 ||goldnfh.com^
@@ -63926,6 +63956,8 @@ ubmcmm.baidustatic.com
 ||htgsbk.top^
 ||huodong.press^
 ||hzxlly.com^
+||iceplant.hk^
+||ifdcvns.cn^
 ||ifvpetu.cn^
 ||igiene.club^
 ||iirpvchv.cn^
@@ -63949,6 +63981,7 @@ ubmcmm.baidustatic.com
 ||klj4rw.site^
 ||kmvbre.com^
 ||krkcryk.cn^
+||ksadrewrty.com^
 ||kzecc.com^
 ||l14.xyz^
 ||l45.xyz^
@@ -63964,6 +63997,7 @@ ubmcmm.baidustatic.com
 ||ling07.icu^
 ||lingke03.top^
 ||liuzhen.love^
+||ljmzugo.cn^
 ||lknmnnr.xyz^
 ||lmcraft.pw^
 ||lomo.cool^
@@ -63988,6 +64022,7 @@ ubmcmm.baidustatic.com
 ||nfhtech.com^
 ||nfpplus.com^
 ||nfqhome.com^
+||nfwtime.com^
 ||nfwvip.com^
 ||nfzplus.com^
 ||niuspykmn.bar^
@@ -64012,6 +64047,7 @@ ubmcmm.baidustatic.com
 ||qqwxi.xyz^
 ||qsxfsp.shop^
 ||rofvjko.cn^
+||rowemfg.com^
 ||rqkfhquz.cn^
 ||rrkky.top^
 ||scardetect.cn^
@@ -64049,6 +64085,7 @@ ubmcmm.baidustatic.com
 ||uquholhm.cn^
 ||uu99k.com^
 ||uyzdcun.cn^
+||veadmin.com^
 ||very010.com^
 ||vhlret.cn^
 ||viswcnb.cn^
@@ -64087,7 +64124,9 @@ ubmcmm.baidustatic.com
 ||xyxhtyy.cn^
 ||yaomuzhubao.com^
 ||yctrs.top^
+||ydhwhz.cn^
 ||yeyuly.love^
+||yhz18.com^
 ||yimi1818.xyz^
 ||yiuspekmn.bar^
 ||ykghl.top^
@@ -64113,19 +64152,6 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
-||ydhwhz.cn^
-||ifdcvns.cn^
-||ksadrewrty.com^
-||dokawd.cn^
-||rowemfg.com^
-||iceplant.hk^
-||cjwtkm.cn^
-||cytrd0.site^
-||gfnormal00an.com^
-||gncunbiw.rest^
-||ljmzugo.cn^
-||cckb.online^
-||nfwtime.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -78358,6 +78384,7 @@ kt51.com,nfstar.net##.bottom_fixed
 13tv.top,freehao123.com##.box
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 enread.com##.box > ul[style="width:100%;overflow:hidden;"]
+hao123.sh##.box-banner
 114la.com,ylmf.com##.box-hot
 pconline.com.cn##.box-jcz
 dl.pconline.com.cn##.box-push
@@ -83937,7 +83964,7 @@ smjb.net##div[style*="height: 50%"]
 ||ysxs8.vip/js/play_db.js
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
-||zhhbqg.com/ee/
+||zhhbqg.com/rr/
 ||zhuishubox.com/js/after-rain.js
 ###asdw3
 ###asdw3 + img + :not(div)
@@ -100418,6 +100445,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tumi.com/4i06uv8M/init.js
 ||twentytwowords.com/static/clients/twentytwowords/3CVQBi14_init.js
 ||upwork.com/Ss13U803/init.js
+||urbanoutfitters.com/0N3XMOl0/init.js
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
 ||wayfair.com/px/client/main.min.js
@@ -113643,6 +113671,7 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 waust.at
 ||btsow.bar/app/jav$image
 jads.co
+|https://$script,subdocument,3p,domain=btsow.bar|dandanzan10.top|nunuyy1.org
 !btsow.bar##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 age.tv,agemys.cc##+js(noeval-if, devtoolsDetector)
@@ -113655,10 +113684,7 @@ dandanzan10.top,nunuyy1.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan10.top,nunuyy1.org##+js(set,mozRTCPeerConnection,null)
 dandanzan10.top,nunuyy1.org#@#+js(nowebrtc)
 dandanzan10.top,nunuyy1.org##.gm-fp-body video:style(max-height:100%!important)
-adx1.com
 aqours.today
-envyindebted.com
-in-page-push.com
 mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
@@ -113668,32 +113694,17 @@ netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 4kya.com###player_pause
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
-geoparker.net
-uxrpkgh.cn
-anquanzhuomian.com
-btyou.com
-bmbaike.cn
 ch-hr12333.com
-chushoushijian.cn
 cppoc.com
-cqqc3.com
-g1c5.com
-ieeod0.com
+geoparker.net
 jinrongwang.net
 onenews.vip
-qdwght.com
-qfnoyix.cn
 quickapp.cn
 v4dwkcv.com
 weizhenwx.com
-xixiqiu.com
 youle55.com
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
 ||nooen.com^$popup
 bixinlive.com
 quandangdang.net
-@@||union.bokecc.com/player
-||bokecc.com/flash/playlog?
-||click.bokecc.com/
-||imedia.bokecc.com/
