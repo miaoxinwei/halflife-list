@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NQ2EmTTADbsBtIJ0qZ+3YQ
+! Checksum: UTkXNZ1l002ErffjK8VSaw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207110949
-! Last Modified: 2022年07月11日 09:49
+! Version: 202207111424
+! Last Modified: 2022年07月11日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2266,6 +2266,11 @@ ubmcmm.baidustatic.com
 ||iceplant.hk^
 ||cjwtkm.cn^
 ||cytrd0.site^
+||gfnormal00an.com^
+||gncunbiw.rest^
+||ljmzugo.cn^
+||cckb.online^
+||nfwtime.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -30173,6 +30178,7 @@ m.babytree.com##script + a[class]
 /yell-analytics-
 /yell-analytics.
 /yna_stat.
+/youtubeVideoAnalytic.js
 /ystat.do
 /ystat.js
 /yt-track-streamer
@@ -35910,6 +35916,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ukw.jp^$third-party
 ||uncn.jp^$third-party
 ||wonder-ma.com^$third-party
+||zerostats.com^$third-party
 ||ziyu.net^$third-party
 ||zucks.net^$third-party
 ||acrosspf.com^$third-party
@@ -38277,6 +38284,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||upt.graphiq.com^
 ||uptime.com/static/rum/$third-party
 ||uriports.com/reports/$third-party
+||urldefense.com^$image,third-party
 ||usercentrics.eu/session/$image
 ||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
@@ -50799,6 +50807,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ln.ameba.jp^
 ||log.suumo.jp^
 ||logql.yahoo.co.jp^
+||m-oo-m.com/data/report/
 ||measure.ameblo.jp^
 ||nhk.or.jp^*/bc.js
 ||nikkei.com/.resources/tracking/
