@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: i4m6jcabe3HaiuYBp5N08Q
+! Checksum: NH5TsQdoryA6AQiEl52VRg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207110220
-! Last Modified: 2022年07月11日 02:20
+! Version: 202207110949
+! Last Modified: 2022年07月11日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9075,6 +9075,7 @@ _800x80_
 ###ad-banner-atf
 ###ad-banner-body-top
 ###ad-banner-bottom
+###ad-banner-btf
 ###ad-banner-desktop
 ###ad-banner-image
 ###ad-banner-lock
@@ -13662,6 +13663,11 @@ _800x80_
 ###div-id-for-interstitial-ad
 ###div-insticator-ad-1
 ###div-insticator-ad-2
+###div-insticator-ad-3
+###div-insticator-ad-4
+###div-insticator-ad-5
+###div-insticator-ad-6
+###div-insticator-ad-9
 ###div-social-ads
 ###div-vip-ad-banner
 ###div-web-ad-billboard
@@ -24523,6 +24529,8 @@ _800x80_
 ##.channelBoxAds
 ##.channel_ad_2016
 ##.channel_brand_ad
+##.chapter-bottom-ads
+##.chapter-top-ads
 ##.chart_ads
 ##.chartad
 ##.chartlist-row--interlist-ad
@@ -33385,6 +33393,7 @@ tf2r.com#@#.adverts
 ||accedebuzz.com^
 ||accedednews.com^
 ||accedenonre.club^
+||acceptabletally.com^
 ||acckwmhi.com^
 ||acclaimrecommendation.com^
 ||accoladethoroughly.com^
@@ -47154,6 +47163,7 @@ tf2r.com#@#.adverts
 ||tcatholicyclea.com^
 ||tcdnwha.com^
 ||tcoekdwnuveaisk.com^
+||tcpcharms.com^
 ||tcppu.com^
 ||td553.com^
 ||td563.com^
@@ -54141,6 +54151,7 @@ tf2r.com#@#.adverts
 ||appdevsecrets.com/images/nuts/
 ||appnext-a.akamaihd.net^
 ||apps.media-lab.ai^
+||aspencore.com/syndication/v3/partnered-content/
 ||assets.sheetmusicplus.com^$third-party
 ||autodealer.co.za/inc/widget/
 ||autotrader.ca/result/AutosAvailableListings.aspx?
@@ -56598,6 +56609,7 @@ audioz.download###PromoHead
 sciencealert.com###Purch_D_R_0_1
 fortune.com###RightRailFlex_Articles0
 calculatorsoup.com###RightSidebar
+edn.com###SideBarWrap
 soapcalc.net###SidebarLeft
 daringfireball.net###SidebarMartini
 soapcalc.net###SidebarRight
@@ -56686,7 +56698,7 @@ classic97.net,lagostalks.com###banner1
 classic97.net,lagostalks.com###banner2
 gamesfree.com###banner300
 metric-conversions.org###bannerSpace
-planetanalog.com###bannerWrap
+edn.com,planetanalog.com###bannerWrap
 webtoolhub.com###banner_704_134
 webtoolhub.com###banner_719_105
 today.az###banner_750x90
@@ -57347,6 +57359,7 @@ capetownmagazine.com###top-leader-wrapper
 thegazette.com###top-leaderboard
 gogetaroomie.com###top-space
 imassera.com###top-sponsor
+progameguides.com###top-sticky-sidebar-container
 dotesports.com,gamepur.com###top-sticky-sidebar-wrapper
 nytimes.com,nytimes3xbfgragh.onion###top-wrapper
 danpatrick.com###topBannerContainer
@@ -64083,6 +64096,14 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||ydhwhz.cn^
+||ifdcvns.cn^
+||ksadrewrty.com^
+||dokawd.cn^
+||rowemfg.com^
+||iceplant.hk^
+||cjwtkm.cn^
+||cytrd0.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -111166,11 +111187,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||alkosto.engine.adglare.net^$script,xmlhttprequest,domain=alkosto.com|ktronix.com
 @@||app.clarity.so^$~third-party
 @@||calo.extole.io^$script,xmlhttprequest,domain=refer.calo.app
+@@||cbsi.map.fastly.net^
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
+@@||wwwimage-tve.cbsstatic.com^
 @@||api.nyda.pro^$websocket
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
 @@||szukajka.tv/szukaj|$~third-party,xmlhttprequest
