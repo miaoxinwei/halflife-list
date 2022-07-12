@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4uY8w6tkr3Ve4OY96crDdg
+! Checksum: OvqeAxeomIUr/g/wEIngow
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207121422
-! Last Modified: 2022年07月12日 14:22
+! Version: 202207122038
+! Last Modified: 2022年07月12日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -4279,7 +4279,6 @@ tieba.baidu.com##.tuijian-wrap
 /curlad.
 /curveball/ads/*
 /custads/*
-/custom/ads
 /custom/doubleclick/*
 /custom11x5ad.
 /custom_ads.
@@ -14060,6 +14059,9 @@ _800x80_
 ###fusionad
 ###fw-advertisement
 ###fwAdBox
+###fwdevpDiv0
+###fwdevpDiv1
+###fwdevpDiv2
 ###g-adblock2
 ###gAds
 ###gBnrAd
@@ -22012,6 +22014,7 @@ _800x80_
 ##.adserving
 ##.adset
 ##.adsfloat
+##.adsfloatpanel
 ##.adsforums
 ##.adsghori
 ##.adsgrd
@@ -32780,6 +32783,7 @@ tf2r.com#@#.adverts
 !---------------------------Third-party advertisers---------------------------!
 ||006a039c957c142bb.com^
 ||00aaa2d81c1d174.com^
+||01d0c91c0d.com^
 ||0210bb49cd.com^
 ||0265331.com^
 ||02aa19117f396e9.com^
@@ -34371,6 +34375,7 @@ tf2r.com#@#.adverts
 ||aoredi.com^
 ||ap-srv.net^
 ||ap3lorf0il.com^
+||apartslimlettuce.com^
 ||aparvibices.com^
 ||apathylahuli.website^
 ||apbxnqbhd.com^
@@ -34954,6 +34959,7 @@ tf2r.com#@#.adverts
 ||barnabaslinger.com^
 ||barneysunsharp.com^
 ||baronrydaters.com^
+||barreraxyloid.com^
 ||barricadefurrydrinks.com^
 ||bars2show.com^
 ||barscreative1.com^
@@ -35231,6 +35237,7 @@ tf2r.com#@#.adverts
 ||binderyjenna.website^
 ||bingooverdosegroom.com^
 ||biniprobit.com^
+||binmenkollast.com^
 ||binsaiwo.net^
 ||bionicskamsins.com^
 ||biosda.com^
@@ -35327,6 +35334,7 @@ tf2r.com#@#.adverts
 ||bluestreak.com^
 ||blueswordksh.com^
 ||bluffrebuke.com^
+||bluntedhalvah.com^
 ||blurredtiredom.com^
 ||bmcdn1.com^
 ||bmcdn2.com^
@@ -36499,6 +36507,7 @@ tf2r.com#@#.adverts
 ||conditionwildest.com^
 ||condles-temark.com^
 ||condolecourtesywry.com^
+||condoledownright.com^
 ||condolencespicturesquetracks.com^
 ||condolencesquakeyourselves.com^
 ||condolencessumcomics.com^
@@ -39014,6 +39023,7 @@ tf2r.com#@#.adverts
 ||galaks.io^
 ||galampgab.com^
 ||galegawhich.com^
+||galileirice.com^
 ||galkama.info^
 ||gallantoutskirts.com^
 ||gallanttortoiseassemble.com^
@@ -43926,6 +43936,7 @@ tf2r.com#@#.adverts
 ||pejqoq4cafo3bg9yqqqtk5e6s6.com^
 ||peltingcatwood.com^
 ||pendingvillashells.com^
+||pendulumkeg.com^
 ||pendulumtemporary.com^
 ||penitentiaryoverdosetumble.com^
 ||penjazzvice.com^
@@ -44204,6 +44215,7 @@ tf2r.com#@#.adverts
 ||pleasedpicklewinning.com^
 ||pleastindustress.xyz^
 ||pleatcisele.cam^
+||plebiancairn.com^
 ||plehimselves.info^
 ||pleionlungees.com^
 ||plenomedia.com^
@@ -45969,6 +45981,7 @@ tf2r.com#@#.adverts
 ||saunasupposedly.com^
 ||saurelunbitt.com^
 ||sautemoo.net^
+||sautreesned.com^
 ||sauwonie.com^
 ||saviourketonic.com^
 ||savouryliaison.com^
@@ -46145,6 +46158,7 @@ tf2r.com#@#.adverts
 ||serving-sys.com^
 ||serving-system.com^
 ||servtraff97.com^
+||sesameasterisk.com^
 ||seskeu3zk7.com^
 ||setemoump.com^
 ||setflooded.cam^
@@ -58545,6 +58559,7 @@ nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
 allnurses.com##.ipsAreaBackground
+1tamilmv.click##.ipsCarousel
 allnurses.com##.ipsSpacer_both
 alibaba.com##.is-creative
 mydramalist.com##.is-desktop
@@ -58634,6 +58649,7 @@ gpfans.com##.leaderboardbg
 ubergizmo.com##.leaderboardcontainer
 northernstar.info,theprospectordaily.com##.leaderboardwrap
 dnsleak.com##.leak__submit
+homehound.com.au##.left-banner
 republicbroadcasting.org##.left-sidebar-padder > #text-8
 gogetaroomie.com##.left-space
 10minutemail.net##.leftXL
@@ -64178,6 +64194,8 @@ ubmcmm.baidustatic.com
 ||gndunbix.rest^
 ||yelmlrq.cn^
 ||666683.xyz^
+||uwdspsh.cn^
+||yinxi888.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -82060,7 +82078,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@_370x270.$domain=bairuitool-cn.aliyun-hk03.hicheng.net
 @@_ads_cpc_$domain=90lover.cn
 @@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn|youranshare.com
-@@_pic_cpm_$domain=52xkdy.com
+@@_cpm_ads_$domain=52xkdy.com
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
