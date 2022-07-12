@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RPM+lihN+iD/o61peoL+ug
+! Checksum: 24kA0E+tn7L5W7+TgIP21w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207120222
-! Last Modified: 2022年07月12日 02:22
+! Version: 202207120956
+! Last Modified: 2022年07月12日 09:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2256,6 +2256,10 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||hkedve.cn^
+||ixihet.cn^
+||v34ffs.site^
+||fjlpyz.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -30847,6 +30851,7 @@ _mongo_stats/
 ||mors22.com^
 ||mt48.net^
 ||n0909.com^
+||native-track.com^
 ||niblewren.co^
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
@@ -31124,6 +31129,7 @@ _mongo_stats/
 ||analitits.com^$third-party
 ||analitycs.net^$third-party
 ||analoganalytics.com^$third-party
+||analytically.net^$third-party
 ||analyticschecker.com^$third-party
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
@@ -31577,6 +31583,7 @@ _mongo_stats/
 ||decdna.net^$third-party
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
+||deep-content.io^$third-party
 ||deep.bi^$third-party
 ||deepattention.com^$third-party
 ||deepchannel.com^$third-party
@@ -39585,6 +39592,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
+||adblockeronstreamtape.xyz/stat/
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
@@ -40841,6 +40849,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.finn.no^
 ||cmp.huffingtonpost.fr^
+||cmp.lavie.fr^
+||cmp.lemonde.fr^
+||cmp.lepoint.fr^
 ||cmp.netzwelt.de^
 ||cmp.nouvelobs.com^
 ||cmp.tech426.com^
