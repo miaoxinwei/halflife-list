@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MTumZRKTwSZhibEimVCdRw
+! Checksum: 4uY8w6tkr3Ve4OY96crDdg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207120956
-! Last Modified: 2022年07月12日 09:56
+! Version: 202207121422
+! Last Modified: 2022年07月12日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -17226,6 +17226,7 @@ _800x80_
 ###zMSplacement6
 ###zag_square_ad
 ###zdcFloatingBtn
+###zeus_top-banner
 ###zone-adsense
 ###zoneAdserverMrec
 ###zoneAdserverSuper
@@ -57448,6 +57449,7 @@ browserleaks.com###vpn_text
 ettvcentral.com###vpnvpn
 censor.net###w1001
 censor.net###w1031
+w2g.tv###w2g-square-ad
 eeweb.com###wallpaper_image
 everythingrf.com###walltrack
 realclearhistory.com###warning_empty_div
@@ -57728,7 +57730,7 @@ motor1.com##.apb
 ebay.com##.app-rtm-pid-wrapper
 classicfm.com##.apple_music
 adn.com##.arcad-feature
-1news.co.nz,boston25news.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsoctv.com##.arcad_feature
+1news.co.nz,boston25news.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsbtv.com,wsoctv.com##.arcad_feature
 whatculture.com##.area-x__large
 arstechnica.com##.ars-component-buy-box
 ggrecon.com##.artSideBgBox
@@ -59507,8 +59509,7 @@ c19-worldnews.com##.vmagazine-medium-rectangle-ad
 fastpic.ru##.vright
 vaughn.live##.vs_v75_MvnAbvsLowerThirdWrapper
 ebook-searcher.com##.w-100
-w2g.tv##.w2g-cas-ad
-w2g.tv##.w2g-dub-ad
+androidpolice.com##.w-pencil-banner
 userscript.zone##.w300
 goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
@@ -59596,6 +59597,7 @@ tekdeeps.com##.zAzfDBzdxq3
 ign.com##.zad
 windows101tricks.com##.zanui-container
 thehackernews.com##.zoho-box
+bellinghamherald.com##.zone-el
 gab.com##[aria-label*="Sponsored:"]
 swarajyamag.com##[class*="page-top-adv-wrapper"]
 thetimes.co.uk##[class*="responsiveweb__NativeAd"]
@@ -64171,6 +64173,11 @@ ubmcmm.baidustatic.com
 ||ixihet.cn^
 ||v34ffs.site^
 ||fjlpyz.cn^
+||hust.cx^
+||meilmei.xyz^
+||gndunbix.rest^
+||yelmlrq.cn^
+||666683.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -99824,6 +99831,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nzpages.co.nz/modules/common/track.js
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
+||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
 ||ophan.theguardian.com^
 ||optimize-stats.voxmedia.com^
@@ -111240,6 +111248,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||wplogout.com/wp-content/uploads/*Google$image,~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
+@@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com^*/Comcast.SelfService.Sitecatalyst.js
 @@||xumo.com/xumocdn/*/beacon?$domain=roku.com
 @@||yimg.com^*/ywa.js$domain=nydailynews.com|travelscream.com|yahoo.com
