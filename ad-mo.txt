@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e3fXRSokLeozjP9BFltIgg
+! Checksum: 0NdwP23ryv0AvA2FYMB2zA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207140954
-! Last Modified: 2022年07月14日 09:54
+! Version: 202207141423
+! Last Modified: 2022年07月14日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -30289,6 +30289,7 @@ _800x80_
 ##.tnt-ads
 ##.tnt-ads-container
 ##.tnt-dmp-reactive
+##.tnw-ad
 ##.toaster-ad
 ##.today-ad-imu
 ##.today-ad-rec
@@ -55530,7 +55531,7 @@ tf2r.com#@#.adverts
 ||api.fw.tv^
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
 ||boomselljamwelunch.com^
-||brid.tv^$script,domain=67hailhail.com|deepdaledigest.com|forevergeek.com|geordiebootboys.com|hammers.news|hitc.com|molineux.news|nottinghamforest.news|rangersnews.uk|realitytitbit.com|spin.com|tbrfootball.com|thechelseachronicle.com|thefocus.news|thewrap.com
+||brid.tv^$script,domain=67hailhail.com|deepdaledigest.com|forevergeek.com|geordiebootboys.com|hammers.news|hitc.com|molineux.news|nottinghamforest.news|rangersnews.uk|realitytitbit.com|spin.com|tbrfootball.com|thechelseachronicle.com|thefocus.news|thewrap.com|washingtonexaminer.com
 ||c.jsrdn.com^$script,domain=muscleandfitness.com
 ||cdn.ex.co/player/
 ||channelexco.com/player/$third-party
@@ -57084,6 +57085,7 @@ yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.co
 bendsource.com,federalnewsnetwork.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 thescore.com##.Ad__container--2fhQb
 stadiumastro.com##.Ads
+alternativeto.net##.AdsenseAd_putFood__h0Ah0
 iogames.onl##.Adv
 audiokarma.org,audizine.com##.AdvallyTag
 iogames.onl##.Advc
@@ -63816,6 +63818,11 @@ ubmcmm.baidustatic.com
 ||czwdzcm.cn^
 ||songdongdong.love^
 ||xuxjaqp.cn^
+||gfnormal00ah.com^
+||666722.xyz^
+||551vip.xyz^
+||jphfqq.cn^
+||wanyi.pw^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
