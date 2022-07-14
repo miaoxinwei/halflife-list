@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3CfT/xE4LzmYkf5O1DdQeQ
+! Checksum: t7OhP3c5rCiJ/nH09Jonmg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207140220
-! Last Modified: 2022年07月14日 02:20
+! Version: 202207140954
+! Last Modified: 2022年07月14日 09:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31392,6 +31392,8 @@ _800x80_
 ##[href*=".engine.adglare.net/"]
 ##[href*=".zlinkm.com/"]
 ##[href*="incentrev.com/"] img
+##[href="https://masstortfinancing.com"] img
+##[href="https://ourgoldguy.com/contact/"] img
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://clicks.totemcash.com/"]
 ##[href^="http://globsads.com/"]
@@ -31424,6 +31426,7 @@ _800x80_
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://go.astutelinks.com/"]
+##[href^="https://goldforyourfuture.com/clk.trk"] img
 ##[href^="https://ilovemyfreedoms.com/landing-"]
 ##[href^="https://infinitytrk.com/"]
 ##[href^="https://istlnkcl.com/"]
@@ -31448,6 +31451,8 @@ _800x80_
 ##[href^="https://turtlebids.irauctions.com/"] img
 ##[href^="https://v.investologic.co.uk/"]
 ##[href^="https://wct.link/"]
+##[href^="https://www.avantlink.com/click.php"] img
+##[href^="https://www.brighteonstore.com/products/"] img
 ##[href^="https://www.dcpodj3k5.com/"]
 ##[href^="https://www.herbanomic.com/"] > img
 ##[href^="https://www.hostg.xyz/aff_c"] > img
@@ -46659,6 +46664,7 @@ tf2r.com#@#.adverts
 ||stoakrig.net^
 ||stoashou.net^
 ||stolytipse.com^
+||stompimp.net^
 ||stonordersity.xyz^
 ||stoolapostlecarbon.com^
 ||stoopcram.com^
@@ -48730,6 +48736,7 @@ tf2r.com#@#.adverts
 ||whopexesho.pro^
 ||whoseuntruelag.com^
 ||whouledu.com^
+||whouseem.com^
 ||whoutsiy.net^
 ||whoutsog.net^
 ||whowhipi.net^
@@ -50419,6 +50426,7 @@ tf2r.com#@#.adverts
 ||globsads.com^$third-party
 ||goember.com^$third-party
 ||gogvo.com^$third-party
+||goload.click^$third-party
 ||goodfungame.com^$third-party
 ||googletrackmanager.com^$third-party
 ||goraps.com^$third-party
@@ -56903,6 +56911,7 @@ bnnbloomberg.ca###promotions
 rightmove.co.uk###propertyplayer
 frequence-radio.com###pub_listing_top
 skyrock.com###pub_up
+elevationmap.net###publift_home_billboard
 unogs.com###purevpninfo
 howtogermany.com###quaranvino
 unfair.co###r_sidebarwidgeted
@@ -63915,6 +63924,10 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||vdzzauf.cn^
+||czwdzcm.cn^
+||songdongdong.love^
+||xuxjaqp.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -80044,7 +80057,7 @@ affyun.com##.text ~ a
 chineseinla.com##.text-ads-col
 baidu.com##.text-advertise
 fastadmin.net##.text-center > .carousel
-1010dy.vip##.text-center[style]
+1010dy1.com##.text-center[style]
 baidu.com##.text-link-ads
 auto-online.com.tw##.text_links_h
 jiyingw.vip##.textwidget > p > a > img
@@ -80713,7 +80726,7 @@ bigear.cn##a[href^="/?module=dantian&"]
 x6d.com,xd0.com,xiaodao0.com##a[href^="/ad."]
 vk922.com##a[href^="/ad/"]
 ziyuanba.com##a[href^="/ago."]
-1010dy.vip##a[href^="/go"]
+1010dy1.com##a[href^="/go"]
 szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
@@ -110601,7 +110614,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cdn-ds.com/analytics/dfa.js$script,domain=tuttleclickgenesis.com
 @@||cdn-ds.com/analytics/sockjs.js$script,domain=tuttleclickgenesis.com
 @@||cdn-net.com/cc.js$script,domain=butterfieldonline.com|uber.com|ubereats.com
-@@||cdn.akamai.steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
@@ -110911,6 +110923,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
+@@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||store.usps.com/media/js/metrics/metrics.js$~third-party
 @@||supertaxi.com/webclient/scripts/tracking/tracking.js$script,~third-party
 @@||support.brother.com^*/js/analytics.js$script,~third-party
@@ -113427,9 +113440,12 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 waust.at
 ||btsow.bar/app/jav$image
 jads.co
-|https://$script,subdocument,3p,domain=btsow.bar|dandanzan10.top|nunuyy1.org
+|https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy1.org|rarbgprx.org
 !btsow.bar##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
+statsy.net
+||dyncdn.me/static/20/js/showads.js$script
+||dyncdn.me/static/20/js/expla$script
 age.tv,agemys.cc##+js(noeval-if, devtoolsDetector)
 ||toutiaoimg.com/origin/$image,domain=mgtv1.tv|agemys.cc|acgndmku.com|subaibaiys.com
 cdn.sosrom.cn
