@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HrC7/X14Mv+r0qBOAcfzew
+! Checksum: gaK8a/ZbbvkKhTAQh/i3Xw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207151422
-! Last Modified: 2022年07月15日 14:22
+! Version: 202207152037
+! Last Modified: 2022年07月15日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -31373,6 +31373,7 @@ _800x80_
 ##a[href*=".incontro-veloce.com/"]
 ##a[href*=".medgoodfood.com/"]
 ##a[href*=".zlink9.com/"]
+##a[href*="//lkstrck2.com/"]
 ##a[href="//rufflycouncil.com/"]
 ##a[href^="//agacelebir.com/"]
 ##a[href^="//benoopto.com/"]
@@ -40319,6 +40320,7 @@ tf2r.com#@#.adverts
 ||irtyf.com^
 ||irvuyekrdga.com^
 ||isawaalphol.casa^
+||isbnrs.com^
 ||iscosta.ru^
 ||isdbjvok.xyz^
 ||isdlvtgikrpw.com^
@@ -55552,6 +55554,7 @@ tf2r.com#@#.adverts
 ||fqtag.com^$third-party
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
+||g.ibtimes.sg/sys/js/minified-video.js
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
@@ -59882,6 +59885,7 @@ digitaltrends.com##.dtvideos-container[data-provider="jwplayer"]
 comicbook.com##.embedVideoContainer
 taskandpurpose.com##.empire-unit-prefill-container
 europeanpharmaceuticalreview.com##.europ-fixed-footer
+ibtimes.sg##.featured_video
 thestar.co.uk##.gOoqzH
 gamesradar.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 southernliving.com##.karma-sticky-rail
@@ -60335,6 +60339,7 @@ porndroids.com##.abcnn___video-units
 cambb.xxx,chaturbate.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,thehun.net,tiktits.com,uflash.tv,xcafe.com##.ad
 kemono.party,pinflix.com##.ad-container
 xtube.com##.adContainer
+ftopx.com##.add-block
 sex3.com##.add-box
 playvids.com##.add_href_jsclick
 babesandstars.com,cam-video.xxx,gosexy.mobi,hog.tv,javseen.tv,mobilepornmovies.com,mypornstarbook.net,pichunter.com,thisav.com##.ads
@@ -62491,6 +62496,7 @@ ubmcmm.baidustatic.com
 ||ssh.*.com^*!$script,third-party
 !------------------------General element hiding rules-------------------------!
 ###Ad_windows
+##A[href*="/register/?i_code="] > img
 ###ChapterView > .slide-baidu
 ###Layeraa1
 ###Layeraa2
@@ -63077,7 +63083,6 @@ ubmcmm.baidustatic.com
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
-##a[href*=".com/register/?i_code="] > img
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
 ~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
@@ -63086,7 +63091,6 @@ ubmcmm.baidustatic.com
 ##a[href*="/?intr="]
 ##a[href*="/Register?a="]
 ##a[href*="/ads/adscenter."]
-##a[href*="/entry/register/?i_code="]
 ##a[href*=":10443/"] > img[src$="gif"]
 ##a[href*="?channelCode="] > img[src*=".com:"]
 ##a[href*="?invite_code="] > img[src*=".com"]
@@ -63147,7 +63151,6 @@ ubmcmm.baidustatic.com
 ##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
-##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -63845,6 +63848,17 @@ ubmcmm.baidustatic.com
 ||gnhunbia.rest^
 ||liutt.online^
 ||outrepublicanshelf.com^
+||32258228.com^
+||xox8863.com^
+||884352.com^
+||u0083.com^
+||bob5379.com^
+||byznb.xyz^
+||777753.net^
+||998k.at^
+||hxcrlt.cn^
+||changchunyitian.online^
+||666723.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -70529,7 +70543,6 @@ ubmcmm.baidustatic.com
 ||yzytb.com^
 ||z-xiao.xyz^
 ||z2blog.com^$third-party
-||z4a.net^
 ||zacao.wang^
 ||zaitouwang.com^
 ||zaixianweiyuanchuang.cn^
@@ -75852,6 +75865,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||z4a.net/images/2022/05/12/pNOqhb.gif
+||aliyuncs.com/gg/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -85579,6 +85594,7 @@ fqsousou.com,kengso.com#@#.user-share
 /comscore_pageview
 /comscore_ping
 /comscore_stats.
+/ComscoreAnalytics.
 /comscorebeacon.
 /comscorepageviewcomscorekw=
 /ComScorePlugin.
@@ -85756,6 +85772,7 @@ fqsousou.com,kengso.com#@#.user-share
 /datacapture/track
 /datacollectcode?
 /datadome/*
+/DatazoomAnalytics.
 /DavplusAnalytics.
 /dbdm-events.
 /dbdm-events/*
@@ -86410,6 +86427,7 @@ fqsousou.com,kengso.com#@#.user-share
 /googletag.js
 /googletagmanager.js
 /googletagmanager_backend.js
+/googletagmanageranalytics.
 /googleTagManagerTrackEvent.
 /googletrack.js
 /googleTracker.
@@ -86796,6 +86814,7 @@ fqsousou.com,kengso.com#@#.user-share
 /KISSmetricsTrackCode.
 /kiwip.js
 /klaviyo_analytics.
+/KochavaAnalytics.
 /kontera.js
 /konterayahoooo.
 /kooomo.tracker.
@@ -92030,6 +92049,7 @@ _mongo_stats/
 ||pureairhits.com^$third-party
 ||purevideo.com^$third-party
 ||pushauction.com^$third-party
+||pushspring.com^$third-party
 ||pvd.to^$third-party
 ||pxaction.com^$third-party
 ||pxf.io^$image,script,third-party
@@ -99765,6 +99785,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.gateio.ch^
 ||stats.hd24.watch^
 ||stats.ibtimes.co.in^
+||stats.ibtimes.sg^
 ||stats.justpaste.it^
 ||stats.pandora.com^
 ||stats.paste2.org^
@@ -110880,6 +110901,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||tw.cx/c?a=$xmlhttprequest,domain=justwatch.com
 @@||udottraffic.utah.gov/javascripts/Piwik.js
 @@||uefa.com/inc/js/core/projects/statistics/statistics.js?$script
+@@||ultimaterewardspoints.chase.com/web-analytics/ur-reporting.js$~third-party
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||unpkg.com/@optimizely/optimizely-sdk$script,domain=talktalk.co.uk
 @@||usbank.com^*/adrum.js?$~third-party
