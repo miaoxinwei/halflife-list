@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: acZ4Tjh/leBQPzrcOqqRuQ
+! Checksum: HrC7/X14Mv+r0qBOAcfzew
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207151002
-! Last Modified: 2022年07月15日 10:02
+! Version: 202207151422
+! Last Modified: 2022年07月15日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2084,7 +2084,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adman.$domain=~adman.com|~adman.ee|~adman.press.pl|~adman.studio
 /adman/*
 /adman_
-/admanager.$~object,domain=~admanager.alzura.com|~admanager.google.com
+/admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com
 /admanager/*$~object,domain=~konograma.com
 /admanager3.
 /admanager_$domain=~konograma.com
@@ -2831,6 +2831,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsbanner.
 /adsbanner/*
 /adsbannerjs.
+/adsBlob/*
 /adsbox.$~script,domain=~adsbox.com.sg|~adsbox.in
 /adsby.
 /adsbytenmax.
@@ -34372,6 +34373,7 @@ tf2r.com#@#.adverts
 ||asccdn.com^
 ||ascdwiah.com^
 ||asce.xyz^
+||ascensionpatterbearable.com^
 ||ascertaincrescenthandbag.com^
 ||ascertainedfortnight.com^
 ||ascraftan.com^
@@ -40278,6 +40280,7 @@ tf2r.com#@#.adverts
 ||ioiylgyf.com^
 ||ionakasulba.xyz^
 ||ioniamcurren.com^
+||ioniaukmla.xyz^
 ||ionisestriller.com^
 ||iople.com^
 ||ioredi.com^
@@ -40862,6 +40865,7 @@ tf2r.com#@#.adverts
 ||kindlyfeebleremembered.com^
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
+||kingwitheaa.lol^
 ||kingyonlendir.link^
 ||kinkledunendly.com^
 ||kinkydisplacelate.com^
@@ -45096,6 +45100,7 @@ tf2r.com#@#.adverts
 ||resortinspireresolution.com^
 ||resourceagrarianhavoc.com^
 ||respectfulcoal.com^
+||respectfullysavvy.com^
 ||respectivepreservation.com^
 ||respondhq.com^
 ||responservbzh.icu^
@@ -63835,6 +63840,11 @@ ubmcmm.baidustatic.com
 ||mywei.love^
 ||gfnormal07ae.com^
 ||bdzkrl.cn^
+||l7kuyg.site^
+||dcfh7vk.cn^
+||gnhunbia.rest^
+||liutt.online^
+||outrepublicanshelf.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -90114,6 +90124,7 @@ _mongo_stats/
 ||ldnlyap.com^
 ||leadhit.io^
 ||liadm.com^
+||lite-cdn.com^
 ||liveyield.com^
 ||lltrck.com^
 ||loloclicks.biz^
@@ -110687,6 +110698,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||lacoste.com^*/click-analytics.js$~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
+@@||leanplum.com^$domain=arkadium.com
 @@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
@@ -110703,7 +110715,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=bandai-hobby.net|elgato.com|filld.com|ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|driftinnovation.com|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
-@@||maxmind.com^*/geoip2.js$domain=boostedboards.com|donorschoose.org|elgato.com|fallout4.com|filld.com|ibanez.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
+@@||maxmind.com^*/geoip2.js$domain=boostedboards.com|donorschoose.org|elgato.com|fallout4.com|filld.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||metrics.torproject.org^$~third-party
 @@||mlbstatic.com/mlb.com/adobe-analytics/$script,domain=mlb.com
 @@||moengage.com/v2/$xmlhttprequest,domain=olx.com.lb
