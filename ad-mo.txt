@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n2AuY9AX0z+iATPmWDL3Qg
+! Checksum: OVGN17o1gwWx1wGtp15nlg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207160949
-! Last Modified: 2022年07月16日 09:49
+! Version: 202207161421
+! Last Modified: 2022年07月16日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60155,6 +60155,8 @@ haveibeenpwned.com##.bodyGradient>:-abp-has(.why1Password)
 instacart.com#?#.css-zlyu1d:-abp-contains(Sponsored)
 instacart.com#?#.css-1pc1srv-ItemCardHoverProvider:-abp-has(.css-cieada-SponsoredProductBadge)
 instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-ads-badge="Sponsored"])
+instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sp-badge="Sponsored"])
+instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-spp-badge="Sponsored"])
 instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sppr-badge="Sponsored"])
 instacart.com#?#li[data-testid^="item_list_item_items_19462-"]:-abp-has(span:-abp-contains(Sponsored))
 albertsons.com#?#product-item-v2[class$="product-card-col"]:-abp-has(div[data-qa="prd-itm-spnsrd"])
@@ -63894,6 +63896,11 @@ ubmcmm.baidustatic.com
 ||juhuitongcheng.life^
 ||gfnormal01ae.com^
 ||666724.xyz^
+||topnfq.com^
+||nvqhbij.cn^
+||aqiwxzv.cn^
+||zhangwanwan.online^
+||h56hg7.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -82200,6 +82207,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pttplay.com/js/momo/adsbygoogle.js
+@@||haiwai.com^$generichide
 @@||pub.alimama.com/common/adzone/
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||qiantucdn.com/static/images/adsbygoogle.js
@@ -97855,7 +97863,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2r7bmv6l6bnd1.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2ry9vue95px0b.cloudfront.net^

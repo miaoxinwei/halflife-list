@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UxbWz+yp4s3t2B4jvLZ0yQ
+! Checksum: UqgwSLLZH5QClhls5Qd+YQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202207160949
-! Last Modified: 2022年07月16日 09:49
+! Version: 202207161421
+! Last Modified: 2022年07月16日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2775,6 +2775,11 @@ ubmcmm.baidustatic.com
 ||juhuitongcheng.life^
 ||gfnormal01ae.com^
 ||666724.xyz^
+||topnfq.com^
+||nvqhbij.cn^
+||aqiwxzv.cn^
+||zhangwanwan.online^
+||h56hg7.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -21081,6 +21086,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pttplay.com/js/momo/adsbygoogle.js
+@@||haiwai.com^$generichide
 @@||pub.alimama.com/common/adzone/
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||qiantucdn.com/static/images/adsbygoogle.js
