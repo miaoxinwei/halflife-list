@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dmg+Crh7U1wy+sli+gyLOw
+! Checksum: uUe7u/lyOrVfJfmlXZdU/Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207160222
-! Last Modified: 2022年07月16日 02:22
+! Version: 202207160949
+! Last Modified: 2022年07月16日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -17347,6 +17347,7 @@ _800x80_
 ##.AdCaption
 ##.AdCenter
 ##.AdCommercial
+##.AdCompactheader
 ##.AdContainer
 ##.AdContainer-Banner
 ##.AdContainer-Sidebar
@@ -18257,6 +18258,7 @@ _800x80_
 ##.ad-background
 ##.ad-background-container
 ##.ad-background-intra-body
+##.ad-ban
 ##.ad-banner
 ##.ad-banner-2
 ##.ad-banner-250x600
@@ -32251,6 +32253,7 @@ _800x80_
 ##div[id^="div-gpt-"]
 ##div[id^="ezoic-pub-ad-"]
 ##div[id^="google_dfp_"]
+##div[id^="gpt_ad_"]
 ##div[id^="gtm-ad-"]
 ##div[id^="js-dfp-"]
 ##div[id^="lazyad-"]
@@ -33675,6 +33678,7 @@ tf2r.com#@#.adverts
 ||ads-twitter.com^
 ||ads.rd.linksynergy.com^
 ||ads3-adnow.com^
+||ads4g.pl^
 ||ads5-adnow.com^
 ||adsafeprotected.com^
 ||adsafety.net^
@@ -56781,6 +56785,7 @@ unitconversion.org###ileft
 4f.to,furbooru.org###imagespns
 mydorpie.com###imgbcont
 luxweb.lu###imu
+myjoyonline.com###in-article
 scoop.co.nz###in-cont
 designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
@@ -58432,11 +58437,11 @@ gamedev.net##.mb-3.align-items-center.justify-content-start
 indiatimes.com##.mb-36 > .top-trending
 themoscowtimes.com##.mb-4.py-3
 techbone.net##.mb-5.bg-light
-consumer.org.nz##.mb3
 yardbarker.com##.mb_promo_responsive_right
 helpnetsecurity.com##.mbw
 thestar.com.my##.med-rec
 gamezone.com##.med-rect-ph
+ghanaweb.com##.med_rec_lg_min
 webmd.com##.medianet-ctr
 allmusic.com##.medium-rectangle
 weatherpro.com##.medium-rectangle-wrapper-2
@@ -58683,6 +58688,7 @@ computerweekly.com##.pro-downloads-home
 cosmopolitan.com##.product-buy-button-wrapper
 bgr.com##.product-callout-todays-top-deal
 barnesandnoble.com##.product-commentary-advertisement
+consumer.org.nz##.product-table-header
 ndtv.com##.product_mapping_sticky
 pbs.org##.production-and-funding
 nymag.com##.products-package
@@ -59119,6 +59125,7 @@ ndtv.com##.taboolFeed
 thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se##.taboola-row
 protocol.com##.tag-sponsored
 mdisk.me##.taka-gif-con
+ghanaweb.com##.takeover
 recombu.com##.takeover-right
 shacknews.com##.takeover-skin
 igg-games.com##.taxonomy-description
@@ -59579,6 +59586,7 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 tractorbynet.com##a[href][target="_blank"] > img[class^="attachment-large"]
 mtaeta.info##a[href][target="_blank"] > img[src^="http://storage2.proboards.com/"]
 flaticon.com##a[href^="//www.flaticon.com/edge/redirect?"]
+graphic.com.gh##a[href^="/adverts/"]
 linkhub.icu##a[href^="/downloadnow.php?"]
 limetorrents.pro##a[href^="/leet/?"] > img[src^="/static/images/download"]
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
@@ -60120,7 +60128,6 @@ m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer
 youtube.com##ytd-display-ad-renderer
-youtube.com##ytd-engagement-panel-section-list-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-single-option-survey-renderer
@@ -60314,6 +60321,7 @@ twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promoc
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 unsplash.com#?#.MbNnd:-abp-has(a:-abp-contains(Sponsored))
 wikiprocedure.com#?#div:-abp-contains(/^Advertisement$/)
+winaero.com#?#p:-abp-contains(Advertisement)
 windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"])
 windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
@@ -63993,6 +64001,11 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||rrll.love^
+||qfgall.cn^
+||juhuitongcheng.life^
+||gfnormal01ae.com^
+||666724.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -88302,6 +88315,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sl.gif?1=
 /slimstat/*
 /sluurpy_track.js
+/smart-pixel.min.
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.com|~smartpixel.tv
 /smartrack/*
@@ -93055,6 +93069,7 @@ _mongo_stats/
 ||ztsrv.com^$third-party
 ||zuyapixel.com^$third-party
 ||zuzab.com^$third-party
+||zx-adnet.com^$third-party
 ||0.0.0.1^
 $ping,third-party
 $third-party,xmlhttprequest,domain=opensubtitles.org
