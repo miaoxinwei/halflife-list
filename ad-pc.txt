@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UMaEQRqL7Q9Vv2h/9OOV/A
+! Checksum: wgOb6TA62xeAK6oSymoTUw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207201423
-! Last Modified: 2022年07月20日 14:23
+! Version: 202207202036
+! Last Modified: 2022年07月20日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -21400,6 +21400,7 @@ _800x80_
 ##.ads.MREC3
 ##.ads.MREC4
 ##.ads.bottom
+##.ads.box
 ##.ads.cell
 ##.ads.cta
 ##.ads.grid-layout
@@ -35873,6 +35874,7 @@ tf2r.com#@#.adverts
 ||catgride.com^
 ||cathodecreped.com^
 ||catiligh.ru^
+||cationinina.one^
 ||catnipsdaymen.com^
 ||catsupsfloit.com^
 ||catverticalposterity.com^
@@ -43590,6 +43592,7 @@ tf2r.com#@#.adverts
 ||outtunova.com^
 ||outwhirlipedeer.com^
 ||ouzoadru.net^
+||ovdimin.buzz^
 ||ovemen.com^
 ||ovenbifaces.cam^
 ||overcomecheck.com^
@@ -55734,6 +55737,7 @@ tf2r.com#@#.adverts
 ||smallseotools.com/images/$image,domain=smallseotools.com
 ||smh.com.au/assets/europa.
 ||smn-news.com/images/banners/
+||soap2day.show/ajax/script.php
 ||socket.streamable.com^
 ||softcab.com/google.php?
 ||sonichits.com/tf.php
@@ -58121,6 +58125,7 @@ medicalnewstoday.com##.css-20w1gi
 businessnewsdaily.com##.css-5d7ylg-AdContainer
 stylist.co.uk##.css-8me5ln
 eviemagazine.com##.css-9n98hk
+nytimes.com##.css-bs95eu
 eviemagazine.com##.css-ipk9pc
 eviemagazine.com##.css-re7z9l
 healthline.com##.css-rjh5b
@@ -64316,6 +64321,10 @@ ubmcmm.baidustatic.com
 ||cqdalqx.cn^
 ||neno.ink^
 ||rizlhvb.cn^
+||mnuy56.site^
+||p7lvj09f.shop^
+##a[href*="/6298crsyzh.com:"]
+||igtqora.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76328,6 +76337,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||thisav.com/js/bioep.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zhujiceping.com##aside[id^="custom_html-"]
+zhujiceping.com###footer-widget-box
+zhujiceping.com###text-12
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -90808,6 +90820,7 @@ _mongo_stats/
 ||adinsight.co.kr^$third-party
 ||adinsight.com^$third-party
 ||adinte.jp^$third-party
+||adjust.com^$third-party
 ||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
@@ -110008,6 +110021,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tracking.kussladies.de^
 ||tracking.ladies.de^
 ||tracking.latinaladies.de^
+||tracking.live.wetter.at^
 ||tracking.massierendeladies.de^
 ||tracking.mollyladies.de^
 ||tracking.noen.at^
