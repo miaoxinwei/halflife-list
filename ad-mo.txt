@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uXdEFznwKShi/GtaXv5kkg
+! Checksum: buulbGOIlxKjwWZpv57mWQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207211424
-! Last Modified: 2022年07月21日 14:24
+! Version: 202207212038
+! Last Modified: 2022年07月21日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55294,6 +55294,7 @@ tf2r.com#@#.adverts
 ||animesuge.to/E/aircraftmighty.com/
 ||anisearch.com/amazon
 ||aolcdn.com/ads/$script
+||apkmody.io/ads
 ||apl95.me/js/pop.js
 ||armyrecognition.com/images/stories/customer/
 ||artdaily.cc/banners/
@@ -59054,7 +59055,7 @@ independent.co.uk##.sc-jonzHS
 sankakucomplex.com##.scad
 bangordailynews.com##.scaip
 newindianexpress.com##.scc
-hentaihaven.icu,hentaihaven.xxx,hentaistream.tv##.script_manager_video_master
+hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_video_master
 readmng.com##.scroll_target_top
 9anime.to,tennisuptodate.com##.sda
 apotelyt.com##.sdbrUnit-Flex100
@@ -64278,6 +64279,9 @@ ubmcmm.baidustatic.com
 ||yanyuda.xyz^
 ||xmgdgo.cn^
 ||aongsond.uno^
+||riy9qqfu.xyz^
+||riy9qqfu.club^
+||wohuamanhua.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -82055,6 +82059,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||wuyong.fun^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wuyong.fun
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
