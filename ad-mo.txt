@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: buulbGOIlxKjwWZpv57mWQ
+! Checksum: HRw5oJcJRmFReTu9L+RnRA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207212038
-! Last Modified: 2022年07月21日 20:38
+! Version: 202207220222
+! Last Modified: 2022年07月22日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -11819,12 +11819,14 @@ _800x80_
 ###advert-banner
 ###advert-banner-container
 ###advert-banner-wrap
+###advert-banner2
 ###advert-block
 ###advert-boomer
 ###advert-box
 ###advert-column
 ###advert-container-top
 ###advert-display
+###advert-fireplace
 ###advert-footer
 ###advert-footer-hidden
 ###advert-header
@@ -17353,6 +17355,7 @@ _800x80_
 ##.AdsLinks2
 ##.AdsPlayRight_list
 ##.AdsRec
+##.AdsSections
 ##.AdsSlot
 ##.Ads_3
 ##.Ads_4
@@ -18129,6 +18132,7 @@ _800x80_
 ##.ad-after-content
 ##.ad-after-header
 ##.ad-align-none
+##.ad-alignment
 ##.ad-alsorectangle
 ##.ad-alternative
 ##.ad-amongst-container
@@ -54479,6 +54483,7 @@ tf2r.com#@#.adverts
 ||uploaded.net/img/public/$third-party
 ||utility.rogersmedia.com/wrapper.js
 ||veta.naver.com^
+||vhanime.com/js/bnanime.js
 ||vice-publishers-cdn.vice.com^
 ||vidcrunch.com/integrations/$script,third-party
 ||video-ads.a2z.com^
@@ -56276,6 +56281,9 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||hentaiblue.com/*=eyJ.js
 ||hentaicdn.com/cdn/v2.assets/js/exc
 ||hentaidude.xxx/wp-content/plugins/script-manager/
+||hentaifox.com/dhf.html
+||hentaifox.com/js/ajs.js
+||hentaifox.com/js/slider.js
 ||hentairules.net/eroges.js
 ||hentairules.net/gal/new-gallery-dump-small.gif
 ||hentaiworld.tv/damp-smoke-a62a/
@@ -58586,7 +58594,7 @@ greatbritishlife.co.uk##.lp_track_vertical2
 thestreet.com##.m-balloon-header
 si.com##.m-balloon-header--spacer
 politifact.com##.m-billboard
-si.com##.m-embed
+si.com##.m-detail--feature-spacer
 aol.com##.m-healthgrades
 euronews.com##.m-object--is-branded
 euronews.com##.m-object--is-partner-content
@@ -60442,15 +60450,6 @@ guru99.com#?#.content2:-abp-has(div[id^="div-gpt-ad"])
 guru99.com#?#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 haveibeenpwned.com##.actionsBar:-abp-has(.why1Password)
 haveibeenpwned.com##.bodyGradient>:-abp-has(.why1Password)
-instacart.com#?#.css-zlyu1d:-abp-contains(Sponsored)
-instacart.com#?#.css-1pc1srv-ItemCardHoverProvider:-abp-has(.css-cieada-SponsoredProductBadge)
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(.css-2btcbn-SponsoredProductBadge)
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-ads-badge="Sponsored"])
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sp-badge="Sponsored"])
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-spp-badge="Sponsored"])
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-sppr-badge="Sponsored"])
-instacart.com#?#div[class$="-ItemCardHoverProvider"]:-abp-has(div[data-spr-badge="Sponsored"])
-instacart.com#?#li[data-testid^="item_list_item_items_19462-"]:-abp-has(span:-abp-contains(Sponsored))
 albertsons.com#?#product-item-v2[class$="product-card-col"]:-abp-has(div[data-qa="prd-itm-spnsrd"])
 ksl.com#?#.queue:-abp-has(.sponsored)
 linkedin.com#?#.feed-shared-update-v2:-abp-has(.feed-shared-actor__description:-abp-contains(/Anzeige|Sponsored|Promoted|Dipromosikan|Propagováno|Promoveret|Gesponsert|Promocionado|促銷內容|Post sponsorisé|프로모션|Post sponsorizzato|广告|プロモーション|Treść promowana|Patrocinado|Promovat|Продвигается|Marknadsfört|Nai-promote|ได้รับการโปรโมท|Öne çıkarılan içerik|Gepromoot|الترويج/))
@@ -60607,6 +60606,7 @@ sexyandfunny.com###sexy-links
 javtiful.com###showerm
 3movs.com###side_col_video_view
 adult-sex-games.com,postyourpuss.com###skyscraper
+hentaifox.com###slider
 javfor.tv###smac12403o0
 xbooru.com,xxxymovies.com###smb
 instawank.com###snackbar
@@ -64282,6 +64282,9 @@ ubmcmm.baidustatic.com
 ||riy9qqfu.xyz^
 ||riy9qqfu.club^
 ||wohuamanhua.com^
+||bhujiwwb.top^
+||rggtt.top^
+##a[href*=".greatnff.com/"]
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -71288,6 +71291,8 @@ ubmcmm.baidustatic.com
 ||zzxxli.club^
 ||zzyytt.top^
 !long-term
+||facai383.oss-cn-guangzhou.aliyuncs.com^
+||dmg-dd.oss-accelerate.aliyuncs.com^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||7xi9g1.com1.z0.glb.clouddn.com^
@@ -111135,6 +111140,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||humaninterest.com/api/analytics/$script,~third-party
+@@||hyper.ag/api/sites/*/analytics/$~third-party
 @@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
 @@||identity.mparticle.com^$xmlhttprequest
 @@||idfcbank.com/static/features/*/scripts/FingerPrint.js$script,~third-party
@@ -112413,6 +112419,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||yaozh.com/Public/js/widget/dbAdDownload.
 !------------------------Specific element hiding rules------------------------!
+manmanbuy.com##.app-activity-download
+bilibili.com##.desktop-download-tip
 edrawsoft.cn##.activity-banner
 edrawsoft.cn##.bottom-banner-activity
 zhibo8.cc###popautoapp
