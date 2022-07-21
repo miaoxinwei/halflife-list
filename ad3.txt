@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RIsUh478XMmufyAnpwVZgg
+! Checksum: 6NEvEbytolQSoWHJaif5Xw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207210221
-! Last Modified: 2022年07月21日 02:21
+! Version: 202207210950
+! Last Modified: 2022年07月21日 09:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2410,6 +2410,14 @@ ubmcmm.baidustatic.com
 ##a[href*="/6298crsyzh.com:"]
 ||igtqora.cn^
 ##a[href*=".las88889999.com:"]
+||1e4y54ve.cn^
+||healthcare.ink^
+||tt14q0p2.cn^
+||hv740pyh.cn^
+||2ppgsmeh.cn^
+||otneq.today^
+||l60.xyz^
+||666729.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14422,6 +14430,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||thisav.com/js/bioep.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ypojie.com##.orbui-post-footer
 qq.com,sogou.com##div[class^="page-bottom-banner"]
 zhujiceping.com##aside[id^="custom_html-"]
 zhujiceping.com###footer-widget-box
@@ -51451,6 +51460,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.unity3d.com/services/analytics/$~third-party
+@@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|usa.experian.com
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
