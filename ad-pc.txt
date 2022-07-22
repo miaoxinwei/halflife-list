@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CNdPPaX5zCo14vZmpe01sw
+! Checksum: BSxYKzfUQ1Wo9oyz07yqyQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207221424
-! Last Modified: 2022年07月22日 14:24
+! Version: 202207222035
+! Last Modified: 2022年07月22日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -23561,7 +23561,6 @@ _800x80_
 ##.b5ad_bigbox
 ##.b5ad_skyscraper
 ##.bAdvertisement
-##.b_ad
 ##.b_ad480
 ##.b_adLastChild
 ##.b_ads
@@ -29588,6 +29587,7 @@ _800x80_
 ##.sky_ad
 ##.sky_ad_top
 ##.sky_scraper_ad
+##.skyad
 ##.skycraper-banner-container
 ##.skyjobsadtext
 ##.skyscraper-ad
@@ -57078,6 +57078,9 @@ designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
 wsj.com###in_ad_col_b
 thefastmode.com###inarticlemodule
+planetradio.co.uk###inline-01
+planetradio.co.uk###inline-02
+planetradio.co.uk###inline-03
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###inline-top
 krnb.com###inner-footer
 timesofmalta.com###inscroll-banner
@@ -57750,6 +57753,7 @@ shortlist.com##.align-xl-content-between
 livejournal.com##.allbanners
 silverprice.org##.alt-content
 forecast7.com##.altad
+antimusic.com##.am-center
 music-news.com##.amazon
 bgr.com##.amazon-product-callout
 orschlurch.net##.amazon-wrapper
@@ -58716,6 +58720,7 @@ euronews.com##.m-object--is-branded
 euronews.com##.m-object--is-partner-content
 tech.hindustantimes.com##.m-to-add
 net-load.com##.m7s-81.m7s
+antimusic.com##.mad
 wccftech.com##.main-background-wrap
 ggrecon.com##.mainVenatusBannerContainer
 color-hex.com##.margin10
@@ -59488,7 +59493,7 @@ indy100.com,tiresandparts.net##.top_banner
 joebucsfan.com##.top_banner_cont
 wallpapersmania.com##.top_pad_10
 justjared.com,justjaredjr.com##.top_rail_shell
-roadtests.com##.topad
+antimusic.com,roadtests.com##.topad
 dnaindia.com##.topadd
 axisbank.com##.topbandBg_New
 allmonitors24.com,streamable.com##.topbanner
@@ -59651,6 +59656,7 @@ buzzly.art##.z-10.w-max
 tekdeeps.com##.zAzfDBzdxq3
 ign.com##.zad
 windows101tricks.com##.zanui-container
+antimusic.com##.zerg
 thehackernews.com##.zoho-box
 bellinghamherald.com##.zone-el
 gab.com##[aria-label*="Sponsored:"]
@@ -64411,6 +64417,12 @@ ubmcmm.baidustatic.com
 ||ccpvmjh.cn^
 ||yvajogj.cn^
 ||zkgvsoo.cn^
+||zxiaochun.site^
+||musan.love^
+||obnpazq.cn^
+||bengbaly.fun^
+||wpqmiq.cn^
+||jmking.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76425,6 +76437,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+hk01.com##.md\:min-h-\[90px\]
+hao.qq.com,123.sogou.com##.guess
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -79308,7 +79322,6 @@ gasaq.com##.guanggao_ime_big
 downhot.com##.guans
 daohang.qq.com##.guess
 hao123.com##.guess-recommend
-hao.qq.com##.guess.m
 guokr.com##.guokr-layer-beforelogin
 eweiqi.com##.guoqing
 wanyx.com##.gx_box
@@ -83099,6 +83112,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
 !#BaiduUnion
 ?*=*=*=$subdocument,domain=00cha.com|01fy.cn|06ps.com|08160.cn|0s.net.cn|10000xing.cn|100how.com|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|120ask.com|16xx8.com|192ly.com|1ppt.com|1ting.com|201980.com|21hubei.com|23yy.com|263y.com|2hanju.com|2liang.net|315hyw.com|32r.com|32xp.com|360changshi.com|360doc.cn|360zuowen.com|39.net|4aqq.com|5000yan.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52wubi.com|52zxw.com|5djiaren.com|5h.com|5nd.com|5seestar.com|64foot.com|66law.cn|7y7.com|800400.net|86huoche.com|8794.cn|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|99.com.cn|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|annhe.net|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|b2b168.com|b2b6.com|babihu.com|baicaolu.net|baotang5.com|baoxianzx.com|bbdj.com|bendibao.com|bianzhile.com|blog.sina.cn|boosj.com|bu-shen.com|bytravel.cn|c1km4.com|chajiaotong.com|chazidian.com|china.com|chinacar.com.cn|chinakaoyan.com|chinawj.com.cn|chuiyue.com|cidianwang.com|cjcp.com.cn|cnbanbao.cn|cncn.com|cnkang.com|cnlinfo.net|coozhi.com|cr173.com|csai.cn|cyyangqiguan.com|d17.cc|d1xz.net|daquan.com|dayfund.cn|dgzj.com|diangon.com|ditiezu.com|diyifanwen.com|diyju.com|dugoogle.com|dxsbb.com|eastday.com|enterdesk.com|exam58.com|fangdaijisuanqi.com|faxingzhan.com|friok.com|fun48.com|game234.com|gaosan.com|gaotie.cn|gucheng.com|gugu5.com|guidaye.com|gulongbbs.com|gushiwen.cn|hc23.com|hqhot.com|huangye88.com|hxnews.com|hydcd.com|icauto.com.cn|idongde.com|isanxia.com|ixinwei.com|ixiunv.com|jeasyui.net|jf258.com|jianbihua.com|jianbihuadq.com|jinbaodm.com|jingdianlaoge.com|jintang114.org|jj20.com|jy135.com|kdslife.com|latiaozixun.net|liuxue86.com|m.douban.com|makepolo.com|mama.cn|meishij.net|mipcache.bdstatic.com|miyudaquan.com|mmyuer.com|nanhuwang.com|oh100.com|pansoso.com|phb123.com|pig66.com|pikacn.com|pingguolv.com|pingshu8.com|ppzuowen.com|qcrx.cn|qcwxjs.com|qizuang.com|qm120.com|qncye.com|qqzhi.com|quwenqushi.com|riji.cn|riji100zi.com|rr95.com|ruiwen.com|sc115.com|shadafang.com|shangc.net|shenchuang.com|souid.com|ssqzj.com|szdushi.com.cn|szhk.com|tvmao.com|uzuzuz.com|weather.com.cn|webshu.net|wenkuxiazai.com|wenshenxiu.com|wenzhangba.com|wmxa.cn|woyaogexing.com|xiachufang.com|xiangha.com|xiao84.com|xiaole8.com|xiegw.cn|xywy.com|xzbu.com|yanyue.cn|yaozui.com|yellowurl.cn|yiqig.cn|yiyouliao.com|yjbys.com|yuwenmi.com|yxlady.com|yyrtv.com|zdface.com|zhifure.com|zhongyoo.com|zixuntop.com|ziyuanm.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net|zuoyesou.com
+||a.zuowenku.net^
 ||003store.com^
 ||0512s.com^$third-party
 ||1.01fy.cn^
@@ -110986,6 +111000,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||logsbin.dantri.com.vn^
 ||pixel.coccoc.com^
 ||stats.muasamcong.gov.vn^
+||tka.tiki.vn/pixel/
 ||track-srv.vietnamnet.vn^
 /ping.gif?$domain=gamestar.de
 ||gamestar.de/_misc/tracking/$domain=gamestar.de
