@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FoWMzXsRCdNPqh6l8d+74g
+! Checksum: DuhQ/2HjjAlcbwnRqVOjUw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207222035
-! Last Modified: 2022年07月22日 20:35
+! Version: 202207230223
+! Last Modified: 2022年07月23日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60306,6 +60306,7 @@ youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
 youtube.com##.ytd-promoted-video-renderer
 youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytd-video-masthead-ad-primary-video-overlay-renderer
 youtube.com##.ytd-video-masthead-ad-v3-renderer
 youtube.com##.ytp-ad-action-interstitial-background-container
 youtube.com##.ytp-ad-action-interstitial-slot
@@ -64311,6 +64312,11 @@ ubmcmm.baidustatic.com
 ||bengbaly.fun^
 ||wpqmiq.cn^
 ||jmking.cn^
+||twjsx.cn^
+||sttcc.top^
+##a[href*=".onazs.com/"]
+||xnxonbf.cn^
+||wlhcb.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -99859,6 +99865,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lastminute.com/service/track/
 ||lastminute.com^*/metrics
 ||lastpass.com/dist/scripts/analyticsjs
+||ledger-enquirer.com/lz-isbnoyo/pdp.gif?
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||lexology.com/pd.js
