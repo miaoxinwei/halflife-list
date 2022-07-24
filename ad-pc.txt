@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M8BDt1KSZSNSS3DLFCJ6dg
+! Checksum: Wh9ZepUzlVwrue7KHHLCFg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207240957
-! Last Modified: 2022年07月24日 09:57
+! Version: 202207241422
+! Last Modified: 2022年07月24日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -64483,6 +64483,15 @@ ubmcmm.baidustatic.com
 ||hfwzbp.cn^
 ##a[href*=".5250.cn"]
 ##a[href*="/akmh047.vip"]
+||vongsond.uno^
+||taipingyang.hk^
+||otownx.xyz^
+||msjj.tech^
+||cengbalx.fun^
+||wqprtyg.cn^
+||sxieqbu.cn^
+||dfsvhv88.com^
+||666734.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -110989,6 +110998,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||xapi.ozon.ru^
 ||xray.mail.ru^
 ||yandex.ru/clck/click
+||yandex.ru/clck/counter
 ||yandex.ru/clck/jclck/
 ||yandex.ru/log?
 ||yast.rutube.ru^
