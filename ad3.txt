@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pGjFYbXwXtvfDmI/UJSFcw
+! Checksum: R2kjfQzw4YiYQ3dw8UkLxw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207250221
-! Last Modified: 2022年07月25日 02:21
+! Version: 202207250952
+! Last Modified: 2022年07月25日 09:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2491,6 +2491,13 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||qrnmyn.cn^
+||xinyuejiayuan.com^
+||tongsone.uno^
+||ojgtbs.cn^
+||eeoqsr.cn^
+||666735.xyz^
+||3dcn.me^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -26604,6 +26611,7 @@ m.babytree.com##script + a[class]
 /counter/?*&ref=
 /counter/?*&referer=
 /counter/?type=
+/counter/acnt.php?
 /counter/action_
 /counter/article?
 /counter/ashow/*
@@ -31140,6 +31148,7 @@ _mongo_stats/
 ||test.vast^
 ||the-ozone-project.com^
 ||thefontzone.com^
+||tncid.app^
 ||trackclicks.info^
 ||trkbc.com^
 ||tru.am^
@@ -39372,6 +39381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||er.sanoma-sndp.fi/stats/
 ||inpref.s3.amazonaws.com^$third-party
 ||insight.fonecta.fi^
+||nelonenmedia.fi/logger/
 ||tags.op-palvelut.fi^
 ||vine.eu/track/
 ||links.boom.ge^
@@ -39572,6 +39582,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.cizion.com^
 ||log.mofa.go.kr^
 ||log.targetpush.co.kr^
+||logs-partners.coupang.com^
 ||megadata.co.kr^
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
@@ -52098,6 +52109,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
+@@||userneeds.com^$domain=foreca.fi
 @@||widgets.spklw.com/v1/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 !---------- Hebrew ----------
