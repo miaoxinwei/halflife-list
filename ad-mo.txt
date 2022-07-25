@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n6d12WUcvXFxMpvzvTU3vw
+! Checksum: ltkCcgdUP3HA4KeIOTWEPg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207251424
-! Last Modified: 2022年07月25日 14:24
+! Version: 202207252038
+! Last Modified: 2022年07月25日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -12899,6 +12899,7 @@ _800x80_
 ###buySellAds
 ###buysellads
 ###buysellads-4x1
+###bww-advertising-popup-overlay
 ###c-adzone
 ###c4_ad
 ###c4ad-Middle1
@@ -24253,6 +24254,7 @@ _800x80_
 ##.bvi-ads
 ##.bvp-ad
 ##.bwm_widget_ad_callout
+##.bww-advertising-ad-container
 ##.bx-ads
 ##.bx-ads--banner
 ##.bx_ad
@@ -32131,7 +32133,6 @@ _800x80_
 ##div[data-id-advertdfpconf]
 ##div[data-insertion]
 ##div[data-mediatype="advertising"]
-##div[data-module="cookie-manager-dialog"]
 ##div[data-mpu1]
 ##div[data-native-ad]
 ##div[data-native_ad]
@@ -64417,6 +64418,10 @@ ubmcmm.baidustatic.com
 ||3dcn.me^
 ||jhkj.work^
 ||vfcwij.cn^
+||rlojitu.xyz^
+||pnrqz.xyz^
+||ppcwzry.cn^
+||cfkkdhs.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76430,6 +76435,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+jinbaodm.com##div[id^="a-loading"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -111209,6 +111215,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||decision.taplytics.com^$domain=royalbank.com
+@@||dev.visualwebsiteoptimizer.com/j.php$script,domain=wakefit.co
+@@||dev.visualwebsiteoptimizer.com/web/$script,domain=wakefit.co
 @@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
 @@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
@@ -111471,6 +111479,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||store.usps.com/media/js/metrics/metrics.js$~third-party
 @@||supertaxi.com/webclient/scripts/tracking/tracking.js$script,~third-party
 @@||support.brother.com^*/js/analytics.js$script,~third-party
+@@||survey.userneeds.com^$subdocument,domain=foreca.com|forecaweather.com
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie
@@ -111752,7 +111761,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
-@@||userneeds.com^$domain=foreca.fi
+@@||survey.userneeds.com^$subdocument,domain=foreca.fi
 @@||widgets.spklw.com/v1/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 !---------- Hebrew ----------
