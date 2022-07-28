@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JK9pFYxQORowaDNz/jz80w
+! Checksum: nUDAqIXgL2/ddoxv1Mj51Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207280949
-! Last Modified: 2022年07月28日 09:49
+! Version: 202207281422
+! Last Modified: 2022年07月28日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -17141,6 +17141,7 @@ _800x80_
 ###zone_a_ad
 ###zone_b_ad
 ###zone_c_ads
+###zsAdvertisingBanner
 ###zztextad
 ##.-advertsSidebar
 ##.AD-POST
@@ -64535,6 +64536,13 @@ ubmcmm.baidustatic.com
 ||ertdsi.cc^
 ||iczgls.cn^
 ||8kuwoyi.xyz^
+||fyyqq.top^
+##a[href*=".gnn8lgui.com/"]
+||gfnormal01aj.com^
+||zlreqxe.xyz^
+||fengbalo.fun^
+||woma.site^
+||gass.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -110379,6 +110387,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.shop.hisense.com^
 ||api.baike.sogou.com/dr/p1.gif?
 ||applog.yiche.com^
+||audit.qiuwen.wiki^
 ||autohome.com.cn/deliver?
 ||autohome.com.cn/impress?
 ||autohome.com.cn/realdeliver?
@@ -111293,7 +111302,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||circuitv.com/assets/js/analytics.js$~third-party
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
-@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=winnipegfreepress.com
+@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|winnipegfreepress.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair2.resmed.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
@@ -112082,6 +112091,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJ.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJCore.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
+@@||fiat.com.br^*/analytics.min.js$~third-party
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
