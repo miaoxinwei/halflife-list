@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nHmCgjc5rCL2Bgy8OXea4Q
+! Checksum: 7QrEezVwg3sFtws9x0bPdA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207292037
-! Last Modified: 2022年07月29日 20:37
+! Version: 202207300223
+! Last Modified: 2022年07月30日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59684,6 +59684,7 @@ premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
 drphil.to##.wpfp_custom_popup
 sashares.co.za##.wppopups-whole
 theregister.com##.wptl
+windowsreport.com##.wr-marketing-cta-alt
 memeburn.com,ventureburn.com##.wrapper--grey
 paultan.org##.wrapper-footer
 wsj.com##.wsj-ad-label
@@ -64628,6 +64629,8 @@ ubmcmm.baidustatic.com
 ##a[href*=".hldbld.com/"]
 ||sdfafds6.com^
 ||103.21.91.144^
+||hozzs.hk^
+||mxwgt.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
