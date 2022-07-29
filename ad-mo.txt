@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0WRi6ddFWGfZ3oOTog/VSA
+! Checksum: wq/I5TCGswOXnLcI/stLyQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207290958
-! Last Modified: 2022年07月29日 09:58
+! Version: 202207291424
+! Last Modified: 2022年07月29日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32449,6 +32449,7 @@ _800x80_
 ##.taboola_advertising
 ##.taboola_blk
 ##.taboola_block1
+##.taboola_container
 ##.taboola_lhs
 ##.tncls_taboola
 ##.trb_taboola
@@ -32716,7 +32717,7 @@ badoinkvr.com#@#a[href^="https://badoinkvr.com/"]
 xbdeals.net#@#a[href^="https://click.linksynergy.com/"]
 naughtyamerica.com#@#a[href^="https://natour.naughtyamerica.com/track/"]
 bookworld.no#@#a[href^="https://ndt5.net/"]
-legacy.com#@#a[href^="https://pubads.g.doubleclick.net/"]
+legacy.com,topper.com.br#@#a[href^="https://pubads.g.doubleclick.net/"]
 privateinternetaccess.com#@#a[href^="https://www.privateinternetaccess.com/"]
 marcpapeghin.com#@#a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
 politico.com#@#a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -62030,6 +62031,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||portalbici.es^*-advertisement.$~third-party,xmlhttprequest
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
+@@||pubads.g.doubleclick.net/gampad/$image,domain=topper.com.br
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 @@||s0.2mdn.net/ads/studio/Enabler.js$domain=yuukinohana.co.jp
@@ -62049,6 +62051,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||strangermeetup.com/socket.io/$~third-party
 @@||tabiat.gov.tr/KACMS/Files/ad-$image,~third-party
 @@||tcm-koko.ed.jp/images/ad.jpg
+@@||tpc.googlesyndication.com/simgad/$image,domain=topper.com.br
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||trj.valuecommerce.com/vcushion.js
 @@||tubecorp.com/vs/vs.js$domain=hentaihd.xyz
@@ -64605,6 +64608,12 @@ ubmcmm.baidustatic.com
 ||aihkjz.cn^
 ||efangcdn.com^
 ||codegeass.site^
+||opxnwz.shop^
+##a[href*=".pesqfmu.cn"]
+||vkygseu.cn^
+||mzwfrp.cn^
+||anshengshenghuo.fun^
+||jrnrpma.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -112161,7 +112170,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
 @@||fiat.com.br^*/analytics.min.js$~third-party
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
-@@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt
+@@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|topper.com.br|tugatech.com.pt
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
