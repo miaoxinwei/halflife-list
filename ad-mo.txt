@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4Blz69fhQl0HPAMeJyrVjA
+! Checksum: 0WRi6ddFWGfZ3oOTog/VSA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202207290224
-! Last Modified: 2022年07月29日 02:24
+! Version: 202207290958
+! Last Modified: 2022年07月29日 09:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -37925,7 +37925,6 @@ tf2r.com#@#.adverts
 ||ekgloczbsblg.com^
 ||ekmas.com^
 ||ekrvemsgktkcihp.com^
-||eksiup.com^
 ||ekskbldmgjhfvl.com^
 ||ekttkwbkfbr.com^
 ||elasticad.net^
@@ -50634,6 +50633,7 @@ tf2r.com#@#.adverts
 ||egadvertising.com^$third-party
 ||egamingonline.com^$third-party
 ||egamiplatform.tv^$third-party
+||eksiup.com^$third-party
 ||elefantsearch.com^$third-party
 ||ematicsolutions.com^$third-party
 ||emberads.com^$third-party
@@ -57229,7 +57229,7 @@ livestreamfails.com###oranum_livefeed_container_0
 electronicproducts.com,powvideo.net,streamplay.to###overlay
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
-animexin.xyz###overplay
+animexin.xyz,animexinax.com###overplay
 modthesims.info###pagenavigation > div > small
 seeklogo.com###panelAdShutterStockPromo
 hwbot.org###partner-tiles
@@ -64598,6 +64598,13 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||ryumrc.cn^
+||dongsonn.uno^
+||354664.top^
+||oqfdan.cn^
+||aihkjz.cn^
+||efangcdn.com^
+||codegeass.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -112263,6 +112270,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
 @@||segundamano.mx^*/tealium.js
+@@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
 @@||tccrestify-dot-tcc-cloud.appspot.com/tracking/$domain=tcc.com.co
 @@||vodgc.net^*/genoa-event-tracking.min.js
 !---------- Swedish ----------

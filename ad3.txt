@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TsYsH02A0fbaDyoUl83uLw
+! Checksum: Q+ZIghQZ6Tmnx6CsnOwr+A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207290224
-! Last Modified: 2022年07月29日 02:24
+! Version: 202207290958
+! Last Modified: 2022年07月29日 09:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2574,6 +2574,13 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||ryumrc.cn^
+||dongsonn.uno^
+||354664.top^
+||oqfdan.cn^
+||aihkjz.cn^
+||efangcdn.com^
+||codegeass.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -52515,6 +52522,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
 @@||segundamano.mx^*/tealium.js
+@@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
 @@||tccrestify-dot-tcc-cloud.appspot.com/tracking/$domain=tcc.com.co
 @@||vodgc.net^*/genoa-event-tracking.min.js
 !---------- Swedish ----------
