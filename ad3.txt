@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: E+I4GkryWXexJvQg+HwAkQ
+! Checksum: rwxlQ91xH3PbxZ1PR7Naow
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207300223
-! Last Modified: 2022年07月30日 02:23
+! Version: 202207300949
+! Last Modified: 2022年07月30日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2598,6 +2598,15 @@ ubmcmm.baidustatic.com
 ||103.21.91.144^
 ||hozzs.hk^
 ||mxwgt.cn^
+||srurzn.cn^
+||qongsonw.uno^
+||fhaixh.cn^
+||oslixj.cn^
+##a[href*=".uqubsb.com/"]
+||chuntian.buzz^
+||asuijm.cn^
+||hengbalp.fun^
+||tianmenshan.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -47535,7 +47544,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||dialogue.nl.mazda.be^
 ||diamages.carte-gr.total.fr^
 ||digital-engineering.de^
-||digital.att.com^
 ||digitalworkplace.ricoh.fr^
 ||direct.colfondos.co^
 ||directoryzcb.carte-gr.total.fr^
