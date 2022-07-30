@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QTc89t9pZVzkFjTiEiPExg
+! Checksum: 2OtblqouGWLLvXBYJ0G+7w
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202207300949
-! Last Modified: 2022年07月30日 09:49
+! Version: 202207301421
+! Last Modified: 2022年07月30日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -142,6 +142,7 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 waust.at
 ||btsow.bar/app/jav$image
 jads.co
+|https://tellme.pw/go/jav$popup
 |https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy1.org|rarbgprx.org
 !btsow.bar##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
@@ -2607,6 +2608,15 @@ ubmcmm.baidustatic.com
 ||asuijm.cn^
 ||hengbalp.fun^
 ||tianmenshan.top^
+||eiykmtb.cn^
+||wsuxjqr.cn^
+||chengdayong.in^
+||zoujitea.hk^
+||xiatian.buzz^
+||uhyhdrh.cn^
+||gz7pz.com^
+||supanchor.co^
+||atixxzd.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
