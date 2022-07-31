@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e6rq9W51ASSp37AGIfaNWA
+! Checksum: OwAj8Zf5YTlrpPbkoFpXow
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202207311421
-! Last Modified: 2022年07月31日 14:21
+! Version: 202207312032
+! Last Modified: 2022年07月31日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -61778,6 +61778,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||martinfowler.com/articles/asyncJS.css$stylesheet,~third-party
+@@||media.kijiji.ca/api/$image,~third-party
 @@||mediaalpha.com/js/serve.js$domain=goseek.com
 @@||mirror.co.uk^*/prebid-test.js$script,~third-party
 @@||mobygames.com/images/covers/$image,~third-party
@@ -63639,8 +63640,6 @@ ubmcmm.baidustatic.com
 ##.top_func_ad
 ##.toy52_outer
 ##.toy52apparel_ALL
-##.trad1
-##.trad3
 ##.twavt-ads
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.uk-width-1-1.adbox
@@ -63831,6 +63830,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".91lu001.com/"]
 ##a[href*=".9xiazaiqi.com"]
 ##a[href*=".ad222.xyz"]
+##.player-rm > a[target="_blank"]
 ##a[href*=".ahhxwavi.cn"]
 ##a[href*=".aiyou305.com/"]
 ##a[href*=".aiyouxi31.com"]
@@ -63838,7 +63838,6 @@ ubmcmm.baidustatic.com
 ##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".ayx300.com/"]
-##a[href*=".bayiyy.com/download."]
 ##a[href*=".betbar168.net"]
 ##a[href*=".birthcaker.cn"]
 ##a[href*=".c43066a9.com"]
@@ -63895,7 +63894,6 @@ ubmcmm.baidustatic.com
 ##a[href*=".sandebg.com/"]
 ##a[href*=".sjzbqnxx.com/"]
 ##a[href*=".sky1818.net"]
-##a[href*=".tbb168.com"]
 ##a[href*=".tea123.me"]
 ##a[href*=".thejierou.net"]
 ##a[href*=".ttz5.cn"]
@@ -64781,6 +64779,14 @@ ubmcmm.baidustatic.com
 ||kfejnjs.cn^
 ||rongxin.biz^
 ||wsyqkmk.cn^
+||prjwqs.xyz^
+##a[href*=".tsguozikeji.cn"]
+##a[href*="/ihezu.run"]
+||rkcdmve.cn^
+||jiezoiq.cn^
+||dongtian.buzz^
+||abbc.cc^
+||aymtdcg.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -70380,7 +70386,6 @@ ubmcmm.baidustatic.com
 ||uballcc.com^
 ||ubcpm.com^$third-party
 ||ubxqerc.cn^
-||uc138.com^$third-party
 ||uc4a.cn^
 ||uc610.com^
 ||uctrac.com^$third-party
@@ -70923,7 +70928,6 @@ ubmcmm.baidustatic.com
 ||xiarikui08.com^
 ||xiayk.cn^
 ||xieyanmin.com.cn^
-||xigeweb.com^$third-party
 ||xihua.me^
 ||xihuangdushu.com^
 ||xiituvt.top^
@@ -73790,7 +73794,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||dxg*.com/img/A*.js
 ||dxg*.top/img/A*.js
 ||dxg0070.top/img/
-||dxingdy.com/cdn.*_banner.
 ||dy2018.com/js/tj.js
 ||dy2018.com/js17/
 ||dy2018.com/jsdd/
@@ -76199,7 +76202,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||voc.com.cn/static/web/js/creattwo11.js
 ||vodttdy.com/template/zsy_badian/js/stui_
 ||vrrw.net//templets/default/js/ad.js
-||vsuda.cn/data/upload/20
 ||vupload.duowan.com^
 ||vvvkp.com/template/ttk/img/
 ||vxotu.com/i/*.gif
@@ -76207,7 +76209,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||vzmz.com/template/paody/aaaa/357.js
 ||w010w.com.cn^$subdocument
 ||w3397.com/e/public/onclick/
-||w3school.com.cn/time/202
 ||w51t.com^$subdocument
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wacowla.com/wp-content/plugins/popover/js/
@@ -76230,7 +76231,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||wangzhanmeng.com/link/link.html
 ||wanwan.sina.com.cn/third_party/
 ||wanyx.com/Public/js/fan.js
-||wdjm.com.cn/index.php?m=poster&
 ||wdzj.com/wdzj/images/hezuo/
 ||we560.com/js/*.js
 ||weathercn.com/m_mobile/ad_image/
@@ -76307,7 +76307,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||woyaoq.com/201904100958_5cad4dbac9c5f.png
 ||wples.com/pc/common.js
 ||wqdao.com/xin/
-||wstimes.cn/public/wstimes/js/*ad
 ||wstx.com/api.php?mod=ad&
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
@@ -76528,7 +76527,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yigujin.cn/wp-content/themes/Three/js/yierlin
 ||yiichina.com/images/yisu-
 ||yikeyz.com/pm.js
-||yilongrom.com/file/app_
 ||yimg.com/bf/homerun/ysm_
 ||yimg.com/cv/ae/default/*_STATIC-JPEG_
 ||yimg.com/cv/ae/tw/bwchou/728x210.
@@ -77413,7 +77411,6 @@ news.qq.com###focus-bar
 qq.com###focus_jordon
 fuliba2020.net,fuliba2021.net,fuliba2022.net,uliba.net###focusslide
 bitauto.com###folieAdNews
-w3school.com.cn###foogz
 913e.com###footad_913e
 wdzj.com###footbanner
 jxedt.com###footer
@@ -78054,7 +78051,6 @@ baidu.com###sning3
 159i.com###sop > div:first-child
 ktsf.com###sow-slider-18
 ktsf.com###sow-slider-7
-w3school.com.cn###sp_sidebar
 w3school.com.cn###sp_tiy
 baidu.com###spage-top-banner
 downbank.cn,greenxf.com###speed-download
@@ -78660,7 +78656,7 @@ molure.cn##.adplan
 ifeng.com##.adpubpic
 doc88.com##.adpx250
 gamme.com.tw##.adread
-0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wasu.cn,wdjm.com.cn,wokao.co,yeeyi.com##.ads
+0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wasu.cn,wokao.co,yeeyi.com##.ads
 appinn.com##.ads-m
 360.cn##.ads-pic
 shejidaren.com##.ads-post-foot
@@ -80388,8 +80384,6 @@ hero3g.com##.pcbanner
 chanpindashi.com##.personal-information > a[href^="http"]:not([href*="chanpindashi."])
 265g.com##.phone_bgban
 caikuu.com##.photo_abv
-vsuda.cn,wstimes.cn##.piaofu-left
-vsuda.cn,wstimes.cn##.piaofu-right
 jrj.com.cn##.piboxtwo
 ifeng.com##.pic1000
 ifeng.com##.pic300
@@ -91100,6 +91094,7 @@ _mongo_stats/
 ||liveyield.com^
 ||lltrck.com^
 ||loloclicks.biz^
+||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
 ||mdhv.io^
@@ -100017,6 +100012,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cheezburger.com/api/visitor
 ||cl.canva.com^
 ||clancy.spiceworks.com^
+||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
 ||click.nudevista.com^
 ||click.oneplus.com^
@@ -101040,6 +101036,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ir.ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
+||w-profiling.cibc.com^$script
 /^https?:\/\/(.+?\.)?hardware\.info\/js\/[a-z]{1,}\/[0-9]{4,}\.js/$domain=hardware.info
 ||d276.ourmidland.com^
 ||d810.mysanantonio.com^
@@ -111461,7 +111458,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -114375,7 +114372,7 @@ waust.at
 ||btsow.bar/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy1.org|rarbgprx.org
+|https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy2.org|rarbgprx.org
 !btsow.bar##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 statsy.net
@@ -114386,11 +114383,11 @@ age.tv,agemys.cc##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
-dandanzan10.top,nunuyy1.org##+js(set,RTCPeerConnection,null)
-dandanzan10.top,nunuyy1.org##+js(set,webkitRTCPeerConnection,null)
-dandanzan10.top,nunuyy1.org##+js(set,mozRTCPeerConnection,null)
-dandanzan10.top,nunuyy1.org#@#+js(nowebrtc)
-dandanzan10.top,nunuyy1.org##.gm-fp-body video:style(max-height:100%!important)
+dandanzan10.top,nunuyy2.org##+js(set,RTCPeerConnection,null)
+dandanzan10.top,nunuyy2.org##+js(set,webkitRTCPeerConnection,null)
+dandanzan10.top,nunuyy2.org##+js(set,mozRTCPeerConnection,null)
+dandanzan10.top,nunuyy2.org#@#+js(nowebrtc)
+dandanzan10.top,nunuyy2.org##.gm-fp-body video:style(max-height:100%!important)
 aqours.today
 mediaadjustment.com
 stgowan.com
@@ -114415,3 +114412,4 @@ youle55.com
 ||nooen.com^$popup
 bixinlive.com
 quandangdang.net
+windows.net
