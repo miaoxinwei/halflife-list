@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: blATUv9gVw6ae7QjdUfUbQ
+! Checksum: C1WB7AK319Ah8K/3hg/vVQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208011001
-! Last Modified: 2022年08月01日 10:01
+! Version: 202208011435
+! Last Modified: 2022年08月01日 14:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -64687,6 +64687,11 @@ ubmcmm.baidustatic.com
 ||niunai.buzz^
 ##a[href*=".snmlyshj.com/"]
 ||vkoehsx.cn^
+||eoyqzzk.cn^
+||ctlweb.site^
+||ynyyczx.cn^
+||mifeng.buzz^
+##a[href*=".xyanovo.com/"]
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76693,6 +76698,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+jrlt6.com##a[href^="ad."]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -77425,7 +77431,7 @@ javhope.com###havhope
 chaidu.com,kdslife.com###hb
 macd.cn###hbad
 coolaler.com###hd
-jrlt2.com###hd + .wp
+jrlt6.com###hd + .wp
 gdmm.com###hd > .wp > .module
 hackhw.com,ithome.com###hd_float
 ithome.com###hd_float1
