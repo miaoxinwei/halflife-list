@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: F/G/Y6xgUj5aSvqiJgX8VA
+! Checksum: 8NWeSstP1FY4j53hh0DLUw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208021006
-! Last Modified: 2022年08月02日 10:06
+! Version: 202208021422
+! Last Modified: 2022年08月02日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -624,7 +624,7 @@ tieba.baidu.com##.tuijian-wrap
 -ads_story/
 -adsense2.
 -adserver-
--adserver.$domain=~aqua-adserver.com
+-adserver.$domain=~aqua-adserver.com|~revive-adserver.com
 -adserver/
 -adskin.
 -adslots.
@@ -15911,6 +15911,7 @@ _800x80_
 ###righttop-adverts-container
 ###ringtone-ad-bottom
 ###ringtone-ad-top
+###river_sponsors_hiring
 ###rladvt
 ###rm-adslot-bigsizebanner_1
 ###rm-adslot-contentad_1
@@ -30441,6 +30442,8 @@ _800x80_
 ##.tmg-ad-mpu
 ##.tmiads
 ##.tmnAdsenseContainer
+##.tmo-ad
+##.tmo-ad-ezoic
 ##.tmsads
 ##.tmz-dart-ad
 ##.tn-ads-widget
@@ -41701,6 +41704,7 @@ tf2r.com#@#.adverts
 ||limmatabaculum.com^
 ||limporaltourist.com^
 ||limpstronglyer.com^
+||limulushazard.com^
 ||limurol.com^
 ||linaloabatches.com^
 ||linealmalling.com^
@@ -44114,6 +44118,7 @@ tf2r.com#@#.adverts
 ||pervialinagile.com^
 ||peskyclarifysuitcases.com^
 ||pesshooting.com^
+||pestequitch.com^
 ||pestgermagriculture.com^
 ||pestilenttidefilth.org^
 ||petalonpeery.com^
@@ -48097,6 +48102,7 @@ tf2r.com#@#.adverts
 ||tyingatmosphericprocess.com^
 ||tyiqebrbpxc.com^
 ||tyjawhesu.com^
+||tyjuphiaht.com^
 ||tylistedpro.xyz^
 ||tylosischewer.com^
 ||tymukyno.xyz^
@@ -54940,7 +54946,6 @@ tf2r.com#@#.adverts
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1ybdlg8aoufn.cloudfront.net^
-||d1zgderxoe1a.cloudfront.net^
 ||d1zw85ny9dtn37.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d20l1z9qfxwqa3.cloudfront.net^
@@ -57575,6 +57580,7 @@ firmwarefile.com###spon
 progressillinois.com###sponsor
 meteocentrale.ch###sponsor-info
 newsfirst.lk###sponsored-content-1
+techmeme.com###sponsorposts
 fastseduction.com,geekwire.com,landreport.com,whenitdrops.com###sponsors
 sanjose.com###sponsors-module
 ourworldofenergy.com###sponsors_container
@@ -58777,7 +58783,6 @@ pcgamingwiki.com##.home-gamesplanet-promo
 israelnationalnews.com##.home-subsections-banner
 newagebd.net##.homeSlideRightSecTwo
 pbs.org##.home__logo-pond
-geekwire.com##.home_listing
 carmag.co.za##.homepage-300x250-banner
 smallbusiness.co.uk##.homepage-banner-container
 gumtree.com.au##.homepage-gallery__mrec-placeholder
@@ -58879,6 +58884,7 @@ iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
 weatherpro.com##.large-leaderboard
 democraticunderground.com##.largeleaderboard-container
+onmsft.com##.largerectangle
 restaurants.com##.latad
 tech-latest.com##.lates-art-top
 flava.co.nz,hauraki.co.nz,mixonline.co.nz,thehits.co.nz,zmonline.com##.layout__background
@@ -63270,6 +63276,7 @@ ubmcmm.baidustatic.com
 ~cityheaven.net###gg1
 ###gg300
 ###gg_url
+##.carousel-inner > a[href="/hth.html"]
 ###googleAD1
 ###googleAD2
 ###googleAD3
@@ -64894,6 +64901,10 @@ ubmcmm.baidustatic.com
 ||n0399.com^
 ||u0067.com^
 ||mkqdj.cn^
+||u5ree6.com^
+||propsad.com^
+||zujilife.online^
+||pstdzxu.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -81942,7 +81953,6 @@ gdot.me,sc115.com##script + a
 logo160.com##script + a[href="/"]
 xingkbjm.com##script + div + .excerpt
 xingkbjm.com##script + div + .excerpt + .excerpt
-tvyb02.com##script + div[style="text-align:center;"]
 jianshu.com##section[aria-label="jianshu-ad"]
 bbc.com##section[class*="AdContainer"]
 sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
@@ -100064,6 +100074,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||movetv.com/sa-events
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
 ||mrqls.to/info/
+||msg-intl.qy.net^$image
 ||msn.com/collect/
 ||msn.com/OneCollector/
 ||my.com/v1/hit/
@@ -110263,6 +110274,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics-gw.games.wanmei.com^
 ||analytics.126.net^
 ||analytics.163.com^
+||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
 ||analytics.oneplus.cn^
 ||analytics.shop.hisense.com^
