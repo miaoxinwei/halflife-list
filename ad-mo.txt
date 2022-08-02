@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6OTxg61Qz5tU6L01V6bAPQ
+! Checksum: o/LVdOG9A2OTRG4c7+HDEw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208021422
-! Last Modified: 2022年08月02日 14:22
+! Version: 202208022040
+! Last Modified: 2022年08月02日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1163,6 +1163,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-top/*$~image
 /ad-topbanner-
 /ad-unit-
+/ad-units.
 /ad-updated-
 /ad-utilities.
 /ad-vert.
@@ -17777,6 +17778,7 @@ _800x80_
 ##.UpperAdsContainer
 ##.V7-advert
 ##.V7-advert-info
+##.VPCarbonAds
 ##.VerticalAd
 ##.Video-Ad
 ##.VideoAd
@@ -23356,6 +23358,8 @@ _800x80_
 ##.article__leaderboard-ad
 ##.article_ad
 ##.article_ad250
+##.article_ad_1
+##.article_ad_2
 ##.article_ad_container2
 ##.article_ad_text
 ##.article_ad_top
@@ -33263,6 +33267,7 @@ tf2r.com#@#.adverts
 ||a-b-c-d.xyz^
 ||a-mo.net^
 ||a002803829.com^
+||a050fa4308.com^
 ||a0675c1160de6c6.com^
 ||a06bbd98194c252.com^
 ||a07aea5a17.com^
@@ -35924,6 +35929,7 @@ tf2r.com#@#.adverts
 ||ceeglagu.net^
 ||ceehimur.uk^
 ||ceepq.com^
+||ceeviwep.com^
 ||cehuiy.com^
 ||ceileangsts.com^
 ||ceilidhgrazier.com^
@@ -36900,6 +36906,7 @@ tf2r.com#@#.adverts
 ||d8af4fb8c1.com^
 ||d8d4ab7673.com^
 ||d8fb9b701c.com^
+||d95d7d7060.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
 ||da60995df247712.com^
@@ -36974,6 +36981,7 @@ tf2r.com#@#.adverts
 ||daugloon.net^
 ||daugus.com^
 ||daurmonb.com^
+||davixrpi.com^
 ||dawhomeno.com^
 ||dawmal.com^
 ||dayanygold.com^
@@ -37228,6 +37236,7 @@ tf2r.com#@#.adverts
 ||dhilyjdw.com^
 ||dhkwxpzgvqgr.com^
 ||dhonon.com^
+||dhtbkgcn.top^
 ||dhtmesmxjblb.com^
 ||dhundora.com^
 ||diagnosedifferentlycompute.com^
@@ -37719,6 +37728,7 @@ tf2r.com#@#.adverts
 ||e55cdcbcd2.com^
 ||e5asyhilodice.com^
 ||e5bbd2cdb0.com^
+||e67repidwnfu7gcha.com^
 ||e702fa7de9d35c37.com^
 ||e70ae51a50.com^
 ||e7e776c1a8bf677.com^
@@ -38331,6 +38341,7 @@ tf2r.com#@#.adverts
 ||eyesightladsregiment.com^
 ||eyevfswxtcij.com^
 ||eyeviewads.com^
+||eyfvklgx.com^
 ||ezeraf.com^
 ||ezexfzek.com^
 ||ezhefg9gbhgh10.com^
@@ -39602,6 +39613,7 @@ tf2r.com#@#.adverts
 ||gvt2.com^
 ||gwallet.com^
 ||gwrstksnxo.xyz^
+||gwrtheyrn-rot.com^
 ||gwwhheahisrtld.com^
 ||gx101.com^
 ||gxdthwdtcfo.xyz^
@@ -39918,6 +39930,7 @@ tf2r.com#@#.adverts
 ||hkbrrwxnijhnfg.com^
 ||hkeynjiwpgvfzr.com^
 ||hkhnmasegg.com^
+||hkmurfdpe.top^
 ||hkoxlirf.com^
 ||hkqgavlx.com^
 ||hledoziequt.com^
@@ -40025,6 +40038,7 @@ tf2r.com#@#.adverts
 ||hovoptelo.com^
 ||howeve.com^
 ||howledmintier.com^
+||howoverlapsuspicious.com^
 ||howtubray.com^
 ||hpjhmgip.com^
 ||hpljupfyb.com^
@@ -47160,6 +47174,7 @@ tf2r.com#@#.adverts
 ||syntaxtruckspoons.com^
 ||synthesissocietysplitting.com^
 ||syphilohmmaging.site^
+||syqoqjibiagvo.com^
 ||syrsple2se8nyu09.com^
 ||system-notify.app^
 ||systemleadb.com^
@@ -52380,6 +52395,7 @@ tf2r.com#@#.adverts
 ||guerrilla-links.com^$popup
 ||guro2.com^$popup
 ||gvcaffiliates.com^$popup,third-party
+||gwrtheyrn-rot.com^$popup
 ||gypsyardently.com^$popup
 ||h3lw971ym6.com^$popup
 ||h8vzwpv.com^$popup
@@ -55147,6 +55163,7 @@ tf2r.com#@#.adverts
 ||chaturbate.com/affiliates/$popup
 ||cyberprivacy.pro^$popup
 ||dianomi.com^$popup
+||download-final-step.com^$popup
 ||download-step1.com^$popup
 ||downloadoperagx.com/ef/$popup
 ||eatcells.com/landing/$popup
@@ -56927,6 +56944,7 @@ searchenginereports.net###bio_ep
 searchenginereports.net###bio_ep_bg
 chilltracking.com###blink
 theneworleanstribune.com###block-15
+sharylattkisson.com###block-17
 getthetechnow.com###block-24
 appleworld.today###block-26
 systutorials.com###block-3
@@ -57850,6 +57868,7 @@ f1i.com##.affiche
 hindustantimes.com##.affilaite-widget
 linuxize.com##.affiliate
 express.co.uk##.affiliate-widget
+sharylattkisson.com##.after-entry.widget-area
 paraphraser.io##.after_button_box
 venea.net##.ag_banner
 venea.net##.ag_line
@@ -57875,6 +57894,7 @@ music-news.com##.amazon
 bgr.com##.amazon-product-callout
 orschlurch.net##.amazon-wrapper
 indiatimes.com##.amazonProductSidebar
+americafirstreport.com##.ameri-before-content
 cyberciti.biz##.amp-wp-4ed0dd1
 teslaoracle.com##.amp-wp-539b047
 teslaoracle.com##.amp-wp-53ff299
@@ -59762,6 +59782,7 @@ cryptopolitan.com##.wordp-siderbar-new-theme
 warontherocks.com##.wotr_top_lbjspot
 gamepur.com##.wp-block-dotesports-affiliate-button
 gamenguides.com,teslaoracle.com##.wp-block-image
+sharylattkisson.com##.wp-block-media-text.alignwide
 repeatreplay.com##.wp-block-spacer
 c19-worldnews.com##.wp-caption
 onepagerules.com##.wp-container-6.wp-block-columns
@@ -62309,6 +62330,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/taiyangchengjituantupian.
+/template/1/images/t2.gif
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -64793,6 +64816,28 @@ ubmcmm.baidustatic.com
 ||propsad.com^
 ||zujilife.online^
 ||pstdzxu.cn^
+||oxneww.co^
+||ngqph.cn^
+||54askjdklm.xyz^
+||666739.xyz^
+||u0062.com^
+||n0255.com^
+||n0244.com^
+||n0211.com^
+||23539355.com^
+||vbutjg.com^
+||vesdsp.com^
+||u0081.com^
+||u0057.com^
+||u0071.com^
+||fadacaitp.com^
+||9304hhh999.vip^
+||hdgzta.com^
+||zuoai99hair.com^
+||imgapp.top^
+||go2yd.com^
+||u0056.com^
+||n0488.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -71323,6 +71368,8 @@ ubmcmm.baidustatic.com
 ||zzxxli.club^
 ||zzyytt.top^
 !long-term
+||hdtu.oss-cn-beijing.aliyuncs.com^
+||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||7xi9g1.com1.z0.glb.clouddn.com^
@@ -76323,8 +76370,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||tongji-badu.cc/listplay.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+quiet-quiet.com###fleft
+quiet-quiet.com###float
+mydrivers.com##.main_right_div[style="padding-top: 10px;"]
+2yjw.com##.orbui
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -84109,6 +84161,7 @@ smjb.net##div[style*="height: 50%"]
 ||zhenben.cc/2000/
 ||zhhbqg.com/rr/
 ||zhuishubox.com/js/after-rain.js
+||xsbiqugew.com^*.php
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -99880,7 +99933,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lastminute.com/ose/tracking/
 ||lastminute.com/service/track/
 ||lastminute.com^*/metrics
-||lastpass.com/dist/scripts/analyticsjs
+||lastpass.com/lpapi/content/pixels
+||lastpass.com/m.php/proxy_tracker
 ||ledger-enquirer.com/lz-isbnoyo/pdp.gif?
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
@@ -110997,6 +111051,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
+@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
@@ -111478,6 +111533,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cbsi.map.fastly.net^
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
+@@||sc.omtrdc.net^$domain=cibc.com
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com

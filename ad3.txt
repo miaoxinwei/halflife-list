@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cXJD6dn6TgI08GkNPPUUXw
+! Checksum: h/nz80noq3ZJHDUcTIFHRw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208021422
-! Last Modified: 2022年08月02日 14:22
+! Version: 202208022040
+! Last Modified: 2022年08月02日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -187,6 +187,8 @@ windows.net
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/taiyangchengjituantupian.
+/template/1/images/t2.gif
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -2671,6 +2673,28 @@ ubmcmm.baidustatic.com
 ||propsad.com^
 ||zujilife.online^
 ||pstdzxu.cn^
+||oxneww.co^
+||ngqph.cn^
+||54askjdklm.xyz^
+||666739.xyz^
+||u0062.com^
+||n0255.com^
+||n0244.com^
+||n0211.com^
+||23539355.com^
+||vbutjg.com^
+||vesdsp.com^
+||u0081.com^
+||u0057.com^
+||u0071.com^
+||fadacaitp.com^
+||9304hhh999.vip^
+||hdgzta.com^
+||zuoai99hair.com^
+||imgapp.top^
+||go2yd.com^
+||u0056.com^
+||n0488.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -9201,6 +9225,8 @@ ubmcmm.baidustatic.com
 ||zzxxli.club^
 ||zzyytt.top^
 !long-term
+||hdtu.oss-cn-beijing.aliyuncs.com^
+||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||7xi9g1.com1.z0.glb.clouddn.com^
@@ -14201,8 +14227,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||tongji-badu.cc/listplay.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+quiet-quiet.com###fleft
+quiet-quiet.com###float
+mydrivers.com##.main_right_div[style="padding-top: 10px;"]
+2yjw.com##.orbui
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -21987,6 +22018,7 @@ smjb.net##div[style*="height: 50%"]
 ||zhenben.cc/2000/
 ||zhhbqg.com/rr/
 ||zhuishubox.com/js/after-rain.js
+||xsbiqugew.com^*.php
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -40034,7 +40066,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lastminute.com/ose/tracking/
 ||lastminute.com/service/track/
 ||lastminute.com^*/metrics
-||lastpass.com/dist/scripts/analyticsjs
+||lastpass.com/lpapi/content/pixels
+||lastpass.com/m.php/proxy_tracker
 ||ledger-enquirer.com/lz-isbnoyo/pdp.gif?
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
@@ -51151,6 +51184,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
+@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
@@ -51632,6 +51666,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cbsi.map.fastly.net^
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
+@@||sc.omtrdc.net^$domain=cibc.com
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
