@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YOfnUOIBHusqr6ibJLS81g
+! Checksum: qQBAMxLl3VfbQGqL1Dy1Hw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208031422
-! Last Modified: 2022年08月03日 14:22
+! Version: 202208032036
+! Last Modified: 2022年08月03日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2959,8 +2959,8 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsGooglePP3.
 /adshandler.
 /adshandler/*
-/adshare.$domain=~adshare.tv|~echosign.com
-/adshare/*$domain=~adsharetoolbox.com
+/adshare.$domain=~adshare.io|~adshare.tv|~echosign.com
+/adshare/*$domain=~adshare.io|~adsharetoolbox.com
 /adshare3.
 /adsheader.
 /adshider.
@@ -31377,6 +31377,7 @@ _800x80_
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
 ##[href^="https://go.astutelinks.com/"]
+##[href^="https://goldcometals.com/clk.trk"]
 ##[href^="https://goldforyourfuture.com/clk.trk"] img
 ##[href^="https://ilovemyfreedoms.com/landing-"]
 ##[href^="https://infinitytrk.com/"]
@@ -32776,6 +32777,7 @@ tf2r.com#@#.adverts
 ||0926a687679d337e9d.com^
 ||0956228a2df97a.com^
 ||0azx1.com^
+||0b07d5f0b1.com^
 ||0b9d84d93f1b.com^
 ||0c4bc6060b.com^
 ||0c6fb44787.com^
@@ -32888,6 +32890,7 @@ tf2r.com#@#.adverts
 ||254a.com^
 ||258c7c3d75.com^
 ||25a2143174.com^
+||25b09661f2.com^
 ||2629ff5ff5.com^
 ||268stephe5en3king.com^
 ||2694f0eeb6.com^
@@ -33092,6 +33095,7 @@ tf2r.com#@#.adverts
 ||66f66dd865.com^
 ||6745jj.com^
 ||67frzna9e9.com^
+||680566accf.com^
 ||68456d1a69.com^
 ||688de7b3822de.com^
 ||68d97476e6.com^
@@ -37743,6 +37747,7 @@ tf2r.com#@#.adverts
 ||e7e776c1a8bf677.com^
 ||e85440ec98f04725.com^
 ||e8a0cb51c6.com^
+||e8c09b34de.com^
 ||e9590c90a8.com^
 ||e9c1khhwn4uf.com^
 ||e9d1f13c08d.com^
@@ -38941,6 +38946,7 @@ tf2r.com#@#.adverts
 ||fttwin.icu^
 ||ftv-publicite.fr^
 ||ftxabddarlo.xyz^
+||fubsoucm.com^
 ||fuffyauth.com^
 ||fugles.net^
 ||fugrohaphu.com^
@@ -39484,6 +39490,7 @@ tf2r.com#@#.adverts
 ||grahtfguqc.com^
 ||graicmiw.com^
 ||graifugh.net^
+||grainealgums.com^
 ||grairgos.net^
 ||grairsoa.com^
 ||graivaik.com^
@@ -40136,6 +40143,7 @@ tf2r.com#@#.adverts
 ||hurdleyreer.info^
 ||hurllotion.com^
 ||hurlockserail.com^
+||hurodgoykosp.com^
 ||huronfide.club^
 ||hurriedcoward.com^
 ||hurriedlyvaliantperplex.com^
@@ -41039,6 +41047,7 @@ tf2r.com#@#.adverts
 ||kappalinks.com^
 ||kaptytypso.com^
 ||kaqmshynxe.com^
+||karayarillock.cam^
 ||kareaumatzot.com^
 ||karteljackal.com^
 ||kartikeya-ram.com^
@@ -41415,6 +41424,7 @@ tf2r.com#@#.adverts
 ||large-format.net^
 ||largeordier.fun^
 ||largerysvz.xyz^
+||lariod.com^
 ||larrenpicture.pro^
 ||larrenworld.pro^
 ||larverewish.com^
@@ -42748,6 +42758,7 @@ tf2r.com#@#.adverts
 ||nagaglugry.com^
 ||naganoadigei.com^
 ||naggingrugcolossal.com^
+||nagher.com^
 ||naghocmu.com^
 ||nagrande.com^
 ||naisoops.net^
@@ -45012,6 +45023,7 @@ tf2r.com#@#.adverts
 ||qd3u5eeuos.com^
 ||qdatasales.com^
 ||qdayipnsir.com^
+||qdcusfff.com^
 ||qddrusjdrjuj.com^
 ||qdeqwcljdplx.com^
 ||qdmil.com^
@@ -47567,6 +47579,7 @@ tf2r.com#@#.adverts
 ||tierbignews.com^
 ||tiercelkeyseat.com^
 ||tiesmaritalkidnap.com^
+||tiffybetween.website^
 ||tigerhub.net^
 ||tigerpush.net^
 ||tightenmonuments.com^
@@ -49465,6 +49478,7 @@ tf2r.com#@#.adverts
 ||xgrwjbui.top^
 ||xgwqjjgwhgke.com^
 ||xhghqrhunp.com^
+||xhhuhdgbk.com^
 ||xhmopymez.com^
 ||xhpbxqhito.com^
 ||xhr0.xyz^
@@ -55230,6 +55244,7 @@ tf2r.com#@#.adverts
 ||iqoption.com/land/$popup
 ||iyfsearch.com^$popup
 ||laborates.com^$popup
+||lp1s.cyber-guard.me^$popup,third-party
 ||mackeeperaffiliates.com^$popup
 ||mydiethub.com^$popup
 ||nocensor.biz/go/$popup
@@ -62375,6 +62390,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/xiwang/fumeiti.js
+/xiwang/dfumeiti.js
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -63468,7 +63485,6 @@ ubmcmm.baidustatic.com
 ##.bus_adsbox
 ##.buyaoa-below
 ##.cari-ads
-##.carousel-inner > a[href="/hth.html"]
 ##.cfa_popup
 ##.chat-ad
 ##.chat-right-ad
@@ -63649,7 +63665,7 @@ ubmcmm.baidustatic.com
 ##.room-ad-top
 ##.room-ad-video-down
 ##.rotate-adv
-##.row > a[href="/hth.html"]
+##a[title][href="/hth.html"]
 ##.rtcenter_game
 ##.scupioadslot
 ##.self-gg
@@ -63663,7 +63679,6 @@ ubmcmm.baidustatic.com
 ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
 ##.tab-content + .col-pd
 ##.table_ad
-##.text-center > a[href="/hth.html"]
 ##.textadlist
 ##.theme_custom_slidebox-ad-below
 ##.themepark_advertisement
@@ -64897,6 +64912,12 @@ ubmcmm.baidustatic.com
 ||txfhfdd.cn^
 ||zp1999.online^
 ||ifczkst.cn^
+||juringupstage.com^
+||twuafbj.cn^
+||pjcdjtn.cn^
+||tzcfyre.cn^
+||ijre.club^
+||honqdyg.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -82243,7 +82264,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/api/ad/*$domain=pinduoduo.com
