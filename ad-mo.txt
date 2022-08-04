@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gbU+0ESrlPP7p/s1zFfK1Q
+! Checksum: kZnYCJZKd1YPFyaGKKOwOw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208042035
-! Last Modified: 2022年08月04日 20:35
+! Version: 202208050222
+! Last Modified: 2022年08月05日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -33652,6 +33652,7 @@ tf2r.com#@#.adverts
 ||adsagony.com^
 ||adsalvo.com^
 ||adsame.com^
+||adsandcomputer.com^
 ||adsblockkpush.com^
 ||adsbr.info^
 ||adsbtrk.com^
@@ -36588,6 +36589,7 @@ tf2r.com#@#.adverts
 ||contextendless.com^
 ||contextweb.com^
 ||continuedi.club^
+||continuousformula.com^
 ||continuousprescription.com^
 ||contrastic.xyz^
 ||contreel.com^
@@ -38503,6 +38505,7 @@ tf2r.com#@#.adverts
 ||fattykettleinexpedient.com^
 ||fatwalkinger.club^
 ||faultsderange.com^
+||faused.com^
 ||fauxtitters.com^
 ||favoriteruffle.com^
 ||favourableencampmentdecency.com^
@@ -41850,6 +41853,7 @@ tf2r.com#@#.adverts
 ||lowremoraidon.com^
 ||lowrihouston.pro^
 ||lowseelan.com^
+||lowsteelixor.com^
 ||lowtyroguer.com^
 ||lowtyruntor.com^
 ||loxbeelid.com^
@@ -45361,6 +45365,7 @@ tf2r.com#@#.adverts
 ||recablesaccule.casa^
 ||recastcompellease.com^
 ||recdirectgo.biz^
+||receme.com^
 ||recentinteriorcrab.com^
 ||recentlyunknowninterested.com^
 ||recentpoisoncoma.com^
@@ -46045,6 +46050,7 @@ tf2r.com#@#.adverts
 ||safesync.com^
 ||safetrck.com^
 ||safwjxsqvm.com^
+||saggrowledetc.com^
 ||sagroagh.com^
 ||sahfucdysloguyg.xyz^
 ||sailcovertend.com^
@@ -47126,6 +47132,7 @@ tf2r.com#@#.adverts
 ||succeedkid.com^
 ||succeedscene.com^
 ||successcompassion.com^
+||successionflimsy.com^
 ||suchshame.com^
 ||sucloe.com^
 ||suctioneliminatecongestion.com^
@@ -47329,6 +47336,7 @@ tf2r.com#@#.adverts
 ||tapjoyads.com^
 ||tapsirsa.net^
 ||taracareewitu.xyz^
+||tarbivious.com^
 ||taroads.com^
 ||tarotien.com^
 ||tarrilyathenee.com^
@@ -51886,6 +51894,7 @@ tf2r.com#@#.adverts
 ||adrunnr.com^$popup
 ||ads.sexier.com^$popup
 ||ads4pc.com^$popup
+||adsandcomputer.com^$popup
 ||adsbreak.com^$popup
 ||adsco.re^$popup
 ||adscpm.net^$popup,third-party
@@ -52592,6 +52601,7 @@ tf2r.com#@#.adverts
 ||ijjiii.is^$popup
 ||imcpqxmtlapagng.com^$popup
 ||impactserving.com^$popup
+||imperturbablechoreinterrogation.com^$popup
 ||impliedbusinessmencompletion.com^$popup
 ||impresseastsolo.com^$popup
 ||inabsolor.com^$popup
@@ -62191,7 +62201,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
 @@||ascii.jp/img/ad/yayoi/rank_$image,~third-party
-@@||assets.evolutionadv.it/prebid/$script,domain=comingsoon.it
 @@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
 @@||banc.jp/images/ad/$image,~third-party
 @@||bancodevenezuela.com/imagenes/publicidad/$~third-party
@@ -65007,6 +65016,8 @@ ubmcmm.baidustatic.com
 ||qianduoduo.fit^
 ||guanyou.ltd^
 ||kwjfoeq.cn^
+||cncnails.net^
+||pgl7.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76535,6 +76546,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||btschool.net/images/*/HDYGR
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+baidu.com,bdimg.com#?#.l_post:-abp-has(>.fengchao-wrap-feed)
 duelmeta.com##.single-bottom-html
 szxx.com.cn###A1
 szxx.com.cn###A2
