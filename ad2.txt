@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DN3GLgnJI5wXl7xepfRffQ
+! Checksum: a8ey0pYM8EV5upvqbqtTxQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202208061421
-! Last Modified: 2022年08月06日 14:21
+! Version: 202208062030
+! Last Modified: 2022年08月06日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1277,6 +1277,7 @@ ubmcmm.baidustatic.com
 ##.bottom_fixed > #imgs_link4
 ##.bottom_mengcheng_ad_wrap
 ##.bottomads + .leftd
+##script + a[href="/hth.html"]
 ##.bottomd > .closebox2
 ##.broadcastMe[style="width: 1200px;"]
 ##.btn.btn-success.text-white[href*=".com:"]
@@ -2772,6 +2773,8 @@ ubmcmm.baidustatic.com
 ||wqkxlke.cn^
 ||ty123.ltd^
 ||idkdoxp.cn^
+||um5xcgngmart.xyz^
+||bfejteb.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14289,6 +14292,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||66game.cn/skinnew/js/ad.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
