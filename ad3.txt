@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TZO4YQ5TB8mL43HOqjT8LQ
+! Checksum: 1mTexCVkR4olkaFtMsCpag
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208060941
-! Last Modified: 2022年08月06日 09:41
+! Version: 202208061421
+! Last Modified: 2022年08月06日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2764,6 +2764,14 @@ ubmcmm.baidustatic.com
 ||tuliglsd.space^
 ||gylbh.cn^
 ||666747.xyz^
+||kfnvrt.xyz^
+||urwnsq.xyz^
+||hcbmq.cn^
+||qndytvy.cn^
+||sgdgh15.com^
+||wqkxlke.cn^
+||ty123.ltd^
+||idkdoxp.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -25705,6 +25713,7 @@ m.babytree.com##script + a[class]
 /asknet_tracking.
 /aslog.php?
 /aspenanalytics.
+/ASPixel.js
 /aspstats/index.asp?
 /assets/analytics-
 /assets/analytics.
@@ -30788,6 +30797,7 @@ _mongo_stats/
 ||fpaxu.net^
 ||fpcdn.io^
 ||fpxau.net^
+||fzlnk.com^
 ||g11686975765.co^
 ||g1188506010.co^
 ||g11885060100.co^
@@ -30865,6 +30875,7 @@ _mongo_stats/
 ||pdflive.org^
 ||permutive.app^
 ||pix.pub^
+||pixel-tracker.com^
 ||pixrealm.com^
 ||pjstat.com^
 ||procroanalytics.com^
@@ -36502,7 +36513,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||b.bedop.com^
 ||b5media.com/bbpixel.php
 ||b7tp47v2nb3x-a.akamaihd.net^
-||b8cdn.com^*/analytics.js
+||b8cdn.com/assets/v1/analytics-
 ||bab.frb.io^
 ||backstage.funnelenvy.com^
 ||bacon.getcarro.com^
@@ -37447,6 +37458,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcs.delvenetworks.com^
 ||mcssl.com^*/track.ashx?
 ||mdctrail.com/b.ashx$third-party
+||mdxprod.io/analytics.js
 ||measure.refinery89.com^
 ||media-imdb.com/twilight/?
 ||media-lab.ai/ana-sentry.js
@@ -39761,6 +39773,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||canstockphoto.com/monitor/
 ||canstockphoto.com/server.php?rqst=track
 ||capitalone.com/collector/
+||cargurus.com/tr/
 ||cbc.ca/g/stats/
 ||cbsimg.net/js/cbsi/dw.js
 ||cc-api-data.adobe.io^
@@ -39905,6 +39918,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eurogamer-uk.eurogamer.net^
 ||event-api.reverb.com^
 ||eventlog.jackpot.de^
+||events-prod.autolist.com^
 ||events-service.coinbase.com^
 ||events-tracker.deliveroo.net^
 ||events.api.godaddy.com^
@@ -40092,6 +40106,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||justanswer.com/browsercheck/
 ||kansascity.com/nyb-zsooli/
 ||kayak.com/k/redirect/tracking?
+||kbb.com/pixall/
 ||kck.st/web/track
 ||klm.us/CWZUvc/
 ||kloth.net/images/pixel.gif
@@ -40245,6 +40260,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paypal.com/platform/tealeaftarget
 ||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
 ||pf.newegg.com^
 ||phar.gu-web.net^
