@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vGh7D6l6JVlis5xGENSJfQ
+! Checksum: hgEtMzLKfv/FAbUw76HMcw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208070952
-! Last Modified: 2022年08月07日 09:52
+! Version: 202208071421
+! Last Modified: 2022年08月07日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32678,7 +32678,7 @@ gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
 job.inshokuten.com#@#.ad-area
 kincho.co.jp#@#.ad-block
-job.inshokuten.com,sexgr.net#@#.ad-box
+job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
 dmkt-sp.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center
 pokeminers.com#@#.ad-container
@@ -58776,7 +58776,6 @@ crash.net##.dmpu-container
 gearlive.com##.double
 capitalfm.com,radiox.co.uk,smoothradio.com##.download
 thesun.co.uk##.dpa-slot
-duplichecker.com##.dpn
 kickasstorrents.to##.dssdffds
 designtaxi.com##.dt_rcjs
 digitaltrends.com##.dtads-slot
@@ -60191,6 +60190,7 @@ kbb.com##[data-lean-auto="flexible-native-2"]
 goal.com##[data-name="ad-leaderboard"]
 polygon.com##[data-native-ad-id^="container"]
 namepros.com##[data-np-ga-event="ad"]
+duplichecker.com##[data-pagespeed-url-hash]
 washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-qa="right-rail-ad"]
 ginx.tv##[data-ref]
@@ -60735,7 +60735,7 @@ modelhorseblab.com##img[name="js_ad"]
 callofwar.com,macworld.co.uk,supremacy1914.com,techadvisor.com##img[referrerpolicy]
 forum.blackhairmedia.com##img[src*="/?AdID="]
 nsfwyoutube.com##img[src*="data"]
-duplichecker.com##img[src^="data:image/"]
+duplichecker.com##img[src*="data:image"]
 bcmagazine.net##img[style^="width:300px;"]
 abpclub.co.uk##img[width="118"]
 howtogermany.com##img[width="120"]
@@ -60759,7 +60759,6 @@ hentai-foundry.com##main > p
 news24online.com##mybot
 adblock-tester.com##object[width="240"]
 mrchecker.net##p > [href^="https://www.mrchecker.net/"]
-duplichecker.com##picture
 bitref.com##picture > img[src]
 healthgrades.com##ps-action-intercept
 mashable.com##section.mt-4 > div
@@ -62233,6 +62232,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||volterra.us^*/advertise_policy$~third-party
 @@||warpwire.com/AD/
 @@||warpwire.net/AD/
+@@||webbtelescope.org/files/live/sites/webb/$image,~third-party
 @@||webmd.com/dtmcms/live/webmd/*/video-ad.js$script,~third-party
 @@||wikia.nocookie.net^$stylesheet
 @@||wikia.nocookie.net^*/images/$image
@@ -64057,6 +64057,8 @@ ubmcmm.baidustatic.com
 ~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
+##a[id][href*="/?aff="]
+##a[id][href*="/?register="]
 ##a[href*="/?aff="][target="_blank"]
 ##a[href*="/?intr="]
 ##a[href*="/Register?a="]
@@ -65289,6 +65291,12 @@ ubmcmm.baidustatic.com
 ||vuliglsf.space^
 ||kingleo.hk^
 ||666748.xyz^
+||u0075.com^
+||ajxukah.cn^
+||maaijun.top^
+||qcyunnan.cn^
+||zdhfff.xyz^
+||xsjh002.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -81709,7 +81717,7 @@ gaoqingw.com##b > div[style="text-align:center"]
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 baidu.com#?#.c-gap-bottom-small:-abp-has(>a>div>div[class^="jr-stock-open-account-"])
 baidu.com#?#.ec_wise_ad
-baidu.com,bdimg.com#?#.j_thread_list:-abp-has(>.fengchao-wrap-feed)
+baidu.com,bdimg.com#?#.thread_item_box:-abp-has(>.fengchao-wrap-feed)
 baidu.com,bdimg.com#?#.l_post:-abp-has(>.fengchao-wrap-feed)
 bdimg.com,tieba.baidu.com,tieba.com#?#.tl_shadow:-abp-has(> .ti_item > .ti_infos > .label_text_tag:-abp-contains(广告))
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
