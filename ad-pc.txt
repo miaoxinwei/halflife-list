@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UtSonzQFeaFxJB+0RtKIYg
+! Checksum: C6wKmAMqCW4jJIJHE7BBvg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208081425
-! Last Modified: 2022年08月08日 14:25
+! Version: 202208082037
+! Last Modified: 2022年08月08日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -65335,6 +65335,10 @@ ubmcmm.baidustatic.com
 ||hsswcei.cn^
 ||sfzztox.cn^
 ||jiatang.club^
+||afij001.xyz^
+||666749.xyz^
+||veugcz8.com^
+||dl66d.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76848,6 +76852,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+tmioe.com##.__single_0
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -100926,6 +100931,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nyxcosmetics.com/IZ/PXLZNv2dn4/init.js
 ||octopart.com/kdRQnL15/init.js
 ||priceline.com/9aTjSd0n/init.js
+||realtor.com/rdc_user_check/init.js
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seekingalpha.com/xgCxM9By/init.js
 ||simon.com/46SCNLxs/init.js
@@ -110392,6 +110398,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||liberation.fr/newsite/js/cmp/
 ||ma-petite-recette.fr/visites
 ||neko-san.fr/stats
+||ouedkniss.com/spf/page-view
 ||ouedkniss.com/static/alexa.js
 ||ouedkniss.com/static/pixel.js
 ||p.kolplay.com^
@@ -114091,6 +114098,7 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
 qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap
+qq.com#@#+js(nowebrtc)
 qq.com##+js(json-prune,adList.item)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 qq.com##+js(aopr, Beacon.prototype.fail)
