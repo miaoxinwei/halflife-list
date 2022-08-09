@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xJeCHvcatHUW5qekLYojGg
+! Checksum: coy7cPvXEZVHQ3086GYLlw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208090223
-! Last Modified: 2022年08月09日 02:23
+! Version: 202208090955
+! Last Modified: 2022年08月09日 09:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25895,6 +25895,7 @@ _800x80_
 ##.googleAds_article_page_above_comments
 ##.googleAdsense
 ##.googleAdsense468x60
+##.googleAdsenseMiddle
 ##.googleAdv
 ##.googleAdv1
 ##.googleBannerWrapper
@@ -57749,6 +57750,7 @@ coolors.co###sticky-cad
 coolors.co###sticky-ccad
 coincodex.com###sticky-footerCCx4
 fool.com###sticky-wrapper
+standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
 medicinehatnews.com###stickyleaderboard
 semiconductor-today.com###storyHorAdd
@@ -58128,6 +58130,7 @@ getdroidtips.com,journeybytes.com,thebeaverton.com,thisisanfield.com,unfinishedm
 bizpacreview.com,browserhow.com,constructionreviewonline.com,planetanalog.com,windowslatest.com##.ai_widget
 apkmirror.com,net-load.com##.ai_widget.widget
 wikihow.com##.al_method
+altfi.com##.alert
 majorgeeks.com##.alford > tbody > tr
 shortlist.com##.align-xl-content-between
 livejournal.com##.allbanners
@@ -58385,6 +58388,8 @@ tribunnews.com##.box__reserved
 zambianeye.com##.box_skitter
 functions-online.com##.box_wide
 canadaka.net##.boxadd
+retailgazette.co.uk##.boxzilla-overlay
+retailgazette.co.uk##.boxzilla-popup-advert
 businessplus.ie##.bp_billboard_single
 brainyquote.com##.bq_ad_320x250_multi
 bing.com##.br-productCarousel
@@ -58820,6 +58825,7 @@ monstertruckgames.org##.gamecatbox
 home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
+pcworld.co.nz##.gemini-loaded
 autoblog.com##.gemini-native
 investing.com##.generalOverlay
 uefa.com##.geoTargetSponsor
@@ -59430,6 +59436,7 @@ quora.com##.promoted_answer_wrapper
 search.genieo.com##.promoted_right
 reddit.com##.promotedlink
 racingtv.com,twitter.com,wral.com##.promotion
+actionnetwork.com##.promotion-table
 throwawaymail.com##.promotion_row
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
@@ -59837,7 +59844,7 @@ igg-games.com##.taxonomy-description
 bookriot.com##.tbr-promo
 pixwox.com##.tce-box-i-w
 pixwox.com##.tce-box-n-w
-aptoslife.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,sonorannews.com,telugubullet.com,theindependent.co.zw##.td-a-rec
+aptoslife.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,sonorannews.com,telugubullet.com,theindependent.co.zw,wrestling-online.com##.td-a-rec
 bizasialive.com##.td-all-devices
 americanindependent.com##.td-banner-bg
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
@@ -65230,6 +65237,14 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||ouliglsu.space^
+||youthlaw.name^
+||markson.hk^
+||xuliglsw.space^
+||shxr.technology^
+||herky.com.cn^
+||xcmno.xyz^
+||hgkzl.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76742,8 +76757,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ysapp20.xyz^*.gif
+||ysapp20.xyz/slf120.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+pornlulu.com##.container-fluid > .links
+baidu.com,bdimg.com#?#.l_post:-abp-has(>style)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -92798,6 +92817,7 @@ _mongo_stats/
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
+||pixels.ai^$third-party
 ||pixfuture.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -98027,6 +98047,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||surveywall-api.survata.com^$third-party
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/w$third-party
+||svibeacon.onezapp.com^
 ||svnlnk.com/aff/trk.html
 ||swarm.video/track/
 ||swiftypecdn.com/cc.js$third-party
