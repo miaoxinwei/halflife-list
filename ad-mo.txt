@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I66OnWbwHlkirkntNz9ypQ
+! Checksum: +Gz2XrfJ/Yn70Z2hj3vEcw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208091424
-! Last Modified: 2022年08月09日 14:24
+! Version: 202208092040
+! Last Modified: 2022年08月09日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2836,9 +2836,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsbox.$~script,domain=~adsbox.com.sg|~adsbox.in
 /adsby.
 /adsbytenmax.
-/adscale.$domain=~adscale.com|~adscale.io|~adscale.net|~adscale.pl
+/adscale.$domain=~adscale.com|~adscale.dev|~adscale.io|~adscale.net|~adscale.pl
 /adscale1.
-/adscale_$domain=~adscale.com
+/adscale_$domain=~adscale.com|~adscale.dev
 /adscbg/*
 /adscdn.
 /adscloud.
@@ -25846,6 +25846,7 @@ _800x80_
 ##.google-advertisement
 ##.google-advertisement_txt
 ##.google-afc-wrapper
+##.google-bottom-ads
 ##.google-csi-ads
 ##.google-dfp-ad-caption
 ##.google-dfp-ad-label
@@ -57942,7 +57943,6 @@ apnews.com##.Leaderboard
 israelnationalnews.com##.LeftInfo
 johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
 metservice.com##.Mrec-min-height
-tvtv.us##.MuiPaper-elevation2.MuiPaper-root
 ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 news18.com##.NAT_add
 ask.com##.PartialKelkooResults
@@ -62360,8 +62360,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||forexprostools.com^$subdocument,domain=fx-rashinban.com
 @@||freeride.se/img/admarket/$~third-party
 @@||friends.ponta.jp/app/assets/images/$~third-party
-@@||fwmrm.net/ad/g/$script,domain=viafree.se
-@@||fwmrm.net^*/LinkTag2.js$domain=viafree.se
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gentside.com|pccomponentes.com|voici.fr
 @@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
@@ -65246,6 +65244,8 @@ ubmcmm.baidustatic.com
 ||tuotianxia.top^
 ||culiglsm.space^
 ||rgbsl.com^
+||yuhuka.cc^
+||51grow.club^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -83011,6 +83011,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||olgame.tw^$generichide
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@||eu4cn.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eu4cn.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|dizhishengcheng.com|doitwell.tw|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|switch520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|yabook.org|yodu.org
@@ -92854,7 +92856,6 @@ _mongo_stats/
 ||portfold.com^$third-party
 ||posst.co^$third-party
 ||postaffiliatepro.com^$third-party
-||postclickmarketing.com^$third-party
 ||posthog.com^$third-party
 ||prchecker.info^$third-party
 ||precisioncounter.com^$third-party
@@ -112226,7 +112227,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !---------- Anti-Adblock ----------
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 ! CJX's Annoyance List
-!#include https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
