@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 71wEFvUEl9MQwpzpXn7NXQ
+! Checksum: Nk/3z3SioUjKDGzgmvPyXA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208101424
-! Last Modified: 2022年08月10日 14:24
+! Version: 202208102035
+! Last Modified: 2022年08月10日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -909,7 +909,6 @@ tieba.baidu.com##.tuijian-wrap
 .club/ads.
 .co/ads?
 .com/?ad=
-.com/?wid=
 .com/a?pagetype
 .com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com
 .com/ad1/
@@ -26113,6 +26112,7 @@ _800x80_
 ##.gpt-sticky-sidebar
 ##.gpt.top-slot
 ##.gptSlot
+##.gptSlot-outerContainer
 ##.gptSlot__sticky-footer
 ##.gptslot
 ##.gr-adcast
@@ -32719,7 +32719,7 @@ aggeliestanea.gr,infotel.ca#@#.adResult
 news24.jp#@#.adText
 sozai-good.com#@#.ad_block
 panarmenian.net#@#.ad_body
-joins.com#@#.ad_bottom
+joins.com,jtbc.co.kr#@#.ad_bottom
 m.nettiauto.com,m.nettikaravaani.com,m.nettikone.com,m.nettimarkkina.com,m.nettimokki.com,m.nettimoto.com,m.nettivaraosa.com,m.nettivene.com,m.nettivuokraus.com#@#.ad_caption
 classy-online.jp,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se#@#.ad_container
 modelhorseblab.com#@#.ad_global_header
@@ -57877,6 +57877,7 @@ streams.tv###sunGarden
 dashnet.org###support
 eco-business.com###supporting_orgs
 vk.com###system_msg
+gumtree.com###tBanner
 goodreturns.in###taboola-mid-category-thumbnails
 comicbookrealm.com###tad
 google.com###tadsc
@@ -57973,6 +57974,7 @@ macworld.co.uk###vTXbybUFn
 nutritioninsight.com###verticlblks
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com###verticleLinks
 forums.tomsguide.com###video_ad
+gumtree.com.au###view-item-page__leaderboard-wrapper
 gumtree.com###vipBanner
 playstationtrophies.org,xboxachievements.com###vnt-lb-a
 browserleaks.com###vpn_img
@@ -65374,6 +65376,9 @@ ubmcmm.baidustatic.com
 ||liuxiangxiang.top^
 ||yihoo.biz^
 ||yswphit.cn^
+||afjk001.xyz^
+||shaokaodaren.top^
+||shouzhuanfs.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76892,6 +76897,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||csx365.com/h
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+baidu.com,bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
+baidu.com,bdimg.com#?#.l_post:-abp-has(div[class*=" fc-"])
 vikacg.com##div[id^="home-row-ads"]
 vikacg.com###home-row-lunbo
 pornlulu.com##.container-fluid > .links
@@ -84176,7 +84183,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||new.htcui.com^
 ||news.fangdaijisuanqi.com^
 ||news.jiukang.org^
-||news.zsjxwj.com^
+||zsjxwj.com^
 ||norse.mingxiaow.com^
 ||ns1.chinayms.com^
 ||o.jy135.com^
@@ -99999,6 +100006,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||drudgereport.com/js/responsive-
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
+||dtag.breadfinancial.com^
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
 ||dw.com/tracking/
@@ -114299,4 +114307,3 @@ youle55.com
 ||nooen.com^$popup
 bixinlive.com
 quandangdang.net
-windows.net
