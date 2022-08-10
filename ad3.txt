@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jyrpUWiBuHr+PWdS+Wy6bA
+! Checksum: 74r6viX/ROVNcV1SRMCPVA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208100939
-! Last Modified: 2022年08月10日 09:39
+! Version: 202208101424
+! Last Modified: 2022年08月10日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2847,6 +2847,14 @@ ubmcmm.baidustatic.com
 ||okfzopj.cn^
 ||ruliglso.space^
 ||8feichai.com^
+||cxiwn.xyz^
+||vorlsblf.cyou^
+||qofvpbo.cn^
+||lorlsblh.cyou^
+||razasot.cn^
+||liuxiangxiang.top^
+||yihoo.biz^
+||yswphit.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14365,6 +14373,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||csx365.com/h
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+vikacg.com##div[id^="home-row-ads"]
+vikacg.com###home-row-lunbo
 pornlulu.com##.container-fluid > .links
 baidu.com,bdimg.com#?#.thread_item_box:-abp-has(>style)
 baidu.com,bdimg.com#?#.l_post:-abp-has(>style)
@@ -26504,6 +26514,7 @@ m.babytree.com##script + a[class]
 /data_collect.js
 /datacapture/track
 /datacollectcode?
+/datacollectionapi-client/*
 /datadome/*
 /DatazoomAnalytics.
 /DavplusAnalytics.
@@ -27551,6 +27562,7 @@ m.babytree.com##script + a[class]
 /kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
+/koko-analytics/*
 /kontera.js
 /konterayahoooo.
 /kooomo.tracker.
@@ -28211,6 +28223,7 @@ m.babytree.com##script + a[class]
 /pageview?pageviewId
 /pageview?t=
 /pageview?user_guid=
+/pageview_candidate.
 /pageviews-counter-
 /pageviews.gif?
 /pageviews/*$domain=~mediawiki.org|~pageviews.wmcloud.org|~quiz.mkpo.li|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org
@@ -28588,6 +28601,7 @@ m.babytree.com##script + a[class]
 /RecordHit?
 /recstatsv2.
 /redirectexittrack.php?
+/redis_stats/*
 /reelevant.js
 /ref_analytics.
 /refer-tracking.
@@ -32267,6 +32281,7 @@ _mongo_stats/
 ||leadchampion.com^$third-party
 ||leaddyno.com^$third-party
 ||leadelephant.com^$third-party
+||leadfamly.com^$third-party
 ||leadfeeder.com^$third-party
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
@@ -50739,6 +50754,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
+||track.buyma.com^
 ||tracking.game8.jp^
 ||tsite.jp/static/analytics/
 ||tv-asahi.co.jp/official/logging?
