@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8gYwEB8jUb58C3EMTlBqRw
+! Checksum: RjiuuuoFp9hnl/XEAryOGA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208100222
-! Last Modified: 2022年08月10日 02:22
+! Version: 202208100939
+! Last Modified: 2022年08月10日 09:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -21998,6 +21998,7 @@ _800x80_
 ##.adslot-mpu
 ##.adslot-rectangle
 ##.adslot-widget
+##.adslot970
 ##.adslotMid
 ##.adslot_1
 ##.adslot_1m
@@ -65246,6 +65247,13 @@ ubmcmm.baidustatic.com
 ||rgbsl.com^
 ||yuhuka.cc^
 ||51grow.club^
+||666753.xyz^
+||jwtkw2w.cn^
+||xiezhong.club^
+||xkzzyk.cn^
+||okfzopj.cn^
+||ruliglso.space^
+||8feichai.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
