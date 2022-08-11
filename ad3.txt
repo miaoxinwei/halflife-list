@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wkpf4JpgWy7V63ax2fxuog
+! Checksum: 9tuI3IM2ivG7yyYnS2ieZg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208110221
-! Last Modified: 2022年08月11日 02:21
+! Version: 202208110942
+! Last Modified: 2022年08月11日 09:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2859,6 +2859,14 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||uorlsblg.cyou^
+||porlsbll.cyou^
+||oorlsblk.cyou^
+||ihvwak.cn^
+||lptssbs.cn^
+||lcmnyfk.cn^
+||yanping521.vip^
+||lingke02.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -50598,6 +50606,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||omataloyhtio.fi/statb.asp
 ||puutarha.net/ffsw-pushcrew.js
 ||puutarha.net/statb.asp
+||rac.ruutu.fi/rac.gif$image
 ||rac.ruutu.fi/sat/sat.gif$image
 ||rakentaja.fi/kuvat/pi.gif$image
 ||stat.mtv3.fi^
