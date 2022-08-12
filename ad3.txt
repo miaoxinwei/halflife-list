@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4q+ggy+d3S33tvuyOHzSYA
+! Checksum: 7iGjgs9a3wslg5OvQmzygw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208121422
-! Last Modified: 2022年08月12日 14:22
+! Version: 202208122034
+! Last Modified: 2022年08月12日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2905,6 +2905,9 @@ ubmcmm.baidustatic.com
 ||vptjabo.cn^
 ||zhuxin.link^
 ||bhicxb.cn^
+||ezmppjg.cn^
+||wogukcd.xyz^
+||lpjms.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -36565,6 +36568,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc.marfeelcache.com^
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
+||bdg.com/event?
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.cdnma.com^
@@ -36669,7 +36673,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||check.deadlinefunnel.com^$third-party
 ||checkout.com/logger/
 ||checkout.com/logging
-||chicoryapp.com^$third-party
 ||choicestream.com^*/pixel/
 ||chtah.com/a/*/spacer-0.gif$third-party
 ||chtah.com^*/1x1.gif
@@ -39306,6 +39309,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x9.shinobi.jp^
 ||yahoo.co.jp/js/retargeting.js
 ||zucks.net.zimg.jp^
+||acelogger.heraldcorp.com^
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
 ||cm-exchange.toast.com^
@@ -39313,6 +39317,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.cizion.com^
 ||log.mofa.go.kr^
 ||log.targetpush.co.kr^
+||logger.bzu.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
 ||mtag.mman.kr^
