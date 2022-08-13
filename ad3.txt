@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XlbfskerEoYDRmtOjSmS8A
+! Checksum: NM0Oz9Qd+GeaahkeXV3KOQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208131421
-! Last Modified: 2022年08月13日 14:21
+! Version: 202208132030
+! Last Modified: 2022年08月13日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2929,6 +2929,7 @@ ubmcmm.baidustatic.com
 ||juhuiguoji.wang^
 ||keentech.top^
 ||04jhgyt.com^
+||khaelzols.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -37793,6 +37794,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?
 ||radiotime.com/reports/
+||rakanto.com/cx_collector/
 ||ramp.purch.com^
 ||rapidspike.com/rum/
 ||raygun.io/events?
@@ -51192,7 +51194,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|healthsafe-id.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -51256,6 +51258,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
+@@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-care.com/js/analytics/$script,domain=care.com
 @@||cdn-care.com/js/vendor/yarn_components/amplitude-js/amplitude.min.js$script,domain=care.com
 @@||cdn-ds.com/analytics/dfa.js$script,domain=tuttleclickgenesis.com
