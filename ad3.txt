@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +lS2QA+qkucIYYCXSTgv0w
+! Checksum: jEtpx+cAEFpIGPdg8Br44Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208141422
-! Last Modified: 2022年08月14日 14:22
+! Version: 202208142031
+! Last Modified: 2022年08月14日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -14462,6 +14462,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mobile01.com##.dable-side_theme
+mobile01.com###_popIn_recommend_side
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -51240,7 +51242,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipify.org^$script,domain=right-on.co.jp
-@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky
+@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky|urbanswan.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
