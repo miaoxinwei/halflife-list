@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J9Ma65D1VDiXv6fOTA4ZeQ
+! Checksum: Vf6/QWiGg7wVrWfPkNL9Mg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208152037
-! Last Modified: 2022年08月15日 20:37
+! Version: 202208160223
+! Last Modified: 2022年08月16日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -6857,7 +6857,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 ://ad1.
 ://adcl.$domain=~adcl.co.nz|~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
-://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
@@ -61016,6 +61016,7 @@ msn.com##a.nativead[target="_blank"]
 msn.com##div[aria-label="promotions"]
 msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
+msn.com##div[data-section-id="stripe.bannernativead"]
 bing.com##.ad_sc
 bing.com##.adsMvC
 bing.com##.b_ad
@@ -64564,6 +64565,7 @@ ubmcmm.baidustatic.com
 ||666755.xyz^
 ||666756.xyz
 ||666757.xyz^
+||666758.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||777753.net^
@@ -64636,6 +64638,7 @@ ubmcmm.baidustatic.com
 ||bhujiwwb.top^
 ||bob5379.com^
 ||bobdz.com^
+||borlsbla.cyou^
 ||bpnhgan.cn^
 ||bsytkas.cn^
 ||btaawy.cn^
@@ -64681,6 +64684,7 @@ ubmcmm.baidustatic.com
 ||collegepre.net^
 ||colour5.top^
 ||congsons.uno^
+||corlsblt.cyou^
 ||cosyroom.biz^
 ||cqdalqx.cn^
 ||cruiseeagle.hk^
@@ -64818,6 +64822,7 @@ ubmcmm.baidustatic.com
 ||gylbh.cn^
 ||gytty.top^
 ||gz7pz.com^
+||gznxodg.cn^
 ||h56hg7.site^
 ||hbtyk.top^
 ||hcbmq.cn^
@@ -64880,6 +64885,7 @@ ubmcmm.baidustatic.com
 ||iorlsblj.cyou^
 ||iotewq.xyz^
 ||ishoutu.net^
+||itbwq.xyz^
 ||iuliglsh.space^
 ||iusnajah.cn^
 ||ixihet.cn^
@@ -64907,6 +64913,7 @@ ubmcmm.baidustatic.com
 ||juhuitongcheng.life^
 ||juringupstage.com^
 ||jwtkw2w.cn^
+||jyuyjxx.cn^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
 ||kanshu.buzz^
@@ -64924,6 +64931,7 @@ ubmcmm.baidustatic.com
 ||khdry.top^
 ||kimiaexirteb.com^
 ||kingleo.hk^
+||kisafnid.space^
 ||kj-gov.cn^
 ||kjbyuguv12.com^
 ||kjshenghuo.com^
@@ -64936,6 +64944,7 @@ ubmcmm.baidustatic.com
 ||krurkex.com^
 ||ksadrewrty.com^
 ||kvevv.com^
+||kvhcc.com^
 ||kwdgudw.cn^
 ||kwjfoeq.cn^
 ||kzecc.com^
@@ -65011,6 +65020,7 @@ ubmcmm.baidustatic.com
 ||mongsonv.uno^
 ||morlsbli.cyou^
 ||mqjeut5.com^
+||mrshw.mobi^
 ||msjj.tech^
 ||mstgc.com^
 ||mthdqs.cn^
@@ -65046,6 +65056,7 @@ ubmcmm.baidustatic.com
 ||niunai.buzz^
 ||niuspykmn.bar^
 ||njamlya.top^
+||nkevca.cn^
 ||nngzfd.cn^
 ||nongchanlianhe.top^
 ||nongsonx.uno^
@@ -65139,6 +65150,7 @@ ubmcmm.baidustatic.com
 ||qsdqyf.cn^
 ||qsxfsp.shop^
 ||razasot.cn^
+||rbgfxxt.cn^
 ||rbioclv.cn^
 ||renfs.xyz^
 ||rengbali.fun^
@@ -65155,6 +65167,7 @@ ubmcmm.baidustatic.com
 ||rofvjko.cn^
 ||rongsonm.uno^
 ||rongxin.biz^
+||rorlsblm.cyou^
 ||rowemfg.com^
 ||rqkfhquz.cn^
 ||rrkky.top^
@@ -65177,6 +65190,7 @@ ubmcmm.baidustatic.com
 ||sevenmax.cn^
 ||sfzztox.cn^
 ||sgdgh15.com^
+||sghmvum.cn^
 ||shaokaodaren.top^
 ||shhcc.top^
 ||shino3ur.xyz^
@@ -65216,6 +65230,7 @@ ubmcmm.baidustatic.com
 ||sxieqbu.cn^
 ||syb.hk^
 ||sym.zone^
+||taiheian.top^
 ||taipingyang.hk^
 ||tangxiaodou.top^
 ||tdtxkvj.cn^
@@ -65235,6 +65250,7 @@ ubmcmm.baidustatic.com
 ||ttwwy.top^
 ||tuiquanqiu.cn^
 ||tuliglsd.space^
+||tumnxwvd.ink^
 ||tuotianxia.top^
 ||twjsx.cn^
 ||twuafbj.cn^
@@ -65283,6 +65299,7 @@ ubmcmm.baidustatic.com
 ||veugcz8.com^
 ||vfcwij.cn^
 ||vflzdrv.cn^
+||vgrovkb.cn^
 ||vhlret.cn^
 ||viswcnb.cn^
 ||viuspbkmn.bar^
@@ -65297,6 +65314,7 @@ ubmcmm.baidustatic.com
 ||vtuctez.cn^
 ||vueujv.com^
 ||vuliglsf.space^
+||vumnxwvf.ink^
 ||vvpingtai.com^
 ||wangduoduo.pw^
 ||wangjunyan.xyz^
@@ -65373,6 +65391,7 @@ ubmcmm.baidustatic.com
 ||xqoekp.cn^
 ||xroqbkk.cn^
 ||xsbndzklbm.com^
+||xsjh001.xyz^
 ||xsjh002.xyz^
 ||xtojqz.club^
 ||xujmcrc.cn^
@@ -65392,6 +65411,7 @@ ubmcmm.baidustatic.com
 ||yelmlrq.cn^
 ||yengbalf.fun^
 ||yeyuly.love^
+||yfunkgk.cn^
 ||yhilnc.cn^
 ||yhz18.com^
 ||yihoo.biz^
@@ -65434,6 +65454,7 @@ ubmcmm.baidustatic.com
 ||ziyuanyinhang.wang^
 ||zjgjzzy.online^
 ||zkgvsoo.cn^
+||zlgame.top^
 ||zlreqxe.xyz^
 ||zorlsbln.cyou^
 ||zoujitea.hk^
@@ -65450,23 +65471,6 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
-||nkevca.cn^
-||sghmvum.cn^
-||rorlsblm.cyou^
-||666758.xyz^
-||yfunkgk.cn^
-||corlsblt.cyou^
-||zlgame.top^
-||vumnxwvf.ink^
-||tumnxwvd.ink^
-||itbwq.xyz^
-||mrshw.mobi^
-||vgrovkb.cn^
-||rbgfxxt.cn^
-||xsjh001.xyz^
-||gznxodg.cn^
-||jyuyjxx.cn^
-||taiheian.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -72070,6 +72074,7 @@ ubmcmm.baidustatic.com
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||widget.ezprice.com.tw^$third-party
 ||wit.qq.com^$third-party
+||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xyimg.net^$domain=~xy.com
 ||yiqifa.com^$subdocument
 ||yiqifa.com^*.js$third-party
@@ -76987,7 +76992,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-mobile01.com##.u-ad-image
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -81253,6 +81257,7 @@ mydigit.cn##.txtMes
 cntour2.com##.txtPicAd
 ltaaa.com##.txtads
 500.com##.tz_pai
+mobile01.com##.u-ad-image
 onlinedown.net##.u-btn-safe
 kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 smzy.com##.u-gs-btn2
