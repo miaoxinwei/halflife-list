@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aEkqP9UAaBk0cvgIbluc9g
+! Checksum: 6zNIC+40suxtSZAUq6iWgA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208150220
-! Last Modified: 2022年08月15日 02:20
+! Version: 202208150956
+! Last Modified: 2022年08月15日 09:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54602,6 +54602,7 @@ tf2r.com#@#.adverts
 ||ads.servebom.com^
 ||ads.sportradar.com^
 ||adserving.unibet.com^
+||adv.r7.com^
 ||advast.sibnet.ru^
 ||adzmoney.linkyqueen.ga^
 ||aff.bstatic.com^
@@ -65445,6 +65446,14 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||nkevca.cn^
+||sghmvum.cn^
+||rorlsblm.cyou^
+||666758.xyz^
+||yfunkgk.cn^
+||corlsblt.cyou^
+||zlgame.top^
+||vumnxwvf.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -76965,6 +76974,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+mobile01.com##.u-ad-image
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -89125,6 +89135,7 @@ fqsousou.com,kengso.com#@#.user-share
 /SEMTracking.
 /send-impressions.html
 /sendLogs?cid
+/sensefuel/tracking/*
 /sensor.modern.ncl.
 /sensor/statistic?
 /sensorsdata-
@@ -91221,6 +91232,7 @@ _mongo_stats/
 ||lite-cdn.com^
 ||liveyield.com^
 ||lltrck.com^
+||lmepbq.com^
 ||loloclicks.biz^
 ||lsdm.co^
 ||maggieeatstheangel.com^
@@ -98989,6 +99001,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.praetor.im^$third-party
 ||andyhoppe.com/count/
 ||api.fanmatics.com/event
+||artemis-cdn.ocdn.eu^
 ||audimark.de/tracking/
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
@@ -99642,7 +99655,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||terra.com.br/metrics/
 ||track.e7r.com.br^
 ||track.noddus.com^
+||tracker.tolvnow.com^
 ||trrsf.com.br/metrics/
+||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
 ||xl.pt/api/stats.ashx?
 ||7w.ro/js/trk.js
