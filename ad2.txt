@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: F1wdDhllU2rsfo+lKbwnFQ
+! Checksum: lBTDMkgGyySWXOFJQ0ebyA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202208161422
-! Last Modified: 2022年08月16日 14:22
+! Version: 202208162033
+! Last Modified: 2022年08月16日 20:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2975,6 +2975,8 @@ ubmcmm.baidustatic.com
 ||vivachina.co^
 ||sxbexrv.cn^
 ||zzyl.mobi^
+||accentneglectporter.com^
+||666759.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -22483,7 +22485,7 @@ theporn.cc##.pt-70 > div[id]
 !#torrentkitty
 ##.nordvpn-popup + .sidebar-vpn
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv
-/jquery.bpopup.$domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv
+.tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
 !#u
