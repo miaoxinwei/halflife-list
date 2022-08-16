@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Snk1Qlswik/BKWzrfN7h4A
+! Checksum: t4xhsfzjwALiSndkF4HCeg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208160956
-! Last Modified: 2022年08月16日 09:56
+! Version: 202208161422
+! Last Modified: 2022年08月16日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31456,7 +31456,6 @@ _800x80_
 ##ADS-RIGHT
 ##AFS-AD
 ##DFP-AD
-##FBS-AD
 ##LEADERBOARD-AD
 ##[class*="__adspot-title-container"]
 ##[class*="__adv-block"]
@@ -32750,6 +32749,7 @@ ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
 t3.com#@#.ads-inline
 hatenacorp.jp,milf300.com#@#.ads-link
 circus-dev.com#@#.ads-list
+forbes.com#@#.ads-loaded
 juicesky.com#@#.ads-title
 pop-music.ir#@#.ads-top
 mastersclub.jp#@#.ads.widget
@@ -43900,6 +43900,7 @@ tf2r.com#@#.adverts
 ||ormationwi.xyz^
 ||ormome.com^
 ||orqsvaxn.com^
+||orquideassp.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortslucres.com^
@@ -52693,6 +52694,7 @@ tf2r.com#@#.adverts
 ||firstclass-download.com^$popup
 ||fitcenterz.com^$popup
 ||fitchedgiveth.com^$popup
+||fittingcentermondaysunday.com^$popup
 ||fizzesilicic.com^$popup
 ||flashinginvolvementmatches.com^$popup
 ||flashymass.com^$popup
@@ -57781,6 +57783,7 @@ gizbot.com###offersblocksection
 vapingunderground.com###oio-banner-5
 onlinemschool.com###oms_left
 livestreamfails.com###oranum_livefeed_container_0
+ckk.ai###orquidea-slideup
 electronicproducts.com,powvideo.net,streamplay.to###overlay
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
@@ -58387,6 +58390,7 @@ nintendolife.com,purexbox.com##.article-recommendations
 people.com##.articleContainer__rail
 theblockcrypto.com##.articleIAB
 audizine.com##.articleIMG
+msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
 wallpaper.com##.articleSidebar
 ubergizmo.com##.article_card_promoted
 news18.com##.article_mad
@@ -59039,6 +59043,7 @@ yellowise.com##.g-widget-block
 titantv.com##.gAd
 animedao.to,elevenforum.com##.gads
 eonline.com##.gallery-rail-sticky-container
+msn.com##.galleryPage_eoabNativeAd-DS-EntryPoint1-1
 cdromance.com##.game-container[style="grid-column: span 2;"]
 geoguessr.com##.game-layout__in-game-ad
 amoyshare.com##.game-poster
@@ -60193,7 +60198,7 @@ videogameschronicle.com##.vgc-boxout
 bestlifeonline.com,eatthis.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
-nasdaq.com##.video-placeholder
+forbes.com,nasdaq.com##.video-placeholder
 guru99.com##.videocontentmobile
 koreabiomed.com##.view-aside
 vigilantcitizen.com##.vigil-leaderboard-article
@@ -60337,6 +60342,7 @@ imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 gadgetsnow.com##[data-type="mtf"]
 cnn.com##[data-zone-label="Paid Partner Content"]
+msn.com##[data=test-id="mrr-nativead"]
 naturalnews.com##[href*="/WBA-"]
 naturalnewsblogs.com##[href*="/WBA/"]
 complaintsingapore.com##[href*="/adv.php"]
@@ -62223,6 +62229,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||gbf.wiki/images/$image,~third-party
 @@||gelbooru.com//images/ad/$image,~third-party
 @@||givingassistant.org/Advertisers/$~third-party
+@@||global-uploads.webflow.com/*_dimensions-$image,domain=dimensions.com
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||google.*/s?*&q=$~third-party,xmlhttprequest,domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -62379,6 +62386,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||wikia.nocookie.net^$stylesheet
 @@||wikia.nocookie.net^*/images/$image
 @@||worldgravity.com^$script,domain=hotstar.com
+@@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||www.google.*/aclk?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk|googleadservices.com
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.com/ads/preferences/$image,script,subdocument
@@ -63233,7 +63241,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /jdzjgg/*
 /jfjs/ad.js
 /jianshen8/images/plan_banner_
-/jquery.24_ef3e.
 /js/aa.htm$script
 /js/aahome.htm
 /js/AD_tv.js
@@ -65612,6 +65619,9 @@ ubmcmm.baidustatic.com
 ||tanyp.xyz^
 ||21fsdf.com^
 ||tierzf.xyz^
+||vivachina.co^
+||sxbexrv.cn^
+||zzyl.mobi^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -83585,7 +83595,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3 > .well[data-height="250"][data-width="300"]
+##.col-lg-3 > .well[data-group][style]
+##div[style="display: flex;justify-content: center;"] > .well[data-group][style]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
@@ -93212,7 +93223,6 @@ _mongo_stats/
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
-||pixels.ai^$third-party
 ||pixfuture.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -96867,6 +96877,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^$third-party
+||analytics.pixels.ai^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -97860,8 +97871,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
-||logs.datadoghq.com^$domain=~app.datadoghq.com
-||logs.datadoghq.eu^$domain=~app.datadoghq.eu
+||logs.datadoghq.com^$third-party
+||logs.datadoghq.eu^$third-party
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
@@ -111645,6 +111656,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
 @@||api-analytics.magstimconnect.net^$~third-party
+@@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipify.org^$script,domain=right-on.co.jp
@@ -111840,6 +111852,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||js.taplytics.com/jssdk/$domain=foxnews.com

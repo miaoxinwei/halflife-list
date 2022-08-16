@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ym5ye9Xwi2HqA25dVupWjA
+! Checksum: ZNztetxdpCLrrUvTShL2WA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208160956
-! Last Modified: 2022年08月16日 09:56
+! Version: 202208161422
+! Last Modified: 2022年08月16日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -594,7 +594,6 @@ quandangdang.net
 /jdzjgg/*
 /jfjs/ad.js
 /jianshen8/images/plan_banner_
-/jquery.24_ef3e.
 /js/aa.htm$script
 /js/aahome.htm
 /js/AD_tv.js
@@ -2973,6 +2972,9 @@ ubmcmm.baidustatic.com
 ||tanyp.xyz^
 ||21fsdf.com^
 ||tierzf.xyz^
+||vivachina.co^
+||sxbexrv.cn^
+||zzyl.mobi^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20946,7 +20948,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3 > .well[data-height="250"][data-width="300"]
+##.col-lg-3 > .well[data-group][style]
+##div[style="display: flex;justify-content: center;"] > .well[data-group][style]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
@@ -32850,7 +32853,6 @@ _mongo_stats/
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
-||pixels.ai^$third-party
 ||pixfuture.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -36505,6 +36507,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.pagefly.io^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^$third-party
+||analytics.pixels.ai^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -37498,8 +37501,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
-||logs.datadoghq.com^$domain=~app.datadoghq.com
-||logs.datadoghq.eu^$domain=~app.datadoghq.eu
+||logs.datadoghq.com^$third-party
+||logs.datadoghq.eu^$third-party
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
@@ -51283,6 +51286,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
 @@||api-analytics.magstimconnect.net^$~third-party
+@@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipify.org^$script,domain=right-on.co.jp
@@ -51478,6 +51482,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||js.taplytics.com/jssdk/$domain=foxnews.com
