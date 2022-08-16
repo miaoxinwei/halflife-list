@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0YtclCG4ENd7i+Wnm91z1w
+! Checksum: Snk1Qlswik/BKWzrfN7h4A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208160223
-! Last Modified: 2022年08月16日 02:23
+! Version: 202208160956
+! Last Modified: 2022年08月16日 09:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -6798,6 +6798,7 @@ tieba.baidu.com##.tuijian-wrap
 /vtextads.
 /VXLayerAd-
 /w/ads/*
+/wallpaper-ad.
 /wallpaper_ads/*
 /wallpaperads/*
 /watchit_ad.
@@ -19337,6 +19338,7 @@ _800x80_
 ##.ad.sidebar-module
 ##.ad.size-300x250
 ##.ad.skybridgeleft
+##.ad.small-mpu
 ##.ad.small-teaser
 ##.ad.super
 ##.ad.top_article_leadeboard
@@ -19431,6 +19433,7 @@ _800x80_
 ##.ad300b
 ##.ad300banner
 ##.ad300mrec1
+##.ad300px
 ##.ad300shows
 ##.ad300top
 ##.ad300w
@@ -29303,6 +29306,7 @@ _800x80_
 ##.set_ad
 ##.sex-party-ad
 ##.sexunder_ads
+##.sf-advert
 ##.sf_ad_box
 ##.sfadSlot
 ##.sfsp_adadvert
@@ -31526,6 +31530,7 @@ _800x80_
 ##[href^="https://mylead.global/stl/"] > img
 ##[href^="https://mypatriotsupply.com/"] > img
 ##[href^="https://mypillow.com/"] > img
+##[href^="https://mystore.com/"] > img
 ##[href^="https://r.kraken.com/"]
 ##[href^="https://rapidgator.net/article/premium/ref/"]
 ##[href^="https://routewebtk.com/"]
@@ -31548,6 +31553,7 @@ _800x80_
 ##[href^="https://www.hostg.xyz/aff_c"] > img
 ##[href^="https://www.mypatriotsupply.com/"] > img
 ##[href^="https://www.mypillow.com/"] > img
+##[href^="https://www.mystore.com/"] > img
 ##[href^="https://www.reimageplus.com/"]
 ##[href^="https://www.restoro.com/"]
 ##[href^="https://www.targetingpartner.com/"]
@@ -32157,6 +32163,7 @@ _800x80_
 ##a[href^="https://trust.zone/go/r.php?RID="]
 ##a[href^="https://trusted-click-host.com/"]
 ##a[href^="https://ttf.trmobc.com/"]
+##a[href^="https://tupitea.co/"]
 ##a[href^="https://twinrdsyn.com/"]
 ##a[href^="https://uncensored.game/"]
 ##a[href^="https://uncensored3d.com/"]
@@ -32854,10 +32861,12 @@ mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
 mypatriotsupply.com#@#[href^="https://mypatriotsupply.com/"] > img
 mypillow.com#@#[href^="https://mypillow.com/"] > img
+mystore.com#@#[href^="https://mystore.com/"] > img
 herbanomic.com#@#[href^="https://www.herbanomic.com/"] > img
 techradar.com#@#[href^="https://www.hostg.xyz/aff_c"]
 mypatriotsupply.com#@#[href^="https://www.mypatriotsupply.com/"] > img
 mypillow.com#@#[href^="https://www.mypillow.com/"] > img
+mystore.com#@#[href^="https://www.mystore.com/"] > img
 reimageplus.com#@#[href^="https://www.reimageplus.com/"]
 restoro.com#@#[href^="https://www.restoro.com/"]
 zstacklife.com#@#[href^="https://zstacklife.com/"] img
@@ -49275,6 +49284,7 @@ tf2r.com#@#.adverts
 ||watchingthat.net^
 ||watchtaro.com^
 ||waterproofsparkle.com^
+||watwait.com^
 ||waugique.net^
 ||waust.at^
 ||wauthaik.net^
@@ -49847,6 +49857,7 @@ tf2r.com#@#.adverts
 ||xlmesapxahyi.xyz^
 ||xlmsvfqao.com^
 ||xlow.xyz^
+||xlrdr.com^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvludsigt.com^
@@ -55159,6 +55170,7 @@ tf2r.com#@#.adverts
 ||widgets.oddschecker.com^
 ||widgets.progrids.com^
 ||widgets.tree.com^
+||windows.net/banners/$domain=hortidaily.com
 ||wowtcgloot.com/share/?d=$third-party
 ||wp.com/assets.sheetmusicplus.com/banner/
 ||wp.com/assets.sheetmusicplus.com/smp/
@@ -56015,7 +56027,7 @@ tf2r.com#@#.adverts
 ||calguns.net/images/ad
 ||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
 ||carfinderph.com/popup/
-||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.uktv.co.uk
+||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
 ||cdnpure.com/static/js/ads-
 ||celebjihad.com/celeb-jihad/pu_stc.js
 ||celebstoner.com/assets/components/bdlistings/uploads/
@@ -56162,6 +56174,7 @@ tf2r.com#@#.adverts
 ||holyfamilyradio.org/banners/
 ||homeschoolmath.net/a/
 ||horizonsunlimited.com/alogos/
+||hortidaily.com/b/
 ||hostsearch.com/creative/
 ||hotstar.com^*/midroll?
 ||hotstar.com^*/preroll?
@@ -58061,6 +58074,7 @@ ettvcentral.com###vpnvpn
 censor.net###w1001
 censor.net###w1031
 w2g.tv###w2g-square-ad
+igberetvnews.com###wallpaper
 eeweb.com###wallpaper_image
 everythingrf.com###walltrack
 realclearhistory.com###warning_empty_div
@@ -58117,6 +58131,7 @@ freebitz.xyz##.BannerMain
 thedailybeast.com##.CheatSheetList__placeholder
 tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
+swarajyamag.com##.CrIrA
 johnogroat-journal.co.uk##.DMPU
 charismanews.com##.FpFeaturedBoxWrap
 askapache.com##.GAD
@@ -58163,6 +58178,7 @@ tumblr.com##.Yc2Sp
 afar.com##.ZZAilYOLYlkw-Hv02mHW8
 olympics.com##.\-partners
 afkgaming.com##._1Qdz9
+swarajyamag.com##._1eNH8
 cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde
 thequint.com##._1v3nU
 tvzoneuk.com##._2JOHk
@@ -58240,6 +58256,7 @@ buzz.ie,irishpost.com,theweekendsun.co.nz##.add-block
 cricketcountry.com##.add-box
 addictinggames.com##.add-bx
 morningstar.in##.add-container
+ians.in##.add-inner
 zeenews.india.com##.add-placeholder
 ndtv.com,news24online.com##.add-section
 samachar.com##.add-slot-fluid
@@ -58412,7 +58429,7 @@ izismile.com##.ban_top
 lexico.com##.banbox
 lexico.com##.banbox-mini
 rhumbarlv.com##.banlink
-alistapart.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,ca-flyers.com,caixinglobal.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,filmmakermagazine.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gr8.cc,gsprating.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,irishpost.com,irishtimes.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,powerboat.world,reversephonesearch.com.au,roblox.com,scientificamerican.com,smartcarfinder.com,speedcafe.com,sputniknews.com,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,timeslive.co.za,timesofisrael.com,tmi.me,unblockstreaming.com,vloot.io,weatheronline.co.uk,weekly-ads.us,worldtimeserver.com,xbiz.com,ynetnews.com##.banner
+alistapart.com,arcadebomb.com,armageddonexpo.com,balls.ie,bikechatforums.com,btcmanager.com,ca-flyers.com,caixinglobal.com,caribvision.tv,cmo.com.au,coryarcangel.com,elyricsworld.com,euobserver.com,eurochannel.com,filmmakermagazine.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,gr8.cc,gsprating.com,hortidaily.com,hotnewhiphop.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,irishpost.com,irishtimes.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,livescore.in,marinelink.com,mercopress.com,mmorpg.com,news.am,oncyprus.com,pharmatimes.com,powerboat.world,reversephonesearch.com.au,roblox.com,scientificamerican.com,smartcarfinder.com,speedcafe.com,sputniknews.com,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,timeslive.co.za,timesofisrael.com,tmi.me,unblockstreaming.com,vloot.io,weatheronline.co.uk,weekly-ads.us,worldtimeserver.com,xbiz.com,ynetnews.com##.banner
 puzzlegarage.com##.banner--inside
 dailynewsegypt.com##.banner-250
 schoolguide.co.za##.banner-bar
@@ -58550,6 +58567,7 @@ btcmanager.com##.boo_3oo_6oo
 cmo.com.au,interiordesign.net##.boombox
 washingtonpost.com##.border-box.dn-hp-sm-to-mx
 washingtonpost.com##.border-box.dn-hp-xs
+standardmedia.co.ke##.border-thick-branding
 tineye.com##.bottom
 blockchair.com##.bottom--buttons-container
 pixxxels.cc##.bottom-a
@@ -58614,6 +58632,7 @@ bobvila.com##.bv-unit-wrapper
 radiotoday.co.uk##.byglhsmf
 insurancejournal.com##.bzn
 afl.com.au##.c-accordion__item-officialpartners
+tuko.co.ke##.c-adv
 legit.ng##.c-adv--video-placeholder
 newstalkzb.co.nz##.c-background
 elnacional.cat##.c-banner
@@ -59240,6 +59259,7 @@ gamertweak.com##.kfzyntmcd-caption
 dallasobserver.com##.kgbqfwag
 koreaherald.com##.khadv1
 wantedinafrica.com##.kn-widget-banner
+tuko.co.ke##.l-adv-branding__top
 iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
 weatherpro.com##.large-leaderboard
@@ -59476,7 +59496,7 @@ cheezburger.com##.nw-rail-min-250
 marineelectronics.com,marinetechnologynews.com,maritimeprofessional.com##.nwm-banner
 kueez.com,trendexposed.com##.nya-slot
 golfdigest.com##.o-ArticleRecirc
-mediaite.com##.o-promo-unit
+lawandcrime.com,mediaite.com##.o-promo-unit
 comicbook.com##.oas
 softexia.com##.offer
 oneindia.com##.oi-spons-ad
@@ -59549,7 +59569,7 @@ wweek.com##.pb-f-phanzu-phanzu-ad-code
 washingtonpost.com##.pb-lgmod
 playbuzz.com##.pb-site-player
 caixinglobal.com##.pc-ad-left01
-westernjournal.com##.persistent-footer
+thegatewaypundit.com,westernjournal.com##.persistent-footer
 proxfree.com##.pfad2
 proxfree.com##.pfad3
 proxfree.com##.pfad4
@@ -60857,7 +60877,7 @@ abpclub.co.uk##img[width="118"]
 howtogermany.com##img[width="120"]
 lyngsat-logo.com,lyngsat-maps.com,lyngsat-stream.com,lyngsat.com,newswireni.com,webhostingtalk.com##img[width="160"]
 fashionpulis.com##img[width="250"]
-afrivibes.net,airplaydirect.com,americaoutloud.com,bigeye.ug,completesports.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,flsentinel.com,forexmt4indicators.com,freedomhacker.net,gamblingnewsmagazine.com,gameplayinside.com,goodcarbadcar.net,kiwiblog.co.nz,mauitime.com,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,newzimbabwe.com,onislandtimes.com,punchng.com,radiobiz.co.za,reviewparking.com,robhasawebsite.com,sacobserver.com,seguintoday.com,theinsider.ug,themediaonline.co.za,theolivepress.es,therep.co.za,thewillnigeria.com,tntribune.com,wantedinafrica.com,wantedinrome.com,wschronicle.com##img[width="300"]
+afrivibes.net,airplaydirect.com,americaoutloud.com,bigeye.ug,completesports.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,flsentinel.com,forexmt4indicators.com,freedomhacker.net,gamblingnewsmagazine.com,gameplayinside.com,goodcarbadcar.net,kenyabuzz.com,kiwiblog.co.nz,mauitime.com,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,newzimbabwe.com,onislandtimes.com,punchng.com,radiobiz.co.za,reviewparking.com,robhasawebsite.com,sacobserver.com,seguintoday.com,theinsider.ug,themediaonline.co.za,theolivepress.es,therep.co.za,thewillnigeria.com,tntribune.com,wantedinafrica.com,wantedinrome.com,wschronicle.com##img[width="300"]
 everybithelps.co.uk##img[width="300"][height="300"]
 boxthislap.org##img[width="300px"]
 independent.co.ug##img[width="320"]
@@ -65583,6 +65603,15 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||sisafnib.space^
+||mtqdji.cn^
+||zaiaplb.cn^
+||ehprnuo.cn^
+||qorlsbls.cyou^
+||yd1s.top^
+||tanyp.xyz^
+||21fsdf.com^
+||tierzf.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -111328,6 +111357,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||g.bit.pt^
 ||g.bitmag.com.br^
 ||geoip.ativo.com^
+||globo-ab.globo.com^
 ||globo.com/geo?
 ||jsuol.com.br/aud/$script
 ||lancenet.com.br/pw.js
@@ -111981,6 +112011,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||supertaxi.com/webclient/scripts/tracking/tracking.js$script,~third-party
 @@||support.brother.com^*/js/analytics.js$script,~third-party
 @@||survey.userneeds.com^$subdocument,domain=foreca.com|forecaweather.com
+@@||switchfly.com/static/108f088/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie
