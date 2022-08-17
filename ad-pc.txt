@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8x8BDzbmOGuxK0/cI3L9eg
+! Checksum: pzYiJs1To44wdEBp2oMeBg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208170225
-! Last Modified: 2022年08月17日 02:25
+! Version: 202208171005
+! Last Modified: 2022年08月17日 10:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -52905,6 +52905,7 @@ tf2r.com#@#.adverts
 ||hornsgrid.com^$popup
 ||hotchatdate.com^$popup
 ||hotchatdirect.com^$popup
+||housecardsummerbutton.com^$popup
 ||hpyjmp.com^$popup
 ||hqtrk.com^$popup
 ||hrahdmon.com^$popup
@@ -59087,7 +59088,6 @@ yellowise.com##.g-widget-block
 titantv.com##.gAd
 animedao.to,elevenforum.com##.gads
 eonline.com##.gallery-rail-sticky-container
-msn.com##.galleryPage_eoabNativeAd-DS-EntryPoint1-1
 cdromance.com##.game-container[style="grid-column: span 2;"]
 geoguessr.com##.game-layout__in-game-ad
 amoyshare.com##.game-poster
@@ -60386,7 +60386,6 @@ imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 gadgetsnow.com##[data-type="mtf"]
 cnn.com##[data-zone-label="Paid Partner Content"]
-msn.com##[data=test-id="mrr-nativead"]
 naturalnews.com##[href*="/WBA-"]
 naturalnewsblogs.com##[href*="/WBA/"]
 complaintsingapore.com##[href*="/adv.php"]
@@ -60507,7 +60506,6 @@ geeksforgeeks.org##[id^="bsa-zone"]
 scmp.com##[id^="div-ad-"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
 comicbook.com,popculture.com##[id^="native-plus-"]
-msn.com##[id^="native_ad_"]
 noqreport.com##[id^="oqre-"]
 wuxiaworld.site##[id^="wuxia-"]
 apkcombo.com##[onclick*="_blank"]
@@ -60737,7 +60735,6 @@ theculturetrip.com##div[class^="billboard_"]
 timesnownews.com##div[class^="bottomStickyAd-"]
 historycollection.com##div[class^="cis_add_block"]
 3dnatives.com##div[class^="dnati-"]
-msn.com##div[class^="galleryPage_bannerAd"]
 groovypost.com##div[class^="groov-adsense-"]
 technologyreview.com##div[class^="headerTemplate__leaderboardRow-"]
 dailytrust.com##div[class^="header_ad_"]
@@ -61188,15 +61185,19 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 testpages.adblockplus.org###abptest
 msn.com##.bing-native-ad
 msn.com##.dynamicRRWrapper
+msn.com##.galleryPage_eoabNativeAd-DS-EntryPoint1-1
 msn.com##.intra-article-ad
 msn.com##.medianetintraarticlenativead
 msn.com##.nativeadserversidecontentmodule
 msn.com##.sameoab_ad_container
 msn.com##.serversidenativead.secondary
 msn.com##[class^="nativeAd"]
+msn.com##[data-test-id="mrr-nativead"]
+msn.com##[id^="native_ad_"]
 msn.com##a.nativead[target="_blank"]
 msn.com##div[aria-label="promotions"]
 msn.com##div[class^="articlePage_topBannerAdContainer_"]
+msn.com##div[class^="galleryPage_bannerAd"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 msn.com##div[data-section-id="stripe.bannernativead"]
 bing.com##.ad_sc
@@ -65669,6 +65670,14 @@ ubmcmm.baidustatic.com
 ||zyl520zh.online^
 ||zzycj.com^
 ||zzyl.mobi^
+||eisafniw.space^
+||ubktmlk.cn^
+||pnirrb.cn^
+||jisafnia.space^
+||qmbnkdh.cn^
+||666762.xyz^
+||dajewoi.top^
+||kaqweqrdf.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -77188,6 +77197,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||eefcdn.com/promotion/module/module.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -79237,7 +79247,7 @@ brushes8.com##.baidugg580
 hc360.com##.baidutuiguang
 acfun.cn##.banana-ad
 xizi.com##.baner1
-0du123.com,100ec.cn,10besty.com,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,imydl.com,iqiyi.com,jia360.com,jojf.cn,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,wallstreetcn.com,woniuyulew.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+0du123.com,100ec.cn,10besty.com,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,imydl.com,iqiyi.com,jia360.com,jojf.cn,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
 hxnews.com##.banner-90
 csdn.net##.banner-ad-box
 cnool.net##.banner-ad001
@@ -82935,6 +82945,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||papalah.com^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -82984,7 +82995,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/bannerAds/*$domain=yuanchuan.cn
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/cpc_cpm_$domain=ygo-sem.cn
-@@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
+@@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/home/ads/*$domain=esunbank.com.tw
 @@/image/ad/*$domain=gashpoint.com
@@ -83705,15 +83716,15 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||sinaimg.cn^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||tinypic.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 !#Anti-adblock
-gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250
-gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250m
-gamer.com.tw,papalah.com,pili.com.tw#@#.pub_728x90
-gamer.com.tw,papalah.com,pili.com.tw#@#.text-ad
-gamer.com.tw,papalah.com,pili.com.tw#@#.text-ad-links
-gamer.com.tw,papalah.com,pili.com.tw#@#.text-ads
-gamer.com.tw,papalah.com,pili.com.tw#@#.textAd
-gamer.com.tw,papalah.com,pili.com.tw#@#.text_ad
-gamer.com.tw,papalah.com,pili.com.tw#@#.text_ads
+gamer.com.tw,pili.com.tw#@#.pub_300x250
+gamer.com.tw,pili.com.tw#@#.pub_300x250m
+gamer.com.tw,pili.com.tw#@#.pub_728x90
+gamer.com.tw,pili.com.tw#@#.text-ad
+gamer.com.tw,pili.com.tw#@#.text-ad-links
+gamer.com.tw,pili.com.tw#@#.text-ads
+gamer.com.tw,pili.com.tw#@#.textAd
+gamer.com.tw,pili.com.tw#@#.text_ad
+gamer.com.tw,pili.com.tw#@#.text_ads
 !#Avgle.com
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 @@||avgle.com/embed/$genericblock,generichide
@@ -97968,7 +97979,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.yandex.com^
 ||mc.yandex.ru^
 ||mcdp-*.outbrain.com^
-||mcs-va.tiktok.com^
 ||mcssl.com^*/track.ashx?
 ||mdctrail.com/b.ashx$third-party
 ||mdxprod.io/analytics.js
