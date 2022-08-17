@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uvgPqjwCVaRDS5JC1Oln0Q
+! Checksum: 9ceGM7PSDXgxVJQ5+qlwRg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208171005
-! Last Modified: 2022年08月17日 10:05
+! Version: 202208171425
+! Last Modified: 2022年08月17日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2986,6 +2986,13 @@ ubmcmm.baidustatic.com
 ||666762.xyz^
 ||dajewoi.top^
 ||kaqweqrdf.com^
+||sy2s.top^
+||oumnxwvu.ink^
+||itnxxa.xyz^
+||iihpwzo.cn^
+||chiyan.group^
+||qqxfybt.cn^
+||zzeblsg.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20961,7 +20968,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3 > .well[data-group][style]
+##.col-lg-3 > .well[style]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
@@ -31094,6 +31101,7 @@ _mongo_stats/
 ||rftslb.com^
 ||rkdms.com^
 ||rlcdn.com^
+||rtactivate.com^
 ||s-onetag.com^
 ||sbgsodufuosmmvsdf.info^
 ||sc-static.net^
@@ -32051,6 +32059,7 @@ _mongo_stats/
 ||freshplum.com^$third-party
 ||friendbuy.com^$third-party
 ||frodx.com^$third-party
+||froomle.com^$third-party
 ||fruitflan.com^$third-party
 ||fsd2.digital^$third-party
 ||fstats.xyz^$third-party
@@ -33032,6 +33041,7 @@ _mongo_stats/
 ||research-tool.com^$third-party
 ||researchintel.com^$third-party
 ||researchnow.co.uk^$third-party,domain=~dynata.com
+||resetdigital.co^$third-party
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
 ||resulticks.com^$third-party
@@ -35226,6 +35236,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stupendousselection.com^
 ||stupendoussleet.com^$third-party
 ||stupendoussnow.com^
+||stupidscene.com^
 ||stupidsnake.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
@@ -51471,7 +51482,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
-@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org
+@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hitfile.net/platform/js/fdlogger/fdlogger.js$script,~third-party
 @@||hobbyking.com^*/gtm.js$script,~third-party
