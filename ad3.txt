@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mD+EPHKz2Hua71CkN9/L/w
+! Checksum: nkaGrTvpDG4MW6gvlJxSkA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208180222
-! Last Modified: 2022年08月18日 02:22
+! Version: 202208181002
+! Last Modified: 2022年08月18日 10:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2996,6 +2996,12 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||666763.xyz^
+||ma3s.top^
+||qdxsodq.cn^
+||miatip.cn^
+||pwqtkap.cn^
+||ogcyshr.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20967,13 +20973,13 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ||17ce.com^*_$image
 !#18comic.org
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-##.col-lg-3[style="z-index: 0;"] > .well
+##.col-lg-3[style^="z-index: 0"] > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
-##div[style="display: flex;justify-content: center;"] > .well[data-group][style]
+##.col-xs-12[style^="display"] > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 ||18comic.*/iframe
 ||18comic.*/static/resources/files/*0x
@@ -51812,7 +51818,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|unicef.de|vox.de
 @@||google-analytics.com/gtm/js?$script,domain=unicef.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
-@@||googletagmanager.com/gtm.js$domain=betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|radiorur.de|saturn.at|sport1.de|vox.de
+@@||googletagmanager.com/gtm.js$domain=betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|karriere.at|radiorur.de|saturn.at|sport1.de|vox.de
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
