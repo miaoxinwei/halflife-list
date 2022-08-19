@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JJnX3ynRU0AEZ2uxYPa6Lw
+! Checksum: ED5crLlSNf1S/CeIULR2ZA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208190221
-! Last Modified: 2022年08月19日 02:21
+! Version: 202208190955
+! Last Modified: 2022年08月19日 09:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3012,6 +3012,14 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||qisafniy.space^
+||gkiyvbk.cn^
+||pyrrtep.cn^
+||666764.xyz^
+||vliao365.com^
+||hgjxp.cn^
+||whpfl.cn^
+||ct4s.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20982,6 +20990,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
+/templates/frontend/airav/js/*.js$image
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
@@ -26786,6 +26795,7 @@ m.babytree.com##script + a[class]
 /dwanalytics.
 /dwell-log?
 /dwell/log?
+/dynamic.ziftsolutions.com/*
 /dynamic_ytrack_
 /DynamicAnalytics.
 /dynamictag.
@@ -30942,6 +30952,7 @@ _mongo_stats/
 !-----------------Third-party tracking domains-----------------!
 ||1cros.net^
 ||2022welcome.com^
+||2l6ddsmnm.de^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
@@ -31077,6 +31088,7 @@ _mongo_stats/
 ||mdhv.io^
 ||mm-api.agency^
 ||mors22.com^
+||mrpdata.net^
 ||mt48.net^
 ||n0909.com^
 ||native-track.com^
@@ -31106,6 +31118,7 @@ _mongo_stats/
 ||pzapi-ij.com^
 ||pzimff.com^
 ||quantserve.com^
+||quesid.com^
 ||quickanalytics.ca^
 ||quickkoala.io^
 ||r42tag.com^
@@ -31115,6 +31128,7 @@ _mongo_stats/
 ||rezync.com^
 ||rfpx1.com^
 ||rftslb.com^
+||rigill.com^
 ||rkdms.com^
 ||rlcdn.com^
 ||rtactivate.com^
@@ -31162,6 +31176,7 @@ _mongo_stats/
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
+||yottlyscript.com^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zenaps.com^
@@ -31355,6 +31370,7 @@ _mongo_stats/
 ||ambercrow.com^$third-party
 ||amikay.com^$third-party
 ||amnet.tw^$third-party
+||amp.vg^$third-party
 ||amplitude.com^$third-party
 ||ampush.io^$third-party
 ||amung.us^$third-party
@@ -31433,6 +31449,7 @@ _mongo_stats/
 ||autoaudience.com^$third-party
 ||autoid.com^$third-party
 ||autoline-top.com^$third-party
+||automizely-analytics.com^$third-party
 ||avantlink.com^$third-party
 ||avapartner.com^$third-party
 ||avastats.com^$third-party
@@ -36266,6 +36283,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||madnet.ru^$third-party
 ||mediaplan.ru^$third-party
 ||mediatoday.ru^$third-party
+||metaversn.site^$third-party
 ||metrika-informer.com^$third-party
 ||mokuz.ru^$third-party
 ||more-data.ru^$third-party
@@ -36427,6 +36445,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||affiliates.minglematch.com^
 ||affirm.com/api/v2/cookie_sent
 ||affirm.com/api/v2/session/touch_track
+||agent.contentsanalyst.com^
 ||air.audioeye.com^
 ||akamaihd.net/p1lakjen.gif
 ||akamaized.net/cookie_check/
@@ -37516,6 +37535,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||liverail.com/?metric=
 ||liverail.com/track/?
 ||livestats.kaltura.com^
+||livestory.io/*/collect
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||location3.com/analytics/
@@ -37822,6 +37842,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||player.ooyala.com/errors/report?
 ||playtomic.com/Tracker/
 ||plista.com/activity
+||pm.boostintegrated.com^
 ||poool.fr/api/v3/access/event
 ||porpoise.azettl.net^
 ||postageapp.com/receipt/$third-party
@@ -38256,6 +38277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.cordial.io^
 ||track.custora.com^
 ||track.digitalriver.com^
+||track.emerse.com^
 ||track.hubspot.com^
 ||track.juno.com^
 ||track.mailerlite.com^
@@ -38309,6 +38331,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.unbxdapi.com^
 ||tracker.wigzopush.com^
 ||tracker.wpserveur.net^
+||tracker.xgen.dev^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^$third-party
 ||tracking.*.miui.com^
@@ -39345,6 +39368,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.contents.by-fw.jp^
 ||analytics.liveact.cri-mw.jp^
 ||analytics.livesense.marketing^
+||analytics.partcommunity.com^
 ||analyzer51.fc2.com^
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
@@ -39397,6 +39421,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rasin.tech/scroll-logs/
 ||rcm.shinobi.jp^
 ||rd.rakuten.co.jp^$script
+||reports-tsi.tangerine.io^
 ||reproio.com^$third-party
 ||resultspage.com/js/sli-spark.js
 ||rlog.popin.cc^
@@ -39774,6 +39799,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.send.cm^
 ||analytics.slashdotmedia.com^
 ||analytics.synedat.com^
+||analytics.touchnote.io^
 ||analytics.tradedoubler.com^
 ||analytics.twitter.com^
 ||analytics.vedantu.com^
@@ -40931,6 +40957,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||foursquare.com/0UqK4c76/init.js
 ||freepeople.com/tN88Q85M/init.js
 ||hotpads.com/xOR1K5b6/init.js
+||iherb.com/VtidNbtC/init.js
 ||internships.com/oGckki0e/init.js
 ||jimmyjohns.com/Abo2Yc8X/init.js
 ||joann.com/qXTWmr91/init.js
@@ -50246,6 +50273,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||behave.sn.at^
 ||braunschweiger-zeitung.de/stats/
 ||bz-berlin.de/_stats/
+||cdn.stroeerdigitalgroup.de^
 ||chartsurfer.de/js/mtm.js
 ||chartsurfer.de/uscoll.php?
 ||chefkoch.de/tracking/
@@ -51484,6 +51512,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||geoip-db.com/jsonp/$script,third-party
 @@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com|luminskin.com|mybalancenow.com|myvanillacard.com|web.aw.ca
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=freshdesk.com|ibanez.com
+@@||geoip.cookieyes.com/geoip/checker/result.php$domain=marktechpost.com
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
