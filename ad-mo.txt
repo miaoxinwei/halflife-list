@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QGpAfcVUWfyK3IB4PcvMSQ
+! Checksum: KokDBHoPPOjK3r0gYgwCLA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202208191426
-! Last Modified: 2022年08月19日 14:26
+! Version: 202208192035
+! Last Modified: 2022年08月19日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20218,6 +20218,7 @@ _800x80_
 ##.ad_flat-boxright9
 ##.ad_float
 ##.ad_floating_box
+##.ad_fluid
 ##.ad_font
 ##.ad_footer
 ##.ad_footer_remove
@@ -22952,6 +22953,7 @@ _800x80_
 ##.advertising-top-box
 ##.advertising-top-category
 ##.advertising-vert
+##.advertising-wrapper
 ##.advertising1
 ##.advertising160
 ##.advertising2
@@ -23714,6 +23716,7 @@ _800x80_
 ##.bg-ad-link
 ##.bg-ad-top
 ##.bg-ads
+##.bg-ads-space
 ##.bgAdBlue
 ##.bg_ad
 ##.bg_ads
@@ -25411,6 +25414,7 @@ _800x80_
 ##.fixed-automatic-ad-amp
 ##.fixed-sidebar-ad
 ##.fixedAds
+##.fixedLeftAd
 ##.fixedRightAd
 ##.fixed_ad
 ##.fixed_ad_336x280
@@ -27291,6 +27295,7 @@ _800x80_
 ##.main-column-ad
 ##.main-footer-ad
 ##.main-google-ad-container
+##.main-header__ad-wrapper
 ##.main-news__ad
 ##.main-right-ads
 ##.main-tabs-ad-block
@@ -65683,6 +65688,11 @@ ubmcmm.baidustatic.com
 ||mumnxwvn.ink^
 ||deeplearning.red^
 ||gjeonh.cn^
+||gwzqbnh.cn^
+||neokbu.cn^
+||vwocvgr.cn^
+||zkqfrti.cn^
+##a[href*=".9377s.com/"]
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -77203,6 +77213,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cupfox.app###page-wrap > div:nth-child(3)
+2345.com##.cmp-game-new
+2345.com###kz
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -112397,7 +112410,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||google-analytics.com/analytics.js$script,domain=hobbyhall.fi
 @@||google-analytics.com/gtm/js$script,domain=hobbyhall.fi
-@@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|iltalehti.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
+@@||googletagmanager.com/gtm.js$script,domain=arvopaperi.fi|cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|iltalehti.fi|inferno.fi|mediuutiset.fi|mikrobitti.fi|rumba.fi|soundi.fi|talouselama.fi|tekniikkatalous.fi|tilt.fi|tivi.fi|veho.fi|www.kauppalehti.fi|www.uusisuomi.fi
 @@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$domain=elisa.fi|kauppahalli24.fi
