@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ED5crLlSNf1S/CeIULR2ZA
+! Checksum: QiYUIc3wwNvU7kri0wkz7w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208190955
-! Last Modified: 2022年08月19日 09:55
+! Version: 202208191426
+! Last Modified: 2022年08月19日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3020,6 +3020,12 @@ ubmcmm.baidustatic.com
 ||hgjxp.cn^
 ||whpfl.cn^
 ||ct4s.top^
+||mnver.xyz^
+||bbzerk.cn^
+||oisafnik.space^
+||mumnxwvn.ink^
+||deeplearning.red^
+||gjeonh.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -25654,6 +25660,7 @@ m.babytree.com##script + a[class]
 /analytics-events-
 /analytics-facade.
 /analytics-gcp.
+/analytics-gjc/*
 /analytics-helper.
 /analytics-hit?
 /analytics-ingestion/*
@@ -30986,6 +30993,7 @@ _mongo_stats/
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
+||cadsuta.net^
 ||captcha-display.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
@@ -31085,6 +31093,7 @@ _mongo_stats/
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||mcangelus.com^
 ||mdhv.io^
 ||mm-api.agency^
 ||mors22.com^
@@ -31136,6 +31145,7 @@ _mongo_stats/
 ||sbgsodufuosmmvsdf.info^
 ||sc-static.net^
 ||seadform.net^
+||selphiu.com^
 ||seoab.io^
 ||site24x7rum.eu^
 ||sixtrk.com^
@@ -32648,6 +32658,7 @@ _mongo_stats/
 ||mongoosemetrics.com^$third-party
 ||monitis.com^$third-party
 ||monitus.net^$third-party
+||monsido.com^$third-party
 ||monstat.com^$third-party
 ||monu.delivery^$third-party
 ||mooseway.com^$third-party
@@ -35657,6 +35668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||refinedads.com^$third-party
 ||research.de.com^$third-party
 ||reshin.de^$third-party
+||retailads.net^$third-party
 ||rightstats.com^$third-party
 ||royalcount.de^$third-party
 ||scriptil.com^$third-party
@@ -36677,10 +36689,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awe.sm/conversions/
 ||aweber.com/form/displays.htm?$image
 ||awesome.section.io^
+||ax.babe.today^
 ||axislogger.appspot.com^
 ||az693360.vo.msecnd.net^
 ||azureedge.net/javascripts/Tracking.
 ||azureedge.net/track
+||azureedge.net^*/fnix.js
 ||azurewebsites.net/api/views?
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
@@ -37118,6 +37132,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
 ||event-listener.air.tv^
+||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
 ||event.getblue.io^
@@ -38366,7 +38381,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.livingsocial.com^
 ||tracking.magnetmail.net^
 ||tracking.markethero.io^
-||tracking.monsido.com^
 ||tracking.musixmatch.com^
 ||tracking.olx-st.com^
 ||tracking.pacharge.com^
@@ -39513,6 +39527,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.omgpl.com^
 ||tracking.novem.pl^
 ||wymiana.org/stat/
+||analytics-coletor-site.ojc.com.br^
 ||api.nobeta.com.br^
 ||b2w.io/event/
 ||events.chaordicsystems.com^
@@ -50347,6 +50362,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||track.dws.de^
 ||track.express.de^
 ||track.noz.de^
+||track.rheinpfalz.de^
 ||track.rundschau-online.de^
 ||tracking.asialadies.de^
 ||tracking.avladies.de^
@@ -51342,6 +51358,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hellobank.fr|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
 @@||aeries.net^*/require/analytics/views/$script,~third-party
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
+@@||akamaihd.net/nbad/player/*/appmeasurement.js$domain=watch.nba.com
+@@||akamaihd.net/nbad/player/*/visitorapi.js$domain=watch.nba.com
 @@||akamaihd.net/worldwide_analytics/$script,domain=ubi.com|ubisoft.com
 @@||akamaihd.net^*/analyticssdk.js$script,domain=ubisoft.com|ubisoftconnect.com
 @@||akamaized.net^*/resource/assets/$xmlhttprequest,domain=funplusgame.com
@@ -51864,6 +51882,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
+@@||intersport.peerius.com/tracker/tracker.page$script,domain=intersport.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
