@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kGXX5NUa44PlzECCLNo2Kg
+! Checksum: jGldiZKkASEBXWB0j/KZjw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208200951
-! Last Modified: 2022年08月20日 09:51
+! Version: 202208201421
+! Last Modified: 2022年08月20日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -17979,6 +17979,7 @@ _800x80_
 ##.ac_adbox
 ##.ac_adbox_inner
 ##.acf-ad
+##.acm-ad-tag-unit
 ##.acm_ad_zones
 ##.ad--300
 ##.ad--300x250
@@ -30134,6 +30135,7 @@ _800x80_
 ##.statTop_adsense
 ##.static-ad
 ##.staticAd
+##.static_mpu_wrap
 ##.staticad
 ##.staticad_mark125
 ##.std_ad_container
@@ -57894,7 +57896,7 @@ livelaw.in###news_on_exit
 canberratimes.com.au,examiner.com.au,theland.com.au###newswell-leaderboard-container
 searchfiles.de###nextuse
 seroundtable.com###ninja_box
-pcgamesn.com,pockettactics.com###nn_astro_wrapper
+pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
 trueachievements.com,truesteamachievements.com,truetrophies.com###nn_bfa_wrapper
 techraptor.net,unite-db.com###nn_lb1
 techraptor.net,unite-db.com###nn_lb2
@@ -65816,6 +65818,12 @@ ubmcmm.baidustatic.com
 ||lisafnil.space^
 ||it5s.top^
 ||666765.xyz^
+||syr66.com.cn^
+||numnxwvv.ink^
+||004fsdljasd.xyz^
+||ioxjce.xyz^
+||pygone.top^
+||polflq.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -112396,6 +112404,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|unicef.de|vox.de
 @@||google-analytics.com/gtm/js?$script,domain=unicef.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
+@@||googletagmanager.com/gtag/js$script,domain=modehasen.de
 @@||googletagmanager.com/gtm.js$domain=betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|karriere.at|radiorur.de|saturn.at|sport1.de|vox.de
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
