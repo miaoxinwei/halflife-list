@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: i/JOLjz4heQjsXAgIsxsAQ
+! Checksum: 1EtCGkXno+BCNX61JDxtdA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208211422
-! Last Modified: 2022年08月21日 14:22
+! Version: 202208212030
+! Last Modified: 2022年08月21日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -27824,6 +27824,7 @@ _800x80_
 ##.mpu_platinum
 ##.mpu_side
 ##.mpu_text_ad
+##.mpu_wrapper
 ##.mpuad
 ##.mpuads
 ##.mpuholderportalpage
@@ -57128,6 +57129,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstreamta
 ||imgbox.com/images/tpd.png
 ||imgderviches.work/exclusive/bayou_
 ||imgtaxi.com/frame.php
+||imhentai.xxx/js/slider.js
 ||interracial-girls.com/chaturbate/
 ||interracial-girls.com/i/$image
 ||iplayboy.us/bnrs/
@@ -57897,7 +57899,7 @@ livelaw.in###news_on_exit
 canberratimes.com.au,examiner.com.au,theland.com.au###newswell-leaderboard-container
 searchfiles.de###nextuse
 seroundtable.com###ninja_box
-pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
+pcgamebenchmark.com,pcgamesn.com,pockettactics.com,theloadout.com###nn_astro_wrapper
 trueachievements.com,truesteamachievements.com,truetrophies.com###nn_bfa_wrapper
 techraptor.net,unite-db.com###nn_lb1
 techraptor.net,unite-db.com###nn_lb2
@@ -65842,6 +65844,13 @@ ubmcmm.baidustatic.com
 ||aw6s.top^
 ||mnvqx.xyz^
 ||666767.xyz^
+||skbao.co^
+||zlmbnh.cn^
+##A[href*="/uu5566.cn.com/"]
+||uu2e.com^
+||888yh.xyz^
+||img301.com^
+||bakeryembedded.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -77360,6 +77369,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||23img.com^*/qomnyi.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -83814,6 +83824,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
+/media/users/*.js$image
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
@@ -111500,6 +111511,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
 ||analytics.cocolog-nifty.com^
+||analytics.ikyu.com^
 ||analytics.mbga.jp^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
