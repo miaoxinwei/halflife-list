@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bqcTJJd21WbNYfahgF0nmw
+! Checksum: LnACfGitNdWdLl+yYgKm7Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202208210948
-! Last Modified: 2022年08月21日 09:48
+! Version: 202208211422
+! Last Modified: 2022年08月21日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -3059,6 +3059,8 @@ ubmcmm.baidustatic.com
 ||uisafnit.space^
 ||euqxtuj.cn^
 ||aw6s.top^
+||mnvqx.xyz^
+||666767.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -21035,7 +21037,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 ##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
-/templates/frontend/airav/js/*.gif$image
+/templates/frontend/airav/js/*$image
 ://18comic*/templates/frontend/airav/js/jquery.avs-0.4.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
