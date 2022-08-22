@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1bA7QEht5jQO8VdRrYuQLA
+! Checksum: xPzIyNmKEczOOWCYcom57A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208221427
-! Last Modified: 2022年08月22日 14:27
+! Version: 202208222037
+! Last Modified: 2022年08月22日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3082,6 +3082,11 @@ ubmcmm.baidustatic.com
 ||otjedg.xyz^
 ||ogeyut.cn^
 ||dongdong.world^
+||zlujomk.cn^
+||wctcudh.cn^
+||sumnxwvr.ink^
+||hcegdxb.cn^
+||poereawer.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14602,6 +14607,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||cdn.haokongbu1.com^*.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -21056,7 +21062,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
-||18comic.*/media/users/*.js
+||18comic.*/media/users/
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
@@ -25279,7 +25285,6 @@ m.babytree.com##script + a[class]
 .com/counter?
 .com/dc.gif?
 .com/g.gif?
-.com/ga-*.js
 .com/ga.js;
 .com/ga.js?
 .com/geo_ip
