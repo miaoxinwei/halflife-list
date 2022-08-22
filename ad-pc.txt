@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oqu5w6Sx5aPBCYJqBkrpMA
+! Checksum: 2LmrXkPGbahYI67B1FPboQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208220221
-! Last Modified: 2022年08月22日 02:21
+! Version: 202208220954
+! Last Modified: 2022年08月22日 09:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14862,6 +14862,7 @@ _800x80_
 ###leaderboard-advertisement
 ###leaderboard-atf
 ###leaderboard-bottom-ad
+###leaderboard.ad
 ###leaderboardAd
 ###leaderboardAdArea
 ###leaderboardAdArea2
@@ -27181,6 +27182,7 @@ _800x80_
 ##.leaderboardadtop
 ##.leaderboardadwrap
 ##.leadgenads
+##.lee-track-ilad
 ##.left-ad
 ##.left-ad180
 ##.left-ads
@@ -32399,8 +32401,13 @@ _800x80_
 ##.scroll-fixable.rail-right > .deals-rail
 ##.click-track.partner
 ##[href^="https://freecourseweb.com/"] > .sitefriend
+###gnt_atomsnc
+##.gnt_flp
+##.gnt_rr_xpst
+##.gnt_rr_xst
 ##.gnt_tb.gnt_tbb
 ##.gnt_tbr.gnt_tb
+##.gnt_x
 ###mplayer-embed
 ##.GRVVideo
 ##.ac-lre-desktop
@@ -32491,7 +32498,6 @@ _800x80_
 ##AMP-AD
 ##amp-fx-flying-carpet
 ###mobile-swipe-banner
-##.gnt_x
 ###banner_pos1_ddb_0
 ###banner_pos2_ddb_0
 ###banner_pos3_ddb_0
@@ -65854,6 +65860,14 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||misafnix.space^
+||uibtxv.cn^
+||uxngqd.cn^
+||mukjozy.cn^
+||aimtxb.cn^
+||peigbv.cn^
+||666769.xyz^
+||op7s.top^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -83828,6 +83842,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
+/media/users/fb_*.js
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
@@ -88742,6 +88757,7 @@ fqsousou.com,kengso.com#@#.user-share
 /netupdate/live.php?
 /NetworkTracking.
 /neustar.beacon.
+/new-client/trackers.
 /new-relic.$~stylesheet
 /new.cnt.aspx?
 /newlog.php?
@@ -89551,6 +89567,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sensor/statistic?
 /sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
+/sentry-browser.
 /sentry.unit-
 /seo-track.
 /seo.googleAnalytics-
@@ -92106,6 +92123,7 @@ _mongo_stats/
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
 ||bluecore.com^$third-party
+||blueknow.com^$third-party
 ||blvdstatus.com^$third-party
 ||bm23.com^$third-party
 ||bm324.com^$third-party
@@ -97005,6 +97023,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||activengage.com/overwatch/
 ||ad-shield.io^$third-party
 ||ad.aloodo.com^
+||adbr.io/log?
 ||addthis.com/at/
 ||addthis.com/live/
 ||addthiscdn.com/live/
@@ -99091,6 +99110,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||web1.51.la^
 ||webcare.byside.com^
 ||webedia.fr/js/gs.js
+||webeyo.com/ipinfo
 ||weblogger-dynamic-lb.playdom.com^
 ||websdk.appsflyer.com^
 ||webservices.websitepros.com^
