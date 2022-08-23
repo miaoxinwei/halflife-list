@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fQV1eaThwSzHyA4WPPURhQ
+! Checksum: hSlWxhLiagDXJ2l9Yd7eHg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208231431
-! Last Modified: 2022年08月23日 14:31
+! Version: 202208232035
+! Last Modified: 2022年08月23日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3103,6 +3103,10 @@ ubmcmm.baidustatic.com
 ||8910.la^
 ||ywbmed.cn^
 ||ylc.ink^
+||orysogsik.uno^
+||clzw.cyou^
+##a[href*=".topnfb.com/"]
+##a[href*=".ieeod0.com/"]
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14626,6 +14630,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+3dmgame.com##.abstergo
 btnull.org###ly
 litu100.xyz##.push-bottom
 litu100.xyz##.push-top
@@ -37094,6 +37099,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crowdskout.com/analytics.js
 ||crowdskout.com/skout.js
 ||crowdskout.com^*/page-view
+||crta.and.co.uk^
 ||crta.dailymail.co.uk^
 ||csi.gstatic.com^
 ||csp-collector.appspot.com^
@@ -37758,6 +37764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
 ||monitor.azure.com^
+||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
 ||movementventures.com/_uid.gif
 ||mozilla.org/page/*/open.gif$third-party
@@ -52273,6 +52280,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !---------- Korean ----------
 @@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
+@@||static.homeplus.kr/escrow-web/*/static/js/common/ga.js
 @@||vod.midas-i.com^$media,domain=pandora.tv
 @@||wcs.naver.com/m$image,domain=sooldamhwa.com
 !---------- Latvian ----------
