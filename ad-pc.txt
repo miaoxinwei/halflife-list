@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mmUIGOox4fbzZ40f9QOujA
+! Checksum: yo690LjUdAbD9B/TvTriTg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208230222
-! Last Modified: 2022年08月23日 02:22
+! Version: 202208231000
+! Last Modified: 2022年08月23日 10:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -31210,6 +31210,7 @@ _800x80_
 ##[data-template-type="nativead"]
 ##[href*=".engine.adglare.net/"]
 ##[href*=".zlinkm.com/"]
+##[href*="http://MyPillow.com"] > img
 ##[href*="incentrev.com/"] img
 ##[href="https://masstortfinancing.com"] img
 ##[href="https://ourgoldguy.com/contact/"] img
@@ -32112,6 +32113,7 @@ _800x80_
 ##.gnt_tb.gnt_tbb
 ##.gnt_tbr.gnt_tb
 ##.gnt_x
+###jwplayer_contextual_player_div
 ###mplayer-embed
 ###primis-holder
 ###primis_intext
@@ -60218,12 +60220,14 @@ jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
 theblaze.com##[data-category="SPONSORED"]
 medicalnewstoday.com##[data-empty="true"]
 greatist.com,psychcentral.com##[data-empty]
+jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
 kbb.com##[data-lean-auto="flexible-native-2"]
 goal.com##[data-name="ad-leaderboard"]
 polygon.com##[data-native-ad-id^="container"]
 namepros.com##[data-np-ga-event="ad"]
 duplichecker.com##[data-pagespeed-url-hash]
+jeffdornik.com##[data-pin-url]
 washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-qa="right-rail-ad"]
 ginx.tv##[data-ref]
@@ -62737,6 +62741,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+://rou*/_next/static/chunks/pages/home-
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -65636,6 +65641,16 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||nisafnic.space^
+||jatpap.cn^
+||tbtpezs.cn^
+||frbcmq.cn^
+||gh8s.top^
+||5555nt.com^
+||dwswap.xyz^
+||helloworldisbeautiful.net^
+||572k3.com^
+||666772.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -77159,6 +77174,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+btnull.org###ly
+litu100.xyz##.push-bottom
+litu100.xyz##.push-top
+litu100.xyz##.slider-ad
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -110773,6 +110792,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||api.odysee.com/locale/get
+||cdtm.cdiscount.com^
 ||batiactu.com/cap_
 ||boingtv.fr/track_view
 ||compteur.developpez.com^
