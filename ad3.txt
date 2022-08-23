@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hSlWxhLiagDXJ2l9Yd7eHg
+! Checksum: 1NYAksVgftWWrS2gSIxzDA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208232035
-! Last Modified: 2022年08月23日 20:35
+! Version: 202208240222
+! Last Modified: 2022年08月24日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3107,6 +3107,7 @@ ubmcmm.baidustatic.com
 ||clzw.cyou^
 ##a[href*=".topnfb.com/"]
 ##a[href*=".ieeod0.com/"]
+||745c.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -21096,7 +21097,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 ||18comic.*/iframe
-||18comic.*/media/users/
+||18comic.*/media/logo/
 ||18comic.*/static/resources/files/*0x
 ||18comic.*/static/resources/images/168/
 ||18comic.*/static/resources/images/300
@@ -39724,7 +39725,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||piper.amocrm.ru^
 ||pluso.ru/counter.php?
 ||pluso.ru/ping.php?
-||prime.rambler.ru^
+||prime.rambler.ru^$~script
 ||prompages.ru/top/
 ||promworld.ru^*/counter.php?
 ||properm.ru/top/counter_new.php?
