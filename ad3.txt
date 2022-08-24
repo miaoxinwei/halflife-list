@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pkMFE/zttS2ze6Jb9WyLJQ
+! Checksum: 3Ws1ge8WydqnLsY76lrRxw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208240958
-! Last Modified: 2022年08月24日 09:58
+! Version: 202208241425
+! Last Modified: 2022年08月24日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3117,6 +3117,13 @@ ubmcmm.baidustatic.com
 ||ydqkpy.cn^
 ||yk9s.top^
 ||fangfeng001.xyz^
+||powjk.com^
+||wkktfuy.cn^
+||ruoci666.cn^
+||rnzqde.xyz^
+||shcd.me^
+||xfkujwt.cn^
+||fool.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -13225,7 +13232,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||paopaoche.net/skins/count.js
 ||partner.toutiao.com^
 ||pbmp.ali213.net/js/
-||pbpb.tv^*/640x200.js
 ||pc6.com/img/
 ||pc841.com/show/
 ||pcauto.com.cn/forum/fz/hots/
@@ -17051,7 +17057,7 @@ caixin.com##.course_box
 meishij.net##.cp_body_right
 baidu.com##.cpc-adv-container
 makepolo.com##.cpc_tgs
-pbpb.tv##.cpcad
+pianma.net##.cpcad
 zuoye.baidu.com,zybang.com##.cpro
 docin.com##.cpro_mod
 qq.com##.cps_inner
@@ -21096,7 +21102,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 17ce.com##tr[id^="tr"] > td > a[href^="http"]
 ||17ce.com^*_$image
 !#18comic.org
-18comic.org,18comic.vip#?#div:-abp-has(>.adsbyexoclick)
+18comic.org,18comic.vip#?#:-abp-has(>.adsbyexoclick)
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 ##.col-lg-3.col-xs-6 > .well
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
