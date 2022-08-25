@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M1ziaLmUf4GfZaHdkuACBA
+! Checksum: Ihl+C+4K3I4pjijVVtKuCQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208251001
-! Last Modified: 2022年08月25日 10:01
+! Version: 202208251434
+! Last Modified: 2022年08月25日 14:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3133,6 +3133,10 @@ ubmcmm.baidustatic.com
 ||t4sb9dq7.site^
 ||ig1a.top^
 ||666774.xyz^
+||tixnd.xyz^
+||fdveqpc.cn^
+||zhanlan.asia^
+||ptenwy.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -27640,6 +27644,7 @@ m.babytree.com##script + a[class]
 /imp?imp_key=
 /imp?reqid=
 /imp?sid=
+/imp_-_pixel.
 /imp_check.php
 /imp_cnt.gif?
 /imp_img.php?
@@ -27860,8 +27865,8 @@ m.babytree.com##script + a[class]
 /kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
-/koko-analytics/*/script.js
 /koko-analytics-
+/koko-analytics/*/script.js
 /kontera.js
 /konterayahoooo.
 /kooomo.tracker.
@@ -30524,6 +30529,7 @@ m.babytree.com##script + a[class]
 /yad_sortab_cetlog.js
 /yandex-metrica-watch/*
 /yandex-metrika.js
+/YandexMetric.
 /yastat.js
 /ybn_pixel/*
 /yell-analytics-
