@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ihl+C+4K3I4pjijVVtKuCQ
+! Checksum: VqRkhIGWCyiDNu1BGlYw0Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208251434
-! Last Modified: 2022年08月25日 14:34
+! Version: 202208252036
+! Last Modified: 2022年08月25日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -189,6 +189,7 @@ quandangdang.net
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/hm.js?$xmlhttprequest,third-party
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -3137,6 +3138,11 @@ ubmcmm.baidustatic.com
 ||fdveqpc.cn^
 ||zhanlan.asia^
 ||ptenwy.cn^
+||izzcwww7.world^
+||izzcwww8.xyz^
+||izzcwww7.live^
+||izzcwww9.xyz^
+||rumnxwvo.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -21126,7 +21132,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 ||18comic.*/iframe
-||18comic.*/media/albums/*?
+://18comic.*/media/albums/*?
 ||18comic.*/media/logo/
 ||18comic.*/static/resources/files/*0x
 ||18comic.*/static/resources/images/168/
@@ -51763,6 +51769,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|motortrendondemand.com
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|equifax.ca|jbhifi.com.au|login.skype.com|usbank.com|vitacost.com|westernunion.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
+@@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||my.dxdelivery.com/js/tracking.js$script,~third-party
@@ -52238,6 +52245,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.cxense.com/public/widget/data?$script,domain=mainichi.jp|wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net
 @@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.gold|friday.kodansha.co.jp
+@@||api.ipify.org^$xmlhttprequest,domain=offering-flower.com
 @@||assets.adobedtm.com^*-librarycode_source.min.js$script,domain=mora.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||b-cloud.templatebank.com/js/gtag.js$~third-party
