@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qoGOUiMfhSe7fhytfxJjtg
+! Checksum: 1yUgINOt5rhQoT9ZoX4umA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202208261437
-! Last Modified: 2022年08月26日 14:37
+! Version: 202208262036
+! Last Modified: 2022年08月26日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8860,6 +8860,7 @@ _800x80_
 ###ad-label2
 ###ad-large-banner-top
 ###ad-large-header
+###ad-layout-top
 ###ad-lb
 ###ad-lb-secondary
 ###ad-ldr-spot
@@ -16939,6 +16940,8 @@ _800x80_
 ##.ad-01
 ##.ad-02
 ##.ad-1
+##.ad-1-sidebar-1
+##.ad-1-sidebar-2
 ##.ad-10
 ##.ad-101
 ##.ad-11
@@ -30577,6 +30580,7 @@ _800x80_
 ##a[href^="https://landing1.brazzersnetwork.com"]
 ##a[href^="https://lead1.pl/"]
 ##a[href^="https://leg.xyz/?track="]
+##a[href^="https://lobimax.com/"]
 ##a[href^="https://look.utndln.com/"]
 ##a[href^="https://m.do.co/c/"] > img
 ##a[href^="https://maymooth-stopic.com/"]
@@ -31645,6 +31649,7 @@ tf2r.com#@#.adverts
 ||39d1d397c97730.com^
 ||3a1be44ca9.com^
 ||3a57c13de7.com^
+||3adae883b0.com^
 ||3c92e2040f.com^
 ||3ca28642b714623b2.com^
 ||3d406f3a14.com^
@@ -31852,6 +31857,7 @@ tf2r.com#@#.adverts
 ||7e625f490775b155.com^
 ||7eaf2aa8c1.com^
 ||7f19b1713b43f7db.com^
+||7f403e402a.com^
 ||7f59b515a6.com^
 ||7fkm2r4pzi.com^
 ||7hor9gul4s.com^
@@ -44995,6 +45001,7 @@ tf2r.com#@#.adverts
 ||salinasbhut.com^
 ||sallyfundamental.com^
 ||salsifyballone.com^
+||saltateblit.com^
 ||saltinourhairtv.com^
 ||saltscorn.com^
 ||saltycarboninsulting.com^
@@ -45129,6 +45136,7 @@ tf2r.com#@#.adverts
 ||sdgkffgbbddk.com^
 ||sdhfbvd.com^
 ||sdkfjxjertertry.com^
+||sdnihyxlqiws.com^
 ||sdrbxvpoglmbz.com^
 ||sdsttt.com^
 ||sduptpppm.com^
@@ -51577,6 +51585,7 @@ tf2r.com#@#.adverts
 ||harolddebris.com^$popup
 ||haunthonouredderived.com^$popup
 ||headyguin.com^$popup
+||heartbiddsp.monster^$popup
 ||heedenglish.com^$popup
 ||hehighursoo.com^$popup
 ||hemquotedchamber.com^$popup
@@ -51786,6 +51795,7 @@ tf2r.com#@#.adverts
 ||lnkgt.com^$popup
 ||lnwinopinion.click^$popup
 ||loadsfalladz.casa^$popup
+||lobimax.com^$popup
 ||locygruwo.com^$popup
 ||lokvel.ru^$popup
 ||looew.club^$popup
@@ -52053,6 +52063,7 @@ tf2r.com#@#.adverts
 ||peepholecarrying.com^$popup
 ||peezette-intial.com^$popup
 ||pegloang.com^$popup
+||pellodersecalmi.ga^$popup
 ||pentinehelmed.com^$popup
 ||perfecttoolmedia.com^$popup
 ||performancetrustednetwork.com^$popup
@@ -52731,6 +52742,7 @@ tf2r.com#@#.adverts
 ||xlivrdr.com^$popup
 ||xml-api.online^$popup
 ||xmlapiclickredirect.com^$popup
+||xpprinx2.com^$popup
 ||xtendmedia.com^$popup
 ||xudawhuwa.com^$popup
 ||xuxihoy.ru^$popup
@@ -57714,6 +57726,7 @@ notebooks.com##.efbleft
 ctvnews.ca##.election-leaderboard
 sashares.co.za##.elementor-48612
 dailyfetched.com##.elementor-element-4e695da
+thecountersignal.com##.elementor-element-8d2cc6c
 canyoublockit.com##.elementor-widget-container > center > p
 estnn.com##.elementor-widget-wp-widget-ai_widget
 lego.com##.emotion-cache-1tunmxn
@@ -64616,6 +64629,8 @@ ubmcmm.baidustatic.com
 ||gbpofla.cn^
 ||sifang.info^
 ||xxrsxs.cn^
+||whxva.com^
+||zykwnj.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
