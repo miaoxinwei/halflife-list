@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y3X2ncIuGufkITvUA7SRMQ
+! Checksum: ShCKaU3XQ8FufDKUMHLR2g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208262036
-! Last Modified: 2022年08月26日 20:36
+! Version: 202208270222
+! Last Modified: 2022年08月27日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1981,6 +1981,7 @@ ubmcmm.baidustatic.com
 ##a[href*="/kk80.cc"]
 ##a[href*="/tv688.cc"]
 ##a[href*="/uu5566.cn.com/"]
+##a[href*="/ybhth689.com"]
 ##div[onclick*=".yyav5.top"]
 ##img[onclick*="/kk80.cc"]
 ##img[src*=".hecan123.top"]
@@ -2082,6 +2083,7 @@ ubmcmm.baidustatic.com
 ||666772.xyz^
 ||666773.xyz^
 ||666774.xyz^
+||666775.xyz^
 ||69688qp.com^
 ||7080ys.top^
 ||745c.cn^
@@ -2126,6 +2128,7 @@ ubmcmm.baidustatic.com
 ||aoxiang.fun^
 ||aqiwxzv.cn^
 ||aqnpbpa.cn^
+||arlbper.cn^
 ||asdqwe.ltd^
 ||asf56165.xyz^
 ||asuijm.cn^
@@ -2242,6 +2245,7 @@ ubmcmm.baidustatic.com
 ||dcfh7vk.cn^
 ||deeplearning.red^
 ||dengbalt.fun^
+||dengteng.me^
 ||dfsvhv88.com^
 ||dhrfnyw.xyz^
 ||diamax.hk^
@@ -2259,7 +2263,9 @@ ubmcmm.baidustatic.com
 ||dwwyy.top^
 ||dxzky.love^
 ||dyjcydn.cloud^
+||ecudsc.cn^
 ||edzyhx.cn^
+||eebuwr.cn^
 ||eengbalu.fun^
 ||eeoqsr.cn^
 ||efangcdn.com^
@@ -2276,6 +2282,7 @@ ubmcmm.baidustatic.com
 ||esajfsd.cn^
 ||etxggi.cn^
 ||euliglsp.space^
+||eumnxwvp.ink^
 ||euqxtuj.cn^
 ||eurostatsafetyshoes.tw^
 ||exeqzb.cn^
@@ -2312,6 +2319,7 @@ ubmcmm.baidustatic.com
 ||fyyqq.top^
 ||galvanic.name^
 ||gass.top^
+||gbpofla.cn^
 ||gdls114.com^
 ||gednra.cn^
 ||gfdh56.site^
@@ -2440,6 +2448,7 @@ ubmcmm.baidustatic.com
 ||ijre.club^
 ||ikrweb.cn^
 ||ikvcxz.cn^
+||ilmwaqf.cn^
 ||img301.com^
 ||imgapp.top^
 ||inpnjq.cn^
@@ -2450,6 +2459,7 @@ ubmcmm.baidustatic.com
 ||ishoutu.net^
 ||it5s.top^
 ||itbwq.xyz^
+||itnxqd.xyz^
 ||itnxxa.xyz^
 ||iuliglsh.space^
 ||iumnxwvh.ink^
@@ -2827,6 +2837,7 @@ ubmcmm.baidustatic.com
 ||shxsh1.top^
 ||shygkl.com^
 ||shzq8888.com^
+||sifang.info^
 ||sinaimges.com^
 ||siqwfy.cn^
 ||sisafnib.space^
@@ -2847,6 +2858,8 @@ ubmcmm.baidustatic.com
 ||soshow.hk^
 ||sozdzl.cn^
 ||srurzn.cn^
+||srysogsib.uno^
+||ss2a.top^
 ||ssdp.xyz^
 ||sttcc.top^
 ||sttrr.top^
@@ -2939,6 +2952,7 @@ ubmcmm.baidustatic.com
 ||vdresaa.top^
 ||vdzzauf.cn^
 ||veadmin.com^
+||veickea.cn^
 ||venator.link^
 ||vengbald.fun^
 ||very010.com^
@@ -2955,6 +2969,7 @@ ubmcmm.baidustatic.com
 ||vkoehsx.cn^
 ||vkygseu.cn^
 ||vliao365.com^
+||vnvmif.cn^
 ||vofiamb.cn^
 ||voihkjd.cn^
 ||vongsond.uno^
@@ -2979,6 +2994,7 @@ ubmcmm.baidustatic.com
 ||wfkspcs.cn^
 ||whoican.love^
 ||whpfl.cn^
+||whxva.com^
 ||wisafnie.space^
 ||wiuspckmn.bar^
 ||wkktfuy.cn^
@@ -3057,6 +3073,7 @@ ubmcmm.baidustatic.com
 ||xumnxwvw.ink^
 ||xuxjaqp.cn^
 ||xwhhuav.cn^
+||xxrsxs.cn^
 ||xyhfc.xyz^
 ||xyhly.xyz^
 ||xywy.name^
@@ -3084,6 +3101,7 @@ ubmcmm.baidustatic.com
 ||yk9s.top^
 ||ykghl.top^
 ||ylc.ink^
+||yleaxs.cn^
 ||ymyh.club^
 ||ynyyczx.cn^
 ||yoqrbof.cn^
@@ -3140,26 +3158,11 @@ ubmcmm.baidustatic.com
 ||zxiaochun.site^
 ||zygaoshou888.cn^
 ||zygxy.online^
+||zykwnj.cn^
 ||zyl520zh.online^
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||srysogsib.uno^
-||ilmwaqf.cn^
-||eebuwr.cn^
-||vnvmif.cn^
-||veickea.cn^
-||666775.xyz^
-##A[href*="/ybhth689.com"]
-||ss2a.top^
-||itnxqd.xyz^
-||dengteng.me^
-||eumnxwvp.ink^
-||gbpofla.cn^
-||sifang.info^
-||xxrsxs.cn^
-||whxva.com^
-||zykwnj.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -13650,6 +13653,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||sexbarss.net/wap/
 ||sexyno1.com/mk-banner/
 ||sf2.net/a/index.
+||sfnmt.com/dq/
 ||sgg.southcn.com^
 ||sgk.xyz/static/js/pc.js
 ||sh.sina.com.cn/iframe/522/
@@ -14678,7 +14682,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||sfnmt.com/dq/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -21233,7 +21236,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?#div[id$="_canvas"
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#.c-container:-abp-has(.t > a[data-landurl])
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div + div[id]
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#?#div:not([id]) > style[id^="s-"] + style + div[id]
-ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###con-ar > .result-op[mu*="nourl.ubs.baidu.com"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [class] > [id*="00"] > ul
