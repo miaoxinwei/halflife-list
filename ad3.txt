@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fsJw0pIJafOoFcEh/yNUoQ
+! Checksum: LykXbnpLkqp8DVbEnJtuPQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208280221
-! Last Modified: 2022年08月28日 02:21
+! Version: 202208281010
+! Last Modified: 2022年08月28日 10:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3181,6 +3181,16 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||urysogsit.uno^
+||aovpnal.cn^
+||dvvnhwm.cn^
+||xd4a.top^
+||repbdso.cn^
+||opymgaj.cn^
+||666776.xyz^
+||rrysogsiz.uno^
+||wangzezhong.top^
+||ahp28.site^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -27563,7 +27573,7 @@ m.babytree.com##script + a[class]
 /gweb/analytics/*
 /hash_stat/*
 /hash_stat_bulk/*
-/hc/tracking/*
+/hc/activity
 /hc_pixel.gif?
 /headerpixel.gif?
 /headupstats.gif?
@@ -40270,7 +40280,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flirt4free.com/pixel/
-||flyasiana.com/ykjEIhcZLYg2zoOOoA/
 ||foodcouture.net/public_html/ra/script.php
 ||formula1.com/api/track
 ||foursquare.com/v2/private/logactions
@@ -40341,6 +40350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hbo.com/events/
 ||healthline.com/api/metrics
 ||heap.drop.com^
+||hfp.intuit.com^
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hltv.org/scripts/hltv-tracking.js
@@ -41027,9 +41037,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wsj.com/asset/amt.js
 ||wstats.e-wok.tv^
 ||wtk.db.com^
+||xero.com/api/events/
 ||xfinity.com/event/
 ||xfinity.com/prod/event/
-||xfinity.com/z8ufpC5q/
 ||xhcdn.com/js/track.
 ||xing.com/logjam/
 ||xstats.evoload.io^
@@ -51673,6 +51683,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/
 @@||cqcounter.com^$domain=cqcounter.com
 @@||cruisemapper.com/assets/*/js/tracker.js$script,~third-party
+@@||cults3d.com/packs/js/quantcast-$~third-party
 @@||currys.co.uk/on/*/js/tracking.js$script,~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
