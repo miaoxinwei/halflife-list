@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cBRAAXOwXQtTQ7s2rYrm3A
+! Checksum: 1G023/Ocz/T9lpYbLzqh4g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208281422
-! Last Modified: 2022年08月28日 14:22
+! Version: 202208282031
+! Last Modified: 2022年08月28日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3195,6 +3195,11 @@ ubmcmm.baidustatic.com
 ||bgilefj.cn^
 ||zq2h2.com^
 ||zisafniq.space^
+||miyou.info^
+||kjbwuq.cn^
+||93533557591.com^
+||yhjccj.cn^
+##a[href*="/yyh.net/"]
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -36647,6 +36652,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a.mobify.com^
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
+||accesswire.com/img.ashx
 ||activengage.com/overwatch/
 ||ad-shield.io^$third-party
 ||ad.aloodo.com^
@@ -40820,6 +40826,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spectrum.gettyimages.com^
 ||speed.cloudflare.com/__log
 ||sportsmansguide.com/scripts/vendor/at_
+||spotifycdn.com/cdn/js/retargeting-pixels-
 ||squirrel.malaynahocker.com^
 ||srtb.msn.com^
 ||ss.photospecialist.co.uk^
