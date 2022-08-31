@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uk2vbpa58qJV4Wb39PCm0A
+! Checksum: eqJDt/CDvnH+GG6IHdzsgg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208311022
-! Last Modified: 2022年08月31日 10:22
+! Version: 202208311455
+! Last Modified: 2022年08月31日 14:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3244,6 +3244,14 @@ ubmcmm.baidustatic.com
 ||ahp31.site^
 ||woodmenopsonia.com^
 ||666783.xyz^
+||vi7a.top^
+||jqdldk.cn^
+||1118cctv.ltd^
+||qkkgish.cn^
+||twpfa.cn^
+||kxlidd.ink^
+||94pr.cn^
+||3ek9.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -51780,7 +51788,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
-@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk
+@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hitfile.net/platform/js/fdlogger/fdlogger.js$script,~third-party
 @@||hobbyking.com^*/gtm.js$script,~third-party
