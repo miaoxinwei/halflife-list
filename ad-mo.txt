@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MBLQgf5yB7JKeCCDv8Rz2A
+! Checksum: lUINC4xn7/IpGmkca5jTsg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209010222
-! Last Modified: 2022年09月01日 02:22
+! Version: 202209010957
+! Last Modified: 2022年09月01日 09:57
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -58331,6 +58331,7 @@ bing.com##.pa_sb
 bing.com##.productAd
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
+imgur.com#?#a.Post-item:-abp-has(div.Post-item-external-ad)
 fortune.com#?#.homepage:-abp-has(> div[id^="InStream"])
 bleachernation.com#?#.code-block:-abp-has(span:-abp-contains(ADVERTISEMENT))
 digg.com#?#article.fp-vertical-story:-abp-has(a[href="/channel/digg-pick"])
@@ -63076,6 +63077,11 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||ahp1.site^
+||afvmusm.cn^
+||qwogldy.top^
+||hb8a.top^
+||ufzwoiu.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
