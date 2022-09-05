@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cWafODBo/u69sQMiB0Td5g
+! Checksum: VQuO3qZVGGCi/blgMgsAXg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209050221
-! Last Modified: 2022年09月05日 02:21
+! Version: 202209051008
+! Last Modified: 2022年09月05日 10:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -575,6 +575,7 @@ tieba.baidu.com##.tuijian-wrap
 -ads-widget/
 -ads.gif
 -ads.php?
+-ads/assets/
 -adsense2.
 -adserver-
 -adserver.$domain=~aqua-adserver.com|~revive-adserver.com
@@ -1024,6 +1025,7 @@ tieba.baidu.com##.tuijian-wrap
 /ad.code?
 /ad.css?
 /ad.html?
+/ad.min.
 /ad.php?
 /ad.popup?
 /ad.skin.
@@ -1517,6 +1519,8 @@ tieba.baidu.com##.tuijian-wrap
 /adfetch?
 /adfetcher?
 /adfever_
+/adfile/*
+/adfit/*
 /adflash.
 /adfliction-
 /adflow.$domain=~adflow.com.au|~adflow.genoudsa.ch|~adflow.io|~adflow.marketing|~adflow.pl
@@ -1540,7 +1544,9 @@ tieba.baidu.com##.tuijian-wrap
 /adfuncs.
 /adfunction.
 /adfunctions.
+/adfurikun/*$~image
 /adgenerator.
+/adgpt.
 /adgraphics/*
 /adhandler.
 /adhandler/*$~subdocument
@@ -1658,6 +1664,7 @@ tieba.baidu.com##.tuijian-wrap
 /admeld/*
 /admeld_
 /admeta.$domain=~admeta.network
+/admgr.
 /admin/ad_
 /admin/banners/*
 /admin/sponsors/*
@@ -1705,6 +1712,7 @@ tieba.baidu.com##.tuijian-wrap
 /adpage/*$domain=~adpage.com.ua|~adpage.io
 /adpai.
 /adpan/*
+/adparts/*
 /adpeeps.
 /adperf_
 /adperfdemo.
@@ -1729,6 +1737,7 @@ tieba.baidu.com##.tuijian-wrap
 /adprove_
 /adprovider.
 /adproxy.
+/adrackpush.
 /adratio.
 /adrec.$domain=~adrec.paris-sorbonne.fr
 /adreclaim-
@@ -1924,6 +1933,7 @@ tieba.baidu.com##.tuijian-wrap
 /ads/frontpage/*
 /ads/generatedHTML/*
 /ads/generator/*
+/Ads/genie
 /ads/get/*
 /ads/getall
 /ads/getPositions?
@@ -2778,6 +2788,7 @@ tieba.baidu.com##.tuijian-wrap
 /advrotator.
 /advrotator_
 /advs.ads.
+/advscript.
 /advshow.
 /advt.$domain=~advt.ch|~advt.it
 /advtBanner.
@@ -2877,6 +2888,7 @@ tieba.baidu.com##.tuijian-wrap
 /ajs.php?
 /ajs?auid=
 /ajs?zoneid=
+/ak-ads-ns.
 /akame160.html
 /akame300.html
 /amazon-ad-
@@ -3792,6 +3804,7 @@ tieba.baidu.com##.tuijian-wrap
 /image/ad/*
 /image/ads/*
 /image/ads_
+/image/affiliate/*
 /image_ads/*
 /imageads/*
 /images-ad/*
@@ -3817,6 +3830,7 @@ tieba.baidu.com##.tuijian-wrap
 /images/sponsored/*
 /images/vghd
 /images1/ad_
+/images2/Ads/*
 /imfloat.
 /img-ads.
 /img-ads/*
@@ -3918,6 +3932,7 @@ tieba.baidu.com##.tuijian-wrap
 /js.ng/pagepos=
 /js.ng/site=
 /js.ng/size=
+/js/ad.js?slot=
 /js/adverts-
 /js/adz.
 /js/dfp-
@@ -3992,6 +4007,7 @@ tieba.baidu.com##.tuijian-wrap
 /leftsidebarads.
 /legacy-ads.
 /lg.php?adid=
+/lib/ad.js
 /library/ads/*
 /library/adv/*
 /lightad.
@@ -4041,6 +4057,7 @@ tieba.baidu.com##.tuijian-wrap
 /main_ad/*
 /main_ad_
 /mainad.$domain=~mainad.ru
+/manageads/*
 /marfeel_sw.
 /markpop.js
 /masonad.gif
@@ -4051,6 +4068,7 @@ tieba.baidu.com##.tuijian-wrap
 /mbn_ad.
 /mcad.php
 /mda-ads/*
+/media/ad/*
 /media/ads/*
 /media/adv/*
 /media_ads/*
@@ -4415,6 +4433,7 @@ tieba.baidu.com##.tuijian-wrap
 /plugins/ads/*
 /plugins/adsanity-
 /plugins/advanced-ads/*$domain=~wordpress.org
+/plugins/cactus-ads/*$script,stylesheet
 /plugins/dx-ads/*$script
 /plugins/mts-wp-in-post-ads/*
 /plugins/page-cornr-
@@ -5153,6 +5172,7 @@ tieba.baidu.com##.tuijian-wrap
 /verticaladrotatorv2.
 /vghd.gif
 /vghd2.gif
+/vhdpoppingmodels/*$script
 /viagogoads.
 /vice-ads.
 /vidadv.
@@ -5261,6 +5281,7 @@ tieba.baidu.com##.tuijian-wrap
 /wlbetathome/bannerflow/*
 /wmads.
 /wordpress-ads-plug-in/*
+/wp-ad-guru/*
 /wp-ad.min.
 /wp-auto-affiliate-links/*
 /wp-bannerize-
@@ -7232,6 +7253,7 @@ _800x80_
 ###ad05
 ###ad07
 ###ad08
+###ad1-placeholder
 ###ad11
 ###ad125B
 ###ad125x125
@@ -8255,6 +8277,7 @@ _800x80_
 ###ads-blog
 ###ads-bot
 ###ads-bottom
+###ads-by-google
 ###ads-col
 ###ads-contain-125
 ###ads-container
@@ -14750,6 +14773,7 @@ _800x80_
 ##.ad-lib-div
 ##.ad-line
 ##.ad-link
+##.ad-link-block
 ##.ad-link-label
 ##.ad-link-left
 ##.ad-link-right
@@ -15035,6 +15059,7 @@ _800x80_
 ##.ad-single-bottom
 ##.ad-sitewide
 ##.ad-size-300x250
+##.ad-size-300x600
 ##.ad-size-landscape
 ##.ad-size-leaderboard
 ##.ad-size-medium-rectangle
@@ -16241,6 +16266,7 @@ _800x80_
 ##.ad_container_bottom
 ##.ad_content
 ##.ad_content_below
+##.ad_content_bottom
 ##.ad_content_img
 ##.ad_content_wide
 ##.ad_content_wrapper
@@ -16310,6 +16336,7 @@ _800x80_
 ##.ad_header_lb
 ##.ad_header_left
 ##.ad_header_noad
+##.ad_header_top
 ##.ad_heading
 ##.ad_headline
 ##.ad_help_link
@@ -16506,6 +16533,8 @@ _800x80_
 ##.ad_sidebar
 ##.ad_sidebar_bigbox
 ##.ad_sidebar_inner
+##.ad_sidebar_left
+##.ad_sidebar_right
 ##.ad_size_160x600
 ##.ad_skin
 ##.ad_sky
@@ -17126,6 +17155,7 @@ _800x80_
 ##.ads-box-border
 ##.ads-btm
 ##.ads-by
+##.ads-by-google
 ##.ads-by-google-0
 ##.ads-callback
 ##.ads-card
@@ -23666,6 +23696,7 @@ _800x80_
 ##.pb-f-ads-yieldmo
 ##.pb-mod-ad-flex
 ##.pb-mod-ad-leaderboard
+##.pb-slot-container
 ##.pc-ad
 ##.pcads_widget
 ##.pd-ads-mpu
@@ -26170,6 +26201,9 @@ _800x80_
 ##.widget_adsensem
 ##.widget_adsensewidget
 ##.widget_adsingle
+##.widget_adswidget1-quick-adsense
+##.widget_adswidget2-quick-adsense
+##.widget_adswidget3-quick-adsense
 ##.widget_adv_location
 ##.widget_adv_text
 ##.widget_advads_ad_widget
@@ -54276,6 +54310,7 @@ crash.net##.dmpu-container
 thenationonlineng.net##.dorvekp-post-bottom
 gearlive.com##.double
 capitalfm.com,radiox.co.uk,smoothradio.com##.download
+thepiratebay3.to##.download_buutoon
 thesun.co.uk##.dpa-slot
 kickasstorrents.to##.dssdffds
 designtaxi.com##.dt_rcjs
@@ -54365,6 +54400,7 @@ theblock.co##.fixedUnit
 2conv.com##.fixed_banner
 whatismyipaddress.com##.fl-module-wipa-concerns
 omniglot.com##.flex-container
+libhunt.com##.flex.mt-5.boxed
 ice.hockey##.flex_container_werbung
 klmanga.com,klmanga.net,shareae.com##.float-ck
 tradekey.com##.float_left
@@ -54662,7 +54698,6 @@ filmdaily.co##.lazyloaded.aligncenter
 trueachievements.com##.lb_holder
 versus.com##.lead_top
 thepcguild.com##.leader
-zdnet.com##.leader-bottom
 zdnet.com##.leader-top
 blaauwberg.net##.leaderBoardContainer
 techadvisor.com##.leaderBoardHolder
@@ -54789,6 +54824,7 @@ revolutionsoccer.net##.mls-o-adv-container
 inhabitat.com##.mn-wrapper
 byrdie.com,investopedia.com,verywellhealth.com##.mntl-leaderboard-spacer
 comicbook.com##.mobile
+putlockers.do##.mobile-btn
 d123movies.to##.mobile-btn > div
 pcmacstore.com##.mobileHide
 theblockcrypto.com##.mobileView
@@ -54814,7 +54850,7 @@ thepostmillennial.com##.mot-container
 thepostmillennial.com##.mot-label
 anonymouse.org##.mouselayer
 syfy.com##.mps-container
-98fm.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,mumsnet.com,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thejournal.co.uk,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk,zdnet.com##.mpu
+98fm.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,mumsnet.com,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thejournal.co.uk,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk##.mpu
 news.sky.com##.mpu-1
 edarabia.com##.mpu-300
 arabiaweather.com##.mpu-card
@@ -55382,7 +55418,7 @@ jquery.com##.sponsor-line
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,saashub.com,stocksnap.io,timeslive.co.za##.sponsored
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
 hellomagazine.com##.sponsored-news
@@ -55395,6 +55431,7 @@ newswiretoday.com,przoom.com##.sponsortd
 alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,phonearena.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
 phonearena.com##.spot-sticky-container
 freepik.com##.spr-plc
+libhunt.com##.sprd
 bizarrepedia.com##.spsnrd
 kissanimefree.tv##.spu-bg
 motorauthority.com##.sq-block
@@ -55496,6 +55533,7 @@ ericpetersautos.com##.text-109
 upi.com##.text-center.mt-5
 businessonhome.com##.text-info
 geeksforgeeks.org##.textBasedMannualAds_2
+putlockers.do##.textb
 sciencedaily.com##.textrule
 evilbeetgossip.com,katt.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
 tftcentral.co.uk##.tftce-adlabel
@@ -59696,7 +59734,7 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[onclick^="window"][style^="position"]
+##DIV[style^="position"][onclick^="window.open"]
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="60px"]
@@ -61395,6 +61433,15 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||lvefyfj.cn^
+||wwoglde.top^
+||ahp5.site^
+||dczqjfo.cn^
+||dkudnwb.cn^
+||qxlidy.ink^
+||xk3b.top^
+||5xle.xyz^
+||666794.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -81304,6 +81351,7 @@ fqsousou.com,kengso.com#@#.user-share
 .svc/?tracking_id=
 .tealium.$domain=~tealium.co.jp|~tealium.com
 .track.actions.get?
+.track_apply_impression/
 .track_Visit?
 .trackArticleAction&
 .tracking.js?dpv=
@@ -83862,6 +83910,7 @@ fqsousou.com,kengso.com#@#.user-share
 /log?type=
 /log?uuid=
 /log_agent.
+/log_amp_item_set?
 /log_beacon.
 /log_e.php?id=
 /log_event?
@@ -84971,6 +85020,7 @@ fqsousou.com,kengso.com#@#.user-share
 /search-cookie.aspx?$image
 /searchIgnite.
 /searchMetric.
+/second-scroll~trackers.
 /secure-stats.
 /securetracker.
 /seed.gif?
@@ -87016,6 +87066,7 @@ _mongo_stats/
 ||dttrk.com^
 ||e1e.io^
 ||efreecode.com^
+||egoi.site^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||eqy.link^
@@ -89743,6 +89794,7 @@ _mongo_stats/
 ||webleads-tracker.com^$third-party
 ||webmasterplan.com^$third-party
 ||weborama.com^$third-party
+||weborama.design^$third-party
 ||website-hit-counters.com^$third-party
 ||websiteceo.com^$third-party
 ||websiteonlinecounter.com^$third-party
@@ -93478,6 +93530,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
 ||js-agent.newrelic.com^
+||jscache.com/static/page_moniker/
 ||jsdelivr.net/gh/sensitiveio/sbtracker@master/
 ||jsdelivr.net^*/fp.min.js
 ||jsrdn.com/s/1.js
@@ -94311,6 +94364,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.emerse.com^
 ||track.hubspot.com^
 ||track.juno.com^
+||track.kinetiksoft.com^
 ||track.mailerlite.com^
 ||track.mituo.cn^
 ||track.mp4.center^
@@ -94981,6 +95035,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||onlyfree.de^*/counterservice/
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
+||plausible.ams.to^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
 ||px.staticfiles.at^
@@ -95558,6 +95613,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hitserver.ibope.com.br^
 ||jsuol.com/rm/clicklogger_
 ||lomadee.com/loc/$third-party
+||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
 ||statig.com.br/pub/setCookie.js?
@@ -95718,6 +95774,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtm.qdqmedia.com^
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
+||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.miarroba.info^
 ||stats.qdq.com^
@@ -96641,6 +96698,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.photospecialist.co.uk^
 ||ssc.api.bbc.com^
 ||st.sawlive.tv^
+||stackshare.io/analytics.
 ||stan.xing.com^
 ||stape.fun/stat/
 ||starfiles.co/analytics.php
@@ -96649,6 +96707,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.livesportbar.net^
 ||stat.pubhtml5.com^
 ||stat.tildacdn.com^
+||stat.turb.pw^
 ||stat.vulkanvegas.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
@@ -96767,6 +96826,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tradingview.com/ping
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||tripadvisor.*/MetricsAjax
 ||tripadvisor.*/wm/record
 ||trivago.com/tracking/
 ||trx3.famousfix.com^
@@ -106526,9 +106586,14 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||nextinpact.com/bundles/mtm
 ||nextinpact.com/image/*=.jpg
 ||pam.nextinpact.com^
+||pwk.nextinpact.com^
 ||rel.nextinpact.com^
 ||rel2.nextinpact.com^
 ||zam.nextinpact.com^
+||c1hit.zerkalo.io^
+||s1r.zerkalo.io^
+||s3r.zerkalo.io^
+||zerkalo.io/stat/
 ||mosoah.com/analytics.js
 ||tags.aljazeera.net^
 ||tracking.alarabiya.net^
@@ -107135,6 +107200,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||logger.uol.com.br^
 ||metrics.uol.com.br^
 ||olx.com.br^*/lurker.
+||poder360.com.br/_tracker
 ||r7.com/comscore/
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
@@ -107697,6 +107763,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlyfans.com/theme/onlyfans/spa/statistics.js$~third-party
+@@||open.spotifycdn.com/cdn/build/embed/overture.$script,domain=open.spotify.com
 @@||optimizely.com/datafiles/$domain=nike.com|talktalk.co.uk|tommy.com|wallapop.com
 @@||optimove.net^$domain=app.touchnote.com
 @@||orginio.com/api/analytics/$~third-party,xmlhttprequest
@@ -108280,21 +108347,26 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.br|laredoute.pt
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
+@@||chrysler.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=chrysler.com.br
+@@||citroen.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=citroen.com.br
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJ.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/IbtRealTimeSJ/IbtRealTimeSJCore.js?$domain=social.economico.pt
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
+@@||dodge.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=dodge.com.br
 @@||fiat.com.br^*/analytics.min.js$~third-party
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
 @@||googletagmanager.com/gtm.js$domain=insiderstore.com.br|netcombo.com.br|saraiva.com.br|superesportes.com.br|topper.com.br|tugatech.com.pt
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
+@@||jeep.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=jeep.com.br
 @@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||laredoute.pt/js/byside_webcare.js
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||netmede.pt/code/ga.min.js$script,domain=netmede.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
+@@||ram.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=ram.com.br
 @@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||splunk-heavyforwarder-public.vtex.com:8088/services/collector/event$xmlhttprequest,domain=loja3m.com.br
