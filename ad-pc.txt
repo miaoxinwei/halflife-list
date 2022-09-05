@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VQuO3qZVGGCi/blgMgsAXg
+! Checksum: lMC8TVBWxIjKr0KjvuL2WQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209051008
-! Last Modified: 2022年09月05日 10:08
+! Version: 202209051447
+! Last Modified: 2022年09月05日 14:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -669,7 +669,6 @@ tieba.baidu.com##.tuijian-wrap
 -rail-ads.
 -rail-ads/
 -right-ad.
--rollout-ad-
 -search-ads.
 -show-ads.
 -side-ad-
@@ -2822,23 +2821,13 @@ tieba.baidu.com##.tuijian-wrap
 /adxcm_
 /adxrotate/*
 /adxsite.
-/adxv.
-/adxx.php?
-/adyard.
-/adyard300.
-/adyea.
 /adyoulike.$domain=~adyoulike.com
-/adz-x/*
-/adz/css/*
-/adz/images/*
 /adz/js/*
 /adz/solus/*
 /adz/sponsors/*
-/adzbanner/*
 /adzerk2_
 /adzones.
 /adzones/*
-/adzonesidead.
 /adzonetop.
 /adztop.
 /afc-match?q=
@@ -3255,14 +3244,10 @@ tieba.baidu.com##.tuijian-wrap
 /coxads/*
 /cpm_ad.
 /cpmbanner.
-/cpmcampaigns/*
 /cpmrect.
 /cpx-ad.
-/cpx-advert/*
-/cpx_ads.
 /cpxads.
 /crazyad.
-/crossoverad-
 /csp/ads?
 /css/ads-
 /css/ads300_
@@ -4088,18 +4073,12 @@ tieba.baidu.com##.tuijian-wrap
 /min/ads/*
 /mini-ads/*
 /mini_ads.
-/miniadbar/*
 /miniads?
 /miniadvert.
-/minify/ads-
-/minpagead/*
 /mint/ads/*
 /misc/ad-
 /misc/ads.
 /misc/ads/*
-/miva_ads.
-/mjx-oas.
-/mkadsrv.
 /mktad.
 /mmads-
 /mmads.
@@ -4132,8 +4111,6 @@ tieba.baidu.com##.tuijian-wrap
 /monetization/ads-
 /monetize-show-ads
 /moneyball/ads/*
-/MonsterAd-
-/mont-min.js
 /mp3-ad/*
 /mpads/*
 /mpbads.
@@ -4434,6 +4411,7 @@ tieba.baidu.com##.tuijian-wrap
 /plugins/adsanity-
 /plugins/advanced-ads/*$domain=~wordpress.org
 /plugins/cactus-ads/*$script,stylesheet
+/plugins/cpx-advert/*$script
 /plugins/dx-ads/*$script
 /plugins/mts-wp-in-post-ads/*
 /plugins/page-cornr-
@@ -10776,6 +10754,7 @@ _800x80_
 ###gpt-instory-ad
 ###gpt-leaderboard-ad
 ###gpt-mpu
+###gpt-sticky
 ###grdAds
 ###gridAdSidebar
 ###gridAdSidebarRight
@@ -12046,6 +12025,8 @@ _800x80_
 ###reklama_left_up
 ###reklama_right_up
 ###related-ads
+###related-news-1-bottom-ad
+###related-news-1-top-ad
 ###related-projects-sponsor
 ###related_ad
 ###related_ads
@@ -14932,6 +14913,13 @@ _800x80_
 ##.ad-popup
 ##.ad-popup-content
 ##.ad-pos
+##.ad-pos-0
+##.ad-pos-1
+##.ad-pos-2
+##.ad-pos-3
+##.ad-pos-4
+##.ad-pos-5
+##.ad-pos-6
 ##.ad-pos-middle
 ##.ad-pos-top
 ##.ad-position
@@ -19105,6 +19093,7 @@ _800x80_
 ##.ampforwp-sticky-custom-ad
 ##.amsSparkleAdWrapper
 ##.anc_ads_show
+##.anchor-ad
 ##.anchor-ad-wrapper
 ##.anchorAd
 ##.anchored-ad-widget
@@ -20291,6 +20280,7 @@ _800x80_
 ##.cldt-ad-content-banner2
 ##.cldt-ad-top
 ##.clearerad
+##.clever-core-ads
 ##.clickads
 ##.clickforceads
 ##.client-ad
@@ -21144,6 +21134,7 @@ _800x80_
 ##.fixed-ad-bottom
 ##.fixed-ad-bottom--banner
 ##.fixed-ad300-1
+##.fixed-ads
 ##.fixed-ads-header
 ##.fixed-automatic-ad-amp
 ##.fixed-sidebar-ad
@@ -24968,6 +24959,7 @@ _800x80_
 ##.spl_ad2
 ##.spl_ad_plus
 ##.splashscreen-ad-modal
+##.splashy-ad-container
 ##.splitAd
 ##.splitAdResultsPane
 ##.splitter_ad
@@ -51849,6 +51841,7 @@ tf2r.com#@#.adverts
 ||vk.com/js/cmodules/web/ads_light.$script
 ||vobium.com/images/banners/
 ||wall.vgr.com^
+||walmart.ca/api/bsp/ads/
 ||walmart.com/cp/api/wpa?
 ||waptrick.org/js/exo
 ||watoday.com.au/assets/europa.
@@ -53635,7 +53628,7 @@ pocketgamer.com##.abs
 aminoapps.com,crash.net,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 sciencenewsforstudents.org##.ad-block-leaderboard__wrapper___1rR0c
-9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,politico.com,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
+9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,politico.com,punchng.com,realsport101.com,reason.com,refinery29.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
 sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 goal.com##.ad-slide_adSlideBanner__cEgCm
@@ -54626,6 +54619,7 @@ precisionvaccinations.com##.inhouse-block
 careerindia.com##.inhouse-content
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
+kijiji.ca##.inline-banner
 stocksnap.io##.inline-carbon
 engadget.com##.inline-emphasis
 pcgamesn.com,pockettactics.com,theloadout.com##.inlinerail
@@ -61442,6 +61436,8 @@ ubmcmm.baidustatic.com
 ||xk3b.top^
 ||5xle.xyz^
 ||666794.xyz^
+||0l9x.cn^
+||txlidi.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -96560,6 +96556,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||sharesies.com/v1/identify
+||sharesies.com/v1/track
 ||shazam.com/services/metrics/
 ||shopeemobile.com/*/tr/
 ||shopmetric.rediff.com^
@@ -96888,6 +96886,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wa.ui-portal.de^
 ||wal.co/cdn-perf.min.js
 ||wal.wolfram.com^
+||walmart.ca/api/bsp/logger
+||walmart.ca^*/beacon-logger
 ||walmart.com/client/api/logs
 ||walmart.com/client/api/metrics
 ||walmartimages.com^*/cdn-perf.min.js$domain=walmart.com
@@ -107992,6 +107992,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||googletagmanager.com/gtag/js$script,domain=modehasen.de
 @@||googletagmanager.com/gtm.js$domain=betten.de|bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|karriere.at|radiorur.de|saturn.at|sport1.de|vox.de
+@@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
