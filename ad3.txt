@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: k+C0yH/BNtj5RJ4P3srhZg
+! Checksum: SaknYxPk8UJWEfAz+tBWWQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209062038
-! Last Modified: 2022年09月06日 20:38
+! Version: 202209070223
+! Last Modified: 2022年09月07日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3369,6 +3369,8 @@ ubmcmm.baidustatic.com
 ||uxlidt.ink^
 ||5v9xm.com^
 ||mcbzq.xyz^
+||kunlunshitou.com^
+||hpiekt.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14783,6 +14785,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cn.bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
+gmtv1.xyz##.pc_rb_float
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -36679,7 +36683,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||360buyimg.com/jdf/1.0.0/unit/log/
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
-||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com^
+||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
 ||51network.com^$third-party
 ||99widgets.com/counters/
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
