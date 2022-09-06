@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uqiAB0H6JtPo9+AhjMjceA
+! Checksum: 8tf+rp/PaoZ0DoqQpmT4bg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209061010
-! Last Modified: 2022年09月06日 10:10
+! Version: 202209061459
+! Last Modified: 2022年09月06日 14:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -3124,7 +3124,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /controller.ad.
 /controller/ad-
 /controllerimg/adv/*
-/core-ads-
 /core-ads.
 /corner-ad.
 /corner_ads/*
@@ -53880,7 +53879,7 @@ drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
-180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,thecinemaholic.com,twistedvoxel.com##.code-block
+180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,thecinemaholic.com,twistedvoxel.com,zerohanger.com##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -61244,6 +61243,10 @@ ubmcmm.baidustatic.com
 ||rm4b.top^
 ||dewapa.top^
 ||showcoorcb.xyz^
+||naptgcg.cn^
+||tiaotiao.store^
+||nhlnfiq.cn^
+||uxlidt.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
