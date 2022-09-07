@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CBlsPp7K1+fUjFQ/yJ1htg
+! Checksum: NBJ6WrYn1fjPLI82Jrv4jA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209070223
-! Last Modified: 2022年09月07日 02:23
+! Version: 202209071006
+! Last Modified: 2022年09月07日 10:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2272,7 +2272,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsidebarrect.
 /adsiframe.
 /adsiframe/*
-/adsign.$domain=~adsign.apps.asu.edu|~adsign.com.au|~adsign.no|~adsign.slack.com
+/adsign.$domain=~adsign-admin.apps.asu.edu|~adsign.com.au|~adsign.no|~adsign.slack.com
 /adsimage/*
 /adsimages/*
 /adsImg/*
@@ -10477,6 +10477,7 @@ _800x80_
 ###gutteradibn
 ###gwd-ad
 ###gwt-debug-ad
+###h-ad
 ###h-ads
 ###hAd
 ###hAdv
@@ -16069,6 +16070,7 @@ _800x80_
 ##.ad_leader_plus_top
 ##.ad_leaderboard
 ##.ad_leaderboard_atf
+##.ad_leaderboard_master
 ##.ad_leaderboard_top
 ##.ad_left
 ##.ad_left_cell
@@ -22229,6 +22231,7 @@ _800x80_
 ##.layout-ad
 ##.layout__content-ad
 ##.layout__top-ad
+##.layout_h-ad
 ##.lazy-ad
 ##.lazy-adv
 ##.lazyad
@@ -24280,6 +24283,7 @@ _800x80_
 ##.side-bar-ad
 ##.side-bar-ad-position1
 ##.side-bar-ad-position2
+##.side-panel_v-ad-container
 ##.side-rail-ad-wrap
 ##.side-sky-banner-160
 ##.side-video-ads-wrapper
@@ -25590,6 +25594,7 @@ _800x80_
 ##.us-txt-ad
 ##.us_ad
 ##.uvs-ad-full-width
+##.v-ad
 ##.vAds
 ##.v_ad
 ##.vadvert
@@ -26064,6 +26069,7 @@ _800x80_
 ##[data-m-ad-id]
 ##[data-mobile-ad-id]
 ##[data-name="adaptiveConstructorAd"]
+##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
 ##[href*=".engine.adglare.net/"]
@@ -26120,6 +26126,7 @@ _800x80_
 ##[href^="https://mypatriotsupply.com/"] > img
 ##[href^="https://mypillow.com/"] > img
 ##[href^="https://mystore.com/"] > img
+##[href^="https://optimizedelite.com/"] > img
 ##[href^="https://r.kraken.com/"]
 ##[href^="https://rapidgator.net/article/premium/ref/"]
 ##[href^="https://routewebtk.com/"]
@@ -38521,6 +38528,7 @@ tf2r.com#@#.adverts
 ||okueroskynt.com^
 ||okupsudd.work^
 ||okytgxmxonxim.com^
+||olayomad.com^
 ||oldership.com^
 ||oldeststrickenambulance.com^
 ||oldgyhogola.com^
@@ -51476,6 +51484,7 @@ tf2r.com#@#.adverts
 ||phuketwan.com/img/b/
 ||pimpandhost.com/static/html/
 ||planetlotus.org/images/partners/
+||poedb.tw/image/torchlight/
 ||ports.co.za/banners/
 ||positivehealth.com/img/original/BannerAvatar/
 ||positivehealth.com/img/original/TopicbannerAvatar/
@@ -61256,6 +61265,15 @@ ubmcmm.baidustatic.com
 ||mcbzq.xyz^
 ||kunlunshitou.com^
 ||hpiekt.cn^
+||sfstfiz.cn^
+||bwogldv.top^
+||svnfgib.cn^
+||zljycst.cn^
+||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
+||ahp7.site^
+||df5b.top^
+||ytbgjr.cn^
+||epdchc.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -87007,6 +87025,7 @@ _mongo_stats/
 ||superpointlesshamsters.com^
 ||tagcachedataxrt.com^
 ||tagcachestaticx.com^
+||takingbackjuly.com^
 ||tatpek.com^
 ||test.vast^
 ||the-ozone-project.com^
