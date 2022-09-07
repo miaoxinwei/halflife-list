@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I+UINSfN26VpdIfaylnkww
+! Checksum: H1v6MAVkW0d5pBfh50VhFw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209071457
-! Last Modified: 2022年09月07日 14:57
+! Version: 202209072039
+! Last Modified: 2022年09月07日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -188,6 +188,7 @@ quandangdang.net
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/\.(com|cn|top)\/k\/[0-9]{6}$/$third-party,script
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -3382,6 +3383,11 @@ ubmcmm.baidustatic.com
 ||epdchc.cn^
 ||wujrx.xyz^
 ||dqh.ink^
+||ptzkjko.cn^
+||showcoopdb.xyz^
+||7v46.icu^
+||ykg5.cn^
+||9as3.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -20698,6 +20704,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ads.cdn.tvb.com^*.key
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.tiktok.com^$generichide
+@@||winwk.com^$generichide
 @@||ads.tiktok.com^$~third-party
 @@||adsense.woso.cn^$~third-party
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
