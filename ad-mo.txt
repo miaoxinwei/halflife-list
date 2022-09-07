@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NBJ6WrYn1fjPLI82Jrv4jA
+! Checksum: //BvkVBqgXgd8zYIKzyFkw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209071006
-! Last Modified: 2022年09月07日 10:06
+! Version: 202209071457
+! Last Modified: 2022年09月07日 14:57
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -12557,6 +12557,7 @@ _800x80_
 ###t7ad
 ###tabAdvertising
 ###table_ads
+###taboola-below-article-1
 ###tailResultAd
 ###takeover-ad
 ###takeover_ad
@@ -46932,6 +46933,7 @@ tf2r.com#@#.adverts
 ||textonlyads.com^$third-party
 ||tgtmedia.com^$third-party
 ||thebannerexchange.com^$third-party
+||themediagrid.com^$third-party
 ||themoneytizer.com^$third-party
 ||thewebgemnetwork.com^$third-party
 ||tinyads.io^$third-party
@@ -47014,6 +47016,7 @@ tf2r.com#@#.adverts
 ||trafmag.com^$third-party
 ||trailers.to^$script,third-party
 ||trigr.co^$third-party
+||triplelift.com^$third-party
 ||trker.com^$third-party
 ||truex.com^$third-party
 ||trustx.org^$third-party
@@ -47083,6 +47086,7 @@ tf2r.com#@#.adverts
 ||wordego.com^$third-party
 ||worthathousandwords.com^$third-party
 ||x4300tiz.com^$third-party
+||xandr.com^$third-party
 ||xgpub.com^$third-party
 ||xmlmonetize.com^$third-party
 ||xtendadvert.com^$third-party
@@ -50175,6 +50179,7 @@ tf2r.com#@#.adverts
 ||onetag-sys.com/prebid-request
 ||orangebuddies.nl/image/banners/
 ||outbrain.com^$domain=bgr.com|buzzfeed.com|tvline.com
+||ow.pubmatic.com^
 ||p.d.1emn.com^
 ||p.jwpcdn.com/player/plugins/vast/
 ||p.smartertravel.com^
@@ -55554,6 +55559,7 @@ zerohedge.com##[class^="Advert_"]
 thesouthafrican.com##[class^="Advertisement_"]
 games.washingtonpost.com##[class^="DisplayAd_"]
 thesouthafrican.com##[class^="SiteHeader__AdvertisementWrapper-"]
+independentespanol.com##[class^="TopBanner"]
 economist.com##[class^="adComponent"]
 uploader.link##[class^="ads"]
 swarajyamag.com##[class^="banner-ad-"]
@@ -56429,7 +56435,6 @@ outlook.live.com#?#div:-abp-has(> div > div.fbAdLink)
 mylivewallpapers.com#?#.posts > div.posts:-abp-has(.adsbygoogle)
 bbc.com#?##sticky-mpu:-abp-has(.dotcom-ad-inner)
 cults3d.com#?#div.grid-cell:-abp-contains(/AD •/i)
-doordash.com#?#div[size="12"]:-abp-has(> div:-abp-has(span:-abp-contains(Ad)))
 doordash.com#?#[data-testid="card.store"] > div:-abp-has(div[data-anchor-id="SponsoredBadge"])
 bleepingcomputer.com#?##bc-home-news-main-wrap > li:-abp-contains(Sponsored Content)
 psychcentral.com#?#aside:-abp-has([data-empty])
@@ -57361,7 +57366,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.kbmax.com^$domain=adspipe.com
 @@||ads.muxiv.com/address/$xmlhttprequest
 @@||ads.nationmedia.com/webfonts/$font
-@@||ads.pubmatic.com/AdServer/js/pwt/$script,domain=independent.co.uk|india.com
+@@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk|ndependentespanol.com
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=quotidiano.net
@@ -61274,6 +61279,8 @@ ubmcmm.baidustatic.com
 ||df5b.top^
 ||ytbgjr.cn^
 ||epdchc.cn^
+||wujrx.xyz^
+||dqh.ink^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -95844,6 +95851,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crumbs.robinhood.com^
 ||crunchyroll.com/tracker?
 ||cstats.sankakucomplex.com^
+||ctrl.blog/assets/script/log-
 ||cultofmac.com/djrxqhzkbsgf.js
 ||cvs.com/tnadstlinj.js
 ||d.cdngeek.com^$domain=edugeek.net
@@ -96123,6 +96131,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kohls.com/mtFndb/
 ||kohls.com/test_rum_nv?
 ||kompass.com/logAdvertisements
+||l.ctrl.blog^
 ||l.usaa.com/e/v1/
 ||lastminute.com/ose/tracking/
 ||lastminute.com/service/track/
