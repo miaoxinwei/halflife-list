@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /WpkKLiqRwu1tEIHcfU7OQ
+! Checksum: 8xh6+QcoPDwJlEVRlkjjfg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209091436
-! Last Modified: 2022年09月09日 14:36
+! Version: 202209092039
+! Last Modified: 2022年09月09日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3417,7 +3417,10 @@ ubmcmm.baidustatic.com
 ||mxuds.xyz^
 ||gwf0.icu^
 ||xhqg.xyz^
+||qzlkqsl.cn^
 ||yuguo.shop^
+||pinoffence.com^
+||mlcuzee.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -26492,6 +26495,7 @@ m.babytree.com##script + a[class]
 /caixinlog.js
 /calameo-beacon.
 /call-tracking.js
+/call.tracker.js
 /callbacks/stats?
 /campaign_tracker.
 /campaign_trax.
@@ -30731,7 +30735,7 @@ m.babytree.com##script + a[class]
 ://d.*/track.js
 ://email.*/blankpixel.gif
 ://ensighten.
-://fathom.$domain=~fathom.info|~fathom.io|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://geoip.*/country.json
 ://ivwextern.
 ://lightning.*/launch/
@@ -33015,6 +33019,7 @@ _mongo_stats/
 ||mytictac.com^$third-party
 ||mytrack.pro^$third-party
 ||myusersonline.com^$third-party
+||myvisitorcounter.com^$third-party
 ||myvisualiq.net^$image,script,third-party
 ||mywebstats.com.au^$third-party
 ||mywebstats.org^$third-party
