@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O5WkQG0+aQAlaMLU918Plg
+! Checksum: 2hSxf1QkOlIxn2D7FfyhSQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209090223
-! Last Modified: 2022年09月09日 02:23
+! Version: 202209091009
+! Last Modified: 2022年09月09日 10:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3408,6 +3408,10 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||nwogldc.top^
+||ahp9.site^
+||tcnnnzt.cn^
+||jevlcjc.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -31721,6 +31725,7 @@ _mongo_stats/
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
 ||arcadeweb.com^$third-party
+||ardalio.com^$third-party
 ||arena-quantum.co.uk^$third-party
 ||arianelab.com^$third-party
 ||arkayne.com^$third-party
@@ -33967,6 +33972,7 @@ _mongo_stats/
 ||virtualnet.co.uk^$third-party
 ||visibility-stats.com^$third-party
 ||visibli.com^$third-party
+||visionarycompany52.com^$third-party
 ||visioncriticalpanels.com^$third-party
 ||visionsage.com^$third-party
 ||visistat.com^$third-party
@@ -38638,9 +38644,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
+||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.myyschool.xyz^
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
 ||tracker.roitesting.com^
@@ -40064,6 +40072,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblockeronstape.me/stat/
 ||adblockeronstreamtape.me/stat/
 ||adblockeronstreamtape.xyz/stat/
+||adblockeronstrtape.xyz/stat/
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
@@ -40701,6 +40710,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ping.hungama.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
+||pingo.staticmoly.me^
 ||pixel.anyclip.com^
 ||pixel.archive.is^
 ||pixel.archive.ph^
