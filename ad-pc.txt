@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PzxxPnSP5baI0ka9tk8f+g
+! Checksum: LadBdhFG4qYf502OB3PPcQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209112035
-! Last Modified: 2022年09月11日 20:35
+! Version: 202209120223
+! Last Modified: 2022年09月12日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -16608,6 +16608,7 @@ _800x80_
 ##.adsboxitem
 ##.adsbttmpg
 ##.adsbx728x90
+##.adsbyadop
 ##.adsbyexoclick
 ##.adsbyexoclick-wrapper
 ##.adsbygalaksion
@@ -22084,6 +22085,7 @@ _800x80_
 ##.ob_container .item-container-obpd
 ##.ob_dual_right > .ob_ads_header ~ .odb_div
 ##.ob_nm_paid
+##.offads
 ##.oi-add-block
 ##.oi-header-ad
 ##.oi_horz_ad_container
@@ -22093,6 +22095,7 @@ _800x80_
 ##.oio-zone-position
 ##.oko-adhesion
 ##.on-demand-ad
+##.on_player_ads
 ##.oneColumnAd
 ##.onet-ad
 ##.onethirdadholder
@@ -25459,6 +25462,7 @@ _800x80_
 ##div[id^="advads_"]
 ##div[id^="banner-ad-"]
 ##div[id^="bunyad-widget-ads-"]
+##div[id^="crt-"][style]
 ##div[id^="dfp-ad-"]
 ##div[id^="dfp-slot-"]
 ##div[id^="div-ads-"]
@@ -26363,6 +26367,7 @@ tf2r.com#@#.adverts
 ||5nt1gx7o57.com^
 ||5odjin7ipi.com^
 ||5ovrmmmoubi71efvatfd.com^
+||5pi13h3q.de^
 ||5qg9ibt1a6.com^
 ||5toft8or7on8tt.com^
 ||5umpz4evlgkm.com^
@@ -52946,7 +52951,6 @@ republicworld.com##.bg-f0f0f0
 amgreatness.com##.bg-gray-200.mx-auto
 wccftech.com##.bg-horizontal
 imagetotext.info##.bg-light.mt-2.text-center
-dexerto.com##.bg-neutral-grey-4
 wccftech.com##.bg-square
 wccftech.com##.bg-vertical
 thepostmillennial.com##.bg-yellow-400
@@ -54182,9 +54186,7 @@ giantfreakinrobot.com##.pw-ph-med-rect
 thedirect.com##.pw-ph-sky
 smallseotools.com##.px261
 smallseotools.com##.px301
-dexerto.com##.py-2
 breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
-dexerto.com##.py-4
 tri247.com##.q2w3-fixed-widget-container
 qrobe.it##.qad
 revolution935.com##.qt-sponsor
@@ -60638,6 +60640,8 @@ ubmcmm.baidustatic.com
 ||dccc.cloud^
 ||lebkrli.cn^
 ||id08.top^
+||28n7.icu^
+||wykw.fun^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -112664,11 +112668,11 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 */preroll/$media,domain=91porn.com
 91p20.space
 waust.at
-||btsow.bar/app/jav$image
+||btsow.click/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.bar|dandanzan10.top|nunuyy2.org|rarbgprx.org
-!btsow.bar##+js(aeld, click, popunder)
+|https://$script,subdocument,popup,3p,domain=btsow.click|dandanzan10.top|nunuyy2.org|rarbgprx.org
+!btsow.click##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 statsy.net
 @@||dyncdn.me/static/20/js/jquery$script
