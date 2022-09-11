@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: amA84FQYjXRENi5SqTIg/g
+! Checksum: 4QyFLmvUOCq/kpDml9lhfA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209110224
-! Last Modified: 2022年09月11日 02:24
+! Version: 202209111005
+! Last Modified: 2022年09月11日 10:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53708,7 +53708,7 @@ apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,pla
 lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 autental.com##.header-grid-items
-realestate.com.au##.header-leaderboard
+allmovie.com,realestate.com.au##.header-leaderboard
 nationalheraldindia.com##.header-m__ad-top__36Hpg
 times.co.zm##.header-pub
 newtimes.co.rw##.header-top
@@ -54951,6 +54951,7 @@ medicalnewstoday.com##[data-ad]
 jobstreet.com.sg##[data-automation="homepage-banner-ads"]
 jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
 theblaze.com##[data-category="SPONSORED"]
+gab.com##[data-comment="gab-ad-comment"]
 medicalnewstoday.com##[data-empty="true"]
 greatist.com,psychcentral.com##[data-empty]
 jeffdornik.com##[data-image-info]
@@ -60744,6 +60745,14 @@ ubmcmm.baidustatic.com
 ##a[href*=".tv699.cc"]
 ||dszeda.cn^
 ||shamodesha.com^
+||666824.xyz^
+||qwadakesy.cyou^
+||teoviyf.cn^
+||ahp11.site^
+||fz2c.top^
+||ixbccrp.cn^
+||jiuku.pw^
+||tianlans.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -72157,6 +72166,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||iiilab.com/sponsor
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 boylove.cc##a[style="display: block;"]
