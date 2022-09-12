@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Z1Fd6KX6/TI8VVvTXJj37A
+! Checksum: 9Mm7zK/QFdChY7UQk85c6g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209122043
-! Last Modified: 2022年09月12日 20:43
+! Version: 202209130225
+! Last Modified: 2022年09月13日 02:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3480,6 +3480,10 @@ ubmcmm.baidustatic.com
 ||bulisite.top^
 ||rka1.fun^
 ||rglvbpi.cn^
+||adkisdh3897.xyz^
+||acys.fun^
+||h1ek.xyz^
+||33sdfg.com^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -27436,6 +27440,7 @@ m.babytree.com##script + a[class]
 /fp/fp.swf
 /fp/tags.js
 /fp/top_fp.
+/fp2.compressed.js
 /fp_204?
 /fpc.pl?a=
 /fpcookie?
@@ -31405,7 +31410,6 @@ _mongo_stats/
 ||f27tltnd.de^
 ||fairdatacenter.de^
 ||fastemu.co^
-||faster-trk.com^
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
@@ -38516,6 +38520,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.myangular.life^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdna-storage.com^
 ||stats.olark.com^
 ||stats.ozwebsites.biz^
 ||stats.phoenix-widget.com^
@@ -40777,6 +40782,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
+||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com/js/geo.js
@@ -54843,6 +54849,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||9cdn.net^*/js/tracking/$script,domain=nine.com.au
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
+@@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|nbarizona.com
