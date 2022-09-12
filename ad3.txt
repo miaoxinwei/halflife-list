@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OANNuehfDblNYLY4WzxdaA
+! Checksum: 3dQYPDiGe6yGIsaQbMeyEQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209120223
-! Last Modified: 2022年09月12日 02:23
+! Version: 202209121016
+! Last Modified: 2022年09月12日 10:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3465,6 +3465,13 @@ ubmcmm.baidustatic.com
 ||id08.top^
 ||28n7.icu^
 ||wykw.fun^
+||jwadakesa.cyou^
+||jhuvybt.cn^
+||ryjhrqn.cn^
+||666826.xyz^
+||ahp12.site^
+||yd3c.top^
+||cqqwe2pea.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -31338,6 +31345,7 @@ _mongo_stats/
 ||bkrtx.com^
 ||bluekai.com^
 ||bonne-terre-data-layer.com^
+||boomtrain.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
 ||briskeagle.io^
@@ -31539,6 +31547,7 @@ _mongo_stats/
 ||tncid.app^
 ||trackclicks.info^
 ||trkbc.com^
+||trkn.us^
 ||tru.am^
 ||truffle.bid^
 ||trx-hub.com^
@@ -31546,6 +31555,7 @@ _mongo_stats/
 ||turboeagle.co^
 ||turbolion.io^
 ||tvpixel.com^
+||tw.cx^
 ||tzegilo.com^
 ||ugdturner.com^
 ||ustat.info^
@@ -31930,7 +31940,6 @@ _mongo_stats/
 ||bnqt.com^$third-party
 ||bntech.io^$third-party
 ||boomerang.com.au^$third-party
-||boomtrain.com^$third-party
 ||botman.ninja^$third-party
 ||botsvisit.com^$third-party
 ||bouncepilot.com^$third-party
@@ -33945,7 +33954,6 @@ _mongo_stats/
 ||triptease.io^$third-party
 ||triptease.net^$third-party
 ||trkjmp.com^$third-party
-||trkn.us^$third-party
 ||trmads.eu^$third-party
 ||trovus.co.uk^$third-party
 ||trs.cn^$third-party
@@ -33963,7 +33971,6 @@ _mongo_stats/
 ||tuinfra.com^$third-party
 ||tunnl.com^$third-party
 ||turn.com^$third-party
-||tw.cx^$third-party
 ||twcount.com^$third-party
 ||tynt.com^$third-party
 ||tyxo.com^$third-party
