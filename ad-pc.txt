@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Mct/erAiB7GC7/C8Fpt9ug
+! Checksum: bch/KPWDeZCvRVGleLz4OQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209131456
-! Last Modified: 2022年09月13日 14:56
+! Version: 202209132041
+! Last Modified: 2022年09月13日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9520,9 +9520,6 @@ _800x80_
 ###ftad1
 ###ftad2
 ###full_banner_ad
-###fullbanner2_ad_container
-###fullsizebanner_468x60
-###fullstory-google-textad
 ###fusionad
 ###fw-advertisement
 ###fwAdBox
@@ -9567,7 +9564,6 @@ _800x80_
 ###gameplay_ad
 ###games_ad_container
 ###gasense
-###gcommonad
 ###genad
 ###geoAd
 ###gg_ad
@@ -10115,7 +10111,6 @@ _800x80_
 ###js-wide-ad
 ###jsid-ad-container-post_above_comment
 ###jsid-ad-container-post_below_comment
-###jt-advert
 ###jupiter-ads
 ###ka_adFullBanner
 ###ka_adMediumRectangle
@@ -10929,26 +10924,18 @@ _800x80_
 ###right-advert
 ###right-bar-ad
 ###right-box-ad
-###right-col-ad-600
 ###right-content-ad
 ###right-featured-ad
-###right-mpu-1-ad-container
 ###right-rail-ad-slot-content-top
 ###right-widget-b-ads_widget-9
 ###right-widget-c-ads_widget-7
 ###right-widget-d-ads_widget-36
 ###right-widget-top-ads_widget-23
 ###right1-ad
-###right160x600ads_part
 ###right1ad
-###right2Ad_Iframe
 ###rightAD
 ###rightAd
 ###rightAd1
-###rightAd160x600
-###rightAd160x600two
-###rightAd300x250
-###rightAd300x250Lower
 ###rightAdBar
 ###rightAdBlock
 ###rightAdColumn
@@ -11710,8 +11697,6 @@ _800x80_
 ###tbo_headerads
 ###tcwAd
 ###td-ad-placeholder
-###td-applet-ads_2_container
-###td-applet-ads_container
 ###tdAds
 ###tdBannerTopAds
 ###td_adunit1
@@ -11719,8 +11704,6 @@ _800x80_
 ###td_adunit2
 ###td_sponsorAd
 ###team_ad
-###teaser-adtag-left
-###teaser-adtag-right
 ###temp-ads
 ###template_affiliates
 ###text-ad
@@ -11737,21 +11720,10 @@ _800x80_
 ###textad
 ###textad3
 ###textad_block
-###textads_right_container
 ###textlink-advertisement
 ###textlink_ads_placeholder
 ###textsponsor
-###tf_page_ad_content_bottom
 ###tfm_admanagerTeaser
-###tgAD_imu_2
-###tgAD_imu_3
-###tgAD_imu_4
-###the-last-ad-standing
-###theAd
-###theadsADT3
-###thefooterad
-###thelistBottomAd
-###themis-ads
 ###theotherads
 ###thheaderadcontainer
 ###third_party_ads
@@ -11762,9 +11734,6 @@ _800x80_
 ###tile-ad
 ###tileAds
 ###tilia_ad
-###tippytop-ad
-###title-sponsor-banner
-###title-wide-sponsored-by
 ###tmInfiniteAd
 ###tmcomp_ad
 ###tmgAd_div_mpu_1
@@ -11772,13 +11741,8 @@ _800x80_
 ###tmn_ad_1
 ###tmn_ad_2
 ###tmn_ad_3
-###tmp2_promo_ad
-###tnt_ad_column
 ###toaster_ad
-###today_ad_bottom
-###toolbarSlideUpAd
 ###top-ad
-###top-ad-970x250
 ###top-ad-area
 ###top-ad-banner
 ###top-ad-container
@@ -12146,7 +12110,6 @@ _800x80_
 ###widget-box-ad-1
 ###widget-box-ad-2
 ###widget-style-ad
-###widgetADT3
 ###widget_Adverts
 ###widget_ad
 ###widget_advertisement
@@ -12724,7 +12687,6 @@ _800x80_
 ##.TopAds
 ##.TopAdsPartial
 ##.TopBannerAd
-##.TopLeaderboardAdPanel
 ##.TopRightRadvertisement
 ##.Top_Ad
 ##.TrackedBannerPromo
@@ -12743,8 +12705,6 @@ _800x80_
 ##.WidgetAdvertiser
 ##.WidthAd
 ##.WikiaTopAds
-##.WiredWidgetsDartAds
-##.WiredWidgetsGoogleAds
 ##.XEad
 ##._300_ad
 ##._SummaryPageHeaderAdView
@@ -13468,6 +13428,7 @@ _800x80_
 ##.ad-inline-mod
 ##.ad-inner
 ##.ad-inner-container
+##.ad-inner-container-background
 ##.ad-innr
 ##.ad-inpage-video-top
 ##.ad-insert
@@ -13935,6 +13896,7 @@ _800x80_
 ##.ad-superbanner
 ##.ad-superbanner-node
 ##.ad-t
+##.ad-t-text
 ##.ad-table
 ##.ad-tabs
 ##.ad-tag
@@ -14155,7 +14117,6 @@ _800x80_
 ##.ad120_600
 ##.ad120x120
 ##.ad120x240GrayBorder
-##.ad120x240backgroundGray
 ##.ad120x60
 ##.ad120x600
 ##.ad125
@@ -18675,10 +18636,6 @@ _800x80_
 ##.c-advscrollingzone
 ##.c-box--advert
 ##.c-button--adchoices
-##.c-control--adchoice
-##.c-fallback-ad
-##.c-fallback-ad--house
-##.c-fragment--container--ad
 ##.c-gallery-vertical__advert
 ##.c-googleadslot
 ##.c-header__advert-container
@@ -18692,20 +18649,15 @@ _800x80_
 ##.c-sitenav-adslot
 ##.c-sitenavPlaceholder__ad
 ##.c-teaser__advertising
-##.c300x250-advert
 ##.cA-adStack
 ##.cA-adStrap
 ##.cColumn-TextAdsBox
 ##.cLeftTextAdUnit
 ##.c_adsky
-##.c_google_adsense_nxn
-##.c_ligatus_nxn
 ##.c_nt_ad
 ##.cableads
 ##.cactus-ads
 ##.cactus-header-ads
-##.cactus-img-ads
-##.cactus-mutil-ads
 ##.cafemedia-ad-slot-right1
 ##.cafemedia-ad-slot-top
 ##.caja_ad
@@ -18714,8 +18666,6 @@ _800x80_
 ##.california-sidebar-ad
 ##.callout-a-ad-box
 ##.calloutAd
-##.can_ad_slug
-##.canoeAdvertorial
 ##.carbon-ad
 ##.carbon_ads
 ##.carbonad
@@ -18728,16 +18678,7 @@ _800x80_
 ##.card-article-ads
 ##.card-productads
 ##.cardAd
-##.cards-categorical-list-ad
-##.care2_adspace
-##.careerAdviceAd1
-##.carouselbanner_advert
 ##.carouselbannersad
-##.cat-adv
-##.cat-adv1
-##.cat-advb0
-##.cat-advl2
-##.cat_context_ad
 ##.catalog-listing-ad-item
 ##.catalog_ads
 ##.cate_right_ad
@@ -18750,22 +18691,13 @@ _800x80_
 ##.categorySponsorAd
 ##.categoryfirstad
 ##.categoryfirstadwrap
-##.categorypage_ad1
-##.categorypage_ad2
 ##.catfish_ad
 ##.cazAd
 ##.cb-ad-banner
 ##.cb-ad-container
 ##.cb-sidebar__sticky-ad
-##.cb_ads
 ##.cbd_ad_manager
-##.cbolaBannerStructure
 ##.cbs-ad
-##.cbstv_ad_label
-##.cbzadvert
-##.cbzadvert_block
-##.cc-adv-label
-##.cc-adv-wrapper
 ##.cc-advert
 ##.ccAdbottom
 ##.ccAdsize
@@ -18774,10 +18706,6 @@ _800x80_
 ##.cdAdContainer
 ##.cdLanderAd
 ##.cdc-ad
-##.cde_ads_right_top_300x250
-##.cdo-ad
-##.cdo-ad-section
-##.cdo-dicthomepage-btm-ad
 ##.center-ad
 ##.center-ad-banner
 ##.center-content-ad
@@ -20134,7 +20062,6 @@ _800x80_
 ##.gpAdBox
 ##.gpAdFooter
 ##.gpAds
-##.gpadvert
 ##.gpnad
 ##.gpt-ad
 ##.gpt-ad-container
@@ -20151,8 +20078,6 @@ _800x80_
 ##.gptSlot-outerContainer
 ##.gptSlot__sticky-footer
 ##.gptslot
-##.gr-adcast
-##.gr-ads
 ##.gradientAd
 ##.graphic_ad
 ##.grev-ad
@@ -20167,7 +20092,6 @@ _800x80_
 ##.grid-advertisement
 ##.grid-block-ad
 ##.grid-item-ad
-##.grid-sm-ad-300
 ##.gridAd
 ##.gridAdRow
 ##.gridSideAd
@@ -20181,29 +20105,13 @@ _800x80_
 ##.group-google-ads
 ##.group-item-ad
 ##.group_ad
-##.grv_is_sponsored
 ##.gsAd
-##.gsfAd
-##.gsl-ads
-##.gt_ad
-##.gt_ad_300x250
-##.gt_ad_728x90
-##.gt_adlabel
-##.gtadlb
 ##.gtm-ad-slot
-##.gtop_ad
-##.guide-ad
 ##.guide__row--fixed-ad
 ##.guj-ad--placeholder
 ##.gujAd
-##.gutter-ad-left
-##.gutter-ad-right
-##.gutter-ad-wrapper
-##.gutterAdHorizontal
 ##.gutterads
 ##.gw-ad
-##.h-ad-728x90-bottom
-##.h-ad-remove
 ##.h-adholder
 ##.h-ads
 ##.h-adver
@@ -20212,7 +20120,6 @@ _800x80_
 ##.h11-ad-top
 ##.h_Ads
 ##.h_ad
-##.ha-o-house-ad
 ##.half-ad
 ##.half-page-ad
 ##.half-page-ad-1
@@ -32166,6 +32073,7 @@ tf2r.com#@#.adverts
 ||fermentsinewencase.com^
 ||fermolo.info^
 ||feroffer.com^
+||ferritediener.tech^
 ||fertilitycommand.com^
 ||fertilityundergone.com^
 ||fertilizeranaemiaupcoming.com^
@@ -33187,6 +33095,7 @@ tf2r.com#@#.adverts
 ||greedrum.net^
 ||greedtenant.com^
 ||greekomythpo.com^
+||greeltie.com^
 ||greemeek.net^
 ||greenads.org^
 ||greenpaperlist.com^
@@ -34617,6 +34526,7 @@ tf2r.com#@#.adverts
 ||joodoush.com^
 ||joomxer.fun^
 ||joopaish.com^
+||jooptibi.net^
 ||joorijet.net^
 ||jorbfstarn.com^
 ||joredi.com^
@@ -35238,6 +35148,7 @@ tf2r.com#@#.adverts
 ||latuga.com^
 ||latury.com^
 ||latvianswived.com^
+||latvik.com^
 ||laufonie.net^
 ||lauhefoo.com^
 ||lauhoosh.net^
@@ -39151,6 +39062,7 @@ tf2r.com#@#.adverts
 ||qqgcxmviljcu.com^
 ||qqjfwixfiubkc.com^
 ||qqqwes.com^
+||qqrxvafepbjclcd.com^
 ||qrclevrfjw.com^
 ||qrctbsfk.com^
 ||qrlsx.com^
@@ -42024,6 +41936,7 @@ tf2r.com#@#.adverts
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
+||tovanillitechan.com^
 ||tovespiquener.com^
 ||tovihhhyhe.xyz^
 ||towardadvised.com^
@@ -42402,6 +42315,7 @@ tf2r.com#@#.adverts
 ||ufeaqyzn.com^
 ||ufglrthrwrtguj.com^
 ||ufinkln.com^
+||ufmnrbbm.com^
 ||ufoomals.net^
 ||ufpcdn.com^
 ||ufvyywlrgpgpyl.com^
@@ -43932,6 +43846,7 @@ tf2r.com#@#.adverts
 ||xtggpxfmyyfmeun.xyz^
 ||xthizbdwgebzqf.com^
 ||xthkusksqoree.com^
+||xtkyesxcnyra.com^
 ||xtmuasvldoiz.com^
 ||xtow.xyz^
 ||xtrackme.com^
@@ -53917,6 +53832,7 @@ vivo.sx##.preload
 premiumtimesng.com##.premi-texem-campaign
 flobzoo.com,onlyfungames.com,yokogames.com##.preview2bannerspot
 onlyfungames.com##.preview3bannerspot
+astrology.com##.primis-video-module-horoscope
 setlist.fm##.prmtnTop
 computerweekly.com##.pro-downloads-home
 cosmopolitan.com##.product-buy-button-wrapper
@@ -58309,7 +58225,6 @@ ubmcmm.baidustatic.com
 ~weibo.com##.con_ad
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
 ##.con_section > .da
-~lechinois.com##.container > .ads
 ##.container > .index-ad
 ##.container > .slide-baidu
 ##.container > a[href^="http"] > .ads
@@ -60492,6 +60407,7 @@ ubmcmm.baidustatic.com
 ||mxlidx.ink^
 ||aj4j.icu^
 ||bjqwllp.cn^
+||fangfeng002.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -70386,8 +70302,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||myhack58.com^*0$script
 ||myhard.com/s?z=
 ||myqcloud.com/ad/
-||myqqjd.com/wp-content/plugins/*.js
-||myqqjd.com^$csp=script-src 'self' * 'unsafe-inline'
 ||mysteelcdn.com/advert/
 ||mysteelcdn.com/common/*/js/img_ad.
 ||mysteelcdn.com/gg/
@@ -71908,6 +71822,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+myqqjd.com##.tg-site
+bjxfqc.net##script ~ ul[style]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -77633,6 +77549,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||ads.reddit.com^$domain=myqqjd.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
@@ -77674,7 +77591,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|yanyue.cn|ykit.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|xiaoz.me|yanyue.cn|ykit.cn|zgpingshu.com|zyshow.net
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/api/ad/*$domain=pinduoduo.com
@@ -78121,7 +78038,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ms332.com^$generichide
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
-@@||myqqjd.com/wp-content/plugins/open-
 @@||myqqjd.com^$generichide
 @@||nceea.cn/Content/images/ad/
 @@||netded.com/plus/ad_js.php?aid=3|
@@ -78542,6 +78458,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
 !#BaiduUnion
 ?*=*=*=$subdocument,domain=00cha.com|01fy.cn|06ps.com|08160.cn|0s.net.cn|10000xing.cn|100how.com|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|120ask.com|16xx8.com|192ly.com|1ppt.com|1ting.com|201980.com|21hubei.com|23yy.com|263y.com|2hanju.com|2liang.net|315hyw.com|32r.com|32xp.com|360changshi.com|360doc.cn|360zuowen.com|39.net|4aqq.com|5000yan.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52wubi.com|52zxw.com|5djiaren.com|5h.com|5nd.com|5seestar.com|64foot.com|66law.cn|7y7.com|800400.net|86huoche.com|8794.cn|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|99.com.cn|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|annhe.net|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|b2b168.com|b2b6.com|babihu.com|baicaolu.net|baotang5.com|baoxianzx.com|bbdj.com|bendibao.com|bianzhile.com|blog.sina.cn|boosj.com|bu-shen.com|bytravel.cn|c1km4.com|chajiaotong.com|chazidian.com|china.com|chinacar.com.cn|chinakaoyan.com|chinawj.com.cn|chuiyue.com|cidianwang.com|cjcp.com.cn|cnbanbao.cn|cncn.com|cnkang.com|cnlinfo.net|coozhi.com|cr173.com|csai.cn|cyyangqiguan.com|d17.cc|d1xz.net|daquan.com|dayfund.cn|dgzj.com|diangon.com|ditiezu.com|diyifanwen.com|diyju.com|dugoogle.com|dxsbb.com|eastday.com|enterdesk.com|exam58.com|fangdaijisuanqi.com|faxingzhan.com|friok.com|fun48.com|game234.com|gaosan.com|gaotie.cn|gucheng.com|gugu5.com|guidaye.com|gulongbbs.com|gushiwen.cn|hc23.com|hqhot.com|huangye88.com|hxnews.com|hydcd.com|icauto.com.cn|idongde.com|isanxia.com|ixinwei.com|ixiunv.com|jeasyui.net|jf258.com|jianbihua.com|jianbihuadq.com|jinbaodm.com|jingdianlaoge.com|jintang114.org|jj20.com|jy135.com|kdslife.com|latiaozixun.net|liuxue86.com|m.douban.com|makepolo.com|mama.cn|meishij.net|mipcache.bdstatic.com|miyudaquan.com|mmyuer.com|nanhuwang.com|oh100.com|pansoso.com|phb123.com|pig66.com|pikacn.com|pingguolv.com|pingshu8.com|ppzuowen.com|qcrx.cn|qcwxjs.com|qizuang.com|qm120.com|qncye.com|qqzhi.com|quwenqushi.com|riji.cn|riji100zi.com|rr95.com|ruiwen.com|sc115.com|shadafang.com|shangc.net|shenchuang.com|souid.com|ssqzj.com|szdushi.com.cn|szhk.com|tvmao.com|uzuzuz.com|weather.com.cn|webshu.net|wenkuxiazai.com|wenshenxiu.com|wenzhangba.com|wmxa.cn|woyaogexing.com|xiachufang.com|xiangha.com|xiao84.com|xiaole8.com|xiegw.cn|xywy.com|xzbu.com|yanyue.cn|yaozui.com|yellowurl.cn|yiqig.cn|yiyouliao.com|yjbys.com|yuwenmi.com|yxlady.com|yyrtv.com|zdface.com|zhifure.com|zhongyoo.com|zixuntop.com|ziyuanm.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net|zuoyesou.com
+||ad.szhsx.net^
 ||003store.com^
 ||0512s.com^$third-party
 ||1.01fy.cn^
@@ -79875,7 +79792,9 @@ t66y.com##.tips
 ||360buyimg.com$domain=28th.cc
 ||alicdn.com^$domain=28th.cc
 !#theporn.cc
-theporn.cc###__ads_dp
+8mav.cc##.video_playr_sider
+8mav.cc#?#div[class]:-abp-has(>a>.q-responsive)
+###__ads_dp
 ###ad-ft
 ###wp > div > #top_banner
 ##.ads > #video_playr_sider
