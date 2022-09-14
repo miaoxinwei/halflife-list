@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1/T2XuutUHTyhdkNojmc+A
+! Checksum: LT2weSwjc8dL89hacn5hMQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209140225
-! Last Modified: 2022年09月14日 02:25
+! Version: 202209141004
+! Last Modified: 2022年09月14日 10:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8838,7 +8838,6 @@ _800x80_
 ###buySellAds
 ###buysellads
 ###buysellads-4x1
-###bww-advertising-popup-overlay
 ###c-adzone
 ###c4_ad
 ###c4ad-Middle1
@@ -40426,6 +40425,7 @@ tf2r.com#@#.adverts
 ||shillivee.pro^
 ||shilternimpossip.xyz^
 ||shinasi.info^
+||shindysamania.com^
 ||shinearmor.space^
 ||shinebliss.com^
 ||shinyarcadiaproximity.com^
@@ -51673,6 +51673,7 @@ legacy.com###display-right-2
 legacy.com###display-right-inview-1
 legacy.com###display-right-inview-2
 legacy.com###display-top-1
+msn.com###displayAdCard
 tribunnews.com###div-Inside-MediumRectangle
 adtunes.com###div-atf-336x280
 designtaxi.com###div-center-wrapper
@@ -52728,6 +52729,7 @@ techspot.com##.billboard_placeholder_min
 dailymail.co.uk,thisismoney.co.uk##.billboard_wrapper
 netweather.tv##.billheight
 bundesliga.com##.bl-broadcaster
+ehftv.com##.blackPlayer
 nowsci.com##.black_overlay
 tvmaze.com##.blad
 fastpic.ru##.bleft
@@ -54356,6 +54358,7 @@ militarywatchmagazine.com##.theme--light.v-card--link
 hltv.org##.thunderpick
 coub.com##.timeline-banner
 aardvark.co.nz##.tinyprint
+msn.com##.title-ad-single
 primcloud.careers##.title-set
 onlinecourse24.com##.tl-topromote
 trademe.co.nz##.tm-display-ad__wrapper
@@ -57308,7 +57311,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /993dy_new//gg123/*
 /99vjj/*$third-party
 /9CCMSPC/images/*.gif
-/\.(com|cn|top)\/k\/[0-9]{6}$/$script,third-party
 /A-duoduo/Add-
 /A-Tian/Tian-*-good.js
 /a/p?adid=
@@ -60436,6 +60438,15 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||swadakesb.cyou^
+||emjysmk.cn^
+||ahp14.site^
+||jd5c.top^
+||666829.xyz^
+/\.(cyou)\/[a-z]{4}_[0-9]{5}_[a-z]{4}\.js\?[a-z0-9]{10,}/$script,third-party
+/\.(cc|com|top|xyz)\/i\/v$/$xmlhttprequest,third-party
+/\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
+/\.ahp[0-9]{2}\.site:/$script,third-party
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
