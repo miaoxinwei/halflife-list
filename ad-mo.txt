@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HyGUo+HT45xv3kLe/1S63g
+! Checksum: Hy9YP29R31dFIJH3KYhVgw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209141452
-! Last Modified: 2022年09月14日 14:52
+! Version: 202209142040
+! Last Modified: 2022年09月14日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -613,7 +613,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 .adserver.
 .adserver1.
 .adService.$domain=~adservice.com
-.adspace.
+.adspace.$domain=~adspace.pro
 .adsremote.
 .adtech_
 .advert.$domain=~advert.ae|~advert.io|~advert.ly|~advert.media|~advert.org.pl
@@ -4735,7 +4735,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 ?adfox_
 ?adloc=
 ?adlocation=
-?adname=
 ?adPageCd=
 ?adsdata=
 ?adsite=
@@ -6008,6 +6007,7 @@ _800x80_
 ###HorizontalAd
 ###HouseAd
 ###HouseAdInsert
+###IB-ads
 ###IC1-ad
 ###IC2-ad
 ###IC3-ad
@@ -15524,6 +15524,7 @@ _800x80_
 ##.adherebox
 ##.adhesion-block
 ##.adhesion-header
+##.adhesiveAdWrapper
 ##.adhesive_holder
 ##.adhi
 ##.adhide
@@ -35176,7 +35177,6 @@ tf2r.com#@#.adverts
 ||leviol.com^
 ||levityprogramming.com^
 ||lfg5jnbi.com^
-||lfjack.com^
 ||lfjaqwwsgyu.com^
 ||lfjvvccsucsmxg.com^
 ||lfmfrsvguf.com^
@@ -45254,6 +45254,7 @@ tf2r.com#@#.adverts
 ||lcwfabt2.com^$third-party
 ||lcwfabt3.com^$third-party
 ||leadzu.com^$third-party
+||lfjack.com^$script,third-party
 ||linkexchangers.net^$third-party
 ||linkforyoud.com^$third-party
 ||linkgrand.com^$third-party
@@ -54254,6 +54255,7 @@ nybooks.com##.toast-cta
 last.fm##.tonefuze
 euobserver.com,medicinehatnews.com##.top
 mashable.com##.top-0.sticky > div
+dexerto.com##.top-10
 artistdirect.com##.top-add
 jamieoliver.com##.top-avocado
 automotive-fleet.com,businessfleet.com,cfl.ca,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,schoolbusfleet.com##.top-banner
@@ -60336,6 +60338,10 @@ ubmcmm.baidustatic.com
 ||cedon2bea.xyz^
 ||nxlidc.ink^
 ||furrnbb.cn^
+||ysstnh.com^
+||seallife.club^
+||duaoxbg.cn^
+||hehehe.buzz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{4}\.js\?[a-z0-9]{10,}/$script,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$xmlhttprequest,third-party
@@ -71740,6 +71746,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+onlinedown.net##.u-btn-gao
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -77987,7 +77994,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piccool.com/2home/phpAdsNew/
 @@||pinduoduo.com/advert/$~third-party
-@@||pixelexperience.org^$generichide
 @@||poedb.tw/js/
 @@||poedb.tw^$generichide
 @@||popart.hk/newweb/$generichide
@@ -92033,6 +92039,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
 ||domodomain.com^*/ddsense.aspx?
+||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
 ||doug1izaerwt3.cloudfront.net^
@@ -109019,6 +109026,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^
 ||analytics.mbga.jp^
+||analytics.tver.jp^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||astat.nikkei.com^
