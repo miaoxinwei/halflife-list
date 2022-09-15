@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VZnB3P4LpDThTnKiidlNYA
+! Checksum: JoBRaJZukosvd+1uCmPRIQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209151442
-! Last Modified: 2022年09月15日 14:42
+! Version: 202209152045
+! Last Modified: 2022年09月15日 20:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -17514,7 +17514,6 @@ _800x80_
 ##.advertismentContainer
 ##.advertismentContent
 ##.advertismentText
-##.advertisment_300x250
 ##.advertisment_bar
 ##.advertisment_caption
 ##.advertisment_full
@@ -18223,11 +18222,9 @@ _800x80_
 ##.block-module-ad
 ##.block-module-ad-300x250
 ##.block-module-ad-300x600
-##.block-mps
 ##.block-nyx-ads-ninja
 ##.block-nyx-ads-ninja-ad-block
 ##.block-openads
-##.block-openadstream
 ##.block-openx
 ##.block-pm_doubleclick
 ##.block-pt-ads
@@ -18236,32 +18233,18 @@ _800x80_
 ##.block-simple-blockad-320-250-front-2
 ##.block-simpleads
 ##.block-skyscraper-ad
-##.block-sn-ad
-##.block-sn-ad-blog-wrapper
 ##.block-sponsor
 ##.block-sponsored-links
 ##.block-the-dfp
-##.block-thirdage-ads
-##.block-vh-adjuggler
-##.block-wtg_adtech
-##.block-yt-ads
-##.block-zagat_ads
-##.block1--ads
 ##.blockAd
-##.blockAd300x97
 ##.blockAds
 ##.blockAdvertise
 ##.block__ads__ad
-##.block__advertising
-##.block__advertising-content
-##.block__advertising-header
 ##.block_ad
 ##.block_ad1
 ##.block_ad303x1000_left
 ##.block_ad303x1000_right
 ##.block_ad_middle
-##.block_ad_sb_text
-##.block_ad_sponsored_links
 ##.block_ad_top
 ##.block_ads
 ##.block_adslot
@@ -18270,44 +18253,25 @@ _800x80_
 ##.block_article_ad
 ##.blockad
 ##.blocked-ads
-##.blockrightsmallads
-##.blocsponsor
 ##.blog-ad
 ##.blog-ad-image
-##.blog-ad-leader-inner
 ##.blog-ads
 ##.blog-ads-container
 ##.blog-ads-top
 ##.blog-advertisement
 ##.blog-view-ads
-##.blog2AdIntegrated
 ##.blogAd
 ##.blogAdvertisement
 ##.blogArtAd
 ##.blogBigAd
 ##.blog_ad
-##.blog_ad_continue
-##.blog_divider_ad
 ##.blogads
-##.blogads-sb-home
-##.blogroll-ad-img
-##.blogs_2_square_ad
-##.bloque_ads
-##.blox3featuredAd
 ##.blue-ad
-##.blurb-advertisement-alert
-##.blxAdopsPlacement
-##.bmg-sidebar-ads-125
-##.bmg-sidebar-ads-300
 ##.bn_ads
 ##.bn_advert
 ##.bn_textads
 ##.bnr-adbutler
 ##.bnr_ad
-##.bo-top-ad-bottom
-##.bo-top-left-ad
-##.bo-top-right-ad
-##.bodaciousad
 ##.body-ad
 ##.body-ads
 ##.body-adzone
@@ -18320,22 +18284,13 @@ _800x80_
 ##.bodybannerad
 ##.bodyrectanglead
 ##.bomAd
-##.bonnier-ad
-##.bonnier-ads
-##.bonnier-ads-ad-bottom
-##.bonnier-ads-ad-top
 ##.bookad
-##.bookseller-header-advt
-##.booster-ad
 ##.bordered-ad
 ##.bostad
-##.bot-728x90-ad
-##.bot-affiliate
 ##.botAd
 ##.botRectAd
 ##.bot_ad
 ##.bot_ads
-##.botad2
 ##.bottom-ad
 ##.bottom-ad--bigbox
 ##.bottom-ad-banner
@@ -18358,19 +18313,13 @@ _800x80_
 ##.bottom-adv-container
 ##.bottom-adv1
 ##.bottom-banner-ad
-##.bottom-center-adverts
-##.bottom-game-ad
-##.bottom-large-google-ad
-##.bottom-leaderboard-adslot
 ##.bottom-left-ad
-##.bottom-left-fixed-ad
 ##.bottom-main-adsense
 ##.bottom-mobile-ad
 ##.bottom-mpu-ad
 ##.bottom-post-ad-space
 ##.bottom-post-ads
 ##.bottom-right-advert
-##.bottom-rightadvtsment
 ##.bottom-side-advertisement
 ##.bottom-slider-ads
 ##.bottom-sponsor-img-border
@@ -20958,15 +20907,9 @@ _800x80_
 ##.leadgenads
 ##.lee-track-ilad
 ##.left-ad
-##.left-ad180
 ##.left-ads
 ##.left-advert
-##.left-column-rectangular-ad
-##.left-column-virtical-ad
 ##.left-rail-ad
-##.left-rail-ad__wrapper
-##.left-rail-horizontal-ads
-##.left-sidebar-box-ads
 ##.left-sponser-ad
 ##.leftAd
 ##.leftAdColumn
@@ -23876,7 +23819,6 @@ _800x80_
 ##.top-horiz-ad
 ##.top-horizontal-ad
 ##.top-item-ad
-##.top-large-google-ad
 ##.top-leaderboard-ad
 ##.top-left-ad
 ##.top-left-adrotate
@@ -23889,7 +23831,6 @@ _800x80_
 ##.top-post-ads
 ##.top-primary-sponsored
 ##.top-right-ad
-##.top-rightadvtsment
 ##.top-side-advertisement
 ##.top-sidebar-ad
 ##.top-sidebar-adbox
@@ -25404,11 +25345,11 @@ m.motonet.fi#@#.ProductAd
 job.inshokuten.com#@#.ad-area
 kincho.co.jp#@#.ad-block
 job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
-dbook.docomo.ne.jp#@#.ad-button
+dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center
 pokeminers.com#@#.ad-container
 backcar.fr,flat-ads.com,job.inshokuten.com#@#.ad-content
-dbook.docomo.ne.jp#@#.ad-cover
+dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-cover
 transparencyreport.google.com#@#.ad-icon
 flat-ads.com,lastpass.com#@#.ad-img
 dbook.docomo.ne.jp#@#.ad-label
@@ -31286,6 +31227,7 @@ tf2r.com#@#.adverts
 ||eavkkbifpla.xyz^
 ||eawp2ra7.top^
 ||eazyleads.com^
+||eb3c3aac94.com^
 ||ebannertraffic.com^
 ||ebdr3.com^
 ||ebelmqvrrnc.com^
@@ -35269,6 +35211,7 @@ tf2r.com#@#.adverts
 ||lemoouvqjre.com^
 ||lemouwee.com^
 ||lengthcalk.com^
+||lengvtxpfoyi.com^
 ||lenkmio.com^
 ||lenmit.com^
 ||lensesunduke.website^
@@ -35347,6 +35290,7 @@ tf2r.com#@#.adverts
 ||lightlygavetusk.com^
 ||lightlyrelinquish.com^
 ||lightningcast.net^
+||ligmnybi.top^
 ||ligninenchant.com^
 ||lignumagnatic.cam^
 ||lijtfkmmiisrli.xyz^
@@ -36445,6 +36389,7 @@ tf2r.com#@#.adverts
 ||multileaguebookstore.com^
 ||multimater.com^
 ||mumosy.com^
+||mungfali.com^
 ||municalcurit.xyz^
 ||munori.com^
 ||munsterduke.com^
@@ -36682,6 +36627,7 @@ tf2r.com#@#.adverts
 ||nehodyshy.pro^
 ||nehuihkn.com^
 ||neighbourcoastearnestly.com^
+||nelado.xyz^
 ||nellads.com^
 ||nemewagro.com^
 ||nemgnephyfmt.xyz^
@@ -36983,6 +36929,7 @@ tf2r.com#@#.adverts
 ||nsumrwmgq.com^
 ||nsurethatthe.biz^
 ||nsuucewqbukeba.xyz^
+||nswith.com^
 ||nsybcghuv.xyz^
 ||ntafihnubwg.com^
 ||ntconcert.com^
@@ -47231,6 +47178,7 @@ tf2r.com#@#.adverts
 ||mrtpcfegryfgqtbuvksbaebneewer.com^$popup
 ||mscoldness.com^$popup
 ||mugrikees.com^$popup
+||mungfali.com^$popup
 ||murkilyergots.com^$popup
 ||muvflix.com^$popup
 ||mvmbs.com^$popup
@@ -51670,7 +51618,6 @@ blastingnews.com###content-banner-dx1-p1
 classicreload.com###content-top
 kbb.com###contentFor_kbbAdsSimplifiedNativeAd
 lineageos18.com###contentLocker
-ezzocard.com###cookie
 123proxy.biz###cookieConsentUR99472
 g3g.sbs,nocensor.sbs###cookieConsentVPN666
 returnyoutubedislike.com###cool-people
@@ -59129,7 +59076,7 @@ ubmcmm.baidustatic.com
 ||93533557591.com^
 ||94pr.cn^
 ||998k.at^
-||99zuowen.com^
+||99zuowen.com^$third-party
 ||9as3.xyz^
 ||aaapvu.cn^
 ||abbc.cc^
@@ -60501,6 +60448,12 @@ ubmcmm.baidustatic.com
 ||666832.xyz^
 ||mxnr.xyz^
 ||ewadakesw.cyou^
+||xhflovezyy.asia^
+||ceseasons.com^
+||wildwist.com^
+||d1pmhihatyvp1k.cloudfront.net^
+||xl2d.top^
+||zuahaqz.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{4}\.js\?[a-z0-9]{10,}/$script,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$xmlhttprequest,third-party
@@ -71905,6 +71858,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+lbyczf.com##.content__default > .list
 onlinedown.net##.u-btn-gao
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -75982,7 +75936,7 @@ affyun.com##.text ~ a
 chineseinla.com##.text-ads-col
 baidu.com##.text-advertise
 fastadmin.net##.text-center > .carousel
-1010dy1.com##.text-center[style]
+1010dy2.com##.text-center[style]
 baidu.com##.text-link-ads
 auto-online.com.tw##.text_links_h
 jiyingw.vip##.textwidget > p > a > img
@@ -76645,7 +76599,7 @@ bigear.cn##a[href^="/?module=dantian&"]
 x6d.com,xd0.com,xiaodao0.com##a[href^="/ad."]
 vk922.com##a[href^="/ad/"]
 ziyuanba.com##a[href^="/ago."]
-1010dy1.com##a[href^="/go"]
+1010dy2.com##a[href^="/go"]
 szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
@@ -86598,7 +86552,6 @@ _mongo_stats/
 ||awfonts.com^$script,third-party
 ||awin1.com^$third-party
 ||awstrack.me^$third-party
-||axept.io^$third-party
 ||axf8.net^$third-party
 ||azalead.com^$third-party
 ||azera-s014.com^$third-party
@@ -87511,6 +87464,7 @@ _mongo_stats/
 ||ipinyou.com.cn^$third-party
 ||iplist.cc^$third-party
 ||iplocationtools.com^$third-party
+||iplogger.org^$third-party
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
 ||ippen.space^$third-party
@@ -93185,6 +93139,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitefinity.com/collect/
 ||sitescdn.net/ytag/ytag.min.js
+||skypack.dev/@amplitude/
 ||skysa.com/tracker/
 ||slgnt.us/track
 ||sli-spark.com/b.png$third-party
@@ -109594,7 +109549,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|healthsafe-id.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|healthsafe-id.com|helvetia.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -110052,6 +110007,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
 @@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||wix.com/_api/*count?type$~third-party
+@@||wow.zamimg.com/js/wh/page/bluetracker.js$script,domain=wowhead.com
 @@||wp.com^*/google-analytics-for-wordpress/$domain=wordpress.org
 @@||wplogout.com/wp-content/uploads/*Google$image,~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
