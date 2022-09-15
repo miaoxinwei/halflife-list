@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b7qAwJfJnX4eEXrmQSK/SQ
+! Checksum: VZnB3P4LpDThTnKiidlNYA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209151013
-! Last Modified: 2022年09月15日 10:13
+! Version: 202209151442
+! Last Modified: 2022年09月15日 14:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -45617,6 +45617,7 @@ tf2r.com#@#.adverts
 ||powerteam-competitions.com^$third-party
 ||ppcwebspy.com^$third-party
 ||prebid.org^$third-party
+||prebidwrapper.com^$third-party
 ||prf.hn^$third-party
 ||promo-reklama.ru^$third-party
 ||propellerads.com^$third-party
@@ -50947,7 +50948,7 @@ spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepag
 ||yieldlab.net^$domain=spiegel.de
 @@||jetzt.de^$generichide
 /^https?:\/\/www\.[0-9a-z]{8,}\.com\/[0-9a-z]{1,4}\.js$/$script,third-party,domain=dood.la|dood.pm|dood.sh|dood.so|dood.to|dood.watch|dood.ws
-$popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me|adblockeronstreamtape.me|adblockeronstrtape.xyz|adblockplustape.com|adblockstreamtape.art|adblockstreamtape.fr|adblockstreamtape.site|animepl.xyz|animeworld.biz|apl100.me|apl102.me|apl96.me|assia2.com|assia4.com|bflix.ru|cloudemb.com|cloudvideo.tv|databasegdriveplayer.xyz|dembed1.com|diampokusy.com|dir-proxy.net|dirproxy.info|dood.wf|dood.ws|dulu.to|embedsb.com|embedsito.com|fembed-hd.com|file-upload.com|filemoon.sx|freeplayervideo.com|geoip.redirect-ads.com|gogoanime.lol|haes.tech|highload.to|highstream.tv|hubfiles.ws|hydrax.xyz|katfile.com|kissanime.lol|kokostream.net|livesports4u.xyz|livetv498.me|loader.to|luxubu.review|mangovideo.pw|mixdrop.bz|mixdrop.ch|mixdrop.click|mixdrop.club|mixdrop.co|mixdrop.sx|mixdrop.to|mixdrops.xyz|myflixer.to|mystream.to|ninjastream.to|oneproxy.org|owodeuwu.xyz|piracyproxy.biz|piraproxy.info|pixroute.com|play.hydracdn.network|playtube.ws|pomvideo.cc|pouvideo.cc|projectfreetv2.com|proxyer.org|raes.tech|sbfast.com|sbplay2.com|sbplay2.xyz|sbthe.com|scloud.online|shavetape.cash|slmaxed.com|ssbstream.net|stape.fun|stape.me|strcloud.in|streamas.cloud|streambee.to|streamlare.com|streamon.to|streamta.pe|streamtape.com|streamtapeadblock.art|streamtapse.com|streamz.ws|streamzz.to|strtape.cloud|strtapeadblocker.xyz|strtpe.link|supervideo.tv|suzihaza.com|theproxy.ws|trafficdepot.xyz|tubeload.co|un-block-voe.net|uploadfiles.pw|uprot.net|uproxy.best|uproxy.co|upstream.to|upvid.biz|upvideo.to|uqload.com|userload.co|uwatchfree.fo|vanfem.com|vidcloud9.com|videovard.sx|videovard.to|vidlox.me|viewsb.com|vivo.sx|voe-unblock.com|voe-unblock.net|voe.sx|voeunblock1.com|voeunblock2.com|vupload.com|watchsb.com|wiztube.xyz|wootly.ch|y2mate.is|youtubedownloader.sh|ytmp3.cc|ytmp3.sh
+$popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me|adblockeronstreamtape.me|adblockeronstrtape.xyz|adblockplustape.com|adblockstreamtape.art|adblockstreamtape.fr|adblockstreamtape.site|animepl.xyz|animeworld.biz|apl100.me|apl102.me|apl96.me|assia2.com|assia4.com|bflix.ru|cloudemb.com|cloudvideo.tv|databasegdriveplayer.xyz|dembed1.com|diampokusy.com|dir-proxy.net|dirproxy.info|dood.wf|dood.ws|dulu.to|embedsb.com|embedsito.com|fembed-hd.com|file-upload.com|filemoon.sx|freeplayervideo.com|geoip.redirect-ads.com|gogoanime.lol|haes.tech|highload.to|highstream.tv|hubfiles.ws|hydrax.xyz|katfile.com|kissanime.lol|kokostream.net|livesports4u.xyz|livetv498.me|loader.to|luxubu.review|mangovideo.pw|mixdrop.bz|mixdrop.ch|mixdrop.click|mixdrop.club|mixdrop.co|mixdrop.sx|mixdrop.to|mixdrops.xyz|myflixer.to|mystream.to|ninjastream.to|oneproxy.org|owodeuwu.xyz|piracyproxy.biz|piraproxy.info|pixroute.com|play.hydracdn.network|playtube.ws|pomvideo.cc|pouvideo.cc|projectfreetv2.com|proxyer.org|raes.tech|sbfast.com|sbplay2.com|sbplay2.xyz|sbthe.com|scloud.online|shavetape.cash|slmaxed.com|ssbstream.net|stape.fun|stape.me|strcloud.in|streamas.cloud|streambee.to|streamlare.com|streamon.to|streamta.pe|streamtape.com|streamtapeadblock.art|streamtapse.com|streamz.ws|streamzz.to|strtape.cloud|strtapeadblocker.xyz|strtpe.link|supervideo.tv|suzihaza.com|theproxy.ws|trafficdepot.xyz|tubeload.co|un-block-voe.net|uploadfiles.pw|uproxy.best|uproxy.co|upstream.to|upvid.biz|upvideo.to|uqload.com|userload.co|uwatchfree.fo|vanfem.com|vidcloud9.com|videovard.sx|videovard.to|vidlox.me|viewsb.com|vivo.sx|voe-unblock.com|voe-unblock.net|voe.sx|voeunblock1.com|voeunblock2.com|vupload.com|watchsb.com|wiztube.xyz|wootly.ch|y2mate.is|youtubedownloader.sh|ytmp3.cc|ytmp3.sh
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /?ref=$popup,domain=hltv.org
 /hkz*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
@@ -51340,6 +51341,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||thegay.porn/hksdxivygl/
 ||thehun.net/banners/
 ||thenipslip.com/8bf6a64db50f.js
+||thisvid.com/enblk/
 ||tits-guru.com/js/istripper4.js
 ||titsbox.com/nb/
 ||tnaflix.com/azUhsbtsuzm?
@@ -51668,6 +51670,7 @@ blastingnews.com###content-banner-dx1-p1
 classicreload.com###content-top
 kbb.com###contentFor_kbbAdsSimplifiedNativeAd
 lineageos18.com###contentLocker
+ezzocard.com###cookie
 123proxy.biz###cookieConsentUR99472
 g3g.sbs,nocensor.sbs###cookieConsentVPN666
 returnyoutubedislike.com###cool-people
@@ -51681,7 +51684,7 @@ theregister.co.nz###custom_html-13
 colombiareports.com,miloserdov.org,mostlyblogging.com###custom_html-14
 mostlyblogging.com,sonyalpharumors.com###custom_html-15
 eetimes.eu,miloserdov.org###custom_html-16
-ets2.lt,miloserdov.org###custom_html-2
+budgetbytes.com,ets2.lt,miloserdov.org###custom_html-2
 robloxhackscripts.com###custom_html-23
 sonyalpharumors.com###custom_html-25
 mostlyblogging.com,sarkarideals.com###custom_html-3
@@ -52340,6 +52343,7 @@ jobs24.co.uk##.Banner
 freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
 freebitz.xyz##.BannerMain
+interestingengineering.com##.BigAdBorder_isPremium__RXPuj
 thedailybeast.com##.CheatSheetList__placeholder
 tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
@@ -52552,6 +52556,7 @@ hindustantimes.com##.affilaite-widget
 linuxize.com##.affiliate
 express.co.uk##.affiliate-widget
 sharylattkisson.com##.after-entry.widget-area
+domainnamewire.com##.after-header
 paraphraser.io##.after_button_box
 venea.net##.ag_banner
 venea.net##.ag_line
@@ -52708,7 +52713,7 @@ arcadebomb.com##.bannerext
 2merkato.com,2mfm.org,aps.dz,armyrecognition.com,beginlinux.com,botswanaguardian.co.bw,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,southfloridagaynews.com,thepatriot.co.bw##.bannergroup
 saigoneer.com##.bannergroup-main
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
-marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
+domainnamewire.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
 theportugalnews.com##.banners-250
 propertyfinderph.com##.banners-wrapper
 rt.com##.banners__border
@@ -52935,7 +52940,7 @@ drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
-180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,thecinemaholic.com,twistedvoxel.com,welovetrump.com,zerohanger.com##.code-block
+180gadgets.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,simscommunity.info,thecinemaholic.com,twistedvoxel.com,welovetrump.com,zerohanger.com##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -52961,6 +52966,7 @@ titanwolf.org##.col-md-4 > .card-raised > .card-body
 tineye.com##.col-md-4.sidebar
 disqus.com##.col-promoted
 faucetpay.nurul-huda.or.id##.col-sm-3
+thepostmillennial.com##.col.text-center
 nycgo.com##.colBBox
 jamendo.com##.col_extra
 iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
@@ -53069,7 +53075,7 @@ apotelyt.com##.cuPopuCon
 homefinder.com##.cubeContainer
 speedrun.com##.curse
 toolslib.net##.custom
-addictivetips.com##.custom-html-widget
+addictivetips.com,simscommunity.info##.custom-html-widget
 noqreport.com##.custom-html-widget [href] > [src]
 ehitavada.com##.custom-popup
 101cargames.com##.custom-siteskin
@@ -53286,6 +53292,7 @@ whatismybrowser.com##.fun-inner
 ferrarichat.com##.funzone
 fxstreet.com##.fxs_leaderboard
 aframnews.com,afro.com,aurn.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,dailysport.co.uk,dallasvoice.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,one.com.mt,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
+domainnamewire.com##.g-single
 yellowise.com##.g-widget-block
 titantv.com##.gAd
 animedao.to,elevenforum.com##.gads
@@ -53970,6 +53977,7 @@ giantfreakinrobot.com##.pw-med-rect-btf-container
 thedirect.com##.pw-ph-leaderboard
 giantfreakinrobot.com##.pw-ph-med-rect
 thedirect.com##.pw-ph-sky
+theverge.com##.px-20 > .hidden.mx-auto
 smallseotools.com##.px261
 smallseotools.com##.px301
 breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
@@ -54154,7 +54162,7 @@ freshbusinessthinking.com##.sidebar-mpu
 spearswms.com##.sidebar-mpu-1
 middleeasteye.net##.sidebar-photo-extend
 comedy.com##.sidebar-prebid
-repeatreplay.com##.sidebar-primary
+domainnamewire.com,repeatreplay.com##.sidebar-primary
 davidwalsh.name##.sidebar-sda-large
 ldjam.com##.sidebar-sponsor
 indianapublicmedia.org##.sidebar-upper-underwritings
@@ -54369,7 +54377,6 @@ who.is##.teaser-bar
 sporcle.com##.temp-unit
 macrumors.com##.tertiary
 ericpetersautos.com##.text-109
-thepostmillennial.com##.text-center
 upi.com##.text-center.mt-5
 businessonhome.com##.text-info
 geeksforgeeks.org##.textBasedMannualAds_2
@@ -56838,6 +56845,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||informer.com^$generichide
 @@||insurglobal.xyz^$generichide
 @@||manhwaid.org^$generichide
+@@||maxstream.video^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpu-world.com|megaleech.us
 @@||premiumleecher.com^$generichide
 @@||receive-a-sms.com^$generichide
@@ -60491,6 +60499,8 @@ ubmcmm.baidustatic.com
 ||ctuhn2cop.xyz^
 ||n7181.com^
 ||666832.xyz^
+||mxnr.xyz^
+||ewadakesw.cyou^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{4}\.js\?[a-z0-9]{10,}/$script,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$xmlhttprequest,third-party
@@ -86203,6 +86213,7 @@ _mongo_stats/
 ||matheranalytics.com^
 ||mcangelus.com^
 ||mdhv.io^
+||mediapxv.com^
 ||micpn.com^
 ||mm-api.agency^
 ||mors22.com^
@@ -88674,6 +88685,7 @@ _mongo_stats/
 ||trakzor.com^$third-party
 ||transactionale.com^$third-party
 ||traq.li^$third-party
+||travelrobotflower.com^$third-party
 ||traversedlp.com^$third-party
 ||trbas.com^$third-party
 ||treasuredata.com^$third-party
@@ -93599,6 +93611,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usercentrics.eu/session/$image
 ||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
+||usersonline.org/ping.php?
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
 ||utils.global-e.com/set?
@@ -94190,6 +94203,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bnpparibas.fr/JavascriptInsert.js
 ||btstats.devtribu.fr^
 ||c.woopic.com/tools/pdb.min.js
+||caast.tv/v1/record.gif?
 ||calcul-pagerank.fr/client/$third-party
 ||calotag.com^$third-party
 ||cdn-files.prsmedia.fr^*/xiti/
