@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wS3TUPQJ9edWxjroK7qRIw
+! Checksum: UHncMw3VTLafrpNhVbg5sg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209191459
-! Last Modified: 2022年09月19日 14:59
+! Version: 202209192043
+! Last Modified: 2022年09月19日 20:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -4475,6 +4475,7 @@ tieba.baidu.com##.tuijian-wrap
 /tmnadsense.
 /tmobilead.
 /tncms/ads/*
+/tnt.ads.
 /toggleAds.
 /too_ad/*
 /toolkitads.
@@ -9711,9 +9712,6 @@ _800x80_
 ###headline_ad
 ###hearst-autos-ad-wrapper
 ###hidadvnet
-###hideAds
-###hideads
-###hideads1
 ###home-ad
 ###home-ad-block
 ###home-ad-slot
@@ -9974,21 +9972,6 @@ _800x80_
 ###jsid-ad-container-post_above_comment
 ###jsid-ad-container-post_below_comment
 ###jupiter-ads
-###ka_adFullBanner
-###ka_adMediumRectangle
-###ka_adRightSkyscraperWide
-###ka_adsense_container
-###kads-main
-###kamidarticle-adnotice
-###kamidarticle-middle-content
-###karmaAds
-###kb-ad-banner
-###kbbAdsMainCenterAd
-###keen_overlay_ad_display
-###keyadvertcontainer
-###khAdSpace
-###ksperAD
-###l_home-keen_ad_mask
 ###landing-adserve
 ###landing-adserver
 ###lapho-top-ad-1
@@ -20184,28 +20167,9 @@ _800x80_
 ##.jw-ad-label
 ##.jw-ad-media-container
 ##.jw-ad-visible
-##.kads-main
 ##.kakao_ad_area
-##.kcAds
-##.kd_ads_block
-##.kdads-empty
-##.kdads-link
 ##.keen_ad
-##.keyword-ads-block
-##.kip-advertisement
-##.kip-banner-ad
-##.kitara-sponsored
 ##.klicked-ads
-##.knowledgehub_ad
-##.koadvt
-##.kopa-ads-widget
-##.ksAds
-##.kw_advert
-##.kw_advert_pair
-##.kwd_bloack
-##.l-350-250-ad-words
-##.l-ad-300
-##.l-ad-728
 ##.l-ad-top
 ##.l-ads
 ##.l-adsense
@@ -21527,6 +21491,7 @@ _800x80_
 ##.promoad
 ##.promoboxAd
 ##.promoted_content_ad
+##.promotionAdContainer
 ##.promotionTextAd
 ##.promotional-feature-ads
 ##.proof_ad
@@ -24348,6 +24313,7 @@ _800x80_
 ##.primis-player
 ##.primis-player__container
 ##.primis_1
+##.s2nContainer
 ##.send-to-news
 ##.van_vid_carousel
 ##.vid-present > .van_vid_carousel__padding
@@ -25511,6 +25477,7 @@ tf2r.com#@#.adverts
 ||abilityviews.com^
 ||abjectionremarksdisarm.com^
 ||abjwkkabu.com^
+||abkvgughrjhe.com^
 ||ablatesgascon.cam^
 ||ableaborah.com^
 ||ablebodiedfibre.com^
@@ -26251,6 +26218,7 @@ tf2r.com#@#.adverts
 ||agogdebitape.com^
 ||agooxouy.net^
 ||agrafestickled.com^
+||agraglie.net^
 ||agrarianbeepsensitivity.com^
 ||agrarianeruption.com^
 ||agreedrunawaysalty.com^
@@ -29056,6 +29024,7 @@ tf2r.com#@#.adverts
 ||collidetunnel.com^
 ||colliersads.com^
 ||colltz.com^
+||colmoseshelled.com^
 ||colognegreece.com^
 ||colonistnobilityheroic.com^
 ||colorfullank.com
@@ -31035,9 +31004,11 @@ tf2r.com#@#.adverts
 ||evgywgur.com
 ||evhipjnjvxxuikn.xyz^
 ||eviclick.pro^
+||evists.com^
 ||evitingawabi.com^
 ||evushuco.com^
 ||ewaglongoo.com^
+||ewaqlimkfmb.com^
 ||ewasadirec.com^
 ||ewcgnifqlm.com^
 ||ewedivotsfop.com^
@@ -31627,6 +31598,7 @@ tf2r.com#@#.adverts
 ||forexyard.com^
 ||forflygonom.com^
 ||forfrogadiertor.com^
+||forgerylimit.com^
 ||forgivenesspeltanalyse.com^
 ||forgoprokick.icu^
 ||forgottedvere.xyz^
@@ -35567,6 +35539,7 @@ tf2r.com#@#.adverts
 ||mobytrks.com^
 ||mocean.mobi^
 ||mocmubse.net^
+||moderg.com^
 ||modescrips.info^
 ||modestknownspooky.com^
 ||modificationdispatch.com^
@@ -37014,6 +36987,7 @@ tf2r.com#@#.adverts
 ||ownerfacinglung.com^
 ||ownerlitter.com^
 ||ownerswifeimprove.com^
+||ownsattrib.life^
 ||owohvnpbno.com^
 ||owoxauky.com^
 ||owsvolksk.space^
@@ -37853,6 +37827,7 @@ tf2r.com#@#.adverts
 ||predictivdisplay.com^
 ||predominantaugustchapter.com^
 ||predominantleave.com^
+||preeditpastes.website^
 ||preemiesurnap.com^
 ||prefaceinventorgrouping.com^
 ||preferablycompletion.com^
@@ -38645,7 +38620,6 @@ tf2r.com#@#.adverts
 ||ready-to-download.com^
 ||reagend.com^
 ||reajyu.net^
-||realfinanceblogcenter.com^
 ||realignassiez.xyz^
 ||reallyteenageotter.com^
 ||realmatch.com^
@@ -38898,6 +38872,7 @@ tf2r.com#@#.adverts
 ||restisbench.com^
 ||restlessreduction.com^
 ||restrictbench.com^
+||resultedmundconceal.com^
 ||resultlinks.com^
 ||resultsz.com^
 ||resumedelayed.com^
@@ -39192,6 +39167,7 @@ tf2r.com#@#.adverts
 ||roujonoa.net^
 ||roulediana.com^
 ||rouonixon.com^
+||rouseindecentworth.com^
 ||roustarlyan.com^
 ||roustast.net^
 ||routeit.one^
@@ -39782,6 +39758,7 @@ tf2r.com#@#.adverts
 ||sheerdaulpusher.com^
 ||sheeroop.com^
 ||sheetchi.net^
+||shelvesdeserve.com^
 ||shelvesendorsebloom.com^
 ||shenouth.com^
 ||shepeekr.net^
@@ -42702,6 +42679,7 @@ tf2r.com#@#.adverts
 ||weeklideals.com^
 ||weelgaiting.com^
 ||weelig.com^
+||weemauge.com^
 ||weepingbead.com^
 ||weeplypriapic.website^
 ||weeragedeafer.com^
@@ -45759,6 +45737,7 @@ tf2r.com#@#.adverts
 ||baiweluy.com^$popup
 ||banquetunarmedgrater.com^$popup
 ||baypops.com^$popup
+||bbccn.org^$popup
 ||bbcrgate.com^$popup
 ||bbuni.com^$popup
 ||bcvcmedia.com^$popup
@@ -46407,6 +46386,7 @@ tf2r.com#@#.adverts
 ||jelulymy.pro^$popup
 ||jennyunfit.com^$popup
 ||jerboasjourney.com^$popup
+||jillbuildertuck.com^$popup
 ||joeputa.xyz^$popup
 ||jomtingi.net^$popup
 ||jrpkizae.com^$popup
@@ -48362,6 +48342,7 @@ tf2r.com#@#.adverts
 ||customer.heartinternet.co.uk^$third-party
 ||cut-win.com/img/banners/
 ||cuteonly.com/banners.php
+||d3mmnnn9s2dcmq.cloudfront.net/shim/embed.js
 ||dart.clearchannel.com^
 ||datafeedfile.com/widget/readywidget/
 ||dawanda.com/widget/
@@ -52847,6 +52828,7 @@ nintendolife.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
+startpage.com##.internxt-promo
 allnurses.com##.ipsAreaBackground
 1tamilmv.click##.ipsCarousel
 allnurses.com##.ipsSpacer_both
@@ -55838,6 +55820,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||adserve.atedra.com/js/$script,domain=repeatmyvids.com
 @@||adserve.atedra.com/vast/wrap.php?$script,domain=repeatmyvids.com
 @@||adserve.atedra.com/zones.php$xmlhttprequest,domain=repeatmyvids.com
+@@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservex.media.net/videoAds.js?$script,domain=forbes.com
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
@@ -58045,7 +58028,6 @@ ubmcmm.baidustatic.com
 ##a[href*=".08an.com/"]
 ##a[href*=".123ch.cn"]
 ##a[href*=".1317yb.com"]
-##a[href*=".222bz.com/"]
 ##a[href*=".3366722.com"]
 ##a[href*=".51gogogou.com"]
 ##a[href*=".5599722.com"]
@@ -58126,7 +58108,6 @@ ubmcmm.baidustatic.com
 ##a[href*=".wensixuetang.com/"]
 ##a[href*=".wjLkj.com/"]
 ##a[href*=".wpwpquse.cn/"]
-##a[href*=".wuyichunqiu.com/"]
 ##a[href*=".xinghuolm.top"]
 ##a[href*=".xingxingdm.com:"]
 ##a[href*=".xlddz.net/"]
@@ -59945,6 +59926,8 @@ ubmcmm.baidustatic.com
 ||ahjkpqn.cn^
 ||mvdwq.xyz^
 ||0p7w.cn^
+||cjnxs.com^
+||ipqc5ejfe.icu^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -65047,7 +65030,6 @@ ubmcmm.baidustatic.com
 ||ttzhongbao.com^
 ||tuadong.com^
 ||tuangou.pro^
-||tudown.com^$third-party
 ||tufsjnk.cn^
 ||tufute.cn^
 ||tuia.cn^$third-party
@@ -70899,10 +70881,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xdf.cn/v4/js/leyus/
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
-||xdowns.com/ggco.js
-||xdowns.com/info.js
-||xdowns.com/js/lefttuijian.js
-||xdowns.com/template/tshouyou/js/jietu.js
 ||xdyjt.com^
 ||xghylt.com/api.php?mod=ad&adid=
 ||xhymsq.com/data/attachment/portal/
@@ -70958,7 +70936,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xonlines.com/yyh_qp_200_200.png
 ||xp85.com/common/js/allpage.js
 ||xpcha.com/js/notice.js
-||xpgod.com/statics/skin_js/xpgod/
 ||xs.houyi.baofeng.net^
 ||xuehi.cn/reward/reward
 ||xunsu.cc/js/indexbottom.js
@@ -70995,7 +70972,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
 ||yatu.tv/m/images/*300_100
-||yc58.com/tencent
 ||yccz.net/xml/
 ||yczbb.*/ggimg/
 ||ydss.cn/static/js/autoAd.js
@@ -71112,7 +71088,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yun.baidu.com/act/api/activityentry?
 ||yundaquan.com/data/attachment/portal/
 ||yunfile.com/ex/pop/
-||yuntue.com/zb_users/plugin/MoreLinks/MoreLinks.php
+||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yunupload.net/jsa/
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
 ||yx-w.com/1122in/619x93.js
@@ -71300,6 +71276,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||autopiano.cn/data/jd_
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ypojie.com##.widget_ui_orbui
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -71698,7 +71675,6 @@ fuli.us,tianshif.com###comment-ad
 elecfans.com###company-ad
 ithome.com###con > div[style="text-align:center"]
 apk.tw###confirmOverla
-yc58.com###contain1
 gate.baidu.com,m.baidu.com###container
 hsex.men###container > div:not([class])
 gg163.net###container > table[width="960"]
@@ -72006,7 +71982,7 @@ js0573.com###gotopl
 js0573.com###gotopr
 18183.com###gsBtn
 yxbao.com###gs_down
-05sun.com,cncrk.com,xdowns.com###gsxza
+05sun.com,cncrk.com###gsxza
 121xz.com###gsxzdz
 cnr.cn###gtop00
 doubibackup.com###guangg_image
@@ -72312,7 +72288,6 @@ rising.cn###pageflip
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
 u7u9.com###pangu_leftBottom
 pc6.com###param + a
-xdowns.com###part_1
 hifidiy.net###part_left2
 hifidiy.net###part_right_gg7
 18avhub.com,18avtube.com,mm-cg.com###partner
@@ -75925,7 +75900,6 @@ mydrivers.com##a[href*="/zt.ashx"]
 zhicheng.com##a[href*="512856.com"]
 myk3.com##a[href*="?aid="]
 eworldship.com##a[href*="ad_click&"]
-xitek.com##a[href*="adclick"] + .info
 guilinlife.com##a[href*="adclicks&"]
 159i.com##a[href*="ai69"]
 v.qq.com##a[href*="amway.com.cn"]
@@ -92299,6 +92273,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pcrl.co/js/jstracker.min.js
 ||pega.com/logserver
 ||pegasus.unifygroup.com^
+||pendo.io/data/guide.gif/
 ||pendo.io/data/ptm.gif
 ||penton.com/analytics/
 ||perf-events.cloud.unity3d.com^
@@ -94910,6 +94885,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perf.mouser.com^
 ||pf.newegg.com^
 ||phonearena.com/_track.php
+||pikbest.com/?m=Stats&
 ||ping.hungama.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
