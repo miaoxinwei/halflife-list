@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /uhToyPC4cGBMSW/xLWTuw
+! Checksum: 2GYrmseJCfdl77NlQX9BBQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209190224
-! Last Modified: 2022年09月19日 02:24
+! Version: 202209191013
+! Last Modified: 2022年09月19日 10:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9314,7 +9314,6 @@ _800x80_
 ###floatAd
 ###floatAd-left
 ###floatAd-right
-###floatAdv
 ###floatads
 ###floating-ad-spacer
 ###floating-ad-wrapper
@@ -12143,6 +12142,7 @@ _800x80_
 ##.Banner468X60
 ##.BigBoxAd
 ##.BigBoxAdLabel
+##.Billboard-ad
 ##.Billboard-ad-holder
 ##.Billboard_2-ad-holder
 ##.Billboard_3-ad-holder
@@ -13152,7 +13152,6 @@ _800x80_
 ##.ad-loading
 ##.ad-location
 ##.ad-location-container
-##.ad-location-header
 ##.ad-lock
 ##.ad-lock-content
 ##.ad-lower_rec
@@ -15320,6 +15319,7 @@ _800x80_
 ##.adits
 ##.adjimage2
 ##.adjlink
+##.adk-slot
 ##.adkicker
 ##.adkingprobanner
 ##.adkingprocontainer
@@ -17437,13 +17437,9 @@ _800x80_
 ##.at-sidebar-ad
 ##.atcode_wp_bnn
 ##.atf-ad
-##.atf-ad-medRect
-##.atf-ad-medrec
-##.atf-wrapper
 ##.atfAds
 ##.atf_ad300
 ##.atf_adWrapper
-##.atf_ad_box
 ##.atf_placeholder
 ##.attachment-advert_home
 ##.attachment-dm-advert-bronze
@@ -17451,7 +17447,6 @@ _800x80_
 ##.attachment-dm-advert-silver
 ##.attachment-sidebar-ad
 ##.attachment-squareAd
-##.autoAd
 ##.avadvslot
 ##.avap-ads-container
 ##.avert--leaderboard
@@ -17460,21 +17455,12 @@ _800x80_
 ##.azk-adsense
 ##.b-ad
 ##.b-ad-main
-##.b-ad-topBanner
 ##.b-ads_gpt
 ##.b-adv
-##.b-adv-art
-##.b-adv-mobi
-##.b-adv-teaser
 ##.b-advert
-##.b-advert__grid
 ##.b-advertising__down-menu
 ##.b-aside-ads
 ##.b-header-ad
-##.b5-ad-pushdown
-##.b5_widget_skyscraper_ad
-##.b5ad_bigbox
-##.b5ad_skyscraper
 ##.bAdvertisement
 ##.b_adLastChild
 ##.b_ads
@@ -17486,19 +17472,7 @@ _800x80_
 ##.background-ad
 ##.background-adv
 ##.backgroundAd
-##.badge-gag-ads-container
-##.badge-style-type-ad
-##.bads300
-##.badxcn
 ##.bam-ad-slot
-##.bam-dcRefreshableAd
-##.ban-720-container
-##.ban300side
-##.ban420x200
-##.ban420x260
-##.ban680x450
-##.ban728
-##.ban980x90
 ##.bandeauCookies
 ##.bandeau_cookie
 ##.bank-rate-ad
@@ -17516,9 +17490,7 @@ _800x80_
 ##.banner-468x60
 ##.banner-728
 ##.banner-728x90
-##.banner-950x50
 ##.banner-ad
-##.banner-ad-300x250
 ##.banner-ad-b
 ##.banner-ad-below
 ##.banner-ad-block
@@ -17538,7 +17510,6 @@ _800x80_
 ##.banner-ad-wrapper
 ##.banner-ad2
 ##.banner-ads
-##.banner-ads-300x250
 ##.banner-ads-right
 ##.banner-ads-sidebar
 ##.banner-adsense
@@ -17548,7 +17519,6 @@ _800x80_
 ##.banner-advertising
 ##.banner-adverts
 ##.banner-buysellads
-##.banner-sidebar-300x250
 ##.banner-top-ads
 ##.banner120x600
 ##.banner160
@@ -17556,7 +17526,6 @@ _800x80_
 ##.banner200x200
 ##.banner300
 ##.banner300x250
-##.banner300x84
 ##.banner336
 ##.banner336x280
 ##.banner350
@@ -17569,7 +17538,6 @@ _800x80_
 ##.bannerAd
 ##.bannerAd-module
 ##.bannerAd3
-##.bannerAd300x250
 ##.bannerAdContainer
 ##.bannerAdHHP
 ##.bannerAdLeaderboard
@@ -17660,11 +17628,6 @@ _800x80_
 ##.belt-ad
 ##.belt_ad
 ##.best_project_ad
-##.bet_AdBlock
-##.bets-ads
-##.betteradscontainer
-##.between_page_ads
-##.bex_ad
 ##.bg-ad-gray
 ##.bg-ad-link
 ##.bg-ad-top
@@ -17673,7 +17636,6 @@ _800x80_
 ##.bgAdBlue
 ##.bg_ad
 ##.bg_ads
-##.bgadgray10px
 ##.bgcolor_ad
 ##.bgnavad
 ##.bgr-ad-leaderboard
@@ -18990,7 +18952,6 @@ _800x80_
 ##.flexadvert
 ##.flexiad
 ##.flm-ad
-##.floatAdv
 ##.floatad
 ##.floatads
 ##.floated-ad
@@ -20353,9 +20314,7 @@ _800x80_
 ##.leaderboard-ad-container
 ##.leaderboard-ad-dummy
 ##.leaderboard-ad-fixed
-##.leaderboard-ad-green
 ##.leaderboard-ad-grid
-##.leaderboard-ad-inner
 ##.leaderboard-ad-main
 ##.leaderboard-ad-module
 ##.leaderboard-ad-pane
@@ -20377,7 +20336,6 @@ _800x80_
 ##.leaderboard_ad
 ##.leaderboard_ad_container
 ##.leaderboard_ad_unit
-##.leaderboard_ad_unit_groups
 ##.leaderboard_ads
 ##.leaderboard_adsense
 ##.leaderboard_adv
@@ -20386,7 +20344,6 @@ _800x80_
 ##.leaderboardadmiddle
 ##.leaderboardadtop
 ##.leaderboardadwrap
-##.leadgenads
 ##.lee-track-ilad
 ##.left-ad
 ##.left-ads
@@ -20396,8 +20353,6 @@ _800x80_
 ##.leftAd
 ##.leftAdColumn
 ##.leftAdContainer
-##.leftAd_bottom_fmt
-##.leftAd_top_fmt
 ##.leftAds
 ##.leftAdsEnabled
 ##.leftAdsFix
@@ -21350,7 +21305,6 @@ _800x80_
 ##.partner_ads
 ##.partnerad_container
 ##.partnersTextLinks
-##.paszone_container
 ##.patronad
 ##.pauseAdPlacement
 ##.pb-ad
@@ -22545,7 +22499,6 @@ _800x80_
 ##.smallAdContainer
 ##.smallAds
 ##.smallAdsContainer
-##.smallAdv
 ##.smallAdvertisments
 ##.small_ad
 ##.small_ad_bg
@@ -23763,28 +23716,16 @@ _800x80_
 ##.widget_text_adsense
 ##.widget_themoneytizer_widget
 ##.widget_thesun_dfp_ad_widget
-##.widget_tpd_ad_widget
 ##.widget_tt_ads_widget
-##.widget_uds-ads
-##.widget_vb_sidebar_ad
 ##.widget_viral_advertisement
 ##.widget_wp-bannerize-widget
 ##.widget_wp_ads_gpt_widget
-##.widget_wp_insert_ad_widget
-##.widget_wpshower_ad
 ##.widgetads
 ##.width-ad-slug
 ##.wikia-ad
 ##.wio-xbanner
-##.wis_adControl
 ##.with-background-ads
-##.with-wrapper-ads
 ##.withBanners__ad
-##.with_ctecad
-##.wixAdsdesktopBottomAd
-##.wloadIframeAD
-##.wnIframeAd
-##.wnMultiAd
 ##.wnad
 ##.worldplus-ad
 ##.wp-ads-target
@@ -23792,31 +23733,17 @@ _800x80_
 ##.wp-block-tpd-block-tpd-ads
 ##.wp125ad
 ##.wp125ad_2
-##.wpInsertAdWidget
-##.wpInsertInPostAd
 ##.wp_bannerize
 ##.wp_bannerize_container
 ##.wp_bnn
 ##.wp_bnnatcode_wp_bnn
 ##.wpadvert
-##.wpbrad-zone
 ##.wpd-advertisement
-##.wpfp_custom_ad
-##.wpfp_custom_ad_content
-##.wpi_ads
-##.wpmrec
-##.wpn_ad_content
 ##.wppaszone
-##.wpproaddlink
-##.wpproadgrid
-##.wpproadszone
-##.wptouch-ad
 ##.wpvqgr-a-d-s
 ##.wpx-bannerize
 ##.wpx_bannerize
 ##.wpx_bannerize_banner_box
-##.wr-ad-slot
-##.wr-home-top-adv
 ##.wrap-ad
 ##.wrap-ads
 ##.wrap_boxad
@@ -26605,6 +26532,7 @@ tf2r.com#@#.adverts
 ||almasatten.com^
 ||almostspend.com^
 ||aloetichansels.casa^
+||aloftliquid.com^
 ||alogationa.co^
 ||aloha-news.net^
 ||alota.xyz^
@@ -28344,6 +28272,8 @@ tf2r.com#@#.adverts
 ||bupatp.com^
 ||buram.xyz^
 ||burbibape.com^
+||burdiesfogyish.com^
+||bureauxcope.casa^
 ||burglardefinitelyresolved.com^
 ||burglarmottoclotted.com^
 ||burialgerminatebizarre.com^
@@ -30291,6 +30221,7 @@ tf2r.com#@#.adverts
 ||dmaaxglcr.com^
 ||dmdxhrne.com^
 ||dmlkicqupnjfryv.com^
+||dmnhiwojcy.com^
 ||dmnprx.com^
 ||dmshlhnzvzu.com^
 ||dmvbdfblevxvx.com^
@@ -30670,6 +30601,7 @@ tf2r.com#@#.adverts
 ||eargentssep.one^
 ||earlapspur.com^
 ||earlieraccelerateshoplifting.com^
+||earlos.com^
 ||earnbearerelectricity.com^
 ||earnbigo.com^
 ||earnify.com^
@@ -31300,6 +31232,7 @@ tf2r.com#@#.adverts
 ||ezexfzek.com^
 ||ezhefg9gbhgh10.com^
 ||ezijyfiq.xyz^
+||ezjhhapcoe.com^
 ||ezojs.com^
 ||ezpayments.org^
 ||f00f00.bar^
@@ -31535,6 +31468,7 @@ tf2r.com#@#.adverts
 ||fethungi.com^
 ||fetiseovisac.com^
 ||feuingcrche.com^
+||fewergkit.com^
 ||fewrfie.com^
 ||fewvincent.com^
 ||feyl4mh5to.com^
@@ -32985,6 +32919,7 @@ tf2r.com#@#.adverts
 ||hijragain.com^
 ||hikvar.ru^
 ||hildr-zah.com^
+||hildry.com^
 ||hilltopads.net^
 ||hilltopgo.com^
 ||hilove.life^
@@ -33043,6 +32978,7 @@ tf2r.com#@#.adverts
 ||hoazinangles.com^
 ||hobfadbig.com^
 ||hockeyhavoc.com^
+||hockledscissel.com^
 ||hoemasfat.site^
 ||hofofici.com^
 ||hogawn.com^
@@ -33146,6 +33082,7 @@ tf2r.com#@#.adverts
 ||hpyrdr.com^
 ||hpzdwnkb.com^
 ||hq3x.com^
+||hqducceiefkkosg.com^
 ||hqoadthspnju.com^
 ||hqohjvold.com^
 ||hqpass.com^
@@ -33198,6 +33135,7 @@ tf2r.com#@#.adverts
 ||hughester.com^
 ||hugregregy.pro^
 ||huiwbpmphy.com^
+||huldeeelfwife.com^
 ||hulkflugarb.com^
 ||hulksskyed.com^
 ||huluruiner.com^
@@ -34035,6 +33973,7 @@ tf2r.com#@#.adverts
 ||jouwaist.net^
 ||joxhvjnlpb.com^
 ||joyekepus.online^
+||joygaskin.com^
 ||joyhaftsyears.com^
 ||joyvowdig.com^
 ||jpdniuaaqt.xyz^
@@ -34746,6 +34685,7 @@ tf2r.com#@#.adverts
 ||leginsi2leopard1oviy1hf.com^
 ||lehechapunevent.com^
 ||lehtymns.com^
+||leigunfax.com^
 ||leisengr.com^
 ||leisurebrain.com^
 ||leisurejust.com^
@@ -35117,6 +35057,7 @@ tf2r.com#@#.adverts
 ||lulepy.com^
 ||lumaktoys.com^
 ||luminosoocchio.com^
+||luminous-iron.pro^
 ||lumses.com^
 ||lumxts.com^
 ||lunacanful.com^
@@ -35524,6 +35465,7 @@ tf2r.com#@#.adverts
 ||mergerpep.com^
 ||meried.co^
 ||mermaidcontemplateadjoining.com^
+||merosgramash.com^
 ||mersionbronze.cam^
 ||merterpazar.com^
 ||meryjane.pro^
@@ -35798,6 +35740,7 @@ tf2r.com#@#.adverts
 ||montangop.top^
 ||monthlydespise.com^
 ||monthlyindirectelsewhere.com^
+||monthsrecoup.com^
 ||montikolti.com^
 ||montkpl.top^
 ||montkyodo.top^
@@ -35843,6 +35786,7 @@ tf2r.com#@#.adverts
 ||mortoncourbe.com^
 ||mortypush.com^
 ||mosece.com^
+||mosked.com^
 ||mosquedestitute.com^
 ||mostaboutm.biz^
 ||mostlytreasure.com^
@@ -37796,6 +37740,7 @@ tf2r.com#@#.adverts
 ||plgulesln.xyz^
 ||plified.pro^
 ||plissewali.com^
+||plkatdmeje.com^
 ||plkjljrabdt.com^
 ||plocap.com^
 ||plordi.com^
@@ -38631,6 +38576,7 @@ tf2r.com#@#.adverts
 ||qogbgxne.com^
 ||qoredi.com^
 ||qotbvnbipfgwg.com^
+||qoyucyqgqp.com^
 ||qozveo.com^
 ||qp3lgzt6exyn.com^
 ||qpfkuyura.com^
@@ -38781,6 +38727,7 @@ tf2r.com#@#.adverts
 ||rapeunevenphiladelphia.com^
 ||rapgasyogin.com^
 ||raphidewakener.com^
+||rapid-sugar.pro^
 ||rapiddictionarytemporarily.com^
 ||rapillireddles.com^
 ||rapite.com^
@@ -40074,6 +40021,7 @@ tf2r.com#@#.adverts
 ||shrimpsqueezed.com^
 ||shrinkmesh.com^
 ||shroffmere.com^
+||shrovedwags.casa^
 ||shrugartisticelder.com^
 ||shrugglefor.com^
 ||shsswdrhs.com^
@@ -40124,6 +40072,7 @@ tf2r.com#@#.adverts
 ||significbystal.club^
 ||sihvhvlcfrbb.com^
 ||sikelypleaste.site^
+||sikesoutcast.com^
 ||sikogesta.com^
 ||sikrlzlq.com^
 ||silklanguish.com^
@@ -40288,6 +40237,7 @@ tf2r.com#@#.adverts
 ||smrt-content.com^
 ||smrtgs.com^
 ||smvocdnxusp.com^
+||smxbhdfeygwotcv.com^
 ||smyvividi.club^
 ||snagbaudhulas.com^
 ||snaglighter.com^
@@ -40960,6 +40910,7 @@ tf2r.com#@#.adverts
 ||swesomepop.com^
 ||swimsuitmysteryisland.com^
 ||swimsunleisure.com^
+||swirlygossips.com^
 ||swndtvvwq.com^
 ||swocqrwtdpir.com^
 ||swoodlander.site^
@@ -40972,6 +40923,7 @@ tf2r.com#@#.adverts
 ||syaomlovqeq.com^
 ||sydneygfpink.com^
 ||syduzothu.pro^
+||syllin.com^
 ||sylotepu.xyz^
 ||symbolultrasound.com^
 ||symphoneupcom.site^
@@ -42503,6 +42455,7 @@ tf2r.com#@#.adverts
 ||vic-m.co^
 ||vichycobourg.com^
 ||viciousdepartment.com^
+||vickovules.com^
 ||victoriousbanker.com^
 ||victoriouspastimeculture.com^
 ||vid.me^
@@ -43627,6 +43580,7 @@ tf2r.com#@#.adverts
 ||yashi.com^
 ||yasiwngdihnfe.com^
 ||yasmwesikz.com^
+||yassumeda.one^
 ||yatab.net^
 ||yatbzuwo.com^
 ||yawcoynag.com^
@@ -43718,6 +43672,7 @@ tf2r.com#@#.adverts
 ||yim3eyv5.top^
 ||yinhana.com^
 ||yinteukrestina.xyz^
+||yinthesprin.xyz^
 ||yiopse.com^
 ||yitcmu.com^
 ||yiydtredbofv.com^
@@ -43849,6 +43804,7 @@ tf2r.com#@#.adverts
 ||ytgfsvcwtradg.xyz^
 ||ytimm.com^
 ||ytsa.net^
+||ytscphljcyjxcww.com^
 ||yttompthree.com^
 ||ytzihf.com^
 ||yu0123456.com^
@@ -44096,6 +44052,7 @@ tf2r.com#@#.adverts
 ||zylytavo.com^
 ||zypanafo.pro^
 ||zypenetwork.com^
+||zythumungull.com^
 ||zyxyveshe.com^
 ||zzdb5p4upiug.com^
 ||zzghcckpzlhob.com^
@@ -48592,6 +48549,7 @@ tf2r.com#@#.adverts
 ||betting.betfair.com^$third-party
 ||bharatmatrimony.com/matrimoney/matrimoneybanners/
 ||bidder.criteo.com^
+||bidder.newspassid.com^
 ||bidorbuy.co.za/jsp/system/referral.jsp?
 ||bidorbuy.co.za/jsp/tradesearch/TradeFeedPreview.jsp?
 ||bids.concert.io^
@@ -51240,6 +51198,7 @@ uinterview.com###below-content
 al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com###below-toprail
 animixplay.to###belowcomment
 post-gazette.com###benn-poll-iframe-container
+bing.com###bepfo
 dcnewsnow.com###bestreviews-widget
 fightful.com###betway-sports
 usnews.com###bfad-slot
@@ -60225,6 +60184,13 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||uwadakest.cyou^
+||gqdfgyz.cn^
+||xbhxgcj.cn^
+||craa.fun^
+||tokendomain.xyz^
+||qf1d.top^
+||avz3.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -83146,6 +83112,7 @@ fqsousou.com,kengso.com#@#.user-share
 /pc-log?
 /pcookie_get_key
 /pcount.asp
+/pdp.gif?
 /pdst-events-prod-sink
 /peach-collector.min.js
 /Peermap/Log/*
