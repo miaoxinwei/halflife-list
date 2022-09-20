@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0UgWiJ1eZYOlYtZqdf7ajQ
+! Checksum: llk52H37db07nB/owXiy+w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209201449
-! Last Modified: 2022年09月20日 14:49
+! Version: 202209202041
+! Last Modified: 2022年09月20日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2874,7 +2874,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /dfp-ads.
 /dfp-ads/*
 /dfp-custom/*
-/dfp.js$third-party
 /dfp.min.js$third-party
 /dfp/async.
 /dfp/dc.js
@@ -8225,6 +8224,7 @@ _800x80_
 ###anAdScGame300x250
 ###analytics_ad
 ###analytics_banner
+###anchor-ad
 ###anchorAd
 ###aom-ad-right_side_1
 ###aom-ad-right_side_2
@@ -12820,6 +12820,7 @@ _800x80_
 ##.ad-header-pencil
 ##.ad-header-placeholder
 ##.ad-header-sidebar
+##.ad-header-small-square
 ##.ad-heading
 ##.ad-headliner-container
 ##.ad-heigh-mobile-250
@@ -15404,6 +15405,8 @@ _800x80_
 ##.ads-outer
 ##.ads-panel
 ##.ads-parent
+##.ads-placeholder
+##.ads-placeholder-inside
 ##.ads-placeholder-wrapper
 ##.ads-placment
 ##.ads-post
@@ -17559,6 +17562,8 @@ _800x80_
 ##.bodybannerad
 ##.bodyrectanglead
 ##.bomAd
+##.bonnier-ad
+##.bonnier-ads-middle
 ##.bookad
 ##.bordered-ad
 ##.bostad
@@ -30583,6 +30588,7 @@ tf2r.com#@#.adverts
 ||encyclopaediaknackfold.com^
 ||endangersquarereducing.com^
 ||endlessapparatus.com^
+||endomespettle.com^
 ||endorsebilateralpancreas.com^
 ||enebut.com^
 ||enemiesfiris.com^
@@ -31812,6 +31818,7 @@ tf2r.com#@#.adverts
 ||gharnt.com^
 ||ghastlyoffer.com^
 ||ghcncwmm.com^
+||ghettoschanse.com^
 ||ghfsegbrj.com^
 ||ghmofgpoyafnref.xyz^
 ||ghostedridotto.com^
@@ -33510,6 +33517,7 @@ tf2r.com#@#.adverts
 ||jgirlvlh.com^
 ||jgqskdjkorwvh.xyz^
 ||jgxotftsrfux.xyz^
+||jharaltincted.com^
 ||jheelsplotch.com^
 ||jhlcrejfi.com^
 ||jhoolbiaxial.com^
@@ -35518,6 +35526,7 @@ tf2r.com#@#.adverts
 ||mujap.com^
 ||mujilora.com^
 ||mujnmhmfhrubzq.com^
+||mulesto.com^
 ||muleyyanky.website^
 ||mulleysnutmeg.com^
 ||multicoloredsteak.pro^
@@ -35634,6 +35643,7 @@ tf2r.com#@#.adverts
 ||n12qga4ld3zk.com^
 ||n161adserv.com^
 ||n19.biz^
+||naambonder.com^
 ||naazrghwxj.com^
 ||nabalpal.com^
 ||nabbr.com^
@@ -36758,6 +36768,7 @@ tf2r.com#@#.adverts
 ||oviparaatalan.com^
 ||ovlliiwtxgjlz.com^
 ||ovoute.com^
+||ovqcmbbxppqquc.com^
 ||ovulgmeo.com^
 ||ovwbobnyy.com^
 ||ovxeeiuhjoenoeb.xyz^
@@ -38112,6 +38123,7 @@ tf2r.com#@#.adverts
 ||qactaggxwoyla.com^
 ||qadservice.com^
 ||qaecoqxajnamiea.com^
+||qajigu.xyz^
 ||qamwm5o8dlgijte.com^
 ||qarewien.com^
 ||qatarchekmak.com^
@@ -38344,6 +38356,7 @@ tf2r.com#@#.adverts
 ||rarseene.com^
 ||rashparron.buzz^
 ||raspberrybenefactor.com^
+||ratchgablet.com^
 ||rategeisteryc.xyz^
 ||rathergist.com^
 ||ratkalol.com^
@@ -39612,6 +39625,7 @@ tf2r.com#@#.adverts
 ||showmebars.com^
 ||shownperfunctory.com^
 ||shqbsdjatunl.com^
+||shredsorators.com^
 ||shrewdoscular.com^
 ||shriekdestitute.com^
 ||shrillbeatintimidating.com^
@@ -39705,6 +39719,7 @@ tf2r.com#@#.adverts
 ||sinmgaepu3or9a61w.com^
 ||sinmufar.com^
 ||sinwebads.com^
+||siolmkejst.com^
 ||sipibowartern.com^
 ||sippansy.com^
 ||sippingsunned.com^
@@ -40809,6 +40824,7 @@ tf2r.com#@#.adverts
 ||theweblocker.net^
 ||thewheelof.com^
 ||thewhizmarketing.com^
+||thibetamylum.com^
 ||thickbabysittinghandled.com^
 ||thickshortwage.com^
 ||thidrump.net^
@@ -41273,6 +41289,7 @@ tf2r.com#@#.adverts
 ||trtjigpsscmv9epe10.com^
 ||truantsambaree.com^
 ||truceforensicswaterfall.com^
+||trucksift.com^
 ||true2file.com^
 ||truefilen32.com^
 ||truernewlywait.com^
@@ -51062,6 +51079,7 @@ hackerbot.net###madiv3
 wowhead.com###main > .blocks
 animehub.ac###main-content > center
 w3big.com,w3schools.com###mainLeaderboard
+themeforest.net###market-banner
 dispatchtribunal.com,thelincolnianonline.com###mb-bar
 active.com###med_rec_bottom
 active.com###med_rec_top
@@ -51131,6 +51149,8 @@ drivevideo.xyz###overlays
 animexin.xyz,animexinax.com###overplay
 modthesims.info###pagenavigation > div > small
 seeklogo.com###panelAdShutterStockPromo
+helpnetsecurity.com###parent_hmb_advanced_234821
+helpnetsecurity.com###parent_hmb_desktop_241602
 hwbot.org###partner-tiles
 cnn.com###partner-zone
 hbr.org###partnerCenter
@@ -53268,6 +53288,7 @@ studyfinds.org##.sfspot
 shortorial.com,webogram.in##.sgpb-popup-dialog-main-div-wrapper
 shortorial.com,webogram.in##.sgpb-popup-overlay
 stockhouse.com##.sh-ad
+themeforest.net##.shared-global_footer-cross_sell_component__root
 romsie.com##.shcntr
 startpage.com##.shopping-ads
 hypebeast.com##.shopping-break-container
@@ -54043,7 +54064,7 @@ vnkb.com##a[href^="https://vnkb.com/e/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
 tristateswolf.com##a[href^="https://www.alleganycofair.org/"]
 scaredstiffreviews.com##a[href^="https://www.amazon."][href*="ref="]
-ancient-origins.net,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,ssbcrack.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
+ancient-origins.net,anisearch.com,catholicculture.org,deadspin.com,electrek.co,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lewrockwell.com,lifehacker.com,ssbcrack.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
 mrchecker.net##a[href^="https://www.cardingmentor.org"]
 indusladies.com##a[href^="https://www.codewizardshq.com/?utm_"]
 pooletown.co.uk##a[href^="https://www.easyfundraising.org.uk"]
@@ -59724,6 +59745,8 @@ ubmcmm.baidustatic.com
 ||gl1e.top^
 ||oykmil.cn^
 ||ozqae.xyz^
+||rcswbr.cn^
+||yangchunblog.club^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -91008,6 +91031,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bmrg.reflected.net^
 ||bobparsons.com/image.aspx?
 ||bolt.com/v1/log?
+||booking.com/pxpixel.html
 ||botdetection.hbrsd.com^
 ||bpath.com/count.dll?
 ||branch.io^$third-party
@@ -94048,6 +94072,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||agoda.com/api/pixel/
+||agoda.net/v2/track
 ||ai.iol.io^
 ||airtable.com/internal/$xmlhttprequest
 ||airtable.com^*/reports
@@ -94152,6 +94177,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
 ||blitz-analytics-batch-server.blitz.gg^
+||booking.com/c360/v1/track
+||booking.com/collector/
 ||booking.com/logo?
 ||booking.com/navigation_times
 ||booking.com/sendlayoutevents
@@ -94719,6 +94746,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qz.com/log
 ||r.bbci.co.uk^
 ||r.my.com^
+||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/tr?
 ||rankhit.china.com^
 ||realestate.com.au^*/p.js
