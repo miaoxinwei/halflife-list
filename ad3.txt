@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Yp6yb9PQvGyEU5spb8v21w
+! Checksum: iM+CfDllxgtTwaVDnkuOOQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209211455
-! Last Modified: 2022年09月21日 14:55
+! Version: 202209212043
+! Last Modified: 2022年09月21日 20:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -31124,6 +31124,7 @@ cgi-bin/counter
 ://email.*/e/o/
 _ad_impression.
 _track_pixel.gif?
+/otlp/traces
 /_/trace/trace/*
 /rrweb-script.
 /rrweb.js
@@ -31467,6 +31468,7 @@ _mongo_stats/
 ||insigit.com^
 ||instantfox.co^
 ||intelligenceretarget.com^
+||intellimizeio.com^
 ||irs01.com^
 ||jcpclick.com^
 ||k5a.io^
@@ -33995,6 +33997,7 @@ _mongo_stats/
 ||tuinfra.com^$third-party
 ||tunnl.com^$third-party
 ||turn.com^$third-party
+||tvsquared.com^$third-party
 ||twcount.com^$third-party
 ||tynt.com^$third-party
 ||tyxo.com^$third-party
@@ -37342,7 +37345,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
-||collector-*.tvsquared.com^
 ||collector-api.99designs.com^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
@@ -37503,6 +37505,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dw.cbsimg.net^$script
 ||dw.com.com^$script
 ||dx.mountain.com^
+||dynamicyield.com/imp?
 ||dynamicyield.com/st?
 ||dynamicyield.com/uia?
 ||dynamicyield.com/var?
@@ -37616,6 +37619,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fast.fonts.net/jsapi/core/mt.js
 ||fast.wistia.net/assets/external/googleAds.js
 ||fastcdn.co/js/sptw.
+||fbot.me/error
 ||fbot.me/events/
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
@@ -41173,6 +41177,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||time.is/img/nod.png
 ||tms.delta.com/privacy/$image
 ||tms.eharmony.ca^
+||tms.hft.everyplate.com^
+||tms.hft.factor75.com^
+||tms.hft.greenchef.com^
+||tms.hft.hellofresh.com^
 ||tnaflix.com/stats.php
 ||tongji.meizu.com^
 ||top.gg/api/auctions/impression
@@ -53858,6 +53866,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||pi.technik3d.com^
 ||powercount.jswelt.de^
 ||px.derstandard.at^
+||pxc.otto.de^
 ||rem-track.bild.de^
 ||responder.wt.heise.de^
 ||ricardo.ch/api/browser-statistics/
