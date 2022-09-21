@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DXCMtXCIqZ8ZOFKa4hTjwg
+! Checksum: RpcvMLIuAjlH/Z88gv3EuA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209212043
-! Last Modified: 2022年09月21日 20:43
+! Version: 202209220228
+! Last Modified: 2022年09月22日 02:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10020,6 +10020,8 @@ _800x80_
 ###modal_videoAd_wrapper
 ###module-ad-300x250
 ###module-ad-728x90
+###module-ads-01
+###module-ads-02
 ###module-google_ads
 ###module_ad
 ###module_box_ad
@@ -11192,6 +11194,7 @@ _800x80_
 ###top-advert
 ###top-advertisement
 ###top-advertisements
+###top-advertising-content
 ###top-banner-ad
 ###top-banner-ad-browser
 ###top-buy-sell-ads
@@ -15661,7 +15664,6 @@ _800x80_
 ##.ads_tr
 ##.ads_under_data
 ##.ads_unit
-##.ads_uol_728x90
 ##.ads_up
 ##.ads_wide
 ##.ads_widesky
@@ -27200,6 +27202,7 @@ tf2r.com#@#.adverts
 ||benidorinor.com^
 ||benonblkd.xyz^
 ||benoopto.com^
+||benumelan.com^
 ||benureko.xyz^
 ||benzolescabrin.com^
 ||beonixom.com^
@@ -29898,6 +29901,7 @@ tf2r.com#@#.adverts
 ||downloadgot.com^
 ||downloadyt.com^
 ||dowtyler.com^
+||doxoonas.net^
 ||doxyspats.com^
 ||doyygwch.com^
 ||doz1it.com^
@@ -31139,6 +31143,7 @@ tf2r.com#@#.adverts
 ||flapnaperer.com^
 ||flashclicks.com^
 ||flashinginvolvementmatches.com^
+||flashnetic.com^
 ||flashymass.com^
 ||flasknstall.click^
 ||flaskstationsubsequent.com^
@@ -33572,6 +33577,7 @@ tf2r.com#@#.adverts
 ||juggledcample.website^
 ||jugnaglo.com^
 ||jugust.com^
+||juhkuknti.com^
 ||juiceadv.com^
 ||juiceadv.net^
 ||juicesphose.com^
@@ -34369,6 +34375,7 @@ tf2r.com#@#.adverts
 ||listeraislatory.site^
 ||literallythreatengloves.com^
 ||literpeore.com^
+||lithogsicket.com^
 ||littercipher.com^
 ||littlecutecats.com^
 ||littlecutedogs.com^
@@ -35347,6 +35354,7 @@ tf2r.com#@#.adverts
 ||mpaphqjb.com^
 ||mpay69.com^
 ||mpk01.com^
+||mpkwleyxkmt.com^
 ||mpnrs.com^
 ||mpnvhuokd.com^
 ||mpoagbhupufon.com^
@@ -35991,6 +35999,7 @@ tf2r.com#@#.adverts
 ||ntvsw.com^
 ||ntymxykyh.com^
 ||nubseech.com^
+||nucadwobsvwxw.com^
 ||nuclearscalp.com^
 ||nuclef.com^
 ||nucleo.online^
@@ -36763,6 +36772,7 @@ tf2r.com#@#.adverts
 ||paiwaupseto.com^
 ||paiwhoki.com^
 ||pajikrqhbqth.xyz^
+||palama2.com^
 ||palasidesdoor.com^
 ||paletteadulatory.com^
 ||palibs.tech^
@@ -38735,6 +38745,7 @@ tf2r.com#@#.adverts
 ||rixaka.com^
 ||riycecerfpjreyx.xyz^
 ||rjhbcghmln.com^
+||rjnvbinsdasgs.com^
 ||rjoawidlneitc.com^
 ||rjstusbx.com^
 ||rjtgbjxfyslvdst.com^
@@ -40562,6 +40573,7 @@ tf2r.com#@#.adverts
 ||tecuil.com^
 ||tedmonasty.xyz^
 ||tedmonastyd.com^
+||teefuthe.com^
 ||teeglimu.com^
 ||teelikeableaspirant.com^
 ||teemingaymoro.com^
@@ -49257,6 +49269,7 @@ tf2r.com#@#.adverts
 ||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
 ||carfinderph.com/popup/
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
+||cdnads.geeksforgeeks.org^
 ||cdnpure.com/static/js/ads-
 ||celebjihad.com/celeb-jihad/pu_stc.js
 ||celebstoner.com/assets/components/bdlistings/uploads/
@@ -50491,6 +50504,8 @@ healthline.com###DMR1__slot
 tweaktown.com###DesktopTop
 road.cc###Footer-Billboard
 geeksforgeeks.org###GFG_AD_Desktop_BTF_Postcontent_728x280
+geeksforgeeks.org###GFG_AD_Desktop_MTF_Postcontent_728x90
+geeksforgeeks.org###GFG_AD_Desktop_PostContent_300x250
 titantv.com###GridPlayer
 fanlesstech.com###HTML2 > .widget-content
 fanlesstech.com###HTML3
@@ -50561,6 +50576,7 @@ exportfromnigeria.info###affs
 systutorials.com###after-content-1
 amgreatness.com###ag-lead
 pcmag.com###alertbar
+djchuang.com###amazon3
 wtechnews.com###aniBox
 timesofmalta.com###article-sponsored
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
@@ -55025,7 +55041,7 @@ xxxonxxx.com,youtubelike.com##.gallery-thumbs
 cliniqueregain.com,tallermaintenancar.com##.girl
 sexybabegirls.com##.girlsgirls
 bravoteens.com##.good_list_wrap
-amateur-vids.eu##.happy-footer
+amateur-vids.eu,mature.community,mature.mom,mature.sexy,mature.studio,milf.community,milf.mom,milf.plus,milf.sexy##.happy-footer
 gigapornmovies.com,indianpornvideos2.com##.happy-footer-mobile
 koreanstreamer.xyz##.happy-header
 indianpornvideos2.com##.happy-header-mobile
@@ -55033,7 +55049,7 @@ nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
 sexseeimage.com##.happy-player-beside
 sexseeimage.com##.happy-player-under
 sexseeimage.com##.happy-section
-amateur-vids.eu,camgirl-video.com,gigapornmovies.com##.happy-under-player
+amateur-vids.eu,camgirl-video.com,gigapornmovies.com,mature.community,mature.mom,mature.sexy,mature.studio,milf.community,milf.mom,milf.plus,milf.sexy##.happy-under-player
 redtube.com##.hd
 xgroovy.com##.headP
 megatube.xxx##.header-panel-1
@@ -55468,7 +55484,7 @@ pornhub.com,pornhubthbh7ap3u.onion##iframe[width][height*="px"]
 avgle.com##img[src*=".php"]
 4tube.com##img[src][style][width]
 redtube.com,youporn.com,youporngay.com##img[src^="bLob:" i]
-pornhub.com,pornhubthbh7ap3u.onion##img[width="300"]
+mature.community,mature.mom,mature.studio,milf.community,milf.mom,milf.plus,milf.sexy,pornhub.com,pornhubthbh7ap3u.onion,sports.sexy##img[width="300"]
 adultwork.com,babepicture.co.uk,sexmummy.com,tvgirlsgallery.co.uk##img[width="468"]
 babeshows.co.uk,jessie-rogers.com##img[width="728"]
 kissjav.com##li[id^="video-interlacing"]
@@ -58183,6 +58199,7 @@ ubmcmm.baidustatic.com
 ||69688qp.com^
 ||6dkl1vb.site^
 ||6fxo.icu^
+||6onm.fun^
 ||7080ys.top^
 ||745c.cn^
 ||777753.net^
@@ -58409,6 +58426,7 @@ ubmcmm.baidustatic.com
 ||dcfh7vk.cn^
 ||dchxxvk.cn^
 ||dczqjfo.cn^
+||ddtx.fun^
 ||deeplearning.red^
 ||dengbalt.fun^
 ||dengteng.me^
@@ -58443,7 +58461,9 @@ ubmcmm.baidustatic.com
 ||dxzky.love^
 ||dyjcydn.cloud^
 ||dzytvcx.cn^
+||ebazhaheiw.top^
 ||eblnzoq.cn^
+||eclczg.cn^
 ||ecudsc.cn^
 ||edzyhx.cn^
 ||eebuwr.cn^
@@ -58459,6 +58479,7 @@ ubmcmm.baidustatic.com
 ||enrosr.cn^
 ||eofemms.cn^
 ||eomlhif.cn^
+||eopa5tepa.icu^
 ||eoyqzzk.cn^
 ||ep6a.top^
 ||epdchc.cn^
@@ -58717,6 +58738,7 @@ ubmcmm.baidustatic.com
 ||jd6pq31f.site^
 ||jeproadylabs.com^
 ||jevlcjc.cn^
+||jfzbgzv.cn^
 ||jhkj.work^
 ||jhuvybt.cn^
 ||jiabo.shop^
@@ -58760,6 +58782,7 @@ ubmcmm.baidustatic.com
 ||katlacw.cn^
 ||kcfuzhj.cn^
 ||kd1c.top^
+||kdkwe.xyz^
 ||kdsnw.today^
 ||keentech.top^
 ||kefu3254.cn^
@@ -58982,6 +59005,7 @@ ubmcmm.baidustatic.com
 ||nvqhbij.cn^
 ||nvswnur.cn^
 ||nvzffl.cn^
+||nwadakesc.cyou^
 ||nwogldc.top^
 ||nxlidc.ink^
 ||nxyerol.cn^
@@ -59183,6 +59207,7 @@ ubmcmm.baidustatic.com
 ||ryjhrqn.cn^
 ||ryumrc.cn^
 ||s9o.co^
+||sbazhaheib.top^
 ||scardetect.cn^
 ||scktmdv.cn^
 ||sdfafds6.com^
@@ -59409,7 +59434,9 @@ ubmcmm.baidustatic.com
 ||vumnxwvf.ink^
 ||vviikig.cn^
 ||vvpingtai.com^
+||vvsbwny.cn^
 ||vwocvgr.cn^
+||vx2e.top^
 ||vxjcalk.cn^
 ||wangduoduo.pw^
 ||wangjunyan.xyz^
@@ -59425,6 +59452,7 @@ ubmcmm.baidustatic.com
 ||weimeiwangluo.site^
 ||wephone.club^
 ||wfkspcs.cn^
+||wgttjk.cn^
 ||whoican.love^
 ||whpfl.cn^
 ||whxva.com^
@@ -59523,6 +59551,7 @@ ubmcmm.baidustatic.com
 ||xujmcrc.cn^
 ||xuliglsw.space^
 ||xumnxwvw.ink^
+||xuningk.xyz^
 ||xuxjaqp.cn^
 ||xwhhuav.cn^
 ||xxrsxs.cn^
@@ -59649,19 +59678,6 @@ ubmcmm.baidustatic.com
 ||zzeblsg.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||vvsbwny.cn^
-||nwadakesc.cyou^
-||jfzbgzv.cn^
-||eclczg.cn^
-||eopa5tepa.icu^
-||vx2e.top^
-||kdkwe.xyz^
-||ddtx.fun^
-||sbazhaheib.top^
-||xuningk.xyz^
-||wgttjk.cn^
-||ebazhaheiw.top^
-||6onm.fun^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -75992,6 +76008,7 @@ ditu.so.com##div[class^="index-adflag-"] + a
 ifeng.com##div[class^="middleAd"]
 msn.cn##div[class^="nativeAd-DS-card"]
 nba.hupu.com##div[class^="nba-ad"]
+sogou.com##div[class^="news-top-banner"]
 weishangshijie.cn##div[class^="news_a"]
 qq.com,sogou.com##div[class^="page-bottom-banner"]
 qq.com,sogou.com##div[class^="page-top-banner"]
@@ -78184,6 +78201,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||lv.myapks.com^
 ||lynr.com^
 ||lyz.radio366.com^
+||m.bjdcfy.net^*.js
 ||m1.100how.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -87205,7 +87223,6 @@ _mongo_stats/
 ||quintesse.io^$third-party
 ||quitsnap-blue.com^$third-party
 ||qzlog.com^$third-party
-||r2b2.io^$third-party
 ||r7ls.net^$third-party
 ||radarstats.com^$third-party
 ||radarurl.com^$third-party
@@ -107640,6 +107657,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
 ||ostjob.ch/public/statistic/teaser/hit/
+||otto.de/error-logging/
+||otto.de/pass/scale-beacon-service/
+||otto.de/tracking-bct/
 ||oxifwsabgd.nzz.ch^
 ||pi.technik3d.com^
 ||powercount.jswelt.de^
@@ -110207,6 +110227,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||kandaju.net/js/js2.
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
 !------------------------Specific element hiding rules------------------------!
+bilibili.com##.adblock-tips
 map.baidu.com###message-panel
 ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
 manmanbuy.com##.app-activity-download
