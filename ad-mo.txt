@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3PH3fskHEcjCpcXmwf/05g
+! Checksum: V8BLqXiwCjR5TmOjsjWhiQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209221004
-! Last Modified: 2022年09月22日 10:04
+! Version: 202209221451
+! Last Modified: 2022年09月22日 14:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22245,6 +22245,7 @@ _800x80_
 ##.ss-ad-tower
 ##.ss-ad_mrec
 ##.ss_advertising
+##.ssp-advert
 ##.st-adunit
 ##.stProAd
 ##.stack-ad-container
@@ -53724,7 +53725,7 @@ trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 3dnatives.com##a[data-bid][target="_blank"]
 namepros.com##a[data-tag="backer"]
 sashares.co.za##a[data-wpel-link="external"]
-linuxjournal.com,threatpost.com##a[href*="&utm_campaign="]
+imgpile.com,linuxjournal.com,threatpost.com##a[href*="&utm_campaign="]
 msn.com##a[href*=".booking.com/"]
 walmart.ca##a[href*=".criteo.com/"]
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
@@ -59507,6 +59508,7 @@ ubmcmm.baidustatic.com
 ||lgh2.fun^
 ##a[href*="/7900y.com?"]
 ||wbazhaheie.top^
+||pttwq.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
