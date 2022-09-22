@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Q0AlU3uYrtYOARnY7Kjh0Q
+! Checksum: eKJOpbdQMDlNRu1Y6g8cEA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209221451
-! Last Modified: 2022年09月22日 14:51
+! Version: 202209222040
+! Last Modified: 2022年09月22日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3619,6 +3619,12 @@ ubmcmm.baidustatic.com
 ##a[href*="/7900y.com?"]
 ||wbazhaheie.top^
 ||pttwq.xyz^
+||zefmsbu.cn^
+||wzl04.xyz^
+||duxmhcj.cn^
+||lr6e.top^
+||vhyvkx.com^
+||invida.net.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -23765,6 +23771,7 @@ _box_ad_
 ||meiqia.com^$third-party
 ||miduoke.net^$third-party
 ||mylikechat.com^$third-party
+||openinstall.io^$third-party
 ||pop800.com^$third-party
 ||qiyukf.com^$third-party
 ||soperson.com^$third-party
@@ -53877,7 +53884,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ostjob.ch/public/statistic/teaser/hit/
 ||otto.de/error-logging/
 ||otto.de/pass/scale-beacon-service/
-||otto.de/tracking-bct/
+||otto.de^$ping
 ||oxifwsabgd.nzz.ch^
 ||pi.technik3d.com^
 ||powercount.jswelt.de^
@@ -53956,6 +53963,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||wa.gmx.net/gmxde/gmxde/s?$image
 ||wa.gmx.net^
 ||wa.web.de^
+||walbusch.de^$ping
 ||web.de/monitoring/
 ||wikipedia.de/tracking.js
 ||wjq.ma.tarnkappe.info^
@@ -55163,6 +55171,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||klarnaservices.com/lib.js$script,domain=brooksrunning.com
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||lacoste.com^*/click-analytics.js$~third-party
+@@||lacourt.org/documentImages/commonv4/scripts/analytics.js$~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
 @@||leanplum.com^$domain=arkadium.com
