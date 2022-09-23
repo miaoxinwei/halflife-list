@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2CV5tx44VWGLBhst7rmnVw
+! Checksum: dDH6yPvDCPil1cuaGDKJCw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209230224
-! Last Modified: 2022年09月23日 02:24
+! Version: 202209231010
+! Last Modified: 2022年09月23日 10:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -37732,6 +37732,7 @@ tf2r.com#@#.adverts
 ||ptljkekttqf.com^
 ||ptlrchrsgpbak.com^
 ||ptlwm.com^
+||ptlwmstc.com^
 ||ptmzr.com^
 ||ptoafauz.net^
 ||ptoahaistais.com^
@@ -59642,6 +59643,12 @@ ubmcmm.baidustatic.com
 ||qcmm02.com^
 ||u8hdqyug.co^
 ||u8hdqyug.live^
+||dpncnct.cn^
+||zwadakesq.cyou^
+||asjsbew.cn^
+||ityou2tcdb.icu^
+||gv4e.top^
+||u8hdqyugs.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -108767,7 +108774,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||decision.taplytics.com^$domain=royalbank.com
 @@||dev.visualwebsiteoptimizer.com/j.php$script,domain=wakefit.co
 @@||dev.visualwebsiteoptimizer.com/web/$script,domain=wakefit.co
-@@||developers.google.com/analytics/devguides/collection/analyticsjs/$~third-party,xmlhttprequest
+@@||developers.google.*/analytics/$~third-party,xmlhttprequest
 @@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
