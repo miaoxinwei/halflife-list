@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VeEHO0a6jrjOxutIRj7B5Q
+! Checksum: QOjJuLaf4ELySv4qmlcOYg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209231010
-! Last Modified: 2022年09月23日 10:10
+! Version: 202209231448
+! Last Modified: 2022年09月23日 14:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -19648,6 +19648,7 @@ _800x80_
 ##.latest-ad
 ##.latest-articles-ad
 ##.latest-news__ad--desktop
+##.latestStoriesAd
 ##.law_center_ad
 ##.layer-ad-bottom
 ##.layer-ad-top
@@ -51477,7 +51478,7 @@ onlineradious.com##.ai-placement
 uploadvr.com##.ai-sticky-widget
 androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,tyretradenews.co.uk##.ai-track
 getdroidtips.com,journeybytes.com,thebeaverton.com,thisisanfield.com,unfinishedman.com##.ai-viewport-1
-bizpacreview.com,browserhow.com,constructionreviewonline.com,planetanalog.com,windowslatest.com,yugatech.com##.ai_widget
+beckernews.com,bizpacreview.com,browserhow.com,constructionreviewonline.com,planetanalog.com,windowslatest.com,yugatech.com##.ai_widget
 apkmirror.com,net-load.com##.ai_widget.widget
 tennistemple.com##.akcelo-wrapper
 wikihow.com##.al_method
@@ -52795,6 +52796,8 @@ mediakix.com##.post-widget__banner
 newagebd.net##.postPageRightInTop
 newagebd.net##.postPageRightInTopIn
 fastcompany.com##.post__promotion
+redketchup.io##.potato_sticky
+redketchup.io##.potato_viewer
 thetowner.com##.powered
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
@@ -53563,6 +53566,7 @@ target.com##[data-test="featuredProducts"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 gadgetsnow.com##[data-type="mtf"]
+axios.com##[data-vars-category="sidebar_promo"]
 builtbybit.com##[data-xf-click^="fong-adsmanager"]
 cnn.com##[data-zone-label="Paid Partner Content"]
 complaintsingapore.com##[href*="/adv.php"]
@@ -59537,6 +59541,12 @@ ubmcmm.baidustatic.com
 ||ityou2tcdb.icu^
 ||gv4e.top^
 ||u8hdqyugs.xyz^
+||zmakj.xyz^
+||efdlfh.cn^
+||qbazhaheiy.top^
+||7sqa.icu^
+||bh0874.online^
+||idhorqa.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
