@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gwURgy9fT8bYDV+djz0LGQ
+! Checksum: nG8/ZjJ5zMXuNKgnXg6/zg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202209261452
-! Last Modified: 2022年09月26日 14:52
+! Version: 202209262044
+! Last Modified: 2022年09月26日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1152,7 +1152,6 @@ tieba.baidu.com##.tuijian-wrap
 /ad_delivery?
 /ad_display.
 /ad_display_
-/ad_drivers/*
 /ad_engine?
 /ad_entry_
 /ad_exo.
@@ -1340,7 +1339,6 @@ tieba.baidu.com##.tuijian-wrap
 /adbridg.
 /adbrite-
 /adbrite.
-/adbrite/*$~image
 /adbrite2.
 /adbrite_
 /adbroker.
@@ -1378,10 +1376,8 @@ tieba.baidu.com##.tuijian-wrap
 /adclient.
 /adclix.$~image
 /adcode_
-/adcodes/*
 /adcollector.
 /adcommon?
-/adcomp.
 /adconfig.
 /adconfigproxy.
 /adcontainer?
@@ -1572,13 +1568,10 @@ tieba.baidu.com##.tuijian-wrap
 /adning/*
 /adnostic/*
 /adnotice.
-/adnow-
 /adobject.
 /adocean.
-/adometry-
 /adometry.
 /adometry?
-/adonline.
 /adops.$domain=~adops.co.il
 /adopspush-
 /ados.js
@@ -1591,14 +1584,10 @@ tieba.baidu.com##.tuijian-wrap
 /adpage-$domain=~adpage.com.ua|~adpage.io
 /adpage.$domain=~adpage.com.ua|~adpage.io
 /adpage/*$domain=~adpage.com.ua|~adpage.io
-/adpeeps.
 /adphoto.$domain=~adphoto.eu|~adphoto.fr|~adphoto.pl
-/adpic.
 /adpicture.
 /adPlaceholder.
 /adplacement.
-/adplay.
-/adplayer-
 /adplayer.$domain=~adplayer.media|~adplayer.pro
 /adplayer/*
 /adplugin.
@@ -1612,17 +1601,9 @@ tieba.baidu.com##.tuijian-wrap
 /adprovider.
 /adproxy.
 /adrec.$domain=~adrec.paris-sorbonne.fr
-/adreclaim-
-/adrectanglebanner?
 /adrefresh-
 /adrefresh.
-/adrelated.
-/adreload.
-/adreload?
-/adremote.
-/adreplace/*
 /adrequest.$domain=~adrequest.com
-/adrich.
 /adright.$domain=~adright.com
 /adright/*
 /adrightcol.
@@ -1630,20 +1611,14 @@ tieba.baidu.com##.tuijian-wrap
 /adriver/*$domain=~adriver.co|~adriver.io|~adriver.tech
 /adriver_$~object
 /adrobot.$domain=~adrobot.com.au
-/adrot.$domain=~adrot.hu
-/adrotat.
 /adrotate-
 /adrotate.
 /adrotate/*
 /adrotator.
 /adrotator/*
 /adrotator_
-/adroute_
-/adrun.
 /adrunner.$domain=~adrunner.io
-/adruptive.
 /ads-250.
-/ads-300-
 /ads-300.
 /ads-admin.
 /ads-api.
@@ -1662,9 +1637,6 @@ tieba.baidu.com##.tuijian-wrap
 /ads-home.
 /ads-inside-
 /ads-loader.
-/ads-mobileweb-
-/ads-module.
-/ads-module/*
 /ads-rectangle.
 /ads-request.
 /ads-right.
@@ -3865,7 +3837,6 @@ tieba.baidu.com##.tuijian-wrap
 /pd-ads/*
 /pdpads.
 /peel.php?
-/peel1.js
 /peel_ads/*
 /peelad/*
 /peelads/*
@@ -21913,10 +21884,13 @@ _800x80_
 ##.strack_bnr
 ##.strawberry-ads
 ##.strawberry-ads__pretty-container
+##.stream-ad
 ##.streamAd
 ##.strip-ad
 ##.stripad
 ##.sub-ad
+##.subAdBannerArea
+##.subAdBannerHeader
 ##.subNavAd
 ##.subad
 ##.subheader_adsense
@@ -52610,6 +52584,7 @@ teamfortress.tv##.sau
 point2homes.com##.saved-search-banner-list
 pcgamesn.com##.saw-wrap
 animehub.ac##.sb-subs
+kotaku.com##.sc-6zn1bq-0
 fortune.com##.sc-efBctP
 radaronline.com##.sc-gXZlrW
 scotsman.com##.sc-igwadP
@@ -53537,6 +53512,7 @@ stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
 technical.city##div[class^="banner_"]
 theculturetrip.com##div[class^="billboard_"]
 timesnownews.com##div[class^="bottomStickyAd-"]
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="bxm4mm-"]
 historycollection.com##div[class^="cis_add_block"]
 3dnatives.com##div[class^="dnati-"]
 groovypost.com##div[class^="groov-adsense-"]
@@ -59203,6 +59179,8 @@ ubmcmm.baidustatic.com
 ||kd1s.icu^
 ||vedvvik.cn^
 ||uclmad.com^
+||qcmm06.com^
+||yitongwl.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -70526,6 +70504,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||tptoon.com/skin/js/tjtjkk.
+||cnblogs.com^*/sideColumnAd?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -90358,7 +90337,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
 ||apple.www.letv.com^
-||applicationinsights.azure.com^
+||applicationinsights.azure.com^$third-party
 ||appliedsemantics.com/images/x.gif
 ||appmifile.com^*/stat/
 ||appsolutions.com/hitme?$third-party
