@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZgawlDwH0hZstE86eeSqVQ
+! Checksum: v+L1mT8OVEzjbIqL2GsT0Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202209281453
-! Last Modified: 2022年09月28日 14:53
+! Version: 202209282041
+! Last Modified: 2022年09月28日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1094,6 +1094,7 @@ ubmcmm.baidustatic.com
 ###lovexin13
 ###lovexin14
 ###lovexin2
+###mui-player + #player_pic
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
 ###mainbody:nth-child(5) > .mylist
@@ -3728,6 +3729,8 @@ ubmcmm.baidustatic.com
 ||uqaqmc.cn^
 ||xg2car.co^
 ||polkmnhytgb.com^
+||huadiximeng.cn^
+||similm.me^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -15040,6 +15043,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cbndata.com##.Toastify
 novipnoad.com##DIV:not([id]):not([class])
 szxx.com.cn###A1
 szxx.com.cn###A2
