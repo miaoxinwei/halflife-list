@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AJDFcQN7ht7fiCujHkGimQ
+! Checksum: XmlDhB4wgfHC1RyFUlPZdw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209291012
-! Last Modified: 2022年09月29日 10:12
+! Version: 202209291456
+! Last Modified: 2022年09月29日 14:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -9121,6 +9121,7 @@ _800x80_
 ###inside-page-ad
 ###insideCubeAd
 ###instant_ad
+###insticator-container
 ###instoryad
 ###int-ad
 ###int_ad
@@ -49773,6 +49774,7 @@ battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,me
 northcountrypublicradio.org###business
 music-news.com###buy-tickets
 channel4.com###c4ad-Top
+timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
 coinlisting.info###carousel-example-generic
 csdb.dk###casdivhor
 csdb.dk###casdivver
@@ -52179,6 +52181,7 @@ justthenews.com##.region-pre-content
 futbol24.com##.rek
 wcostream.com##.reklam_pve
 idropnews.com##.related-posts
+timesofindia.indiatimes.com##.relatedVideoWrapper
 4shared.com##.remove-rekl
 runningmagazine.ca##.repeater-bottom-leaderboard
 bbjtoday.com##.replacement
@@ -52258,7 +52261,7 @@ newindianexpress.com##.scc
 radiotimes.com##.schedule__row-list-item-advert
 hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_video_master
 readmng.com##.scroll_target_top
-9anime.to,tennisuptodate.com##.sda
+9anime.to,cyclinguptodate.com,tennisuptodate.com##.sda
 apotelyt.com##.sdbrUnit-Flex100
 apotelyt.com##.sdbrUnitFlex250a
 userscript.zone##.searcad
@@ -52428,6 +52431,7 @@ salixos.org##.sponsors-container
 libhunt.com##.sponsors-list-content
 hacksplaining.com##.sponsorship-message
 newswiretoday.com,przoom.com##.sponsortd
+timesofindia.indiatimes.com##.sports_ad_wrapper
 alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,phonearena.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
 phonearena.com##.spot-sticky-container
 freepik.com##.spr-plc
@@ -52650,6 +52654,7 @@ videogameschronicle.com##.vgc-boxout
 bestlifeonline.com,eatthis.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
+cyclinguptodate.com##.video-container
 forbes.com,nasdaq.com##.video-placeholder
 guru99.com##.videocontentmobile
 koreabiomed.com##.view-aside
@@ -58892,6 +58897,12 @@ ubmcmm.baidustatic.com
 ||pfjfj45.xyz^
 ||threzeins.com^
 ||zu3f.top^
+||xiner.xyz^
+||nbazhaheic.top^
+||piaososo.co^
+||xrkadslmgg.xyz^
+||fmzcdvx.cn^
+||lbazhaheil.top^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -69094,7 +69105,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||qiyipic.com/zongyi/fix/runningman20141008_bg02.jpg
 ||qiyipic.com/zongyi/fix/runningman20141008_bg03.jpg
 ||qiyun.org/images/js/*.htm
-||qiyushangmao.top^*/jquery/
 ||qk6.org/file/script/
 ||qksapp.net/gif/
 ||qlogo.cn^$domain=250dgj.ga
@@ -70190,6 +70200,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||9c9t.cn/public/*/plugins/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -76384,7 +76395,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||qingcheng.com^*/ad
 @@||qingdaoport.net/adv/random.jsp
 @@||qiyipic.com/common/fix/pub_images/
-@@||qiyushangmao.top^*/jquery.min.js
 @@||qq.com/ads/js/$domain=privacy.qq.com
 @@||qq.com/bossweb/jifen/
 @@||qq.com/cgi-bin/*?sid=ads
@@ -85810,7 +85820,6 @@ _mongo_stats/
 ||leadchampion.com^$third-party
 ||leaddyno.com^$third-party
 ||leadelephant.com^$third-party
-||leadfamly.com^$third-party
 ||leadfeeder.com^$third-party
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
@@ -92178,6 +92187,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ds-aksb-a.akamaihd.net^
 ||e77lmzbqou0n-a.akamaihd.net^
 ||ninja.akamaized.net^
+||pnekru6pxrum-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
 ||rndntpmgnj-a.akamaihd.net^
 ||sgphctileh-a.akamaihd.net^
@@ -93165,6 +93175,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.cn^
 ||analytics-proxy.springboard.com^
+||analytics-zone-1.api.leadfamly.com^
 ||analytics.academy.com^
 ||analytics.adfreetime.com^
 ||analytics.archive.org^
@@ -108057,6 +108068,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js$script,~third-party
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
+@@||interactives.ap.org^*/bower_components/ap/lib/analytics.js$~third-party
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
