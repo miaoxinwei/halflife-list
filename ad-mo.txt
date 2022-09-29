@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XmlDhB4wgfHC1RyFUlPZdw
+! Checksum: re/yKlNrHxOJZ/e3ZovL3A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209291456
-! Last Modified: 2022年09月29日 14:56
+! Version: 202209292041
+! Last Modified: 2022年09月29日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -439,11 +439,8 @@ pan.baidu.com##.upload-bar.global-clearfix
 -ads-bottom.
 -ads-management/
 -ads-manager/$domain=~wordpress.org
--ads-placement.
 -ads-plugin/
--ads-prod/
 -ads-right.
--ads-widget/
 -ads.gif
 -ads.php?
 -ads/assets/
@@ -481,27 +478,19 @@ pan.baidu.com##.upload-bar.global-clearfix
 -banner-ad/
 -banner-ad_
 -banner-ads-$~script
--banner-ads/
 -content-ad-
 -content-ad.
 -ContentAd-
 -contrib-ads.$~stylesheet
 -cpm-ad.
 -cpm-ads.
--dfp-ads/
 -display-ads.
--featured-ads.
--featured-ads/
 -footerads-
 -footerads.
 -google-ad.
--google-ads.$domain=~youston.agency
--google-ads/
 -gpt-ad-$~xmlhttprequest
--header_ads/
 -housead-
 -iframe-ad.
--iframe-ads/
 -image-ad.
 -image/Ads/
 -images/ad-
@@ -509,13 +498,11 @@ pan.baidu.com##.upload-bar.global-clearfix
 -layer-ads/
 -leaderboard-ad-
 -load-ads.
--load-advert.
 -native-ad.
 -native-ad/
 -page-ad.
 -page-ad?
 -page-peel/
--pagead-id.
 -panel-ad.
 -panel_ad_
 -PcmModule-Taboola-
@@ -558,41 +545,21 @@ pan.baidu.com##.upload-bar.global-clearfix
 -Web-Ads.
 -web-advert-
 -Web-Advert.
--widget-advertisement/
-.ace.advertising.
-.ad-sys.$domain=~ad-sys.de
-.ad-target.
-.ad-traffic.
 .ad.footer.
 .ad.wrapper.
 .ad6media.$domain=~ad6media.fr
 .adbanner.
 .adbutler-
-.adcenter.$domain=~adcenter.nu
-.adengine.
-.adforge.
-.adframesrc.
-.adinject.$domain=~adinject.com
-.admarvel.
-.admicro.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
 .adpartner.$domain=~adpartner.cz|~adpartner.de|~adpartner.jp
-.adpIds=
-.adplacement=
-.adproviders.
-.adresult.$domain=~adresult.ch
 .adriver.$~object,domain=~adriver.co|~adriver.tech
 .adrotate.
 .ads-lazy.
 .ads-min.
 .ads-tool.
 .ads.controller.
-.ads.core.
 .ads.css
 .ads.darla.
-.ads.loader-
-.ads.zones.
-.adsales.
 .adsbox.$domain=~adsbox.in
 .adsdk.
 .adserv/
@@ -2810,26 +2777,17 @@ pan.baidu.com##.upload-bar.global-clearfix
 /delivery/jsonp/?zoneid=
 /delivery/spc.
 /delivery_ads/*
-/deluxe/ad.
 /dfp-ads.
 /dfp-ads/*
-/dfp-custom/*
 /dfp.min.js$third-party
 /dfp/async.
 /dfp/dc.js
 /dfp/dfp-
 /dfp/head/*
 /dfp/jquery.
-/dfp_ads/*
-/dfp_delivery.js
-/dfp_init.
+/dfp_async.
 /dfp_js/*
-/dfp_overlay.
-/dfp_skin.js
-/dfpad/*
-/directads.
-/directadvert-
-/directadvert.
+/dfpNew.
 /directrev.
 /discourse-adplugin-
 /discuss_ad/*
@@ -4057,7 +4015,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /smb/ads/*
 /smeadvertisement/*
 /smoozed-ad/*
-/sni-ads.
 /socialads.$domain=~socialads.eu|~socialads.guru
 /socialads/*
 /soralink.js
@@ -24334,6 +24291,7 @@ tf2r.com#@#.adverts
 ||adme-net.com^
 ||admenhost.com^
 ||admez.com^
+||admicro.vn^
 ||administrationpreviewfoolproof.com^
 ||admirableviolinniece.com^
 ||admiredexcrete.com^
@@ -25497,6 +25455,7 @@ tf2r.com#@#.adverts
 ||astoecia.com^
 ||astogepian.com^
 ||astonebehap.com^
+||astonishedmule.com^
 ||astonishingbrightscalpel.com^
 ||astop.xyz^
 ||astoundbeach.com^
@@ -26236,6 +26195,7 @@ tf2r.com#@#.adverts
 ||bhcumsc.com^
 ||bhdrruliyfeoofx.com^
 ||bhlcimjcpvkxn.com^
+||bhoiprlwdld.com^
 ||biasedrepercussion.com^
 ||bibagloty.com^
 ||bid-engine.com^
@@ -26390,6 +26350,7 @@ tf2r.com#@#.adverts
 ||bluedcrwth.com^
 ||bluejayfacette.com^
 ||bluejaysilene.com^
+||bluelinknow.com^
 ||blueoyster.click^
 ||blueparrot.media^
 ||bluespeltast.com^
@@ -29865,6 +29826,7 @@ tf2r.com#@#.adverts
 ||fbfd396918c60838.com^
 ||fbgdc.com^
 ||fbiskulrsmccibl.com^
+||fbmedia-ckl.com^
 ||fbmklibvrroltd.com^
 ||fbsvu.com^
 ||fbwaikol.com^
@@ -30923,6 +30885,7 @@ tf2r.com#@#.adverts
 ||gqsbxqfyxvjveb.xyz^
 ||gr8y7z1xaq30.com^
 ||grabbedyearhireling.com^
+||grabthisstream-now.com^
 ||gracaiko.net^
 ||gracelessaffected.com^
 ||graceofnoon.com^
@@ -30983,6 +30946,7 @@ tf2r.com#@#.adverts
 ||greeltie.com^
 ||greemeek.net^
 ||greenads.org^
+||greenlinknow.com^
 ||greenpaperlist.com^
 ||greenplasticdua.com^
 ||greenrecru.biz^
@@ -31048,6 +31012,7 @@ tf2r.com#@#.adverts
 ||grudgeinjunctionretirement.com^
 ||grudgemotivate.com^
 ||grudreeb.com^
+||grumblecrytopless.com^
 ||grumpult.com^
 ||grumpyadzen.com^
 ||grunoaph.net^
@@ -31324,6 +31289,7 @@ tf2r.com#@#.adverts
 ||hematalmicast.com^
 ||hemicalcov.com^
 ||hemiolajobson.website^
+||hemispherekitchenafforded.com^
 ||hemquotedchamber.com^
 ||hemtatch.net^
 ||henoticpipi.com^
@@ -31386,6 +31352,7 @@ tf2r.com#@#.adverts
 ||hiddell.com^
 ||hiddenbucks.com^
 ||hiddenseet.com^
+||hideheartburndelightful.com^
 ||hidelen.com^
 ||hidner.com^
 ||hieramuriel.com^
@@ -31895,6 +31862,7 @@ tf2r.com#@#.adverts
 ||inancukan.xyz^
 ||inanemuseum.com^
 ||inattentivehandymanpresentiment.com^
+||inbdmaza.com^
 ||inboldoreer.com^
 ||inbvxbojt.com^
 ||incapablepasswordease.com^
@@ -32666,6 +32634,7 @@ tf2r.com#@#.adverts
 ||kauzishy.com^
 ||kavanga.ru^
 ||kazandirtyscoot.com^
+||kazanwhoeveryowl.com^
 ||kazoowaughy.com^
 ||kazucivi.com^
 ||kbdviyqhbhnd.com^
@@ -38870,6 +38839,7 @@ tf2r.com#@#.adverts
 ||soonbigo.com^
 ||soonen.com^
 ||soosooka.com^
+||sootproclaim.com^
 ||soperatory.xyz^
 ||sophiasearch.com^
 ||sophisticatedindignant.com^
@@ -40826,6 +40796,7 @@ tf2r.com#@#.adverts
 ||vapedia.com^
 ||varechphugoid.com^
 ||variablesconevening.com^
+||varietiesplea.com^
 ||varietyofdisplayformats.com^
 ||varijp.com^
 ||variouscreativeformats.com^
@@ -41247,6 +41218,7 @@ tf2r.com#@#.adverts
 ||wackeerd.com^
 ||wackotracko.com^
 ||wadauthy.net^
+||wadmargincling.com^
 ||waecobiyppbslb.com^
 ||waegesth.com^
 ||waesomeoutness.com^
@@ -42069,6 +42041,7 @@ tf2r.com#@#.adverts
 ||yawnspuker.com^
 ||yazcash.com^
 ||ybnggmnaxu.com^
+||yboourdyi.com^
 ||ycadenevery.xyz^
 ||ycbetnqpnjwptu.com^
 ||yceml.net^
@@ -44368,6 +44341,7 @@ tf2r.com#@#.adverts
 ||adxpansion.com^$popup
 ||adxpartner.com^$popup
 ||adxprtz.com^$popup
+||adz-shield.com^$popup
 ||adzshield.info^$popup
 ||aeeg5idiuenbi7erger.com^$popup
 ||afcpatrk.com^$popup
@@ -44528,6 +44502,7 @@ tf2r.com#@#.adverts
 ||blockchaintop.nl^$popup
 ||blocked1.xyz^$popup
 ||blogoman-24.com^$popup
+||bluelinknow.com^$popup
 ||blueparrot.media^$popup
 ||blzz.xyz^$popup
 ||bngpt.com^$popup
@@ -44972,6 +44947,7 @@ tf2r.com#@#.adverts
 ||gotohouse1.club^$popup
 ||gotoplaymillion.com^$popup
 ||govowhaca.com^$popup
+||grabthisstream-now.com^$popup
 ||graduatewonderentreaty.com^$popup
 ||grand-ads.com^$popup
 ||granddadknitbravely.com^$popup
@@ -44980,10 +44956,12 @@ tf2r.com#@#.adverts
 ||greatdexchange.com^$popup
 ||greatvpnoffers.com^$popup
 ||grecmaru.com^$popup
+||greenlinknow.com^$popup
 ||greenplasticdua.com^$popup
 ||groorgex.net^$popup
 ||grown-zero-breeze-belong.xyz^$popup
 ||grtyj.com^$popup
+||grumblecrytopless.com^$popup
 ||grygrothapi.pro^$popup
 ||gsniper2.com^$popup
 ||guerrilla-links.com^$popup
@@ -46139,6 +46117,7 @@ tf2r.com#@#.adverts
 ||vpnoffers.net^$popup
 ||vq40567.com^$popup
 ||wackeerd.com^$popup
+||wadmargincling.com^$popup
 ||waframedia5.com^$popup
 ||waguwagu.xyz^$popup
 ||wahoha.com^$popup
@@ -53662,6 +53641,8 @@ digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(span:-abp-contains(Paid partnership with ))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership with ))
+just-eat.co.uk,just-eat.es,just-eat.ie,justeat.it#?#a[data-test-id]:-abp-has(span:-abp-contains(/Promoted|Patrocinado|Sponsorizzato/))
+just-eat.dk,just-eat.fr,lieferando.at,lieferando.de,pyszne.pl,takeaway.com#?#div[data-qa]:-abp-has(span:-abp-contains(/Спонсорирано|Gesponsert|Gesponsord|Sponsored|Sponsoreret|Sponsorisé|Sponsorizzato|Sponsorowane/))
 nationalgeographic.com#?#.FrameBackgroundFull--grey:-abp-has(.ad-wrapper)
 cheaptickets.com,expedia.com,ebookers.com,hotels.com,orbitz.com,travelocity.com,wotif.com#?#.uitk-card:-abp-has(.uitk-badge-sponsored)
 mg.co.za#?#.td_flex_block:-abp-has(span:-abp-contains(Sponsored))
@@ -58903,6 +58884,10 @@ ubmcmm.baidustatic.com
 ||xrkadslmgg.xyz^
 ||fmzcdvx.cn^
 ||lbazhaheil.top^
+||msnoownmx.fun^
+||jennyrace.com^
+||dajiafacai926.xyz^
+||66mjbg.com^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -70201,6 +70186,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||9c9t.cn/public/*/plugins/
+||iid97.com/wp-content/cache/autoptimize/js/
+||lndayp.com/4567/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -90943,7 +90930,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lunametrics.wpengine.netdna-cdn.com^
 ||lycos.com/hb.js
 ||m.addthisedge.com^
-||m.media-amazon.com/images/S/sash/PNsNtF7MLhjOEin.js$domain=imdb.com
+||m.media-amazon.com/images/$script,domain=goodreads.com|imdb.com
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -92189,10 +92176,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ninja.akamaized.net^
 ||pnekru6pxrum-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
-||rndntpmgnj-a.akamaihd.net^
-||sgphctileh-a.akamaihd.net^
-||uhytajrtpo-a.akamaihd.net^
-||zvsuhljiha-a.akamaihd.net^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^

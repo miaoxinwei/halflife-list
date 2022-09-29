@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4UWKe9e5IPTrQU/8degEqA
+! Checksum: 5AoDoSNF8gj0kIzgOsyatA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209291456
-! Last Modified: 2022年09月29日 14:56
+! Version: 202209292041
+! Last Modified: 2022年09月29日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3747,6 +3747,10 @@ ubmcmm.baidustatic.com
 ||xrkadslmgg.xyz^
 ||fmzcdvx.cn^
 ||lbazhaheil.top^
+||msnoownmx.fun^
+||jennyrace.com^
+||dajiafacai926.xyz^
+||66mjbg.com^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -15045,6 +15049,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||9c9t.cn/public/*/plugins/
+||iid97.com/wp-content/cache/autoptimize/js/
+||lndayp.com/4567/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -38065,7 +38071,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lunametrics.wpengine.netdna-cdn.com^
 ||lycos.com/hb.js
 ||m.addthisedge.com^
-||m.media-amazon.com/images/S/sash/PNsNtF7MLhjOEin.js$domain=imdb.com
+||m.media-amazon.com/images/$script,domain=goodreads.com|imdb.com
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -39311,10 +39317,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ninja.akamaized.net^
 ||pnekru6pxrum-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
-||rndntpmgnj-a.akamaihd.net^
-||sgphctileh-a.akamaihd.net^
-||uhytajrtpo-a.akamaihd.net^
-||zvsuhljiha-a.akamaihd.net^
 ||7q1z79gxsi.global.ssl.fastly.net^
 ||clarium.global.ssl.fastly.net^
 ||dfapvmql-q.global.ssl.fastly.net^
