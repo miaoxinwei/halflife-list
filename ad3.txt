@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e7rjCsagjA/o+nJV+noRDQ
+! Checksum: spsRwtpjTZW0ZrLi+0Lh3w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209300228
-! Last Modified: 2022年09月30日 02:28
+! Version: 202209301451
+! Last Modified: 2022年09月30日 14:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3751,6 +3751,14 @@ ubmcmm.baidustatic.com
 ||jennyrace.com^
 ||dajiafacai926.xyz^
 ||66mjbg.com^
+||tsnoownmi.fun^
+||vmewz.xyz^
+||ggglxue.cn^
+||ev4f.top^
+||yyek3cdeo.cyou^
+||tpqokqi.cn^
+||qwertyuadf.com^
+||wdjptto.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -33121,6 +33129,7 @@ _mongo_stats/
 ||mochibot.com^$third-party
 ||mockingfish.com^$third-party
 ||momently.com^$third-party
+||mon-pagerank.com^$third-party
 ||monetate.net^$third-party
 ||mongoosemetrics.com^$third-party
 ||monitis.com^$third-party
@@ -38073,7 +38082,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lunametrics.wpengine.netdna-cdn.com^
 ||lycos.com/hb.js
 ||m.addthisedge.com^
-||m.media-amazon.com/images/$script,domain=goodreads.com|imdb.com
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -40639,6 +40647,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gog-statics.com/js/frontpagelogintracking-$script,domain=gog.com
 ||gog-statics.com/js/loginTracking-$script,domain=gog.com
 ||goodfon.com/stat/
+||goodreads.com/track/
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
 ||google.com/log?
