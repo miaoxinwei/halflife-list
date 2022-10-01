@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: E9V+adPA2AQAtFl1Icv4yA
+! Checksum: UuM4KYfakWuhi1V/GpUVCQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202210011437
-! Last Modified: 2022年10月01日 14:37
+! Version: 202210012039
+! Last Modified: 2022年10月01日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -711,6 +711,7 @@ tieba.baidu.com##.tuijian-wrap
 .ch/adv/
 .clkads.
 .club/ads.
+.club/js/popunder.js
 .co/ads?
 .com/?ad=
 .com/a?pagetype
@@ -3795,7 +3796,6 @@ tieba.baidu.com##.tuijian-wrap
 /popshow.$~stylesheet
 /popu.js
 /popunder-
-/popunder.
 /popunder/*
 /popunder1.
 /popunder1_
@@ -4186,6 +4186,7 @@ tieba.baidu.com##.tuijian-wrap
 /sponsoredlisting.
 /sponsors-ads/*
 /sponsors/ads/*
+/sponsors/popunder.
 /sponsors_box.
 /spotx_adapter.
 /spotxchangeplugin.
@@ -47141,6 +47142,7 @@ tf2r.com#@#.adverts
 ||ah.pricegrabber.com^
 ||ak.imgaft.com^
 ||akamacdn.com/api/spots/
+||akamaized.net/mr/popunder.js
 ||alpsat.com/banner/
 ||amazonaws.com/mailcache.appinthestore.com/
 ||amazonaws.com^$domain=1337x.to|1337xx.to|bluemediafiles.com|daddylive.click|downloadpirate.com|hexupload.net|igg-games.com|krunkercentral.com|s2dfree.cc|s2dfree.de|s2dfree.is|s2dfree.nl|s2dfree.to|shrinke.me|soap2day.ac|soap2day.cc|soap2day.cx|soap2day.sh|soap2day.to|torrentgalaxy.to|torrentgalaxy.tv|torrentmac.net|upload-4ever.com|vshare.eu|yify-movies.net
@@ -47503,6 +47505,7 @@ tf2r.com#@#.adverts
 ||sascdn.com/tag/
 ||saveit.us/img/$third-party
 ||sbhc.portalhc.com^
+||scriptadmin.com/scripts/popunder.js
 ||secure.money.com^$third-party
 ||servedby.keygamesnetwork.com^
 ||servedby.yell.com^
@@ -47548,6 +47551,7 @@ tf2r.com#@#.adverts
 ||thefreesite.com/nov99bannov.gif
 ||ti.tradetracker.net^
 ||tillertag-a.akamaihd.net^
+||toplist.raidrush.ws^$third-party
 ||torrindex.net/images/epv/
 ||torrindex.net/static/tinysort.min.js
 ||track.10bet.com^
@@ -59090,6 +59094,11 @@ ubmcmm.baidustatic.com
 ||torwq.xyz^
 ||fawu.asia^
 ||uqykjig.cn^
+||rbazhaheiz.top^
+||i7by.top^
+||fcqztan.cn^
+||usbvhzg.cn^
+||mmmyhkl.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -65690,7 +65699,7 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||yy18.info^*thanks$popup
 !----------------------Specific advert blocking filters-----------------------!
 $image,third-party,domain=lady1.top
-$script,third-party,domain=52movieba.com|66s.cc|ab126.com|audio699.com|btsow.click|dm530.net|kan-tv.com|m.supfree.net
+$script,third-party,domain=52movieba.com|66s.cc|ab126.com|audio699.com|btsow.click|kan-tv.com|m.supfree.net
 $script,third-party,websocket,domain=52codes.net|m.ting56.com
 $websocket,domain=5nj.com|cechi8.com
 .194007.com/4058.gif
@@ -67473,9 +67482,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||dj97.com/api.php?mod=ad&
 ||djicdn.com/uploads/ad_image_file/
 ||djs.baomihua.com^
-||dm530.net/js/ne10/
-||dm530.net/js/newjs/
-||dm530.net/pic/fgr/*.js
 ||dms.fx678.com^
 ||dmzj.com/js/ad/
 ||dmzj.com/js/m_BtmApp.js
@@ -70606,7 +70612,7 @@ ishuati.com###adsh
 cztv.com###adsmall
 wenxuecity.com###adt
 weather.com.cn###adtop_r
-dm530.net,hdshare.cn,it168.com###adv
+hdshare.cn,it168.com###adv
 chinabyte.com###adv-button
 js0573.com###adv1
 js0573.com###adv2
@@ -76100,7 +76106,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/img/ad/*$domain=exp.qq.com
 @@/img/ad_$domain=p9.com.tw|ruten.com.tw
 @@/img_ad/*$domain=tkec.com.tw
-@@/jquery/*$domain=dm530.net|sobooks.cc
+@@/jquery/*$domain=sobooks.cc
 @@/js/prebid-$domain=huruwo.top
 @@/mobileads.$domain=naviking.localking.com.tw
 @@/pub/ad/*$domain=ruten.com.tw
