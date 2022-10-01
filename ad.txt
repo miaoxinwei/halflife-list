@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aJzs3rDzvB/hoKq6R9XwAA
+! Checksum: va+KyFKBP+39wFxoyG0x9w
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202210012039
-! Last Modified: 2022年10月01日 20:39
+! Version: 202210020225
+! Last Modified: 2022年10月02日 02:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -4245,6 +4245,8 @@ ubmcmm.baidustatic.com
 ||fcqztan.cn^
 ||usbvhzg.cn^
 ||mmmyhkl.cn^
+||588o.top^
+||atakjyv.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -21705,6 +21707,9 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||olgame.tw^$generichide
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@/ads-api.$domain=zxmee.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zxmee.com
+@@||zxmee.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|dizhishengcheng.com|doitwell.tw|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sto520.com|switch520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|yodu.org
@@ -21938,10 +21943,10 @@ jmcomic1.city##a[href^="http"]:not([href*="jmcomic1."]) > img
 !#7
 !#8
 !#91porny.com
-###main:nth-child(4) > .container-fluid.mb-0.p-0
-###main:nth-child(4) > .container-fluid.mb-0.p-0 + .jsv-g1
-###main:nth-child(4) > .jsv.jsv-g1.mb-0 + .container-fluid.mb-3.p-0
-###main:nth-child(4) > .jsv.jsv-g1.mb-0 > .container-fluid.mb-3.p-0
+###main:nth-child(3) > .container-fluid.mb-0.p-0
+###main:nth-child(3) > .container-fluid.mb-0.p-0 + .jsv-g1
+###main:nth-child(3) > .jsv.jsv-g1.mb-0 + .container-fluid.mb-3.p-0
+###main:nth-child(3) > .jsv.jsv-g1.mb-0 > .container-fluid.mb-3.p-0
 ##.btn-outline-primary[href*=".com:"]
 !#99re.com
 .gif|$domain=99a67.com|99re.com
