@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AhN/9PFNmFxUY5rjQNun4Q
+! Checksum: LVpI5fa6yhu82swFPvvyWw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210010228
-! Last Modified: 2022年10月01日 02:28
+! Version: 202210011024
+! Last Modified: 2022年10月01日 10:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -165,9 +165,12 @@ mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
+netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 @@||pstatp.com/obj/ad-tetris-site/file/$image,domain=player.kongbuya.com
 4kya.com###player_pause
+||wp.com/netflixya.com/upload/$image
+||yanetflix.com/upload/vod/$image
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ch-hr12333.com
@@ -188,6 +191,7 @@ quandangdang.net
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+://api.*.com/sh/*.js$script,third-party
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -3776,6 +3780,17 @@ ubmcmm.baidustatic.com
 ||zzpwwbf.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||usnoownmt.fun^
+||euvsgap.cn^
+||esiws.com^
+||cz5f.top^
+||wioe3quod.cyou^
+||jcdbae.cn^
+||qcmm09.com^
+||anyany.cc^
+||haoduofangs.com^$third-party
+||71sas.com^
+||torwq.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -15077,6 +15092,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||lensdump.com/i/*.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -30967,6 +30983,7 @@ m.babytree.com##script + a[class]
 ?pageviews=$third-party
 ?sponsor_pixel=
 ?statify_referrer=
+?type=page&event=
 ?type=pageview&
 _adcenterconversion.
 _adobe_analytics.
