@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zJ0CK+SOs7ufGwYbrhIMaw
+! Checksum: V2TE8XyMP+fMW+Gq/d508A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210051438
-! Last Modified: 2022年10月05日 14:38
+! Version: 202210052045
+! Last Modified: 2022年10月05日 20:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3850,6 +3850,7 @@ ubmcmm.baidustatic.com
 ||erwgj.xyz^
 ||geegg.wang^
 ||vaxfpal.cn^
+||voloter.top^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -55102,7 +55103,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
-@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|menshealth.com|timesprime.com|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|timesprime.com|womenshealthmag.com
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
 @@||c.paypal.com/da/r/fb.js$script
