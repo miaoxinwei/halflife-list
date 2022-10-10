@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OMSEFE15O0Y6ec5A7eHo0A
+! Checksum: DmCmUMJO8ozT2dOj86KEYw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210101006
-! Last Modified: 2022年10月10日 10:06
+! Version: 202210101448
+! Last Modified: 2022年10月10日 14:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50553,6 +50553,7 @@ freebitz.xyz##.BannerMain
 interestingengineering.com##.BigAdBorder_isPremium__RXPuj
 cnbc.com##.BoxRail-styles-makeit-ad--lyuQB
 thedailybeast.com##.CheatSheetList__placeholder
+thedailybeast.com##.Cheat__top-ad
 tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
 swarajyamag.com##.CrIrA
@@ -56858,7 +56859,7 @@ ubmcmm.baidustatic.com
 ##a[target="_blank"] > img[height="60px"][src*=".tripcdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*="qlogo.cn"][src$=".png"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
-##a[target="_blank"] > img[src*="hitv.com"]
+##A[href*="/?channelCode="] > img[src*="hitv.com"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body[onload*="u()"] > #x
@@ -59168,6 +59169,12 @@ ubmcmm.baidustatic.com
 ||fz8g.top^
 ||zwiaaop.cyou^
 ||b88392.top^
+||nmfww.xyz^
+||zdx10.site^
+||kxp7.xyz^
+||taidi.info^
+||suilingxian.cn^
+||qiej445.top^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
