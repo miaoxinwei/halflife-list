@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NyHk/dLkFpyD4CEf/VFJLg
+! Checksum: cQdZLGJGxwebvKYSvo10eQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202210142044
-! Last Modified: 2022年10月14日 20:44
+! Version: 202210150227
+! Last Modified: 2022年10月15日 02:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -4448,7 +4448,7 @@ tieba.baidu.com##.tuijian-wrap
 ://ad1.
 ://adcl.$domain=~adcl.co.nz|~adcl.com|~adcl.screenconnect.com
 ://adn.*/zone/$subdocument
-://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.doordash.com|~ads.elcarado.com|~ads.elevateplatform.co.uk|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.dollartree.com|~ads.doordash.com|~ads.elcarado.com|~ads.elevateplatform.co.uk|~ads.finance|~ads.gambinoslot.com|~ads.google.com|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.lordlucky.com|~ads.magalu.com|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adv.$domain=~adv.asahi.com|~adv.bet|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
@@ -23357,6 +23357,7 @@ tf2r.com#@#.adverts
 ||7-7-7-partner.com^
 ||7029a88f0c.com^
 ||7029c575c3ee.com^
+||709861d049.com^
 ||70ee6484605f.com^
 ||711f421280.com^
 ||713661e535.com^
@@ -23614,6 +23615,7 @@ tf2r.com#@#.adverts
 ||ableaborah.com^
 ||ablebodiedfibre.com^
 ||ablesasme.co^
+||ablesasmetotr.monster^
 ||ablitleoor.com^
 ||abluvdiscr.com^
 ||ablybeastssarcastic.com^
@@ -23698,6 +23700,7 @@ tf2r.com#@#.adverts
 ||acdn01.vidox.net^
 ||aceekroo.net^
 ||acelacien.com^
+||acerbictierer.com^
 ||acertb.com^
 ||acesbashlyk.com^
 ||achcdn.com^
@@ -24504,6 +24507,7 @@ tf2r.com#@#.adverts
 ||alecupknuffe.com^
 ||alefrfobkoxbgaf.com^
 ||aleilu.com^
+||alertedstreaks.com^
 ||alertlogsemployer.com^
 ||alespeonor.com^
 ||alexatracker.com^
@@ -25056,6 +25060,7 @@ tf2r.com#@#.adverts
 ||asunderemulationcounterfeit.com^
 ||asundersimultaneously.com^
 ||asuqoqsea.com^
+||aswaystumbly.com^
 ||aswemaching.xyz^
 ||aswfs.xyz^
 ||asxoseeetdclha.xyz^
@@ -25238,6 +25243,7 @@ tf2r.com#@#.adverts
 ||awakeexterior.com^
 ||awarentew.xyz^
 ||away-stay.com^
+||awayfterth.one^
 ||awayteemage.com^
 ||awbbcre.com^
 ||awbbjmp.com^
@@ -28010,6 +28016,7 @@ tf2r.com#@#.adverts
 ||detachedringer.com^
 ||detailextentprevail.com^
 ||detailyesgrip.com^
+||detaph.com^
 ||detdtmkwcl.com^
 ||detecteddesigningspirited.com^
 ||detectionrepresentationquasi.com^
@@ -29509,6 +29516,7 @@ tf2r.com#@#.adverts
 ||felonlosel.com^
 ||felonsenforth.cam^
 ||feltlonelyand.xyz^
+||feltyborning.com^
 ||femefaih.com^
 ||femindexkilog.xyz^
 ||fendhaunteddelay.com^
@@ -30679,6 +30687,7 @@ tf2r.com#@#.adverts
 ||gumsleash.com^
 ||gungpurre.com^
 ||gunzblazingpromo.com^
+||gupffyba.com^
 ||gurimix.com^
 ||guro2.com^
 ||gurswdsyuah.xyz^
@@ -31404,6 +31413,7 @@ tf2r.com#@#.adverts
 ||iicsxxkdcy.com^
 ||iiueuenutuhaf.com^
 ||iixecczxqzy.com^
+||ijhkjlcqeipygg.com^
 ||ijqgefuq.com^
 ||ijspro-code.com^
 ||ijsprocode.com^
@@ -31756,6 +31766,7 @@ tf2r.com#@#.adverts
 ||irtya.com^
 ||irtyf.com^
 ||irvate.com^
+||irvopridf.com^
 ||irvuyekrdga.com^
 ||irxlgeoiylt.com^
 ||isboost.co.jp^
@@ -34372,6 +34383,7 @@ tf2r.com#@#.adverts
 ||ningseriencess.pics^
 ||ningukmodu.one^
 ||ninkorant.online^
+||nipjutux.com^
 ||nipmucktwicer.com^
 ||nippona7n2theum.com^
 ||nipwaghue.com^
@@ -34581,6 +34593,7 @@ tf2r.com#@#.adverts
 ||nuctcflay.com^
 ||nuevonoelmid.com^
 ||nufuglou.net^
+||nuggetschou.com^
 ||nui.media^
 ||nuiinxpzbur.com^
 ||nulats.com^
@@ -36403,6 +36416,7 @@ tf2r.com#@#.adverts
 ||puggedproses.com^
 ||puhtml.com^
 ||puitaexb.com^
+||pukekotautog.com^
 ||pulpix.com^
 ||pulpsbarndomed.com^
 ||pulpyads.com^
@@ -37767,7 +37781,9 @@ tf2r.com#@#.adverts
 ||schemeabsolutejanuary.com^
 ||schese.com^
 ||schjmp.com^
+||schloopfateful.com^
 ||schoax.com^
+||schokh.com^
 ||scholarovertakealimony.com^
 ||schond.com^
 ||schtickshalier.cam^
@@ -38333,6 +38349,8 @@ tf2r.com#@#.adverts
 ||snippystowstool.com^
 ||snitchcompany.com^
 ||snitswaspshaft.com^
+||snlynotquite.buzz^
+||snobdomobeyeo.com^
 ||snodlycaccias.com^
 ||snonoz.com^
 ||snonsy.com^
@@ -38770,6 +38788,7 @@ tf2r.com#@#.adverts
 ||storage-ad.com^
 ||storeacdn.com^
 ||storialstepony.com^
+||storners.com^
 ||storylnk.com^
 ||stoshewyho.pro^
 ||stoshoos.com^
@@ -39069,8 +39088,10 @@ tf2r.com#@#.adverts
 ||tallowstwangle.com^
 ||tallyhoquires.com^
 ||talsauve.com^
+||tammyknurl.com^
 ||tangiblewhereuponprestige.com^
 ||tanguinantaiva.com^
+||tankastapia.com^
 ||taoput.com^
 ||taoyinbiacid.com^
 ||tapioni.com^
@@ -39095,6 +39116,7 @@ tf2r.com#@#.adverts
 ||tattid.com^
 ||taunhhcx.com^
 ||tauvoojo.net^
+||taxedborley.com^
 ||taxmartbrevity.com^
 ||taxodiu2m2dis7tichum.com^
 ||taxzcqghel.com^
@@ -39148,6 +39170,7 @@ tf2r.com#@#.adverts
 ||teemingaymoro.com^
 ||teemooge.net^
 ||teensexgfs.com^
+||teethaur.com^
 ||tefections.xyz^
 ||teicdn.com^
 ||teindsrangier.com^
@@ -40358,6 +40381,7 @@ tf2r.com#@#.adverts
 ||vaebard.com^
 ||vagime.com^
 ||vahfzpfyg.com^
+||vailedapetaly.com^
 ||vaileeps.com^
 ||vaipsona.com^
 ||vaipsouw.com^
@@ -40423,6 +40447,7 @@ tf2r.com#@#.adverts
 ||vaureept.com^
 ||vawhigufi.com^
 ||vawsmoocah.com^
+||vawulu.xyz^
 ||vax-boost.com^
 ||vax-now.com^
 ||vazlshyjp.com^
@@ -41381,6 +41406,7 @@ tf2r.com#@#.adverts
 ||wysitewhe.com^
 ||wysyshypti.pro^
 ||wytyphoji.pro^
+||wzbngjhjak.com^
 ||wzdzht7am5.com^
 ||x-adservice.com^
 ||x40u1vj75ks9.com^
@@ -41490,6 +41516,7 @@ tf2r.com#@#.adverts
 ||xmlrtb.com^
 ||xmlterra.com^
 ||xmlwizard.com^
+||xmsflzmygw.com^
 ||xmvusqpp.com^
 ||xmykvlmvbghko.com^
 ||xndcnnkygvd.com^
@@ -42029,6 +42056,7 @@ tf2r.com#@#.adverts
 ||zolrauls.net^
 ||zomtanup.com^
 ||zonealta.com^
+||zoopaweb.com^
 ||zoopsame.com^
 ||zoopy.xyz^
 ||zorango.com^
@@ -45830,6 +45858,7 @@ tf2r.com#@#.adverts
 ||xijgedjgg5f55.com^$popup
 ||xlirdr.com^$popup
 ||xlivrdr.com^$popup
+||xlviirdr.com^$popup
 ||xml-api.online^$popup
 ||xmlapiclickredirect.com^$popup
 ||xmlrtb.com^$popup
@@ -47377,6 +47406,7 @@ tf2r.com#@#.adverts
 ||d3rjndf2qggsna.cloudfront.net^
 ||d3rp5jatom3eyn.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
+||d3sdg6egu48sqx.cloudfront.net^
 ||d3t16rotvvsanj.cloudfront.net^
 ||d3t3bxixsojwre.cloudfront.net^
 ||d3t3lxfqz2g5hs.cloudfront.net^
@@ -53340,6 +53370,7 @@ instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(s
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership))
 alternativeto.net#?#div[class^="AppList"]:-abp-has([class^="AppListItem_sponsored"])
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership with ))
+instagram.com#?#article[role="presentation"]:-abp-has(span:-abp-contains(/Gesponsert|Sponsored|Geborg|Sponzorováno|Sponsoreret|Χορηγούμενη|Publicidad|Sponsoroitu|Sponsorisé|Bersponsor|Sponsorizzato|広告|광고|Ditaja|Sponset|Gesponsord|Sponsorowane|Patrocinado|Реклама|Sponsrad|ได้รับการสนับสนุน|May Sponsor|Sponsorlu|赞助内容|贊助|প্রযোজিত|પ્રાયોજિત|स्पॉन्सर्ड|Sponzorirano|ಪ್ರಾಯೋಜಿತ|സ്‌പോൺസർ ചെയ്‌തത്|पुरस्‍कृत|प्रायोजित|ਪ੍ਰਾਯੋਜਿਤ|මුදල් ගෙවා ප්‍රචාරය කරන ලදි|Sponzorované|விளம்பரதாரர்கள்|స్పాన్సర్ చేసింది|Được tài trợ|Спонсорирано|Commandité|Sponsorizat|Спонзорисано/))
 just-eat.co.uk,just-eat.es,just-eat.ie,justeat.it#?#a[data-test-id]:-abp-has(span:-abp-contains(/Promoted|Patrocinado|Sponsorizzato/))
 just-eat.dk,just-eat.fr,lieferando.at,lieferando.de,pyszne.pl,takeaway.com#?#div[data-qa]:-abp-has(span:-abp-contains(/Спонсорирано|Gesponsert|Gesponsord|Sponsored|Sponsoreret|Sponsorisé|Sponsorizzato|Sponsorowane/))
 nationalgeographic.com#?#.FrameBackgroundFull--grey:-abp-has(.ad-wrapper)
@@ -55002,6 +55033,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.instacart.com^$popup
 @@||ads.kazakh-zerno.net^$popup
 @@||ads.listonic.com^$popup
+@@||ads.lollipod.de^$popup
 @@||ads.microsoft.com^$popup
 @@||ads.midwayusa.com^$popup
 @@||ads.pinterest.com^$popup
@@ -58839,6 +58871,7 @@ ubmcmm.baidustatic.com
 ||iy20.com^
 ||jbplm.com^
 ||zdx14.site^
+||jsuboyp.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -70099,6 +70132,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ooopn.com##a[href*="/jump.html"]
+ooopn.com###ab-left
 twavking.com##.da_single_video
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -90805,6 +90840,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lps.qantas.com^
 ||lr-ingest.io/logger.min.js
 ||lsimg.net^*/vs.js
+||ltwebstatic.com^*/libs/sensors/
 ||lucid.mjhassoc.com^
 ||luminate.com/track/
 ||lunametrics.wpengine.netdna-cdn.com^
