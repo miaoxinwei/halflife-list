@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2F3GvP1T3wdLRzRke3KVTQ
+! Checksum: J4E2XVMPuRyu3cngqHXnRQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202210181010
-! Last Modified: 2022年10月18日 10:10
+! Version: 202210181458
+! Last Modified: 2022年10月18日 14:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -58911,6 +58911,10 @@ ubmcmm.baidustatic.com
 ||rptjx.xyz^
 ||vx4n.icu^
 ||cj7g.top^
+||cxnre.xyz^
+||vzadtu.cn^
+||fashou.wang^
+||cgvhtvj.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -88743,7 +88747,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||netmonitor.fi^$third-party
 ||stat.www.fi^$third-party
 ||tracking*.euroads.fi^$third-party
-||userneeds.com^$third-party
 ||vihtori-analytics.fi^$third-party
 ||tbcconnect.ge^$third-party
 ||linkwi.se^$third-party
@@ -89923,6 +89926,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||epimg.net/js/gdt/
 ||epl.paypal-communication.com^$script
 ||epromote.co.za/track/
+||eq.userneeds.com^
 ||erne.co/tags?
 ||errors.snackly.co^
 ||etahub.com^*/track?site_id
@@ -107776,7 +107780,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||store.usps.com/media/js/metrics/metrics.js$~third-party
 @@||supertaxi.com/webclient/scripts/tracking/tracking.js$script,~third-party
 @@||support.brother.com^*/js/analytics.js$script,~third-party
-@@||survey.userneeds.com^$subdocument,domain=foreca.com|forecaweather.com
 @@||switchfly.com/static/108f088/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
@@ -108074,7 +108077,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
-@@||survey.userneeds.com^$subdocument,domain=foreca.fi
 @@||widgets.spklw.com/v1/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 !---------- Hebrew ----------
