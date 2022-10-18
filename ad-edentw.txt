@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4q7Y7ToJMHVg1IMn67z3hQ
+! Checksum: OxpRQG0G+qO1YNE7nCBczQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202210172049
-! Last Modified: 2022年10月17日 20:49
+! Version: 202210190235
+! Last Modified: 2022年10月19日 02:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1452,6 +1452,7 @@ instacart.com##a[href*="category_hero_id_"]
 samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent::div[@class="sc-specials"]/ancestor::li'
 ! #CV-663
 canadafreepress.com,conservativefiringline.com,ipatriot.com,naturalblaze.com,patriotnationpress.com,populistpress.com#$#abort-on-property-read document.getElementsByClassName; abort-on-property-read following-ad-container
+rightwingnews.com#$#abort-on-property-read document.getElementsByTagName
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
 nicovideo.jp##a[href^="https://click.speee-ad.jp"]
