@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bILeJ8xKF8YQ2xclfwCM0g
+! Checksum: N8ceCJAfh9BMgW/ad0Qllw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210181458
-! Last Modified: 2022年10月18日 14:58
+! Version: 202210182047
+! Last Modified: 2022年10月18日 20:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -209,22 +209,8 @@ quandangdang.net
 .cn/sc/*?x=$script,third-party
 .co/js/ads/
 .com*/ps/psCreat.js
-.com/11nvnv/
 .com/a_d/
-.com/Ads/95060_
-.com/ads/ada.js
-.com/ads/adb.js
-.com/ads/add.js
-.com/ads/dui.js
-.com/ads/p1.js
-.com/ads/p2.js
 .com/adv1/?q=
-.com/banner_list.js
-.com/common_list.js
-.com/Content/img/*_780x110.gif
-.com/Content/img/91.gif
-.com/Content/img/hd2.gif
-.com/Content/img/XVVV.gif
 .com/core/js/the_pf.js
 .com/cpc/*.ashx?$script,third-party
 .com/cpv/*.ashx?$script,third-party
@@ -236,13 +222,8 @@ quandangdang.net
 .com/dm/bofangxia.js
 .com/dm/dibu.js
 .com/dongcidaci/
-.com/ge/?s=$script,third-party
 .com/gg.js
 .com/gg/*?x=$script,third-party
-.com/headlink.js
-.com/hm/cdn/static/jq_*.js$third-party
-.com/htmlcode/$third-party
-.com/image/ll/$script
 .com/images/102.js
 .com/java/shang1.js
 .com/java/xia1.js
@@ -1268,7 +1249,7 @@ ubmcmm.baidustatic.com
 ##.con_section > .da
 ##.container > .index-ad
 ##.container > .slide-baidu
-##.container > a > img[src*=".qhimg.com"]
+##.ad_sd > .container > a > img[src*=".qhimg.com"]
 ##.container > a[href^="http"] > .ads
 ##.containeradvertising
 ##.content > a > .topline
@@ -3993,6 +3974,8 @@ ubmcmm.baidustatic.com
 ||vzadtu.cn^
 ||fashou.wang^
 ||cgvhtvj.cn^
+||olsyuulk.cam^
+||dyxymat.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -10038,8 +10021,6 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||76fengyun.com/vip.php$popup
 ||7wkw.com^$popup
 ||88p2p.com^$popup
-||9453hot.com^$popup
-||99nfft.com^$popup,third-party
 ||aiwanma99.com^$popup
 ||b477.life^$popup,third-party
 ||baidu.com/adrc.$popup
@@ -10055,7 +10036,6 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||duoyi.com/welcome/$popup
 ||elsbfby.com^$popup,third-party
 ||flash.cn/success/$popup
-||fu9453.com^$popup,third-party
 ||gd.189.cn*/push/$popup
 ||gd.189.cn/ad/$popup,third-party
 ||gd.189.cn/gz/promotion/$popup,third-party
@@ -13920,10 +13900,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||sinaimg.cn/large/$domain=chakd.com|seehd.so
 ||sinaimg.cn/large/*.gif$domain=mp4ba.la
 ||sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy.gif
-||sinaimg.cn/large/006CZIQPgy1fsc8y98k8mg30jg01odi6.gif
 ||sinaimg.cn/large/006ZdrOOgy1flbrubi93eg30m801oaff.gif
 ||sinaimg.cn/large/006ZdrOOgy1flbrum925hg30pu01o0z0.gif
-||sinaimg.cn/large/006ZdrOOly1fld3ezu0n2g304g0godo9.gif
 ||sinaimg.cn/large/0076zeZ4gy1gw0if4mgwoj30tj03ptbj.jpg
 ||sinaimg.cn/large/007cYCbaly1ftdqurgyj4g30hs02iaaq.gif
 ||sinaimg.cn/large/007X8olVly1g8cwhgh1img30qo02igm2.gif
@@ -14748,6 +14726,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||99lb.net/index_files/*/970
+||27ang.buzz/us/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -33114,6 +33094,7 @@ _mongo_stats/
 ||ptmind.com^$third-party
 ||pto-slb-09.com^$third-party
 ||ptrk-wn.com^$third-party
+||ptztvpremium.com^$third-party
 ||pubdream.com^$third-party
 ||pubexchange.com^$third-party
 ||publicgood.com^$third-party
