@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DV7PMFD4W8eDQ9qiURKOzQ
+! Checksum: giu5MgwvrKFEk6SfjPGxsw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210190235
-! Last Modified: 2022年10月19日 02:35
+! Version: 202210191006
+! Last Modified: 2022年10月19日 10:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50224,6 +50224,7 @@ tumblr.com##.XJ7bf
 tumblr.com##.Yc2Sp
 afar.com##.ZZAilYOLYlkw-Hv02mHW8
 olympics.com##.\-partners
+naijachoice.com.ng##.\38 c1b103c17b06562bc3b58d73a814726
 afkgaming.com##._1Qdz9
 swarajyamag.com##._1eNH8
 cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde
@@ -52808,6 +52809,7 @@ greatist.com##aside
 dictionary.com,thesaurus.com##aside[id$="728x90"]
 apotelyt.com##aside[id^="hedoApp"]
 apotelyt.com##aside[id^="widoApp"]
+naijachoice.com.ng##center > .background
 psycom.net##center > .vh-quiz-qborder
 conservativeplaylist.com##center > [href]
 mangas-raw.com##center > div[style]
@@ -58840,6 +58842,10 @@ ubmcmm.baidustatic.com
 ||zzpwwbf.cn^
 ||zzycj.com^
 ||zzyl.mobi^
+||lqrvkxk.cn^
+||yowbbxi.cyou^
+||nihuwo.asia^
+||iu9g.top^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -82183,6 +82189,7 @@ fqsousou.com,kengso.com#@#.user-share
 /track-page-view.
 /track-pixel.
 /track-referrals.js
+/track-the-click/*
 /track-visit-event?
 /track-visit?
 /track.ads/*
@@ -83344,6 +83351,7 @@ cgi-bin/counter
 /email/open?
 /email_open_log_
 /emimp/*$image
+/engage.indeed.com/*$image
 /eo?_t=$image
 /etrack01.com/*$image
 /eventing.coursera.org/img/*
@@ -83806,6 +83814,7 @@ _mongo_stats/
 ||pippio.com^
 ||pix.pub^
 ||pixel-tracker.com^
+||pixmg.com^
 ||pixrealm.com^
 ||pjstat.com^
 ||procroanalytics.com^
@@ -90852,6 +90861,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.kaltura.com^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
+||stats.mpthemes.net^
 ||stats.myangular.life^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
@@ -92570,6 +92580,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.cn^
 ||analytics-proxy.springboard.com^
+||analytics-tracking.meetup.com^
 ||analytics-zone-1.api.leadfamly.com^
 ||analytics.academy.com^
 ||analytics.adfreetime.com^
@@ -93090,6 +93101,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||medium.com/_/batch
 ||medium.com/_/clientele/reports/performance/
 ||meduza.io/stat/
+||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
 ||messari.io/js/wutangtrack.js
 ||messenger.com/ajax/bnzai?
 ||messiah.id/api/event
@@ -93179,6 +93191,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pagesix.com/blaize/datalayer
 ||pappagallu.onefootball.com^
 ||pardot.com/pd.js
+||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
 ||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
