@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZwCPst6R/VplYn3B4x0zuA
+! Checksum: KalWe7+WEhgRXi9VUHioBQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210191502
-! Last Modified: 2022年10月19日 15:02
+! Version: 202210192048
+! Last Modified: 2022年10月19日 20:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -14746,6 +14746,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+uump4.net###top-banner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -33350,6 +33351,7 @@ _mongo_stats/
 ||serious-partners.com^$third-party
 ||serv-ac.com^$third-party
 ||servebom.com^$third-party
+||serveipqs.com^$third-party
 ||servestats.com^$third-party
 ||servustats.com^$third-party
 ||sessioncam.com^$third-party
@@ -36621,6 +36623,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||allanalpass.com/track/
 ||alooma.com/track/
 ||alooma.io/track/?
+||alpharank.io/api/pixel/
 ||amatomu.com/link/log/
 ||amatomu.com/log.php?
 ||amazon.com/gp/*&linkCode$third-party
@@ -40385,7 +40388,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hltv.org/scripts/hltv-tracking.js
-||homedepot.com/YJvc1C/M4Hw/
 ||hoo.be/api/hoobe/analytics
 ||hotels.com/kt2lli/
 ||hotels.com/trvl-px/
@@ -40877,6 +40879,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stackshare.io/analytics.
 ||stan.xing.com^
 ||stape.fun/stat/
+||stapewithadblock.monster/stat/
 ||stapewithadblock.xyz/stat/
 ||starfiles.co/analytics.php
 ||startpage.com/sp/$ping
@@ -41200,6 +41203,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||content22.bmoharris.com^
+||customer.homedepot.com^$script
 ||drfdisvc.walmart.com^
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com/rs/v/10341xh50yz21mhhydueu4m5wad.js
