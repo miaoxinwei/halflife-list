@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7F0jKDncRXU2EI+lsPc2DQ
+! Checksum: 1jSNRRw8+P33G2M2aZCyqA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210212046
-! Last Modified: 2022年10月21日 20:46
+! Version: 202210220230
+! Last Modified: 2022年10月22日 02:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -10252,6 +10252,8 @@ _800x80_
 ###videoAdContainer
 ###videoAdvert
 ###videoCompanionAd
+###videoOverAd
+###videoOverAd300
 ###videoPauseAd
 ###videoPlayerAdLayer
 ###video_adv
@@ -21136,8 +21138,12 @@ _800x80_
 ##.video-right-ads
 ##.video-side__adv_title
 ##.videoAd-wrapper
+##.videoAd300
 ##.videoBoxAd
+##.videoOverAd300
+##.videoOverAdSmall
 ##.videoPauseAd
+##.videoSideAds
 ##.video_ad
 ##.video_ads
 ##.videoad
@@ -21575,6 +21581,7 @@ _800x80_
 ##a[href^="http://adf.ly/?id="]
 ##a[href^="http://ads2.williamhill.com/redirect.aspx?"]
 ##a[href^="http://adserver.adreactor.com/"]
+##a[href^="http://adultfriendfinder.com/go/page/landing"]
 ##a[href^="http://adultgames.xxx/"]
 ##a[href^="http://affiliate.glbtracker.com/"]
 ##a[href^="http://affiliates.thrixxx.com/"]
@@ -43448,6 +43455,7 @@ tf2r.com#@#.adverts
 ||tyroo.com^$third-party
 ||ubercpm.com^$third-party
 ||ultrapartners.com^$third-party
+||unblockia.com^$third-party
 ||undertone.com^$third-party
 ||unibots.in^$third-party
 ||urlcash.net^$third-party
@@ -53584,6 +53592,7 @@ ok.porn,ok.xxx,oldmaturemilf.com,pornhat.com##.bns-bl
 sexsbarrel.com,zingyporntube.com##.bns-place-ob
 xnxxvideoporn.com##.bot_bns
 here.xxx,jagaporn.com##.botad
+pornoreino.com##.bottom-bang
 hentaigamer.org##.bottom-banner-home
 alphaporno.com##.bottom-banners
 elephanttube.world##.bottom-block
@@ -53603,7 +53612,7 @@ barscaffolding.co.uk,capitalregionusa.xyz,dcraddock.uk,javbebe.com,javxxoo.com,x
 hentaianimedownloads.com##.bp_detail
 bravotube.net##.brazzers
 xozilla.com##.brazzers-link
-kompoz2.com##.brs-block
+kompoz2.com,pornvideos4k.com##.brs-block
 realgfporn.com##.btn-info
 xcum.com##.btn-ponsor
 cinemapee.com##.button
@@ -53687,7 +53696,7 @@ videocelebs.net##.fp-brand
 xpics.me##.frequently
 jizzbunker.com##.ftrzx1
 teenpornvideo.fun##.full-ave
-kompoz2.com,roleplayers.co##.full-bns-block
+kompoz2.com,pornvideos4k.com,roleplayers.co##.full-bns-block
 iceporn.com##.furtherance
 xpics.me##.future
 hdtube.porn##.g-col-banners
@@ -53849,6 +53858,7 @@ cyberleaks.to##.responsive_banner
 cumlouder.com##.resumecard
 porndroids.com##.resumecard__banner
 bdsmx.tube,hotmovs.com,javdoe.fun,javtape.site,porntop.com##.right
+pornoreino.com##.right-side
 definebabe.com##.right-sidebar
 empflix.com##.rightBarBannersx
 gottanut.com##.rightContent-videoPage
@@ -54968,6 +54978,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 .com/rmb/dl.js
 .com/rmb/palyyoubian.js
 .com/Runtime/js/psCreat.js
+.com/sc/*?n=$script,third-party
 .com/static/js/ad.js
 .com/style/vue.js?v=
 .com/tonglan.js
@@ -56711,6 +56722,7 @@ ubmcmm.baidustatic.com
 ||5h7370j8.cn^
 ||5hte21mz.com^
 ||5htftu.com^
+||5lna.xyz^
 ||5lpt.cn^
 ||5s34y422.cn^
 ||5t15.cn^
@@ -56936,6 +56948,7 @@ ubmcmm.baidustatic.com
 ||baiduwudi929.xyz^
 ||baishui.me^
 ||bakeryembedded.com^
+||banlisgv.fun^
 ||bb-bbjsyuming.cc^
 ||bbads.vip^
 ||bbazhaheiv.top^
@@ -56982,6 +56995,7 @@ ubmcmm.baidustatic.com
 ||bxlidv.ink^
 ||byfft.top^
 ||byqiu.xyz^
+||byrprsi.cn^
 ||byznb.xyz^
 ||c60china.com^
 ||c9tt3jj.top^
@@ -57241,6 +57255,7 @@ ubmcmm.baidustatic.com
 ||fz2c.top^
 ||fz8g.top^
 ||galvanic.name^
+||gangtabli.top^
 ||gass.top^
 ||gblvwv.com^
 ||gbpofla.cn^
@@ -57442,6 +57457,7 @@ ubmcmm.baidustatic.com
 ||iirpvchv.cn^
 ||ijre.club^
 ||ikrweb.cn^
+||iktree.xyz^
 ||ikvcxz.cn^
 ||ilmwaqf.cn^
 ||img301.com^
@@ -57534,6 +57550,7 @@ ubmcmm.baidustatic.com
 ||jrnrpma.cn^
 ||jrysogsia.uno^
 ||jsl44w.xyz^
+||jsnignsa.xyz^
 ||jsnoownma.fun^
 ||jsuboyp.cn^
 ||jubudayu.com^
@@ -57550,6 +57567,7 @@ ubmcmm.baidustatic.com
 ||jy5izgies.xyz^
 ||jy7izgie.xyz^
 ||jyuyjxx.cn^
+||jz8b.top^
 ||k31bpzf.xyz^
 ||k3uihu.xyz^
 ||ka185ly.site^
@@ -57820,6 +57838,7 @@ ubmcmm.baidustatic.com
 ||nongjih.cn^
 ||nongsonx.uno^
 ||norlsbly.cyou^
+||nqcacox.cn^
 ||nrysogsic.uno^
 ||nsnoownmc.fun^
 ||nsweq.xyz^
@@ -57846,6 +57865,7 @@ ubmcmm.baidustatic.com
 ||obgbok.com^
 ||obnpazq.cn^
 ||ocxve.xyz^
+||oddyqw.com^
 ||odkxgwl.cn^
 ||oewtuho.cn^
 ||ofooe.cn^
@@ -57911,10 +57931,12 @@ ubmcmm.baidustatic.com
 ||partieseclipse.com^
 ||pbhdwm.cn^
 ||pcprgck.cn^
+||pdqwaan.cn^
 ||pdtqjd.cn^
 ||pdxubxc.cn^
 ||peigbv.cn^
 ||pejrq.xyz^
+||pfja.top^
 ||pfjfj45.xyz^
 ||pfpmmxa.xyz^
 ||pfskzj.cn^
@@ -57963,6 +57985,7 @@ ubmcmm.baidustatic.com
 ||pygone.top^
 ||pyirw.xyz^
 ||pymby.top^
+||pyntr.xyz^
 ||pyrrtep.cn^
 ||pzcrwml.cn^
 ||pznqjhh.life^
@@ -58044,6 +58067,7 @@ ubmcmm.baidustatic.com
 ||rccrb.cn^
 ||rcswbr.cn^
 ||redshks.cn^
+||reebbwi.cyou^
 ||renfs.xyz^
 ||rengbali.fun^
 ||renxinghuan.com^
@@ -58104,6 +58128,7 @@ ubmcmm.baidustatic.com
 ||rzijjeb.cn^
 ||s9o.co^
 ||salleyte.top^
+||sanlida.asia^
 ||sbazhaheib.top^
 ||sc-gov-cn.website^
 ||scardetect.cn^
@@ -58298,6 +58323,7 @@ ubmcmm.baidustatic.com
 ||uengbalc.fun^
 ||ufzwoiu.cn^
 ||ugkmihh.cn^
+||uhmtlzd.cn^
 ||uhyhdrh.cn^
 ||uibtxv.cn^
 ||uisafnit.space^
@@ -58642,6 +58668,7 @@ ubmcmm.baidustatic.com
 ||yzsbpp.top^
 ||zaiaplb.cn^
 ||zb7b.top^
+||zcrui.com^
 ||zdhfff.xyz^
 ||zdktgps.cn^
 ||zdx10.site^
@@ -58706,6 +58733,7 @@ ubmcmm.baidustatic.com
 ||zuliglsa.space^
 ||zumnxwva.ink^
 ||zuoai99hair.com^
+||zuysfr.com^
 ||zvbhei.cn^
 ||zwadakesq.cyou^
 ||zwiaaop.cyou^
@@ -58720,18 +58748,6 @@ ubmcmm.baidustatic.com
 ||zzpwwbf.cn^
 ||zzycj.com^
 ||zzyl.mobi^
-||banlisgv.fun^
-||uhmtlzd.cn^
-||pdqwaan.cn^
-||pyntr.xyz^
-||reebbwi.cyou^
-||5lna.xyz^
-||jz8b.top^
-||zcrui.com^
-||gangtabli.top^
-||sanlida.asia^
-||byrprsi.cn^
-||jsnignsa.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -69263,6 +69279,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yhdm.io/bar/
 ||yhdm.so/bar/
 ||yht7.com/web/assets/js/right.js
+||yiche.com/ssp/
 ||yidengfe.com/launches/01/yd.png
 ||yigujin.cn/faaa/
 ||yigujin.cn/img/abc/
@@ -76831,6 +76848,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||zsjxwj.com^
 ||zuowen.hydcd.com^
 ||zuqiuju.com^
+||zx.docin.com^
 ||zxw51.com^$third-party
 !#bejson.com
 bejson.com##.alert-dismissable
@@ -86215,7 +86233,6 @@ _mongo_stats/
 ||uciservice.com^$third-party
 ||udkcrj.com^$third-party
 ||umbel.com^$third-party
-||unblockia.com^$third-party
 ||unicaondemand.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
