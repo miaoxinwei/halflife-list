@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TQ4fBTeiIbz9+D1MPrBJkw
+! Checksum: u+uG5LW1Wep59vDJruwirA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210241457
-! Last Modified: 2022年10月24日 14:57
+! Version: 202210242048
+! Last Modified: 2022年10月24日 20:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -780,7 +780,6 @@ quandangdang.net
 /uploads/setting/ad/*
 /uu114/ad/*
 /V.aspx?Bln=$script,third-party
-/variety.tc.qq.com/*.mp4?
 /videoJS/video-conrtib-ads.js
 /view/image/ngps1.gif
 /View/img/b72890.jpg
@@ -12579,7 +12578,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||i-gamer.net^$domain=cartoonmad.com
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
-||i.wuhaolin.cn^
 ||i322.com/ad_avshow/
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||iabao.com/sladewap.js
@@ -14788,6 +14786,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||nxflv.com/nxflv.js
+||wuhaolin.cn/c/ls
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -22602,7 +22602,7 @@ t66y.com##.tips
 ###video_playr_side.video_playr_sider.videoplayerside
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
-69xx.one,8mav.cc,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
+69xx.one,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ||jsdelivr.net/gh/dashange123/
@@ -28467,6 +28467,7 @@ m.babytree.com##script + a[class]
 /page_counter.
 /page_imp;
 /page_monitor_log?
+/page_perf_log
 /pageaction/trackEvent
 /pagead/conversion_
 /PageCount.php?
@@ -29753,7 +29754,6 @@ m.babytree.com##script + a[class]
 /trackClickEvent.js
 /trackContentViews.
 /trackconversion?
-/tracker-config.js
 /tracker-ev-sdk.js
 /tracker-pb-min-rem.js
 /tracker-r1.js
@@ -31086,6 +31086,7 @@ _mongo_stats/
 ||520886.xyz^
 ||8672.site^
 ||a1webstrategy.com^
+||a8723.com^
 ||aaxwall.com^
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
@@ -40608,6 +40609,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msg-intl.qy.net^$image
 ||msn.com/collect/
 ||msn.com/OneCollector/
+||mxpl.9gag.com^
 ||my.com/v1/hit/
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
@@ -41255,6 +41257,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||content22.bmoharris.com^
+||content22.citibank.com.sg^$script
 ||customer.homedepot.com^$script
 ||drfdisvc.walmart.com^
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
@@ -54954,6 +54957,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||evolutionpayroll.com/ess/scripts/angularytics/angularytics.min.js$~third-party
 @@||fast.appcues.com^$script,domain=static.abcmouse.com
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=gables.com|itsolutions-inc.com
+@@||felix.data.tm-awx.com/felix.min.js$script,domain=cambridge-news.co.uk
 @@||files.mycloud.com/js/analytics/google_analytics.js
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firststatesuper.com.au^*/js/analytics.js$script,~third-party
@@ -55294,6 +55298,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cbsi.map.fastly.net^
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
+@@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com

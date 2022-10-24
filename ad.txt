@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: N+Lg7dr605DHhcnTcpW4Kg
+! Checksum: kRw62egjdmDrou4A7DlZgg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202210241457
-! Last Modified: 2022年10月24日 14:57
+! Version: 202210242048
+! Last Modified: 2022年10月24日 20:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1227,7 +1227,6 @@ quandangdang.net
 /uploads/setting/ad/*
 /uu114/ad/*
 /V.aspx?Bln=$script,third-party
-/variety.tc.qq.com/*.mp4?
 /videoJS/video-conrtib-ads.js
 /view/image/ngps1.gif
 /View/img/b72890.jpg
@@ -13026,7 +13025,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||i-gamer.net^$domain=cartoonmad.com
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
-||i.wuhaolin.cn^
 ||i322.com/ad_avshow/
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||iabao.com/sladewap.js
@@ -15235,6 +15233,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||nxflv.com/nxflv.js
+||wuhaolin.cn/c/ls
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -23049,7 +23049,7 @@ t66y.com##.tips
 ###video_playr_side.video_playr_sider.videoplayerside
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
-69xx.one,8mav.cc,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
+69xx.one,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ||jsdelivr.net/gh/dashange123/
