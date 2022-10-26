@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n1vy2g5jioegbp1v/BBaZw
+! Checksum: LVovBVN9BLj4y3W2WCLcGw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210262046
-! Last Modified: 2022年10月26日 20:46
+! Version: 202210270224
+! Last Modified: 2022年10月27日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -3770,7 +3770,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /reklam-ads2.
 /reklam.$domain=~github.com|~reklam.com.tr
 /reklam/*$domain=~github.com|~reklam.com.tr
-/reklama.$~stylesheet,domain=~github.com|~pracuj.pl|~reklama.cinema.sk|~reklama.citylink.pro|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl|~reklama.tochka.com
+/reklama.$~stylesheet,domain=~blaudirekt.de|~github.com|~pracuj.pl|~reklama.cinema.sk|~reklama.citylink.pro|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl|~reklama.tochka.com
 /reklama/*$domain=~github.com
 /reklama1.
 /reklama2.
@@ -23083,6 +23083,7 @@ tf2r.com#@#.adverts
 ||8dc832e7e4.com^
 ||8dfaa2dc76855.com^
 ||8eca555d94.com^
+||8f28049c79.com^
 ||8ff01bde37db289d5.com^
 ||8gs4unh05aq6.com^
 ||8jay04c4q7te.com^
@@ -26466,6 +26467,7 @@ tf2r.com#@#.adverts
 ||cheno3yp5odt7iume.com^
 ||chepsigrade.pro^
 ||cherniy2sviter11j.com^
+||chestfoollo.one^
 ||chestors.com^
 ||cheumy.com^
 ||chewsrompedhemp.com^
@@ -27454,6 +27456,7 @@ tf2r.com#@#.adverts
 ||dairyabreast.com^
 ||daischerendragkur.ga^
 ||daisycontroversy.com^
+||daitoase.com^
 ||daizoode.com^
 ||dakolk.com^
 ||dalarorganic.casa^
@@ -28675,6 +28678,7 @@ tf2r.com#@#.adverts
 ||emmermyotic.com^
 ||emolah.com^
 ||emolapnay.com^
+||emostbeautif.xyz^
 ||emphen.com^
 ||empill.com^
 ||empirelayer.club^
@@ -29110,6 +29114,7 @@ tf2r.com#@#.adverts
 ||faithcollarhook.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyfridge.com^
+||faitis.com^
 ||fakeallow.com^
 ||fakeerupriser.com^
 ||fakesorange.com^
@@ -35434,6 +35439,7 @@ tf2r.com#@#.adverts
 ||pc2ads.com^
 ||pcdnlt.com^
 ||pclk.name^
+||pclrwuqv.com^
 ||pcmclks.com^
 ||pctlwm.com^
 ||pctsrv.com^
@@ -38704,6 +38710,7 @@ tf2r.com#@#.adverts
 ||ssyajuhvf.com^
 ||st-rdirect.com^
 ||st1net.com^
+||stabbr.com^
 ||stabilityvatinventory.com^
 ||stackattacka.com^
 ||stadiumembezzlementoil.com^
@@ -39901,6 +39908,7 @@ tf2r.com#@#.adverts
 ||truthfulstem.com^
 ||trybulgingcoefficient.com^
 ||trymynewspirit.com^
+||trymysadoroh.site^
 ||tryq.xyz^
 ||trytipemo.com^
 ||trzi30ic.com^
@@ -40911,6 +40919,7 @@ tf2r.com#@#.adverts
 ||vtfdfrxfxktq.xyz^
 ||vth05dse.com^
 ||vubihowhe.com^
+||vucdmuvavnu.com^
 ||vuclmvrq.xyz^
 ||vudoutch.com^
 ||vueqfdry.com^
@@ -47338,6 +47347,7 @@ tf2r.com#@#.adverts
 ||s3.amazonaws.com^*/secure.js
 ||tsbluebox.com^$third-party
 ||vidoplay.com^$third-party
+||d10ce3z4vbhcdd.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
 ||d10lv7w3g0jvk9.cloudfront.net^
 ||d10nkw6w2k1o10.cloudfront.net^
@@ -69969,6 +69979,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mgjiasu.com/download-link-js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cupfox.app##a[href*=".taobao.com"]
 mpyit.com###post-0
 szxx.com.cn###A1
 szxx.com.cn###A2
