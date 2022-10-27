@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jyg7l27lOxl3stO+1gZZ7w
+! Checksum: YITVMi4tZD+WBMqdnDKeLg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210270224
-! Last Modified: 2022年10月27日 02:24
+! Version: 202210270952
+! Last Modified: 2022年10月27日 09:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4109,6 +4109,11 @@ ubmcmm.baidustatic.com
 ||u0082.com^
 ##a[href*=".jingjiezhenkong.com/"]
 ||bj-gov-cn.website^
+||wgnlaige.fun^
+||fedlugk.cn^
+||innlzrs.cn^
+||jhgtf.com^
+||optef.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -26299,6 +26304,7 @@ m.babytree.com##script + a[class]
 /bounce_user_tracking-
 /bower_components/fp/fp.js
 /bps_sv.gif?
+/bpsma.js
 /br-trk-
 /br-trk.
 /br_imps/add_item?
@@ -36750,6 +36756,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.30m.com^
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
+||analytics.algolia.com^
 ||analytics.amakings.com^
 ||analytics.apnewsregistry.com^
 ||analytics.atomiconline.com^
