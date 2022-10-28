@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +qOIDDPXO0EUH1u5zDM9rw
+! Checksum: PIPBUalLRGDK4Yu3XTsnBQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210281425
-! Last Modified: 2022年10月28日 14:25
+! Version: 202210282042
+! Last Modified: 2022年10月28日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -744,7 +744,6 @@ quandangdang.net
 /tan.js
 /tan1.js
 /tanad.js
-/tanchuang.
 /td_ads_ckbeck.js
 /template/*/adm/*
 /template/*/ads/*
@@ -4129,6 +4128,10 @@ ubmcmm.baidustatic.com
 ##a[href*="/ftyvrfy05.com"]
 ||usnignst.xyz^
 ||e7ckr.icu^
+||weqvpmw.cn^
+||lianfu.shop^
+||jsdelivr.autos^
+||iljhbdp.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -25481,6 +25484,7 @@ m.babytree.com##script + a[class]
 /0c.gif?
 /0pixel.php?
 /1.gif?
+/1pixel.php
 /1px.gif?
 /1px.php?
 /1x1.a?
@@ -30911,6 +30915,7 @@ cgi-bin/counter
 /mail-tracking/*$image
 /mail.sparksport.co.nz/forms/read/*
 /mail.sparksport.co.nz/mail/read/*
+/MailIsRead?$image
 /maillist.*/t/$image
 /media.sailthru.com/5ik/1k4/9/*.gif
 /newsletter/log/*$image
@@ -31245,6 +31250,7 @@ _mongo_stats/
 ||fastgull.io^
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
+||ffe390afd658c19dcbf707e0597b846d.de^
 ||fixel.ai^
 ||fleraprt.com^
 ||fn-pz.com^
