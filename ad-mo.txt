@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oo6teXcFKJ+NlbtBKoTQYQ
+! Checksum: pjeewT8n3NIUyaUKUuU/gg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210280228
-! Last Modified: 2022年10月28日 02:28
+! Version: 202210281000
+! Last Modified: 2022年10月28日 10:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22167,6 +22167,7 @@ _800x80_
 ###component-taboola-below-article-feed
 ###component-taboola-below-article-feed-2
 ###component-taboola-below-homepage-feed
+###fake_taboola_fallback
 ###ra-taboola-bottom
 ###taboola-ad
 ###taboola-adverts
@@ -22220,6 +22221,7 @@ _800x80_
 ##.taboola_block1
 ##.taboola_container
 ##.taboola_lhs
+##.tbl-floating-unit
 ##.tncls_taboola
 ##.trb_taboola
 ##.trc_rbox .syndicatedItem
@@ -48371,7 +48373,7 @@ tf2r.com#@#.adverts
 ||freeworldgroup.com/banner
 ||funnyjunk.com/site/js/extra/pre
 ||futbollatam.com/ads.js
-||fwpub1.com^$domain=ndtv.com
+||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||g2a.com/assets/g2a.affiliate.
 ||g2a.com/js/affiliate.
 ||gamasexual.com/a/i/$image
@@ -49838,7 +49840,6 @@ thedrinknation.com###fcBanner
 fandom.com###featured-video__player
 fandom.com###featured-video__player-container
 investing.com###findABroker
-ndtv.com###firework1
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
@@ -50945,6 +50946,7 @@ imgtaxi.com##.bottom_abs
 collive.com##.bottom_leaderboard
 allmonitors24.com,streamable.com##.bottombanner
 arcadebomb.com##.bottombox
+timesofindia.com##.bottomnative
 canonsupports.com##.box
 ghacks.net##.box-banner
 efe.com##.box-publi
@@ -51756,7 +51758,6 @@ antimusic.com##.mad
 wccftech.com##.main-background-wrap
 sporcle.com##.main-content-unit-wrapper
 naturalnewsblogs.com##.main-holder > #sidebar > [class] > ul
-9gag.com##.main-wrap > div
 ggrecon.com##.mainVenatusBannerContainer
 color-hex.com##.margin10
 fandom.com##.marketplace
@@ -51977,7 +51978,7 @@ dzone.com##.partner-resources-block
 nationtalk.ca##.partner-slides
 domainmasters.co.ke##.partner2
 artasiapacific.com##.partner_container
-motachashma.com##.partnerbanner
+motachashma.com,ordertracker.com##.partnerbanner
 bundesliga.com##.partnerbar
 freshnewgames.com##.partnercontent_box
 investopedia.com##.partnerlinks
@@ -53430,6 +53431,8 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 titantv.com##tr.gridRow > td > [id] > div:first-child
 opensubtitles.org##tr[style="height:115px;text-align:center;margin:0px;padding:0px;background-color:#DFEBF9;"]
 tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.br,tripadvisor.com.eg,tripadvisor.com.gr,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.ve,tripadvisor.com.vn,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fr,tripadvisor.ie,tripadvisor.in,tripadvisor.it,tripadvisor.jp,tripadvisor.nl,tripadvisor.pt,tripadvisor.ru,tripadvisor.se#?#.listItem:-abp-has(.sponsored_v2)
+ndtv.com,ndtv.in##[class^="firework"]
+ndtv.com,ndtv.in##[id^="firework"]
 adspyglass.com##HTML
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###nav-swmslot
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg###sponsoredProducts2_feature_div
@@ -54718,6 +54721,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||discretemath.org^$image,stylesheet
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
+@@||dodo.ac/np/images/thumb/$image,domain=nookipedia.com
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com
 @@||doubleclick.net/gpt/pubads_impl_$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|downdetector.com|epaper.timesgroup.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|webmd.com
 @@||edmodo.com/ads$~third-party,xmlhttprequest
@@ -59293,6 +59297,16 @@ ubmcmm.baidustatic.com
 ||zzycj.com^
 ||zzyl.mobi^
 ||zzzhuoxiaqu.online^
+||ranlisgz.fun^
+||kuunmzg.cn^
+||llyhbqn.cn^
+||lyewe.xyz^
+||iemwbu.cn^
+||u05.xyz^
+||613711567.com^
+||513575528.com^
+||297892531.com^
+##a[href*="/ftyvrfy05.com"]
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -77689,6 +77703,7 @@ $image,third-party,domain=258zw.com
 /xxgg/dj*.js
 /xxgg/gzh.js
 /xxgg/pf*.js
+/sg.asp?wg&df=
 /xxgg/pv.js
 /xxgg/xsggs.js
 ://*:*/chunyu.html?k=$csp=script-src
@@ -79169,7 +79184,6 @@ fqsousou.com,kengso.com#@#.user-share
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
-/blazor-analytics.js
 /block/pixel?
 /blockstat?
 /blog/traffic/?
@@ -108045,7 +108059,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com^$domain=mixpanel.com
-@@||my.appacademy.io/_content/Blazor-Analytics/blazor-analytics.js$script,~third-party
 @@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||myaccount.depositprotection.com/Scripts/lib/jsnlog/$script,~third-party
