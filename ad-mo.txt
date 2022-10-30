@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JLDErbFh5SKcr+4wOjUGQw
+! Checksum: WhX7PYZVjrgwHsDPiYovAg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210301003
-! Last Modified: 2022年10月30日 10:03
+! Version: 202210301423
+! Last Modified: 2022年10月30日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20888,6 +20888,7 @@ _800x80_
 ##.top-banner-ad-wrapper
 ##.top-banner-add
 ##.top-banner-ads
+##.top-banner-advert
 ##.top-bar-ad-related
 ##.top-box-right-ad
 ##.top-content-adplace
@@ -43638,6 +43639,7 @@ tf2r.com#@#.adverts
 ||realhumandeals.com^$third-party
 ||realssp.co.kr^$third-party
 ||receitasefinancas.com^$third-party
+||rediads.com^$third-party
 ||redintelligence.net^$third-party
 ||redirectnative.com^$third-party
 ||redirectpopads.com^$third-party
@@ -50646,7 +50648,6 @@ olympics.com##.\-partners
 naijachoice.com.ng##.\38 c1b103c17b06562bc3b58d73a814726
 afkgaming.com##._1Qdz9
 swarajyamag.com##._1eNH8
-cointelegraph.com##._1p0RFbnRBP8wtiCNM9Gxde
 thequint.com##._1v3nU
 tvzoneuk.com##._2JOHk
 rightmove.co.uk##._2X2laxgNfgPGfZQTFoPUsd
@@ -51239,6 +51240,7 @@ goal.com,thisislondon.co.uk##.commercial
 telegraph.co.uk##.commercial-unit
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
+cointelegraph.com##.componentAdbutler_UHZMO
 gfinityesports.com,realsport101.com##.connatixPS
 washingtontimes.com##.connatixcontainer
 conservativeplaylist.com##.conse-d
@@ -51655,6 +51657,7 @@ kollywoodtoday.net##.header-top-right
 knowyourmeme.com##.header-unit-wrapper
 maketecheasier.com##.header-widget
 hd-trailers.net##.header-win
+cointelegraph.com##.header-zone__banners
 gelbooru.com##.headerAd
 thelakewoodscoop.com##.headerPromo
 gautengnewspaper.co.za##.header__banner
@@ -52460,6 +52463,7 @@ thebadandugly.com##.sidebar30
 celebritynetworth.com##.sidebarAvtBox
 pbs.org##.sidebar__logo-pond
 hepper.com##.sidebar__placement
+cointelegraph.com##.sidebar__promo-button
 caster.fm##.sidebar_ablock
 pcgamesn.com##.sidebar_affiliate_disclaimer
 bxr.com##.sidebar_promo
@@ -52817,6 +52821,7 @@ goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
 watson.ch##.watson-ad
 wbal.com##.wbal-banner
+technclub.com##.wbyqkx-container
 wccftech.com##.wccf_video_tag
 glamourvanity.com##.wdt_gads
 qwant.com##.web_add_block
@@ -59464,6 +59469,7 @@ ubmcmm.baidustatic.com
 ||jgnlaiga.fun^
 ||wjdmprn.cn^
 ||pclsueo.cn^
+||osnignsk.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -80978,6 +80984,7 @@ fqsousou.com,kengso.com#@#.user-share
 /ktag/*
 /LandingPageHitLog.aspx?
 /landings-pixel?
+/lasso-ga.js
 /LastClick/js?
 /layer_log.php?p=
 /lbi_ga.
@@ -82331,7 +82338,6 @@ fqsousou.com,kengso.com#@#.user-share
 /sitestat_
 /sitestatforms.
 /sitestats.gif?
-/SiteTracker.
 /sitetracker21.
 /SiteTrackingGA.
 /sitetrek.js
@@ -83719,6 +83725,7 @@ fqsousou.com,kengso.com#@#.user-share
 ;type=pixel;
 =comscoreAdobeDpvCall&
 =getSideStats&
+=getStats_
 =googleanalytics_
 =metrics_profile&
 =pageImpression&
@@ -83858,6 +83865,7 @@ cgi-bin/counter
 .eviq.org.au/CMSModules/$image
 .flipboard.com/usage?
 .getblueshift.com/q/
+.getsendmail.com/p/$image
 .gif?stat=open
 .goodwell18.com/track/
 .google-analytics.com/
@@ -91442,6 +91450,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.wibiya.com^
 ||statm.the-adult-company.com^
 ||stats-bq.stylight.net^
+||stats-dev.brid.tv^
 ||stats-messages.gifs.com^
 ||stats-newyork1.bloxcms.com^
 ||stats.big-boards.com^
@@ -107390,6 +107399,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||hs.fi/stats
 ||huuto.net/js/analytic/
 ||ilcdn.fi^*/Bootstrap.js
+||io-tech.fi/io/www/delvr/lokiz.php
 ||is.fi/stats/
 ||mha.fi/simple.gif?
 ||mtv3.fi/remarketing.js
@@ -108619,6 +108629,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||centprod.com/nd/assets/js/analytics.js$script,domain=centprod.com
 @@||collectandgo.be^*/utag.sync.js
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
+@@||gls-info.nl/Scripts/tracking.js$~third-party
 @@||googletagmanager.com/gtag/js$script,domain=hostingvergelijker.nl
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|hostingvergelijker.nl|mediamarkt.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
