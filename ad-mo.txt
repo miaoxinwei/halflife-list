@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4AYiWgIcptE+up0WGO5XJQ
+! Checksum: AZDnu6xbF95GN3BPdK1WnA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202210311425
-! Last Modified: 2022年10月31日 14:25
+! Version: 202210312042
+! Last Modified: 2022年10月31日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -589,7 +589,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 .com/adx_
 .com/adz/
 .com/bads/
-.com/doubleclick/
 .com/ss/ad/
 .cz/adv/
 .cz/affil/
@@ -1057,7 +1056,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad_text.
 /ad_text_
 /ad_tile/*
-/ad_timer.
 /ad_title_
 /ad_tools/*
 /ad_top.
@@ -1143,7 +1141,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adchoiceslogo.
 /adcircle.
 /adclick-
-/adclick.
 /adClick?
 /adclient-
 /adclient.
@@ -18992,6 +18989,8 @@ _800x80_
 ##.nfy-ad-wrapper
 ##.nfy-cobo-ad
 ##.nfy-col-ad
+##.ng-ad-banner
+##.ng-ad-insert
 ##.ngart__ad-col
 ##.ngart__side-ad
 ##.ngs-adv-async
@@ -22587,6 +22586,7 @@ tf2r.com#@#.adverts
 ||111supjav.xyz^
 ||118bfe5b01.com^
 ||11hrcnll.com^
+||12112336.pix-cdn.org^
 ||1219c3e1c9.com^
 ||1221e236c3f8703.com^
 ||123camquiz.com^
@@ -22749,6 +22749,7 @@ tf2r.com#@#.adverts
 ||2qgsjjy89k.com^
 ||2qj7mq3w4uxe.com^
 ||2rlgdkf7s.de^
+||2rmifan7n.de^
 ||2rr7y7gd2qrm.com^
 ||2solo.biz^
 ||2track.info^
@@ -23200,6 +23201,7 @@ tf2r.com#@#.adverts
 ||a997aa5071.com^
 ||a9d7c19f0282.com^
 ||a9df6a2fb3.com^
+||a9e8387c9e.com^
 ||aa53df329975c325.com^
 ||aa9deed09e.com^
 ||aaaaaco.com^
@@ -24133,6 +24135,7 @@ tf2r.com#@#.adverts
 ||aklienyxjhdn.com^
 ||akmqmypoqyn.com^
 ||akmxts.com^
+||aknlsaqfwsibvn.top^
 ||akspecuaa.xyz^
 ||akusafla.com^
 ||akutapro.com^
@@ -24600,6 +24603,7 @@ tf2r.com#@#.adverts
 ||arrlnk.com^
 ||arrnaught.com^
 ||arrowrictus.com^
+||arrreeject.com^
 ||arshelmeton.com^
 ||arshineensnarl.com^
 ||arsnivyr.com^
@@ -24996,6 +25000,7 @@ tf2r.com#@#.adverts
 ||ayassociallya.xyz^
 ||ayboll.com^
 ||ayelpacle.com^
+||ayhereabit.xyz^
 ||ayhfnvgv.com^
 ||aymwknbsqzhyh.com^
 ||aywfsjpglvhzdk.com^
@@ -25961,6 +25966,7 @@ tf2r.com#@#.adverts
 ||brwbimexv.com^
 ||brwvdoorqmsnqbl.xyz^
 ||bsbaduacvwoeee.com^
+||bsgrcabsloqexm.com^
 ||bshrdr.com^
 ||bsjltmrejgnlk.com^
 ||bslpbucu.com^
@@ -25972,6 +25978,7 @@ tf2r.com#@#.adverts
 ||btdnav.com^
 ||btgndarx.xyz^
 ||btjapxtpernyg.com^
+||btknepry.com^
 ||btmpgcgpjwagnx.com^
 ||btnativedirect.com^
 ||btnldivewzzfso.com^
@@ -26065,6 +26072,7 @@ tf2r.com#@#.adverts
 ||bvtuuewvwi.com^
 ||bvwymqlhouxy.xyz^
 ||bxczchdxynw.com^
+||bxfcebfvtfu.com^
 ||bxkxzjdjxeexi.com^
 ||bxqgxnechpwojfo.com^
 ||bxsfvqhzj.com^
@@ -26108,6 +26116,7 @@ tf2r.com#@#.adverts
 ||c4dbb6a666.com^
 ||c4f40bce0b.com^
 ||c50021876c67fd14.com^
+||c514137cef.com^
 ||c52bc36a22.com^
 ||c5b39ff13b3259df.com^
 ||c5b8d9d52f.com^
@@ -26427,6 +26436,7 @@ tf2r.com#@#.adverts
 ||cfbenchcl.com^
 ||cfbwxgsa.com^
 ||cfc553b16f.com^
+||cfccc324b8.com^
 ||cfclhaqhjdtw.com^
 ||cfcloudcdn.com^
 ||cfegwufto.xyz^
@@ -26821,6 +26831,7 @@ tf2r.com#@#.adverts
 ||cmnfybfjn.xyz^
 ||cmpgns.net^
 ||cmrdr.com^
+||cms100.xyz^
 ||cmtrsrlyyiche.com^
 ||cncflpfw.com^
 ||cndeccsqtmjyh.com^
@@ -27444,7 +27455,9 @@ tf2r.com#@#.adverts
 ||d0main.ru^
 ||d131c7173a.com^
 ||d14b19b49f.com^
+||d19y03yc9s7c1c.cloudfront.net^
 ||d24ak3f2b.top^
+||d27x9po2cfinm5.cloudfront.net^
 ||d29gqcij.com^
 ||d2e48d0dce.com^
 ||d2fe475c69.com^
@@ -28277,6 +28290,7 @@ tf2r.com#@#.adverts
 ||dtmpub.com^
 ||dtnpyvmqqvvgq.com^
 ||dtoo1.space^
+||dtothdgemano.xyz^
 ||dtprofit.com^
 ||dtqkuzuhzwklm.com^
 ||dtscout.com^
@@ -29139,6 +29153,7 @@ tf2r.com#@#.adverts
 ||f5080f5cee5a00.com^
 ||f5f84f4d83.com^
 ||f5v1x3kgv5.com^
+||f688add167.com^
 ||f6c456a438.com^
 ||f6d56854f2.com^
 ||f8260adbf8558d6.com^
@@ -29837,6 +29852,7 @@ tf2r.com#@#.adverts
 ||fxdepo.com^
 ||fxhpaoxqyajvmdg.com^
 ||fxjbosijndirva.xyz^
+||fxrbsadtui.com^
 ||fxtiumvhfucrkp.com^
 ||fxwseotmavbde.com^
 ||fyglovilo.pro^
@@ -30880,6 +30896,7 @@ tf2r.com#@#.adverts
 ||hicpm10.com^
 ||hicpm5.com^
 ||hicuojdauo.com^
+||hiddam.com^
 ||hiddell.com^
 ||hiddenbucks.com^
 ||hiddenseet.com^
@@ -32205,6 +32222,7 @@ tf2r.com#@#.adverts
 ||kamnebo.info^
 ||kamwrqpgagoc.xyz^
 ||kanasmeedful.com^
+||kangaroocame.com^
 ||kangaroohiccups.com^
 ||kankingwith.com^
 ||kanoodle.com^
@@ -34359,6 +34377,7 @@ tf2r.com#@#.adverts
 ||newsunads.com^
 ||newtdslink.ru^
 ||newthuads.com^
+||nextdark.pro^
 ||nextgencounter.com^
 ||nextpsh.top^
 ||neyhdjwpumivpa.com^
@@ -34800,6 +34819,7 @@ tf2r.com#@#.adverts
 ||occume.com^
 ||occupyskinnymaggot.com^
 ||occursexpertloving.com^
+||occurt.com^
 ||occuse.com^
 ||occustantwidity.com^
 ||oceanidembain.com^
@@ -37411,6 +37431,7 @@ tf2r.com#@#.adverts
 ||richwebmedia.com^
 ||ricinusdagomba.com^
 ||rickerrotal.com^
+||riddenyapocks.com^
 ||riderfabric.com^
 ||ridexasperateunstable.com^
 ||ridiculousatta.xyz^
@@ -37471,6 +37492,7 @@ tf2r.com#@#.adverts
 ||rivulussati.com^
 ||rixaka.com^
 ||riycecerfpjreyx.xyz^
+||rjduwnkfxuumg.com^
 ||rjhbcghmln.com^
 ||rjoawidlneitc.com^
 ||rjstusbx.com^
@@ -39856,6 +39878,7 @@ tf2r.com#@#.adverts
 ||torgochthroat.com^
 ||torigh.com^
 ||torioluor.com^
+||tornbed.pro^
 ||toroidscentry.com^
 ||tororango.com^
 ||torpsol.com^
@@ -42245,6 +42268,7 @@ tf2r.com#@#.adverts
 ||ywguxlwjbxnj.com^
 ||ywodpsbzl.com^
 ||ywxigvzbkqg.com^
+||yxajqsrsij.com^
 ||yxcubjqi.com^
 ||yxhkonfmbe.com^
 ||yxkhpk.com^
@@ -44596,6 +44620,7 @@ tf2r.com#@#.adverts
 ||clupc.com^$popup
 ||cmllk2.info^$popup
 ||cmpgns.net^$popup
+||cms100.xyz^$popup
 ||cngcpy.com^$popup
 ||coalbagbices.website^$popup
 ||coarsewary.com^$popup
@@ -50233,6 +50258,7 @@ animehub.ac###main-content > center
 w3big.com,w3schools.com###mainLeaderboard
 themeforest.net###market-banner
 dispatchtribunal.com,thelincolnianonline.com###mb-bar
+koreaherald.com###mbpAd022303
 active.com###med_rec_bottom
 active.com###med_rec_top
 wakingtimes.com###media_image-2
@@ -51315,6 +51341,7 @@ googlesightseeing.com##.comm-square
 insider.com##.commerce-coupons-module
 goal.com,thisislondon.co.uk##.commercial
 telegraph.co.uk##.commercial-unit
+hunker.com##.component-article-section-jwplayer-wrapper
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 cointelegraph.com##.componentAdbutler_UHZMO
@@ -54985,7 +55012,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||google.com/adsense/$subdocument,domain=sedo.co.uk|sedo.com|sedo.jp|sedo.kr|sedo.pl
 @@||google.com/images/integrations/$image,~third-party
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
-@@||googletagservices.com/tag/js/gpt.js$domain=chelseafc.com|epaper.timesgroup.com|k2radio.com|koel.com|kowb1290.com|nbcsports.com|scotsman.com|uefa.com|vimeo.com|windalert.com
+@@||googletagservices.com/tag/js/gpt.js$domain=chegg.com|chelseafc.com|epaper.timesgroup.com|k2radio.com|koel.com|kowb1290.com|nbcsports.com|scotsman.com|uefa.com|vimeo.com|windalert.com
 @@||gpt-worldwide.com/js/gpt.js$~third-party
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||gstatic.com/ads/external/images/$image,domain=support.google.com
@@ -56296,6 +56323,7 @@ ubmcmm.baidustatic.com
 ||ssh.*.com^*!$script,third-party
 !------------------------General element hiding rules-------------------------!
 ###Ad_windows
+##.myui-extra + .noticetext
 ###ChapterView > .slide-baidu
 ###Layeraa1
 ###Layeraa2
@@ -56785,6 +56813,7 @@ ubmcmm.baidustatic.com
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.orbui-post
+##.trad3
 ##.overBanner.dowloadBtn
 ##.pagead_3
 ##.pagecon + .ad1
@@ -59572,6 +59601,8 @@ ubmcmm.baidustatic.com
 ||eysgrje.cn^
 ||oqshoyd.cn^
 ||jieshareme.xyz^
+||vrmgwvz.cn^
+||ognlaigk.fun^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
