@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T5XxJ1Q/3jVYpDztyrPDvg
+! Checksum: d7QFq5Qc38/BihRy1aj7uw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211031425
-! Last Modified: 2022年11月03日 14:25
+! Version: 202211032039
+! Last Modified: 2022年11月03日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -20906,6 +20906,7 @@ _800x80_
 ##.tf_page_ad_search
 ##.tgads-box
 ##.th-ad
+##.thb_ad_before_header
 ##.thb_ad_header
 ##.theAdvert
 ##.theads
@@ -55590,7 +55591,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk|independentespanol.com
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
-@@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=quotidiano.net
 @@||ads1.atpclick.com/atpClick.aspx?$image,script,domain=jobnet.co.il|jobs-israel.com
 @@||adsafeprotected.com/iasPET.$script,domain=reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
@@ -60330,6 +60330,17 @@ ubmcmm.baidustatic.com
 ||ezxws.cyou^
 ||xcvhy.xyz^
 ||fafa1688.xyz^
+||rawgsjd.cn^
+||mingtians.top^
+||kuaile789.ink^
+||qstzar.cn^
+||rsnignsz.xyz^
+||qnieo.fun^
+||simi456.me^
+||simi567.me^
+||smtwm61.com^
+||lgnlaigl.fun^
+||vciddepi.cyou^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -71049,6 +71060,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+423down.com##.content > div[style="text-align: left;"]
 cnbeta.com.tw##.cbv:not(#cb_share)
 cnbeta.com.tw##.tks
 cnbeta.com.tw##A[href*=".ctyun."]
@@ -71490,8 +71502,6 @@ makaidong.com###cyWallsplugin
 eworldship.com###d1
 eworldship.com###d2
 cool18.com###d_right_ad
-423down.com###d_theme-2
-423down.com###d_theme-3
 1010jiajiao.com###daan_recommend + .xiti
 storm.mg###dablewidget_KoEeAWoB
 hao.360.cn###daily-hotword
@@ -72310,8 +72320,7 @@ loldk.com###test_ad + #model
 zhujiceping.com###text-12
 ilvruan.com###text-13
 ilvruan.com###text-14
-423down.com###text-2
-423down.com,tumutanzi.com###text-3
+tumutanzi.com###text-3
 vjmedia.com.hk###text-33
 stoneip.info###text-57
 sea-group.org###text-7
@@ -75539,7 +75548,7 @@ nfxhd.com##a[href*=".fa510.com"]
 zhibo8.cc##a[href*=".ftxgame.com"]
 cnblogs.com##a[href*=".gridsumdissector.com/"]
 acglala.me##a[href*=".h-ero.games"]
-423down.com,ctfile.com##a[href*=".henghost.com"]
+ctfile.com##a[href*=".henghost.com"]
 hanjutv2020.com##a[href*=".hujiang.com"]
 comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com##a[href*=".jd.com"]
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
