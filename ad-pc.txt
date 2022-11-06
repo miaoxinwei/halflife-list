@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4wl1YGseRnm96zBtjpF2kg
+! Checksum: UT9wNFw2x0kktB6wPurw+w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211062033
-! Last Modified: 2022年11月06日 20:33
+! Version: 202211070222
+! Last Modified: 2022年11月07日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32096,8 +32096,8 @@ tf2r.com#@#.adverts
 ||hecticpassenger.com^
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
-||hedmisrepu.com^
 ||hedmisrepu.co^
+||hedmisrepu.com^
 ||hedrvszms.com^
 ||heebauch.com^
 ||heedenglish.com^
@@ -32323,8 +32323,8 @@ tf2r.com#@#.adverts
 ||holiestcoseys.com^
 ||holitt.com^
 ||hollekeamboina.com^
-||hollercatastrophe.com^
 ||hollercatastrophe.co^
+||hollercatastrophe.com^
 ||hollerscanelos.com^
 ||holptimawa.com^
 ||holydelicatessen.com^
@@ -36946,8 +36946,8 @@ tf2r.com#@#.adverts
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajikrqhbqth.xyz^
-||palama2.com^
 ||palama2.co^
+||palama2.com^
 ||palasidesdoor.com^
 ||paletteadulatory.com^
 ||palibs.tech^
@@ -40831,8 +40831,8 @@ tf2r.com#@#.adverts
 ||surv2you.net^
 ||surv2you.org^
 ||surveillancelandmorgue.com^
-||survey2you.com^
 ||survey2you.co^
+||survey2you.com^
 ||survey2you.net^
 ||survey2you.org^
 ||survey4you.co^
@@ -45074,6 +45074,7 @@ tf2r.com#@#.adverts
 ||googletrackmanager.com^$third-party
 ||goraps.com^$third-party
 ||gourmetads.com^$third-party
+||goutee.top^$third-party
 ||goverua.com^$third-party
 ||goviral-content.com^$third-party
 ||gpsecureads.com^$third-party
@@ -61494,6 +61495,9 @@ ubmcmm.baidustatic.com
 ||dahounian.top^
 ||72agg.com^
 ##a[href$="/77adc.com"]
+||caxxetj.cn^
+||jzngisya.xyz^
+||iyurw.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -91096,7 +91100,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||galaxiemedia.fr^$third-party
 ||geocompteur.com^$third-party
 ||geovisite.ovh^$third-party
-||goutee.top^$third-party
 ||graphinsider.com^$third-party
 ||hunkal.com^$third-party
 ||ivitrack.com^$third-party

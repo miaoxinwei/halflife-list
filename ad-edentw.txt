@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yn1eqmXgrgjHFcgDEf8ziA
+! Checksum: goLK+3emGtKRLqqTtZ6OoA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202211050223
-! Last Modified: 2022年11月05日 02:23
+! Version: 202211070222
+! Last Modified: 2022年11月07日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -44,6 +44,7 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ! General block
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
+/adsmatcher-anti-adblock/*
 ! General hide
 ##.ad-blocker-warning
 ##.main_adbalert
@@ -179,6 +180,7 @@ spanishdict.com##.whitelist
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 pkmods.com##body > div[style*="z-index"][style*="background"]
 leechyscripts.com##div[class^="chp_ads_block_modal"]
+freelogovectors.net##div[class^="popup"]
 financerites.com##div[id^="__vliadb"]
 strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
 nexusmods.com##div[style="float: left; width: 728px; height: 90px; background: #313131;"]
@@ -567,7 +569,6 @@ goha.ru#@#.goha_ads
 goha.ru#@#.goha_ads_acceptable
 the-village.com.ua##.infoA
 dropmefiles.com.ua,dropmefiles.net##.intro
-themoviebay.ru##.is-danger.notification
 winzoro.net##.isadNotif
 ivi.ru##.ivi-footer ~ div[class] > style + div[class]
 doctorrouter.ru##.jgcabd-container
