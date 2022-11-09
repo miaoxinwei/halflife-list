@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W+i9g61JKhEL7RXB495Hqw
+! Checksum: CUTUzaiDbxr8Ut442U6THg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211091430
-! Last Modified: 2022年11月09日 14:30
+! Version: 202211092042
+! Last Modified: 2022年11月09日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3383,6 +3383,7 @@ tieba.baidu.com##.tuijian-wrap
 /leftad.
 /leftad_
 /leftads.
+/legion-advertising-atlasastro/*
 /lg.php?adid=
 /lib/ad.js
 /lijit-ad-
@@ -52144,6 +52145,7 @@ techraptor.net,unite-db.com###nn_lb1
 techraptor.net,unite-db.com###nn_lb2
 techraptor.net###nn_lb3
 techraptor.net###nn_lb4
+tftactics.gg###nn_player
 boxingstreams.cc,crackstreams.gg,cricketstreams.cc,footybite.cc,formula1stream.cc,mlbshow.com,nbabite.com###nordd
 forums.somethingawful.com###notregistered
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
@@ -54846,6 +54848,7 @@ theregister.com##.wptl
 windowsreport.com##.wr-marketing-cta-alt
 memeburn.com,ventureburn.com##.wrapper--grey
 paultan.org##.wrapper-footer
+tftactics.gg##.wrapper-lb1
 webtoolhub.com##.wth_zad_text
 mcpmag.com##.xContent
 drivehub.in,indidrive.in,metamoviez.xyz##.xc449bad4854773ff
@@ -59160,6 +59163,8 @@ ubmcmm.baidustatic.com
 ||516624.com^
 ||i46.xyz^
 ||renxingganwu.com^
+||51fa.shop^
+||iftjwuu.cn^
 .8ox.cn
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -71622,6 +71627,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+imgse.com##.ad-banner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
