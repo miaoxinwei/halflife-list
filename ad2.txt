@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: G8r3OpE3KjhDy43c8HbmmA
+! Checksum: 1eWWQpm1QeYX83ZAbhn/TQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211092042
-! Last Modified: 2022年11月09日 20:42
+! Version: 202211100223
+! Last Modified: 2022年11月10日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1884,6 +1884,7 @@ ubmcmm.baidustatic.com
 ||renxingganwu.com^
 ||51fa.shop^
 ||iftjwuu.cn^
+||picnewsss.com^
 .8ox.cn
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -14346,6 +14347,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
 imgse.com##.ad-banner
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -21662,7 +21664,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||xinju.cc^
 ||xitongku.cc^
 ||xne1ocient87zxz.360doc.cn^
-||xsfaya.com^$third-party
+||bchina-1.xsfaya.com^
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
