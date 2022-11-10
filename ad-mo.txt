@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +UhTsOeU2BdwuVjFXZf48Q
+! Checksum: SluwJqsojjHFeBFwW4IhvQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211100223
-! Last Modified: 2022年11月10日 02:23
+! Version: 202211100947
+! Last Modified: 2022年11月10日 09:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -5368,6 +5368,7 @@ _800x80_
 ###AdServer_Banner_8
 ###AdServer_Banner_9
 ###AdSkyscraper
+###AdSlot_megabanner
 ###AdSpaceLeaderboard
 ###AdTop
 ###AdTopLeader
@@ -16692,6 +16693,7 @@ _800x80_
 ##.dfp-block
 ##.dfp-bottom
 ##.dfp-button
+##.dfp-close-ad
 ##.dfp-double-mpu
 ##.dfp-dynamic-tag
 ##.dfp-fixedbar
@@ -43556,6 +43558,7 @@ tf2r.com#@#.adverts
 ||xmsflzmygw.com^
 ||xmvusqpp.com^
 ||xmykvlmvbghko.com^
+||xn--r1a.website^
 ||xndcnnkygvd.com^
 ||xnnfchykwvgjmoh.com^
 ||xoalt.com^
@@ -53971,6 +53974,7 @@ nhentai.com##.pb-0.w-100[style]
 wweek.com##.pb-f-phanzu-phanzu-ad-code
 washingtonpost.com##.pb-lgmod
 playbuzz.com##.pb-site-player
+washingtonpost.com##.pb-sm.pt-sm.b
 caixinglobal.com##.pc-ad-left01
 thegatewaypundit.com,westernjournal.com,wnd.com##.persistent-footer
 apkmb.com##.personalizadas
@@ -54815,7 +54819,7 @@ complaintsingapore.com##[href*="/adv.php"]
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href*="@"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,carmag.co.za,cnx-software.com,coingolive.com,cryptoslate.com,digitallydownloaded.net,dotesports.com,downturk.net,forum.ragezone.com,fresherslive.com,gizmochina.com,glodls.to,guidedhacking.com,hackernoon.com,hlstester.com,indishare.org,katfile.com,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,myreadingmanga.info,newsfirst.lk,nexter.org,owaahh.com,parkablogs.com,pastemytxt.com,premiumtimesng.com,resultuniraj.co.in,retail.org.nz,rtvonline.com,thinknews.com.ng,timesuganda.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,wccftech.com,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
-beforeitsnews.com,bigleaguepolitics.com,in5d.com,thetruedefender.com##[href*="hop.clickbank.net"]
+beforeitsnews.com,bigleaguepolitics.com,in5d.com,mytruthnews.com,thetruedefender.com##[href*="hop.clickbank.net"]
 steroid.com##[href*="https://www.anabolics.com"]
 yesflicks.com##[href="/location/amazon"]
 2pass.co.uk##[href="bicycle-insurance.htm"]
@@ -59042,23 +59046,29 @@ ubmcmm.baidustatic.com
 /\.zdx[0-9]{1,2}\.site:/$script,third-party
 ||23.234.217.11^
 ||23.234.217.12^
+||516624.com^
+||51fa.shop^
 ||678tktp.com^
 ||897263tqs.com^
 ||dinyqgv.cn^
-||riqnhxq.cn^
-||ygcn.ltd^
-||sqnggnsb.fun^
-||gfxjjpo.cn^
-||eqyzc.cyou^
-||kcmomkn.cn^
 ||dsfhr.xyz^
-||u09.xyz^
-||516624.com^
+||eqyzc.cyou^
+||gfxjjpo.cn^
 ||i46.xyz^
-||renxingganwu.com^
-||51fa.shop^
 ||iftjwuu.cn^
+||kcmomkn.cn^
 ||picnewsss.com^
+||renxingganwu.com^
+||riqnhxq.cn^
+||sqnggnsb.fun^
+||u09.xyz^
+||ygcn.ltd^
+||lpaysfr.cn^
+||eqnggnsw.fun^
+||xpdjsd.cn^
+||hjgrc.xyz^
+||kzngisyd.xyz^
+||qq2ux.top^
 .8ox.cn
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -71521,8 +71531,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
-imgse.com##.ad-banner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -73137,6 +73145,7 @@ ihome99.com##.ad-980x60
 19lou.com,ihome99.com##.ad-980x90
 mobile01.com##.ad-adblock
 feng.com##.ad-aside
+imgse.com##.ad-banner
 baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
 html-js.com##.ad-blank
@@ -76331,6 +76340,7 @@ cnbeta.com#?#.item:-abp-has(> dl > dt > a[href*=".greatroma.com"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href^="http://click.aliyun.com/"])
 cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:not([href*="cnbeta."]))
 copyfuture.com#?#.tabbable > div:-abp-contains(宝红)
+cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
 6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
 steamcn.com##div > a[href*=".taobao.com"]
 bitauto.com##div > ins[data-type="ad_play"]
@@ -78259,6 +78269,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||baidujs.cnys.com^
 ||baj.fanwenzhan.com^
 ||bas.boshi.tv^
+||bchina-1.xsfaya.com^
 ||bd*-ys.km.com^
 ||bd-js1.2345.com^
 ||bd-s.baixing.net^
@@ -78838,7 +78849,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||xinju.cc^
 ||xitongku.cc^
 ||xne1ocient87zxz.360doc.cn^
-||bchina-1.xsfaya.com^
 ||xue.zbyw.cn^
 ||xuexi.hydcd.com^
 ||y.photoint.net^
@@ -109276,7 +109286,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
-@@||api.ipify.org^$script,domain=right-on.co.jp
+@@||api.ipify.org^$script,domain=medexpress.com|right-on.co.jp
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky|urbanswan.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
