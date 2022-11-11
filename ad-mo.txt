@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l8CF6oUn1ZqmXvpgO0zmuA
+! Checksum: TiVmfECn2bOZZpcYd6uqmA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211110223
-! Last Modified: 2022年11月11日 02:23
+! Version: 202211110946
+! Last Modified: 2022年11月11日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -4385,7 +4385,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 ?category=ad&
 ?phpAds_
 ?service=ad&
-?type=ad&
 ?view=ad&
 ?wm=*&prm=rev&
 ?wppaszoneid=
@@ -15367,6 +15366,7 @@ _800x80_
 ##.anchorAd
 ##.anchored-ad-widget
 ##.annonstext
+##.another-ad
 ##.anyad
 ##.anzeige_banner
 ##.ap-ad-block
@@ -16351,6 +16351,7 @@ _800x80_
 ##.cntAd
 ##.cnt_ad
 ##.coinzilla-ad
+##.coinzilla-ad--mobile
 ##.col-ad
 ##.col-ad-hidden
 ##.col-has-ad
@@ -19619,6 +19620,7 @@ _800x80_
 ##.remads
 ##.remnant_ad
 ##.remove-ads
+##.remove-ads-link
 ##.removeAdsLink
 ##.reportAdLink
 ##.res_ad
@@ -51566,6 +51568,7 @@ search.snapdo.com###AfloatingD
 weegy.com###BannerDiv
 citynews.ca###Bigbox_300x250
 calculatorsoup.com###Bottom
+coincheckup.com,coincodex.com###CCx5StickyBottom
 chicagoprowrestling.com###Chicagoprowrestling_com_Top
 gayemagazine.com###Containera2sdv > div > div > div[id^="comp-"]
 webmd.com###ContentPane40
@@ -51634,6 +51637,7 @@ moomoo.io###adCard
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
 adtunes.com,all-nettools.com,britsabroad.com,kiwibiker.co.nz,printroot.com###ad_global_below_navbar
+coinarbitragebot.com###adathm
 4qrcode.com###addContainer
 onworks.net###adonworksbot
 192-168-1-1-ip.co,receivesms.co###adresp
@@ -51758,6 +51762,7 @@ smbc-comics.com###boardleader
 priceonomics.com###book-island
 playasolibizaradio.fm###booking_mask
 forum.wordreference.com###botSupp
+coinarbitragebot.com###botfix
 cheese.com,fflogs.com,investorplace.com,warcraftlogs.com###bottom-banner
 000webhost.com###bottom-banner-with-counter-holder-desktop
 audioreview.com###bottom-leaderboard
@@ -52100,6 +52105,7 @@ mmorpg.com###mmorpg_desktop_list_2
 sportskeeda.com###mob3-cnx-container-bottom
 pocketgamer.com###mobile-background
 express.co.uk###mobile_floating_test
+coinarbitragebot.com###modal1
 anonymouse.org###mouselayer
 moviemistakes.com###moviemistakes_300x600_300x250_160x600_sidebar_2
 consobaby.co.uk,gumtree.com,pcgamingwiki.com,thefootballnetwork.net###mpu
@@ -52244,6 +52250,7 @@ wowway.net###sc_home_news_banner
 wowway.net###sc_home_recommended_banner
 wowway.net###sc_read_header_banner
 my.juno.com###scienceTile
+coinarbitragebot.com###screener
 money.yahoo.com###sda-MON
 pao.gr###section--sponsors
 neoseeker.com###section-pagetop
@@ -52593,6 +52600,7 @@ foreca.com##.a1sjxe3a
 informer.com##.a2
 supercheats.com##.a300
 wmtips.com##.a3f17
+crypto.news##.a92adbc5491
 localtiger.com##.a9gy_lt
 scoredle.com##.aHeader
 opensubtitles.org##.a_1.a.p
@@ -52928,6 +52936,7 @@ bhamnow.com##.bhamn-story
 distractify.com,radaronline.com##.biKvh
 viva.co.nz##.big-banner
 hotnewhiphop.com##.big-banner-placeholder-content
+cryptocompare.com##.big-info-section-wrapper-not-html
 cbc.ca##.bigBoxContainer
 newzit.com##.big_WcxYT
 gamemodding.com##.big_banner
@@ -53104,12 +53113,12 @@ androidweblog.com##.cgdyh > [data-adid]
 bigfooty.com##.chaching
 thefastmode.com##.channel_long
 thefastmode.com##.channel_small
+coincodex.com##.chart-pos.mobile-b
 kaotic.com##.chaturbate
 sevenforums.com##.chill
 stackoverflow.com##.clc-cp-lb
 news24online.com##.clearfix.db_shw_mb_blk
-coinspeaker.com##.clickout-banner-native_table_box
-bitcoinist.com##.clickout-banner-native_table_box-bottom
+bitcoinist.com,coinpaprika.com,coinspeaker.com##.clickout-banner-native_table_box-bottom
 businessinsider.in##.clmb_eoa
 kissanime.com.ru##.close_ad_button
 brmangas.com##.closebf
@@ -53123,7 +53132,7 @@ careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
 thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
-180gadgets.com,anoopcnair.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,simscommunity.info,thecinemaholic.com,twistedvoxel.com,welovetrump.com,zerohanger.com##.code-block
+180gadgets.com,anoopcnair.com,browserhow.com,charlieintel.com,chromeunboxed.com,crimereads.com,cryptoslate.com,eurweb.com,fandomwire.com,flickeringmyth.com,gameinfinitus.com,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,lithub.com,notalwaysright.com,quickanswer.blog,reneweconomy.com.au,rezence.com,rok.guide,simscommunity.info,thecinemaholic.com,twistedvoxel.com,walletinvestor.com,welovetrump.com,zerohanger.com##.code-block
 conservativebrief.com##.code-block > span
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
 trendingpolitics.com##.code-block-12
@@ -53266,6 +53275,7 @@ ehitavada.com##.custom-popup
 trancentral.tv##.custom_banners_big_link
 annistonstar.com##.custom_hot_deal_image
 total-croatia-news.com##.custombanner
+coincarp.com##.customspon
 jobhits.co.uk##.cvads
 futurecurrencyforecast.com##.cwc-tor-widget
 bleepingcomputer.com##.cz-toa-wrapp
@@ -53677,6 +53687,7 @@ nintendolife.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
+coincarp.com##.interact-mobileBox
 startpage.com##.internxt-promo
 allnurses.com##.ipsAreaBackground
 1tamilmv.click##.ipsCarousel
@@ -53840,6 +53851,7 @@ indiatimes.com##.mb-36 > .top-trending
 urbandictionary.com##.mb-4.justify-center
 themoscowtimes.com##.mb-4.py-3
 techbone.net##.mb-5.bg-light
+cryptocompare.com##.mb-hero
 yardbarker.com##.mb_promo_responsive_right
 helpnetsecurity.com##.mbw
 thestar.com.my##.med-rec
@@ -53966,6 +53978,8 @@ pcgamesn.com##.nn_mobile_mpu_wrapper
 trueachievements.com##.nn_player_w
 androidcentral.com,imore.com##.no-amazon
 publishedreporter.com##.no-bg-box-model
+coincodex.com##.no-transition.article-ogl
+marketbeat.com##.no-underline
 fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
 ferrarichat.com##.node_sponsor
 miniwebtool.com##.normalvideo
@@ -54035,6 +54049,7 @@ drupal.org##.pane-style-sponsor
 thebarentsobserver.com##.pane-title
 comedycentral.com.au##.pane-vimn-coda-gpt-panes
 tpblist.us##.panel-danger
+cryptocompare.com##.panel-sidebar
 panarmenian.net##.panner_2
 battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.parallax-breakout
 cd1025.com,myfigurecollection.net,prolificnotion.co.uk##.partner
@@ -54509,7 +54524,7 @@ libhunt.com##.sponsors-list-content
 hacksplaining.com##.sponsorship-message
 newswiretoday.com,przoom.com##.sponsortd
 timesofindia.indiatimes.com##.sports_ad_wrapper
-alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,phonearena.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
+alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,coincost.net,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,phonearena.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
 phonearena.com##.spot-sticky-container
 freepik.com##.spr-plc
 libhunt.com##.sprd
@@ -54742,6 +54757,7 @@ vigilantcitizen.com##.vigil-leaderboard-article
 vigilantcitizen.com##.vigil-leaderboard-home
 variety.com##.vip-banner
 pokernews.com##.virgutis
+coincheckup.com##.visible-xs > .ng-isolate-scope
 visualcapitalist.com##.visua-target
 roosterteeth.com##.vjs-marker
 ginx.tv,op.gg##.vm-placement
@@ -56872,7 +56888,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|realmadrid.com|rte.ie|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|watch.nba.com|worldsurfleague.com|wsj.com|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|delish.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|realmadrid.com|rte.ie|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|watch.nba.com|worldsurfleague.com|wsj.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|sbs.com.au|worldsurfleague.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|insideedition.com|pch.com
 @@||img-cdn.mediaplex.com^$image,domain=betfair.com
@@ -59169,6 +59185,13 @@ ubmcmm.baidustatic.com
 ||xpdjsd.cn^
 ||ygcn.ltd^
 ||z66ggsh.top^
+||wqnggnse.fun^
+||pothouse.cn^
+||aiedwhb.cn^
+||fypcy.cyou^
+||ceu5.icu^
+||ouyhh.xyz^
+||jiedu.fun^
 .8ox.cn
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -94738,6 +94761,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.vivatube.com^
 ||codecademy.com/analytics/
 ||codecguide.com/stats.js
+||coincheckup.com/report_ga_events/
 ||collect.alipay.com^
 ||collect.asics.com^
 ||collect.banggood.com^
