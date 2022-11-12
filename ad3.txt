@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UfxqbduMPY7MEAd3fjCUcA
+! Checksum: 0xL3UanXwvfeEnlJx82dmA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211121422
-! Last Modified: 2022年11月12日 14:22
+! Version: 202211122032
+! Last Modified: 2022年11月12日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1676,6 +1676,11 @@ ubmcmm.baidustatic.com
 ||xinzhanggui.wang^
 ||wzngisye.xyz^
 ||qmpkoiv.cn^
+||shuaige20221105.xyz^
+||nisihu.com.cn^
+||lzwdq.xyz^
+||t34kk9.top^
+||j721s.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -23479,7 +23484,9 @@ _box_ad_
 ||yaozh.com/Public/js/widget/dbAdDownload.
 ||kandaju.net/js/js2.
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
+||3dmgame.com/page/js/indexalert_ad.
 !------------------------Specific element hiding rules------------------------!
+3dmgame.com##.dj_warp_e
 a9vg.com###guide-download
 bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."]
 bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."] + .bili-video-card__info
@@ -33667,6 +33674,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||foxpush.com^$third-party
 ||foxpush.net^$third-party
 ||getback.ch^$third-party
+||getnotix.co^$third-party
 ||getpush.net^$third-party
 ||getpushmonkey.com^$third-party
 ||gravitec.net^$third-party
@@ -33684,6 +33692,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nativesubscribe.pro^$third-party
 ||notifadz.com^$third-party
 ||notify.solutions^$third-party
+||notiks.io^$third-party
+||notiksio.com^$third-party
 ||notix.io^$third-party
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
@@ -39786,7 +39796,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consent.ghostery.com/v1.js
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
-||contents2.00110.citi.com^
+||content22.citi.eu^$script
+||content22.online.citi.com^$script
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
