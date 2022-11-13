@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 04Oke1fV9oxKB2a7Au/UVg
+! Checksum: JK3psSrVaZH6H8IvhgYuRQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211130941
-! Last Modified: 2022年11月13日 09:41
+! Version: 202211131422
+! Last Modified: 2022年11月13日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1691,6 +1691,9 @@ ubmcmm.baidustatic.com
 ||zdy1.xyz^
 ||fvtrx.cyou^
 ||venulaevavs.com^
+||sjjk.ltd^
+||usbkngf.cn^
+||qzngisyy.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -40616,6 +40619,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||taiwanplus.com/api/video/startVideo
 ||target.nationwide.com^
 ||target.nejm.org^
+||targetimg1.com/ssx/ssx.mod.js$script,domain=target.com
 ||targeting.washpost.nile.works^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
@@ -40638,6 +40642,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tiendeo.*/_statsapi/
 ||tiktok.com/captcha/report
 ||tiktok.com/v1/list
+||tiktok.com/web/report?
 ||tiktok.com/whale/
 ||tiktokv.com/monitor_browser/
 ||tilanalytics.timesinternet.in^
