@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3GuQHu8t5wwB/4Cz91s50Q
+! Checksum: 9GdI76IA3zVZcrvW3DAXmQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211161422
-! Last Modified: 2022年11月16日 14:22
+! Version: 202211162035
+! Last Modified: 2022年11月16日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59171,6 +59171,7 @@ ubmcmm.baidustatic.com
 ||ljrot.icu^
 ||ozngisyk.xyz^
 ||pinkboy.fun^
+||nhtieoo.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -67983,7 +67984,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||99youmeng.com/pc/js/g_top_ban.js
 ||99youmeng.com/pc/js/global_latest.js
 ||99zuowen.com^*/gg.js
-||9c9t.cn/public/*/plugins/
+||1vkx.cn/public/*/plugins/
 ||9duw.com/js/sj
 ||9duw.com/pic/
 ||9ez.me/embd.php?type=
@@ -71839,6 +71840,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||vkandian.cn/footjs/
+||vkandian.cn/peitu/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -77412,6 +77415,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.jss
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -95458,7 +95462,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||overstock.com/analytics/
 ||overstock.com/dlp?
 ||p.ctpost.com/article?
-||p.sfx.ms^
+||p.sfx.ms/is/invis.gif
 ||pac.thesun.co.uk^
 ||pagesix.com/blaize/datalayer
 ||pappagallu.onefootball.com^
