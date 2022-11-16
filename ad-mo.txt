@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vvJZ7P58pPx+NKrZZ3fFsQ
+! Checksum: LNx2iPvMM0qmlNWUSkZ+MQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211160222
-! Last Modified: 2022年11月16日 02:22
+! Version: 202211160941
+! Last Modified: 2022年11月16日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32108,8 +32108,8 @@ tf2r.com#@#.adverts
 ||hecticprofitable.com^
 ||hedgehoghugsyou.com^
 ||hedgehogpoachsay.com^
-||hedmisrepu.com^
 ||hedmisrepu.co^
+||hedmisrepu.com^
 ||hedrvszms.com^
 ||heebauch.com^
 ||heedenglish.com^
@@ -32336,8 +32336,8 @@ tf2r.com#@#.adverts
 ||holiestcoseys.com^
 ||holitt.com^
 ||hollekeamboina.com^
-||hollercatastrophe.com^
 ||hollercatastrophe.co^
+||hollercatastrophe.com^
 ||hollerscanelos.com^
 ||holptimawa.com^
 ||holydelicatessen.com^
@@ -36998,8 +36998,8 @@ tf2r.com#@#.adverts
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajikrqhbqth.xyz^
-||palama2.com^
 ||palama2.co^
+||palama2.com^
 ||palasidesdoor.com^
 ||paletteadulatory.com^
 ||palibs.tech^
@@ -38444,7 +38444,6 @@ tf2r.com#@#.adverts
 ||qstukqmsddqgs.com^
 ||qtbb6.com^
 ||qthynj2.com^
-||qt.upwithpansit.com^
 ||qtvbgetlfxnw.com^
 ||qtzvsufbkpxin.com^
 ||quackdamaging.com^
@@ -40915,8 +40914,8 @@ tf2r.com#@#.adverts
 ||surv2you.net^
 ||surv2you.org^
 ||surveillancelandmorgue.com^
-||survey2you.com^
 ||survey2you.co^
+||survey2you.com^
 ||survey2you.net^
 ||survey2you.org^
 ||survey4you.co^
@@ -42382,6 +42381,7 @@ tf2r.com#@#.adverts
 ||upush.co^
 ||upwate.com^
 ||upwelf.com^
+||upwithpansit.com^
 ||uqbeohoajdqvcfe.xyz^
 ||uqimgeulpygyo.com^
 ||uqsgsfhd.com^
@@ -55243,9 +55243,9 @@ amsterdamnews.com,sundayworld.co.za,universityaffairs.ca##a[href*="/sponsored-co
 biznews.com,burnabynow.com,businessdailyafrica.com,coastreporter.net,financialexpress.com,irishtimes.com,komonews.com,newwestrecord.ca,nsnews.com,prpeak.com,richmond-news.com,seattletimes.com,spokesman.com##a[href*="/sponsored/"]
 isaidubb.net,orutamil.com##a[href*="/ucdownloader.php?"]
 isaidubb.net,orutamil.com##a[href*="/ucmini.php?"]
-uploadrar.com##a[href*="?"][target="_blank"]
 distrowatch.com##a[href*="3cx.com"]
 97rock.com,wedg.com##a[href*="716jobfair.com"]
+uploadrar.com##a[href*="?"][target="_blank"]
 filefleck.com,sadeempc.com,upload4earn.org##a[href*="javascript:"]
 twitter.com##a[href*="src=promoted_trend_click"]
 twitter.com##a[href*="src=promoted_trend_click"] + div
@@ -55968,6 +55968,7 @@ tripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
 outlook.live.com#?#div:-abp-has(> div > div.fbAdLink)
 mylivewallpapers.com#?#.posts > div.posts:-abp-has(.adsbygoogle)
 bbc.com#?##sticky-mpu:-abp-has(.dotcom-ad-inner)
+bbc.com#?#li[class*="-ListItem"]:-abp-has(div.dotcom-ad)
 cults3d.com#?#div.grid-cell:-abp-contains(/AD •/i)
 doordash.com#?#[data-testid="card.store"] > div:-abp-has(div[data-anchor-id="SponsoredBadge"])
 bleepingcomputer.com#?##bc-home-news-main-wrap > li:-abp-contains(Sponsored Content)
@@ -59160,6 +59161,11 @@ ubmcmm.baidustatic.com
 ||z66ggsh.top^
 ||zdy1.xyz^
 ||zw2b9.cn^
+||gkofzfi.cn^
+||oqnggnsk.fun^
+||jpai.xyz^
+||itheq.xyz^
+||gpsncbo.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -90263,6 +90269,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tastelesstrucks.com^
 ||tawdryson.com^$third-party
 ||tdzvm.pw^
+||tediousticket.com^
 ||tedioustooth.com^
 ||teenytinycellar.com^$third-party
 ||teenytinyshirt.com^
@@ -109875,6 +109882,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
 @@||maxmind.com^*/geoip2.js$domain=boostedboards.com|donorschoose.org|driftinnovation.com|elgato.com|fallout4.com|filld.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
 @@||mclo.gs/js/logview.js$~third-party
+@@||metrics.bangbros.com/tk.js$~third-party
 @@||metrics.torproject.org^$~third-party
 @@||mlbstatic.com/mlb.com/adobe-analytics/$script,domain=mlb.com
 @@||moengage.com/v2/$xmlhttprequest,domain=olx.com.lb
