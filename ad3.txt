@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fhPE4b/lT+qOGwrcqSKllg
+! Checksum: IiWzpL4LQy4/Yf1iTcmQhg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211170221
-! Last Modified: 2022年11月17日 02:21
+! Version: 202211170939
+! Last Modified: 2022年11月17日 09:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1741,6 +1741,11 @@ ubmcmm.baidustatic.com
 ||z66ggsh.top^
 ||zdy1.xyz^
 ||zw2b9.cn^
+||lqnggnsl.fun^
+||lrkporm.cn^
+||pthezjl.cn^
+||kyzx.xyz^
+||itjew.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -30809,6 +30814,7 @@ _mongo_stats/
 ||czx5eyk0exbhwp43ya.biz^
 ||datatechonert.com^
 ||demdex.net^
+||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
 ||dlxpix.net^
@@ -40936,6 +40942,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||olacontent.schwab.com^$script
 ||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
+||tmetrix.my.chick-fil-a.com^
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
 ||wup-content23.bmoharris.com^

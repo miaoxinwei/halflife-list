@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LBJvLnYi0r9ww4giObsP7w
+! Checksum: 1NPrQsFz4B4ClC+BKTinew
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211170221
-! Last Modified: 2022年11月17日 02:21
+! Version: 202211170939
+! Last Modified: 2022年11月17日 09:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5403,6 +5403,7 @@ _800x80_
 /pop.go?ctrlid=$popup
 /popout.$popup
 /popunder.$popup
+/popunder/in/click/*$popup
 /popunder_$popup
 /popupads.$popup
 /prod/go.html?$popup
@@ -21849,6 +21850,7 @@ _800x80_
 ##a[href^="https://dfsdkkka.com/"]
 ##a[href^="https://dialling-abutory.com/"]
 ##a[href^="https://dianches-inchor.com/"]
+##a[href^="https://dishphysics.com/"]
 ##a[href^="https://dooloust.net/"]
 ##a[href^="https://earandmarketing.com/"]
 ##a[href^="https://engine.blueistheneworanges.com/"]
@@ -23725,6 +23727,7 @@ tf2r.com#@#.adverts
 ||adbuyer.com^
 ||adbxixxrqyrh.com^
 ||adcade.com^
+||adcannyxml.com^
 ||adcastplus.net^
 ||adcde.com^
 ||adcdnx.com^
@@ -23826,6 +23829,7 @@ tf2r.com#@#.adverts
 ||adjustedminglecamouflage.com^
 ||adjustmentmonarch.com^
 ||adjustmentstraightenstartle.com^
+||adjux.com^
 ||adkaora.space^
 ||adktosrtbyj.com^
 ||adl-hunter.com^
@@ -23839,6 +23843,7 @@ tf2r.com#@#.adverts
 ||admenhost.com^
 ||admez.com^
 ||admicro.vn^
+||admidainsight.com^
 ||administrationpreviewfoolproof.com^
 ||administratorclassy.com^
 ||admirableviolinniece.com^
@@ -25771,6 +25776,8 @@ tf2r.com#@#.adverts
 ||b-m.xyz^
 ||b014381c95cb.com^
 ||b05ac36841.com^
+||b094e3477d.com^
+||b0c9248dab.com^
 ||b0oie4xjeb4ite.com^
 ||b0omr3wn6u4b.com^
 ||b11stop.com^
@@ -26490,6 +26497,7 @@ tf2r.com#@#.adverts
 ||bidadx.com^
 ||bidbadlyarsonist.com^
 ||bidder.dev^
+||bidderads.com^
 ||biddingquarrel.com^
 ||biddyfungussaps.com^
 ||bidfkxafw.com^
@@ -28062,6 +28070,7 @@ tf2r.com#@#.adverts
 ||cmrdr.com^
 ||cms100.xyz^
 ||cmtrsrlyyiche.com^
+||cn-rtb.com^
 ||cncflpfw.com^
 ||cndeccsqtmjyh.com^
 ||cngcpy.com^
@@ -29103,6 +29112,7 @@ tf2r.com#@#.adverts
 ||detrimentaljigsaw.com^
 ||deturbcordies.com^
 ||deulderby.com^
+||deulspoorn.com^
 ||deuror.com^
 ||deuted.com^
 ||dev0.buzz^
@@ -29285,6 +29295,7 @@ tf2r.com#@#.adverts
 ||disguisesirrational.com^
 ||disgustedmanipulation.com^
 ||dishesha.net^
+||dishphysics.com^
 ||disillusioninventorsoften.com^
 ||disingenuoussuccessfulformal.com^
 ||disintegrateapprenticedistribute.com^
@@ -30114,6 +30125,7 @@ tf2r.com#@#.adverts
 ||enationmaleos.website^
 ||encasedandelionhauled.com^
 ||enccfrrxbhkkthk.xyz^
+||encesprincipl.one^
 ||enchantmenthopeless.com^
 ||encirclenorth.com^
 ||encloseddealing.com^
@@ -30487,10 +30499,12 @@ tf2r.com#@#.adverts
 ||f1a75ead16.com^
 ||f250b19813.com^
 ||f270d8d863.com^
+||f2bdeb5c8c.com^
 ||f329cba40e.com^
 ||f338113ad0.com^
 ||f3551539d6565853.com^
 ||f35bb81112.com^
+||f37d6b16c3.com^
 ||f3f1317bda.com^
 ||f3udfa7nfguhni.com^
 ||f451b7f622.com^
@@ -30567,6 +30581,7 @@ tf2r.com#@#.adverts
 ||falsemulticultural.com^
 ||falsifylilac.com^
 ||falsifythomas.com^
+||familiarkindlyshuffle.com^
 ||familyborn.com^
 ||familyliar.com^
 ||faminedealergirl.com^
@@ -33410,6 +33425,7 @@ tf2r.com#@#.adverts
 ||jeravagy.com^
 ||jerkindeducer.com^
 ||jerrcotch.com^
+||jerupt.com^
 ||jesaifie.com^
 ||jessieemys.com^
 ||jestbiases.com^
@@ -34469,6 +34485,7 @@ tf2r.com#@#.adverts
 ||linnechaya.com^
 ||linurk.com^
 ||liofypwnko.com^
+||lionelimburse.com^
 ||liongetme.com^
 ||lipemicgears.com^
 ||lipinstott.com^
@@ -34569,6 +34586,7 @@ tf2r.com#@#.adverts
 ||loctic.com^
 ||lodder6.biz^
 ||loddingtoto.one^
+||lodrug.com^
 ||loedtamanac.com^
 ||loeingroost.com^
 ||loftiernucule.com^
@@ -36333,6 +36351,7 @@ tf2r.com#@#.adverts
 ||nxtck.com^
 ||nxtpsh.top^
 ||nxuktkuoazvizd.com^
+||nxunnmhiieuibv.com^
 ||nxwipuoybxc.com^
 ||nxzmphowpnb.com^
 ||nyadmcncserve-05y06a.com^
@@ -36855,6 +36874,7 @@ tf2r.com#@#.adverts
 ||osspalkiaom.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||oswerebage.xyz^
 ||otbuzvqq8fm5.com^
 ||otcrcccgdt.xyz^
 ||otdsngganpsgru.com^
@@ -37572,6 +37592,7 @@ tf2r.com#@#.adverts
 ||pjjpp.com^
 ||pjwwvpcgbvbyyka.com^
 ||pjx1ky4xhwip.com^
+||pkajhaxf.com^
 ||pkfyelxxpbisf.com^
 ||pkgebysm.com^
 ||pkhhyool.com^
@@ -39204,6 +39225,7 @@ tf2r.com#@#.adverts
 ||riminghoggoofy.com^
 ||rimpirbtmxg.com^
 ||rimstipulatedeputy.com^
+||ringairs.xyz^
 ||ringexpressbeach.com^
 ||ringingmandyas.com^
 ||ringsnutdaze.com^
@@ -40796,6 +40818,7 @@ tf2r.com#@#.adverts
 ||stheneencave.com^
 ||sticixoju.com^
 ||stickertable.com^
+||stickervillain.com^
 ||stickssurelyhomesick.com^
 ||sticksurroundingsconstitutional.com^
 ||stickyadstv.com^
@@ -41902,6 +41925,7 @@ tf2r.com#@#.adverts
 ||triadmedianetwork.com^
 ||triariihurtled.com^
 ||tribalfusion.com^
+||tributeipseity.com^
 ||trickylongaffliction.com^
 ||tridentpercy.com^
 ||triedecu.com^
@@ -42257,6 +42281,7 @@ tf2r.com#@#.adverts
 ||ukhkcxmzesi.com^
 ||ukhongswrd.com^
 ||uknsyenerg.co^
+||ukqgrxlxvockj.xyz^
 ||ukrauw.com^
 ||ukrnment.one^
 ||ukulelead.com^
@@ -42599,6 +42624,7 @@ tf2r.com#@#.adverts
 ||uyooouxjcngyuvc.com^
 ||uytwvgrshiakd.xyz^
 ||uywpjhwagfj.com^
+||uyyksmmlipvcvj.com^
 ||uzcdnzta.com^
 ||uzehen.com^
 ||v00ske77693f.com^
@@ -46206,6 +46232,7 @@ tf2r.com#@#.adverts
 ||0redirb.com^$popup
 ||11x11.com^$popup
 ||123vidz.com^$popup
+||1firstofall1.com^$popup
 ||1free33style.com^$popup
 ||1freeefastadn1.com^$popup
 ||1o1camshow.com^$popup
@@ -46761,6 +46788,7 @@ tf2r.com#@#.adverts
 ||directrev.com^$popup
 ||directuklyecon.pics^$popup
 ||disappearingassurance.com^$popup
+||dishphysics.com^$popup
 ||disreputablegenuinelyhonorary.com^$popup
 ||distantnews.com^$popup
 ||distractcomeback.com^$popup
@@ -47362,6 +47390,7 @@ tf2r.com#@#.adverts
 ||memberprizes.com^$popup
 ||menepe.com^$popup
 ||merterpazar.com^$popup
+||messagereceiver.com^$popup
 ||messenger-notify.digital^$popup
 ||meteorclashbailey.com^$popup
 ||metrica-yandex.com^$popup
@@ -47431,6 +47460,7 @@ tf2r.com#@#.adverts
 ||mypushz.com^$popup
 ||myrdrcts.com^$popup
 ||mysagagame.com^$popup
+||myshinyinc.com^$popup
 ||mystighty.info^$popup
 ||mytrackf73.com^$popup
 ||mywondertrip.com^$popup
@@ -48016,6 +48046,7 @@ tf2r.com#@#.adverts
 ||stawhoph.com^$popup
 ||steamlargelyjustified.com^$popup
 ||stenadewy.pro^$popup
+||stickervillain.com^$popup
 ||sticksurroundingsconstitutional.com^$popup
 ||stirprovidence.com^$popup
 ||stoagergu.com^$popup
@@ -48056,7 +48087,9 @@ tf2r.com#@#.adverts
 ||t2lgo.com^$popup
 ||ta5ast2ffeyvhjitde.com^$popup
 ||tabledownstairsprovocative.com^$popup
+||tadsbelver.com^$popup
 ||taembed.com^$popup
+||taghaugh.com^$popup
 ||tagsd.com^$popup
 ||takelnk.com^$popup
 ||taroads.com^$popup
@@ -49836,6 +49869,7 @@ tf2r.com#@#.adverts
 ||d2rx475ezvxy0h.cloudfront.net^
 ||d2s9nyc35a225l.cloudfront.net^
 ||d2sbzwmcg5amr3.cloudfront.net^
+||d2sffavqvyl9dp.cloudfront.net^
 ||d2sp5g360gsxjh.cloudfront.net^
 ||d2sucq8qh4zqzj.cloudfront.net^
 ||d2t7a3zbo166a9.cloudfront.net^
@@ -52878,7 +52912,7 @@ androidauthority.com,imgmak.com,infobel.com,linkedin.com##.ad-banner
 aminoapps.com,crash.net,home-designing.com,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 sciencenewsforstudents.org##.ad-block-leaderboard__wrapper___1rR0c
-9to5google.com,9to5mac.com,advfn.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,scroll.in,seattletimes.com,slideshare.net,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
+9to5google.com,9to5mac.com,advfn.com,all3dp.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,scroll.in,seattletimes.com,slideshare.net,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
 sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 dailyuptea.com##.ad-info
@@ -59287,6 +59321,11 @@ ubmcmm.baidustatic.com
 ||z66ggsh.top^
 ||zdy1.xyz^
 ||zw2b9.cn^
+||lqnggnsl.fun^
+||lrkporm.cn^
+||pthezjl.cn^
+||kyzx.xyz^
+||itjew.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -86073,6 +86112,7 @@ _mongo_stats/
 ||czx5eyk0exbhwp43ya.biz^
 ||datatechonert.com^
 ||demdex.net^
+||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
 ||dlxpix.net^
@@ -96200,6 +96240,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||olacontent.schwab.com^$script
 ||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
+||tmetrix.my.chick-fil-a.com^
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
 ||wup-content23.bmoharris.com^
