@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1NPrQsFz4B4ClC+BKTinew
+! Checksum: IgazJe27ivMtOux7Q/Clxw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211170939
-! Last Modified: 2022年11月17日 09:39
+! Version: 202211171422
+! Last Modified: 2022年11月17日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -12712,6 +12712,7 @@ _800x80_
 ##.adZoneRight
 ##.ad_0
 ##.ad_1
+##.ad_1000_125
 ##.ad_120x60
 ##.ad_120x600
 ##.ad_120x90
@@ -12735,6 +12736,7 @@ _800x80_
 ##.ad_250x200
 ##.ad_250x250
 ##.ad_250x250_w
+##.ad_290_290
 ##.ad_3
 ##.ad_300
 ##.ad_300250
@@ -15466,6 +15468,7 @@ _800x80_
 ##.amazonads
 ##.amis-advert
 ##.amp-ad
+##.amp-ad__wrapper
 ##.amp-ads
 ##.amp-ads-container
 ##.amp-adv-wrapper
@@ -22184,6 +22187,7 @@ _800x80_
 ##.mm-widget--sendtonews
 ##.oovvuu-embed-player
 ##.pbs__player
+##.pmc-contextual-player
 ##.pop-out-eplayer-container
 ##.primis-ad-wrap
 ##.primis-custom
@@ -32936,7 +32940,6 @@ tf2r.com#@#.adverts
 ||inclk.com^
 ||incloak.com^
 ||includemodal.com^
-||incolumitas.com^
 ||incomethoroughabjure.com^
 ||incomprehensibleacrid.com^
 ||inconceivableascertained.com^
@@ -51119,7 +51122,7 @@ tf2r.com#@#.adverts
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
-||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|spokesman-recorder.com|tomshardware.com|whathifi.com
+||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|spokesman-recorder.com|tomshardware.com|variety.com|whathifi.com
 ||live.primis.tech^$third-party
 ||minute.ly^$third-party
 ||minutemedia-prebid.com^$third-party
@@ -54528,6 +54531,8 @@ rappler.com##.rappler-ad-container
 gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
 forebet.com##.rbannerDiv
+spectrum.ieee.org##.rblad-ieee_in_content
+spectrum.ieee.org##.rblad-ieee_infinite_new
 reverso.net##.rcacontent
 just-dice.com##.realcontent
 bettycrocker.com##.recipeAd
@@ -54770,6 +54775,7 @@ alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.ne
 independent.ie##.slot1
 independent.ie##.slot4
 boxofficemojo.com,imdb.com##.slot_wrapper
+drivereasy.com##.sls_pop
 skinnyms.com##.sm-above-header
 bikeexif.com##.small
 dutchnews.nl##.small-add-block
@@ -55887,6 +55893,7 @@ taskandpurpose.com##.empire-unit-prefill-container
 europeanpharmaceuticalreview.com##.europ-fixed-footer
 ibtimes.sg##.featured_video
 thestar.co.uk##.gOoqzH
+anandtech.com##.jwplayer
 gamesradar.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 southernliving.com##.karma-sticky-rail
 bestrecipes.com.au,delicious.com.au,taste.com.au##.news-video
@@ -59326,6 +59333,10 @@ ubmcmm.baidustatic.com
 ||pthezjl.cn^
 ||kyzx.xyz^
 ||itjew.xyz^
+||ziedwr.com^
+||lzngisyl.xyz^
+||6u4j.icu^
+||wglbx.ltd^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -67230,6 +67241,7 @@ ubmcmm.baidustatic.com
 ||zzyytt.top^
 ||zzzhuoxiaqu.online^
 !long-term
+||lm-zl.oss-accelerate.aliyuncs.com^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||7xi9g1.com1.z0.glb.clouddn.com^
@@ -71476,7 +71488,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||tucao.mom/uploadfile/*/300-86.
+||tucao.eu/uploadfile/*/300-86.
 ||tui.gtimg.com//res/
 ||tuicool.com/images/upload/aliyun
 ||tupian55.com^*.gif
@@ -71998,6 +72010,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+tucao.eu##.alert_windows
+zzkdhb.com##li[style*="important;"]
+zzkdhb.com##p[style^="width: 100%; margin: 0px;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -74818,7 +74833,7 @@ youivr.com##.header-widget-region
 iqiyi.com##.headerLink01
 iqiyi.com##.headerLink02
 jiegeng.com##.header__item--fr
-tucao.mom##.header_rmb
+tucao.eu##.header_rmb
 seehd.so##.header_wrap + .tac + table[align="center"]
 aguitar.cn,guitarchina.com##.headerbanner
 aguitar.cn##.headerbanner2
@@ -82120,6 +82135,7 @@ fqsousou.com,kengso.com#@#.user-share
 /fp/clear1.png
 /fp/clear2.png
 /fp/clear3.png
+/fp/es.js
 /fp/fp.swf
 /fp/HP?session_id
 /fp/ls_fp.
