@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iqZd2xC4YYFLbBqpcmPb9Q
+! Checksum: 5eLaqyE80IDRSDK8CnMAig
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202211172037
-! Last Modified: 2022年11月17日 20:37
+! Version: 202211182033
+! Last Modified: 2022年11月18日 20:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1284,6 +1284,7 @@ gamefront.com#$#abort-current-inline-script $ AdBlock
 kickassanime.io##.ka-ax-wrp.mb-3
 imagefap.com#$#abort-on-property-read popCookie
 igg-games.com#$#abort-on-property-write btoa
+igg-games.com#$#abort-on-property-write advanced_ads_ready; abort-current-inline-script document.createElement /script/; prevent-listener DOMContentLoaded
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
