@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fpZIYidND+/yWdd+iA7CcA
+! Checksum: O2v3k9kifXAxxJRp1TpDZw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211191421
-! Last Modified: 2022年11月19日 14:21
+! Version: 202211192031
+! Last Modified: 2022年11月19日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1534,7 +1534,7 @@ ubmcmm.baidustatic.com
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:window.GoTp();"]
-##a[href] > .img[src*="lbsugc.cdn.bcebos.com"]
+##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
 ##a[href^="/hy-"][ontouchstart]
 ##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
@@ -1796,6 +1796,10 @@ ubmcmm.baidustatic.com
 ##a[href="https://xq97.com"]
 ||035caop.com^
 ||053tyfg.com^
+||qiangqi.shop^
+||oivgqnt.cn^
+||vqdjcy.com^
+||trqhf.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -23592,13 +23596,15 @@ _box_ad_
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
 ||3dmgame.com/page/js/indexalert_ad.
 !------------------------Specific element hiding rules------------------------!
+findlaw.cn###wlcommonbot
+huanqiu.com##.right-box > article-other-template
 3dmgame.com##.dj_warp_e
 a9vg.com###guide-download
 bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."]
 bilibili.com##A[href*="cm.bilibili.com"][data-target-url*=".biligame."] + .bili-video-card__info
 bilibili.com##.adblock-tips
 map.baidu.com###message-panel
-ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
+ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
 manmanbuy.com##.app-activity-download
 bilibili.com##.desktop-download-tip
 edrawsoft.cn##.activity-banner
@@ -40739,7 +40745,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||taiwanplus.com/api/video/startVideo
 ||target.nationwide.com^
 ||target.nejm.org^
-||targetimg1.com/ssx/ssx.mod.js$script,domain=target.com
 ||targeting.washpost.nile.works^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
@@ -54697,7 +54702,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
 @@||ect.se.com/cbt/app/js/util/angularytics.min.js$script,~third-party
 @@||editorx.com/_api/*count?type$~third-party
-@@||efworks.proquest.com/public/js/tracking.js$~third-party
 @@||enchambered.com^*/googleanalytics_2.js?
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/code/$script
@@ -54903,6 +54907,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||redbull.com/gtm.js$~third-party
+@@||refworks.proquest.com/public/js/tracking.js$~third-party
 @@||repairtrackingsite.nintendo.eu/Tracking/$subdocument,domain=nintendo.co.uk
 @@||res-x.com^*/Resonance.aspx?
 @@||researchintel.com^*/feedback.asp$xmlhttprequest,domain=intel.com
