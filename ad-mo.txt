@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rJ5/UB/IRsS6whRRcOz9Jg
+! Checksum: m4Tttq2erkrpA8i1Q3tz0Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211190939
-! Last Modified: 2022年11月19日 09:39
+! Version: 202211191421
+! Last Modified: 2022年11月19日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59298,6 +59298,8 @@ ubmcmm.baidustatic.com
 ||bjzb.xyz^
 ||kjcvw.xyz^
 ##a[href="https://xq97.com"]
+||035caop.com^
+||053tyfg.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -85360,6 +85362,7 @@ fqsousou.com,kengso.com#@#.user-share
 /wildfire/i/CIMP.gif?
 /wisdom_tracking.
 /wiseRtSvcVisit.
+/wix-engage-visitors-
 /wjcounter-
 /wjcounter.
 /wjcountercore.
@@ -90323,6 +90326,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spitefulstop.com^
 ||spongesalt.com^
 ||spookyexchange.com^
+||spookyskate.com^
 ||spookysleet.com^
 ||spookyslope.com^
 ||spoonsilk.com^
@@ -109792,6 +109796,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.ipstack.com^$domain=ride.guru
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
+@@||api.transcend.io/privacy/graphql$xmlhttprequest,domain=privacy.patreon.com
 @@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
@@ -109914,6 +109919,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
 @@||ect.se.com/cbt/app/js/util/angularytics.min.js$script,~third-party
 @@||editorx.com/_api/*count?type$~third-party
+@@||efworks.proquest.com/public/js/tracking.js$~third-party
 @@||enchambered.com^*/googleanalytics_2.js?
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/code/$script
