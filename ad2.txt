@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SnBC9ISPe/RhqQaC0mB3pQ
+! Checksum: y/EMnGG5ye2bJtLBnDragw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211210220
-! Last Modified: 2022年11月21日 02:20
+! Version: 202211210940
+! Last Modified: 2022年11月21日 09:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -199,6 +199,7 @@ quandangdang.net
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/download-link-js/?v=$script,~third-party
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -1816,6 +1817,11 @@ ubmcmm.baidustatic.com
 ||zjttaqx.cn^
 ||zjws.xyz^
 ||zw2b9.cn^
+||wzdy.xyz^
+||cvemhco.cn^
+||kjndc.xyz^
+||iddhui.com^
+||xf2pf.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -12984,7 +12990,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mfacelive.com/Scripts/social/openchannel_min.js
 ||mfav88.com/yinzi/
 ||mg21.com/wp-content/uploads/ad/
-||mgjiasu.com/download-link-js/
 ||mh1234.com/gd/g_js/
 ||mh1234.com^*/wap*.js
 ||mh3666.com^*.jsonp
