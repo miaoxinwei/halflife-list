@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9BRxVvCwtqON1OA+l0ghWw
+! Checksum: XdXPithG7P4FH4LSWrpdaQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211212035
-! Last Modified: 2022年11月21日 20:35
+! Version: 202211220222
+! Last Modified: 2022年11月22日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1832,7 +1832,11 @@ ubmcmm.baidustatic.com
 ||eapsmnw.cyou^
 ||toijr.xyz^
 ||b4jy.top^
-||vjianshen1688.com^
+||mrhboe.xyz^
+||vadypb.cn^
+||d86.xyz^
+##a[href*="/ksbz1017.com"]
+||jnkmwr.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -13858,7 +13862,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||szjjzs.com/js/piao.js
 ||sznews.com/s?z=
 ||szonline.net/static/js/ads.js
-||szxljdsb.com/tl123.gif
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
 ||t.cn/RkHfjHk|
@@ -40734,6 +40737,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamtape.cc/stat/
 ||streamtape.com/stat/
 ||streamtapeadblock.art/stat/
+||streamtapeadblockuser.art/stat/
 ||streamtapeadblockuser.homes/stat/
 ||streamtapeadblockuser.monster/stat/
 ||streamtapeadblockuser.xyz/stat/
