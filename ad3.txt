@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0MD9Xzo92ey8zW0x4i9Pww
+! Checksum: 9xBSnimRzLBdvW72pSqPPA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211221422
-! Last Modified: 2022年11月22日 14:22
+! Version: 202211222036
+! Last Modified: 2022年11月22日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1848,6 +1848,8 @@ ubmcmm.baidustatic.com
 ||zzngisyq.xyz^
 ||knmwrkw.xyz^
 ||tfaftemail.com^
+||xiaohui.ink^
+||iwqetbj.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -25200,6 +25202,7 @@ m.babytree.com##script + a[class]
 /_/oh-noes$~third-party,xmlhttprequest
 /__analytics/*
 /__dam.gif?
+/__imp_apg__/*
 /__rmn.gif?
 /__ssobj/core.js
 /__ssobj/sync?$image
@@ -40873,7 +40876,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||twitter.com/i/csp_report?
 ||twitter.com/i/jot
 ||typepad.com/t/stats?
-||u44.pnc.com^
 ||u989.theweek.com^
 ||ua.indianexpress.com^
 ||uber.com/_events
@@ -41059,6 +41061,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||tmetrix.my.chick-fil-a.com^
+||u44.pnc.com^
+||u47.pnc.com^
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
 ||wup-content23.bmoharris.com^
