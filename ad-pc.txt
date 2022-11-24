@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hCJ3n4WXN+7afI6+otu2EQ
+! Checksum: MZwO44s3kS0F2627YUOuAw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211242033
-! Last Modified: 2022年11月24日 20:33
+! Version: 202211250220
+! Last Modified: 2022年11月25日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -49768,6 +49768,7 @@ tf2r.com#@#.adverts
 ||ssl-images-amazon.com/images/*/MAsf-
 ||static.ifruplink.net/static_src/mc-banner/
 ||static.tradetracker.net^$third-party
+||storage.googleapis.com/adtags/
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||supply.upjers.com^
 ||surveymonkey.com/jspop.aspx?
@@ -56059,8 +56060,6 @@ amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-loom-desktop-top-slot_hsa-id-CARDS-"]
-zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si##.noqro0oc_jFfn2AAKrdMo
-zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si#?#.Uxq3DH:-abp-has(span:-abp-contains(/Gesponsert|Gesponsord|Patrocinado|Sponset|Sponsitud|Sponsored|Sponsoreret|Sponsorēts|Sponsorizzato|Sponsorisé|Sponsoroitu|Sponsorowane|Sponsrad|Sponzorirano|Sponzorováno/))
 usnews.com###ac-lre-player-ph
 ginx.tv###ginx-floatingvod-containerspacer
 forums.whathifi.com###jwplayer-container-div
@@ -56419,7 +56418,6 @@ windowsbulletin.com#?#.code-block:-abp-has(a[href^="http://www.reimageplus.com/"
 windowsbulletin.com#?#strong:-abp-has(a[href^="http://www.reimageplus.com/"])
 xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-MediaObject-meta-"]:-abp-contains(/Gesponsert|Sponsored|Patrocinado|Sponsorisé|Sponsorizzato/))
 yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
-zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si#?#.DvypSJ:-abp-has(span:-abp-contains(/Gesponsert|Gesponsord|Patrocinado|Sponset|Sponsitud|Sponsored|Sponsoreret|Sponsorēts|Sponsorizzato|Sponsorisé|Sponsoroitu|Sponsorowane|Sponsrad|Sponzorirano|Sponzorováno/))
 1001tracklists.com#?#a[onclick^='gaLnkTr']
 bestbuy.com#?#[id^="atwb-ninja-carousel"]
 virtuagirlgirls.com###DynamicBackgroundWrapper
@@ -57981,8 +57979,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
-/upload/site/tbgg/*.gif
-.com/sh/to/$script,third-party
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -58048,6 +58044,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 .com/rmb/palyyoubian.js
 .com/Runtime/js/psCreat.js
 .com/sc/*?n=$script,third-party
+.com/sh/to/$script,third-party
 .com/static/js/ad.js
 .com/style/vue.js?v=
 .com/tonglan.js
@@ -58570,6 +58567,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /u/_sponsor/*
 /uc123_no/*/index/js/activity.
 /uniontgm.cmb.
+/upload/site/tbgg/*.gif
 /upload/vod/2018-08-05/201808051533458526.png
 /uploadfile/ad/*
 /uploads/setting/ad/*
@@ -59431,16 +59429,22 @@ ubmcmm.baidustatic.com
 ||035caop.com^
 ||049uing.com^
 ||053tyfg.com^
+||058tyfg.com^
+||064ioio.com^
 ||065yuyu.com^
 ||0ftyz.top^
+||0smg.top^
 ||1106yh.com^
 ||1108jiuba2022.xyz^
+||1158tp.com^
+||360600.xyz^
 ||362728tdg.com^
 ||44j4oo2a.cn^
 ||4vml0.cn^
 ||516624.com^
 ||51fa.shop^
 ||5ilss.top^
+||65688qp.com^
 ||678tktp.com^
 ||6u4j.icu^
 ||79zxcv.com^
@@ -59452,9 +59456,11 @@ ubmcmm.baidustatic.com
 ||aiedwhb.cn^
 ||albyprd.cn^
 ||b4jy.top^
+||b53.xyz^
 ||baiduhaoba.com^
 ||bendan.shop^
 ||bfsqtsn.cn^
+||bjws.xyz^
 ||bjzb.xyz^
 ||bqnggnsv.fun^
 ||bvpaovs.cn^
@@ -59475,6 +59481,8 @@ ubmcmm.baidustatic.com
 ||dsfsdft4324.xyz^
 ||dvaimso.cn^
 ||eapsmnw.cyou^
+||eganilglw.cyou^
+||egrnmic.cn^
 ||epmf4.cn^
 ||eqnggnsw.fun^
 ||eqyzc.cyou^
@@ -59484,6 +59492,7 @@ ubmcmm.baidustatic.com
 ||fiwyjar.cn^
 ||fkjdz.cyou^
 ||fknrtpp.cn^
+||fsdnp.cyou^
 ||fvtrx.cyou^
 ||fwrpq.cyou^
 ||fypcy.cyou^
@@ -59493,6 +59502,7 @@ ubmcmm.baidustatic.com
 ||glovemall.cn^
 ||gpsncbo.cn^
 ||gzzb.xyz^
+||h12h.fun^
 ||hbcl.ltd^
 ||hjgrc.xyz^
 ||hxapafn.cn^
@@ -59509,8 +59519,10 @@ ubmcmm.baidustatic.com
 ||iwqetbj.cn^
 ||j41.xyz^
 ||j721s.top^
+||japsmna.cyou^
 ||jiedu.fun^
 ||jknmsdpo.xyz^
+||jmm8a.xyz^
 ||jnkmwr.xyz^
 ||joh4t.cn^
 ||jpai.xyz^
@@ -59524,10 +59536,12 @@ ubmcmm.baidustatic.com
 ||klxwe.xyz^
 ||kmjbwejnr.xyz^
 ||knmwrkw.xyz^
+||koojsc.cn^
 ||kvtlll.top^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
 ||lgjxw.xyz^
+||lhare.xyz^
 ||lihuan.store^
 ||ljlg.xyz^
 ||ljrot.icu^
@@ -59553,6 +59567,7 @@ ubmcmm.baidustatic.com
 ||nveuiqh.cn^
 ||nypswiu.cn^
 ||nzvpewi.cn^
+||oicvvnm.cn^
 ||oivgqnt.cn^
 ||ok-11-cai.cc^
 ||oqnggnsk.fun^
@@ -59579,12 +59594,15 @@ ubmcmm.baidustatic.com
 ||qz15.top^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
+||qzsfmbt.cn^
 ||renxingganwu.com^
 ||renzw.xyz^
 ||rgfqcly.cn^
 ||ribffmg.cn^
 ||riqnhxq.cn^
+||rmm7ss.top^
 ||rqnggnsz.fun^
+||rss9f.top^
 ||ruohe.fun^
 ||rzngisyz.xyz^
 ||s4ls9.top^
@@ -59603,6 +59621,7 @@ ubmcmm.baidustatic.com
 ||tqnggnsi.fun^
 ||troxa.xyz^
 ||trqhf.xyz^
+||trqpfc.cn^
 ||txnwq.xyz^
 ||tzngisyi.xyz^
 ||u09.xyz^
@@ -59616,6 +59635,7 @@ ubmcmm.baidustatic.com
 ||uzngisyt.xyz^
 ||v09.xyz^
 ||vadypb.cn^
+||vagvedi.cn^
 ||venulaevavs.com^
 ||vggzftw.cn^
 ||vjianshen1688.com^
@@ -59625,6 +59645,7 @@ ubmcmm.baidustatic.com
 ||wfhuzaj.cn^
 ||wgdacc.com^
 ||wglbx.ltd^
+||wgpsfdg.cn^
 ||whrc.xyz^
 ||wocexaa.cn^
 ||wqnggnse.fun^
@@ -59646,6 +59667,7 @@ ubmcmm.baidustatic.com
 ||yoiqacw.cn^
 ||z66ggsh.top^
 ||zdy1.xyz^
+||zgfckf.mobi^
 ||zhhgmh.mobi^
 ||zhvo.top^
 ||ziedwr.com^
@@ -59655,29 +59677,6 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||japsmna.cyou^
-||trqpfc.cn^
-||koojsc.cn^
-||jmm8a.xyz^
-||egrnmic.cn^
-||lhare.xyz^
-||qzsfmbt.cn^
-||058tyfg.com^
-||064ioio.com^
-||eganilglw.cyou^
-||0smg.top^
-||zgfckf.mobi^
-||h12h.fun^
-||b53.xyz^
-||vagvedi.cn^
-||fsdnp.cyou^
-||65688qp.com^
-||1158tp.com^
-||wgpsfdg.cn^
-||rss9f.top^
-||bjws.xyz^
-||oicvvnm.cn^
-||rmm7ss.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -68986,6 +68985,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||beijing-air.com/images/a/j
+||beijingbang.top/scholar/xljsci
 ||beiwo888.com/Runtime/js/
 ||bejson.com/static/ydxyt/
 ||bendibao.com*/tuangou.gif
@@ -70890,6 +70890,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||moedao.com/js/top.js
 ||moegirl.org.cn/insight/MoegirlInsight.
 ||moerats.com/usr/affpc/
+||molibaike.com/images/ads/
+||molibaike.com/js/ads.
 ||molimao.top/ad*.js
 ||molimao.top/ad.js
 ||molimao.top/imp/upload/vod/*.gif
@@ -72341,9 +72343,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||molibaike.com/js/ads.
-||molibaike.com/images/ads/
-||beijingbang.top/scholar/xljsci
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
