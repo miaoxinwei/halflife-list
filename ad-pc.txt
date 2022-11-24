@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ycmq7G6Pd6ldNxDOUbz/SA
+! Checksum: 4F61PpI+YznaTBZbqOScUQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211240934
-! Last Modified: 2022年11月24日 09:34
+! Version: 202211241420
+! Last Modified: 2022年11月24日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9150,6 +9150,7 @@ _800x80_
 ###mini-ad
 ###mobile-adhesion
 ###mobile-ads-ad
+###mobile-footer-ad-wrapper
 ###mobileAdContainer
 ###mobile_ad_main
 ###mobile_ads_block
@@ -18206,6 +18207,7 @@ _800x80_
 ##.iqadlinebottom
 ##.iqadmarker
 ##.iqadtile_wrapper
+##.is-ad
 ##.is-carbon-ad
 ##.is-desktop-ads
 ##.is-mpu
@@ -22476,7 +22478,7 @@ soundandvision.com,stereophile.com#@##topbannerad
 gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
 job.inshokuten.com#@#.ad-area
-kincho.co.jp#@#.ad-block
+kincho.co.jp,niji-gazo.com#@#.ad-block
 job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
 dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center
@@ -59661,6 +59663,15 @@ ubmcmm.baidustatic.com
 ||qzsfmbt.cn^
 ||058tyfg.com^
 ||064ioio.com^
+||eganilglw.cyou^
+||0smg.top^
+||zgfckf.mobi^
+||h12h.fun^
+||b53.xyz^
+||vagvedi.cn^
+||fsdnp.cyou^
+||65688qp.com^
+||1158tp.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -80009,8 +80020,8 @@ $image,third-party,domain=258zw.com
 /mhw0/duniao/*
 /ojborn.so?$script,third-party
 /proxy_top_banner_js.php
-/sa.asp?wg&df=$script,third-party
-/sa.asp?wsg&df=$script,third-party
+/sb.asp?wg&df=$script,third-party
+/sb.asp?wsg&df=$script,third-party
 /socket?platform=*&href=$third-party,websocket
 /svr/*.aspx?placeid=$third-party
 /vbvb_*_pmpm.js
@@ -93624,6 +93635,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.smartclip.net^
 ||stats.topofblogs.com^
 ||stats.twistage.com^
+||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
 ||stats.vliplatform.com^
@@ -94043,6 +94055,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wco.crownpeak.com^
 ||weather.ca/counter.gif?
 ||web-soft.in/counters/
+||web-tracker.smsbump.com^
 ||web1.51.la^
 ||webcare.byside.com^
 ||webedia.fr/js/gs.js

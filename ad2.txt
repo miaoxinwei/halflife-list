@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pMwQeLAWpV2Y2Iq3swJ3Cw
+! Checksum: /cEXK06PwdHh7rv9GKEASw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211240934
-! Last Modified: 2022年11月24日 09:34
+! Version: 202211241420
+! Last Modified: 2022年11月24日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1881,6 +1881,15 @@ ubmcmm.baidustatic.com
 ||qzsfmbt.cn^
 ||058tyfg.com^
 ||064ioio.com^
+||eganilglw.cyou^
+||0smg.top^
+||zgfckf.mobi^
+||h12h.fun^
+||b53.xyz^
+||vagvedi.cn^
+||fsdnp.cyou^
+||65688qp.com^
+||1158tp.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -22229,8 +22238,8 @@ $image,third-party,domain=258zw.com
 /mhw0/duniao/*
 /ojborn.so?$script,third-party
 /proxy_top_banner_js.php
-/sa.asp?wg&df=$script,third-party
-/sa.asp?wsg&df=$script,third-party
+/sb.asp?wg&df=$script,third-party
+/sb.asp?wsg&df=$script,third-party
 /socket?platform=*&href=$third-party,websocket
 /svr/*.aspx?placeid=$third-party
 /vbvb_*_pmpm.js
