@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /cEXK06PwdHh7rv9GKEASw
+! Checksum: Zb1kYBvZLOozMZ1C7pKJEw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211241420
-! Last Modified: 2022年11月24日 14:20
+! Version: 202211242033
+! Last Modified: 2022年11月24日 20:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -199,6 +199,7 @@ quandangdang.net
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/upload/site/tbgg/*.gif
 .com/sh/to/$script,third-party
 -1688-wp-media/ads/
 -90mh-gg.
@@ -1890,6 +1891,11 @@ ubmcmm.baidustatic.com
 ||fsdnp.cyou^
 ||65688qp.com^
 ||1158tp.com^
+||wgpsfdg.cn^
+||rss9f.top^
+||bjws.xyz^
+||oicvvnm.cn^
+||rmm7ss.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -14553,6 +14559,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||molibaike.com/js/ads.
+||molibaike.com/images/ads/
+||beijingbang.top/scholar/xljsci
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17793,7 +17802,7 @@ taobao.com##.mask.animated.swing
 qq.com##.masker_1111
 fx110.com##.matrix-banner
 oschina.net##.mayun-jj
-cangku.icu##.mb-4.slider
+cangku.moe##.mb-4.slider
 itavcn.com##.mb_right > .mt8:nth-child(3)
 265g.com##.mban
 sciencenet.cn##.mbanner
@@ -18413,7 +18422,7 @@ cnbeta.com##.slide_area a[href^="http"]:not([href^="http://www.cnbeta."])
 duba.com##.slidebar
 duba.com##.slidebar + .extend
 talkfx.co##.slidebox
-cangku.life##.slider
+cangku.moe##.slider
 v2rayssr.com##.slider-4-box1
 1909.me,litu100.xyz,xchina.co##.slider-ad
 v.qq.com##.slider_item[href^="http"]:not([href*=".qq."])
