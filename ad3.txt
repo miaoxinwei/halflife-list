@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nolPuHml7Zs/nMzN8B2OLg
+! Checksum: /+4L/X0Dzb9vSC+kBuN63Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211260220
-! Last Modified: 2022年11月26日 02:20
+! Version: 202211260920
+! Last Modified: 2022年11月26日 09:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,13 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||sapsmnb.cyou^
+||ycyipha.cn^
+||bjfc.xyz^
+||tffytdo.cn^
+||pmcppla.cn^
+||simi1234.com^
+||lxrhw.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -53602,6 +53609,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||moviepilot.de/assets/autotrack-
 ||mydirtyhobby.de/tracker
 ||navigation-timing.meinestadt.de^
+||nct.ui-portal.de^
 ||netzwelt.de/log?
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
@@ -53637,6 +53645,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||tgw.gmx.ch^
+||tgw.gmx.net^
+||tgw.web.de^
 ||track.dws.de^
 ||track.express.de^
 ||track.noz.de^
