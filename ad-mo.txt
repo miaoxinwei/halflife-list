@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qhK89OkWEFAubSBkhG96Uw
+! Checksum: BaBZcRfK/CbFAqg4tmyQCg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211270936
-! Last Modified: 2022年11月27日 09:36
+! Version: 202211271420
+! Last Modified: 2022年11月27日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -24575,6 +24575,7 @@ tf2r.com#@#.adverts
 ||allowsuccess.org^
 ||alloydigital.com^
 ||alloysoftballcrushing.com^
+||allpipestay.live^
 ||allpornovids.com^
 ||allqefwxre.com^
 ||allstat-pp.ru^
@@ -27961,6 +27962,7 @@ tf2r.com#@#.adverts
 ||clothetow.com^
 ||clothingsphere.com^
 ||clottedpowerlessmade.com^
+||cloud-repository.com^
 ||cloudcdn.ml^
 ||cloudcnfare.com^
 ||cloudflare.solutions^
@@ -28309,6 +28311,7 @@ tf2r.com#@#.adverts
 ||cordha.com^
 ||cordydikes.guru^
 ||corebelbyrri.com^
+||corepsh.top^
 ||corkagecargued.com^
 ||corkycrazy.com^
 ||corkysegment.com^
@@ -28781,6 +28784,7 @@ tf2r.com#@#.adverts
 ||data-data-vac.com^
 ||data-px.services^
 ||databasestelevision.com^
+||datacryhurt.live^
 ||datajsext.com^
 ||date4sex.pro^
 ||dateddeed.com^
@@ -35352,6 +35356,7 @@ tf2r.com#@#.adverts
 ||mixandfun.com^
 ||mixedbloodynicholas.com^
 ||mixmarket.biz^
+||mixnewsbest.com^
 ||mixpo.com^
 ||mixwevri.com^
 ||mizrachmartyn.com^
@@ -36024,6 +36029,7 @@ tf2r.com#@#.adverts
 ||newsunads.com^
 ||newthuads.com^
 ||newvideoapp.pro^
+||next-pops.top^
 ||nextdark.pro^
 ||nextgencounter.com^
 ||nextpsh.top^
@@ -42064,6 +42070,7 @@ tf2r.com#@#.adverts
 ||trusted-click-host.com^
 ||trustedcpmrevenue.com^
 ||trustedgatetocontent.com^
+||trustedstream.life^
 ||trusterejecta.com^
 ||trustmeiamcdn.com^
 ||trustworthytopmost.com^
@@ -46258,6 +46265,7 @@ tf2r.com#@#.adverts
 ||webtrafic.ru^$third-party
 ||webwap.org^$third-party
 ||whatfinger.com^$third-party
+||whatstheword.co^$third-party
 ||whizzco.com^$third-party
 ||widgetly.com^$third-party
 ||winadx.com^$third-party
@@ -55346,6 +55354,7 @@ jobstreet.com.sg##[data-automation="homepage-banner-ads"]
 jobstreet.com.sg##[data-automation="homepage-marketing-banner-ads"]
 theblaze.com##[data-category="SPONSORED"]
 gab.com##[data-comment="gab-ad-comment"]
+theverge.com##[data-concert="leaderboard_top_tablet_desktop"]
 curbed.com##[data-concert="prelude"]
 medicalnewstoday.com##[data-empty="true"]
 greatist.com,psychcentral.com##[data-empty]
@@ -55892,6 +55901,7 @@ malaysiakini.com##div[style^="height:600px"]
 whatmobile.com.pk##div[style^="height:610px"]
 point2homes.com,propertyshark.com##div[style^="margin-bottom: 10px;"]
 google.co.in,google.co.uk,google.com,google.com.bd,google.com.pk##div[style^="margin-bottom:15px"][class^="jsx-"]
+unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 thetealmango.com##div[style^="margin: 8px auto; text-align:"]
 lasentinel.net##div[style^="min-height: 250px; width: 300px;"]
 point2homes.com,propertyshark.com##div[style^="min-height: 360px;"]
@@ -94115,6 +94125,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wl-pixel.index.digital^
 ||wn.com/count.js
 ||wondershare.es/jslibs/track.js
+||wordmonetize.com^$third-party
 ||wordpress.com/geo/
 ||workers.dev/api/event
 ||workers.dev/js/script.js
