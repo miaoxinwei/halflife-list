@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: khHmNIpWgZ/le5SBCLsFwA
+! Checksum: P+mo/8rlp/zZVrr9ubSfVg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202211280219
-! Last Modified: 2022年11月28日 02:19
+! Version: 202211280921
+! Last Modified: 2022年11月28日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -50866,6 +50866,7 @@ tf2r.com#@#.adverts
 ||b.cdnst.net/javascript/amazon.js$script,domain=speedtest.net
 ||b27ni7.g02.ign.com^
 ||bahamaslocal.com/img/banners/
+||bbci.co.uk/plugins/dfpAdsHTML/
 ||beap.gemini.yahoo.com^
 ||beforeitsnews.com/img/banner_
 ||bentent.steampiay.cc^
@@ -59873,6 +59874,11 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||rlllwby.cn^
+||xgvfkge.cn^
+||ocive.xyz^
+||qptnew.com^
+||szzb.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -94833,6 +94839,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||offer.slgnt.eu^
 ||optinproject.com/rt/visit/
 ||osd.oxygem.it^
+||p.a2d.io/plx.js
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
 ||rs.smc.tf^
@@ -94856,6 +94863,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.laredoute.fr^$image
 ||tracking.ecookie.fr^
 ||tracking.kdata.fr^
+||tracking.lqm.io^
 ||tracking.netvigie.com^
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk.adbutter.net^
@@ -95060,6 +95068,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
 ||analytics00.meride.tv^
+||analytics2-3-meride-tv.akamaized.net^
 ||analytics2-meride-tv.akamaized.net^
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
@@ -109784,6 +109793,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||events.reclamefolder.nl^
 ||expert.nl/daix.js
 ||folderz.nl/clickstream/
+||infonu.nl/t.php?
 ||kieskeurig.nl/collect
 ||kieskeurig.nl/track-
 ||klik.nrc.nl/ping?
