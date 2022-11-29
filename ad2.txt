@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vYmMbQuwVoKbF7TJjrynrw
+! Checksum: AGkfMEkU4g2ITywJ7U3zhw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211290923
-! Last Modified: 2022年11月29日 09:23
+! Version: 202211291421
+! Last Modified: 2022年11月29日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -147,11 +147,11 @@ youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefine
 */preroll/$media,domain=91porn.com
 91p20.space
 waust.at
-||btsow.click/app/jav$image
+||btsow.beauty/app/jav$image
 jads.co
 |https://tellme.pw/go/jav$popup
-|https://$script,subdocument,popup,3p,domain=btsow.click|dandanzan10.top|nunuyy3.org|rarbgprx.org
-!btsow.click##+js(aeld, click, popunder)
+|https://$script,subdocument,popup,3p,domain=btsow.beauty|dandanzan10.top|nunuyy3.org|rarbgprx.org
+!btsow.beauty##+js(aeld, click, popunder)
 !btsow.*##body>div[id]:last-child>a:only-child
 statsy.net
 @@||dyncdn.me/static/20/js/jquery$script
@@ -171,6 +171,7 @@ aqours.today
 mediaadjustment.com
 stgowan.com
 trustedgatetocontent.com
+wpadmngr.com
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
