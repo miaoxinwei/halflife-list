@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b4545nc8fNavu9ao+u0K7g
+! Checksum: k8d28//bedzPlRGXev3L4g
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202211290220
-! Last Modified: 2022年11月29日 02:20
+! Version: 202211292032
+! Last Modified: 2022年11月29日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1181,6 +1181,7 @@ quora.com##.q-box.qu-borderTop > span[data-nosnippet="true"] > .q-box
 quora.com##span[data-nosnippet="true"] .q-box.qu-pb--tiny.qu-pt--medium
 quora.com##span[data-nosnippet="true"] .q-box.qu-pt--medium
 quora.com##span[data-nosnippet="true"] .q-box.dom_annotate_ad_image_ad
+quora.com##.dom_annotate_ad_promoted_answer
 ! #CV-669
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
 adageindia.in,bombaytimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
@@ -1344,7 +1345,7 @@ root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor:
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||porndoe.com/movie/preroll/*$media,rewrite=abp-resource:blank-mp4,domain=porntrex.com
-animixplay.to#$#abort-current-inline-script document.createElement /script/; abort-on-property-read document.head.appendChild
+animixplay.to#$#abort-on-property-read String.fromCharCode
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,clipwatching.com,protect-mylinks.com#$#abort-current-inline-script document.createElement String.fromCharCode
@@ -1927,8 +1928,9 @@ player-cdn.com###playback-fake
 vebo5.net,xoilac5.net##.modal.fade.show
 vebo5.net,xoilac5.net#$#abort-current-inline-script jQuery popupBanners
 vebo5.net,xoilac5.net#$#abort-on-property-read adsRedirectPopups
-sex369.net,viet69.gg,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read parseInt
+sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script setTimeout log;abort-current-inline-script $ open
+javnong.cc#$#abort-on-property-read Math.round
 ! *** abp-filters-hotfix:hotfix.txt ***
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|

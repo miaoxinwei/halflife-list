@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wcPoqw+znz6OqoBEK32yDA
+! Checksum: 0jmby4yTm5e+38ACd/n6zw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202211290923
-! Last Modified: 2022年11月29日 09:23
+! Version: 202211292032
+! Last Modified: 2022年11月29日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55568,6 +55568,7 @@ coinpaprika.com##[href^="https://go2nft.io"]
 imagetwist.com##[href^="https://imagetwist.com/pxt/"]
 topfiveforex.com##[href^="https://iqoption.com/"]
 staticice.com.au##[href^="https://kogan.sjv.io/"]
+theburningplatform.com##[href^="https://libertasbella.com/collections/"]
 topfiveforex.com##[href^="https://luckyfish.io/"]
 manhuaplus.com##[href^="https://manhuaplussoulland.onelink.me/"]
 crypto-news-flash.com##[href^="https://med.etoro.com/"]
@@ -59848,6 +59849,10 @@ ubmcmm.baidustatic.com
 ||yhzm.xyz^
 ||abenshishabi.com^
 ||oehhq.xyz^
+||shouzhi.biz^
+||bdhcpll.cn^
+||66668aaa.com^
+||gfqfjau.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -87392,7 +87397,6 @@ _mongo_stats/
 ||cnzz.com^$third-party
 ||cobaltgroup.com^$third-party
 ||codata.ru^$third-party
-||coefficy.com^$third-party
 ||cogmatch.net^$third-party
 ||cognativex.com^$third-party
 ||cognitivematch.com^$third-party
@@ -88960,6 +88964,7 @@ _mongo_stats/
 ||slingpic.com^$third-party
 ||smadex.com^$third-party
 ||smallseotools.com^$third-party
+||smart-data-systems.com^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
 ||smart-ip.net^$third-party
@@ -92385,6 +92390,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc.marfeelcache.com^
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
+||bc0a.com/be_ixf_js_sdk.js
 ||bdg.com/event?
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -92587,6 +92593,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.trvdp.com^
 ||cnzz.com/stat.
 ||cod.bitrec.com^
+||coefficy.com/ip/
 ||coherentpath.com/tracker/
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
