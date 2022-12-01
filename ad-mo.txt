@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T2b2OXvBV+s2Drqm1HQV0A
+! Checksum: G5CY9PTbL9QR+TYPIVcf8A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202212011421
-! Last Modified: 2022年12月01日 14:21
+! Version: 202212012034
+! Last Modified: 2022年12月01日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22414,6 +22414,7 @@ tomwans.com#@#.adright
 in.fo#@#.ads-banner
 bdsmlr.com#@#.ads-container
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
+heatware.com#@#.ads-image
 t3.com#@#.ads-inline
 hatenacorp.jp,milf300.com#@#.ads-link
 circus-dev.com#@#.ads-list
@@ -52344,6 +52345,7 @@ bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com,duquoin.com,rand
 versus.com###bill_bottom
 cricketnetwork.co.uk,f1network.net,howtogermany.com,rugbynetwork.net,thefootballnetwork.net,timesandstar.co.uk###billboard
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
+thegazette.com###billboard-wrap
 inquirer.net###billboard_article
 searchenginereports.net###bio_ep
 searchenginereports.net###bio_ep_bg
@@ -54274,7 +54276,7 @@ flv2mp3.by##.horizontal-area
 getmyuni.com##.horizontalRectangle
 aarp.org##.hot-deals
 dailyrecord.co.uk##.hotjobs
-distractify.com,radaronline.com##.hrnSiz
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hrnSiz
 cryptorank.io##.hspOLW
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
@@ -54334,7 +54336,7 @@ kfm.co.za##.itunes-sml
 itweb.co.za##.itw-content-zone
 ownedcore.com##.iv-note
 india.com##.iwplhdbanner-wrap
-distractify.com,radaronline.com##.jAeACy
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.jAeACy
 ticketmaster.com##.jTNWic
 notateslaapp.com##.jeffdlwlxpqi
 psypost.org##.jeg_midbar
@@ -54641,6 +54643,7 @@ marineelectronics.com,marinetechnologynews.com,maritimeprofessional.com##.nwm-ba
 kueez.com,trendexposed.com,wackojacko.com##.nya-slot
 golfdigest.com##.o-ArticleRecirc
 lawandcrime.com,mediaite.com##.o-promo-unit
+afkgaming.com##.o-yqC
 comicbook.com##.oas
 flashscore.co.za##.oddsPlacement
 softexia.com##.offer
@@ -54657,6 +54660,7 @@ egmnow.com##.outbrain-wrapper
 techadvisor.com##.outer-wrapper
 aminoapps.com##.overflow-scroll-sidebar > div
 golfweather.com##.ox300x250
+afkgaming.com##.ozw5N
 breakingnews.ie##.p-2.bg-gray-100
 beermoneyforum.com##.p-body-sidebar
 mc-market.org##.p-body-sidebar center [href]
@@ -54984,9 +54988,8 @@ pcgamesn.com##.saw-wrap
 animehub.ac##.sb-subs
 kotaku.com##.sc-6zn1bq-0
 fortune.com##.sc-efBctP
-radaronline.com##.sc-gXZlrW
 scotsman.com##.sc-igwadP
-okmagazine.com##.sc-jffIyK
+distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.sc-oefIU
 sankakucomplex.com##.scad
 bangordailynews.com##.scaip
 newindianexpress.com##.scc
@@ -57104,6 +57107,8 @@ jizzbunker.com,xxxdan.com##.rzx1
 forum.lewdweb.net,forums.socialmediagirls.com##.samCodeUnit
 porngals4.com##.sb250
 sextb.net##.sextb_300
+gay-streaming.com##.sgpb-popup-dialog-main-div-wrapper
+gay-streaming.com##.sgpb-popup-overlay
 h2porn.com##.side-spot
 sankakucomplex.com##.side300xmlc
 video.laxd.com##.side_banner
@@ -59943,6 +59948,8 @@ ubmcmm.baidustatic.com
 ||gkcmei.xyz^
 ||h6cp.icu^
 ||hssebb.xyz^
+||yangliu.ink^
+||gknybkl.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -71960,9 +71967,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szgpmy.com/js/
-||szhk.com/565.jpg
-||szhk.com/iframe/
-||szhk.com/include/taobao
 ||szhongzi.com/js/
 ||szjjzs.com/js/cs*.js
 ||szjjzs.com/js/d*.js
@@ -72089,7 +72093,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||ttavav6.com/zz/
-||tucao.eu/uploadfile/*/300-86.
+||tucao.live/uploadfile/*/300-86.
 ||tui.gtimg.com//res/
 ||tuicool.com/images/upload/aliyun
 ||tupian55.com^*.gif
@@ -73068,7 +73072,6 @@ chinanews.com###dingtong
 msn.com###displayAdCard
 3boys2girls.com###displayadb1
 3boys2girls.com###displayadbu3
-szhk.com###div01
 3boys2girls.com###div3_display3
 findprice.com.tw###divBestBuy
 76xh.com###divFendDuo
@@ -73316,7 +73319,6 @@ gasaq.com###guanggao_right
 hao123.com###guesslikesite
 hao123.com###guesslikesite-block
 szhk.com###h_banner
-szhk.com###h_textads
 hao123.com###hao123-gw11
 javhope.com###havhope
 chaidu.com,kdslife.com###hb
@@ -74507,7 +74509,7 @@ weiyun001.com##.agency-list
 wmzhe.com##.aibyte_ad
 moe.best##.alert
 5217kdy1.xyz##.alert-success + center
-eetop.cn,tucao.eu##.alert_windows
+eetop.cn,tucao.live##.alert_windows
 ali213.net##.ali-photo-carousel-pic > li > a[href*=".fhyx."]
 phpvar.com##.aliPic
 sm.cn##.ali_row[ad_aid]
@@ -75436,7 +75438,7 @@ youivr.com##.header-widget-region
 iqiyi.com##.headerLink01
 iqiyi.com##.headerLink02
 jiegeng.com##.header__item--fr
-tucao.eu##.header_rmb
+tucao.live##.header_rmb
 seehd.so##.header_wrap + .tac + table[align="center"]
 aguitar.cn,guitarchina.com##.headerbanner
 aguitar.cn##.headerbanner2
@@ -76028,7 +76030,6 @@ haoxxoo.com##.nrad1
 haoxxoo.com##.nrad2
 newsmth.net##.ns-ad
 24k99.com,fx168.com##.ny2018_txtLink
-szhk.com##.ny_ad1
 10jqka.com.cn,hepan.com##.onead
 duba.com##.oneone-search
 bilibili.com##.online + .adpos
@@ -77865,7 +77866,6 @@ poklw.com##img[alt="恰饭广告"]
 qq.com##img[data-module="advertisement"]
 gucheng.com##img[data-mv-ad]
 eworldship.com##img[height="70"]
-szhk.com##img[id^="adp"]
 jspoo.com##img[id^="float_img_"]
 bukaivip.com##img[onclick]
 jhhrm.com##img[onerror*="/ad/"]
@@ -79296,7 +79296,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a1.zhanzhang.net^
 ||a15d55423.5tps.xyz^
 ||a3.jandan.net^
-||aa.0755rc.com^
+||0755rc.com^$third-party
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
 ||aaa.tumanyi.com^
@@ -88865,6 +88865,7 @@ _mongo_stats/
 ||research-tool.com^$third-party
 ||researchintel.com^$third-party
 ||researchnow.co.uk^$third-party,domain=~dynata.com
+||researchnow.com^$third-party
 ||resetdigital.co^$third-party
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
@@ -90909,14 +90910,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shinesavage.com^
 ||shinestuart.com^
 ||shockinggrass.com^$third-party
-||shockingship.com^$third-party
+||shockingship.com^
 ||shopbreakfast.com^
 ||showsteel.com^
 ||showstranger.com^
 ||shrillspoon.com^
 ||shutseashore.com^
-||shyseed.com^$third-party
-||sicksmash.com^$third-party
+||shyseed.com^
+||sicksmash.com^
 ||silentcredit.com^
 ||silentwrench.com^
 ||siliconslow.com^
@@ -90925,8 +90926,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||simplesidewalk.com^
 ||simplisticstem.com^
 ||sincerebuffalo.com^
-||sinceresubstance.com^$third-party
-||singroot.com^$third-party
+||sinceresubstance.com^
+||singroot.com^
 ||sixscissors.com^
 ||sizesidewalk.com^
 ||skillfuldrop.com^
@@ -90938,14 +90939,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||slipperysack.com^
 ||sloppycalculator.com^
 ||sloppyearthquake.com^
-||smallbeginner.com^$third-party
+||smallbeginner.com^
 ||smashshoe.com^
-||smashsurprise.com^$third-party
+||smashsurprise.com^
 ||smilingcattle.com^
 ||smilingshake.com^
 ||smilingwaves.com^
 ||smoggysnakes.com^
-||smoggystation.com^$third-party
+||smoggystation.com^
 ||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
@@ -90954,13 +90955,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sneakystew.com^
 ||snoresmile.com^
 ||soaprange.com^
-||soggysponge.com^$third-party
+||soggysponge.com^
 ||somberattack.com^
-||somberscarecrow.com^$third-party
+||somberscarecrow.com^
 ||sombersea.com^
 ||sombersquirrel.com^
 ||somberstructure.com^
-||sombersurprise.com^$third-party
+||sombersurprise.com^
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
@@ -90972,7 +90973,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soretrain.com^
 ||sortsail.com^
 ||sortstructure.com^
-||sortsummer.com^$third-party
+||sortsummer.com^
 ||sowlettuce.com^
 ||spadelocket.com^
 ||sparklesleet.com^
@@ -90981,10 +90982,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||specialscissors.com^
 ||specialsnake.com^
 ||specialstatement.com^
-||spellsalsa.com^$third-party
+||spellsalsa.com^
 ||spendpest.com^
 ||spidersboats.com^
-||spiffymachine.com^$third-party
+||spiffymachine.com^
 ||spikyslave.com^
 ||spirebaboon.com^
 ||spitefulstop.com^
@@ -91001,15 +91002,15 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spottedsnow.com^
 ||springaftermath.com^
 ||springsister.com^
-||spuriousbase.com^$third-party
-||spurioussteam.com^$third-party
+||spuriousbase.com^
+||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
 ||squashfriction.com^
-||squeakzinc.com^$third-party
+||squeakzinc.com^
 ||squealingturn.com^
 ||squeamishspot.com^
-||squirrelhands.com^$third-party
+||squirrelhands.com^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||stakingsmile.com^
@@ -91019,27 +91020,27 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||standingnest.com^
 ||standingsack.com^
 ||standtrouble.com^
-||stat.pet^$third-party
+||stat.pet^
 ||statementsweater.com^
 ||statuesquebrush.com^
 ||steadfastseat.com^
-||steadfastsound.com^$third-party
+||steadfastsound.com^
 ||steadfastsystem.com^
 ||steadycopper.com^
 ||steepsquirrel.com^
-||stepplane.com^$third-party
+||stepplane.com^
 ||stereoproxy.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
 ||stickssheep.com^
 ||stickysheet.com^
-||stiffgame.com^$third-party
-||stiffstem.com^$third-party
+||stiffgame.com^
+||stiffstem.com^
 ||stockingsneeze.com^
 ||storescissors.com^
 ||storeslope.com^
-||storesurprise.com^$third-party
-||stormyachiever.com^$third-party
+||storesurprise.com^
+||stormyachiever.com^
 ||stoveseashore.com^
 ||straightnest.com^
 ||strangesink.com^
@@ -91055,26 +91056,26 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stupidsnake.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
-||subsequentswim.com^$third-party
+||subsequentswim.com^
 ||substantialcarpenter.com^
 ||substantialstraw.com^
 ||succeedscene.com^
 ||successfulscent.com^
-||suddensidewalk.com^$third-party
+||suddensidewalk.com^
 ||suddensnake.com^
 ||suddensoda.com^
 ||suddenstructure.com^
-||sugarcurtain.com^$third-party
+||sugarcurtain.com^
 ||sulkybutter.com^
 ||sulkycook.com^
 ||summerobject.com^
 ||superficialeyes.com^
 ||superficialspring.com^
-||superficialsquare.com^$third-party
+||superficialsquare.com^
 ||supervisegoldfish.com^
 ||suspendseed.com^
 ||sweepsheep.com^
-||sweetslope.com^$third-party
+||sweetslope.com^
 ||swellstocking.com^
 ||swimslope.com^
 ||swordgoose.com^
@@ -91088,11 +91089,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tastefulsongs.com^
 ||tastelesstrees.com^
 ||tastelesstrucks.com^
-||tawdryson.com^$third-party
+||tawdryson.com^
 ||tdzvm.pw^
 ||tediousticket.com^
 ||tedioustooth.com^
-||teenytinycellar.com^$third-party
+||teenytinycellar.com^
 ||teenytinyshirt.com^
 ||teenytinytongue.com^
 ||teenyvolcano.com^
@@ -91116,19 +91117,19 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thirdrespect.com^
 ||thirstylettuce.com^
 ||thirstyswing.com^
-||thirstytwig.com^$third-party
+||thirstytwig.com^
 ||thomastorch.com^
 ||threechurch.com^
 ||threetruck.com^
 ||throattrees.com^
 ||thunderingrose.com^
 ||ticketaunt.com^
-||ticklesign.com^$third-party
+||ticklesign.com^
 ||timeterritory.com^
 ||timetwig.com^
 ||tinytendency.com^
 ||tiresomethunder.com^
-||toecircle.com^$third-party
+||toecircle.com^
 ||toedrawer.com^
 ||toothbrushnote.com^
 ||toothpasterabbits.com^
@@ -91136,7 +91137,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
-||tranquilside.com^$third-party
+||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
 ||trapteaching.com^
@@ -91145,30 +91146,30 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tremendoustime.com^
 ||tremendoustreatment.com^
 ||trickycelery.com^
-||troubledtail.com^$third-party
+||troubledtail.com^
 ||truckstomatoes.com^
 ||tumblebirds.com^
 ||tutorthing.com^
 ||typicalairplane.com^
-||typicalteeth.com^$third-party
+||typicalteeth.com^
 ||tzwaw.pw^
-||ubiquitousyard.com^$third-party
+||ubiquitousyard.com^
 ||ultraoranges.com^
-||unarmedindustry.com^$third-party
+||unarmedindustry.com^
 ||unbecomingbikes.com^
 ||unbecominghall.com^
 ||uncoveredcircle.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
-||unequalbrake.com^$third-party
+||unequalbrake.com^
 ||unevenstring.com^
 ||unifyaddition.com^
 ||uninterestedquarter.com^
-||unknowncrate.com^$third-party
+||unknowncrate.com^
 ||unknowntray.com^
 ||unnaturalcaption.com^
 ||untidyquestion.com^
-||untidyrice.com^$third-party
+||untidyrice.com^
 ||unusedquestion.com^
 ||unusedstone.com^
 ||unusualtitle.com^
@@ -91210,7 +91211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wildernesscamera.com^
 ||wirecomic.com^
 ||wistfulflight.com^
-||womanear.com^$third-party
+||womanear.com^
 ||workableachiever.com^
 ||workoperation.com^
 ||worriednumber.com^
@@ -110647,6 +110648,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||flsenate.gov/Scripts/GoogleAnalytics.js$~third-party
 @@||fmz.com/pkg/fingerprint2.min.js$~third-party,xmlhttprequest
 @@||fooducate.com/resources/js/Analytics.js$~third-party
+@@||foxrentacar.com/etc/designs/dotcom/clientlibs_base/$script,~third-party
 @@||friendbuy.com^$domain=butcherbox.com
 @@||gatsbyjs.com/page-data/$~third-party,xmlhttprequest
 @@||gem.cbc.ca/public/vendor/comscore.js$script,~third-party
@@ -111097,6 +111099,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
 @@||googletagmanager.com/gtm.js?$domain=journaldunet.com
+@@||inbenta.io/prod/km/v1/tracking/events$domain=axa.fr
 @@||lexpress.fr/tagcommander.js$script,~third-party
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
