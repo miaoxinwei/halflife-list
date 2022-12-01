@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2foq65aiO07WN+nryezl1Q
+! Checksum: ig/yMjvVhii6YR+9jza15w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212010940
-! Last Modified: 2022年12月01日 09:40
+! Version: 202212011421
+! Last Modified: 2022年12月01日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1988,6 +1988,7 @@ ubmcmm.baidustatic.com
 ||cichiji.top^
 ||gkcmei.xyz^
 ||h6cp.icu^
+||hssebb.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -19432,7 +19433,6 @@ benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
-bnext.com.tw#?#.v-card:-abp-has(.grey--text:-abp-contains(Sponsored by))
 api.so.lianmeng.360.cn,pos.baidu.com##body
 qzwb.com##body > .area[style^="height:60px;"]
 qger.net##body > :not(div):not(header):not(img):not(ocjx):not(span):not(ui)
@@ -19604,7 +19604,6 @@ msn.com##div[data--adqjyluqt]
 baidu.com##div[data-ad]
 uc.cn##div[data-ad_url^="http"]
 sina.cn##div[data-adid]
-bnext.com.tw##div[data-aid]
 cqmmgo.com##div[data-id*="_adv_"]
 m.cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 freejavbt.com##div[data-selector*="ai-insert-"]
@@ -34721,19 +34720,19 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fairfeeling.com^
 ||fallaciousfifth.com^$third-party
 ||falsefeet.com^
-||falseframe.com^$third-party
-||familiarrod.com^$third-party
+||falseframe.com^
+||familiarrod.com^
 ||famousquarter.com^
 ||fancyactivity.com^
 ||fangfeeling.com^
 ||fantasticsmash.com^
 ||farethief.com^
-||farmergoldfish.com^$third-party
-||farshake.com^$third-party
+||farmergoldfish.com^
+||farshake.com^
 ||fascinatedfeather.com^
 ||fastenfather.com^
-||fatcoil.com^$third-party
-||faultycanvas.com^$third-party
+||fatcoil.com^
+||faultycanvas.com^
 ||faultyfowl.com^
 ||fearfowl.com^
 ||fearfulfish.com^
@@ -34741,25 +34740,26 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||feebleshock.com^
 ||fifthborder.com^
 ||finalizeforce.com^
-||firstfrogs.com^$third-party
-||flakyfeast.com^$third-party
+||firstfrogs.com^
+||flakyfeast.com^
 ||flimsycircle.com^
 ||flimsythought.com^
-||flockflame.com^$third-party
+||flockflame.com^
 ||floodprincipal.com^
 ||flowerstreatment.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||foamyfood.com^
-||forecasttiger.com^$third-party
+||forecasttiger.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
 ||forgetfulflowers.com^
+||fortunatemark.com^
 ||fourarithmetic.com^
 ||fourfork.com^
 ||frailflock.com^
 ||frailfruit.com^
-||frailoffer.com^$third-party
+||frailoffer.com^
 ||franticcarpenter.com^
 ||frantictrail.com^
 ||fretfulfurniture.com^
@@ -34839,7 +34839,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||highfalutinhoney.com^
 ||highfalutinroom.com^
 ||hilariouszinc.com^$third-party
-||historicalbeam.com^$third-party
+||historicalbeam.com^
 ||historicalrequest.com^
 ||hocgeese.com^$third-party
 ||hollowafterthought.com^
@@ -35562,7 +35562,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zestycrime.com^
 ||zipperxray.com^
 ||zippywind.com^
-||zlp6s.pw^$third-party
+||zlp6s.pw^
 !-----------------International third-party tracking domains-----------------!
 ||123-counter.de^$third-party
 ||12mnkys.com^$third-party
@@ -40092,6 +40092,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||brightside.me/metric-collector
 ||builder.io/api/v1/track
 ||buondua.com/hit/
+||buzzfeed.com/destination-sync.html
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||c.paypal.com^$script
 ||c.wort-suche.com^
