@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rRROxkLVOJc53WZKAorDCA
+! Checksum: QQ61BCseB+xIMe574qoxOg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212030914
-! Last Modified: 2022年12月03日 09:14
+! Version: 202212031418
+! Last Modified: 2022年12月03日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2015,6 +2015,8 @@ ubmcmm.baidustatic.com
 ||91pk.love^
 ||kvbgoc.com^
 ||gcxp.xyz^
+||jieshimaya.xyz^
+||82ip.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -31857,7 +31859,6 @@ _mongo_stats/
 ||instore.biz^$third-party
 ||intelimet.com^$third-party
 ||intelli-direct.com^$third-party
-||intelligems.io^$third-party
 ||intelligencefocus.com^$third-party
 ||intellimize.co^$third-party
 ||interact-analytics.com^$third-party
@@ -36955,6 +36956,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||instagram.com/logging_client_events
 ||installiq.com/Pixels/
 ||intake-analytics.wikimedia.org^
+||intelligems.io/track
 ||intelligencefocus.com^*/sensor.js
 ||intelligencefocus.com^*/websensor.aspx?
 ||intensedebate.com/remotevisit.php?
@@ -39417,6 +39419,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.hashnode.com^
 ||analytics.kaggle.io^
 ||analytics.kraken.com^
+||analytics.makeitmeme.com^
 ||analytics.mouthshut.com^
 ||analytics.nike.com^
 ||analytics.ovh.com^
@@ -39995,6 +39998,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ncbi.nlm.nih.gov/core/pinger
 ||neatorama.com/story/view/
 ||neeva.com/logql/log
+||neighbourly.co.nz/event-tracking
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/

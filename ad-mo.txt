@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ti9I6sp4Ovv5DWI9uV+m7Q
+! Checksum: TC4dIV9Ehv1gpFaf1een9A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202212030914
-! Last Modified: 2022年12月03日 09:14
+! Version: 202212031418
+! Last Modified: 2022年12月03日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -15837,6 +15837,7 @@ _800x80_
 ##.block-dfp-blocks
 ##.block-doubleclick_ads
 ##.block-fusion-ads
+##.block-google-admanager
 ##.block-heremedia-ads
 ##.block-inner-adds
 ##.block-itg-ads
@@ -25022,6 +25023,7 @@ tf2r.com#@#.adverts
 ||appsprelandlab.com^
 ||apptdvibrate.com^
 ||apptechnewz.com^
+||apptjmp.com^
 ||appwebview.com^
 ||appzeyland.com^
 ||apricotaimless.com^
@@ -43851,6 +43853,7 @@ tf2r.com#@#.adverts
 ||wmlleyjtj.com^
 ||wmnejndvberrd.com^
 ||wmonthsaft.biz^
+||wmptctl.com^
 ||wmruzfvtg.com^
 ||wmvlivmdnvy.com^
 ||wmzrmmlgqe.com^
@@ -53851,6 +53854,7 @@ roseindia.net##.col-md-4
 titanwolf.org##.col-md-4 > .card-raised > .card-body
 tineye.com##.col-md-4.sidebar
 disqus.com##.col-promoted
+lapa.ninja##.col-sm-1
 faucetpay.nurul-huda.or.id##.col-sm-3
 thepostmillennial.com##.col.text-center
 nycgo.com##.colBBox
@@ -60063,6 +60067,8 @@ ubmcmm.baidustatic.com
 ||91pk.love^
 ||kvbgoc.com^
 ||gcxp.xyz^
+||jieshimaya.xyz^
+||82ip.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -87618,7 +87624,6 @@ _mongo_stats/
 ||instore.biz^$third-party
 ||intelimet.com^$third-party
 ||intelli-direct.com^$third-party
-||intelligems.io^$third-party
 ||intelligencefocus.com^$third-party
 ||intellimize.co^$third-party
 ||interact-analytics.com^$third-party
@@ -92716,6 +92721,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||instagram.com/logging_client_events
 ||installiq.com/Pixels/
 ||intake-analytics.wikimedia.org^
+||intelligems.io/track
 ||intelligencefocus.com^*/sensor.js
 ||intelligencefocus.com^*/websensor.aspx?
 ||intensedebate.com/remotevisit.php?
@@ -95178,6 +95184,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.hashnode.com^
 ||analytics.kaggle.io^
 ||analytics.kraken.com^
+||analytics.makeitmeme.com^
 ||analytics.mouthshut.com^
 ||analytics.nike.com^
 ||analytics.ovh.com^
@@ -95756,6 +95763,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ncbi.nlm.nih.gov/core/pinger
 ||neatorama.com/story/view/
 ||neeva.com/logql/log
+||neighbourly.co.nz/event-tracking
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/
