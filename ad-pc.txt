@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QInOesDVJHz+FpQDJtzF+A
+! Checksum: je8v/ji1UTgUcoR9GBsyXw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212040218
-! Last Modified: 2022年12月04日 02:18
+! Version: 202212040919
+! Last Modified: 2022年12月04日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54636,6 +54636,7 @@ jpost.com##.line-one-row-before-and-after-container
 babynamegenie.com,forless.com,worldtimeserver.com##.links
 weatherpro.com##.list-city-ad
 gosearchresults.com##.listing-right
+privateproperty.co.za##.listingResultPremiumCampaign
 researchgate.net##.lite-page__above
 reviewparking.com##.litespeed-loaded
 mdisk.me##.liveBox
@@ -56649,6 +56650,8 @@ bing.com##.pa_sb
 bing.com##.productAd
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
+newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
+newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
 insta-stories-viewer.com#?#.profile__tabs-media-item:-abp-has(.profile__adv)
 agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 u.gg#?#.video-guide:-abp-has(.content-section_header:-abp-contains(Sponsored Content))
@@ -60195,6 +60198,10 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||tpvdcqw.cn^
+||phsidmk.cn^
+||gmkmkn.xyz^
+||qycw.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
