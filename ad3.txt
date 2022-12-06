@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JkcA0lvkF8gsbobJsl39Sg
+! Checksum: ydqsFBg3NisLjLEO5jSWMQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212060916
-! Last Modified: 2022年12月06日 09:16
+! Version: 202212061419
+! Last Modified: 2022年12月06日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -12316,7 +12316,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kiees.cn/jm.png
 ||kiees.cn/k1.js
 ||kikinote.net/iframe
-||killcovid2021.com/*.mp4
+||91p49.com/*.mp4
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwi8.top/media/plugins/jquery_confirm/
@@ -19759,7 +19759,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||192.168.*.1/$generichide
 @@||192.168.*/advertising_$stylesheet
 @@||199it.com^$generichide
-@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.jss
+@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.js
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||2345.com/images/activity/20171111/open/j/close.png
@@ -20092,7 +20092,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||kf.cn/ad/css/images/
 @@||kfcclub.com.tw/web/*/ad
 @@||kfcorder.com.tw^*/Advert
-@@||killcovid2021.com/*/*.mp4
+@@||91p49.com/*/*.mp4
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
 @@||l.qq.com/lview?$domain=888.sports.qq.com
@@ -28345,6 +28345,7 @@ m.babytree.com##script + a[class]
 /rum/events
 /rum/id?
 /rum/performance
+/rum?ddsource=
 /rum_cmp?
 /rumcdn.
 /rumstat.
@@ -36065,6 +36066,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.formstack.com^
 ||analytics.google.com^$third-party
 ||analytics.googlepeer.cloud^
+||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.growthphysics.com^
 ||analytics.gvim.mobi^
