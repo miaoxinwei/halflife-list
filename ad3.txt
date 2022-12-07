@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FqlFOiRA9UX+oKRW1+vQkA
+! Checksum: sh4vyW3OhpkT1UYVqUi6tg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212070219
-! Last Modified: 2022年12月07日 02:19
+! Version: 202212070920
+! Last Modified: 2022年12月07日 09:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2054,6 +2054,10 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||kptygka.cn^
+||tchpniy.cn^
+||zbpx.xyz^
+||qlzjwgb.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -40597,7 +40601,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yelp.com/bunsen/
 ||yelp.com/spice?
 ||yeptube.com/collect
-||yfp.intuit.com^
 ||yimg.com/aaq/wf/wf-darla-
 ||yoox.it/storage/rd/yorb/
 ||youjizzlive.com/api/metrics
@@ -40665,10 +40668,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 /^https?:\/\/www\.myservices\.equifax\.ca\/TSPD\/[0-9a-f]{30,}/$script,domain=equifax.ca
 ||127.0.0.1^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay-kleinanzeigen.de|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
 ||all3dp.com/kbcbqexpqvz8wrk88augy7b.js
+||cfa.fidelity.com^
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||content22.bmoharris.com^
 ||content22.citi.eu^$script
+||content22.citibank.com.au^
 ||content22.citibank.com.sg^$script
 ||contents2.00110.citi.com^
 ||customer.homedepot.com^$script
@@ -40679,11 +40684,16 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebaystatic.com/rs/v/klminxoj1uyzvo0p0qu4nhpg0qo.js
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
+||gfp.intuit.com^
+||idstatus.sky.com^
+||imgs.signifyd.com^
 ||ir.ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||olacontent.schwab.com^$script
 ||pages.ebay.com/identity/device/$subdocument
+||rba-screen.healthsafe-id.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||tmetrix.my.chick-fil-a.com^
+||tmx.td.com^
 ||u44.pnc.com^
 ||u47.pnc.com^
 ||w-profiling.cibc.com^$script
