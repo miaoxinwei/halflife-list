@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: F9lT3oSQ3G/yt3HrVvvyeA
+! Checksum: XB0htJEdrniJeIUPqRYvdg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212080918
-! Last Modified: 2022年12月08日 09:18
+! Version: 202212081420
+! Last Modified: 2022年12月08日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -57576,6 +57576,7 @@ fap18.net,fuck55.net,tube.ac,tube.bz##.bb_desktop
 mofosex.net##.bb_show_5
 hotcelebshome.com##.bcpsttl_name_listing
 ok.xxx,pornhat.com##.before-player
+wapbold.com##.bhor-box
 hqporner.com##.black_friday
 babestare.com##.block
 alphaporno.com,tubewolf.com##.block-banner
@@ -58138,6 +58139,7 @@ pornstarbyface.com##div[id^="sponcored-content-"]
 lewdgamer.com##div[id^="spot-"]
 hentaiff.com##div[id^="teaser"]
 pornhub.com,youporngay.com##div[onclick*="bp1.com"]
+simpcity.su##div[style="text-align:center;margin-bottom:20px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 pornpics.network##div[style^="height: 250px;"]
 gay0day.com##div[style^="height:250px;"]
@@ -60836,6 +60838,8 @@ ubmcmm.baidustatic.com
 ||xtzx.xyz^
 ##a[href*="/kk5377.com:"]
 ##a[href*="/wns8499608.xyz"]
+||oehwv.xyz^
+||cjkl.online^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -78544,7 +78548,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||192.168.*.1/$generichide
 @@||192.168.*/advertising_$stylesheet
 @@||199it.com^$generichide
-@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.js
+@@||1vkx.cn/public/*/jquery.min.js
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||2345.com/images/activity/20171111/open/j/close.png
@@ -86178,6 +86182,7 @@ fqsousou.com,kengso.com#@#.user-share
 /web-analytics.
 /web-analytics/*
 /web-api/log/*
+/web-data-ingress?
 /web-js-telemetry-service/*
 /web-vitals-
 /web-vitals.
