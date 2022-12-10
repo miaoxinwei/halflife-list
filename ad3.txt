@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1Vx6gPKwHMXY4wWfbmB0Dg
+! Checksum: iLca2UlkONN6rdCV9JXjtA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212100914
-! Last Modified: 2022年12月10日 09:14
+! Version: 202212101419
+! Last Modified: 2022年12月10日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2134,6 +2134,9 @@ ubmcmm.baidustatic.com
 ||cusfcif.cn^
 ||aqsj.xyz^
 ||cdn-go.net^
+||qgcbht.xyz^
+||thsrh.xyz^
+||9xg2.fun^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -14169,6 +14172,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+360kuai.com##.k-float-btn__qrcode__body
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -27362,6 +27366,7 @@ m.babytree.com##script + a[class]
 /log/businessEvent?
 /log/collect/*
 /log/counter?
+/log/debug?
 /log/error?
 /log/event?
 /log/exposed?
@@ -38812,6 +38817,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wifeo.com/compteurs/$third-party
 ||woopic.com/Magic/o_vr.js
 ||wrapper.lemde.fr^$third-party
+||ws3.smartp.com^
 ||zebestof.com^$third-party
 ||minsk-in.net/counter.php?
 ||aff*.kolektiva.net^
@@ -40146,6 +40152,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
 ||nzpages.co.nz/modules/common/track.js
+||observe.metarouter.io^
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
