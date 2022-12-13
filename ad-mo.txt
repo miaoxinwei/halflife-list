@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cwYmEdckWoU0c2KhNhmQuQ
+! Checksum: S/cLDCjXlFL3opM5RS5tTQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202212131420
-! Last Modified: 2022年12月13日 14:20
+! Version: 202212132030
+! Last Modified: 2022年12月13日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -29674,7 +29674,6 @@ tf2r.com#@#.adverts
 ||frnwvialjbey.xyz^
 ||froggyinter.com^
 ||frogrugby.com^
-||frogtray.com^
 ||frogwokshive.com^
 ||frolicpan.com^
 ||frolnk.com^
@@ -53552,7 +53551,7 @@ ggrecon.com##.venatus-block
 fox10phoenix.com,fox26houston.com,fox4news.com,fox7austin.com,foxbusiness.com,foxla.com,foxnews.com##.vendor-unit
 tetris.com##.verticalAx
 packaginginsights.com##.verticlblk
-videogameschronicle.com##.vgc-boxout
+videogameschronicle.com##.vgc-productsblock
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
@@ -54860,6 +54859,7 @@ porntop.com###s-suggesters
 sexyandfunny.com###sexy-links
 javtiful.com###showerm
 3movs.com###side_col_video_view
+pornhub.com###singleFeedSection > .emptyBlockSpace
 adult-sex-games.com,postyourpuss.com###skyscraper
 hentaifox.com###slider
 javfor.tv###smac12403o0
@@ -57661,6 +57661,7 @@ ubmcmm.baidustatic.com
 ##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
+##a[href*="/23.224.188."]
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ~taobao.com,~tmall.com##A[href="https://s.click.taobao.com/cTAwFvu"]
@@ -58312,6 +58313,12 @@ ubmcmm.baidustatic.com
 ||nmidhnz.cn^
 ||rhcknl.xyz^
 ||itpx.xyz^
+||vulmpvp.cn^
+||kuanzhan.biz^
+||dbwmpqd.cn^
+||66885aaa.com^
+||99888aaa.com^
+||1158555.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -69937,7 +69944,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
 ||w010w.com.cn^$subdocument
-||w3397.com/e/public/onclick/
+||3397ys.com/e/public/onclick/
 ||w51t.com^$subdocument
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wacowla.com/wp-content/plugins/popover/js/
@@ -70344,8 +70351,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
+||ydgal.com/axfile/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 ali213.net##.coopSteambox
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -88171,6 +88180,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fretfulfurniture.com^
 ||friendwool.com^
 ||frightenedpotato.com^
+||frogtray.com^
 ||fronttoad.com^
 ||fujiladder.com^
 ||fumblingform.com^
@@ -94127,6 +94137,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/tr?
 ||rankhit.china.com^
+||ras.yahoo.com/adcount$image,domain=finance.yahoo.com
 ||realestate.com.au^*/p.js
 ||realitytvworld.com/images/pixel.gif
 ||reddit.com/static/pixel.png$image
