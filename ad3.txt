@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fWiLWajwLSS2uUVYrUMBoQ
+! Checksum: pIFDObhF55i4PChUkzjjEQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212141420
-! Last Modified: 2022年12月14日 14:20
+! Version: 202212142031
+! Last Modified: 2022年12月14日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2185,6 +2185,9 @@ ubmcmm.baidustatic.com
 ||ubisbrw.cn^
 ||r5h6.icu^
 ||3v4w.top^
+||zgzlw.biz^
+||ouphff.cn^
+||szycvkt.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -21854,6 +21857,7 @@ smjb.net##div[style*="height: 50%"]
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
 ||zhuishubox.com/js/after-rain.js
+||ibiquge.la/base
 ###appss[style="padding:15px;"]
 ###asdw3
 ###asdw3 + img + :not(div)
@@ -54628,6 +54632,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
+@@||helidon.io/docs/v3/pages/mp/metrics/metrics.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev

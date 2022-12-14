@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /JG2xsjrCU6+jz7dG3aPBg
+! Checksum: QpS0wQEKExYMO/ii6ucG8g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212141420
-! Last Modified: 2022年12月14日 14:20
+! Version: 202212142031
+! Last Modified: 2022年12月14日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -53603,6 +53603,7 @@ coolors.co##[style*="position:absolute;top:20px;"]
 shotcut.org##[style="background-color: #fff; padding: 6px; text-align: center"]
 cbn.com##[style="display:block !important; min-height:90px;"]
 tenforums.com,wahm.com##[style="min-height:250px;"]
+vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
 reuters##[testid="ResponsiveAdSlot"]
 torrentresource.com##[width="150"]:last-child
@@ -58058,6 +58059,9 @@ ubmcmm.baidustatic.com
 ||ubisbrw.cn^
 ||r5h6.icu^
 ||3v4w.top^
+||zgzlw.biz^
+||ouphff.cn^
+||szycvkt.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -77727,6 +77731,7 @@ smjb.net##div[style*="height: 50%"]
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
 ||zhuishubox.com/js/after-rain.js
+||ibiquge.la/base
 ###appss[style="padding:15px;"]
 ###asdw3
 ###asdw3 + img + :not(div)
@@ -108215,6 +108220,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
+@@||helidon.io/docs/v3/pages/mp/metrics/metrics.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
