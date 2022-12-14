@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LqEE2M5cQfUz7EbeSvz7IA
+! Checksum: fWiLWajwLSS2uUVYrUMBoQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212140918
-! Last Modified: 2022年12月14日 09:18
+! Version: 202212141420
+! Last Modified: 2022年12月14日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2180,6 +2180,11 @@ ubmcmm.baidustatic.com
 ||qtnfnrm.cn^
 ||czos.xyz^
 ||csekct.xyz^
+||ytcc3.com^
+||1202liutiao.xyz^
+||ubisbrw.cn^
+||r5h6.icu^
+||3v4w.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -30184,6 +30189,7 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _webiq.
+_WebVitalsReporter_
 _wiselog_
 _xiti_js-
 cgi-bin/counter
@@ -37244,6 +37250,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log-*.previewnetworks.com^
 ||log.aimtell.com^
 ||log.artipbox.net^$third-party
+||log.cookieyes.com^
 ||log.go.com^
 ||log.invodo.com^
 ||log.kibboko.com^
@@ -39361,6 +39368,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||inforotor.net/rotor/
 ||izhevskinfo.ru/count/
 ||karelia.info/counter/
+||kraken.rambler.ru^
 ||kvartirant.ru/counter.php?
 ||likemore-go.imgsmail.ru^$image
 ||linestudio.ru/counter/
@@ -40481,6 +40489,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.photospecialist.co.uk^
 ||ssc.api.bbc.com^
 ||st.sawlive.tv^
+||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
 ||stan.xing.com^
 ||stapadblockuser.info/stat/
@@ -53422,6 +53431,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||boingtv.fr/track_view
 ||cdtm.cdiscount.com^
 ||compteur.developpez.com^
+||courrierinternational.com/it.hal
 ||developpez.com/public/js/track.js
 ||e.m6web.fr/events
 ||easeus.com/default/js/aff_buy_tracking.js
@@ -53972,6 +53982,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||volkswagen-italia.it^*/tracking/
 ||vvvvid.it^$ping
 ||yachtingnetwork.it/stat/
+||abema-tv.com/v1/stats/
 ||amazonaws.com/ai-img/aia.js
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
