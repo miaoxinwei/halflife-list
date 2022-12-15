@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2coGrLoZg2o9mDnkRcdCSQ
+! Checksum: de2WqXTiI1pjGf2BTLHFpw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202212152030
-! Last Modified: 2022年12月15日 20:30
+! Version: 202212160217
+! Last Modified: 2022年12月16日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1683,6 +1683,7 @@ www.wp.pl#$#hide-if-matches-xpath './/div[@id][@data-st-area]/div[1]/div/parent:
 poczta.o2.pl#$#hide-if-matches-xpath './/a[@class][contains(@href,"wp.pl/")]/parent::div[@style]/ancestor-or-self::div[@class][@slot="NATIVE_FEED"]/parent::div[1]'
 poczta.o2.pl#$#hide-if-matches-xpath './/div[@class]/iframe[@sandbox][contains(@src,"wpcdn.pl/tag/poczta.o2.pl/")]/ancestor::div[string-length(@class) >30]'
 poczta.o2.pl#$#hide-if-matches-xpath '//div[@class]/following-sibling::a[@target="_blank"]/following::div[@class][@id][@style]/preceding::div[@class][1]'
+poczta.o2.pl#$#hide-if-matches-xpath '//div[@class]/div[@style="height: 60px;"]/a[contains(@href,"poczta.o2.pl/")]/div/following::div[2]/following-sibling::img[contains(@src,"v.wpimg.pl/")]/following-sibling::div[@class]/parent::div'
 poczta.o2.pl##img[src*="wpimg.pl/"]
 poczta.o2.pl##dd-holder[slot^="BANNER_TOP"]
 poczta.o2.pl##dd-holder[slot^="DOUBLE_BILLBOARD"]
