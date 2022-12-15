@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9sM/aPV1n+Dexwgy5IVWHQ
+! Checksum: ii7MBCxYm/ciH8CjTybFHg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212151420
-! Last Modified: 2022年12月15日 14:20
+! Version: 202212152030
+! Last Modified: 2022年12月15日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1592,6 +1592,7 @@ ubmcmm.baidustatic.com
 ~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
+##.guanggaoBox
 ##body[onload*="u()"] > #x
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
@@ -2196,6 +2197,14 @@ ubmcmm.baidustatic.com
 ||wyqwrfghj.live^
 ||hcdjy.xyz^
 ||tsmirk.xyz^
+||88kids.mobi^
+||meikdein.xyz^
+||vipzhuan.xyz^
+||b6c4.top^
+||huineihan.com^
+##A[href*="/x5123.cc"]
+||adiexjy.cn^
+||caudojq.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -14229,8 +14238,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||xiazaicdnapk.com^*.mp4
+||killcovid2021.com/thumb/*.mp4
+||3dmgame.com/sw/zjworld/js/index.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+91porn.com##.preroll-blocker
+zk001.cc##SECTION[class^="ch"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -25657,6 +25671,7 @@ m.babytree.com##script + a[class]
 /beacon/get/*
 /beacon/info?
 /beacon/init?
+/beacon/media?
 /beacon/metrics
 /beacon/page?
 /beacon/perf
@@ -29037,7 +29052,6 @@ m.babytree.com##script + a[class]
 /tagmanager/pptm.
 /tagmgmt/bootstrap.
 /tagomnitureengine.js
-/tags/angular-
 /tags?session_id=
 /TagSvc/*
 /tagx.js
@@ -30842,6 +30856,7 @@ _mongo_stats/
 ||sitedataprocessing.com^
 ||sixtrk.com^
 ||sjpf.io^
+||soapfighters.com^
 ||solutionshindsight.net^
 ||speedyfox.io^
 ||speedyrhino.co^
@@ -33279,6 +33294,7 @@ _mongo_stats/
 ||truconversion.com^$third-party
 ||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
+||truffle.one^$third-party
 ||truoptik.com^$third-party
 ||trysera.com^$third-party
 ||tscounter.com^$third-party
@@ -54647,7 +54663,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
-@@||helidon.io/docs/v3/pages/mp/metrics/metrics.js$~third-party
+@@||helidon.io/docs/*/metrics/metrics$~third-party,xmlhttprequest
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
