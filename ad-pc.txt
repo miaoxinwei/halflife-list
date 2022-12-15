@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1cK925RtHeezRHCDDzQgXw
+! Checksum: 39FGZzUm5UNKK/R6nGEf8w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212150919
-! Last Modified: 2022年12月15日 09:19
+! Version: 202212151420
+! Last Modified: 2022年12月15日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -34973,6 +34973,7 @@ tf2r.com#@#.adverts
 ||pastaesthetictracks.com^
 ||pastimebeakjudgement.com^
 ||pastivapte.pro^
+||pastoupt.com^
 ||pastreflected.com^
 ||pasxfixs.com^
 ||patalogs.com^
@@ -51911,6 +51912,8 @@ shtfplan.com,yournews.com##.et_pb_code_inner
 mobafire.com##.exhibit-narrow
 mobafire.com##.exhibit-vertical
 streamingmedia.com##.expand
+appuals.com##.expu-protipeop
+appuals.com##.expu-protipmiddle_2
 thepostemail.com##.external
 pixabay.com##.external-media
 yourbittorrent.com##.extneed
@@ -53395,7 +53398,7 @@ onepagerules.com##.wp-container-6.wp-block-columns
 strangesounds.org##.wp-image-281312
 hack-sat.com##.wp-image-31131
 rvguide.com##.wp-image-3611
-appuals.com##.wp-timed-p
+appuals.com##.wp-timed-p-content
 bevmalta.org,chromoscience.com,hawaiireporter.com##.wpa
 techyv.com##.wpb_raw_code
 premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
@@ -58094,6 +58097,7 @@ ubmcmm.baidustatic.com
 ||kyrj.xyz^
 ||wyqwrfghj.live^
 ||hcdjy.xyz^
+||tsmirk.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -83915,6 +83919,8 @@ cgi-bin/counter
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
 .travis-ci.com/r/$image
+.tripadvisor.com/MptUrl?$image
+.tripadvisor.com/q/$image
 .umusic-online.com^*/o.gif
 .warehousefashion.com/warehouse/e/$image
 .webex.com/q/
@@ -87208,6 +87214,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gravitec.net^$third-party
 ||heroesdom.com^$third-party
 ||highfalutinhoney.com^$third-party
+||hrbpark.bid^$third-party
 ||jeeng.com^$third-party
 ||kattepush.com^$third-party
 ||master-push.com^$third-party
@@ -87218,6 +87225,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mypush.online^$third-party
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
+||netmera-web.com^$third-party
 ||notifadz.com^$third-party
 ||notify.solutions^$third-party
 ||notiks.io^$third-party
@@ -87234,6 +87242,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||push-ad.com^$third-party
 ||push-free.com^$third-party
 ||push-house.net^$third-party
+||push.delivery^$third-party
 ||push7.jp^$third-party
 ||pushalert.co^$third-party
 ||pushbird.com^$third-party
@@ -87261,11 +87270,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||urbanairship.com^
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
+||webpushs.com^$third-party
 ||whiteclick.biz^$third-party
 ||wonderpush.com^$third-party
 ||wpshsdk.com^
 ||wwclickserv.club^$third-party
 ||wwclicktm.club^$third-party
+||wwopenclick.space^
 ||xtremepush.com^$third-party
 ||breaktime.com.tw^$third-party
 ||brightedge.com^$third-party
