@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qfaqdTWjE7rK5yF75FEMrA
+! Checksum: Wwe8/u5YdKS0C3mG7lrgmw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212162027
-! Last Modified: 2022年12月16日 20:27
+! Version: 202212170218
+! Last Modified: 2022年12月17日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -27587,6 +27587,7 @@ tf2r.com#@#.adverts
 ||counciladvertising.net^
 ||councilcoveauto.com^
 ||counct.com^
+||counda.com^
 ||countertrck.com^
 ||countessbridge.com^
 ||countilde.online^
@@ -29191,6 +29192,7 @@ tf2r.com#@#.adverts
 ||ethimdownth.xyz^
 ||ethnicacknowledgedbeneficial.com^
 ||ethnicbrotherhoodunmoved.com^
+||etmvbfyqlvk.com^
 ||etmxjglxsthvm.xyz^
 ||etoexukpre.com^
 ||etracking.pro^
@@ -29684,7 +29686,9 @@ tf2r.com#@#.adverts
 ||fixsirrod.site^
 ||fjioh.com^
 ||fjiruslmc.xyz^
+||fjttbkoxer.xyz^
 ||fkbwtoopwg.com^
+||fkezkucic.com^
 ||fkiqisalq.com^
 ||fkjjpwzkrfdg.com^
 ||fla4n6ne7r8ydcohcojnnor.com^
@@ -29924,6 +29928,7 @@ tf2r.com#@#.adverts
 ||frtya.com^
 ||frtyd.com^
 ||frugalrushcap.com^
+||fruins.com^
 ||fruzrotula.com^
 ||fryawlauk.com^
 ||frypanbushlet.com^
@@ -30835,6 +30840,7 @@ tf2r.com#@#.adverts
 ||hbfulzie.life^
 ||hbgwiakics.xyz^
 ||hbsjqogt.xyz^
+||hbzhrxdmm.com^
 ||hconsukulti.co^
 ||hcthguce.xyz^
 ||hd100546c.com^
@@ -32361,6 +32367,7 @@ tf2r.com#@#.adverts
 ||koxeebee.net^
 ||koxsqcuf.top^
 ||kpuqwdqsol.xyz^
+||kqhi97lf.de^
 ||kqpdnmkkvuu.com^
 ||kqwhorpvy.xyz^
 ||kqzyfj.com^
@@ -35520,6 +35527,7 @@ tf2r.com#@#.adverts
 ||pmzer.com^
 ||pnacmcnlobp.xyz^
 ||pncloudfl.com^
+||pncqcqdj.com^
 ||pnd.gs^
 ||pneuth.com^
 ||pnmoclqxtcsbw.com^
@@ -57221,6 +57229,7 @@ ubmcmm.baidustatic.com
 ||yrcicbo.cn^
 ||oyvveru.cn^
 ||prju.top^
+||u1099.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -69259,6 +69268,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+speedtest.cn##div[class^="speed-twoads"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
