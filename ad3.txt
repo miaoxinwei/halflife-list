@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IywTx9gjfQtNNfM4MqkkFw
+! Checksum: 9oMp7KorOzmplTEOTSxAzA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212180914
-! Last Modified: 2022年12月18日 09:14
+! Version: 202212181417
+! Last Modified: 2022年12月18日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1479,6 +1479,7 @@ ubmcmm.baidustatic.com
 ##.toy52_outer
 ##.toy52apparel_ALL
 ##.trad3
+##.main-content > .a2b3
 ##.twavt-ads
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.txtguanggao
@@ -53547,6 +53548,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||lecho.be/track/
 ||lefigaro.fr/ext/analytics
 ||lefigaro.fr/ext/figanalytics
+||lemonde.fr/*&ptag=
 ||lemonde.fr/bucket/*/tagistan.
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
@@ -53565,6 +53567,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||pixel.dugwood.com^
 ||pixel.ionos.fr^
 ||promoneuve.fr/stat/
+||quellavelinge.com/referer.php?
 ||res.paruvendu.fr^
 ||s5.charliehebdo.fr^
 ||shemsfm.net/ar/setStats/
