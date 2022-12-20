@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fYnaA6Fk5flchKnqEBLD9w
+! Checksum: Ew4E9SK6+IdrdP65I+SItA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202212200219
-! Last Modified: 2022年12月20日 02:19
+! Version: 202212200915
+! Last Modified: 2022年12月20日 09:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1494,7 +1494,10 @@ instacart.com##a[href*="category_hero_id_"]
 samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent::div[@class="sc-specials"]/ancestor::li'
 samsclub.com#$#hide-if-matches-xpath './/span[@class="sc-specials-label"]/following::button[contains(@aria-label,"Sponsored")]/ancestor::div[@class="sc-sba-modules-logo"]'
 ! #CV-663
-canadafreepress.com,conservativefiringline.com,ipatriot.com,naturalblaze.com,patriotnationpress.com,populistpress.com#$#abort-on-property-read document.getElementsByClassName; abort-on-property-read following-ad-container
+beforeitsnews.com,canadafreepress.com,conservativefiringline.com,designbump.com,ipatriot.com,naturalblaze.com,patriotnationpress.com##div[class] > div[id] > main[class][id][role]
+beforeitsnews.com,canadafreepress.com,conservativefiringline.com,designbump.com,naturalblaze.com,patriotnationpress.com##div > aside[class] > span[class*="mdeyheadline-"]
+ipatriot.com##div[class^="textwidget"] > div[class^="pi_"]
+-bobnotime-$image,domain=beforeitsnews.com|canadafreepress.com|conservativefiringline.com|designbump.com|ipatriot.com|naturalblaze.com|patriotnationpress.com
 rightwingnews.com#$#abort-on-property-read document.getElementsByTagName
 procoinnews.com,dailylol.com#$#override-property-read setTimeout noopFunc; abort-on-property-read document.body.innerHTML; override-property-read Object.defineProperty undefined ; hide-if-matches-xpath '//main[@class][@role][@id]/parent::div[1]/ancestor-or-self::div[@class][1]';
 beforeitsnews.com#$#override-property-read setTimeout noopFunc; abort-on-property-read document.body.innerHTML;
