@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cPl1qQAHu5fC/jNcbGCfQA
+! Checksum: jr7t6+gKomIfXVv1oykwpA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202212210911
-! Last Modified: 2022年12月21日 09:11
+! Version: 202212211418
+! Last Modified: 2022年12月21日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -27857,6 +27857,7 @@ tf2r.com#@#.adverts
 ||d29gqcij.com^
 ||d2e48d0dce.com^
 ||d2gc6r1h15ux9j.cloudfront.net^
+||d2j71mqxljhlck.cloudfront.net^
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
@@ -34135,6 +34136,7 @@ tf2r.com#@#.adverts
 ||nhpfvdlbjg.com^
 ||nhqxzqvkj.com^
 ||nhvoorsdekcind.com^
+||nhxwksmsyvmpkj.com^
 ||nibzitgas.com^
 ||nicertie.com^
 ||nicesthoarfrostsooner.com^
@@ -35786,6 +35788,7 @@ tf2r.com#@#.adverts
 ||pppbr.com^
 ||pppbrkwd.xyz^
 ||pprq7.com^
+||pqjtlmraesiie.com^
 ||pqztggmplviyxy.com^
 ||practitionermonsieurstable.com^
 ||practthreat.club^
@@ -36382,6 +36385,7 @@ tf2r.com#@#.adverts
 ||quensillo.com^
 ||querylead.com^
 ||questionsadjournasleep.com^
+||quiapountaxed.com^
 ||quiaresp.com^
 ||quickads.net^
 ||quickeryes.com^
@@ -36898,6 +36902,7 @@ tf2r.com#@#.adverts
 ||rgverkqcpahaqcqtmpksxicmtno.com^
 ||rgvqcsxqge.com^
 ||rgyxispegu.xyz^
+||rhadivnckulnr.com^
 ||rhearthinkchlo.xyz^
 ||rhendam.com^
 ||rhfgjld.com^
@@ -56949,6 +56954,9 @@ ubmcmm.baidustatic.com
 ||akfdpto.cn^
 ||fvdoics.cn^
 ||sbehgm.xyz^
+||bqgw.xyz^
+||auwehnw.cn^
+||n47n.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -107021,6 +107029,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||logo.clearbit.com^$image,third-party
 @@||lowesgiftcardbonus.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||lr-ingest.io/logger.min.js$script,domain=pumpkin.care
+@@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||material.io/inline-tools/direct-embed/bower_components/angularytics/$script,~third-party
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=bandai-hobby.net|elgato.com|filld.com|ibanez.com
