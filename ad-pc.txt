@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fb4RcseQiGi1Chu+O3PTwA
+! Checksum: QVJeP4TTUOyTxOZPR/auKw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212240218
-! Last Modified: 2022年12月24日 02:18
+! Version: 202212240908
+! Last Modified: 2022年12月24日 09:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3678,6 +3678,7 @@ tieba.baidu.com##.tuijian-wrap
 /players/ads.
 /pledgead.
 /plugin/ad/*
+/plugins/ad-ace/*
 /plugins/ad-invalid-click-protector/*$script
 /plugins/ad.
 /plugins/ads-
@@ -6266,6 +6267,7 @@ _800x80_
 ###adPosition9
 ###adPush
 ###adPushdown1
+###adReady
 ###adRectangleFooter
 ###adRectangleHeader
 ###adRight
@@ -13326,6 +13328,7 @@ _800x80_
 ##.adace-slot
 ##.adace-slot-wrapper
 ##.adace-sponsors-box
+##.adace-vignette
 ##.adadded
 ##.adageunicorns
 ##.adalert-overlayer
@@ -22026,6 +22029,7 @@ _800x80_
 ##a[href^="https://ptapjmp.com/"]
 ##a[href^="https://queersodadults.com/"]
 ##a[href^="https://reachtrgt.com/"]
+##a[href^="https://refpa4903566.top/"]
 ##a[href^="https://refpazkjixes.top/"]
 ##a[href^="https://reinstandpointdumbest.com/"]
 ##a[href^="https://s.zlink1.com/"]
@@ -24396,6 +24400,7 @@ tf2r.com#@#.adverts
 ||aidomination.xyz^
 ||aidspectacle.com^
 ||aigaithojo.com^
+||aightutaitlastwe.xyz^
 ||aigneloa.com^
 ||aiharsul.net^
 ||aihoasso.net^
@@ -24887,6 +24892,7 @@ tf2r.com#@#.adverts
 ||apiuytxdxacumbo.xyz^
 ||apkncohajlyoj.top^
 ||aplentytwo.com^
+||apnwcakifv.com^
 ||apologiesbackyardbayonet.com^
 ||apologiesneedleworkrising.com^
 ||apologiseproposed.com^
@@ -29150,6 +29156,7 @@ tf2r.com#@#.adverts
 ||errednickhail.com^
 ||erringcrambly.com^
 ||ersallower.com^
+||ersfohiplaceof.xyz^
 ||erstartirrel.buzz^
 ||ertyvaluation.lol^
 ||eru5tdmbuwxm.com^
@@ -31803,6 +31810,7 @@ tf2r.com#@#.adverts
 ||jazojucy.xyz^
 ||jazygesforeday.website^
 ||jazzharder.com^
+||jazzspeechlessarena.com^
 ||jb7hvcksstar.com^
 ||jb7hvckszone.com^
 ||jbkwrkmdug.com^
@@ -34771,6 +34779,7 @@ tf2r.com#@#.adverts
 ||orbitcarrot.com^
 ||orbsclawand.com^
 ||orbsrv.com^
+||orcend.com^
 ||orcept.com^
 ||orchestraanticipation.com^
 ||orchidreducedbleak.com^
@@ -35349,6 +35358,7 @@ tf2r.com#@#.adverts
 ||phexetos.com^
 ||phhitgjxsit.com^
 ||phialedamende.com^
+||phicly.com^
 ||phicmune.net^
 ||phiduvuka.pro^
 ||philipblemishaccessory.com^
@@ -40582,6 +40592,7 @@ tf2r.com#@#.adverts
 ||winpbn.com^
 ||winr.online^
 ||winternewsnow.name^
+||winterolivia.com^
 ||wintoyouprizes.info^
 ||wipedhypocrite.com^
 ||wipowaxe.com^
@@ -41201,6 +41212,7 @@ tf2r.com#@#.adverts
 ||zauthuvy.com^
 ||zavunuve.pro^
 ||zayac2volk11.com^
+||zazaruniri.com^
 ||zazennef.com^
 ||zazerygu.pro^
 ||zbnfhsk.com^
@@ -43166,6 +43178,7 @@ tf2r.com#@#.adverts
 ||ahbdsply.com^$popup
 ||ahscdn.com^$popup
 ||aigaithojo.com^$popup
+||aigeno.com^$popup
 ||ailrouno.net^$popup
 ||aino2.com^$popup
 ||aj1574.online^$popup
@@ -48491,6 +48504,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||pornpoppy.com/jss/external_pop.js
 ||pornrabbit.com^$subdocument
 ||pornsex.rocks/league.aspx
+||pornstar-scenes.com/i3/a/
 ||pornstargold.com/3b0a0cdcb8b4.js
 ||pornstargold.com/cddc4c9399c7.js
 ||pornv.xxx/static/js/abb.js
@@ -49280,6 +49294,8 @@ politico.com###pol-01-wrap
 pons.com###pons-ad-leaderboard__container
 chaseyoursport.com###popup1
 quickmeme.com###post[style="display: block;min-height: 290px; padding:0px;"]
+ultrabookreview.com###postadsside
+ultrabookreview.com###postzzif
 sentinelnews.com,theandersonnews.com###pre-header
 the-scientist.com###preHeader
 playok.com###pread
@@ -49576,6 +49592,7 @@ theregister.com###whitepapers
 itnews.com.au###whitepapers-container
 gomapper.com###wideSkyScraper
 tribunnews.com###wideskyscraper
+ultrabookreview.com###widgetad2-top
 apotelyt.com###widoCon
 wallpapersmania.com###wm_cpa
 gaynewzealand.com###wn-insurance-quote-editor
@@ -49590,6 +49607,8 @@ blasternation.com###xobda
 yardbarker.com###yb_recirc
 ecoustics.com###zox-lead-bot
 marketscreener.com###zppMiddle2
+ultrabookreview.com###zzifhome
+ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
 androidauthority.com##.--qc
 talkingpointsmemo.com##.--span\:12.AdSlot
@@ -51286,9 +51305,11 @@ wionews.com##.posrelativebox
 wtop.com##.post--sponsored
 hackread.com##.post-review-li
 mediakix.com##.post-widget__banner
+hellocare.com.au##.post-wrapper__portrait-ads
 newagebd.net##.postPageRightInTop
 newagebd.net##.postPageRightInTopIn
 fastcompany.com##.post__promotion
+ultrabookreview.com##.postzzif3
 redketchup.io##.potato_sticky
 redketchup.io##.potato_viewer
 thetowner.com##.powered
@@ -51874,7 +51895,7 @@ eurointegration.com.ua##.topban_r
 axisbank.com##.topbandBg_New
 allmonitors24.com,streamable.com##.topbanner
 drugs.com##.topbanner-wrap
-ancs.live,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk##.topbox-cls-placeholder
+ancs.live,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 blabber.buzz##.topfeed
 drivespark.com##.topsection div[style^="float"]
 cambridge.org##.topslot-container
@@ -51934,6 +51955,7 @@ ggrecon.com##.venatus-block
 fox10phoenix.com,fox26houston.com,fox4news.com,fox7austin.com,foxbusiness.com,foxla.com,foxnews.com##.vendor-unit
 tetris.com##.verticalAx
 packaginginsights.com##.verticlblk
+thenewdaily.com.au##.vf-promo
 videogameschronicle.com##.vgc-productsblock
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
@@ -56876,6 +56898,10 @@ ubmcmm.baidustatic.com
 ||resourcecs.com^
 ||gg72a1.com^
 ||n0566.com^
+||ngmnhc.xyz^
+||diygnmo.cn^
+||yqxs.xyz^
+||imiqhrv.cn^
 ||fenxi.com^$third-party
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
@@ -90724,6 +90750,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
 ||ddrvjrfwnij7n.cloudfront.net^
+||dggaenaawxe8z.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -106834,9 +106861,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||gomokuworld.com/app/modules/analyze.js$~third-party
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|healthrangerstore.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|truwin.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
-@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|lodgecastiron.com|tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|investing.com|lodgecastiron.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
