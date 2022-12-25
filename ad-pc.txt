@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rboUdUdbEDcIk4pc5mdIrg
+! Checksum: Nm3uYAI4NSqikqzs2V2r9g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212250917
-! Last Modified: 2022年12月25日 09:17
+! Version: 202212251418
+! Last Modified: 2022年12月25日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -51086,6 +51086,7 @@ color-hex.com##.margin10
 fandom.com##.marketplace
 designtaxi.com##.masonry-brick.nt
 imgur.com,pushsquare.com,songlyrics.com##.masthead
+timeextension.com##.masthead > .insert
 eetimes.eu,powerelectronicsnews.com##.masthead-banner
 racgp.org.au##.mb-1.small
 amgreatness.com##.mb-10.mx-auto
@@ -51534,6 +51535,7 @@ middleeasteye.net##.region-before-navigation
 justthenews.com##.region-pre-content
 futbol24.com##.rek
 wcostream.com##.reklam_pve
+timeextension.com##.related-group > .insert
 idropnews.com##.related-posts
 timesofindia.indiatimes.com##.relatedVideoWrapper
 4shared.com##.remove-rekl
@@ -56985,6 +56987,12 @@ ubmcmm.baidustatic.com
 ||ekhnbwe.cn^
 ||frgeob.xyz^
 ||nwdjlx.xyz^
+||tizf7.top^
+||flan.fun^
+||wkbslub.cn^
+||uwuzpxt.cn^
+||tprwnvk.cn^
+||bnsdk.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
