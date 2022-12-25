@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q9TP3gAJjUdhTNr95Z7eNw
+! Checksum: Q99+GaD27giyj84E76LjWw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202212251418
-! Last Modified: 2022年12月25日 14:18
+! Version: 202212252026
+! Last Modified: 2022年12月25日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1388,6 +1388,7 @@ ubmcmm.baidustatic.com
 ##.loc-home-top-adv-new
 ##.lol-ad
 ##.lol_ad
+##.spot_nav_under_ad
 ##.lyzm-prevent
 ##.m1938-container
 ##.main-ad-l
@@ -2360,6 +2361,8 @@ ubmcmm.baidustatic.com
 ||uwuzpxt.cn^
 ||tprwnvk.cn^
 ||bnsdk.top^
+||8499683.com^
+||vouninked.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -9726,6 +9729,7 @@ ubmcmm.baidustatic.com
 !------------------------------------Popups-----------------------------------!
 $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|xmflv.com
 .189.gd^*.html?p=$popup,third-party
+||52av.be^$popup,third-party
 .com/?aff=$popup,third-party
 .com/?Intr=$popup,third-party
 /BadwebRemindPage.aspx?param=$popup,third-party
@@ -14378,6 +14382,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+yocoolnet.in###mobile_inplayer
+52av.one##.message + center
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -19906,8 +19912,6 @@ dingdong.ganji.com#@#.banner
 ishangman.com#@#.bottom_ad
 douban.com#@#.download-ad
 typecho.wiki#@#.downloadad
-cocomanga.com#@#.gg_728
-cocomanga.com#@#.gg_950
 petrochina.com.cn#@#.ggbox
 1090ys8.com,bbt.tv,btbt.tv,mmiyue.com#@#.google-ad
 apk.tw#@#.google_ad
@@ -19942,7 +19946,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
-@@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
@@ -22122,14 +22125,13 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 |http:$script,third-party,xmlhttprequest,domain=m.733.so|m.umei.cc
 |https:$script,third-party,xmlhttprequest,domain=m.733.so|m.umei.cc
 !#onemanhua.com
-$script,third-party,domain=cocomanga.com|cocomanhua.com
-@@.com/js/ad_/ad*.js$domain=cocomanga.com|cocomanhua.com
-@@.com/js/ad_/pic*.png$domain=cocomanga.com|cocomanhua.com
-@@||cloudflare.net^$script,domain=cocomanga.com|cocomanhua.com
-cocomanga.com,cocomanhua.com##iframe[style*="important"]
-cocomanga.com,cocomanhua.com#@#.gg430
-cocomanga.com,cocomanhua.com#@#.gg_300
-||cocomanhua.com/sw.js
+colamanhua.com#@#.gg_950
+@@.com/logo/ad.$domain=colamanhua.com
+@@.com/js/a_d/$domain=colamanhua.com
+$script,third-party,domain=colamanhua.com
+@@||cloudflare.net^$script,domain=colamanhua.com
+colamanhua.com##iframe[style*="important"]
+||colamanhua.com/sw.js
 !#Porn
 ###Video-Shunt-Box + .container
 ##.leftd1 + .rightd1
