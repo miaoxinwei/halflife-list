@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8Oj/dbe7Uct4a2v5KqAN1A
+! Checksum: Ot3Ml70HTEOYnn4hxwy5Sg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212270914
-! Last Modified: 2022年12月27日 09:14
+! Version: 202212271419
+! Last Modified: 2022年12月27日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2377,6 +2377,8 @@ ubmcmm.baidustatic.com
 ||ihdqpyc.cn^
 ||erhsxv.top^
 ||snbklas.cn^
+||grecoi.xyz^
+||gcihkyd.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -39177,6 +39179,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||estore.jp/beacon/
 ||ev.tpocdm.com^
 ||future-shop.jp/rview.gif?
+||hatmiso.net^$third-party
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
 ||jal.co.jp/common_rn/img/rtam.gif
@@ -53361,6 +53364,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
+||tracer.autoscout24.ch^
 ||track.dws.de^
 ||track.express.de^
 ||track.noz.de^
@@ -55302,6 +55306,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||tagger.opecloud.com/mediaconsortium/*/tagger.js$domain=zakzak.co.jp
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=sony.jp
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
+@@||townwork.net/js/AppMeasurement.js$~third-party
 @@||twitter.com/oct.js$domain=jp.square-enix.com
 @@||type.jp/common/js/clicktag.js
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
