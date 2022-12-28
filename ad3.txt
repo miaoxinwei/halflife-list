@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: itXoxl+z1/aqav79O+WNwA
+! Checksum: bYlyxPnR5SB1c4fg8ncJ5g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212280218
-! Last Modified: 2022年12月28日 02:18
+! Version: 202212280913
+! Last Modified: 2022年12月28日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2385,6 +2385,11 @@ ubmcmm.baidustatic.com
 ||zytsbro.cn^
 ||zzngisyq.xyz^
 ||zzwzsic.cn^
+||brmzopt.cn^
+||xxvkwuk.cn^
+||dongya.org^
+||krqole.xyz^
+||b62.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -32334,6 +32339,7 @@ _mongo_stats/
 ||linksnappy.com^$third-party
 ||linksynergy.com^$third-party
 ||linkxchanger.com^$third-party
+||listenlayer.com^$third-party
 ||listrakbi.com^$third-party
 ||litix.io^$third-party
 ||livecount.fr^$third-party
@@ -33141,6 +33147,7 @@ _mongo_stats/
 ||spylog.ru^$third-party
 ||spywords.com^$third-party
 ||sqate.io^$third-party
+||squeezely.tech^$third-party
 ||squidanalytics.com^$third-party
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
@@ -35874,6 +35881,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||team-rec.jp^$third-party
 ||tgknt.com^$third-party
 ||thench.net^$third-party
+||thesmilingpencils.com^$third-party
 ||trackfeed.com^$third-party
 ||ukw.jp^$third-party
 ||uncn.jp^$third-party
@@ -37154,6 +37162,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hubspot.com/cs/loader-v2.js
 ||hubspot.com/tracking/
 ||hubspot.com/usage-logging/
+||hushforms.com/visitorid?
 ||hypercomments.com/widget/*/analytics.html
 ||i.compendium.com^
 ||i.s-microsoft.com/wedcs/ms.js
@@ -39248,6 +39257,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
+||tr.c-tag.net^
 ||tr.slvrbullet.com^
 ||track.span-smt.jp^
 ||track.thebase.in^
@@ -39392,6 +39402,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imgsmail.ru/gstat?
 ||infopolit.com/counter/
 ||inforotor.net/rotor/
+||ip.up66.ru^
 ||izhevskinfo.ru/count/
 ||karelia.info/counter/
 ||kraken.rambler.ru^
