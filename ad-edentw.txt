@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MLOQhadN2piVP+cRStBv0Q
+! Checksum: sCbgIQYxTUdOdR0wf+nMKA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202212280218
-! Last Modified: 2022年12月28日 02:18
+! Version: 202212282027
+! Last Modified: 2022年12月28日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1858,6 +1858,7 @@ conversion.im#$#abort-current-inline-script $ mainContainer
 freescreens.ru,imgbase.ru,imgcach.ru,imgclick.ru,payforpic.ru,picclick.ru,picclock.ru,picforall.ru#$#abort-current-inline-script JSON.parse
 tapochek.net#$#abort-on-property-read ads_script
 rutor.org#$#abort-on-property-read Light.Popup
+bez-smenki.ru#$#abort-current-inline-script $ showPopupextra
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
 ! #CV-547
@@ -1955,7 +1956,7 @@ truyen2u.net#$#abort-current-inline-script eval
 tapmoi.net#$#abort-on-property-read SmartPopunder
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
-sexphimhd.net,gvnvh18.com,g18vn.com#$#abort-current-inline-script Math
+sexphimhd.net,gvnvh18.com,g18vn.com,vlxxs.net#$#abort-current-inline-script Math
 360thethao.net#$#abort-current-inline-script onload /puURL/
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
