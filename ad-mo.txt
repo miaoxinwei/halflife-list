@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ShN/VXWF8dgTZihgQLqxkg
+! Checksum: 6ITWbHydb2MtdmAPgxmfbg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202212312026
-! Last Modified: 2022年12月31日 20:26
+! Version: 202301010216
+! Last Modified: 2023年01月01日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -26866,6 +26866,7 @@ tf2r.com#@#.adverts
 ||cellaraudacityslack.com^
 ||cellarpassion.com^
 ||cellojapanel.one^
+||cellsmonitor.com^
 ||cellsquickie.com^
 ||celotexchalaze.website^
 ||celsiansnite.com^
@@ -29907,6 +29908,7 @@ tf2r.com#@#.adverts
 ||foxypp.com^
 ||fpeiatypfcsthka.xyz^
 ||fqrqgaeqcmbjihq.xyz^
+||frabwiccy.com^
 ||fracs.xyz^
 ||fragba.com^
 ||fragilebiggerbetty.com^
@@ -31385,6 +31387,7 @@ tf2r.com#@#.adverts
 ||idswinpole.casa^
 ||ie3wisa4.com^
 ||ie8eamus.com^
+||ieehxlksojqfch.com^
 ||iendoo.com^
 ||ieroohhcytpar.xyz^
 ||iesboughts.xyz^
@@ -34143,6 +34146,7 @@ tf2r.com#@#.adverts
 ||netpatas.com^
 ||netstam.com^
 ||nettube.top^
+||netu.io^
 ||netund.com^
 ||neutralityrecommendstretched.com^
 ||neverbe.xyz^
@@ -38632,6 +38636,7 @@ tf2r.com#@#.adverts
 ||stuffedprofessional.com^
 ||stuffedstudy.com^
 ||stugsoda.com^
+||stulsh.com^
 ||stunninglover.com^
 ||stunningruin.com^
 ||stunsbarbola.website^
@@ -40847,6 +40852,7 @@ tf2r.com#@#.adverts
 ||wideliber.com^
 ||widene.com^
 ||wideorganiz.xyz^
+||widern.com^
 ||widespreadgabblewear.com^
 ||widespreadglamour.com^
 ||widgetadvertising.biz^
@@ -41126,6 +41132,7 @@ tf2r.com#@#.adverts
 ||xbcnvj2mdk1dn1.com^
 ||xbcpcn.com^
 ||xbxhulfp.xyz^
+||xbxyhged.xyz^
 ||xcelltech.com^
 ||xcelsiusadserver.com^
 ||xclicks.net^
@@ -54455,7 +54462,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||games.wkb.jp/ykg/javascripts/*/adsense_$script,domain=games.wkb.jp
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||getjad.io/library/$script,domain=allocine.fr
-@@||googleapis.com/js/sdkloader/ima3.js$domain=omroepbrabant.nl|udn.com
+@@||googleapis.com/js/sdkloader/ima3.js$domain=udn.com
 @@||googletagmanager.com/gtag/js$script,domain=factory.pixiv.net
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||gunosy.co.jp/img/ad/$image,~third-party
