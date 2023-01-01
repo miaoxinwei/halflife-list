@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vVscCvvucmSd60BfpEsuiA
+! Checksum: +OfMr7hC6Za91MHxkrSQqA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212312026
-! Last Modified: 2022年12月31日 20:26
+! Version: 202301010926
+! Last Modified: 2023年01月01日 09:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -31730,6 +31730,7 @@ _mongo_stats/
 ||datacoral.io^$third-party
 ||datacygnal.io^$third-party
 ||datadoghq-browser-agent.com^$third-party
+||datadoghq.eu^$third-party
 ||datadsk.com^$third-party
 ||datafeedfile.com^$third-party
 ||datafront.co^$third-party
@@ -32388,7 +32389,6 @@ _mongo_stats/
 ||levexis.com^$third-party
 ||lexity.com^$third-party
 ||lfov.net^$third-party
-||lijit.com^$third-party
 ||linezing.com^$third-party
 ||linkconnector.com^$third-party
 ||linkifier.com^$third-party
@@ -36640,7 +36640,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdnjs.work/metrics.js
 ||cdnma.com/apps/capture.js
 ||cdnplanet.com/static/rum/rum.js
-||ce.lijit.com^
 ||centerix.ru^*/count.msl?
 ||ceros.com/a?data
 ||cf.overblog.com^
@@ -37355,9 +37354,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||licensing.bitmovin.com/impression
 ||lift.acquia.com^
 ||lightboxcdn.com/static/identity.html
-||lijit.com/blog_wijits?*=trakr&
-||lijit.com/ip.php?
-||lijit.com/res/images/wijitTrack.gif
 ||limbik.com/static/tracking-script.js
 ||lingows.appspot.com/page_data/?
 ||link.cosmopolitan.com^$image
