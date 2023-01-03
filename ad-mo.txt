@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JoTkqr+7Fjicc/6O39vJQg
+! Checksum: whbDyiM39mXSP3HCIfOZAg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301030913
-! Last Modified: 2023年01月03日 09:13
+! Version: 202301031418
+! Last Modified: 2023年01月03日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -52662,6 +52662,7 @@ dpfantasy.org,hotcelebshome.com###custom_html-4
 eporner.com###deskadmiddle
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
 thehun.net###dyk_right
+youjizz.com###englishPr
 porntrex.com###exclusive-link
 namethatporn.com###fab_blacko
 dailyporn.club###fixedban
@@ -52710,7 +52711,6 @@ hentaimama.io###overlay
 22pixx.xyz,imagevenue.com###overlayBg
 hentaiff.com###overplay
 video.laxd.com###owDmcIsUc
-youjizz.com###partnerPr
 nudevista.at,nudevista.com###paysite
 redtube.com,redtube.com.br,redtube.net,youporngay.com###pb_block
 pornhub-com.appspot.com,pornhub.com,pornhub.net,youporn.com###pb_template
@@ -53460,7 +53460,7 @@ mysexgames.com##table[height="640"]
 motherless.com##table[style*="max-width:"]
 exoav.com##td > a[href]
 xxxcomics.org##video
-porndoe.com,tube8.es,tube8.fr,youjizz.com,youporngay.com##video[autoplay]
+porndoe.com,tube8.es,tube8.fr,youporngay.com##video[autoplay]
 porndoe.com,redtube.com##video[autoplay][src*="blob:" i]
 porndoe.com,redtube.com##video[autoplay][src*="data:" i]
 crocotube.com#?#.ct-related-videos-title:-abp-contains(Advertisement)
@@ -56499,6 +56499,8 @@ ubmcmm.baidustatic.com
 ||drkqjje.cn^
 ||bocvb.xyz^
 ||ovexui.xyz^
+||sxuheg.xyz^
+||azhhr.cn^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
