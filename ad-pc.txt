@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M/Kp6G3kPlXLebLS1gmG8Q
+! Checksum: dl0zAD+xWt1h9nBZaowKIg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301050918
-! Last Modified: 2023年01月05日 09:18
+! Version: 202301051417
+! Last Modified: 2023年01月05日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -48811,6 +48811,8 @@ today.az###TODAY_Slot_Vertical_01_240x400
 road.cc###Top-Billboard
 carsdirect.com###TopBanner
 scrabble-solver.com###Upper
+newstarget.com###Widget11
+newstarget.com###Widget14
 dexerto.com###\#primisplayer
 turbobit.net###__bgd_link
 ytmp3.cc###a-320-50
@@ -49676,6 +49678,7 @@ lbcgroup.tv##.ScriptDiv
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 thedailybeast.com##.Sizer
 coin360.com##.Skyscraper
+newstarget.com##.Sponsor
 geekflare.com##.Sponsors
 coin360.com##.StickyCorner__Container
 behance.net##.StockRail-rail-oox
@@ -52086,6 +52089,7 @@ cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
 mailshub.in##[href^="https://www.amazon.in/"]
 businessonhome.com##[href^="https://www.binance.com/en/register?ref="]
 bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
+health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
 thelibertydaily.com##[href^="https://www.dismecoins.com/"]
@@ -56099,6 +56103,10 @@ ubmcmm.baidustatic.com
 ||neipa.xyz^
 ||sc4mh.cn^
 ||njslx.cn^
+||irygym.xyz^
+||wpiwoo.xyz^
+||rglctlo.cn^
+||slowbeat.fun^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
