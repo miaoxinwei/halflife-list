@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Zhgou38b25zfN9OKzLBbow
+! Checksum: bT08Bepd/RxRWnsN5/rOvA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301061419
-! Last Modified: 2023年01月06日 14:19
+! Version: 202301062029
+! Last Modified: 2023年01月06日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -56221,6 +56221,8 @@ ubmcmm.baidustatic.com
 ||aol32.cn^
 ||yretx.cn^
 ||fyfvaxi.cn^
+||timothy.wang^
+##A[href*="/ky53362.com"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -68370,6 +68372,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||myqcloud.com/wp-content/uploads/huoxingyun.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+jingangjing.com##.free
+jingangjing.com##.free-popup
 tmioe.com##.adtag + .entry-copyright
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -106994,7 +106998,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||collect.igodigital.com/collect.js$domain=enoteca.co.jp
 @@||cxense.com/cx.cce.js$domain=mainichi.jp|tarzanweb.jp|wpb.shueisha.co.jp
 @@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
-@@||d-card.jp/st/common/js/googleTagManager.js
+@@||dcard.docomo.ne.jp/st/common/js/googleTagManager.js
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
 @@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
