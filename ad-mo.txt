@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NI2Z3YAvfcn7PFijS/AdNg
+! Checksum: +au3ccuQu6kyGpfYHDTHSA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301070915
-! Last Modified: 2023年01月07日 09:15
+! Version: 202301071417
+! Last Modified: 2023年01月07日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -24270,6 +24270,7 @@ tf2r.com#@#.adverts
 ||agcdn.com^
 ||agcm.xyz^
 ||ageacavnrnwijh.xyz^
+||ageandinone.xyz^
 ||ageismvipery.com^
 ||agenduret.com^
 ||ageore.com^
@@ -28062,6 +28063,7 @@ tf2r.com#@#.adverts
 ||dejectionminus.com^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
+||delbertbisalt.com^
 ||delempanyi.one^
 ||delendatole.live^
 ||deleterasks.digital^
@@ -28663,6 +28665,7 @@ tf2r.com#@#.adverts
 ||dustywrenchdesigned.com^
 ||dutorterraom.com^
 ||dutravisne.com^
+||duz64ud8y8urc.cloudfront.net^
 ||dvaminusodin.net^
 ||dviccvivms.com^
 ||dvigukindal.com^
@@ -34979,6 +34982,7 @@ tf2r.com#@#.adverts
 ||ossrhydonr.com^
 ||ossshucklean.com^
 ||oswerebage.xyz^
+||osyrhjwnwoaya.com^
 ||otbuzvqq8fm5.com^
 ||otdopkz.com^
 ||otdsngganpsgru.com^
@@ -38522,6 +38526,7 @@ tf2r.com#@#.adverts
 ||stepmotherincomingpluck.com^
 ||steppesshirvan.com^
 ||stepsothohe.pro^
+||steptoedelfs.com^
 ||sterilecute.com^
 ||stethydelicat.com^
 ||stevoglutu.com^
@@ -39701,6 +39706,7 @@ tf2r.com#@#.adverts
 ||tusno.com^
 ||tut-64.com^
 ||tutfuqc.com^
+||tutlyinlaik.com^
 ||tutvp.com^
 ||tuxbpnne.com^
 ||tuxedochard.com^
@@ -41223,6 +41229,7 @@ tf2r.com#@#.adverts
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
 ||xwqvytuiko.com^
+||xwrnbrwkairr.com^
 ||xxccdshj.com^
 ||xxe2.com^
 ||xxecldsp.xyz^
@@ -41442,6 +41449,7 @@ tf2r.com#@#.adverts
 ||yrvzqabfxe.com^
 ||ysczggasfx.com^
 ||ysnakestanothia.xyz^
+||ysuchtjhwasp.info^
 ||ytgfsvcwtradg.xyz^
 ||ythyqwcrrnh.com^
 ||ytimm.com^
@@ -41487,6 +41495,7 @@ tf2r.com#@#.adverts
 ||z5x.net^
 ||z7yru.com^
 ||zabanit.xyz^
+||zabpbhko.com^
 ||zadauque.net^
 ||zaglushkaaa.com^
 ||zagtertda.com^
@@ -49286,7 +49295,7 @@ forums.somethingawful.com###notregistered
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
 livestreamfails.com###oranum_livefeed_container_0
 ckk.ai###orquidea-slideup
-electronicproducts.com,powvideo.net,streamplay.to###overlay
+electronicproducts.com,powvideo.net,streamplay.to,uxstyle.com###overlay
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
 animexin.xyz,animexinax.com###overplay
@@ -56124,6 +56133,9 @@ ubmcmm.baidustatic.com
 ||kwivb.cn^
 ||twn2e.cn^
 ||zeipw.xyz^
+||nouivjv.cn^
+||qycfqk.xyz^
+||looktt.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -68273,6 +68285,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+939394.xyz##DIV[style^="position: fixed; bottom:"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -91251,6 +91264,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
 ||analytics.slashdotmedia.com^
+||analytics.synchrony.com^
 ||analytics.synedat.com^
 ||analytics.touchnote.io^
 ||analytics.tradedoubler.com^
@@ -92498,6 +92512,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||olacontent.schwab.com^$script
 ||pages.ebay.com/identity/device/$subdocument
 ||rba-screen.healthsafe-id.com^
+||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.td.com^
@@ -106065,7 +106080,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|homedepot.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ralphlauren.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ralphlauren.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -106684,8 +106699,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
 @@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
 @@||showheroes.com/spot/$xmlhttprequest,domain=rollingstone.de
-@@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/spot/iframe?$script,domain=rollingstone.de
+@@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/call.js?$script,~third-party
