@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +Ehtw560CEJQ3e/2YIl46g
+! Checksum: xmxIJbyxMFwwwnv/4Xy0AQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301072026
-! Last Modified: 2023年01月07日 20:26
+! Version: 202301080217
+! Last Modified: 2023年01月08日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -56141,6 +56141,10 @@ ubmcmm.baidustatic.com
 ||8ccrv.xyz^
 ||xkhall.xyz^
 ||dgozp.com^
+||ockuc.com^
+||frpns.com^
+||045zxnm.com^
+||zunnnh.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -68270,9 +68274,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
 ||zuidaima.com/images/1/201606/20160616135714978.
-||zuixingkong.com/gao/
-||zuixingkong.com/show-g/
-||zuixingkong.com^*mygg/
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuoyebang.cc/static/question/pkg/wap-qb_
 ||zwwooooo.com/images/hengtian.
@@ -68290,6 +68291,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||939394.xyz^*.gif
+||c.nuhcpf.com^
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 939394.xyz##DIV[style*="position: fixed;"]
