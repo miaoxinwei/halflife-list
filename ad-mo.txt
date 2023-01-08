@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xmxIJbyxMFwwwnv/4Xy0AQ
+! Checksum: kH1UBlPh4ZGsulqrkTpQEQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301080217
-! Last Modified: 2023年01月08日 02:17
+! Version: 202301080922
+! Last Modified: 2023年01月08日 09:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -34148,7 +34148,6 @@ tf2r.com#@#.adverts
 ||netpatas.com^
 ||netstam.com^
 ||nettube.top^
-||netu.io^
 ||netund.com^
 ||neutralityrecommendstretched.com^
 ||neutraltoxicpreposition.com^
@@ -44618,7 +44617,6 @@ tf2r.com#@#.adverts
 ||ogtrk.net^$popup
 ||ohrdsplu.com^$popup
 ||oidoummoocejc.xyz^$popup
-||ojrq.net^$popup
 ||okayfreemanknot.com^$popup
 ||okueroskynt.com^$popup
 ||oldcwiamf.com^$popup
@@ -56080,16 +56078,21 @@ ubmcmm.baidustatic.com
 ||23.234.217.11^
 ||23.234.217.12^
 ##a[href*="/ky53362.com"]
+||045zxnm.com^
 ||0s6s0.top^
 ||100ytrf.com^
 ||401aww.com^
 ||51xl.xyz^$third-party
 ||5r562.cn^
 ||81xs.xyz^
+||8ccrv.xyz^
 ||ahwiaw.xyz^
 ||aliyun6969.cn^
 ||aol32.cn^
 ||creawww.top^
+||dgozp.com^
+||ewmvim.xyz^
+||frpns.com^
 ||fyfvaxi.cn^
 ||gadscc.xyz^
 ||htbdvx.xyz^
@@ -56103,47 +56106,42 @@ ubmcmm.baidustatic.com
 ||igusoft.com^
 ||ikbgika.cn^
 ||irygym.xyz^
+||kwivb.cn^
 ||leeleo.top^$third-party
 ||leiwo.xyz^
+||looktt.xyz^
 ||mdi5k.cn^
 ||neipa.xyz^
 ||njslx.cn^
 ||noiea.xyz^
+||nouivjv.cn^
+||ockuc.com^
 ||ofgysy.xyz^
 ||pafcpd.xyz^
 ||pddbtn.xyz^
 ||ps123.online^
 ||qingfengxq.com^
+||qycfqk.xyz^
+||rdoybkd.cn^
 ||rglctlo.cn^
 ||sange20221226.xyz^
 ||sc4mh.cn^
 ||slowbeat.fun^
 ||soqikbe.cn^
 ||timothy.wang^
+||twn2e.cn^
 ||u1011.com^
 ||unmnkkq.cn^
 ||vbgr7.cn^
 ||vec4o.fun^
 ||wpiwoo.xyz^
 ||wzkxke.xyz^
+||xkhall.xyz^
 ||yanjiusuo.cc^
 ||yretx.cn^
 ||yzgid.cn^
-||ewmvim.xyz^
-||kwivb.cn^
-||twn2e.cn^
 ||zeipw.xyz^
-||nouivjv.cn^
-||qycfqk.xyz^
-||looktt.xyz^
-||rdoybkd.cn^
 ||ztxstudy.club^
-||8ccrv.xyz^
-||xkhall.xyz^
-||dgozp.com^
-||ockuc.com^
-||frpns.com^
-||045zxnm.com^
 ||zunnnh.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -64432,6 +64430,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||92ghai.com/zz/
 ||92uq.com/Ads/
 ||933m.com/1.js
+||939394.xyz^*.gif
 ||941novel.com/wp-content/uploads/*.gif
 ||94994.com*/js/plugin/shoppingMall/
 ||949949.com/2013/end/hot_news.js
@@ -65083,6 +65082,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||c-ctrip.com/images/0101r120009e1kn7oCDCA.gif
 ||c-ctrip.com/train/201611/yqh_270-280.jpg
+||c.nuhcpf.com^
 ||c114.com.cn/default_inc/a/images/
 ||c114.com.cn/js/channel.js
 ||c114.com.cn^*/js/ad_load-new.js
@@ -66813,6 +66813,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||meitu.com/js/floatxiuxiu.js
 ||meituan.com/ptapi/recommends?
 ||meituan.com/xiuxianyule/api/getRecommendList?
+||meituan.net^$rewrite=abp-resource:1x1-transparent-gif,domain=939394.xyz
 ||meitui.org^*.js
 ||meitulu.com/css/*showgg.js
 ||meixincdn.com^$domain=novipnoad.com
@@ -68284,17 +68285,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzbaike.com/main/arvixe
 ||zzbaike.com/main/host
 ||zzc.cn/b1/live_b_
-||meituan.net^$rewrite=abp-resource:1x1-transparent-gif,domain=939394.xyz
 ||zzidc.com/images/1060.jpg
 ||zzidc.com/uploads/pintuan.jpg
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||939394.xyz^*.gif
-||c.nuhcpf.com^
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-939394.xyz##DIV[style*="position: fixed;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -73405,6 +73402,7 @@ bccn.net##div[style*="height:90"]
 qiyeku.com##div[style*="height:90px;"]
 ruanyifeng.com##div[style*="important"]
 sina.com.tw##div[style*="min-height"][style*="250px"]
+939394.xyz##div[style*="position: fixed;"]
 esu.moe,esu.wiki##div[style*="position: relative; max-height: 400px;"]
 1010jiajiao.com##div[style*="position:fixed;"][style*="bottom:1px;"]
 huarenjie.net##div[style*="top: 50px;"]
@@ -81662,7 +81660,7 @@ fqsousou.com,kengso.com#@#.user-share
 /webdig.js
 /webdig_test.js
 /webforensics/*
-/webiq.
+/webiq.$domain=~webiq.co.nz
 /webiq/*
 /webiq_
 /weblog.js?
@@ -89072,6 +89070,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
 ||monitor.azure.com^
+||monitoring.iraiser.eu^
 ||mormont.gamer-network.net^
 ||movementventures.com/_uid.gif
 ||mozilla.org/page/*/open.gif$third-party
@@ -92370,6 +92369,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vortex.hulu.com^
 ||vrbo.com/pdp/logger?
 ||vrv.co/ip
+||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
 ||wa.ui-portal.de^
@@ -106444,7 +106444,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
-@@||pals.pa.gov/vendor/analytics/appinsights.js$third-party
+@@||pals.pa.gov/vendor/analytics/$~third-party
 @@||parcel.app/webtrack.php?$~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
