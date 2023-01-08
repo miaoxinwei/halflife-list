@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: //cvPO1scCX67wszokl7uA
+! Checksum: vLhTIJraaciBG7xq4LXtrw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202301080922
-! Last Modified: 2023年01月08日 09:22
+! Version: 202301081418
+! Last Modified: 2023年01月08日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1274,6 +1274,7 @@ stgowan.com
 /xxd.php?id=$script,third-party
 /xxgg/goodad.js
 /xyz123d/*
+://s.htkk*.top:$script,third-party
 /yryy/css/javamy.js
 /yryy/css/javatop.js
 /yryy/css/venmy.js
@@ -2116,9 +2117,6 @@ ubmcmm.baidustatic.com
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
-/\.ahp[0-9]{2}\.site:/$script,third-party
-/\.htkk[0-9]{1,2}\.top:/$script,third-party
-/\.zdx[0-9]{1,2}\.site:/$script,third-party
 ||23.234.217.11^
 ||23.234.217.12^
 ##a[href*="/ky53362.com"]
@@ -2187,6 +2185,13 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||mzwzo.cn^
+||xtpez.xyz^
+||mfaec.cn^
+||mgowec.xyz^
+||nhjwh.com^
+||qiegoa.xyz^
+||vbccbxv.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
