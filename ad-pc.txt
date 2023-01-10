@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UriH/smOgewNGVAIi5+xsw
+! Checksum: bHNhfwyOYW7h9V2NAEqd6w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301102030
-! Last Modified: 2023年01月10日 20:30
+! Version: 202301110219
+! Last Modified: 2023年01月11日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -42874,6 +42874,7 @@ tf2r.com#@#.adverts
 ||meendocash.com^$third-party
 ||mellowads.com^$third-party
 ||meloads.com^$third-party
+||membrana.media^$third-party
 ||mentad.com^$third-party
 ||metaffiliation.com^$third-party,domain=~netaffiliation.com
 ||mezaa.com^$third-party
@@ -56445,6 +56446,8 @@ ubmcmm.baidustatic.com
 ||u22033.com^
 ||xkqit.com^
 ||nonabh.xyz^
+||jwgihca.cn^
+||cerfbup.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -76432,6 +76435,10 @@ webkaka.com##td[id$="_SPONSOR"]
 ||webkaka.com/script/cp.js
 ||webkaka.com^*x50.
 !#wnacg.com
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.Text-Advertising
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.a_ssk_cn
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@##adsbox
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.RMss1
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.Flagrow-Ads-under-header
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ctm_ad
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ff-ads
