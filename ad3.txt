@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aE9gU3PHM25OHeWCoqDblA
+! Checksum: Rofdroh1KKR7qoAB3v1Q/Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301100219
-! Last Modified: 2023年01月10日 02:19
+! Version: 202301100919
+! Last Modified: 2023年01月10日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -162,6 +162,7 @@ age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-cdn\d+/)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
@@ -1761,6 +1762,12 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||x3a88d.cn^
+||damhixs.cn^
+||dxgyl.xyz^
+||uasvyi.xyz^
+||dfepm.xyz^
+||bkisss.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21058,8 +21065,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||qiyegongqiu1.qiyegongqiu.com^
 ||qizhihaotian.com^*.js
 ||ql.uzuzuz.com^
-||qpb.sohu.com^
-||qpb0.sohu.com^
+||qpb*.sohu.com^
 ||qqhuhu.com^
 ||qqwwmm.com^
 ||qujishu.com^
@@ -27342,6 +27348,7 @@ m.babytree.com##script + a[class]
 /mngi/tracking/*
 /mnppixellibrary.
 /mnt/imp?
+/moapt-action-iq-analytics.
 /moat-tracker.
 /moat/yield.js
 /moatanalytics-
@@ -28049,6 +28056,7 @@ m.babytree.com##script + a[class]
 /referrer.php?*http
 /referrer_invisible.js?
 /referrer_tracking.
+/reflektion.js
 /refresh_uid?$script
 /refstats.asp?
 /reftracker.
@@ -32238,7 +32246,7 @@ _mongo_stats/
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
 ||popsample.com^$third-party
-||popt.in^$third-party
+||popt.in^$third-party,domain=~poptin.com
 ||populr.me^$third-party
 ||popupmaker.com^$third-party
 ||porngraph.com^$third-party
@@ -35690,6 +35698,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
 ||accesswire.com/img.ashx
+||actioniq.mr-in.com^
 ||activengage.com/overwatch/
 ||activity.wisepops.com^
 ||ad-shield.io^$third-party
@@ -36198,6 +36207,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.sspinc.io^
 ||comeon.com/tracking.php
 ||comic-rocket.com/metrics.js
+||commerce.bing.com^
 ||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
 ||compendiumblog.com/sp.js
@@ -37429,6 +37439,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stileproject.com/vhtk/
 ||storage.data-vp.com/vp/t.js
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
 ||streamtheworld.com/imp?
@@ -37999,6 +38010,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
+||d3gi6isrskhoq.cloudfront.net^
 ||d3hb14vkzrxvla.cloudfront.net/health-check
 ||d3iouejux1os58.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
@@ -39840,6 +39852,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeting.vistaprint.com^
 ||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
+||rfk.dsw.com/api/init/1/init.js
 ||risextube.com/t/
 ||roblox.com/report
 ||roblox.com/www/e.png?
@@ -40430,6 +40443,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bathandbodyworks.com/lsXlyYa5/init.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||booktopia.com.au/Ns7aBMIv/init.js
+||brownsshoes.com/IZ/2tcS0qiG/init.js
 ||build.com/2Ztkihy4/init.js
 ||carbon38.com/A44kxi5a/init.js
 ||careermatch.com/oGckki0e/init.js
@@ -40470,8 +40484,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||realtor.com/rdc_user_check/init.js
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seekingalpha.com/xgCxM9By/init.js
+||shiekh.com/iJ55yhVs/init.js
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
+||snipesusa.com/6XNN2xkk/init.js
 ||stockx.com/16uD0kOF/init.js
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js

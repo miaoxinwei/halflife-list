@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9u1XeMFeJxfJURXGhyYHcQ
+! Checksum: W4KNrlLhxraMcguUx62VVw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301100219
-! Last Modified: 2023年01月10日 02:19
+! Version: 202301100919
+! Last Modified: 2023年01月10日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5724,6 +5724,9 @@ _800x80_
 ###above_button_ad
 ###aboveplayerad
 ###abovepostads
+###acm-ad-tag-lawrence_dfp_mobile_arkadium
+###ad--article--home-mobile-paramount-wrapper
+###ad--article-bottom-wrapper
 ###ad--article-top
 ###ad--sidebar
 ###ad-0
@@ -8392,6 +8395,7 @@ _800x80_
 ###firstAdUnit
 ###first_ad
 ###firstad
+###fixed-ad
 ###fixedAd
 ###floatAd
 ###floatads
@@ -17315,6 +17319,7 @@ _800x80_
 ##.fullbanner_ad
 ##.fullbannerad
 ##.fullpage-ad
+##.fullsize-ad-square
 ##.fullwidth-advertisement
 ##.fusion-ads
 ##.fusion-advert
@@ -18889,6 +18894,8 @@ _800x80_
 ##.mobile-ads
 ##.mobile-fixed-ad
 ##.mobile-footer__ad
+##.mobile-instream-ad-holder
+##.mobile-instream-ad-holder-single
 ##.mobile-leaderboard-fader
 ##.mobile-nav-ad-plus-banner
 ##.mobile-related-ad
@@ -22243,6 +22250,9 @@ _800x80_
 ##.scroll-fixable.rail-right > .deals-rail
 ##.click-track.partner
 ##[href^="https://freecourseweb.com/"] > .sitefriend
+##.index-module_adBeforeContent__LLBk
+##.interstory_first_mobile
+##.interstory_second_mobile
 ###gnt_atomsnc
 ##.gnt_flp
 ##.gnt_rr_xpst
@@ -23079,6 +23089,7 @@ tf2r.com#@#.adverts
 ||35caec29d1.com^
 ||360popads.com^
 ||360protected.com^
+||360yield-basic.com^
 ||362b643a66026e.com^
 ||364a426c46.com^
 ||3688e59262.com^
@@ -25699,6 +25710,7 @@ tf2r.com#@#.adverts
 ||baledenseabbreviation.com^
 ||baleiambwee.com^
 ||baletingo.com^
+||balkscaked.com^
 ||balldevelopedhangnail.com^
 ||balloonnails.com^
 ||ballroomexhibitionmid.com^
@@ -26633,6 +26645,7 @@ tf2r.com#@#.adverts
 ||bukash2jf8jfpw09.com^
 ||buksaiss.net^
 ||bulcqmteuc.com^
+||bulgae.com^
 ||bulium.com^
 ||bulkybawler.com^
 ||bull3t.co^
@@ -28472,6 +28485,7 @@ tf2r.com#@#.adverts
 ||disparagethence.com^
 ||disparitydegenerateconstrict.com^
 ||dispbaktun.com^
+||disperserepeatedly.com^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
 ||displayfly.com^
@@ -33168,6 +33182,7 @@ tf2r.com#@#.adverts
 ||loxtk.com^
 ||lp-preview.net^
 ||lplimjxiyx.com^
+||lqcaznzllnrfh.com^
 ||lqcdn.com^
 ||lqgbqafvfga.xyz^
 ||lqw.me^
@@ -35911,6 +35926,7 @@ tf2r.com#@#.adverts
 ||poetryintendedverdict.com^
 ||pogothere.xyz^
 ||poined.com^
+||poinsk.com^
 ||pointeretards.com^
 ||pointlimitedzen.online^
 ||pointroll.com^
@@ -39746,6 +39762,7 @@ tf2r.com#@#.adverts
 ||troild.com^
 ||trokemar.com^
 ||trolleydryerfunds.com^
+||trollsvide.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
 ||troncomelets.com^
@@ -41326,6 +41343,7 @@ tf2r.com#@#.adverts
 ||xipheglipy.com^
 ||xissidearm.com^
 ||xkdijkdiefu.com^
+||xkesalwueyz.com^
 ||xkpbcd.com^
 ||xkpgguajr.com^
 ||xkybwner.xyz^
@@ -43360,6 +43378,7 @@ tf2r.com#@#.adverts
 ||videoplaza.tv^$third-party
 ||videoroll.net^$third-party
 ||vitalads.net^$third-party
+||vlyby.com^$third-party
 ||voodoo.com^$third-party
 ||vungle.com^$third-party
 ||vupulse.com^$third-party
@@ -44299,6 +44318,7 @@ tf2r.com#@#.adverts
 ||gypsyardently.com^$popup
 ||h8vzwpv.com^$popup
 ||hadesleta.com^$popup
+||haemorrhagedigest.com^$popup
 ||hallucinatepromise.com^$popup
 ||haradeiu.rocks^$popup
 ||harsh-definition.pro^$popup
@@ -44486,6 +44506,7 @@ tf2r.com#@#.adverts
 ||kidhumiliateessay.com^$popup
 ||kindleloving.com^$popup
 ||kindredplc.com^$popup
+||kinripen.com^$popup
 ||kityamurlika.com^$popup
 ||kiwi-offers.com^$popup
 ||klavront.com^$popup
@@ -44776,6 +44797,7 @@ tf2r.com#@#.adverts
 ||offaces-butional.com^$popup
 ||offerstrack.net^$popup
 ||offgate-app-phkr.com^$popup
+||officialbanisters.com^$popup
 ||ofphanpytor.com^$popup
 ||ofseedotom.com^$popup
 ||ogtrk.net^$popup
@@ -44970,6 +44992,7 @@ tf2r.com#@#.adverts
 ||premium-members.com^$popup
 ||premium4kflix.top^$popup
 ||premium4kflix.website^$popup
+||preoccupycommittee.com^$popup
 ||presidentscaredlow.com^$popup
 ||pressingequation.com^$popup
 ||preventionbitten.com^$popup
@@ -45082,6 +45105,7 @@ tf2r.com#@#.adverts
 ||reminews.com^$popup
 ||remove-ads.xyz^$popup
 ||rentingimmoderatereflecting.com^$popup
+||repentbits.com^$popup
 ||replainy.co^$popup
 ||reposault-locket.icu^$popup
 ||reposetemptarraignment.com^$popup
@@ -45384,6 +45408,7 @@ tf2r.com#@#.adverts
 ||tnctrx.com^$popup
 ||tnkexchange.com^$popup
 ||todhamilton.pro^$popup
+||toiletapparel.com^$popup
 ||tomcleaneraddon.com^$popup
 ||tonefuse.com^$popup
 ||top-performance.best^$popup
@@ -45493,6 +45518,7 @@ tf2r.com#@#.adverts
 ||ultralove.net^$popup
 ||ultrlove.com^$popup
 ||ulukdliketobeparto.xyz^$popup
+||unairazoads.com^$popup
 ||unbeedrillom.com^$popup
 ||unblockedapi.com^$popup
 ||understoodreceivermisunderstand.com^$popup
@@ -50933,7 +50959,6 @@ crash.net##.inarticle-wrapper
 motherjones.com##.incontent-promo
 brudirect.com##.index-banner
 katv.com##.index-module_adAfterContent__1cww
-katv.com##.index-module_adBeforeContent__LLBk
 theinertia.com##.inertia-ad-300x250
 inews.co.uk##.inews__advert
 inews.co.uk##.inews__mpu
@@ -56340,6 +56365,12 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||x3a88d.cn^
+||damhixs.cn^
+||dxgyl.xyz^
+||uasvyi.xyz^
+||dfepm.xyz^
+||bkisss.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -75637,8 +75668,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||qiyegongqiu1.qiyegongqiu.com^
 ||qizhihaotian.com^*.js
 ||ql.uzuzuz.com^
-||qpb.sohu.com^
-||qpb0.sohu.com^
+||qpb*.sohu.com^
 ||qqhuhu.com^
 ||qqwwmm.com^
 ||qujishu.com^
@@ -79636,6 +79666,7 @@ fqsousou.com,kengso.com#@#.user-share
 /mngi/tracking/*
 /mnppixellibrary.
 /mnt/imp?
+/moapt-action-iq-analytics.
 /moat-tracker.
 /moat/yield.js
 /moatanalytics-
@@ -80343,6 +80374,7 @@ fqsousou.com,kengso.com#@#.user-share
 /referrer.php?*http
 /referrer_invisible.js?
 /referrer_tracking.
+/reflektion.js
 /refresh_uid?$script
 /refstats.asp?
 /reftracker.
@@ -84532,7 +84564,7 @@ _mongo_stats/
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
 ||popsample.com^$third-party
-||popt.in^$third-party
+||popt.in^$third-party,domain=~poptin.com
 ||populr.me^$third-party
 ||popupmaker.com^$third-party
 ||porngraph.com^$third-party
@@ -87984,6 +88016,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
 ||accesswire.com/img.ashx
+||actioniq.mr-in.com^
 ||activengage.com/overwatch/
 ||activity.wisepops.com^
 ||ad-shield.io^$third-party
@@ -88492,6 +88525,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.sspinc.io^
 ||comeon.com/tracking.php
 ||comic-rocket.com/metrics.js
+||commerce.bing.com^
 ||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
 ||compendiumblog.com/sp.js
@@ -89723,6 +89757,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stileproject.com/vhtk/
 ||storage.data-vp.com/vp/t.js
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
 ||streamtheworld.com/imp?
@@ -90293,6 +90328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
+||d3gi6isrskhoq.cloudfront.net^
 ||d3hb14vkzrxvla.cloudfront.net/health-check
 ||d3iouejux1os58.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
@@ -92134,6 +92170,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeting.vistaprint.com^
 ||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
+||rfk.dsw.com/api/init/1/init.js
 ||risextube.com/t/
 ||roblox.com/report
 ||roblox.com/www/e.png?
@@ -92724,6 +92761,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bathandbodyworks.com/lsXlyYa5/init.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||booktopia.com.au/Ns7aBMIv/init.js
+||brownsshoes.com/IZ/2tcS0qiG/init.js
 ||build.com/2Ztkihy4/init.js
 ||carbon38.com/A44kxi5a/init.js
 ||careermatch.com/oGckki0e/init.js
@@ -92764,8 +92802,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||realtor.com/rdc_user_check/init.js
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seekingalpha.com/xgCxM9By/init.js
+||shiekh.com/iJ55yhVs/init.js
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
+||snipesusa.com/6XNN2xkk/init.js
 ||stockx.com/16uD0kOF/init.js
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js
@@ -109293,6 +109333,7 @@ age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-cdn\d+/)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
