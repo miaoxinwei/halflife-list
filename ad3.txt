@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X9hsR+O+BGHjcg9vMpErYw
+! Checksum: 5d/fxkpzihVPHuxK9Fdrhw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301130220
-! Last Modified: 2023年01月13日 02:20
+! Version: 202301130919
+! Last Modified: 2023年01月13日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1815,6 +1815,10 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||jfmfmgj.cn^
+||qvfkiwf.cn^
+||keysmw.xyz^
+||78dfvv.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -26203,6 +26207,7 @@ m.babytree.com##script + a[class]
 /events/pixel/*$image
 /events/pixelEvent
 /events/track/*
+/events/view-form-open
 /events/view?
 /events?data=
 /events?rpId=
@@ -26838,7 +26843,6 @@ m.babytree.com##script + a[class]
 /insights-collector.
 /insights-emitter.
 /insights-emitter/*
-/insights/events/*
 /InsightTrk/*
 /insightXe.js
 /insitemetrics/*
@@ -27240,6 +27244,7 @@ m.babytree.com##script + a[class]
 /m360lib.js
 /ma.gif?cc=
 /madAnalytics.js
+/magento/page-visit?
 /magento2.js
 /magiq-
 /mail_tracking-cg.php
@@ -35998,6 +36003,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
 ||bc0a.com/be_ixf_js_sdk.js
+||bc0a.com/marvel.js
 ||bdg.com/event?
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OzbvNwhyMi2PRDq2WZ8GEA
+! Checksum: IqMhHsNvYWGPU3Lo5lNI8w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301130220
-! Last Modified: 2023年01月13日 02:20
+! Version: 202301130919
+! Last Modified: 2023年01月13日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -56634,6 +56634,10 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||jfmfmgj.cn^
+||qvfkiwf.cn^
+||keysmw.xyz^
+||78dfvv.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -78737,6 +78741,7 @@ fqsousou.com,kengso.com#@#.user-share
 /events/pixel/*$image
 /events/pixelEvent
 /events/track/*
+/events/view-form-open
 /events/view?
 /events?data=
 /events?rpId=
@@ -79372,7 +79377,6 @@ fqsousou.com,kengso.com#@#.user-share
 /insights-collector.
 /insights-emitter.
 /insights-emitter/*
-/insights/events/*
 /InsightTrk/*
 /insightXe.js
 /insitemetrics/*
@@ -79774,6 +79778,7 @@ fqsousou.com,kengso.com#@#.user-share
 /m360lib.js
 /ma.gif?cc=
 /madAnalytics.js
+/magento/page-visit?
 /magento2.js
 /magiq-
 /mail_tracking-cg.php
@@ -88532,6 +88537,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
 ||bc0a.com/be_ixf_js_sdk.js
+||bc0a.com/marvel.js
 ||bdg.com/event?
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
