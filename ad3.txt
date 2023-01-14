@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y+Jtmrn0P2m5L2eDMeWFHQ
+! Checksum: d4v7CmPGZabhF/nNekq23Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301140912
-! Last Modified: 2023年01月14日 09:12
+! Version: 202301141417
+! Last Modified: 2023年01月14日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -177,6 +177,7 @@ netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
 4kya.com###player_pause
 ||wp.com/netflixya.com/upload/$image
 ||yanetflix.com/upload/vod/$image
+www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
 yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ch-hr12333.com
@@ -1832,6 +1833,8 @@ ubmcmm.baidustatic.com
 ||koatkm.xyz^
 ||scbt.asia^
 ||laafrce.cn^
+||xh33g.net^
+||xjpphoto.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -18213,7 +18216,8 @@ cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
 start.firefoxchina.cn##.wrap > div[style]:last-child
 99a21.com##.wrap-head-spots
-939394.xyz##.wrap.mb8.mt5 + div[class]:not(.outer)
+939394.xyz##.allBg > DIV[style="display: block;"]
+939394.xyz##.wrap.mb8.mt5 ~ DIV[class]:not(.outer)
 123.com.cn##.wraper_ad
 5yfz.com##.wrapper > p
 image.baidu.com##.wrapper_dot_box.dot_black
@@ -36079,6 +36083,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bzpics.com/jslib/st.js?
 ||c-date.com/pixel/
 ||c.amazinglybrilliant.com.au^
+||c.bazo.io^
 ||c.imedia.cz^
 ||c.live.com^
 ||c.mgid.com^
@@ -54738,6 +54743,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
+@@||sdn.cz/*/loader.js$domain=novinky.cz
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 !---------- Danish ----------
