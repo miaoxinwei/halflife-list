@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zQsnRj3ZK9NrXClqX9ubyg
+! Checksum: BgCnGaOWm7uc2vrM6LnbVA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301152027
-! Last Modified: 2023年01月15日 20:27
+! Version: 202301160217
+! Last Modified: 2023年01月16日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10892,6 +10892,7 @@ _800x80_
 ##.aadsection_b2
 ##.aarpe-ad-wrapper
 ##.aarpe-fixed-ad
+##.ab-ad_placement-article
 ##.ab-prompt
 ##.abAdArea
 ##.abAdPositionBoxB
@@ -21907,6 +21908,7 @@ _800x80_
 ##a[href^="https://axdsz.pro/"]
 ##a[href^="https://azpresearch.club/"]
 ##a[href^="https://banners.livepartners.com/"]
+##a[href^="https://batheunits.com/"]
 ##a[href^="https://bestcond1tions.com/"]
 ##a[href^="https://bestdatinghere.life/"]
 ##a[href^="https://black77854.com/"]
@@ -21953,6 +21955,7 @@ _800x80_
 ##a[href^="https://fertilitycommand.com/"]
 ##a[href^="https://financeads.net/tc.php?"]
 ##a[href^="https://fleshlight.sjv.io/"]
+##a[href^="https://fourwhenstatistics.com/"]
 ##a[href^="https://frameworkdeserve.com/"]
 ##a[href^="https://funkydaters.com/"]
 ##a[href^="https://galaxyroms.net/?scr="]
@@ -22137,6 +22140,7 @@ _800x80_
 ##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href^="https://www.healthrangerstore.com/"] > img
+##a[href^="https://www.highcpmrevenuenetwork.com/"]
 ##a[href^="https://www.highperformancecpmgate.com/"]
 ##a[href^="https://www.highperformancegate.com/"]
 ##a[href^="https://www.infowarsstore.com/"] > img
@@ -22160,6 +22164,7 @@ _800x80_
 ##a[href^="https://www.sugarinstant.com/?partner_id="]
 ##a[href^="https://www.sweetdeals.com"]
 ##a[href^="https://www.vfreecams.com/in/?track="]
+##a[href^="https://yogacomplyfuel.com/"]
 ##ad-desktop-sidebar
 ##ad-shield-ads
 ##amp-ad-custom
@@ -23715,6 +23720,7 @@ tf2r.com#@#.adverts
 ||acacdn.com^
 ||acaciaarraydebate.com^
 ||academyenrage.com^
+||acalraiz.xyz^
 ||acareewitu.com^
 ||acaupail.net^
 ||acc5a261f3.com^
@@ -24340,6 +24346,7 @@ tf2r.com#@#.adverts
 ||affordspoonsgray.com^
 ||affpa.top^
 ||affplanet.com^
+||affsuhgiyd.com^
 ||afftrack.com^
 ||afftrackr.com^
 ||afftrk.online^
@@ -25844,6 +25851,7 @@ tf2r.com#@#.adverts
 ||batesafraidacquit.com^
 ||batespecializecoal.com^
 ||batheattendancewreck.com^
+||batheunits.com^
 ||batmenmessily.website^
 ||batsdivannab.com^
 ||battepush.com^
@@ -28001,6 +28009,7 @@ tf2r.com#@#.adverts
 ||cwnfkbio.xyz^
 ||cwqljsecvr.com^
 ||cwwvbqwexbitnb.xyz^
+||cxfteuryfjdg.com^
 ||cxovwczosr.com^
 ||cyan92010.com^
 ||cybertronads.com^
@@ -28412,6 +28421,7 @@ tf2r.com#@#.adverts
 ||dfpstitialtag.com^
 ||dfyouolsdq.com^
 ||dgafgadsgkjg.top^
+||dgemanowhot.com.ua^
 ||dgmaplain.club^
 ||dgmatix.com^
 ||dgmaustralia.com^
@@ -28652,6 +28662,7 @@ tf2r.com#@#.adverts
 ||doddassagai.com^
 ||dodouhoa.com^
 ||dodurantom.com^
+||doeisjyhqtqsy.com^
 ||doerscharre.com^
 ||doffingiceboat.com^
 ||doflygonan.com^
@@ -29825,6 +29836,7 @@ tf2r.com#@#.adverts
 ||febadu.com^
 ||februarynip.com^
 ||februaryreductionapplet.com^
+||federalcertainty.com^
 ||fedethezo.pro^
 ||fedrocou.net^
 ||fedsit.com^
@@ -30167,6 +30179,7 @@ tf2r.com#@#.adverts
 ||founct.com^
 ||foundfroshelves.com^
 ||fouptebu.net^
+||fourwhenstatistics.com^
 ||fovykaxo.pro^
 ||fowlsfunctions.com^
 ||foxcdn.life^
@@ -30257,6 +30270,7 @@ tf2r.com#@#.adverts
 ||fttwin.icu^
 ||ftv-publicite.fr^
 ||ftxabddarlo.xyz^
+||fublkelpi.com^
 ||fubsoucm.com^
 ||fudeidsoanadthe.info^
 ||fudsrakh.com^
@@ -30290,6 +30304,7 @@ tf2r.com#@#.adverts
 ||fuse-cloud.com^
 ||fuseplatform.net^
 ||fusionads.net^
+||fusionwishful.com^
 ||fusoidactuate.com^
 ||futiledrugstore.com^
 ||futsoksu.com^
@@ -32182,6 +32197,7 @@ tf2r.com#@#.adverts
 ||jangonetwork.com^
 ||janitoraccrue.com^
 ||janufa.com^
+||japact.com^
 ||japanbros.com^
 ||japersuncials.com^
 ||japhapee.net^
@@ -32379,6 +32395,7 @@ tf2r.com#@#.adverts
 ||jpmpuxglivupwy.com^
 ||jqcache.ml^
 ||jqcgyjwidktu.xyz^
+||jqeyvtgelo.com^
 ||jquerycdn.host^
 ||jqueryoi.com^
 ||jqueryserve.org^
@@ -33040,6 +33057,7 @@ tf2r.com#@#.adverts
 ||leisurejust.com^
 ||leisurelydepended.com^
 ||leisurelypizzascarlet.com^
+||lejlchnxlrsdfev.com^
 ||lekqfxeydurktr.xyz^
 ||leljecxd.xyz^
 ||lemetri.info^
@@ -34907,6 +34925,7 @@ tf2r.com#@#.adverts
 ||oaksafta.com^
 ||oalsauwy.net^
 ||oalselry.com^
+||oalsoagn.com^
 ||oamoatch.com^
 ||oamtorsa.net^
 ||oanimsen.net^
@@ -35128,6 +35147,7 @@ tf2r.com#@#.adverts
 ||onads.com^
 ||onakasulback.autos^
 ||onalskillsexkc.com^
+||onandeggsiswe.com.ua^
 ||onastydrum.com^
 ||onaugan.com^
 ||onautcatholi.xyz^
@@ -35492,6 +35512,7 @@ tf2r.com#@#.adverts
 ||owlcongratulate.com^
 ||owlerydominos.cam^
 ||owlunimmvn.com^
+||owncdrfpv.com^
 ||owncutone.com^
 ||owndata.network^
 ||ownerfacinglung.com^
@@ -35887,6 +35908,7 @@ tf2r.com#@#.adverts
 ||phaudree.com^
 ||phaurtuh.net^
 ||phca85g3n400.com^
+||phdwxsui.xyz^
 ||pheasantcardboardcohort.com^
 ||pheasantgobetweenyearbook.com^
 ||phee1oci.com^
@@ -36985,6 +37007,7 @@ tf2r.com#@#.adverts
 ||raglogripsa.com^
 ||raicabuy.net^
 ||raidnarcotic.com^
+||raiglihi.net^
 ||raigluce.net^
 ||raigns.com^
 ||railroadfatherenlargement.com^
@@ -37628,6 +37651,8 @@ tf2r.com#@#.adverts
 ||roommatespacioushrs.com^
 ||roosteem.net^
 ||ropeanres.com^
+||ropemoon.com^
+||roqmerdeuro.com^
 ||roredi.com^
 ||rorgoops.com^
 ||rorserdy.com^
@@ -38072,6 +38097,7 @@ tf2r.com#@#.adverts
 ||secondunderminecalm.com^
 ||secrecysatisfy.com^
 ||secrud.com^
+||secruz.com^
 ||sectordisturb.com^
 ||sectsenior.com^
 ||secure-12.com^
@@ -39621,6 +39647,7 @@ tf2r.com#@#.adverts
 ||thispositionw.biz^
 ||thitsiryke.live^
 ||thizamocu.pro^
+||thkxtvklfdeget.com^
 ||thnqemehtyfe.com^
 ||thoaltie.net^
 ||thoamike.xyz^
@@ -41341,6 +41368,7 @@ tf2r.com#@#.adverts
 ||whoutsog.net^
 ||whouvike.com^
 ||whowhipi.net^
+||whpqvmaxr.xyz^
 ||whs82908.com^
 ||whugesto.net^
 ||whukroal.net^
@@ -41647,6 +41675,7 @@ tf2r.com#@#.adverts
 ||xcsypkknp.com^
 ||xcvhhgdbyqk.xyz^
 ||xcvsdrqagn.com^
+||xddsuxmfvi.com^
 ||xdeqhxqu.com^
 ||xdirectx.com^
 ||xdkvvtucvbqhv.xyz^
@@ -41893,6 +41922,7 @@ tf2r.com#@#.adverts
 ||yoc-adserver.com^
 ||yodr.net^
 ||yofdifferents.biz^
+||yogacomplyfuel.com^
 ||yogar2ti8nf09.com^
 ||yogawrite.com^
 ||yoginsnorland.com^
@@ -42201,6 +42231,7 @@ tf2r.com#@#.adverts
 ||zypenetwork.com^
 ||zyugar.com^
 ||zzdb5p4upiug.com^
+||zzoluickymwz.com^
 ||bet365.com/*?affiliate=$document
 ||dianomi.com^$document
 ||maquiags.com^$document
@@ -44096,6 +44127,7 @@ tf2r.com#@#.adverts
 ||bakjaqa.net^$popup
 ||banquetunarmedgrater.com^$popup
 ||bastionthree.xyz^$popup
+||batheunits.com^$popup
 ||baypops.com^$popup
 ||bbccn.org^$popup
 ||bbcrgate.com^$popup
@@ -44341,6 +44373,7 @@ tf2r.com#@#.adverts
 ||data-px.services^$popup
 ||date-4-fuck.com^$popup
 ||datedate.today^$popup
+||datinggoodtaste.life^$popup
 ||datingstyle.top^$popup
 ||datingtoday.top^$popup
 ||datingtorrid.top^$popup
@@ -44551,6 +44584,7 @@ tf2r.com#@#.adverts
 ||formulacountess.com^$popup
 ||forzubatr.com^$popup
 ||fostereminent.com^$popup
+||fourwhenstatistics.com^$popup
 ||foxcdn.life^$popup
 ||foxcdn.live^$popup
 ||fpctraffic3.com^$popup
@@ -46077,6 +46111,7 @@ tf2r.com#@#.adverts
 ||yieldtraffic.com^$popup
 ||ym-a.cc^$popup
 ||yodbox.com^$popup
+||yogacomplyfuel.com^$popup
 ||yonoka.info^$popup
 ||yonsandileer.com^$popup
 ||youradexchange.com^$popup
@@ -47607,6 +47642,7 @@ tf2r.com#@#.adverts
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d3zd5ejbi4l9w.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
+||d5d3sg85gu7o6.cloudfront.net^
 ||d5g0nxmbdku6r.cloudfront.net^
 ||d5onopbfw009h.cloudfront.net^
 ||d5pb47xzjz3fc.cloudfront.net^
@@ -56694,6 +56730,7 @@ ubmcmm.baidustatic.com
 ||bgjjwl.cn^
 ||bkisss.com^
 ||bqg16.cc^
+||bqrkubs.cn^
 ||cerfbup.xyz^
 ||creawww.top^
 ||cuwuqo.xyz^
@@ -56710,6 +56747,7 @@ ubmcmm.baidustatic.com
 ||fds-1230.cc^
 ||felzfr.xyz^
 ||ffdcpvv.cn^
+||forestwo1f.ltd^
 ||frpns.com^
 ||fujbjb.xyz^
 ||fyfvaxi.cn^
@@ -56732,6 +56770,7 @@ ubmcmm.baidustatic.com
 ||hzcp.fun^
 ||igusoft.com^
 ||ikbgika.cn^
+||inkuae.com^
 ||ionqv.cn^
 ||irygym.xyz^
 ||ituxzez.cn^
@@ -56742,6 +56781,7 @@ ubmcmm.baidustatic.com
 ||jwgihca.cn^
 ||kb5ke.xyz^
 ||kbbqwhf.cn^
+||keoap.xyz^
 ||keysmw.xyz^
 ||koatkm.xyz^
 ||kwivb.cn^
@@ -56749,6 +56789,7 @@ ubmcmm.baidustatic.com
 ||laxnlqn.cn^
 ||leeleo.top^$third-party
 ||leiwo.xyz^
+||lmxzlb.xyz^
 ||loispp.com^
 ||looktt.xyz^
 ||maccms10.cn^
@@ -56758,6 +56799,7 @@ ubmcmm.baidustatic.com
 ||mffdn.xyz^
 ||mgowec.xyz^
 ||mmtcw.cn^
+||mohretsu.com^
 ||mqquas.xyz^
 ||mvbtp.xyz^
 ||mzwzo.cn^
@@ -56792,6 +56834,7 @@ ubmcmm.baidustatic.com
 ||sige20221230.xyz^
 ||slowbeat.fun^
 ||soqikbe.cn^
+||sycrgc.xyz^
 ||tfbulkidn.com^
 ||tg0qu.top^
 ||timothy.wang^
@@ -56820,6 +56863,7 @@ ubmcmm.baidustatic.com
 ||vcinwqw.cn^
 ||vec4o.fun^
 ||wdasa.top^
+||wdmdejd.cn^
 ||wjl58.icu^
 ||wpiwoo.xyz^
 ||wuge20230104.live^
@@ -56835,6 +56879,7 @@ ubmcmm.baidustatic.com
 ||xtpez.xyz^
 ||yanjiusuo.cc^
 ||yemueii.cn^
+||yhsfsdv03.com^
 ||yhzzzs02.com^
 ||yretx.cn^
 ||ysgekq.xyz^
@@ -56842,17 +56887,10 @@ ubmcmm.baidustatic.com
 ||yuqingby.fun^
 ||yzgid.cn^
 ||zeipw.xyz^
+||zmdtcw.cn^
 ||ztwrnpd.cn^
 ||ztxstudy.club^
 ||zunnnh.xyz^
-||sycrgc.xyz^
-||bqrkubs.cn^
-||keoap.xyz^
-||zmdtcw.cn^
-||mohretsu.com^
-||wdmdejd.cn^
-||forestwo1f.ltd^
-||lmxzlb.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -68969,8 +69007,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-moegirl.org.cn##.moe-card[region="oversea"]
-939394.xyz#?#:-abp-properties(/fixed|data/)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -72265,6 +72301,7 @@ v.qq.com##.module-image[style*="width:1100px;"]
 v.qq.com##.module-image[style*="width:1240px;"]
 i.maxthon.cn##.module.tools-main[data-s-n="bottom"]
 html-js.com##.module[style="padding:0;"]
+moegirl.org.cn##.moe-card[region="oversea"]
 javdb002.com##.moj-content
 followme.cn##.money-box
 boce.com##.money_box
@@ -73330,6 +73367,7 @@ wdzzz.com##.zz_nr
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 423down.com#?#.post-related > ul > li:-abp-has(> a[href^="http"]:not([href*="423down."]))
 423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
+939394.xyz#?#:-abp-properties(/fixed|data/)
 939394.xyz#?#a:-abp-has(img[src*=".alicdn."])
 939394.xyz#?#a:-abp-has(img[src*="/ddimg/"])
 99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
@@ -83388,6 +83426,7 @@ _mongo_stats/
 ||aaxdetect.com^$third-party
 ||abcstats.com^$third-party
 ||ablsrv.com^$third-party
+||ablyft.com^$third-party
 ||abmr.net^$third-party
 ||absolstats.co.za^$third-party
 ||abtrcking.com^$third-party
