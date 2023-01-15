@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4tBt5pS/bSO/mSpeT/lwQA
+! Checksum: qoV2y4mzQ7fmaRNrtv5dPw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301150920
-! Last Modified: 2023年01月15日 09:20
+! Version: 202301151418
+! Last Modified: 2023年01月15日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -133,7 +133,7 @@ g.huya.com
 www.ted.com##.gm-fp-body .justify-center.tracking-tightest
 ||onetrust.
 litix.io
-stripe.com
+||stripe.com^$script,domain=~nextdns.io
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
 *_ad_$media,domain=youtube.com,3p
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
@@ -1852,6 +1852,8 @@ ubmcmm.baidustatic.com
 ||bqrkubs.cn^
 ||keoap.xyz^
 ||zmdtcw.cn^
+||mohretsu.com^
+||wdmdejd.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13968,6 +13970,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+939394.xyz#?#:-abp-properties(/fixed|data/)
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -39102,6 +39105,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||analytics.kkb.com.tr^
 ||hulyagedikci.com/vhit.php?
 ||statistics.daktilo.com^
 ||tracking.venturify.at^
@@ -39342,6 +39346,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.alipay.com^
 ||collect.asics.com^
 ||collect.banggood.com^
+||collect.hollisterco.com^
 ||collect.thunder-io.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
