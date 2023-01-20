@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 09prz0PVmNM1dhlUrtXV/Q
+! Checksum: wzNmRTCMpGvwsX1FbZnx7A
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202301201419
-! Last Modified: 2023年01月20日 14:19
+! Version: 202301202030
+! Last Modified: 2023年01月20日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -949,6 +949,7 @@ ubmcmm.baidustatic.com
 ###ad_globle_div
 ###ad_headerbanner
 ###adad
+###xqad1
 ###adrights14
 ###ads.row
 ###ads_c_tpc
@@ -1915,6 +1916,12 @@ ubmcmm.baidustatic.com
 ||qwrot.cyou^
 ||9cgms.xyz^
 ||yhjh04.com^
+||tzsvodu.cn^
+||guge.red^
+||1129555.com^
+||1190555.com^
+||3633a.com^
+||8499136.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -14028,8 +14035,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||tanseb.com/vads/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+haose5.vip##div[style="text-align: center"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
