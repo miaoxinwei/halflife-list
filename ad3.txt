@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cj5hwL9Cd/InIV8MIqXnBg
+! Checksum: ERvBDEjg9pkrl8fVDSAk5w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301211418
-! Last Modified: 2023年01月21日 14:18
+! Version: 202301212026
+! Last Modified: 2023年01月21日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1935,6 +1935,11 @@ ubmcmm.baidustatic.com
 ||monts.cyou^
 ||sixarwr.cn^
 ||porjjhu.cn^
+||soulsoul.xyz^
+||jbuzacg.cn^
+||98dvu.fun^
+||rzlp.xyz^
+||8881img.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -32208,6 +32213,7 @@ _mongo_stats/
 ||netmng.com^$third-party
 ||netratings.com^$third-party
 ||netrefer.com^$third-party
+||newrelic.com^$third-party
 ||newrrb.bid^$third-party
 ||nextstat.com^$third-party
 ||ngmco.net^$third-party
@@ -36896,7 +36902,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jly24aw29n5m-a.akamaihd.net^
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
-||js-agent.newrelic.com^
 ||jscache.com/static/page_moniker/
 ||jsdelivr.net/gh/sensitiveio/sbtracker@master/
 ||jsdelivr.net^*/fp.min.js
@@ -39809,7 +39814,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||livejournal.com/log?
 ||liveperson.net/hc/*/?visitor=
 ||local.ch/track/
-||log-api.newrelic.com^
 ||log.china.cn^
 ||log.genyt.net^
 ||log.hypebeast.com^
