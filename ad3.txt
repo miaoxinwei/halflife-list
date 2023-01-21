@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TcSxR+5bUSmG+kK7ubdpPQ
+! Checksum: zHO9zD5fHbwYkMqOawqc7A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301210219
-! Last Modified: 2023年01月21日 02:19
+! Version: 202301210916
+! Last Modified: 2023年01月21日 09:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -197,6 +197,7 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/static/images/ky888.gif
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1928,6 +1929,9 @@ ubmcmm.baidustatic.com
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||juzwrl.xyz^
+||e5z14.icu^
+||paradisemall.net^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -37658,6 +37662,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.brandcdn.com^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.imagino.com^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
