@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v70vZvWCbLsEm7ymRByPDQ
+! Checksum: U+7oQPr2/6ehHHI2RiZP+w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301220217
-! Last Modified: 2023年01月22日 02:17
+! Version: 202301220921
+! Last Modified: 2023年01月22日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1943,6 +1943,9 @@ ubmcmm.baidustatic.com
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||rebunb.xyz^
+||vfsdgjrr.xyz^
+||rebunb.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -30608,6 +30611,7 @@ _mongo_stats/
 ||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
+||optistats.ovh^
 ||ostrichesica.com^
 ||p-analytics.life^
 ||p2r14.com^
@@ -30833,7 +30837,7 @@ _mongo_stats/
 ||adtarget.me^$third-party
 ||adtector.com^$third-party
 ||adtelligence.de^$third-party
-||adtrackers.net^$third-party
+||adtrackers.net^$~script,third-party
 ||adultblogtoplist.com^$third-party
 ||adunity.com^$third-party
 ||advalo.com^$third-party
@@ -35863,6 +35867,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||activity.wisepops.com^
 ||ad-shield.io^$third-party
 ||ad.aloodo.com^
+||ad.mail.ru/*.gif?rnd=$third-party
 ||adbr.io/log?
 ||addthis.com/at/
 ||addthis.com/live/
@@ -39041,7 +39046,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 |https://a.pr-cy.ru^$third-party
 ||1l-hit.mail.ru^
 ||7host.ru/tr/*?r=$third-party
-||ad.mail.ru^$image
+||ad.mail.ru^$image,~third-party
 ||agates.ru/counters/
 ||all-top.ru/cgi-bin/topcount.cgi?
 ||anycent.com/analytics/
@@ -39749,7 +39754,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||inq.com/tagserver/logging/logline
 ||instagram.com/ajax/bz
 ||instructables.com/counter
-||intel.*/content/dam/www/global/wap/tms.sync.js
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
 ||intent.macworld.co.uk^
@@ -54293,6 +54297,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
+@@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
