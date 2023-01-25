@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8MrZZqb+YVWRZREyiY9w9w
+! Checksum: pRabhZeW1Kx0ZwP/W/QIIw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301250915
-! Last Modified: 2023年01月25日 09:15
+! Version: 202301252031
+! Last Modified: 2023年01月25日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -47842,6 +47842,7 @@ tf2r.com#@#.adverts
 ||itweb.co.za^*/sponsors
 ||jobsora.com/img/banner/
 ||jordantimes.com/accu/
+||jpg.church/quicknoisilyheadbites.js
 ||kendrickcoleman.com/images/banners/
 ||kissanime.com.ru/api/pop*.php
 ||kissasian.li/ads/
@@ -48325,6 +48326,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||hltv.org^*=|$popup,domain=hltv.org
 ||hqq.tv/out.php?$popup
 ||hurawatch.ru/?$popup
+||jpg.church/*.php?cat$popup
 ||kissanimeonline.com/driectlink$popup
 ||link.advancedsystemrepairpro.com^$popup
 ||mercurybest.com^$popup,domain=hltv.org
@@ -56254,6 +56256,8 @@ ubmcmm.baidustatic.com
 ||wwnyubs.cn^
 ||ixelcpo.cn^
 ||hvhudp.xyz^
+||shidaiheima.ltd^
+||inscan.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
