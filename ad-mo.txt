@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dU4Ys6xH6kZG0/1+fCEncw
+! Checksum: YZV/4CZ/KQRhj6h5TXIT0g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202301261418
-! Last Modified: 2023年01月26日 14:18
+! Version: 202301262031
+! Last Modified: 2023年01月26日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -4761,6 +4761,12 @@ _widget_ad.
 /in/track?data=
 /senddata?site=banner
 /senddata?site=inpage
+.com/src/ppu/
+/ceef/gdt3g0/tbt/*
+/fyckld0t/ckp/fd3w4/*
+/sc4fr/rwff/f9ef/*
+/t/9/heis/svewg/*
+/yzfdmoan.js
 /cmbdv2.js
 /greenoaks.gif?
 /contents/other/player/*
@@ -5400,7 +5406,6 @@ _800x80_
 ###AdsenseBottom
 ###AdsenseTop
 ###Adsterra
-###Adv-div
 ###Adv10
 ###Adv11
 ###Adv8
@@ -5408,9 +5413,6 @@ _800x80_
 ###AdvArea
 ###AdvBody
 ###AdvContainer
-###AdvContainerMidCenter
-###AdvContainerTopCenter
-###AdvContainerTopRight
 ###AdvFooter
 ###AdvFrame1
 ###AdvHead
@@ -5430,10 +5432,7 @@ _800x80_
 ###AdvertisingDiv_0
 ###Advertorial
 ###Advertorials
-###AdvertsBottom
-###AfsAd_googleAdBlock1
 ###AnchorAd
-###ArticleBottomAd
 ###ArticleContentAd
 ###BB1-ad
 ###BandeauCNIL
@@ -5465,22 +5464,15 @@ _800x80_
 ###GoogleAdRight
 ###GoogleAdTop
 ###GoogleAdsense
-###GoogleRelatedAds
-###GoogleSponsored
-###GroupAdSenseVertical
 ###HP1-ad
 ###HP2-ad
 ###HeadAd
 ###HeaderAD
 ###HeaderAd
 ###HeaderAdBlock
-###HeaderAdSidebar
 ###HeaderAdsBlock
-###HeaderTextAd
 ###HeroAd
 ###HomeAd1
-###HometopAdOuter
-###HorizontalAd
 ###HouseAd
 ###IB-ads
 ###IC1-ad
@@ -5498,80 +5490,45 @@ _800x80_
 ###LeaderboardAdvertising
 ###LeftAd
 ###LeftAd1
-###LftAd
-###LittleAdvert
-###LowerContentAd
 ###MPUAdSpace
 ###MPUadvertising
 ###MPUadvertisingDetail
 ###MainAd
 ###MainAd1
 ###MainContent_ucTopRightAdvert
-###MainSponsoredLinks
-###MastheadAd
 ###MediumRectangleAD
 ###MidPageAds
 ###MiddleRightRadvertisement
 ###Mpu_Bottom
 ###Mpu_Top
-###MultiTextAd
-###MyAdHeader
-###MyAdSky
-###MyAdsId
 ###N-ad-article-rightRail-1
 ###NR-Ads
 ###NavAD
 ###OAS2
 ###OASMiddleAd
 ###OASRightAd
-###OAS_AD_TOPRIGHT
-###OAS_Top
-###OAS_posBottom
-###OAS_posRight
-###OAS_posTopRight
 ###OpenXAds
 ###PaneAdvertisingContainer
-###PhotoAd1
 ###PreRollAd
 ###PromotionAdBox
 ###PushDownAd
 ###RadAdSkyscraper
-###RelevantAds
 ###RightAd
 ###RightAdBlock
 ###RightAdSpace
 ###RightAdvertisement
-###RightRailSponsor
-###RightSponsoredAd
-###SearchAdsBottom
-###SearchAdsTop
-###Section-Ads
-###SectionSponsorAd
-###ServerAd
-###SideAdMpu
-###SideBarAdWidget
-###SideMpuAdBar
 ###SidebarAd
 ###SidebarAdContainer
 ###SitenavAdslot
 ###SkyAd
 ###SkyscraperAD
-###SlideShow_adv
-###SlideShow_adv2
-###SpecialAds
-###Spons-Link
-###SponsorBarWrap
 ###SponsoredAd
 ###SponsoredAds
 ###SponsoredLinks
 ###SponsoredResultsTop
 ###SponsorsAds
 ###StickyBannerAd
-###TDads
-###TOPADS
 ###TextLinkAds
-###ThreadAd
-###TipTopAdSpace
 ###TitleAD
 ###Top-Ad-Container
 ###Top-ad
@@ -5588,11 +5545,7 @@ _800x80_
 ###TopAdvert
 ###TopBannerAd
 ###TopRightRadvertisement
-###TopSideAd
-###TopTextAd
 ###VPNAdvert
-###VertAdBox
-###VertAdBox0
 ###WelcomeAd
 ###WidgetADVMIDDLE
 ###Zergnet
@@ -6777,7 +6730,6 @@ _800x80_
 ###ads-leaderboard1
 ###ads-left
 ###ads-left-top
-###ads-link
 ###ads-lrec
 ###ads-main
 ###ads-menu
@@ -6792,14 +6744,11 @@ _800x80_
 ###ads-right-skyscraper
 ###ads-right-top
 ###ads-slot
-###ads-sponsored-boxes
-###ads-submit
 ###ads-superBanner
 ###ads-text
 ###ads-top
 ###ads-top-728
 ###ads-under-rotator
-###ads-vers7
 ###ads-vertical
 ###ads-vertical-wrapper
 ###ads-wrap
@@ -6807,7 +6756,6 @@ _800x80_
 ###ads1
 ###ads120
 ###ads125
-###ads160left
 ###ads1_box
 ###ads2
 ###ads2_block
@@ -6839,14 +6787,11 @@ _800x80_
 ###adsHeadLine
 ###adsHeader
 ###adsHeading
-###adsID
-###adsIframe
 ###adsLREC
 ###adsLeft
 ###adsLinkFooter
 ###adsMobileFixed
 ###adsMpu
-###adsNarrow
 ###adsPanel
 ###adsRight
 ###adsRightDiv
@@ -6874,7 +6819,6 @@ _800x80_
 ###ads_banner
 ###ads_banner1
 ###ads_banner_header
-###ads_bar
 ###ads_belownav
 ###ads_big
 ###ads_block
@@ -6883,8 +6827,6 @@ _800x80_
 ###ads_body_3
 ###ads_body_4
 ###ads_bottom
-###ads_bottom_inner
-###ads_bottom_outer
 ###ads_box
 ###ads_box1
 ###ads_box2
@@ -6913,8 +6855,6 @@ _800x80_
 ###ads_horiz
 ###ads_horizontal
 ###ads_horz
-###ads_html1
-###ads_html2
 ###ads_in_modal
 ###ads_inline_z
 ###ads_inner
@@ -20038,6 +19978,7 @@ _800x80_
 ##.screen-ad-250x250
 ##.screenshots_ads
 ##.script-ad
+##.scroll-ad-item-container
 ##.scroll-ads
 ##.scrollableArticleAds
 ##.scroller-ad-place-holder
@@ -21039,6 +20980,7 @@ _800x80_
 ##.top-fixed-ad
 ##.top-half-page-ad
 ##.top-header-ad
+##.top-header-ad1
 ##.top-horiz-ad
 ##.top-horizontal-ad
 ##.top-item-ad
@@ -23203,6 +23145,7 @@ tf2r.com#@#.adverts
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mmtv.top^
 ||7two0.rocks^
 ||80055404.vtt^
 ||800c7864eb.com^
@@ -50516,6 +50459,7 @@ aarp.org##.hot-deals
 dailyrecord.co.uk##.hotjobs
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hrnSiz
 cryptorank.io##.hspOLW
+barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 extremetech.com##.hybrid-bar + div
@@ -56126,6 +56070,8 @@ ubmcmm.baidustatic.com
 ||yruvnmn.cn^
 ||weiqu.cyou^
 ||zawqwpajq.club^
+||xyblm.xyz^
+||hertzbeat.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -74259,6 +74205,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||nvidia.cn^*-300x250-
 @@||oiihk.com^$generichide
 @@||olgame.tw^$generichide
+@@||battlecats-db.com^$generichide
+@@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
@@ -92132,6 +92080,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.news.com.au^$script
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
+||tao.barstoolsports.com^
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
@@ -106019,6 +105968,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^*/gtm.js$~third-party
 @@||bluecare.express/js/tracking/$script,~third-party
+@@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
@@ -106762,6 +106712,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
+@@||sisal.it/etc.clientlibs/sisal-fullresponsive/clientlibs/tealium.js$script,~third-party
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
