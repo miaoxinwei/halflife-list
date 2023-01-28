@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JuoTfXAbhYG2zYedeBCjtw
+! Checksum: 1cmGWm93+EkaHiWSvq2wsA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301281418
-! Last Modified: 2023年01月28日 14:18
+! Version: 202301282026
+! Last Modified: 2023年01月28日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -49575,7 +49575,7 @@ dailyuptea.com##.ad-info
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
-sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
+chron.com,sfchronicle.com,thetelegraph.com,timesunion.com##.adBanner
 m.economictimes.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
@@ -53102,7 +53102,7 @@ youx.xxx##.gallery-link
 xxxonxxx.com,youtubelike.com##.gallery-thumbs
 cliniqueregain.com,tallermaintenancar.com##.girl
 sexybabegirls.com##.girlsgirls
-bravoteens.com##.good_list_wrap
+bravoteens.com,bravotube.net##.good_list_wrap
 kbjfree.com##.h-\[250px\]
 amateur-vids.eu,mature.community,mature.mom,mature.sexy,mature.studio,milf.community,milf.mom,milf.plus,milf.sexy##.happy-footer
 gigapornmovies.com,indianpornvideos2.com##.happy-footer-mobile
@@ -55695,6 +55695,8 @@ ubmcmm.baidustatic.com
 ##a#wrapper_left_bg[target="_blank"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a.ad_links
+##.pc_acmsd
+##a[href*=":7888/?register="]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
@@ -56151,6 +56153,10 @@ ubmcmm.baidustatic.com
 ||lpaehxw.cn^
 ||xznrtl.xyz^
 ||qdutmef.cn^
+||tianmel.xyz^
+||yuncaizhijia.ltd^
+||7nekc.icu^
+||scfh9.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -64084,18 +64090,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||360kan.com/v1/block?blockid=544&
 ||365kl.net/data/attachment/portal/
 ||365rich.cn/ba.aspx
-||36dm.*/images/680acgsou.gif
-||36dm.club/images/00
-||36dm.club/images/tb
-||36dm.club/images/top
-||36dm.club/js/nu
-||36dm.com/images/0
-||36dm.com/images/36dm
-||36dm.com/images/l0
-||36dm.com/images/ny0
-||36dm.com/images/tb
-||36dm.com/images/top
-||36dm.com/js/nu
 ||36kr.com/pp/api/ap/plan?
 ||373nn.com/java/
 ||39.net/a.htm?
@@ -64526,9 +64520,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||acgnx.se/images/adwork/
 ||acgnz.cn/static/b.js
 ||acgnz.cn/static/i.js
-||acgsou.com/images/ac
-||acgsou.com/images/tb
-||acgsou.com/images/top
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
 ||act.chinatimes.com/aimg/
@@ -72932,7 +72923,7 @@ pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
 house365.com##a[style*="1200px;"]
 hdzone.org##a[style*="fixed"]
 huaren.tv##a[style*="height:"]
-36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
+36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href*="show-"]
 939394.xyz##a[style="display: block;"]
 wandhi.com##a[style="display: inline-block;position: relative"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
