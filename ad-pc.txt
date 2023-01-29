@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aPPM99HkC/QxvsoGCVF88Q
+! Checksum: pCyeOyqJFiD4VsRbu7cJ6w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202301291417
-! Last Modified: 2023年01月29日 14:17
+! Version: 202301292027
+! Last Modified: 2023年01月29日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10840,6 +10840,8 @@ _800x80_
 ##._ciw-betterAds
 ##._fullsquaread
 ##._has-ads
+##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
 ##._table_ad_div_wide
 ##._top_ad_wrapper
 ##.a-ad
@@ -46485,7 +46487,6 @@ tf2r.com#@#.adverts
 ||pntra.com^$image,script
 ||pntrac.com^$image,script
 ||pntrs.com^$image,script
-||popin.cc/popin_discovery
 ||popmog.com^
 ||post.rmbn.ru^$third-party
 ||press-start.com/affgames/
@@ -49003,7 +49004,7 @@ vanguardngr.com###header-sidebar
 looperman.com###header-top
 nisnews.nl###header-wrap
 realestate.com.au###headerLeaderBoardSlot
-forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
+forums.anandtech.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
 digitalpoint.com###header_middle
 writerscafe.org###header_pay
 deckstats.net###header_right_big
@@ -49042,7 +49043,7 @@ krnb.com###inner-footer
 timesofmalta.com###inscroll-banner
 imagebam.com###inter > [src]
 booklife.com,yabeat.org###interstitial
-newsbusters.org###intranet_long
+cnsnews.com,newsbusters.org###intranet_long
 newsbusters.org###intranet_mid
 lcpdfr.com###ipsLayout_mainArea > .uBlockBrokeOurSiteIpsAreaBackground
 osbot.org###ipsLayout_mainArea > div > div
@@ -49234,8 +49235,8 @@ ffiles.com###right_col
 medicaldialogues.in###right_level_8
 hardware.info###right_top
 yardbarker.com###right_top_sticky
-forums.tomshardware.com###rightcol_bottom
-forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com###rightcol_top
+forums.space.com,forums.tomshardware.com###rightcol_bottom
+forums.anandtech.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com###rightcol_top
 tubeconverter.net###ringtone-button
 youtump3.com###ringtoner
 brenz.net###rndBanner
@@ -49437,6 +49438,7 @@ techpp.com###tppAdsID
 pcworld.com,techhive.com###tso
 trumparea.com###udmvid
 kuklaskorner.com###ultimate
+thequint.com###unitDivWrapper-0
 my.juno.com###usWorldTile
 nutritioninsight.com###verticlblks
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com###verticleLinks
@@ -49491,6 +49493,7 @@ greatandhra.com##.AdinHedare
 alternativeto.net##.AdsenseAd_putFood__h0Ah0
 iogames.onl##.Adv
 airportinfo.live,audiokarma.org,audizine.com##.AdvallyTag
+tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
 iogames.onl##.Advc
 tvnz.co.nz##.Advert
 suffolknews.co.uk##.Advertisement
@@ -49562,6 +49565,7 @@ coin360.com##.Sticky_Hitbtc
 slant.co##.SummaryPage-LustreEmbed
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
+poebuilds.net##.W_tBwY
 britannicaenglish.com##.WordFromSponsor_content_enToar
 this.org##.Wrap-leaderboard
 tumblr.com##.XJ7bf
@@ -49631,6 +49635,8 @@ healthnfitness.net##.adTrack
 food.com##.ad__ad
 auto-data.net##.ad_incar
 kitco.com##.ad_space_730
+queerty.com##.adb-box-large
+queerty.com##.adb-top-lb
 tellymix.co.uk##.adb_top
 wordfind.com##.adbl
 dataversity.net,sakshi.com,songlyrics.com,yallamotor.com##.adblock
@@ -49656,6 +49662,7 @@ projectorcentral.com##.addDiv3
 ndtv.com##.add__txt
 ndtv.com##.add__wrp
 timesofindia.indiatimes.com##.addblock
+aish.com##.adholder-sidebar
 auto-data.net##.adin
 boards.4channel.org##.adl
 animalfactguide.com,portlandmonthlymag.com,sportsmediawatch.com##.adlabel
@@ -50511,6 +50518,7 @@ apptrigger.com,fansided.com,hiddenremote.com,lastnighton.com,mlsmultiplex.com,ne
 nationalreview.com##.header-billboard-wrap
 lyricsmode.com##.header-block
 worldpress.org##.header-bnr
+kveller.com##.header-bottom
 autental.com##.header-grid-items
 allmovie.com,realestate.com.au,theoldie.co.uk##.header-leaderboard
 realestate.com.au##.header-leaderboard-portal
@@ -50755,6 +50763,7 @@ euronews.com##.m-object--is-branded
 euronews.com##.m-object--is-partner-content
 tech.hindustantimes.com##.m-to-add
 motor1.com##.m1_largeMPU
+poebuilds.net##.m6lHKI
 net-load.com##.m7s-81.m7s
 antimusic.com##.mad
 wccftech.com##.main-background-wrap
@@ -50928,6 +50937,8 @@ pcgamebenchmark.com##.nova_wrapper
 zimbio.com##.npd-video-break
 designtaxi.com##.nt
 designtaxi.com##.nt-displayboard
+newtimes.co.rw##.nt-horizontal-ad
+newtimes.co.rw##.nt-vertical-ad
 cheezburger.com##.nw-rail-min-250
 marineelectronics.com,marinetechnologynews.com##.nwm-banner
 kueez.com,trendexposed.com,wackojacko.com##.nya-slot
@@ -51458,6 +51469,7 @@ how2electronics.com##.stream-item-top
 todayuknews.com##.stream-item-top-wrapper
 hardwaretimes.com##.stream-item-widget
 coinpedia.org##.stream-title
+stellar.ie##.stuck
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 coin360.com##.styles_stickyCorner__l3ZYI
 coin360.com##.styles_topLeaderboard__Tdn6G
@@ -54208,6 +54220,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
 @@||politiken.dk/static/$script
 @@||popin.cc/popin_discovery/recommend?$~third-party
+@@||pro-foto.jp/ads/img/$~third-party
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
@@ -56216,6 +56229,7 @@ ubmcmm.baidustatic.com
 ||aaaesme.cn^
 ||yinming.online^
 ||mvfrcio.cn^
+||dfadas13.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -74751,7 +74765,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^
-||1.ccutu.com^
+||5.ccutu.com^
 ||1.cjcp.cn^
 ||1.codesdq.com^
 ||1.codezh.com^
@@ -77275,6 +77289,7 @@ fqsousou.com,kengso.com#@#.user-share
 /async/stat|
 /asyncggtracking.
 /async~sentry-
+/at-composer.js
 /at.gif?
 /atapixel.js
 /atatus.js
@@ -82455,6 +82470,7 @@ _mongo_stats/
 ||fasttiger.io^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
+||firstblackphase.com^
 ||fixel.ai^
 ||fleraprt.com^
 ||fn-pz.com^
@@ -82605,6 +82621,7 @@ _mongo_stats/
 ||selphiu.com^
 ||seoab.io^
 ||site24x7rum.eu^
+||sitecounter.site^
 ||sitedataprocessing.com^
 ||sjpf.io^
 ||snptrk.com^
@@ -84289,6 +84306,7 @@ _mongo_stats/
 ||perion.com^$third-party
 ||perljs.com^$third-party
 ||permutive.com^$third-party
+||personaclick.com^$third-party
 ||personalicanvas.com^$third-party
 ||personyze.com^$third-party
 ||peruse.ai^$third-party
@@ -86215,6 +86233,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||meatydime.com^
 ||medusasailor.com^
 ||melodicminute.com^
+||meltmilk.com^
 ||memopilot.com^
 ||memorizeneck.com^$third-party
 ||memorycobweb.com^
@@ -86748,6 +86767,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unarmedindustry.com^
 ||unbecomingbikes.com^
 ||unbecominghall.com^
+||unbecominglamp.com^
 ||uncoveredcircle.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
@@ -89852,6 +89872,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uptime.com/static/rum/$third-party
 ||uriports.com/reports/$third-party
 ||urldefense.com^$image,third-party
+||us-central1-markuphero.cloudfunctions.net^
 ||user.userguiding.com^
 ||usercentrics.eu/session/$image
 ||userexperience.thehut.net^
@@ -90778,7 +90799,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||buzzurl.jp/api/counter/
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
+||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
+||cookie.codemarketing.cloud^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^
@@ -90814,7 +90837,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||panda.kasika.io^
 ||pia.jp/akam/$script
 ||pia.jp/images/pt.gif$image
-||popin.cc/td_js_
+||popin.cc/iframe/piuid.html
+||popin.cc/PopinService/Logs/
+||popin.cc/retarget/
+||popin.cc/test/popin_img_m.js
+||popin.cc/test/popin_send_cookie_set_fail.js
 ||quant.jp/track/
 ||rakuten-static.com/com/rat/
 ||rasin.tech/heatmap-
@@ -91114,8 +91141,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sal.isanook.com^
 ||stat.matichon.co.th^
 ||analytics.kkb.com.tr^
+||collector.wawlabs.com^
 ||hulyagedikci.com/vhit.php?
 ||statistics.daktilo.com^
+||stats.vidyome.com^
 ||tracking.venturify.at^
 ||informers.sinoptik.ua^
 ||mgz.com.ua/counter.php?
@@ -92473,6 +92502,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cfa.fidelity.com^
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
+||clear.wallapop.com^
 ||content22.bmoharris.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
@@ -105137,6 +105167,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||surace-jujitsu.fr/outils/compteur_php/
 ||t.blablacar.com^
 ||tc2.hometogo.net^
+||telerama.fr/*&ptag=
 ||tracker.mspy.com^
 ||tracking.bd4travel.com^
 ||unblog.fr/cu.js
@@ -106795,7 +106826,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$script,domain=hobbyhall.fi
 @@||google-analytics.com/gtm/js$script,domain=hobbyhall.fi
 @@||googletagmanager.com/gtm.js$script,domain=arvopaperi.fi|cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|iltalehti.fi|inferno.fi|mediuutiset.fi|mikrobitti.fi|rumba.fi|soundi.fi|talouselama.fi|tekniikkatalous.fi|tilt.fi|tivi.fi|veho.fi|www.kauppalehti.fi|www.uusisuomi.fi
-@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
+@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|findance.com|hardware.fi
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$domain=elisa.fi|kauppahalli24.fi
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
