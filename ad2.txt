@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W6GQ6t8Z7GP7bZFNpRpCyg
+! Checksum: U5RwMLyVfCbCtGUsmFt8CA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202301311420
-! Last Modified: 2023年01月31日 14:20
+! Version: 202301312029
+! Last Modified: 2023年01月31日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2037,6 +2037,10 @@ ubmcmm.baidustatic.com
 ||mpymea.xyz^
 ||rooby.cyou^
 ||nqxvevk.cn^
+||rayss.host^
+||5951835ccc.com^
+||8961a.com^
+||dxwyt3p.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -14106,7 +14110,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ztyumn.ifeng.com^
 ||zuiacg.com/images/client/
 ||zuofang05.com/template/mytheme/statics/image/1/
-||zwwooooo.com/images/hengtian.
 ||zxip.com/2013_ad/
 ||zxzjtv.com/slade
 ||zxzjtv.com/t.js
@@ -17472,7 +17475,6 @@ ifeng.com##.news_ADbox
 m.baidu.com##.news_ad
 jia360.com##.news_adv:nth-child(3)
 aguitar.cn##.news_b
-zhcw.com##.news_blanck
 auto-online.com.tw##.news_content > div[style="width:728px;margin:10px auto"]
 oschina.net##.news_detai_above_ad
 07073.com##.news_list1_tu
@@ -17955,7 +17957,7 @@ sohu.com##.sogouService
 pcdown.net##.sort_list > .clearfix:first-child
 jq.131458.com##.soso_02
 firefoxchina.cn##.sp-content
-zww.me##.sp-top-img
+zww.me##.sad
 missyuan.com##.spaceborder
 baidu.com##.spage-couplet-container
 vpsdx.cn,vpsdx.com##.span4 > a > img
@@ -18546,7 +18548,6 @@ cnbeta.com,cnbeta.com.tw,qudong.com##a[href*=".ctyun."]
 mydrivers.com##a[href*=".dangbei.com"]
 bilibili.com##a[href*=".doubleclick."]
 nfxhd.com##a[href*=".fa510.com"]
-zhibo8.cc##a[href*=".ftxgame.com"]
 cnblogs.com##a[href*=".gridsumdissector.com/"]
 acglala.me##a[href*=".h-ero.games"]
 ctfile.com##a[href*=".henghost.com"]
@@ -18565,7 +18566,6 @@ sina.cn##a[href*=".maozhuar.com"]
 douyu.com##a[href*=".miaozhen.com"]
 iqiyi.com##a[href*=".oppo."]
 6park.com##a[href*=".php?key="]
-zhibo8.cc##a[href*=".rd-game."]
 v.qq.com##a[href*=".renrendai.com"]
 makepolo.com##a[href*=".rong360.com"]
 ccav5.com##a[href*=".sinaimg."]
