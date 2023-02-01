@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aBEj5xFtHQtt1tgqOcyfjw
+! Checksum: gb/Uac/BmUW55OC+xjp2uw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302010936
-! Last Modified: 2023年02月01日 09:36
+! Version: 202302012031
+! Last Modified: 2023年02月01日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1522,7 +1522,7 @@ ubmcmm.baidustatic.com
 ##.wp.a2_h
 ##.wp.a_f
 ##.wp.a_h
-~aircn.org,~steamcn.com##.wp.a_t
+~aircn.org,~steamcn.com,~x3cn.com##.wp.a_t
 ##.wp_headline + .ad1
 ##.wrap.mt10.clearfix > .box.top_box
 ##.wrapper > a[target="_blank"] > .ads
@@ -2042,6 +2042,22 @@ ubmcmm.baidustatic.com
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||knyjes.xyz^
+||cwpbohx.cn^
+||dbtojr.xyz^
+||lpncqju.cn^
+||94188.xyz^
+||kscly.com^
+||qtbzeey.cn^
+||gskbzle.cn^
+||afdplay.xyz^
+||zax01.com^
+||huijixian.com^
+||resumes.ren^
+||v16rs.cn^
+||butaeit.cn^
+||yc444.cn^
+||fdgem.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13845,7 +13861,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||wx.sina.com.cn/iframe/pdps/
 ||wzbaohe.com/imgadnew/midad.js
 ||x-resource05.com/media_orange/server-img/*_1200_120.
-||x3cn.com/data/attachment/portal/*.gif
 ||x6img.com^$domain=picturedata.org
 ||xav*.icu/base/js/other.js
 ||xb20.tv/js/m-
@@ -14116,6 +14131,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+moegirl.org.cn##.moe-card[data-region="oversea"]
+x3cn.com##div[style="margin:3px auto"] + table
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -30478,6 +30495,7 @@ _mongo_stats/
 ||boomtrain.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
+||bringmethehats.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||brontops.com^
@@ -30749,6 +30767,7 @@ _mongo_stats/
 ||zippyfrog.co^
 ||zononi.com^
 ||zqtk.net^
+||ztrack.online^
 ||0emm.com^$third-party
 ||103bees.com^$third-party
 ||105app.com^$third-party
@@ -35415,6 +35434,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||buzzoole.com^$third-party
 ||contatoreaccessi.com^$third-party
 ||cpmktg.com^$third-party
+||ctusolution.com^$third-party
 ||cuntador.com^$third-party
 ||digital-metric.com^$third-party
 ||distribeo.com^$third-party
@@ -37805,6 +37825,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.downdetector.com^
 ||tracker.financialcontent.com^
 ||tracker.gleanview.com^
+||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
 ||tracker.jkstremum.xyz^
@@ -39258,6 +39279,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
+||adblocktape.store/stat/
 ||adc-js.nine.com.au^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
@@ -53179,6 +53201,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||compteur.developpez.com^
 ||courrierinternational.com/it.hal
 ||developpez.com/public/js/track.js
+||e.legalstart.fr^
 ||e.m6web.fr/events
 ||easeus.com/default/js/aff_buy_tracking.js
 ||ecranlarge.com/stat
@@ -53223,6 +53246,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||pixel.dugwood.com^
 ||pixel.ionos.fr^
 ||promoneuve.fr/stat/
+||pt.legalstart.fr^
 ||quellavelinge.com/referer.php?
 ||res.paruvendu.fr^
 ||s5.charliehebdo.fr^
@@ -54499,7 +54523,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||orginio.com/api/analytics/$~third-party,xmlhttprequest
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
-@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net|robertsspaceindustries.com
+@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
