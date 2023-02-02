@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mgojtkGe3R9bTjyki0UO1Q
+! Checksum: X2lyE3kXwj2kI24QkxykNA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302020219
-! Last Modified: 2023年02月02日 02:19
+! Version: 202302020919
+! Last Modified: 2023年02月02日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2075,6 +2075,12 @@ ubmcmm.baidustatic.com
 ||ztxstudy.club^
 ||zunnnh.xyz^
 ||zxtkfvm.cn^
+||ijvzmua.cn^
+||llvphz.xyz^
+||sxakca.xyz^
+||7d108.cn^
+||x3zy2.icu^
+||qbd2.site^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -53388,7 +53394,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ku6.com/ku6.gif?
 ||le.com/op/
 ||letv.com/op?
-||lg.tr.pandora.tv^
 ||log*.ku6.com^
 ||log.aliyuncs.com^
 ||log.bitauto.com^
@@ -53615,7 +53620,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||topspin.npo.nl^
 ||track.pexi.nl^
 ||tracking.voordeeluitjes.nl^
-||tweakers.net/*/?url$image
 ||tweakers.net/x/build/wedonttrack.
 ||tweakers.net/x/scripts/min/os1a2z.js
 ||u299.libelle-lekker.be^
@@ -53842,11 +53846,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||kyson.kakao.com^
 ||l.m.naver.com^
 ||log.etoday.co.kr^
-||log.sv.pandora.tv^
 ||log.zdnet.co.kr^
 ||naver.com/PostView.nhn?$image
 ||nil.naver.com^
-||prism.pandora.tv^
 ||seoul.co.kr/weblog/
 ||sp.naver.com^
 ||stat.i3.dmm.com^
@@ -54294,6 +54296,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
 @@||cognition-va.bytedance.com/api/knowledge/$xmlhttprequest,domain=ads.tiktok.com
 @@||cohesionapps.com/cohesion/$script,subdocument,domain=frontier.com
+@@||cohesionapps.com/cohesion/cohesion-latest.min.js$xmlhttprequest,domain=bankrate.com
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|goodwillfinds.com|samash.com|vitalsource.com|wilsonparking.com.au
 @@||collusion.com/static/analytics.js$script,~third-party
@@ -55098,7 +55101,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||static.homeplus.kr/escrow-web/*/static/js/common/ga.js
-@@||vod.midas-i.com^$media,domain=pandora.tv
 @@||wcs.naver.com/m$image,domain=sooldamhwa.com
 !---------- Latvian ----------
 @@/webtracking/*$domain=pasts.lv
