@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ino+OuJjZf8FHTczQ9PPBQ
+! Checksum: uyvRODtGOxIYcijH5loK7g
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202302021419
-! Last Modified: 2023年02月02日 14:19
+! Version: 202302022031
+! Last Modified: 2023年02月02日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -607,7 +607,7 @@ age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
 cdn.sosrom.cn
 hanmidy.com,bimiacg4.net##+js(acis,Object.defineProperty,location.href)
 d58zz.com
-dandanzan.com,dandanzan10.top,nunuyy5.org##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-?cdn\d*\./)
+dandanzan.com,dandanzan10.top,nunuyy5.org,btnull.*##+js(m3u-prune, /^http/, /^https:\/\/vip\.lz-?cdn\d*\./)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
@@ -2530,6 +2530,8 @@ ubmcmm.baidustatic.com
 ||qbd2.site^
 ||wuepo.cn^
 ||mprjoat.cn^
+||waterfairy.xyz^
+||thraerqol.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -19889,7 +19891,7 @@ typecho.wiki##span[style="height: 17px;margin-left: 10px;background: #000;border
 xinmin.cn##span[style^="position:fixed;right"]
 xinmin.cn##span[style^="position:fixed;right"] + a
 159i.com##style + div[align="center"]
-axutongxue.com##style + div[id]
+axutongxue.com,axutongxue.net##style + div[id]
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 my0511.com##table[bordercolor="#C0C0C0"][border="1"]
 bbs.fobshanghai.com##table[cellpadding="4"][style="background: #D6E0EF"]
