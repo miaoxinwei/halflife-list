@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Q5pqKtBkd6loj4WXOiFvhQ
+! Checksum: Ng2ErBWBOw0zf7LBh4hoDA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202302061420
-! Last Modified: 2023年02月06日 14:20
+! Version: 202302062030
+! Last Modified: 2023年02月06日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2595,6 +2595,10 @@ ubmcmm.baidustatic.com
 ##a[href*=".app003.cc"]
 ##a[href*="/bli2a.com/"]
 ||g2qb.top^
+||zhiwan.club^
+||darzkrx.cn^
+||o87mnf.xyz^
+||rsmdlk.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -22632,7 +22636,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=fenbi.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
@@ -23751,6 +23755,9 @@ _box_ad_
 ||3dmgame.com/page/js/indexalert_ad.
 ||nicelinks.site/ad-block-
 !------------------------Specific element hiding rules------------------------!
+investing.com##div[class*="overlay_overlay"]
+investing.com##div[class*="adBlock"]
+sina.com.cn##DIV[class^="side-btns-jifen"]
 3dmgame.com##.mb30.warp_f
 tianqi.com##.xcx_erweima
 chinagwy.org##.ewm0610
