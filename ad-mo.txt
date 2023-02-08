@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sSxieuYG6NLjOP1g8VMN5g
+! Checksum: C7szEJMt8J366pLGqitVGw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202302082030
-! Last Modified: 2023年02月08日 20:30
+! Version: 202302090219
+! Last Modified: 2023年02月09日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25783,6 +25783,7 @@ tf2r.com#@#.adverts
 ||bigrourg.net^
 ||bigsport.today^
 ||biinminigihi.com^
+||bijitsoa.com^
 ||bijwawr.com^
 ||bikrurda.net^
 ||bilecontagiousswine.com^
@@ -34609,6 +34610,7 @@ tf2r.com#@#.adverts
 ||oorwithabitofst.info^
 ||ootchaig.xyz^
 ||ootchoft.com^
+||ootibsay.xyz^
 ||oovilsol.com^
 ||ooxookrekaun.com^
 ||oozyunmix.com^
@@ -37909,6 +37911,7 @@ tf2r.com#@#.adverts
 ||smg8oo4njst45oene.com^
 ||smigro.info^
 ||smileoffennec.com^
+||smirkscapos.com^
 ||smises.com^
 ||smisit.com^
 ||smists.com^
@@ -39245,6 +39248,7 @@ tf2r.com#@#.adverts
 ||totogetica.com^
 ||touchycart.com^
 ||touglesy.net^
+||toumnahrafale.com^
 ||touphipt.com^
 ||tournamentplot.com^
 ||touroumu.com^
@@ -39832,6 +39836,7 @@ tf2r.com#@#.adverts
 ||unwarydebite.com^
 ||unwillingsnick.com^
 ||unwisecommence.com^
+||unwoobater.com^
 ||unwroteorcinus.com^
 ||uod2quk646.com^
 ||up4u.me^
@@ -55851,7 +55856,6 @@ ubmcmm.baidustatic.com
 ##div[id^="adv-"].adv
 ##div[id^="em"] > a[onclick^="em"][max-width]
 ##div[id^="photo-header-title-content-text-dall"]
-##div[onclick*=".open"][onclick*="ky"]
 ##div[onclick*=".open"][onclick*="leyu"]
 ##div[onclick*="?i_code="]
 ##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
@@ -56385,6 +56389,8 @@ ubmcmm.baidustatic.com
 ##a[href*="/sm033v.tv"]
 ||hiqrnyn.cn^
 ||xxp123.live^
+##a[href*="/ky0777.cn"]
+##div[onclick*="/ky0777.cn"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -63243,6 +63249,7 @@ ubmcmm.baidustatic.com
 ||zzyytt.top^
 ||zzzhuoxiaqu.online^
 !long-term
+||dlads.cn^$third-party
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||3alian.net^$third-party
@@ -66779,7 +66786,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||pfp.sina.com.cn^$script,subdocument
 ||pfp.sina.net/ea/ad/
 ||pg-ad-b1.nosdn.127.net^
-||pgcm58.com/files/h5/
+||rltdxt.com/files/h5/
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
@@ -73955,7 +73962,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
-@@||pgcm58.com/files/h5/app.js
+@@||rltdxt.com/files/h5/app.js
 @@||photopea.com/ads.js
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piccool.com/2home/phpAdsNew/
