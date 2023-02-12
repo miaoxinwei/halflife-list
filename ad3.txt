@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8sZpcsm3YLNzDlc3l3OQCA
+! Checksum: Au3WTV80Qrif/Y9CtZU/uw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302120217
-! Last Modified: 2023年02月12日 02:17
+! Version: 202302120923
+! Last Modified: 2023年02月12日 09:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2221,6 +2221,11 @@ ubmcmm.baidustatic.com
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||ogkfuw.xyz^
+||qheoy.cn^
+||hufkzv.xyz^
+||4iksy.cn^
+||pgccaoy.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -33462,6 +33467,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||blotburn.com^
 ||blushingbeast.com^
 ||blushingboundary.com^
+||blushingbread.com^
 ||blushingwar.com^
 ||boilingbeetle.com^$third-party
 ||boilingcredit.com^
@@ -38320,6 +38326,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dup.baidustatic.com^
 ||epro.sogou.com^
 ||etwun.com:8080/counter.php?
+||experiments.sparanoid.net^
 ||fourier.taobao.com^
 ||g.yccdn.com^
 ||gias.jd.com/js/td.js
