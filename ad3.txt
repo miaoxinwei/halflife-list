@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Au3WTV80Qrif/Y9CtZU/uw
+! Checksum: 8rxQhwuohnsPzCtO2ZExOA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302120923
-! Last Modified: 2023年02月12日 09:23
+! Version: 202302121418
+! Last Modified: 2023年02月12日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2226,6 +2226,9 @@ ubmcmm.baidustatic.com
 ||hufkzv.xyz^
 ||4iksy.cn^
 ||pgccaoy.cn^
+||ctoyb.cyou^
+||07xm.fun^
+||e1jzk.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -33969,6 +33972,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||materialisticfan.com^
 ||materialisticmark.com^
 ||materialmoon.com^$third-party
+||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^
 ||medusasailor.com^
@@ -54132,6 +54136,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||locoloader.com/assets/js/ga.min.js$script,~third-party
 @@||logging.apache.org^$~third-party
+@@||logistics.costco.com/innovel-services/api/tracking/$~third-party
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com
 @@||logo.clearbit.com^$image,third-party
 @@||lowesgiftcardbonus.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
