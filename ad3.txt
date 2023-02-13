@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CnFwbjG3nIzdO0pLcduF4A
+! Checksum: pgHll0/oyO4clTU+bP0p9A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302131420
-! Last Modified: 2023年02月13日 14:20
+! Version: 202302132031
+! Last Modified: 2023年02月13日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2245,6 +2245,11 @@ ubmcmm.baidustatic.com
 ||lh54.top^
 ||44629.com^
 ||wutou20230201.live^
+||ncvkzz.cn^
+||xiaohui668.club^
+||gejulm1314.com^
+||liutou20230203.live^
+||albertabelen.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -19814,6 +19819,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||panjiachen.github.io^$generichide
+@@||ozabc.com^$generichide
 @@||papalah.com^$generichide
 @@||papi-service.jd.com/ads/
 @@||passiontimes.hk^$generichide
@@ -39641,6 +39647,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nextdoor.com/events/
 ||nflshop.com/api/track
 ||nhk.jp^*/bc.gif?
+||nimbusweb.me/gtlytics.js
 ||nm.newegg.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
@@ -53227,7 +53234,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
 ||wenku.baidu.com/tongji/
 ||wkctj.baidu.com^
-||wl.jd.com^
+||wl.jd.com^$third-party
 ||work.3dmgame.com/js/statistics.js
 ||wumii.com/images/pixel.png
 ||xcar.com.cn/exp/
