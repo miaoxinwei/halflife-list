@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mQoPmqab0oNSiKl++Sq5FQ
+! Checksum: fPkvHCi1R/yU3xMcDeJvhg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202302132031
-! Last Modified: 2023年02月13日 20:31
+! Version: 202302140219
+! Last Modified: 2023年02月14日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2183,6 +2183,7 @@ ubmcmm.baidustatic.com
 ||3p8801.co^
 ||3z7qn.cn^
 ||401aww.com^
+||44629.com^
 ||4iksy.cn^
 ||4jffu.cn^
 ||51gpiao.cn^
@@ -2211,6 +2212,7 @@ ubmcmm.baidustatic.com
 ||ahwiaw.xyz^
 ||aishan.shop^
 ||ajkcdpm.cn^
+||albertabelen.com^
 ||aliyun6969.cn^
 ||aliyunsupercdn.com^
 ||aol32.cn^
@@ -2242,6 +2244,7 @@ ubmcmm.baidustatic.com
 ||bzdntl.xyz^
 ||caomeixz7.xyz^
 ||ccemqe.cn^
+||ccgjmzv.cn^
 ||cerfbup.xyz^
 ||creawww.top^
 ||ctoyb.cyou^
@@ -2303,6 +2306,7 @@ ubmcmm.baidustatic.com
 ||gadscc.xyz^
 ||gaiqgs.xyz^
 ||geiaxbk.cn^
+||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
 ||glzniuy.cn^
@@ -2351,6 +2355,7 @@ ubmcmm.baidustatic.com
 ||icyrwy.xyz^
 ||idkqtaa.cn^
 ||igusoft.com^
+||ihmbpow.cn^
 ||ijvzmua.cn^
 ||ikbgika.cn^
 ||ikbhgj.cn^
@@ -2403,6 +2408,8 @@ ubmcmm.baidustatic.com
 ||leiersuqd.com^
 ||leiwo.xyz^
 ||lgugsnp.cn^
+||lh54.top^
+||liutou20230203.live^
 ||liuye.club^
 ||liyiyue.xyz^
 ||lktmgvw.cn^
@@ -2436,6 +2443,7 @@ ubmcmm.baidustatic.com
 ||mvbtp.xyz^
 ||mvfrcio.cn^
 ||mzwzo.cn^
+||ncvkzz.cn^
 ||neaqi.top^
 ||nehcqko.cn^
 ||neipa.xyz^
@@ -2470,6 +2478,7 @@ ubmcmm.baidustatic.com
 ||paradisemall.net^
 ||payoneok.com^
 ||pddbtn.xyz^
+||pehlvl.xyz^
 ||pgccaoy.cn^
 ||pic123.top^
 ||pj0z5.cn^
@@ -2503,6 +2512,7 @@ ubmcmm.baidustatic.com
 ||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
+||rardi.cyou^
 ||rayss.host^
 ||rdjnjz.xyz^
 ||rdoybkd.cn^
@@ -2596,6 +2606,7 @@ ubmcmm.baidustatic.com
 ||w80n.fun^
 ||waterfairy.xyz^
 ||wawqqfg.cn^
+||wbe4sp.top^
 ||wbqosw.xyz^
 ||wdasa.top^
 ||wdmdejd.cn^
@@ -2609,6 +2620,7 @@ ubmcmm.baidustatic.com
 ||wuepo.cn^
 ||wuge20230104.live^
 ||wujiupic.com^
+||wutou20230201.live^
 ||wwnyubs.cn^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
@@ -2618,6 +2630,7 @@ ubmcmm.baidustatic.com
 ||xeiyt.cyou^
 ||xh33g.net^
 ||xhjxkgc.cn^
+||xiaohui668.club^
 ||xibpbov.cn^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
@@ -2684,19 +2697,6 @@ ubmcmm.baidustatic.com
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||rardi.cyou^
-||ihmbpow.cn^
-||ccgjmzv.cn^
-||wbe4sp.top^
-||pehlvl.xyz^
-||lh54.top^
-||44629.com^
-||wutou20230201.live^
-||ncvkzz.cn^
-||xiaohui668.club^
-||gejulm1314.com^
-||liutou20230203.live^
-||albertabelen.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -20258,6 +20258,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||olgame.tw^$generichide
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
@@ -20266,7 +20267,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||panjiachen.github.io^$generichide
-@@||ozabc.com^$generichide
 @@||papalah.com^$generichide
 @@||papi-service.jd.com/ads/
 @@||passiontimes.hk^$generichide
