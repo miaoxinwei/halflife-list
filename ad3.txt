@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +LK/PydB1wSw3DaTsCkSHg
+! Checksum: Aa0aAK4gq0V2WuJ1PjtWMw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302141420
-! Last Modified: 2023年02月14日 14:20
+! Version: 202302142033
+! Last Modified: 2023年02月14日 20:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2261,6 +2261,7 @@ ubmcmm.baidustatic.com
 ||sdfv66.com^
 ||suyuhao233.xyz^
 ||bglbsb.cn^
+||fewsvuh.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -52953,6 +52954,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||lemonde.fr/bucket/*/tagistan.
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
+||lepoint.fr/img-l/$image
 ||liberation.fr/newsite/js/cmp/
 ||logstash-3.radio-canada.ca^
 ||ma-petite-recette.fr/visites
@@ -54597,6 +54599,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||baidu.com/api/bidder/$domain=jump2.bdimg.com
 @@||baidu.com^*/track.gif$image,domain=jump2.bdimg.com
+@@||epson.com.cn/common/new/js/tracking_code.js$~third-party
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
