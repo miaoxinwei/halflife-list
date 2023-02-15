@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2uwSpKVn9UvgftuPY7e0JQ
+! Checksum: mP2qDASsJXzg146hITTQhg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202302152032
-! Last Modified: 2023年02月15日 20:32
+! Version: 202302160219
+! Last Modified: 2023年02月16日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10669,6 +10669,7 @@ _800x80_
 ##.FooterAds
 ##.Footer_1-ad-holder
 ##.GRVAd
+##.GRVMpuWrapper
 ##.Gallery-Content-BottomAd
 ##.GeminiAdItem
 ##.GeminiNativeAd
@@ -21980,6 +21981,7 @@ _800x80_
 ###mplayer-embed
 ###primis-holder
 ###primis_intext
+##.GRVPrimisVideo
 ##.GRVVideo
 ##.ac-lre-desktop
 ##.ac-lre-player-ph
@@ -22168,6 +22170,7 @@ _800x80_
 ##.dart-ad-taboola
 ##.for-taboola
 ##.grid__module-sizer_name_taboola
+##.grv-taboola
 ##.nw-taboola
 ##.qa-placement-outbrain-under-post-cr
 ##.tablet_ad_box
@@ -24672,6 +24675,7 @@ tf2r.com#@#.adverts
 ||apavskmykcm.xyz^
 ||apearkcan.club^
 ||apeartalb.site^
+||aperchwagered.com^
 ||aperushmo.cam^
 ||apexwantstar.com^
 ||apglinks.net^
@@ -27687,6 +27691,7 @@ tf2r.com#@#.adverts
 ||curupeymaceman.com^
 ||cuseccharm.com^
 ||cusecwhitten.com^
+||cushawsdizens.com^
 ||customads.co^
 ||customapi.top^
 ||cuteasiangirl.net^
@@ -29111,6 +29116,7 @@ tf2r.com#@#.adverts
 ||ernestindeedtradition.com^
 ||erniphiq.com^
 ||ernoddenkn.pics^
+||ernshawing.com^
 ||ero-advertising.com^
 ||erokimooki.com^
 ||erosionexception.com^
@@ -31075,6 +31081,7 @@ tf2r.com#@#.adverts
 ||hoanaijo.com^
 ||hoanoola.net^
 ||hoareddepulse.com^
+||hoaredsavates.com^
 ||hoarseairy.com^
 ||hoazinangles.com^
 ||hobfadbig.com^
@@ -31394,6 +31401,7 @@ tf2r.com#@#.adverts
 ||ijspro-code.com^
 ||ijtomh.com^
 ||ijwfyirxx.xyz^
+||ikahnruntx.com^
 ||ikajeoes.com^
 ||ikcaru.com^
 ||iklghjooyj.com^
@@ -35214,6 +35222,7 @@ tf2r.com#@#.adverts
 ||palama2.co^
 ||palama2.com^
 ||palasidesdoor.com^
+||palaverpageboy.com^
 ||paletteadulatory.com^
 ||palibs.tech^
 ||pallaliven.com^
@@ -36368,6 +36377,7 @@ tf2r.com#@#.adverts
 ||purplepatch.online^
 ||purrbackground.com^
 ||pursedistraught.com^
+||pursualstums.com^
 ||pursuedfourteenth.com^
 ||pursuingconjunction.com^
 ||pursuitnauseousinvalid.com^
@@ -36831,6 +36841,7 @@ tf2r.com#@#.adverts
 ||reencoccous.store^
 ||reenginee.club^
 ||reerfdfgourgo.xyz^
+||reevoopt.com^
 ||refaucherais.site^
 ||refban.com^
 ||refbanners.com^
@@ -38482,6 +38493,7 @@ tf2r.com#@#.adverts
 ||sprayswisha.com^
 ||spreau.com^
 ||sprettyruckus.com^
+||sprigsrecon.com^
 ||sprintainokeg.xyz^
 ||sprinterchance.com^
 ||sprkl.io^
@@ -38549,6 +38561,7 @@ tf2r.com#@#.adverts
 ||stainspun.com^
 ||stairtuy.com^
 ||staitchu.com^
+||staithecrinion.com^
 ||staixemo.com^
 ||staixooh.com^
 ||stallamenchisel.com^
@@ -39141,6 +39154,7 @@ tf2r.com#@#.adverts
 ||tenezratio.com^
 ||tengmoneron.com^
 ||tennubifaces.com^
+||tensagesic.com^
 ||tensorsbancos.com^
 ||tenthsfrumpy.com^
 ||tentionirreg.com^
@@ -41420,6 +41434,7 @@ tf2r.com#@#.adverts
 ||xxxwebtraffic.com^
 ||xydbpbnmo.com^
 ||xylansudra.cam^
+||xylaoppress.com^
 ||xyleticfrette.com^
 ||xyn1d4bjg4vr4m2qwypvuj.com^
 ||xyz0k4gfs.xyz^
@@ -49886,8 +49901,6 @@ google.com##.GC3LC41DERB + div[style="position: relative; height: 170px;"]
 google.com##.GGQPGYLCD5
 google.com##.GGQPGYLCMCB
 google.com##.GISRH3UDHB
-faroutmagazine.co.uk,hitc.com,thefocus.news##.GRVMpuWrapper
-faroutmagazine.co.uk##.GRVPrimisVideo
 imgur.com##.Gallery-Content-AdSense
 cargurus.com##.Gi1Z6i
 naturalnews.com##.HNXEAFMIWBQP
@@ -49989,6 +50002,7 @@ mobilesyrup.com##.ad-goes-here
 wionews.com##.ad-height
 dailyuptea.com##.ad-info
 freepressjournal.in##.ad-slots
+techinformed.com##.ad-text-styles
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3
@@ -50446,6 +50460,7 @@ challonge.com##.cake-unit
 dllme.com##.captchabox > div
 u.today##.card--something-md
 devdiscourse.com##.carousel
+faroutmagazine.co.uk,hitc.com##.carpet-border
 chemistwarehouse.com.au##.category-product-mrec
 renonr.com##.category-sponsored-content
 notebooks.com##.cb-block
@@ -52256,6 +52271,7 @@ gadgetsnow.com##[data-type="mtf"]
 axios.com##[data-vars-category="sidebar_promo"]
 builtbybit.com##[data-xf-click^="fong-adsmanager"]
 cnn.com##[data-zone-label="Paid Partner Content"]
+faroutmagazine.co.uk,hitc.com##[dock="#primis-dock-slot"]
 complaintsingapore.com##[href*="/adv.php"]
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 gamecopyworld.com,gamecopyworld.eu##[href*="@"]
@@ -53097,6 +53113,7 @@ slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
 imgur.com#?#div[style^="height:"]:-abp-has(.Post-item-external-ad)
+imgur.com#?#div[style^="height:"]:-abp-has(.Ad)
 insta-stories-viewer.com#?#.profile__tabs-media-item:-abp-has(.profile__adv)
 agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 u.gg#?#.video-guide:-abp-has(.content-section_header:-abp-contains(Sponsored Content))
