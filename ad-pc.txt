@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t0TOFm+zsB5U2xcAr2PWoA
+! Checksum: Vfs+eGRE3n/N15aQBDpnlw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202302160920
-! Last Modified: 2023年02月16日 09:20
+! Version: 202302161420
+! Last Modified: 2023年02月16日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -50902,6 +50902,8 @@ pcworld.co.nz##.gemini-loaded
 autoblog.com##.gemini-native
 thefederalist.com##.general-callout
 investing.com##.generalOverlay
+perfectdailygrind.com##.gengpdg-col
+perfectdailygrind.com##.gengpdg-single
 flickr.com##.getty-search-view
 ksl.com##.gfp-slot
 hltv.org##.gg-firstcol-box
@@ -51896,7 +51898,7 @@ newsroom.co.nz##.sponsor-logos2
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,infoq.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
 beincrypto.com##.sponsored-badge
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
@@ -57022,6 +57024,9 @@ ubmcmm.baidustatic.com
 ||meidd.cyou^
 ||eijriol.cn^
 ||xinllz.xyz^
+||cwobgp.cn^
+||ltwfd.xyz^
+||wsdof.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -66862,7 +66867,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kiees.cn/jm.png
 ||kiees.cn/k1.js
 ||kikinote.net/iframe
-||killcovid2021.com/thumb/*.mp4
+||killcovid2021.com^*.mp4
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwi8.top/media/plugins/jquery_confirm/
