@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: R7iFx+tYNSYtEmLcuctKcg
+! Checksum: jnmU3d9YJnSmyjF84UCxYw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302171420
-! Last Modified: 2023年02月17日 14:20
+! Version: 202302172030
+! Last Modified: 2023年02月17日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2315,6 +2315,9 @@ newduba.cn###jq_youxi
 ||p23jac.top^
 ||kkqeqk.cn^
 ||loganfeels.com^
+||fangfeng009.xyz^
+||txtcw.cn^
+||huicpu.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21429,6 +21432,7 @@ smjb.net##div[style*="height: 50%"]
 ||ysxs8.vip/js/play_db.js
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
+||cn3k5.com/images/*.js
 ||zhuishubox.com/js/after-rain.js
 ###appss[style="padding:15px;"]
 ###asdw3
@@ -38653,7 +38657,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
 ||asumi.shinobi.jp^
+||b.karte.io^
 ||b.sli-spark.com^
+||b0.yahoo.co.jp^
 ||bidder.mediams.mb.softbank.jp^
 ||bridge-ashiato.appspot.com/beacon/
 ||buzzurl.jp/api/counter/
@@ -38712,6 +38718,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reproio.com^$third-party
 ||resultspage.com/js/sli-spark.js
 ||rlog.popin.cc^
+||rtg-adroute.focas.jp^
 ||s.dc-tag.jp^
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 ||sankei-digital.co.jp/log?
@@ -38733,6 +38740,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
+||targeting.focas.jp^
 ||tr.c-tag.net^
 ||tr.slvrbullet.com^
 ||track.span-smt.jp^
@@ -54982,9 +54990,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||fplay.online/log_event$~third-party,xmlhttprequest
-@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com|tribuna.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com|tribuna.com
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party

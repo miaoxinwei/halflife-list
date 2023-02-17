@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T84OT7pDBnzlO/re1S/THw
+! Checksum: VhAcOFkbtlM2K7oXjmJNLw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202302170218
-! Last Modified: 2023年02月17日 02:18
+! Version: 202302172030
+! Last Modified: 2023年02月17日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -774,6 +774,8 @@ iprima.cz,www.seznam.cz,novinky.cz,super.cz,ahaonline.cz,expres.cz,kinobox.cz,ho
 kinobox.cz,novinky.cz,expres.cz,fights.cz,tiscali.cz,hudebniskupiny.cz,osobnosti.cz,ahaonline.cz,super.cz#$#prevent-listener beforeunload (); cookie-remover /^_?adb/;
 sauto.cz#$#override-property-read sssp undefined
 super.cz#$#override-property-read sspPositions null
+expres.cz,idnes.cz#$#override-property-read pxReady null
+expres.cz,idnes.cz#$#abort-on-property-read Object.prototype.kununu_mul
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
@@ -842,8 +844,6 @@ idnes.cz###foto-reklama
 /tigatage:$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 ||w-cached.cncenter.cz/js/cnc-ads-controller.$script,domain=blesk.cz|extra.cz|reflex.cz|zive.cz|auto.cz|e15.cz|autorevue.cz|dama.cz|maminka.cz|mojezdravi.cz|zeny.cz|onetv.cz|info.cz|ahaonline.cz
 client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-||www.expres.cz/*?.jpg$image,domain=www.expres.cz
-||www.idnes.cz/*?.jpg$image,domain=www.idnes.cz
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz##.banner-ifortuna
@@ -851,8 +851,7 @@ blesk.cz##article[data-track-element-id*="prPremium"]
 blesk.cz##div[data-track-element-id^="prStandardZpravy"]
 blesk.cz###px2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
-expres.cz,idnes.cz,blesk.cz###alN-wwp
-expres.cz,idnes.cz##[class^="rma"]
+expres.cz,idnes.cz##[class^="r-main"]
 expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-resize]
 dama.cz##[class*="ads-"]
 zeny.cz,auto.cz##[data-track-ad]
@@ -2024,6 +2023,7 @@ vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
 ! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660
+@@||pocketfaucet.com^$script,xmlhttprequest
 @@||stretchsquirrel.com^$script,xmlhttprequest
 @@||unbecominglamp.com^$script,xmlhttprequest
 @@||restrainstorm.com^$script,xmlhttprequest
