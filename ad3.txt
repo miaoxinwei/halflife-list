@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sOp5wJCdUgDCXl6uu0Z2eg
+! Checksum: 3+ahDYoQx62k1KnSDQT2nA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302170218
-! Last Modified: 2023年02月17日 02:18
+! Version: 202302170925
+! Last Modified: 2023年02月17日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2301,6 +2301,16 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||s3sng.cn^
+||pcmtf.cn^
+||meueeq.xyz^
+||fspjjp.xyz^
+||allicinarenig.com^
+||travescorylus.com^
+||anaxialaphonia.com^
+||wooledswards.com^
+||5takaitu.xyz^
+||peoir.cyou^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -31640,7 +31650,7 @@ _mongo_stats/
 ||ipinyou.com.cn^$third-party
 ||iplist.cc^$third-party
 ||iplocationtools.com^$third-party
-||iplogger.org^$third-party
+||iplogger.org^$third-party,domain=~iplogger.com
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
 ||ippen.space^$third-party
@@ -52978,6 +52988,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
 ||forecast.huffingtonpost.fr^
+||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
