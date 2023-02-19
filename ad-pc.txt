@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: K3Kvig+D45PQoAmSe5h88w
+! Checksum: 77Pm4O6re5vZTyswD5vQCg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202302191418
-! Last Modified: 2023年02月19日 14:18
+! Version: 202302192029
+! Last Modified: 2023年02月19日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -50999,6 +50999,7 @@ tripstodiscover.com##.fs-dynamic__label
 alphr.com##.fs-pushdown-sticky
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
+livability.com##.full-width-off-white
 theblock.co##.fullWidthDisplay
 ptinews.com##.fullstorydivright
 whatismybrowser.com##.fun-info-footer
@@ -52364,6 +52365,7 @@ cryptopolitan.com##.wordp-siderbar-new-theme
 warontherocks.com##.wotr_top_lbjspot
 gamepur.com##.wp-block-dotesports-affiliate-button
 cryptofeeds.news,gamenguides.com,millennial-grind.com,teslaoracle.com##.wp-block-image
+livability.com##.wp-block-jci-ad-area-two
 bangordailynews.com##.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
 hyperallergic.com,repeatreplay.com##.wp-block-spacer
 c19-worldnews.com##.wp-caption
@@ -57223,6 +57225,8 @@ newduba.cn###jq_youxi
 ||vwvjzd.xyz^
 ||bridalplums.com^
 ||cifzuqopdpzi.com^
+##div[onclick*="ky55003.com"]
+||1368999.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -88491,6 +88495,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
 ||atgsvcs.com/js/atgsvcs.js
+||ati-host.net/event?
 ||atlassian.net/rest/collectors/$third-party
 ||atom-data.io/session/latest/track.html?$third-party
 ||attn.tv^*/dtag.js
@@ -107036,6 +107041,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||switchfly.com/static/*/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
+@@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tagcommander.com^*/tc_$script
