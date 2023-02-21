@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A+76IMN4QstiK0v0INUZyg
+! Checksum: DbsFnvpXEWyAgB2xSFoYZQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202302211420
-! Last Modified: 2023年02月21日 14:20
+! Version: 202302220219
+! Last Modified: 2023年02月22日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2220,6 +2220,7 @@ newduba.cn###jq_youxi
 ||81xs.xyz^
 ||8499136.com^
 ||8881img.com^
+||8886i.top^
 ||8961a.com^
 ||8ccrv.xyz^
 ||94188.xyz^
@@ -2275,6 +2276,7 @@ newduba.cn###jq_youxi
 ||ccemqe.cn^
 ||ccgjmzv.cn^
 ||cerfbup.xyz^
+||chumeng.link^
 ||ciaeue.xyz^
 ||cifzuqopdpzi.com^
 ||creawww.top^
@@ -2333,6 +2335,7 @@ newduba.cn###jq_youxi
 ||felzfr.xyz^
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
+||fn9u.fun^
 ||fnkio.cyou^
 ||forestwo1f.ltd^
 ||fqla.top^
@@ -2365,6 +2368,8 @@ newduba.cn###jq_youxi
 ||gvqrclx.cn^
 ||gxkoci.xyz^
 ||gzqgaq.xyz^
+||h2n3c.top^
+||haejkmm.cn^
 ||handukeji.top^
 ||handuwangluo.top^
 ||handuwl.top^
@@ -2430,6 +2435,7 @@ newduba.cn###jq_youxi
 ||jike001.top^
 ||jinkens.fun^
 ||jishiben.info^
+||jiutou20230210.live^
 ||jjfopb.xyz^
 ||jkxvvv.xyz^
 ||jmqmbsn.cn^
@@ -2457,6 +2463,7 @@ newduba.cn###jq_youxi
 ||koatkm.xyz^
 ||korydwf.cn^
 ||kqwip.cyou^
+||ksccqu.xyz^
 ||kscly.com^
 ||ktbelts.cn^
 ||kwivb.cn^
@@ -2542,6 +2549,7 @@ newduba.cn###jq_youxi
 ||ofgysy.xyz^
 ||ogkfuw.xyz^
 ||ohmpyq.xyz^
+||okmwfq.xyz^
 ||omhoa.com^
 ||oocie.cn^
 ||opeci.cyou^
@@ -2661,6 +2669,7 @@ newduba.cn###jq_youxi
 ||thraerqol.com^
 ||tianmel.xyz^
 ||timothy.wang^
+||tioew.cyou^
 ||tjxafmo.cn^
 ||travescorylus.com^
 ||ttzhongbao.com^
@@ -2700,6 +2709,7 @@ newduba.cn###jq_youxi
 ||vec4o.fun^
 ||vewdk.cyou^
 ||vfsdgjrr.xyz^
+||vgxhvt.xyz^
 ||vilki.cn^
 ||viope.cyou^
 ||vokmhydy.xyz^
@@ -2741,6 +2751,7 @@ newduba.cn###jq_youxi
 ||xibpbov.cn^
 ||xingyou70.asia^
 ||xinllz.xyz^
+||xinnianqinggan.xyz^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xkhall.xyz^
@@ -2809,16 +2820,6 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||xinnianqinggan.xyz^
-||8886i.top^
-||vgxhvt.xyz^
-||ksccqu.xyz^
-||tioew.cyou^
-||h2n3c.top^
-||haejkmm.cn^
-||okmwfq.xyz^
-||fn9u.fun^
-||jiutou20230210.live^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -22392,6 +22393,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||jiayuan.com^*/pv.js
 @@||jpush.cn^$domain=jiguang.cn
 @@||kfcorder.com.tw/web/Script/Analytics.js
+@@||ksapisrv.com/rest/wd/common/log/collect/
 @@||lesports.com/pc/??*/click_statistics/
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||lobi.co/1/track/event/
@@ -22435,7 +22437,6 @@ fqsousou.com,kengso.com#@#.user-share
 @@||viu.com^*/tracking/
 @@||wl.jd.com/joya.js
 @@||wl.jd.com/wl.js
-@@||ksapisrv.com/rest/wd/common/log/collect/
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
@@ -23429,6 +23430,7 @@ _box_ad_
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
 ||3dmgame.com/page/js/indexalert_ad.
 ||nicelinks.site/ad-block-
+||juejin.cn/content_api/v1/advert/query_adverts?
 !------------------------Specific element hiding rules------------------------!
 huya.com##.end-ab-banner
 investing.com##div[class*="overlay_overlay"]
