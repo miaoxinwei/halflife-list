@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I/SkPaLIWInGe3tMfvIA5A
+! Checksum: zs87scCVcXXtSSMqBaiUdA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302210923
-! Last Modified: 2023年02月21日 09:23
+! Version: 202302211420
+! Last Modified: 2023年02月21日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2368,6 +2368,10 @@ newduba.cn###jq_youxi
 ||ksccqu.xyz^
 ||tioew.cyou^
 ||h2n3c.top^
+||haejkmm.cn^
+||okmwfq.xyz^
+||fn9u.fun^
+||jiutou20230210.live^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21984,6 +21988,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||viu.com^*/tracking/
 @@||wl.jd.com/joya.js
 @@||wl.jd.com/wl.js
+@@||ksapisrv.com/rest/wd/common/log/collect/
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
@@ -33509,6 +33514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
+||aliasanvil.com^
 ||alikeaddition.com^$third-party
 ||alikearm.com^
 ||aliveachiever.com^$third-party
@@ -33739,6 +33745,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||curtaincows.com^
 ||curvedsquirrel.com^
 ||curvycry.com^$third-party
+||cushiondrum.com^
 ||cushionpig.com^$third-party
 ||cutecalculator.com^
 ||cutechin.com^$third-party
@@ -33785,6 +33792,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dispensablestranger.com^
 ||distancefinger.com^
 ||distinctday.com^$third-party
+||distributionneck.com^
 ||distributiontomatoes.com^$third-party
 ||disturbedquiet.com^
 ||divehope.com^$third-party
@@ -33849,6 +33857,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||erraticreaction.com^
 ||evaluateend.com^
 ||evanescentedge.com^
+||exchangedetail.com^
 ||exclusivebrass.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
@@ -34045,6 +34054,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kittyaction.com^
 ||knotkettle.com^
 ||knottysticks.com^
+||knottyswing.com^
 ||lackadaisicalkite.com^
 ||lagoonolivia.com^
 ||lameletters.com^$third-party
@@ -34220,6 +34230,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||podiumpresto.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
+||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
 ||politegoldfish.com^
@@ -34234,6 +34245,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||presssensor.com^
 ||previousplayground.com^
 ||previouspotato.com^
+||priceypies.com^
 ||pricklydebt.com^
 ||pricklyplastic.com^
 ||printerplasma.com^
@@ -34555,6 +34567,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||superficialsquare.com^
 ||supervisegoldfish.com^
 ||suspendseed.com^
+||swankysquare.com^
 ||sweepsheep.com^
 ||sweetslope.com^
 ||swellstocking.com^
@@ -34667,6 +34680,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||verifyvegetable.com^
 ||verseballs.com^
 ||virgoplato.com^
+||virtualvincent.com^
 ||vivaciousveil.com^
 ||voicevegetable.com^
 ||voraciousgrip.com^
@@ -39168,7 +39182,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
-||apkpure.com/analytics_
 ||apnews.com/logger
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
@@ -54239,7 +54252,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
-@@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|kapwing.com
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
