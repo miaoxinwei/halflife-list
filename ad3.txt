@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BdqGH1Y7HJ3p2bchTnl3RQ
+! Checksum: QTWz2LdJaVoOmQFksxWmzw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302221421
-! Last Modified: 2023年02月22日 14:21
+! Version: 202302222032
+! Last Modified: 2023年02月22日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -163,10 +163,10 @@ dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
-shipostrich.com
-trustedgatetocontent.com
 wpadmngr.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
+||nunuyingyuan.com/serviceworker.js^$script
+||dandanzan.cf/serviceworker.js^$script
 netflix.mom,netflixya.com,yanetflix.com##.tips-box,#note.popup
 netflix.mom,netflixya.com,yanetflix.com##.rm-list.player-rm
 netflix.mom,netflixya.com,yanetflix.com##+js(aopw,document.onkeydown)
@@ -2386,6 +2386,9 @@ newduba.cn###jq_youxi
 ||yyrgz.cn^
 ||iknwqdpo.xyz^
 ||228tuchuang.com^
+||dfhdsi.cc^
+||afx001.pw^
+||9f11.win^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
