@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AjtC+OZZUXnIAT8W9K1A2Q
+! Checksum: tEqm8mOJQEu1PR6wvzNykg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202302242031
-! Last Modified: 2023年02月24日 20:31
+! Version: 202302250219
+! Last Modified: 2023年02月25日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -21975,6 +21975,7 @@ _800x80_
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+##.js_related-stories-inset
 ##ins.adsbygoogle
 ###mgb-container > #mgb
 ###kt_player > a[target="_blank"]
@@ -41093,7 +41094,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||vax-boost.com^
 ||vax-now.com^
 ||vazypteke.pro^
-||vb17121coramclean.pw^
 ||vbscgrnkoceya.com^
 ||vbtrax.com^
 ||vcdc.com^
@@ -58010,6 +58010,7 @@ newduba.cn###jq_youxi
 ||1kanz.cn^
 ||niumeng.xyz^
 ||sdfg68.com^
+||prplads.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
