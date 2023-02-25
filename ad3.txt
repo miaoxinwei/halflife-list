@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z6o/oj5bDpF4wXaExVnM1w
+! Checksum: Mp/WZApSo2BTXX4eDBrBew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202302250920
-! Last Modified: 2023年02月25日 09:20
+! Version: 202302251419
+! Last Modified: 2023年02月25日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -195,6 +195,8 @@ stgowan.com
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/ajjsjfsk/*
+/MDassets/images/*.gif$~third-party
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -2426,6 +2428,16 @@ newduba.cn###jq_youxi
 ||agkacg.xyz^
 ||akh2o.cn^
 ||tuffhf.xyz^
+||okwa.top^
+||xiaolj.xyz^
+||188aaa.us^
+||7t56.com^
+||8499223.com^
+||8499234.com^
+||cdn-xinghuatupian-cdn.com^
+||ezfxpuo.cn^
+||u1033.com^
+||ewrwf.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -30462,6 +30474,7 @@ _mongo_stats/
 ||irs01.com^
 ||jams.wiki^
 ||jcpclick.com^
+||jubbie.de^
 ||k5a.io^
 ||krxd.net^
 ||kspotson.de^
@@ -30578,6 +30591,7 @@ _mongo_stats/
 ||thefontzone.com^
 ||tncid.app^
 ||trackclicks.info^
+||trk-maiorum.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^
@@ -36748,6 +36762,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imp.pvnsolutions.com^
 ||impdesk.com/smartpix/
 ||impress.vcita.com^
+||impressionmedia.cz/statistics/
 ||inbound-analytics.pixlee.co^
 ||incapdns.net/monitor.js
 ||ind.sh/view.php?$third-party
@@ -39076,6 +39091,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
 ||citiservi.es/adstrack?
+||collector-videoplayer.5centscdn.net^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
 ||creatives.sunmedia.tv^
@@ -39822,6 +39838,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/
+||netuplayer.top/cdn-cgi/trace
 ||newegg.com/amber3/tracking?
 ||news.google.com/_/v
 ||newscom.com/js/v2/ga.js
