@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HY3yjJoAfPcW2mUHX2sz+Q
+! Checksum: kq3LLx5kqt00KbXDD7xGFw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202302281420
-! Last Modified: 2023年02月28日 14:20
+! Version: 202302282031
+! Last Modified: 2023年02月28日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50424,8 +50424,6 @@ planetradio.co.uk###inline-03
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###inline-top
 krnb.com###inner-footer
 timesofmalta.com###inscroll-banner
-techspot.com###insert-ad-uno
-techspot.com###insert-top-ts-ad
 imagebam.com###inter > [src]
 booklife.com,yabeat.org###interstitial
 cnsnews.com,newsbusters.org###intranet_long
@@ -51364,7 +51362,6 @@ nypost.com,pagesix.com##.billboard-overlay
 electronicproducts.com##.billboard-wrap
 weatherpro.com##.billboard-wrapper
 thetruthaboutcars.com##.billboardSize
-techspot.com##.billboard_placeholder_home
 techspot.com##.billboard_placeholder_min
 netweather.tv##.billheight
 bundesliga.com##.bl-broadcaster
@@ -51402,6 +51399,7 @@ mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
+techspot.com##.blu
 nilechronicles.com##.bn-lg-sidebar
 snow-forecast.com,weather-forecast.com##.bn-placeholder
 gearspace.com##.bnb--inline
@@ -51752,7 +51750,6 @@ quora.com##.dom_annotate_ad_image_ad
 quora.com##.dom_annotate_ad_text_ad
 thenationonlineng.net##.dorvekp-post-bottom
 gearlive.com##.double
-techspot.com##.downText
 capitalfm.com,radiox.co.uk,smoothradio.com##.download
 thepiratebay3.to##.download_buutoon
 drivespark.com##.dp-add-block
@@ -51953,6 +51950,7 @@ dallasinnovates.com,thecoastnews.com##.gofollow
 golf.com##.golf-ad
 africanadvice.com,pspad.com,sudantribune.com##.google
 thehackernews.com##.google-1
+techspot.com##.google-ad
 apkmirror.com##.google-ad-leaderboard
 secretchicago.com##.google-ad-manager-ads-header
 okbaza.net##.google3
@@ -58315,6 +58313,7 @@ newduba.cn###jq_youxi
 ||szsxy.vip^
 ||okod.top^
 ||a-ads.com^
+||qianbaobbs.net^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -69847,6 +69846,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||jishulink.com/jishulink/searching/ad/get?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -87280,6 +87280,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||boringcoat.com^
 ||bouncyfront.com^
 ||bouncyproperty.com^
+||boundlessbrake.com^
 ||brandybison.com^
 ||brashbead.com^
 ||bravebone.com^
@@ -94166,6 +94167,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||carbon38.com/A44kxi5a/init.js
 ||careermatch.com/oGckki0e/init.js
 ||carolsdaughter.com/IZ/uaPO0cuk/init.js
+||carters.com/0F3091f3/init.js
 ||couchsurfing.com/bEcn7fQX/init.js
 ||crunchbase.com/rw7M6iAV/init.js
 ||drupal.org/VnPBBfwe/init.js
@@ -107909,7 +107911,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|investing.com|lodgecastiron.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
