@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7XO97IIwNNIsVuUeviKfeg
+! Checksum: v0HTmHXexaVO3e3iYHs0Fw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303011421
-! Last Modified: 2023年03月01日 14:21
+! Version: 202303012032
+! Last Modified: 2023年03月01日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2497,6 +2497,8 @@ newduba.cn###jq_youxi
 ||siejp.cyou^
 ||okoc.top^
 ||guoandong.ltd^
+||accommodatingremindauntie.com^
+||uniway.cn.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -36852,6 +36854,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||innogamescdn.com/media/js/metrics-
 ||inphonic.com/tracking/
 ||inq.com^*/onEvent?_
+||ins.connatix.com^
 ||insiderdata360online.com/service/platform.js
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
@@ -36960,6 +36963,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
 ||live.mrf.io/statics/marfeel/gardac-sync.js
@@ -37287,6 +37291,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixlee.com/assets/fp.js
 ||pixlee.com/assets/keen-
 ||pixlee.com/assets/pixlee_events.js
+||pl.connatix.com^
 ||platform.iteratehq.com^
 ||platform.twitter.com/impressions.js
 ||plausible.io/js/p.js
