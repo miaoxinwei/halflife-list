@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RAzsT1hFPlMEVTkH1/PK4g
+! Checksum: 6AyCQzFuEUwKvrDVIeAK2g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303021421
-! Last Modified: 2023年03月02日 14:21
+! Version: 202303022030
+! Last Modified: 2023年03月02日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2511,8 +2511,10 @@ newduba.cn###jq_youxi
 ||jiape.cyou^
 ||xxtalp.xyz^
 ||ibqswjdkpo.com^
+||ibjkdwsdko.com^
 ||okag.top^
 ||katynplum.ltd^
+||u33011.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -14047,6 +14049,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||9fum.ifeng.com^
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -34508,6 +34511,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ruthlessrobin.com^
 ||sablesmile.com^
 ||sablesong.com^
+||sadloaf.com^
 ||sailsuit.com^
 ||samestretch.com^
 ||satisfycork.com^
