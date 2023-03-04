@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TlpzWuedRe2BhUJpmt+VqQ
+! Checksum: FsnXTl3PNvCAuqMI/ejVYQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303040919
-! Last Modified: 2023年03月04日 09:19
+! Version: 202303041419
+! Last Modified: 2023年03月04日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2543,6 +2543,7 @@ newduba.cn###jq_youxi
 ||ennde.cyou^
 ||regrfg33.com^
 ||shandiankuaixi.in^
+||9odes.ltd^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -54686,7 +54687,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
-@@||static.okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
 @@||static.tixr.com/static/*/Analytics.js$~third-party
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com

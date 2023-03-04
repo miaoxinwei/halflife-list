@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TZeHcyMfvCwSS3HHigU0Qw
+! Checksum: jqJLK4ETDNhxUwrwc1h0eg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303040919
-! Last Modified: 2023年03月04日 09:19
+! Version: 202303041419
+! Last Modified: 2023年03月04日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10613,6 +10613,7 @@ _800x80_
 ##.Advert-label
 ##.Advert300x250
 ##.AdvertContainer
+##.AdvertWrapper
 ##.AdvertisementAfterHeader
 ##.AdvertisementAfterPost
 ##.AdvertisementAsidePost
@@ -11930,6 +11931,7 @@ _800x80_
 ##.ad-slot--top
 ##.ad-slot--top-above-nav
 ##.ad-slot--top-banner-ad
+##.ad-slot--wrapper
 ##.ad-slot-1
 ##.ad-slot-2
 ##.ad-slot-234-60
@@ -52470,6 +52472,7 @@ careerindia.com##.inhouse-content
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 kijiji.ca##.inline-banner
+freebeacon.com##.inline-campaign-wrapper
 stocksnap.io##.inline-carbon
 parkers.co.uk##.inline-leaderboard-ad-wrapper
 pcgamesn.com,pockettactics.com,theloadout.com##.inlinerail
@@ -53660,6 +53663,7 @@ tutorialink.com##.widget_ti_add_widget
 techpout.com##.widget_xyz_insert_php_widget
 ign.com##.wiki-bobble
 wethegeek.com##.win
+dailywire.com##.wisepops-block-image
 gg.deals##.with-banner
 windowsloop.com##.wl-prakatana
 cryptopolitan.com##.wordp-leaderboard
@@ -58750,6 +58754,7 @@ newduba.cn###jq_youxi
 ||ennde.cyou^
 ||regrfg33.com^
 ||shandiankuaixi.in^
+||9odes.ltd^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -108601,7 +108606,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
-@@||static.okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
 @@||static.tixr.com/static/*/Analytics.js$~third-party
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
