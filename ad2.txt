@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h5877n/V7sCBbYPM0VsLLQ
+! Checksum: Bk41TKnn/rYvtNrl7C4kMQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202303051419
-! Last Modified: 2023年03月05日 14:19
+! Version: 202303052028
+! Last Modified: 2023年03月05日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -73,7 +73,7 @@ cm.bilibili.com
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
-||imall.cctv.com/$subdocument
+!||imall.cctv.com/$subdocument
 bjcathay.com
 pptv.com##.advView-two,#p-mark
 synacast.com
@@ -120,7 +120,7 @@ yoyi.com.cn
 zhiziyun.com
 le.com##.min_pause_img
 le.com##.hv_wm_logo
-www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 ||douyucdn.cn/adxdsp/$image
 wan.douyu.com
@@ -2556,6 +2556,9 @@ newduba.cn###jq_youxi
 ||okcy.top^
 ||jipinyouwu.com^
 ||wskyh.ltd^
+||wuifbjdswsl.com^
+||tututu666.com^
+##A[href*="/ky55004.com"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]

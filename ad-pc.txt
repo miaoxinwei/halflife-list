@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hPvAbUg/du03y4PxhNm7fA
+! Checksum: /UugmiYUdgI0eZt89QcwQg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303051419
-! Last Modified: 2023年03月05日 14:19
+! Version: 202303052028
+! Last Modified: 2023年03月05日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3453,7 +3453,6 @@ tieba.baidu.com##.tuijian-wrap
 /miniadvert.
 /mint/ads/*
 /misc/ad-
-/misc/ads/*
 /mmads-
 /mmads.
 /moatsdk.min.js
@@ -49556,6 +49555,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sawfirstdelivery.com/master/delivery.js
 ||sbfull.com/assets/jquery/jquery-3.2.min.js?
 ||sbfull.com/js/mainpc.js
+||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
@@ -52379,6 +52379,7 @@ nationalreview.com##.header-billboard-wrap
 lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 kveller.com##.header-bottom
+counterpunch.org##.header-center
 autental.com##.header-grid-items
 allmovie.com,realestate.com.au,theoldie.co.uk##.header-leaderboard
 realestate.com.au##.header-leaderboard-portal
@@ -52458,6 +52459,7 @@ intomobile.com##.im_970x90
 searchenginejournal.com##.img-m_max-100
 cultofmac.com##.important
 exchangerates.org.uk##.imt4
+thecanary.co##.in-content-ad
 businessinsider.com,insider.com##.in-post-sticky
 crash.net##.inarticle-wrapper
 motherjones.com##.incontent-promo
@@ -58768,6 +58770,9 @@ newduba.cn###jq_youxi
 ||okcy.top^
 ||jipinyouwu.com^
 ||wskyh.ltd^
+||wuifbjdswsl.com^
+||tututu666.com^
+##A[href*="/ky55004.com"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -83554,6 +83559,7 @@ _sdcTrackingCode.
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
+/webmnr.min.js
 /webmr.js
 /webxmr.js
 /wproxy$~third-party,websocket
@@ -86820,6 +86826,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tmmp.io^$third-party
 ||traffic.tc-clicks.com^$third-party
 ||trustiseverything.de^$third-party
+||trustisimportant.fun^
 ||trustmeiamapro.de^$third-party
 ||tulip18.com^$third-party
 ||turnsocial.com^$third-party
@@ -110386,7 +110393,7 @@ cm.bilibili.com
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
-||imall.cctv.com/$subdocument
+!||imall.cctv.com/$subdocument
 bjcathay.com
 pptv.com##.advView-two,#p-mark
 synacast.com
@@ -110433,7 +110440,7 @@ yoyi.com.cn
 zhiziyun.com
 le.com##.min_pause_img
 le.com##.hv_wm_logo
-www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
 ||douyucdn.cn/adxdsp/$image
 wan.douyu.com
