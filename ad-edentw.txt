@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IAgzxgHSkFXnxjDAiMQGbA
+! Checksum: 8sSaRUvTHH4iRv2xmShI6Q
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202303050218
-! Last Modified: 2023年03月05日 02:18
+! Version: 202303062032
+! Last Modified: 2023年03月06日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1388,6 +1388,7 @@ root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 ||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
 animixplay.to#$#abort-on-property-read String.fromCharCode
+aqicn.org#$#abort-on-property-read alert
 vuukle.com##a[href*="news.vuukle.com/u/"]
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com#$#hide-if-matches-xpath './/fw-embed-feed[@channel][@mode][@playlist]/parent::div[@id][@style][1]'
 oneindia.com##a[href^="https://bit.ly/"]
@@ -1887,6 +1888,7 @@ studref.com#$#abort-on-property-read _0x308a
 studwood.net#$#abort-on-property-read _0x8cc0
 vuzlit.com#$#abort-on-property-read _0xc091
 xstud.org#$#abort-on-property-read _0xd07e
+avtovzglyad.ru,baby.ru,dni.ru,relax-fm.ru#$#abort-on-property-read Ya
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
 ! Popup/popunder/clickunder
