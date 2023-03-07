@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0klOoWuOCCioSPQhJd9e4g
+! Checksum: EIgRlN03LDoJtC4ASR+Oow
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303072032
-! Last Modified: 2023年03月07日 20:32
+! Version: 202303080220
+! Last Modified: 2023年03月08日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -50927,6 +50927,7 @@ screengeek.net###layoutContainer
 247wallst.com###lb-fill
 friv.com###lba
 friv.com###lbaTop
+irishnews.com###lbtop
 piraproxy.info,unblockedstreaming.net###lbxUR99472
 123unblock.bar###lbxVPN666
 dailydooh.com###leaddiv
@@ -51758,7 +51759,7 @@ schoolguide.co.za##.banner-bar-bot
 pretoria.co.za##.banner-bg
 azernews.az##.banner-block
 dailycoffeenews.com##.banner-box
-irishnews.com,nscreenmedia.com,whoscored.com##.banner-container
+nscreenmedia.com,whoscored.com##.banner-container
 soccerway.com##.banner-content
 insidebitcoins.com##.banner-cta-wrapper
 news12.com##.banner-homePageSidebar-area
@@ -52701,7 +52702,7 @@ abcnews.go.com,edarabia.com##.leaderboard-970
 roblox.com##.leaderboard-abp
 howstuffworks.com##.leaderboard-banner
 poe.ninja##.leaderboard-bottom
-arabiaweather.com,bloomberg.com,gamesindustry.biz,news957.com,newscientist.com,usgamer.net##.leaderboard-container
+arabiaweather.com,atlasobscura.com,bloomberg.com,gamesindustry.biz,news957.com,newscientist.com,usgamer.net##.leaderboard-container
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder-desktop
 bluesnews.com##.leaderboard-gutter
@@ -53168,7 +53169,7 @@ breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
 euronews.com##.qa-dfpLeaderBoard
 qrobe.it##.qad
 revolution935.com##.qt-sponsor
-coingape.com##.quads-location
+coingape.com,townflex.com##.quads-location
 modernghana.com##.quikr_banner
 surfline.com##.quiver-google-dfp
 tgstat.com##.r1-aors
@@ -54063,7 +54064,7 @@ shotcut.org##[style="background-color: #fff; padding: 6px; text-align: center"]
 cbn.com##[style="display:block !important; min-height:90px;"]
 techraptor.net##[style="height: 300px"]
 tenforums.com##[style="height:280px;"]
-wahm.com##[style="min-height:250px;"]
+calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
@@ -54343,7 +54344,7 @@ thewrap.com##div[id^="dsk-box-ad"]
 memedroid.com##div[id^="freestar-ad-"]
 maltadaily.mt##div[id^="malta-"]
 mediabiasfactcheck.com##div[id^="media-"]
-gamebyte.com##div[id^="mpu"]
+gamebyte.com,irishnews.com##div[id^="mpu"]
 progamerage.com##div[id^="proga-"]
 howtogeek.com##div[id^="purch_"]
 realtalk933.com##div[id^="realt-"]
@@ -57943,6 +57944,7 @@ newduba.cn###jq_youxi
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
+##a[href="/jump.php"] > img[src*=".bcebos.com"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
@@ -58207,6 +58209,7 @@ newduba.cn###jq_youxi
 ||bomut.cyou^
 ||boodi.cyou^
 ||bpbpxv.xyz^
+||bpewo.cyou^
 ||bqg16.cc^
 ||bqrkubs.cn^
 ||bqtwbx.xyz^
@@ -58224,6 +58227,7 @@ newduba.cn###jq_youxi
 ||cdn-xinghuatupian-cdn.com^
 ||cerfbup.xyz^
 ||chumeng.link^
+||chyuok.xyz^
 ||ciaeue.xyz^
 ||cifzuqopdpzi.com^
 ||cnshiw2.com^
@@ -58235,6 +58239,7 @@ newduba.cn###jq_youxi
 ||cwobgp.cn^
 ||cwpbohx.cn^
 ||cxgwsu.xyz^
+||d3f3.xyz^
 ||d7i.cn^
 ||dacyh.cyou^
 ||dagamemisdeed.com^
@@ -58283,6 +58288,7 @@ newduba.cn###jq_youxi
 ||elsmom.xyz^
 ||ennde.cyou^
 ||ermao20230220.live^
+||ethandataserver.love^
 ||etkht.cn^
 ||evunmc.xyz^
 ||ewahj.cyou^
@@ -58300,6 +58306,7 @@ newduba.cn###jq_youxi
 ||fdtrjz.xyz^
 ||feixun.info^
 ||felzfr.xyz^
+||fernandou.online^
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
 ||fhvbhx.xyz^
@@ -58360,6 +58367,7 @@ newduba.cn###jq_youxi
 ||hibaby.ren^
 ||hiqrnyn.cn^
 ||hkbzl.hk^
+||hladalliance.com^
 ||hmpubc.xyz^
 ||hndhas.com^
 ||hnrjign.cn^
@@ -58572,6 +58580,7 @@ newduba.cn###jq_youxi
 ||okag.top^
 ||okcf.top^
 ||okcy.top^
+||okdi.top^
 ||okew.top^
 ||okmwfq.xyz^
 ||okoc.top^
@@ -58600,6 +58609,7 @@ newduba.cn###jq_youxi
 ||pddbtn.xyz^
 ||pe5a.top^
 ||pehlvl.xyz^
+||penglangyyds.com^
 ||peoir.cyou^
 ||pgccaoy.cn^
 ||pgrjxpd.cn^
@@ -58614,6 +58624,7 @@ newduba.cn###jq_youxi
 ||porjjhu.cn^
 ||ppltxv.xyz^
 ||pqjprom.cn^
+||printsmull.com^
 ||prplads.com^
 ||ps123.online^
 ||pwcuu.cn^
@@ -58663,6 +58674,7 @@ newduba.cn###jq_youxi
 ||resumes.ren^
 ||rglctlo.cn^
 ||rikqo.cc^
+||rkv9.top^
 ||rooby.cyou^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
@@ -58700,6 +58712,7 @@ newduba.cn###jq_youxi
 ||sixarwr.cn^
 ||skiyvwu.cn^
 ||skzlz.cn^
+||slfindmarket.live^
 ||slowbeat.fun^
 ||smgbka.xyz^
 ||soqikbe.cn^
@@ -58784,6 +58797,7 @@ newduba.cn###jq_youxi
 ||viope.cyou^
 ||vlbbxt.xyz^
 ||vokmhydy.xyz^
+||vvtztj.xyz^
 ||vw66i.top^
 ||vwvjzd.xyz^
 ||vykeavz.cn^
@@ -58816,6 +58830,7 @@ newduba.cn###jq_youxi
 ||wuge20230104.live^
 ||wuifbjdswsl.com^
 ||wujiupic.com^
+||wumao20230301.live^
 ||wusuliriver.com^
 ||wutou20230201.live^
 ||wwnyubs.cn^
@@ -58864,6 +58879,7 @@ newduba.cn###jq_youxi
 ||yc444.cn^
 ||yemueii.cn^
 ||yffjqvq.cn^
+||yflog.me^
 ||yfmhik.xyz^
 ||yhjh04.com^
 ||yhsfsdv03.com^
@@ -58913,14 +58929,6 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||chyuok.xyz^
-||vvtztj.xyz^
-||ethandataserver.love^
-||bpewo.cyou^
-||hladalliance.com^
-||fernandou.online^
-||okdi.top^
-||rkv9.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -107620,6 +107628,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^*/gtm.js$~third-party
 @@||bluecare.express/js/tracking/$script,~third-party
+@@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
