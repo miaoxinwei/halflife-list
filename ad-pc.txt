@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EaQ/e2QMumxYruRLnZ0/Mg
+! Checksum: I5FNu0M0uabSs+Egi1VhFA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303081420
-! Last Modified: 2023年03月08日 14:20
+! Version: 202303082031
+! Last Modified: 2023年03月08日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18347,6 +18347,8 @@ _800x80_
 ##.kakao_ad_area
 ##.keen_ad
 ##.klicked-ads
+##.kumpulads-post
+##.kumpulads-side
 ##.l-ad
 ##.l-ad-top
 ##.l-ads
@@ -21588,6 +21590,7 @@ _800x80_
 ##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
+##[href="//sexcams.plus/"]
 ##[href="https://jdrucker.com/gold"] > img
 ##[href="https://masstortfinancing.com"] img
 ##[href="https://ourgoldguy.com/contact/"] img
@@ -36875,6 +36878,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||portoteamo.com^
 ||portoutsid.xyz^
 ||portserratic.com^
+||posawaj.com^
 ||poseidthewave.com^
 ||poseurtwicet.digital^
 ||poshhateful.com^
@@ -53920,8 +53924,8 @@ trakt.tv##[data-snigel-id]
 coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
-coles.com.au##[data-testid="banner-container-desktop"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
+coles.com.au##[data-testid="banner-container-desktop"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 abcnews.go.com##[data-testid="prism-static-embed"]
@@ -54462,7 +54466,6 @@ law.com,topcultured.com##h3
 greatist.com##hl-adsense
 drive.com.au##hr
 carls-sims-4-guide.com##hr.post_separator + .windowbg
-ylilauta.org##iframe.a
 avanigo.com##iframe.lazyloaded
 coincodex.com,yourbittorrent.com##iframe[src]
 realgearonline.com##iframe[src^="http://www.adpeepshosted.com/"]
@@ -54938,6 +54941,7 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
+tgstat.com#?#.slider-editors-choice:-abp-has([data-src*="/sponsored-info"])
 tympanus.net#?#article:-abp-has(header:-abp-has(.ct-sponsored))
 unsplash.com#?#.MbNnd:-abp-has(a:-abp-contains(Sponsored))
 wikiprocedure.com#?##mw-content-text > div:-abp-contains(/^Advertisement$/)
@@ -58971,6 +58975,8 @@ newduba.cn###jq_youxi
 ||08088.top^
 ||believer.ltd^
 ||cj-sys.club^
+||aaudaob.cn^
+||vnq3.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -75760,6 +75766,8 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||ozabc.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aboluowang.com
+@@||aboluowang.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
@@ -78228,6 +78236,7 @@ fqsousou.com,kengso.com#@#.user-share
 /admantx-
 /admantx.
 /admantx/*
+/AdmitadTagTag.js
 /admonitoring.
 /adobe-analytics-$domain=~business.adobe.com
 /adobe-analytics.
@@ -80369,6 +80378,7 @@ fqsousou.com,kengso.com#@#.user-share
 /InsightTrk/*
 /insightXe.js
 /insitemetrics/*
+/instantpage.js
 /InstantTracking.
 /instart.js
 /intellitracker.js
@@ -107650,6 +107660,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
+@@||app.pangolin.exchange/assets/analytics-$~third-party
 @@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
@@ -109234,6 +109245,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||nicelinks.site/ad-block-
 ||juejin.cn/content_api/v1/advert/query_adverts?
 !------------------------Specific element hiding rules------------------------!
+csdn.net##.csdn-common-logo-advert
+a9vg.com###qrcode
+a9vg.com##.a9-back-top_qrcode
 huya.com##.end-ab-banner
 investing.com##div[class*="overlay_overlay"]
 investing.com##div[class*="adBlock"]
