@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ck9iTE92yFxFSrrWF86UWg
+! Checksum: EaQ/e2QMumxYruRLnZ0/Mg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303080925
-! Last Modified: 2023年03月08日 09:25
+! Version: 202303081420
+! Last Modified: 2023年03月08日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1478,7 +1478,7 @@ tieba.baidu.com##.tuijian-wrap
 /adproxy.
 /adrec.$domain=~adrec.paris-sorbonne.fr
 /adrefresh-
-/adrefresh.
+/adrefresh.$domain=~adrefresh.io
 /adrequest.$domain=~adrequest.com
 /adright.$domain=~adright.com
 /adright/*
@@ -23729,6 +23729,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||addroplet.com^
 ||addtakingcontinuous.com^
 ||addthief.com^
+||adeepado.xyz^
 ||adenza.dev^
 ||adeptexcessivewatches.com^
 ||aderstono.com^
@@ -27929,6 +27930,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||ctubhxbaew.com^
 ||ctuklyeconnec.xyz^
 ||ctxoxmia.com^
+||cubbingrebbes.com^
 ||cubeclause.com^
 ||cubenliven.com^
 ||cubeslichees.com^
@@ -29359,6 +29361,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||ellaysad.live^
 ||ellcurvth.com^
 ||ellpaniers.com^
+||elogiumtagmeme.com^
 ||elonreptiloid.com^
 ||eloquencer.com^
 ||eloquentformallyrelapse.com^
@@ -30207,6 +30210,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||flongssecos.com^
 ||floodingonion.com^
 ||flopinclose.com^
+||floppytopo.com^
 ||flossyarrayal.life^
 ||flouralmighty.com^
 ||flowln.com^
@@ -31843,6 +31847,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||hugfromoctopus.com^
 ||hughester.com^
 ||hugregregy.pro^
+||hugsgnome.com^
 ||huldeeelfwife.com^
 ||humble-green.pro^
 ||humbledleelang.com^
@@ -37645,6 +37650,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||r66net.com^
 ||r66net.net^
 ||r932o.com^
+||rabfakfolksey.digital^
 ||rabidamoral.com^
 ||rablinhiphape.com^
 ||raccourir.xyz^
@@ -51415,6 +51421,7 @@ interestingengineering.com##.BigAd_ad__m0kt9
 cnbc.com##.BoxRail-styles-makeit-ad--lyuQB
 thedailybeast.com##.CheatSheetList__placeholder
 thedailybeast.com##.Cheat__top-ad
+shoprite.com,thefreshgrocer.com##.CitrusBannerWrapper--enollj
 tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
 swarajyamag.com##.CrIrA
@@ -51532,7 +51539,7 @@ androidauthority.com,courthousenews.com,imgmak.com,infobel.com,linkedin.com,soun
 home-designing.com,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 save.ca##.ad-box
-12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
 sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 wionews.com##.ad-height
@@ -53739,6 +53746,7 @@ videogameschronicle.com##.vgc-productsblock
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
+songkick.com##.video-ad-wrapper
 cyclinguptodate.com##.video-container
 forbes.com,nasdaq.com##.video-placeholder
 guru99.com##.videocontentmobile
@@ -53885,6 +53893,7 @@ uploader.link##[class^="ads"]
 romhustler.org##[class^="leaderboard_ad"]
 noqreport.com##[class^="noqre-"]
 thetimes.co.uk##[class^="responsive__InlineAdWrapper-"]
+petco.com##[class^="tile-picker__CitrusBannerContainer-sc-"]
 torlock.com##[class^="wrn"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 builtbybit.com##[data-advertisement-id]
@@ -53911,6 +53920,7 @@ trakt.tv##[data-snigel-id]
 coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
+coles.com.au##[data-testid="banner-container-desktop"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
@@ -54890,6 +54900,7 @@ nbcbayarea.com,nbcboston.com,nbcchicago.com,nbcconnecticut.com,nbcdfw.com,nbclos
 nex-software.com#?#.toolinfo:-abp-has(a[href$="/reimage"])
 nex-software.com#?#h4:-abp-has(a[href$="/reimage"])
 onepagerules.com#?#strong:-abp-contains(PAID CONTENT)
+petco.com#?#li:-abp-contains(Sponsored)
 pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#?#div[data-test-id="pin"]> *:-abp-contains(Anzeige von)
 pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#?#div[data-test-id="pin"]> *:-abp-contains(Gesponsord door)
 pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#?#div[data-test-id="pin"]> *:-abp-contains(Promocionado por)
@@ -55565,6 +55576,7 @@ babesandstars.com##.traders
 gayporno.fm##.traffic
 proporn.com##.trailerspots
 pornguide.info##.twp-adv-header
+sexhd.pics##.tx
 boysfood.com##.txt-a-onpage
 thegay.com##.underplayer__info > div:not([class])
 videojav.com##.underplayer_banner
@@ -58956,6 +58968,9 @@ newduba.cn###jq_youxi
 ||dfvarz.xyz^
 ||kravma.xyz^
 ##a[href*="/bgm9z.com"]
+||08088.top^
+||believer.ltd^
+||cj-sys.club^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
