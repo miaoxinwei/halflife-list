@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aYQxfx5mX5RR6jBwC/h5Fw
+! Checksum: TTYKooSvAIL3LmhGRpLNSQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303090220
-! Last Modified: 2023年03月09日 02:20
+! Version: 202303090924
+! Last Modified: 2023年03月09日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2596,6 +2596,12 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
+||lwz.hk^
+||qiapuyyds.com^
+||xhi8.xyz^
+||dpxynh.xyz^
+||kbctii.xyz^
+||aowdk.cyou^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -37820,6 +37826,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track2.mycliplister.com^
 ||tracker.euroweb.net^
 ||tracker.winload.de^
+||tracking-live.kr3m.com^
 ||tracking.base.de^
 ||tracking.emsmobile.de^
 ||tracking.gameforge.de^
@@ -39314,6 +39321,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||overstock.com/analytics/
 ||overstock.com/dlp?
 ||p.ctpost.com/article?
+||p.fusevideo.net^
+||p.hentaiforce.net^
 ||p.sfx.ms/is/invis.gif
 ||pac.thesun.co.uk^
 ||pagesix.com/blaize/datalayer
@@ -39648,6 +39657,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strtpe.link/stat/
 ||stubhub.com/bfx/api/logging
 ||swarm.video/stats/
+||t.3hentai.net^
 ||t.9gag.com^
 ||t.allmodern.com^
 ||t.appsflyer.com^
@@ -54006,7 +54016,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
 @@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
-@@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
+@@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk|visaconcierge.eu
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
