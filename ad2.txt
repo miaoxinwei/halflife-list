@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 80QeBLJ8wFnO/xezvOm32g
+! Checksum: Ilxf/kzmWFqWpkrcKrGLmQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202303100219
-! Last Modified: 2023年03月10日 02:19
+! Version: 202303100924
+! Last Modified: 2023年03月10日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -272,6 +272,7 @@ stgowan.com
 .com/topjs/
 .com/uploads/*-860x250.gif
 .com/vh1/$script,third-party
+.com/vj1/$script,third-party
 .com/vodad.js
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
@@ -2158,7 +2159,6 @@ newduba.cn###jq_youxi
 ||larbcc.xyz^
 ||laxnlqn.cn^
 ||lbk7p.cn^
-||ldmnq.com^$third-party
 ||leeleo.top^$third-party
 ||leiersuqd.com^
 ||leiwo.xyz^
@@ -2617,6 +2617,13 @@ newduba.cn###jq_youxi
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
+||qist.me^
+||sleuey.xyz^
+||lzzzjx.xyz^
+||fujoe.cyou^
+||uibjhqwkl.com^
+||poqoiwn.com^
+||kalongyyds.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13389,6 +13396,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ldmnq.com/bbs/$third-party
+||biancheng.net/uploads/ggxc/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
