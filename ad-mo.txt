@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rHgGLxJMbMT27hBMgDRutQ
+! Checksum: Mcc6C+JjfOTHLVODacrVAg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303131420
-! Last Modified: 2023年03月13日 14:20
+! Version: 202303132031
+! Last Modified: 2023年03月13日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20367,7 +20367,6 @@ _800x80_
 ##.sponsor-left
 ##.sponsor-link
 ##.sponsor-links
-##.sponsor-logo
 ##.sponsor-popup
 ##.sponsor-post
 ##.sponsor-right
@@ -59063,6 +59062,7 @@ newduba.cn###jq_youxi
 ||hioek.cyou^
 ||wangsf.ltd^
 ||kezldfv.cn^
+||4bds.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -82760,7 +82760,6 @@ fqsousou.com,kengso.com#@#.user-share
 /tracking_unitary/*
 /trackingab?
 /trackingamp.php
-/trackingapi.
 /TrackingBreadcrumbs.
 /TrackingCentral.js
 /trackingcheck.min.js
