@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +KcTic2WpwlwrJLjG3Xd0g
+! Checksum: rHgGLxJMbMT27hBMgDRutQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303130917
-! Last Modified: 2023年03月13日 09:17
+! Version: 202303131420
+! Last Modified: 2023年03月13日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -21929,6 +21929,7 @@ _800x80_
 ##.mm-widget--sendtonews
 ##.oovvuu-embed-player
 ##.pbs__player
+##.playwire-article-leaderboard-ad
 ##.pmc-contextual-player
 ##.pop-out-eplayer-container
 ##.primis-ad-wrap
@@ -52212,6 +52213,7 @@ bmj.com##.css-1jjs1rx
 cruisecritic.co.uk,cruisecritic.com,cruisecritic.com.au##.css-1kyizeh
 infowars.com##.css-1nbwp0k
 eviemagazine.com##.css-1pm6hh5
+keeb-finder.com##.css-1s33rak
 infowars.com##.css-1upmbem
 ladbible.com##.css-1v521fz
 infowars.com##.css-1vj1npn
@@ -52910,6 +52912,7 @@ thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
 etxt.biz##.mod-cabinet__sidebar-info
+notateslaapp.com##.mod-sponsors
 breakingenergy.com##.modal-backdrop
 livelaw.in##.modal_wrapper_frame
 autoevolution.com##.modeladmid
@@ -53010,6 +53013,7 @@ mondoweiss.net##.notrack
 bleepingcomputer.com##.noty_bar
 pcgamebenchmark.com##.nova_wrapper
 zimbio.com##.npd-video-break
+notateslaapp.com##.npwlwgucml
 crypto-news-flash.com##.nso_ad_under_article
 designtaxi.com##.nt
 designtaxi.com##.nt-displayboard
@@ -53864,6 +53868,7 @@ drivehub.in,indidrive.in,metamoviez.xyz##.xc449bad4854773ff
 theseotools.net##.xd_top_box
 livejournal.com##.xhtml_banner
 dallasnews.com##.xl_right-rail
+thenounproject.com##.yCpfT
 titantv.com##.yRDh6z2_d0DkfsT3
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 pravda.ru##.yaRtbBlock
@@ -59056,6 +59061,8 @@ newduba.cn###jq_youxi
 ||heqinyyds.com^
 ||bdfwzt.xyz^
 ||hioek.cyou^
+||wangsf.ltd^
+||kezldfv.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
