@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FC3qL5SGwf5+FV/xaS0ouA
+! Checksum: XJg2EbHDi6THxgmeHk8t2Q
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202303132031
-! Last Modified: 2023年03月13日 20:31
+! Version: 202303140218
+! Last Modified: 2023年03月14日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -373,17 +373,16 @@ clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > .Result-ico:not([cl
 clanky.seznam.cz,search.seznam.cz#?#:-abp-has(> .Result--organic .Result-title-link:not([class="Result-title-link"]))
 clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="Result-contentContainer _"])
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url):not(.Result-dw-wrapper):not(.Result-image) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
-www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"mol-advert-header")]/following::div[contains(@class,"mol-json-ssp-advert")]/parent::div[@id]'
+www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"sticky-content")]'
+www.seznam.cz#$#hide-if-matches-xpath './/div[@class="banner-wrapper"]/a[contains(@href,"click?") or contains(@href,"adur_")]/div[@class="banner_image--container"]/img[contains(@src,"img_")]/ancestor::div[@id="page"]'
+www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"mol-advert-text-content")]/preceding::div[contains(@class,"mol-advert-header__source")]/parent::div[@class]/ancestor::div[@id][1]'
 www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"gadget-container")]/div[@id and @class]/div[@*="animated-height"]//span[text()]/following-sibling::a[contains(text(),"reklamu")]//following::div[@*="gadget__content"]//div[@class and @style]/ancestor::div[7][@class]/ancestor::div[contains(@class,"gadget-container")]'; hide-if-matches-xpath './/div[starts-with(@class,"d-flex")]/div[contains(@class,"flex-column")]/div[@class and @style]//div[2]/div[@class and @style]/parent::div/ancestor-or-self::div[contains(@style,"flex-basis:")]'; hide-if-matches-xpath './/div[@*="mainFeed"]//div[@class="overflow-hidden"]/div[contains(@class,"atm-text-placeholder")]/parent::div[@class][1]/ancestor::div[3]/parent::div[@class and @*]/ancestor::li[@data-analytics-first-item]';
-search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot,"zbozi-product-advert")]/ancestor::div[contains(@data-dot-data,"zbozi")]'
-search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot-data,"zbozi-shop-offer")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
-search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"adtext-variant")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"boxWithShadow")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot-data,"reporter_pos")][1]/div[@class="molecularization-leftColumnMargin"]'
+search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"utm_campaign")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"/click?adurl")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
-search.seznam.cz#$#hide-if-matches-xpath './/a[@data-e-a="sitelinks"][@href]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 ||seznam.cz/*/static/*/*?nocache=1^$domain=www.seznam.cz
 ||seznam.cz/*/*/js/*?nocache=1^$domain=www.seznam.cz
-www.seznam.cz##div[class$="mol-repeater-container"]
-www.seznam.cz##div[data-dnd-content-ignore="true"]
 www.seznam.cz#$#cookie-remover pubmatic
 www.seznam.cz#$#cookie-remover adform
 www.seznam.cz#$#override-property-read sssp noopFunc
@@ -1329,6 +1328,7 @@ vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
 ! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709
+@@||vengefulgrass.com^$script,xmlhttprequest
 @@||painstakingpickle.com^$script,xmlhttprequest
 @@||pocketfaucet.com^$script,xmlhttprequest
 @@||stretchsquirrel.com^$script,xmlhttprequest
