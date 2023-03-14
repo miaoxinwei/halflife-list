@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5kHDrh5DnNbZrky1xUCv0A
+! Checksum: UhOD6UeYEk4roBN5OWemyw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303140907
-! Last Modified: 2023年03月14日 09:07
+! Version: 202303141420
+! Last Modified: 2023年03月14日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2011,7 +2011,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsynth-
 /adsys.$domain=~adsys.in
 /adsys/*
-/adsystem.
+/adsystem.$domain=~adsystem.com.pl
 /adsystem/*
 /ads~adsize~
 /adtable_
@@ -49973,6 +49973,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||wsj.net/pb/pb.js
 ||fireworkapi1.com^$domain=boldsky.com
 ||anyclip.com^$script,third-party
+||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
 ||boomselljamwelunch.com^
@@ -49990,7 +49991,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
 ||g.ibtimes.sg/sys/js/minified-video.js
-||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph
+||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
 ||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|kiplinger.com|spokesman-recorder.com|tomshardware.com|variety.com|videogames.si.com|whathifi.com
@@ -51314,6 +51315,7 @@ scotsman.com###sidebarMPU1
 scotsman.com###sidebarMPU2
 ubergizmo.com###sidebar_card_spon
 opendocument.xml.org,trucknetuk.com###sidebarright
+disqus.com###siderail-sticky-ads-module
 gephardtdaily.com###simple-sticky-footer-container
 995thewolf.com,newcountry963.com###simpleimage-3
 hot933hits.com###simpleimage-5
@@ -51697,6 +51699,7 @@ bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
 food.com##.ad__ad
+disqus.com##.ad__adh-wrapper
 nationalpost.com,vancouversun.com##.ad__inner
 politico.eu##.ad__mobile
 asianjournal.com##.ad_before_title
@@ -52687,7 +52690,6 @@ barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 wtop.com##.hubb-at-rad-header
-extremetech.com##.hybrid-bar + div
 myabandonware.com##.i528
 animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
@@ -52945,6 +52947,7 @@ ibtimes.co.uk##.middle-leaderboard
 spectator.com.au##.middle-promo
 coincodex.com##.middle3
 thefastmode.com##.middlebanner
+extremetech.com##.min-h-24
 stripes.com##.min-h90
 kitco.com##.mining-banner-container
 ar15.com##.minis
@@ -59124,6 +59127,11 @@ newduba.cn###jq_youxi
 ||bnhxxj.xyz^
 ||iicke.cyou^
 ||304p.xyz^
+||jd186.club^
+||irqqwqk.cn^
+||wangzhe.cx^
+||gaohexiang.xyz^
+||tqxthzy.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -82563,7 +82571,6 @@ fqsousou.com,kengso.com#@#.user-share
 /track/responseTime
 /track/site/*
 /track/statistic/*
-/track/track-
 /track/track.php?
 /track/usage.
 /track/view/*
@@ -83072,6 +83079,7 @@ fqsousou.com,kengso.com#@#.user-share
 /v60.js
 /va-stat.
 /valnet-header.
+/valnetinccom-adapter.
 /valor_analytics.
 /valor_analytics/*
 /valueclickbrands/*
@@ -84560,7 +84568,6 @@ _mongo_stats/
 ||awstats.cloud^$third-party
 ||awstrack.me^$third-party
 ||axf8.net^$third-party
-||axiom.co^$third-party
 ||azalead.com^$third-party
 ||azera-s014.com^$third-party
 ||azointel.com^$third-party
@@ -87026,6 +87033,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bmcm.pw^
 ||bmnr.pw^
 ||bmst.pw^
+||bmwebm.org^
 ||brominer.com^$third-party
 ||browsermine.com^$third-party
 ||candid.zone^
@@ -90798,6 +90806,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||openxcdn.net^$third-party
 ||optimeeze.appspot.com^
 ||optimizely.appspot.com^$third-party
+||optmn.cloud/hb/
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
 ||ordergroove.com/log/offer?
@@ -91552,6 +91561,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||veeseo.com/tracking/
 ||ventunotech.com/beacon/
 ||venturify.at/pixel/
+||vercel-vitals.axiom.co^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
 ||video-ad-stats.googlesyndication.com^
@@ -93074,6 +93084,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
+||collider.com/strpixel.png
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||connecteam.com/bi/api/ReportHit/
@@ -93203,7 +93214,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
-||extremetech.com/cszn/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||f362.nola.com^
 ||facebook.com/a/bz?
 ||facebook.com/ajax/*/log.php
@@ -108023,7 +108033,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|investing.com|lodgecastiron.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
