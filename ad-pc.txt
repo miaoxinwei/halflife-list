@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: s2OySly4loYHtiNVgu5FCw
+! Checksum: TbCgivwNtMpsF4PzIGhbGw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303150223
-! Last Modified: 2023年03月15日 02:23
+! Version: 202303150917
+! Last Modified: 2023年03月15日 09:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -16576,6 +16576,7 @@ _800x80_
 ##.content-box-inner-adsense
 ##.content-cliff__ad
 ##.content-cliff__ad-container
+##.content-contentad
 ##.content-footer-ad
 ##.content-footer-ad-block
 ##.content-header-ad
@@ -44693,7 +44694,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||rubyblu.com^$third-party
 ||salvador24.com^$third-party
 ||sape.ru^$third-party
-||saymedia.com^$third-party
 ||sba.about.co.kr^$third-party
 ||sbaffiliates.com^$third-party
 ||sbcpower.com^$third-party
@@ -48311,6 +48311,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||adform.net/serving/$third-party
 ||ads-yallo-production.imgix.net^
 ||ads.linkedin.com^$third-party
+||ads.saymedia.com^
 ||ads.servebom.com^
 ||ads.sportradar.com^
 ||ads.yahoo.com^$~image
@@ -54315,6 +54316,7 @@ calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
+decrypt.co##[style^="min-width: 728px;"]
 ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
 zenger.news##[style^="text-align:center;min-height:"]
@@ -54617,7 +54619,6 @@ gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 nohat.cc##div[style="min-height:250px"]
 askdifference.com##div[style="min-height:280px;"]
 bulbagarden.net##div[style="min-height:315px;"]
-metabattle.com##div[style="min-width: 300px; max-width: 300px; min-height: 250px; max-height: 250px; background: #1d1d1d; overflow: hidden;"]
 technical.city##div[style="padding-bottom: 20px"] > div[style="min-height: 250px"]
 bitcoin-otc.com##div[style="padding-left: 10px; padding-bottom: 10px; text-align: center; font-family: Helvetica;"]
 shaaditimes.com##div[style="padding: 5 0 0 0px; height: 138px; text-align:center; width:780px; background: url('/imgs/top-ad-bg.gif') repeat-x left bottom; background-color:#FFF9D0;"]
@@ -54651,6 +54652,7 @@ abcnews.go.com##div[style^="min-height: 90px"]
 gamerdvr.com##div[style^="min-height:"]
 news18.com##div[style^="min-height:1170px"]
 add0n.com##div[style^="min-height:90px"]
+decrypt.co,metabattle.com##div[style^="min-width: 300px;"]
 9gag.com##div[style^="position: relative; z-index: 10;"]
 keybr.com##div[style^="position:relative;min-width:"]
 gtaforums.com##div[style^="text-align: center; margin: 0px 0px 10px;"]
@@ -54880,6 +54882,7 @@ youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer
 youtube.com##.ytd-compact-promoted-video-renderer
 youtube.com##.ytd-companion-slot-renderer
+youtube.com##.ytd-in-feed-ad-layout-renderer
 youtube.com##.ytd-merch-shelf-renderer
 youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
@@ -55001,6 +55004,7 @@ independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[cl
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
+decrypt.co#?#span:-abp-contains(AD)
 protrumpnews.com#?#.show-on-ptn:-abp-has(.pre-announcement)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
@@ -56800,6 +56804,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/manduan-dev.oss-
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -59289,6 +59294,10 @@ newduba.cn###jq_youxi
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
+||jxjvtr.xyz^
+||godie.cyou^
+||qjoqos.xyz^
+||posdhu5.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -83906,6 +83915,7 @@ cgi-bin/counter
 /pixel.mathtag.com/*
 /pixel?cid=
 /pqt.email/o/*$image
+/prod-puc-all/*/open^$image
 /px/track?
 /redir.inxmail-commerce.com/r/*$image
 /rover.ebay.com/roveropen/*
@@ -87499,6 +87509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||billowybead.com^
 ||bitterbear.com^
 ||bizarrebaseball.com^
+||blackbrake.com^
 ||bleachbubble.com^
 ||blotburn.com^
 ||blushingbeast.com^
