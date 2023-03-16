@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fZ/l1K1wk+fSNY2bybWQ6w
+! Checksum: bEOyQzo9N6dMpHV6NEy+QQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303162031
-! Last Modified: 2023年03月16日 20:31
+! Version: 202303170219
+! Last Modified: 2023年03月17日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -23010,6 +23010,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||51cf9c517a.com^
 ||52c9f48b14.com^
 ||532xcxypmpnp.com^
+||53c2dtzsj7t1.top^
 ||54ec30c53d.com^
 ||550b3ikb9j.com^
 ||550c970411.com^
@@ -28688,6 +28689,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||dischargedecent.com^
 ||disconnectedponder.com^
 ||discordclosure.com^
+||discostcarafon.website^
 ||discountryvc.club^
 ||discounts4shops.com^
 ||discountwound.com^
@@ -38247,6 +38249,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||reople.co.kr^
 ||reoreexpresi.xyz^
 ||repairedbringstale.com^
+||repairedentrailstangle.com^
 ||repaul.com^
 ||repayrotten.com^
 ||repealamintor.com^
@@ -40927,6 +40930,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||tinbuadserv.com^
 ||tincalsamiably.website^
 ||tindocumentary.com^
+||tingedpapyrin.guru^
 ||tingshospical.xyz^
 ||tinkerta.com^
 ||tinkerwidth.com^
@@ -40942,6 +40946,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||tisate.com^
 ||tissuecameallowing.com^
 ||tissuespectrumadulthood.com^
+||tisszhb.cn^
 ||titanads1.com^
 ||titanads2.com^
 ||titanads3.com^
@@ -42706,6 +42711,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||win-bidding.com^
 ||winbestprizess.info^
 ||winbuyer.com^
+||windingnegotiation.com^
 ||windofaeolus.com^
 ||windoorsew.club^
 ||windowmentaria.com^
@@ -55070,6 +55076,8 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[jstcache] > a[href^="/aclk?"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##div[role="navigation"] + c-wiz > div > .kxhcC
 testpages.adblockplus.org###abptest
+msn.com###promotions
+msn.com##.bannerAdContainer-DS-EntryPoint1-1
 msn.com##.bing-native-ad
 msn.com##.dynamicRRWrapper
 msn.com##.galleryPage_eoabNativeAd-DS-EntryPoint1-1
@@ -55097,6 +55105,9 @@ msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[class^="galleryPage_bannerAd"]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 msn.com##div[data-section-id="stripe.bannernativead"]
+msn.com##div[data-t*="sponsored."]
+msn.com##msft-content-card[id^="contentcard_nativead-"]
+msn.com##msn-info-pane-panel[id^="tab_panel_nativead-"]
 bing.com###bepfo.popup[style^="visibility: visible"]
 bing.com##.ad_sc
 bing.com##.b_ad
@@ -55113,6 +55124,7 @@ sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
 slashdot.org#?#article:-abp-has(.ntv-sponsored-question)
 9gag.com#?#article:-abp-has(.promoted)
 decrypt.co#?#span:-abp-contains(AD)
+search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 protrumpnews.com#?#.show-on-ptn:-abp-has(.pre-announcement)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
@@ -57227,6 +57239,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /getfuolist|$xmlhttprequest
 /getGG.php?key=
 /gg.php
+/gg54.oss-
 /gg7f5kv/*
 /gg_d.php
 /gg_details_
@@ -57235,6 +57248,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /ggao/*
 /ggclass/*
 /ggdata1.
+/ggg530.oss-
 /ggjs/*
 /ggpic/*
 /ggtp/*
@@ -58345,6 +58359,7 @@ newduba.cn###jq_youxi
 ##a[href^="javascript:gl012"] + img
 ##a[id][href*="/?aff="]
 ##a[id][href*="/?register="]
+##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[onclick^="_czc."] > .add
 ##a[onclick^="_czc."] > .ads
@@ -58376,7 +58391,6 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
 ##div#xinxi
-##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##div[bannerlist]
 ~ix8.la##div[class^="ADTOPLB_"]
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
@@ -58553,6 +58567,7 @@ newduba.cn###jq_youxi
 ||8ccrv.xyz^
 ||8i3158.cn^
 ||94188.xyz^
+||9831tb.com^
 ||98dvu.fun^
 ||996000996.xyz^
 ||9bph.top^
@@ -58574,7 +58589,9 @@ newduba.cn###jq_youxi
 ||ahclyq.xyz^
 ||ahwiaw.xyz^
 ||aifwjekfe.xyz^
+||aijilu.xyz^
 ||aishan.shop^
+||aizhubo.co^
 ||ajfkwwpo.xyz^
 ||ajkcdpm.cn^
 ||akdashang.vip^
@@ -58824,6 +58841,7 @@ newduba.cn###jq_youxi
 ||huiyidui.com^
 ||huiyueting.com^
 ||hvhudp.xyz^
+||hyfumxc.cn^
 ||hzcp.fun^
 ||hzhuang.wang^
 ||i-fk.cn^
@@ -58903,6 +58921,7 @@ newduba.cn###jq_youxi
 ||kbbqwhf.cn^
 ||kbctii.xyz^
 ||kcedmk.xyz^
+||keika.cyou^
 ||keoap.xyz^
 ||keshidianhua.xyz^
 ||keysmw.xyz^
@@ -58910,6 +58929,7 @@ newduba.cn###jq_youxi
 ||kgacp.cyou^
 ||kingsun.online^
 ||kiymowg.cn^
+||kjvnfhdgb.com^
 ||kkqeqk.cn^
 ||kmzayrt.cn^
 ||knr1.xyz^
@@ -59150,7 +59170,9 @@ newduba.cn###jq_youxi
 ||rtsdfw44.com^
 ||rtycgmz.cn^
 ||ruiruiss.xyz^
+||rulwph.xyz^
 ||ruyqiolnz.cyou^
+||rwefsw55.com^
 ||rzlp.xyz^
 ||rzxov.cn^
 ||s3sng.cn^
@@ -59204,6 +59226,7 @@ newduba.cn###jq_youxi
 ||szsxy.vip^
 ||t3p58.com^
 ||tanghao.club^
+||tb3t.xyz^
 ||tehgfn.xyz^
 ||teowa.cyou^
 ||tfbulkidn.com^
@@ -59363,6 +59386,7 @@ newduba.cn###jq_youxi
 ||xylkpj.xyz^
 ||xyyejhm.cn^
 ||xznrtl.xyz^
+||y1990.pw^
 ||yang17.xyz^
 ||yanjiusuo.cc^
 ||ybfljs.com^
@@ -59371,6 +59395,7 @@ newduba.cn###jq_youxi
 ||yffjqvq.cn^
 ||yflog.me^
 ||yfmhik.xyz^
+||ygqrki.xyz^
 ||yhjh04.com^
 ||yhsfsdv03.com^
 ||yhtuchuang.com^
@@ -59378,6 +59403,7 @@ newduba.cn###jq_youxi
 ||yimao20230217.live^
 ||yinming.online^
 ||youed.cyou^
+||yoydmhb.cn^
 ||ypoiea.xyz^
 ||yqgpic.xyz^
 ||yretx.cn^
@@ -59421,18 +59447,6 @@ newduba.cn###jq_youxi
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zzxmcp.com^
-||y1990.pw^
-||hyfumxc.cn^
-||ygqrki.xyz^
-||tb3t.xyz^
-||rulwph.xyz^
-||kjvnfhdgb.com^
-||keika.cyou^
-||rwefsw55.com^
-||aizhubo.co^
-||aijilu.xyz^
-||yoydmhb.cn^
-||9831tb.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -67891,6 +67905,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||guang1.zhakao.cn^
 ||guanggaolianmeng.net/plushuan/ad_js.php?aid=
 ||gucheng.com/2016/ggimg/
+||gucheng.com/gcwad/
 ||guess.h.qhimg.com^
 ||guhai.com.cn/AD/
 ||guifun.com/psptool/ad/
@@ -70213,9 +70228,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-imydl.com##DIV[id*="banner"]
-imydl.com##DIV[class*="banner"]
-imydl.com###enhancedtextwidget-5
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -70743,6 +70755,7 @@ qq.com###emailLogin > .hd-slider
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###encourage_entry
 hc360.com###endAccessories1
 hc360.com###endAdBanner
+imydl.com###enhancedtextwidget-5
 ent.qq.com###ent_ad
 chinabidding.cn,chinabidding.com.cn###erweima_l
 chinabidding.cn,chinabidding.com.cn###erweima_r
@@ -74984,7 +74997,7 @@ hupu.com##div[class*="ad240-200"]
 hupu.com##div[class*="ad728-90"]
 hupu.com##div[class*="ad980-60"]
 zhibo8.cc##div[class*="advert"]
-52solution.com##div[class*="banner"]
+52solution.com,imydl.com##div[class*="banner"]
 efu.com.cn##div[class*="banner-"]
 udn.com##div[class*="edn-ads"]
 sina.com.cn##div[class*="farmpop"]
@@ -75119,6 +75132,7 @@ sm.cn##div[id*="_Shopping_Etao_"]
 8684.cn,8684.com##div[id*="adid"]
 codeleading.com##div[id*="ads"]
 e23.cn##div[id*="adv"]
+imydl.com##div[id*="banner"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
 jinti.com##div[id*="gg"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##div[id*="lottery"]
@@ -75566,6 +75580,7 @@ weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contain
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-auth-tag>div:-abp-contains(热推))
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class^="head-info_authtag_"]>img[src^="data"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(/商|上新|好物/))
 weibo.com#?#.wbpro-side-panel:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(商))
 weibo.com#?#tr:-abp-has(> .td-03 > .icon-txt-recommend)
 pcbeta.com#?##wp > div[class][id]:-abp-properties(width: 980px;)
