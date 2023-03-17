@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GdtsJnWPDOn2elOO3ukuDA
+! Checksum: c4y/IFKGPTlMhPOS+jTilA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303171418
-! Last Modified: 2023年03月17日 14:18
+! Version: 202303172030
+! Last Modified: 2023年03月17日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2725,6 +2725,11 @@ newduba.cn###jq_youxi
 ||mjxtiht.cn^
 ||jiangzhou.ltd^
 ||ajcnz1.com^
+||ke4x.xyz^
+||clqrdxc.cn^
+||heytapimage.com^$third-party
+||hlggimg.com^
+##A[href*="/ck345.cc"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13506,6 +13511,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+5dm.app##.top1
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -15313,7 +15319,7 @@ lenovo.com.cn##.adsense-wrap
 3dmgame.com##.adshop
 qinbing.cn##.adspic_mid2
 av.movie##.adss-160x600
-tmioe.com##.adtag + .entry-copyright
+tmioe.com##.entry-copyright
 chinaz.com,gw54.com,ofweek.com,xgw5.com,yawin.cn##.adtext
 92sucai.com##.adtg2
 gdmm.com##.adtop > .module
