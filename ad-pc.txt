@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZkLySQ4pQ38IxdwjC7NHdA
+! Checksum: PSyMg3cvyfkPQrONLrZ4aA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303192028
-! Last Modified: 2023年03月19日 20:28
+! Version: 202303200218
+! Last Modified: 2023年03月20日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -48660,6 +48660,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||cloud.setupad.com^
 ||cloudbet.com/ad/
 ||cloudfront.net^$domain=igg-games.com
+||cloudfront.net^*/sponsors/$domain=pbs.org
 ||coinmama.com/assets/img/banners/
 ||commercial.daznservices.com^
 ||couponcp-a.akamaihd.net^
@@ -50239,6 +50240,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||ports.co.za/banners/
 ||positivehealth.com/img/original/BannerAvatar/
 ||positivehealth.com/img/original/TopicbannerAvatar/
+||povvldeo.lol/js/fpu3/
 ||pressablecdn.com/wp-content/uploads/Site-Skin_update.gif$domain=bikebiz.com
 ||prewarcar.com/*-banners/
 ||products.gobankingrates.com^
@@ -50248,6 +50250,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||pubsrv.devhints.io^
 ||pururin.to/assets/js/pop.js
 ||qontent.powvibeo.me^
+||qontent.powzers.lol^
 ||radioreference.com/i/p4/tp/smPortalBanner.gif
 ||rafvertizing.crazygames.com^
 ||realpython.net/tag.js
@@ -54043,6 +54046,7 @@ minecraftlist.org##.stickywrapper
 romzie.com##.stksht
 dailyherald.com##.stnContainer
 dailycoffeenews.com##.story-ad-horizontal
+kayifamily.net##.stream-item
 siasat.com##.stream-item-below-post-content
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.stream-item-group-start[label="promoted"]
 coinpedia.org,siasat.com##.stream-item-inline-post
@@ -56252,6 +56256,7 @@ pornlib.com##a[href*="/linkout/"]
 mansurfer.com##a[href*="/out/"]
 avgle.com##a[href*="/redirect"]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
+youpornzz.com##a[href*="/videoads.php?"]
 pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
@@ -58534,17 +58539,18 @@ newduba.cn###jq_youxi
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
+##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
+##a[href="/iebhgeiruaksdjbgf/"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:window.GoTp();"]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
 ##a[href^="/hy-"][ontouchstart]
-##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
 ##a[href^="http://ad.moemoe."]
 ##a[href^="javascript:GoDb"]
@@ -58602,7 +58608,6 @@ newduba.cn###jq_youxi
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="position"][onclick^="window.open"]
 ##dl#listwoBox
-##a[href="/iebhgeiruaksdjbgf/"]
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -58645,6 +58650,7 @@ newduba.cn###jq_youxi
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
 ##a[href*=".aff007.pro"]
 ##a[href*=".app003.biz"]
@@ -58927,6 +58933,7 @@ newduba.cn###jq_youxi
 ||elsmom.xyz^
 ||ennde.cyou^
 ||ermao20230220.live^
+||etdcezc.cn^
 ||ethandataserver.love^
 ||etkht.cn^
 ||evunmc.xyz^
@@ -58951,6 +58958,7 @@ newduba.cn###jq_youxi
 ||fewsvuh.cn^
 ||ffdcpvv.cn^
 ||fhvbhx.xyz^
+||fillidutt.tw^
 ||fioem.cyou^
 ||fn9u.fun^
 ||fnkio.cyou^
@@ -58978,6 +58986,7 @@ newduba.cn###jq_youxi
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
 ||gomhn.cn^
@@ -59362,6 +59371,7 @@ newduba.cn###jq_youxi
 ||qwrot.cyou^
 ||qycfqk.xyz^
 ||qzeqjvo.cn^
+||qzhiku.cc^
 ||rardi.cyou^
 ||rayss.host^
 ||rdjnjz.xyz^
@@ -59462,6 +59472,7 @@ newduba.cn###jq_youxi
 ||tqxthzy.cn^
 ||traktalent.com^
 ||travescorylus.com^
+||tsck.online^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
 ||tuape.xyz^
@@ -59560,6 +59571,7 @@ newduba.cn###jq_youxi
 ||wusuliriver.com^
 ||wutou20230201.live^
 ||wwnyubs.cn^
+||wxzrw.com^
 ||wzkxke.xyz^
 ||wzrdbwf.cn^
 ||x3a88d.cn^
@@ -59668,15 +59680,8 @@ newduba.cn###jq_youxi
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
-||zzxmcp.com^
-||gkwrae.xyz^
-||fillidutt.tw^
 ||zyrwfd.xyz^
-||wxzrw.com^
-||qzhiku.cc^
-||etdcezc.cn^
-||tsck.online^
-##a[href$="/lm2p2.com"]
+||zzxmcp.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -81052,6 +81057,7 @@ fqsousou.com,kengso.com#@#.user-share
 /impression/stream/*
 /impression/track?
 /impression/widget?
+/impression?ad=
 /impression?bid
 /impression?rkey=
 /impression_logging
@@ -93652,6 +93658,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consent.ghostery.com/v1.js
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
+||conversion.mooncard.co^
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
@@ -94257,8 +94264,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sciencechannel.com/events/
 ||scloud.online/stat/
 ||scoot.co.uk/ajax/log_
+||search.anonymous.ads.brave.com^
 ||search.aol.com/beacon/
 ||search.brave.com/api/feedback$~third-party
+||search.brave.com/serp/v1/static/serp-js/telemetry/
 ||search.ch/audit/
 ||searchenginejournal.com/xcs0MhRsfxHG.js
 ||searchiq.co/api/tr?
@@ -99699,7 +99708,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||info.smartstrategyonline.com^
 ||info.solidscape.com^
 ||info.theaba.org^
-||info.themyersbriggs.com^
 ||info.tmlt.org^
 ||info.truemfg.com^
 ||info.txeee.engr.utexas.edu^
@@ -100800,7 +100808,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||info.smartstrategyonline.com^
 ||info.solidscape.com^
 ||info.theaba.org^
-||info.themyersbriggs.com^
 ||info.tmlt.org^
 ||info.truemfg.com^
 ||info.txeee.engr.utexas.edu^
@@ -101997,7 +102004,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||info.solidscape.com^
 ||info.tetravx.com^
 ||info.theaba.org^
-||info.themyersbriggs.com^
 ||info.thomsonlinear.com^
 ||info.tmlt.org^
 ||info.tpctraining.com^
@@ -108244,6 +108250,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||terra.com^*/td.asp?bstat
 ||todomercadoweb.es/pixel
 ||trrsf.com/metrics/
+||ubeat.tv/api/v1/sda/
 ||uecdn.es/js/pbmu.js
 ||unm.emol.com^
 ||wssgmstats.vibbo.com^
