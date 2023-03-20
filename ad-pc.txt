@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Biyv1fwbyTVTRxubj4HiUw
+! Checksum: IebXgR4SAtgQNi6yatmDJA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303202031
-! Last Modified: 2023年03月20日 20:31
+! Version: 202303210219
+! Last Modified: 2023年03月21日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -44889,6 +44889,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||prebidwrapper.com^$third-party
 ||prf.hn^$third-party
 ||primis-amp.tech^$third-party
+||profitsfly.com^$third-party
 ||promo-reklama.ru^$third-party
 ||proper.io^$third-party
 ||pubdirecte.com^$third-party
@@ -49943,6 +49944,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||tour.mrskin.com^$popup,third-party
 ||zillastream.com/api/$popup
 !----------------------Specific advert blocking filters-----------------------!
+/asgg.php$domain=ghostbin.me|paste.fo
 ||0xtracker.com/assets/advertising/
 ||123animehub.cc/final
 ||1337x.*/images/x28.jpg
@@ -50130,6 +50132,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||howtogermany.com/images/bnr-
 ||i-tech.com.au/media/wysiwyg/banner/
 ||iamcdn.net/players/playhydraxs.min.js$domain=player-cdn.com
+||ibb.co^$domain=ghostbin.me
 ||ice.hockey/images/sponsoren/
 ||iceinspace.com.au/iisads/
 ||iconfinder.com/static/js/istock.js
@@ -50147,7 +50150,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||imgdrive.net/ea/
 ||imgtaxi.com/ea/
 ||imgtaxi.com/ttb02673583fb.js
-||imgur.com^$domain=up-load.io
+||imgur.com^$domain=ghostbin.me|up-load.io
 ||imgwallet.com/ea/
 ||imp.accesstra.de^
 ||indiadesire.com/bbd/
@@ -52397,7 +52400,7 @@ arcadebomb.com##.bannerext
 2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
 saigoneer.com##.bannergroup-main
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
-domainnamewire.com,ghostbin.me,i24news.tv,marinetechnologynews.com,maritimepropulsion.com,mumbrella.com.au,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
+domainnamewire.com,ghostbin.me,i24news.tv,marinetechnologynews.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,petapixel.com,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
 theportugalnews.com##.banners-250
 rt.com##.banners__border
 unixmen.com##.banners_home
@@ -54635,6 +54638,7 @@ sashares.co.za##a[data-wpel-link="external"]
 imgpile.com,linuxjournal.com,threatpost.com##a[href*="&utm_campaign="]
 msn.com##a[href*=".booking.com/"]
 walmart.ca##a[href*=".criteo.com/"]
+ghostbin.me##a[href*=".short.gy/"]
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
 chicagoprowrestling.com##a[href*="//www.aliciashouse.org/"] > img
 itweb.co.za##a[href*="/adclick.php?"]
@@ -54655,6 +54659,7 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[hr
 coolors.co##a[href*="srv.Buysellads.com"]
 unitconversion.org##a[href="../noads.html"]
 osradar.com##a[href="http://insiderapps.com/"]
+ghostbin.me##a[href="https://paste.fo/adspot"]
 nzbstars.com##a[href="usenetbucket.php"]
 techporn.ph##a[href][target*="blank"]
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##a[href][target="_blank"] > button
@@ -54669,6 +54674,7 @@ linkhub.icu##a[href^="/linknow.php?"]
 unblockit.boo##a[href^="/netflixPromo"]
 tehrantimes.com##a[href^="/redirect/ads/"]
 xbox-hq.com##a[href^="banners.php?"]
+ghostbin.me##a[href^="http://bit.ly/"]
 dvdtalk.com##a[href^="http://dvdtalk.pricegrabber.com/"]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 notbanksyforum.com##a[href^="http://l-13.org/"]
@@ -57124,7 +57130,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
-/tm00738.bj.
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -57732,6 +57737,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /tigtag_custom/include/couplet.
 /tigtag_custom/include/popup.
 /tisai/img/nav_980_90.gif
+/tm00738.bj.
 /tourl.html?url=
 /tt_gb/skin_js/gg.js
 /tuiguang/*$domain=~jikexiu.com|~jikexiu.vip
@@ -58220,6 +58226,7 @@ newduba.cn###jq_youxi
 ##.bannerliststyle[style^="min-height"]
 ##.bdyp-sygg-ul
 ##.below_ads
+##.bg > img[src*=".meituan.net"]
 ##.bjxhf
 ##.bm.a_c
 ##.bn728-100
@@ -58763,6 +58770,8 @@ newduba.cn###jq_youxi
 ||8499223.com^
 ||8499234.com^
 ||8499258.com^
+||8861200.com^
+||8861201.com^
 ||8861202.com^
 ||8881img.com^
 ||8886i.top^
@@ -58818,6 +58827,8 @@ newduba.cn###jq_youxi
 ||atnnf.xyz^
 ||atuhi.cyou^
 ||avgsco.xyz^
+||avkw.cn^
+||baidujsvbj.com^
 ||banhui.xyz^
 ||bavxxf.xyz^
 ||bddwm.com^
@@ -58906,6 +58917,7 @@ newduba.cn###jq_youxi
 ||dhl4.xyz^
 ||diqizu.xyz^
 ||diwok.cyou^
+||dmqi.ltd^
 ||doracms.cn^
 ||doublechen.online^
 ||doubleclicks.biz^
@@ -58952,6 +58964,7 @@ newduba.cn###jq_youxi
 ||fcgphtr.cn^
 ||fdbskb.cn^
 ||fdgem.com^
+||fdhvczd.cn^
 ||fds-1230.cc^
 ||fdtrjz.xyz^
 ||feixun.info^
@@ -58977,6 +58990,7 @@ newduba.cn###jq_youxi
 ||fyfvaxi.cn^
 ||fyzbvwb.cn^
 ||fzbkgni.cn^
+||fzf1.top^
 ||g2qb.top^
 ||g8ld.fun^
 ||gadscc.xyz^
@@ -59027,6 +59041,7 @@ newduba.cn###jq_youxi
 ||hibaby.ren^
 ||hioek.cyou^
 ||hiqrnyn.cn^
+||hitubt.xyz^
 ||hkbzl.hk^
 ||hladalliance.com^
 ||hlggimg.com^
@@ -59178,6 +59193,7 @@ newduba.cn###jq_youxi
 ||lgugsnp.cn^
 ||lgxm.cool^
 ||lh54.top^
+||lianyi.wang^
 ||lijie.in^
 ||linkpicture.com^$third-party
 ||liutou20230203.live^
@@ -59201,6 +59217,7 @@ newduba.cn###jq_youxi
 ||lzzzjx.xyz^
 ||m6ku1.cn^
 ||maccms10.cn^
+||malong.plus^
 ||mbepa.xyz^
 ||mbqwwa.cn^
 ||mdcxyo.xyz^
@@ -59299,6 +59316,7 @@ newduba.cn###jq_youxi
 ||oroqikj.cn^
 ||osalwqv.cn^
 ||oulibf.xin^
+||ouypyu.xyz^
 ||owihyg.xyz^
 ||oyqjp.cn^
 ||p23jac.top^
@@ -59407,6 +59425,7 @@ newduba.cn###jq_youxi
 ||salangane.asia^
 ||sange20221226.xyz^
 ||sangoo.top^$third-party
+||sanqian.pro^
 ||santou20230127.live^
 ||sc4mh.cn^
 ||scbt.asia^
@@ -59475,6 +59494,7 @@ newduba.cn###jq_youxi
 ||traktalent.com^
 ||travescorylus.com^
 ||tsck.online^
+||tt-baidu.xyz^
 ||ttdydd.xyz^
 ||ttzhongbao.com^
 ||tuape.xyz^
@@ -59684,17 +59704,6 @@ newduba.cn###jq_youxi
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||lianyi.wang^
-||hitubt.xyz^
-||ouypyu.xyz^
-||dmqi.ltd^
-||avkw.cn^
-||sanqian.pro^
-||tt-baidu.xyz^
-||fdhvczd.cn^
-||8861201.com^
-||8861200.com^
-||baidujsvbj.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
