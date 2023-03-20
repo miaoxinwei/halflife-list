@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 82SqOgTHPQkyDc6EPLLsag
+! Checksum: 7brlBr/82LcyVek1oYUTiw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303201420
-! Last Modified: 2023年03月20日 14:20
+! Version: 202303202031
+! Last Modified: 2023年03月20日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57012,6 +57012,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/tm00738.bj.
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -59578,6 +59579,10 @@ newduba.cn###jq_youxi
 ||avkw.cn^
 ||sanqian.pro^
 ||tt-baidu.xyz^
+||fdhvczd.cn^
+||8861201.com^
+||8861200.com^
+||baidujsvbj.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
