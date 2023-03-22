@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4Ha70bqxZyFangRpZYsmVg
+! Checksum: IrgyC0c7MBNUUXix+hTJHg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303220218
-! Last Modified: 2023年03月22日 02:18
+! Version: 202303220913
+! Last Modified: 2023年03月22日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54064,7 +54064,7 @@ sundayworld.co.za##.spnsorhome
 mydramalist.com##.spnsr
 worldtimezone.com##.spon-menu
 xda-developers.com##.spon_banner
-cd1025.com,centos.org,domainincite.com,europages.co.uk,gamingcloud.com,ijr.com,kpbs.org,phillyvoice.com,phish.report,speedcafe.com,thefederalistpapers.org,thegatewaypundit.com,ufile.io,westernjournal.com,wnd.com##.sponsor
+andrewlock.net,cd1025.com,centos.org,domainincite.com,europages.co.uk,gamingcloud.com,ijr.com,kpbs.org,phillyvoice.com,phish.report,speedcafe.com,thefederalistpapers.org,thegatewaypundit.com,ufile.io,westernjournal.com,wnd.com##.sponsor
 cssbattle.dev##.sponsor-container
 dallasinnovates.com##.sponsor-footer
 jquery.com##.sponsor-line
@@ -58637,7 +58637,7 @@ newduba.cn###jq_youxi
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
-##a[href="/iebhgeiruaksdjbgf/"]
+##a[href="/sdjgnijebw/"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
@@ -59798,6 +59798,12 @@ newduba.cn###jq_youxi
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
+||dqsrnfg.cn^
+||wocoqs.xyz^
+||pcxtvr.xyz^
+||658bbb.us^
+||aguterl.cn^
+##a[href$="/lm8fj.com"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
