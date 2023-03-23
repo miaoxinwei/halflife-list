@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1qY3oPf/PFc1GsBNj55oFQ
+! Checksum: 0vNyW4683no1IFhn976cgg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303232030
-! Last Modified: 2023年03月23日 20:30
+! Version: 202303240218
+! Last Modified: 2023年03月24日 02:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -22710,6 +22710,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||1xroom.com^
 ||200088d4e2.com^
 ||2020mustang.com^
+||2022welcome.com^
 ||20239be1ae.com^
 ||2036369798.com^
 ||206ads.com^
@@ -24955,6 +24956,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||architectwithdraw.com^
 ||archivesheliumangeles.com^
 ||archivesleadership.com^
+||archseebloated.com^
 ||arcost54ujkaphylosuvaursi.com^
 ||arcquestioningjersey.com^
 ||arcualstymie.com^
@@ -28114,6 +28116,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||currol.com^
 ||curseintegralproduced.com^
 ||cursormedicabnormal.com^
+||cursorsympathyprime.com^
 ||curtainsenslavewash.com^
 ||curtisbarways.com^
 ||curtlychit.com^
@@ -29405,6 +29408,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||eeksidro.com^
 ||eelipaus.net^
 ||eemedlikeama.xyz^
+||eemmlhcuydso.com^
 ||eempacmy.com^
 ||eengilee.xyz^
 ||eensoans.com^
@@ -30911,6 +30915,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||geodaljoyless.com^
 ||geoffreymailcollar.com^
 ||geoinventory.com^
+||geolsoul.life^
 ||geoneduropheg.info^
 ||georgianabamboorehearse.com^
 ||gepsuzogra.com^
@@ -31262,6 +31267,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||got-to-be.com^
 ||gotakemedia1.ru^
 ||gotbstgifts.click^
+||gotchaih.com^
 ||gotibetho.pro^
 ||gotinbode.com^
 ||gotinbode.xyz^
@@ -35196,6 +35202,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||napcinfeyvcgypd.com^
 ||napesropes.com^
 ||napkinlucent.com^
+||nappespatois.com^
 ||nappybedcandid.com^
 ||napsut.com^
 ||narenrosrow.com^
@@ -42186,6 +42193,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||valgoidaguglia.guru^
 ||valiantsubquery.com^
 ||validsquatcyber.com^
+||valiumbessel.com^
 ||valleyneatens.com^
 ||valleysupervisesecret.com^
 ||valonghost.xyz^
@@ -42778,6 +42786,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||wecouldle.com^
 ||wedneckekij.club^
 ||wednesdaynaked.com^
+||wedxuaksargvlf.com^
 ||weedazou.net^
 ||weedfowlsgram.com^
 ||weednewspro.com^
@@ -42912,6 +42921,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||whoocmee.net^
 ||whoognoz.com^
 ||whoostoo.net^
+||whoostoo.xyz^
 ||whootapt.com^
 ||whootascots.com^
 ||whootkhankah.com^
@@ -55348,6 +55358,7 @@ youtube.com###merch-shelf
 youtube.com###pla-shelf
 youtube.com###player-ads
 youtube.com###video-masthead
+youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
 youtube.com##.list-view[style="margin: 7px 0pt;"]
 youtube.com##.promoted-sparkles-text-search-root-container
@@ -58721,11 +58732,11 @@ newduba.cn###jq_youxi
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
 ##a[href="/bbs/"] > img[src*=".bcebos.com"]
+##a[href="/dngiauwbeib/"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
-##a[href="/sdjgnijebw/"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
@@ -58998,6 +59009,7 @@ newduba.cn###jq_youxi
 ||arks.red^
 ||ascloud.tech^
 ||asdffe22.com^
+||asdx55.com^
 ||asoeasy.cn^
 ||aswtai.xyz^
 ||atnnf.xyz^
@@ -59082,6 +59094,7 @@ newduba.cn###jq_youxi
 ||dcvbnzss.xyz^
 ||ddqhnjb.cn^
 ||dedcrfvdj.xyz^
+||delamer.ltd^
 ||dengtao.link^
 ||deude.ltd^
 ||df-long.cn^$third-party
@@ -59108,6 +59121,7 @@ newduba.cn###jq_youxi
 ||dreanrh.cn^
 ||drfvtgbyk.xyz^
 ||dsfd67.com^
+||dspczg.pw^
 ||dtckvpc.cn^
 ||dvbuxcl.cn^
 ||dvrnszf.cn^
@@ -59440,6 +59454,7 @@ newduba.cn###jq_youxi
 ||mvfrcio.cn^
 ||mxj.cx^
 ||mzwzo.cn^
+||mzybirdnest.com^
 ||n0544.com^
 ||n0644.com^
 ||nai7.xyz^
@@ -59502,6 +59517,7 @@ newduba.cn###jq_youxi
 ||opikervop.xyz^
 ||oqeohuc.cn^
 ||oqxep.cn^
+||orgaorg.com^
 ||oronwg.xyz^
 ||oroqikj.cn^
 ||osalwqv.cn^
@@ -59601,6 +59617,7 @@ newduba.cn###jq_youxi
 ||rkv9.top^
 ||rmccajg.cn^
 ||rooby.cyou^
+||rourouwu.uk^
 ||rsmdlk.cn^
 ||rtcegcp.cn^
 ||rthmnj.xyz^
@@ -59847,6 +59864,7 @@ newduba.cn###jq_youxi
 ||yanjiusuo.cc^
 ||ybfljs.com^
 ||yc444.cn^
+||ychuanyi.ltd^
 ||yemueii.cn^
 ||yeriri.ltd^
 ||yffjqvq.cn^
@@ -59886,6 +59904,7 @@ newduba.cn###jq_youxi
 ||zcczrvsaqw.world^
 ||zchkz.cn^
 ||zczcvx.com^
+||zdabnt.live^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
@@ -59903,20 +59922,12 @@ newduba.cn###jq_youxi
 ||zsjyuet.cn^
 ||ztwrnpd.cn^
 ||ztxstudy.club^
+||zukddms.cn^
 ||zunnnh.xyz^
 ||zxfas56.com^
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||asdx55.com^
-||rourouwu.uk^
-||dspczg.pw^
-||delamer.ltd^
-||ychuanyi.ltd^
-||zukddms.cn^
-||asdx55.com^
-||mzybirdnest.com^
-||orgaorg.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -70701,7 +70712,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-extfans.com##.b-ad-1
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -71871,6 +71881,7 @@ ruyo.net###sidebar > :not(:first-child):not(:last-child):not([id^="recent-posts"
 ipcfun.com###sidebar > ul > div[style]
 iplaysoft.com###sidebar > ul > li[class^="widget"]:nth-child(-n+3)
 ipcfun.com###sidebar > ul > li[style]
+jandan.net###sidebar > ul[style="height:480px"]
 mpyit.com###sidebar a > img
 gaoqingw.com###sidebar a[href^="http"]:not([href*="gaoqingw"])
 appinn.com###sidebar a[rel*="sponsored"]
@@ -72614,6 +72625,7 @@ acwifi.net##.article-content > div[style="float: none; margin:10px 0 10px 0; tex
 cnbeta.com##.article-global
 m.cnbeta.com##.article-hd + div[style="text-align:center"]
 sina.cn##.article-sax
+fastadmin.net##.article-section + div .img-responsive
 woshipm.com##.article-topAd
 cnbeta.com##.article-topic
 sm.cn##.article.ali_row + #sc ~ .article.ali_row
@@ -72648,6 +72660,7 @@ dcloud.net.cn##.aw-ad-item
 pincong.rocks##.aw-mod > a[target="_blank"]
 tophub.today##.ax
 kknews.cc,read01.com##.axslot
+extfans.com##.b-ad-1
 newsmth.net##.b-content > #sogou_banner:nth-child(3)
 360kan.com##.b-ifradjx
 gamer.com.tw##.b-list_ad
@@ -73512,6 +73525,7 @@ dalipan.com##.hongbao-wrap
 pconline.com.cn##.hongbao_1111
 tieba.baidu.com##.hongbao_page_pop_common
 mtrend.cn##.hongbaotips
+fastadmin.net##.hot-article + .panel-default
 duba.com##.hot-bottom
 fanyi.baidu.com##.hot-link-middle
 douyu.com##.hot-sign-1
@@ -76960,11 +76974,11 @@ jmcomic1.city,jmcomic1.win##a[href^="http"]:not([href*="jmcom"]) > img
 !#7
 !#8
 !#91porny.com
-##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
 ##.btn-outline-primary[href*=".cc"]
-||27gh.cc^$popup,third-party
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
+##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
+||27gh.cc^$popup,third-party
 !#99re.com
 .gif|$domain=99re.com
 /99rejs/js/adv
@@ -87967,6 +87981,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colossalchance.com^
 ||colossalclouds.com^
 ||colossalcoat.com^$third-party
+||combativecar.com^
 ||combativedetail.com^
 ||combbit.com^
 ||combclover.com^
