@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tPI/XTt935NX+84/MLqSIw
+! Checksum: /xkn9dhl1WAqFUX5ZYHoAA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202303240912
-! Last Modified: 2023年03月24日 09:12
+! Version: 202303241418
+! Last Modified: 2023年03月24日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1287,7 +1287,6 @@ tieba.baidu.com##.tuijian-wrap
 /adentry.
 /adevent.$domain=~adevent.com
 /adevents.$domain=~adevents.com|~adevents.com.au|~adevents.nl
-/adex.js
 /adexternal.
 /adfactor_
 /adfactory-
@@ -3925,7 +3924,6 @@ tieba.baidu.com##.tuijian-wrap
 /searchad.
 /searchad_
 /secureads.
-/securepubads.
 /select_adv?
 /serv.ads.
 /servads.
@@ -4467,7 +4465,6 @@ tieba.baidu.com##.tuijian-wrap
 ?adPageCd=
 ?adsdata=
 ?adsite=
-?adsize=
 ?adslot=
 ?adspot_
 ?adTagUrl=
@@ -21602,11 +21599,13 @@ _800x80_
 ##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://antiagingbed.com/discount/"] > img
 ##[href^="https://awbbjmp.com/"]
+##[href^="https://charmingdatings.life/"]
 ##[href^="https://cipledecline.buzz/"]
 ##[href^="https://click2cvs.com/"]
 ##[href^="https://cpa.10kfreesilver.com/"]
 ##[href^="https://detachedbates.com/"]
 ##[href^="https://engine.gettopple.com/"]
+##[href^="https://fancentro.com/"]
 ##[href^="https://glersakr.com/"]
 ##[href^="https://go.4rabettraff.com/"]
 ##[href^="https://go.affiliatexe.com/"]
@@ -44578,8 +44577,8 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||domainadvertising.com^$third-party
 ||domainsponsor.com^$third-party
 ||dotomi.com^$third-party
-||doubleclick.com^$third-party
-||doubleclick.net^$third-party
+||doubleclick.com^
+||doubleclick.net^
 ||dpbolvw.net/image-
 ||dpbolvw.net/placeholder-
 ||dreamaquarium.com^$third-party
@@ -52337,6 +52336,7 @@ albertsons.com##.abs-carousel-proxy > [aria-label="Promo or Ad Banner"]
 gamesystemrequirements.com##.act_eng
 11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,abovethelaw.com,adelaidenow.com.au,adtmag.com,aero-news.net,airportia.com,americanprofile.com,appleinsider.com,arstechnica.com,articlealley.com,as.com,asianwiki.com,associationsnow.com,autoevolution.com,autoguide.com,automation.com,autotrader.com.au,bab.la,barchart.com,bdnews24.com,beinsports.com,bgr.in,biometricupdate.com,bloomberg.com,boats.com,bobvila.com,booksourcemagazine.com,bostonglobe.com,bradleybraves.com,breitbart.com,businessdailyafrica.com,businessinsider.com,businesstech.co.za,c21media.net,cbc.ca,cbs19.tv,cd1025.com,celebdigs.com,celebified.com,ch-aviation.com,chargedevs.com,cheboygannews.com,chemistryworld.com,chinahush.com,citysearch.com,clacified.com,cnn.com,cnnphilippines.com,colourlovers.com,comicbookmovie.com,computerworld.com,couriermail.com.au,cpuboss.com,cracked.com,createtv.com,crossmap.com,crosswalk.com,csoonline.com,cxpress.co.za,cyberscoop.com,dailycaller.com,dailylobo.com,dailyparent.com,dailytarheel.com,dawn.com,dealnews.com,defenseone.com,discordbotlist.com,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.in,downdetector.sg,dpreview.com,drinksmixer.com,earlygame.com,edmontonjournal.com,emoji.gg,excellence-mag.com,exchangerates.org.uk,familydoctor.org,fanpop.com,federalnewsnetwork.com,femalefirst.co.uk,firstcoastnews.com,foodandwine.com,fool.com,footyheadlines.com,forvo.com,fox6now.com,foxafrica.com,foxbusiness.com,foxnews.com,fxnowcanada.ca,gayvegas.com,gcn.com,geelongadvertiser.com.au,go.com,golfweather.com,gpuboss.com,greenbot.com,gtplanet.net,heraldsun.com.au,hodinkee.com,i24news.tv,inc-aus.com,indiatvnews.com,indiewire.com,infoworld.com,inhabitat.com,insider.com,instadp.com,instyle.com,interfax.com.ua,investsmart.com.au,jscompress.com,kagstv.com,kare11.com,kcentv.com,kedglobal.com,kens5.com,kgw.com,khou.com,kiiitv.com,king5.com,koreabang.com,krem.com,ksdk.com,ktvb.com,kusports.com,kvue.com,lagom.nl,lawrence.com,leaderpost.com,lifezette.com,looktothestars.org,mangarockteam.com,marketwatch.com,maxpreps.com,mcpmag.com,metager.org,minecraftmods.com,minimal.gallery,modernretail.co,monitor.co.ug,motherjones.com,motorcycle.com,movieweb.com,mprnews.org,msn.com,mybroadband.co.za,myfitnesspal.com,myfox8.com,myfoxzone.com,mygaming.co.za,myrecipes.com,namibtimes.net,nejm.org,networkworld.com,newbeauty.com,news.com.au,news.sky.com,newscentermaine.com,newsday.com,newstimes.com,ny1.com,nycgo.com,nymag.com,nytco.com,nytimes.com,nytimes3xbfgragh.onion,nzherald.co.nz,odometer.com,offbeat.com,onlinenepaltimes.com,ovationtv.com,patch.com,patheos.com,pcgamesn.com,picmix.com,planelogger.com,playsnake.org,playtictactoe.org,pokertube.com,politico.com,politico.eu,popsugar.com,popsugar.com.au,powernationtv.com,prepperwebsite.com,quackit.com,ranker.com,ratemds.com,ratemyprofessors.com,redmondmag.com,refinery29.com,roadsideamerica.com,salisburypost.com,sbs.com.au,seattletimes.com,segmentnext.com,shtfplan.com,simpledesktops.com,slickdeals.net,slippedisc.com,smartcompany.com.au,smsfi.com,softpedia.com,soranews24.com,spot.im,spryliving.com,statenews.com,statscrop.com,stocktwits.com,straight.com,streetinsider.com,stv.tv,stylenest.co.uk,talkandroid.com,techdirt.com,thecitizen.co.tz,thecurrent.org,thecut.com,thedigitalfix.com,thedp.com,theeastafrican.co.ke,thefader.com,thefirearmblog.com,thegrocer.co.uk,thejournal.co.uk,themercury.com.au,thenation.com,theringreport.com,thestarphoenix.com,thv11.com,time.com,today.com,topgear.com,townhall.com,travelocity.com,tribalfootball.com,tribecafilm.com,triblive.com,tripadvisor.ca,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.ie,tripadvisor.in,trucktrend.com,truecar.com,tvmaze.com,tweaktown.com,ultimatespecs.com,uptodown.com,userstyles.org,usmagazine.com,usnews.com,vancouversun.com,vid.gg,vogue.in,vulture.com,wamu.org,washingtontimes.com,watzatsong.com,wbir.com,wcnc.com,weathernationtv.com,weatheronline.co.uk,webestools.com,webmd.com,weeklytimesnow.com.au,wegotthiscovered.com,wfaa.com,wfmynews2.com,wgnt.com,wgntv.com,wgrz.com,whas11.com,wildcat.arizona.edu,windsorstar.com,winnipegfreepress.com,wkyc.com,wltx.com,wnep.com,worthplaying.com,wqad.com,wral.com,wrif.com,wtsp.com,wusa9.com,wwltv.com,www.kpopstarz.com,wzstats.gg,wzzm13.com,x17online.com,yidio.com,yorkpress.co.uk##.ad
 allbusiness.com##.ad--tag
+buzzfeed.com##.ad-awareness
 androidauthority.com,courthousenews.com,imgmak.com,infobel.com,linkedin.com,soundguys.com##.ad-banner
 home-designing.com,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
@@ -53004,7 +53004,7 @@ exeo.app,forex-gold.net,mangarockteam.com##.demand-supply
 cardealermagazine.co.uk##.desktop
 rok.guide##.desktop-promo-banner
 tiermaker.com##.desktop-sticky
-buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
+buzzfeed.com,buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
 hanime.tv##.desktop.htvad
 randomarchive.com##.desktop[style="text-align:center"]
 coingape.com##.desktopds
@@ -53059,6 +53059,7 @@ digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 digitaltrends.com##.dtvideos-container
 digitaltrends.com##.dtvideos-recommended
+everythingrf.com##.dummydiv
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
 etherscan.io##.dxddkdcp7wz
@@ -58793,7 +58794,7 @@ newduba.cn###jq_youxi
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
 ##a[href="/bbs/"] > img[src*=".bcebos.com"]
-##a[href="/dngiauwbeib/"]
+##.adlistcss
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
@@ -59995,6 +59996,8 @@ newduba.cn###jq_youxi
 ||xwbspx.xyz^
 ||eignky.xyz^
 ||kiuee8.com^
+||3tf.co^
+||jpzsmbp.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -78908,8 +78911,6 @@ fqsousou.com,kengso.com#@#.user-share
 &t=pageview&
 &tag=IMPRESSION&
 &visitorUuid=
--action/fingerprint?
--action/ping?
 -ad-targeting?
 -adobe-analytics.
 -adobe-analytics/
@@ -79037,8 +79038,6 @@ fqsousou.com,kengso.com#@#.user-share
 .php?stats=
 .php?tracking=
 .pixel.archive.
-.pixel?*&event_
-.pixel?record_
 .pl?trans.gif&ref=
 .pt/n.gif?
 .redux-logger-
@@ -79069,7 +79068,6 @@ fqsousou.com,kengso.com#@#.user-share
 /1pixel.php
 /1px.gif?
 /1px.php?
-/1x1.dyn?
 /1x1.gif?
 /1x1.png?
 /2.gif?
@@ -79093,7 +79091,6 @@ fqsousou.com,kengso.com#@#.user-share
 /_/api/v2/analytics/?
 /_/lite/performance/*
 /_/oh-noes$~third-party,xmlhttprequest
-/__analytics/*
 /__imp_apg__/*
 /__rmn.gif?
 /__ssobj/core.js
@@ -79117,7 +79114,6 @@ fqsousou.com,kengso.com#@#.user-share
 /_visitcount?
 /a-stat.
 /a.gif?
-/a/analytics/*
 /a8c-analytics.
 /a8c-analytics/*
 /aap/stats
@@ -79131,27 +79127,17 @@ fqsousou.com,kengso.com#@#.user-share
 /acbeacon2.
 /accessanalyzer/tracker?
 /AccessCounter/*
-/accesslog?
 /accip_script.js
 /acclog.cgi?
-/account-stats/*
 /acecounter/*
 /acecounter_
 /acounter.php?
 /act_pagetrack.
 /action/analytics
 /ActionLogger?
-/activities/logger/*
 /activity-track/?
 /activity.gif?
-/activity_log.
-/activityloggingapi/*
-/acv?camp=
-/acv?extcmp=
-/acv?utm_
-/ad-blocker-stats.
 /ad-iptracer.
-/ad/no_cookie?
 /AD/PageHits.
 /ad/statistic
 /ad_tracking.
@@ -79178,7 +79164,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adds/counter.js
 /addstats?callback=
 /adform_sync.
-/adframestats|
 /adinfo?
 /adlogger.
 /adm_tracking.js
@@ -79203,7 +79188,6 @@ fqsousou.com,kengso.com#@#.user-share
 /AdobeAnalyticsAndTargetOverwrites.
 /AdobeAnalyticsBundle.
 /AdobeAnalyticsEvent.
-/AdobeAnalyticsSDK.
 /adobeMonitor.
 /adobevideoheartbeat.
 /adpixel.
@@ -79212,7 +79196,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adrum.
 /adrum_
 /ads/counter.
-/ads/track.
 /ads/track/*
 /ads?cookie_
 /adsct?
@@ -79251,7 +79234,6 @@ fqsousou.com,kengso.com#@#.user-share
 /agwebtracking_
 /ahoy/events
 /ahoy/visits
-/aicon_track.
 /aimp.php?
 /AIT_Analytics.
 /ajax-hits-counter/*
@@ -79276,11 +79258,7 @@ fqsousou.com,kengso.com#@#.user-share
 /akamai/pixy.gif
 /akamai_analytics_
 /AkamaiAnalytics.
-/alexa.aspx?site=
 /alog.min.js
-/alog/dp.
-/altpracenje.js
-/altpwk.js
 /alweb.rfk.
 /amazon-affiliate-
 /amp-access/cta/*
@@ -79291,7 +79269,6 @@ fqsousou.com,kengso.com#@#.user-share
 /amp-analytics-
 /amp-analytics/*
 /amp-call-tracking-
-/amp-omniture-iframe?
 /amp-skimlinks-
 /amp-story-auto-analytics-
 /amp-tealium?
@@ -79304,12 +79281,9 @@ fqsousou.com,kengso.com#@#.user-share
 /amp_pingback/*
 /ampmetrics.
 /amptrack.
-/amunglite.
 /analys/dep/*
 /analyse.js
 /analysis-logger/*
-/analysis/ga_
-/analysis/gtm_
 /analysis?t=
 /analysisTag.js
 /analytic-client.
@@ -79352,7 +79326,6 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics-post-
 /analytics-pusher/*
 /analytics-reporter/*
-/analytics-savebt?
 /analytics-scripts.
 /analytics-sdk.
 /analytics-secure.
@@ -79375,7 +79348,6 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics.do
 /analytics.gif?
 /analytics.html?
-/analytics.init.js
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -79455,11 +79427,8 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics/sockjs.
 /analytics/tags
 /analytics/tagx-
-/analytics/tealium-
 /analytics/timeme.
 /analytics/timing
-/analytics/tms_
-/analytics/tools_
 /analytics/track-
 /analytics/track.
 /analytics/track/*
@@ -79486,7 +79455,6 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics?body=
 /analytics?http_referer
 /analytics?token=
-/analytics?url=
 /analytics?vv_events=
 /analytics_embed.
 /analytics_frame.
@@ -79569,7 +79537,6 @@ fqsousou.com,kengso.com#@#.user-share
 /api/video/stats/*$xmlhttprequest
 /api_ip_info.
 /apilog?
-/apis/cpt.php?
 /apis/facebook_conversion
 /apis/track_view_product
 /apixel?
@@ -79585,7 +79552,6 @@ fqsousou.com,kengso.com#@#.user-share
 /AppMeasurement2.js
 /AppMeasurement_Module_
 /AppMeasurementCustom.
-/apTracker.
 /aptrk.js
 /aqtag.
 /ard.png?
@@ -79604,7 +79570,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ArticleLog.aspx?
 /articleOmnitureTracking.
 /ArticleViewTracking/*
-/asdf/tracking-
 /asknet_tracking.
 /aslog.php?
 /aspenanalytics.
@@ -79617,7 +79582,6 @@ fqsousou.com,kengso.com#@#.user-share
 /assets/ga.js
 /assets/smarttag-$script
 /assets/tracking-
-/assign.gif?
 /assignments/impressions
 /AssyncCSStats.aspx
 /astrack.js
@@ -79660,7 +79624,6 @@ fqsousou.com,kengso.com#@#.user-share
 /avtstats.
 /aw-tracker.
 /awAnalytics.
-/awe/ccs.
 /awesc.php?
 /awin?awc=$image
 /awp.log
@@ -79714,8 +79677,6 @@ fqsousou.com,kengso.com#@#.user-share
 /bcsensor.js
 /bctrackers/*
 /bdanalytics.
-/bdash_log.
-/bdg-analytics.
 /bdg.gif?
 /beacon-cookie.
 /beacon.cgi?
@@ -79739,7 +79700,6 @@ fqsousou.com,kengso.com#@#.user-share
 /beacon/metrics
 /beacon/page?
 /beacon/perf
-/beacon/portal-lite?
 /beacon/receive
 /beacon/stats
 /beacon/timing?
@@ -79778,7 +79738,6 @@ fqsousou.com,kengso.com#@#.user-share
 /biyfn/notify.
 /bizo.js
 /bk-coretag.js
-/bkclick?
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
@@ -80271,7 +80230,6 @@ fqsousou.com,kengso.com#@#.user-share
 /countercgi.
 /countercollector/*
 /counterFooterFlash.
-/counters/pages?
 /countertab.js?
 /countHits.
 /countinj.cgi?
@@ -80407,7 +80365,6 @@ fqsousou.com,kengso.com#@#.user-share
 /disp_cnt.
 /dispatch.fcgi?
 /dist/analytics.
-/diva-analytics.js
 /divolte.js
 /dl_counter.
 /dla_tracker.
@@ -80827,7 +80784,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ga_link_tracker_
 /ga_loader.
 /ga_local.js
-/ga_measure.
 /ga_no_cookie.
 /ga_no_cookie_
 /ga_optimize.
@@ -81410,7 +81366,6 @@ fqsousou.com,kengso.com#@#.user-share
 /kissmetrics.
 /kissmetrics/*
 /KISSmetricsTrackCode.
-/kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
 /koko-analytics-
@@ -83149,7 +83104,6 @@ fqsousou.com,kengso.com#@#.user-share
 /tealiumpixel.
 /tealiumTagsData.
 /telemetry/log/*
-/tenping.cpa.
 /testImpressions/*
 /textlink.php?text
 /thbeacon/*
@@ -83212,7 +83166,6 @@ fqsousou.com,kengso.com#@#.user-share
 /trace?sessionid=
 /traces.php?
 /tracing?aspect=
-/track-action/*
 /track-compiled.js
 /track-cookies.
 /track-event.
@@ -83623,7 +83576,6 @@ fqsousou.com,kengso.com#@#.user-share
 /trafic.js
 /trail.gif?s=
 /trakksocial.js
-/trans/logger.js
 /trans_pixel.asp
 /transparent.gif?ray=
 /transparent1x1.

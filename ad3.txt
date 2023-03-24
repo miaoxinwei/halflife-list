@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: B5uTxBW8zyZ0KF+iqnEa9g
+! Checksum: TFA5fuvTILzvEIChztlqzg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303240912
-! Last Modified: 2023年03月24日 09:12
+! Version: 202303241418
+! Last Modified: 2023年03月24日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1620,7 +1620,7 @@ newduba.cn###jq_youxi
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
 ##a[href="/bbs/"] > img[src*=".bcebos.com"]
-##a[href="/dngiauwbeib/"]
+##.adlistcss
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
@@ -2822,6 +2822,8 @@ newduba.cn###jq_youxi
 ||xwbspx.xyz^
 ||eignky.xyz^
 ||kiuee8.com^
+||3tf.co^
+||jpzsmbp.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -24030,8 +24032,6 @@ m.babytree.com##script + a[class]
 &t=pageview&
 &tag=IMPRESSION&
 &visitorUuid=
--action/fingerprint?
--action/ping?
 -ad-targeting?
 -adobe-analytics.
 -adobe-analytics/
@@ -24159,8 +24159,6 @@ m.babytree.com##script + a[class]
 .php?stats=
 .php?tracking=
 .pixel.archive.
-.pixel?*&event_
-.pixel?record_
 .pl?trans.gif&ref=
 .pt/n.gif?
 .redux-logger-
@@ -24191,7 +24189,6 @@ m.babytree.com##script + a[class]
 /1pixel.php
 /1px.gif?
 /1px.php?
-/1x1.dyn?
 /1x1.gif?
 /1x1.png?
 /2.gif?
@@ -24215,7 +24212,6 @@ m.babytree.com##script + a[class]
 /_/api/v2/analytics/?
 /_/lite/performance/*
 /_/oh-noes$~third-party,xmlhttprequest
-/__analytics/*
 /__imp_apg__/*
 /__rmn.gif?
 /__ssobj/core.js
@@ -24239,7 +24235,6 @@ m.babytree.com##script + a[class]
 /_visitcount?
 /a-stat.
 /a.gif?
-/a/analytics/*
 /a8c-analytics.
 /a8c-analytics/*
 /aap/stats
@@ -24253,27 +24248,17 @@ m.babytree.com##script + a[class]
 /acbeacon2.
 /accessanalyzer/tracker?
 /AccessCounter/*
-/accesslog?
 /accip_script.js
 /acclog.cgi?
-/account-stats/*
 /acecounter/*
 /acecounter_
 /acounter.php?
 /act_pagetrack.
 /action/analytics
 /ActionLogger?
-/activities/logger/*
 /activity-track/?
 /activity.gif?
-/activity_log.
-/activityloggingapi/*
-/acv?camp=
-/acv?extcmp=
-/acv?utm_
-/ad-blocker-stats.
 /ad-iptracer.
-/ad/no_cookie?
 /AD/PageHits.
 /ad/statistic
 /ad_tracking.
@@ -24300,7 +24285,6 @@ m.babytree.com##script + a[class]
 /adds/counter.js
 /addstats?callback=
 /adform_sync.
-/adframestats|
 /adinfo?
 /adlogger.
 /adm_tracking.js
@@ -24325,7 +24309,6 @@ m.babytree.com##script + a[class]
 /AdobeAnalyticsAndTargetOverwrites.
 /AdobeAnalyticsBundle.
 /AdobeAnalyticsEvent.
-/AdobeAnalyticsSDK.
 /adobeMonitor.
 /adobevideoheartbeat.
 /adpixel.
@@ -24334,7 +24317,6 @@ m.babytree.com##script + a[class]
 /adrum.
 /adrum_
 /ads/counter.
-/ads/track.
 /ads/track/*
 /ads?cookie_
 /adsct?
@@ -24373,7 +24355,6 @@ m.babytree.com##script + a[class]
 /agwebtracking_
 /ahoy/events
 /ahoy/visits
-/aicon_track.
 /aimp.php?
 /AIT_Analytics.
 /ajax-hits-counter/*
@@ -24398,11 +24379,7 @@ m.babytree.com##script + a[class]
 /akamai/pixy.gif
 /akamai_analytics_
 /AkamaiAnalytics.
-/alexa.aspx?site=
 /alog.min.js
-/alog/dp.
-/altpracenje.js
-/altpwk.js
 /alweb.rfk.
 /amazon-affiliate-
 /amp-access/cta/*
@@ -24413,7 +24390,6 @@ m.babytree.com##script + a[class]
 /amp-analytics-
 /amp-analytics/*
 /amp-call-tracking-
-/amp-omniture-iframe?
 /amp-skimlinks-
 /amp-story-auto-analytics-
 /amp-tealium?
@@ -24426,12 +24402,9 @@ m.babytree.com##script + a[class]
 /amp_pingback/*
 /ampmetrics.
 /amptrack.
-/amunglite.
 /analys/dep/*
 /analyse.js
 /analysis-logger/*
-/analysis/ga_
-/analysis/gtm_
 /analysis?t=
 /analysisTag.js
 /analytic-client.
@@ -24474,7 +24447,6 @@ m.babytree.com##script + a[class]
 /analytics-post-
 /analytics-pusher/*
 /analytics-reporter/*
-/analytics-savebt?
 /analytics-scripts.
 /analytics-sdk.
 /analytics-secure.
@@ -24497,7 +24469,6 @@ m.babytree.com##script + a[class]
 /analytics.do
 /analytics.gif?
 /analytics.html?
-/analytics.init.js
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -24577,11 +24548,8 @@ m.babytree.com##script + a[class]
 /analytics/sockjs.
 /analytics/tags
 /analytics/tagx-
-/analytics/tealium-
 /analytics/timeme.
 /analytics/timing
-/analytics/tms_
-/analytics/tools_
 /analytics/track-
 /analytics/track.
 /analytics/track/*
@@ -24608,7 +24576,6 @@ m.babytree.com##script + a[class]
 /analytics?body=
 /analytics?http_referer
 /analytics?token=
-/analytics?url=
 /analytics?vv_events=
 /analytics_embed.
 /analytics_frame.
@@ -24691,7 +24658,6 @@ m.babytree.com##script + a[class]
 /api/video/stats/*$xmlhttprequest
 /api_ip_info.
 /apilog?
-/apis/cpt.php?
 /apis/facebook_conversion
 /apis/track_view_product
 /apixel?
@@ -24707,7 +24673,6 @@ m.babytree.com##script + a[class]
 /AppMeasurement2.js
 /AppMeasurement_Module_
 /AppMeasurementCustom.
-/apTracker.
 /aptrk.js
 /aqtag.
 /ard.png?
@@ -24726,7 +24691,6 @@ m.babytree.com##script + a[class]
 /ArticleLog.aspx?
 /articleOmnitureTracking.
 /ArticleViewTracking/*
-/asdf/tracking-
 /asknet_tracking.
 /aslog.php?
 /aspenanalytics.
@@ -24739,7 +24703,6 @@ m.babytree.com##script + a[class]
 /assets/ga.js
 /assets/smarttag-$script
 /assets/tracking-
-/assign.gif?
 /assignments/impressions
 /AssyncCSStats.aspx
 /astrack.js
@@ -24782,7 +24745,6 @@ m.babytree.com##script + a[class]
 /avtstats.
 /aw-tracker.
 /awAnalytics.
-/awe/ccs.
 /awesc.php?
 /awin?awc=$image
 /awp.log
@@ -24836,8 +24798,6 @@ m.babytree.com##script + a[class]
 /bcsensor.js
 /bctrackers/*
 /bdanalytics.
-/bdash_log.
-/bdg-analytics.
 /bdg.gif?
 /beacon-cookie.
 /beacon.cgi?
@@ -24861,7 +24821,6 @@ m.babytree.com##script + a[class]
 /beacon/metrics
 /beacon/page?
 /beacon/perf
-/beacon/portal-lite?
 /beacon/receive
 /beacon/stats
 /beacon/timing?
@@ -24900,7 +24859,6 @@ m.babytree.com##script + a[class]
 /biyfn/notify.
 /bizo.js
 /bk-coretag.js
-/bkclick?
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
@@ -25393,7 +25351,6 @@ m.babytree.com##script + a[class]
 /countercgi.
 /countercollector/*
 /counterFooterFlash.
-/counters/pages?
 /countertab.js?
 /countHits.
 /countinj.cgi?
@@ -25529,7 +25486,6 @@ m.babytree.com##script + a[class]
 /disp_cnt.
 /dispatch.fcgi?
 /dist/analytics.
-/diva-analytics.js
 /divolte.js
 /dl_counter.
 /dla_tracker.
@@ -25949,7 +25905,6 @@ m.babytree.com##script + a[class]
 /ga_link_tracker_
 /ga_loader.
 /ga_local.js
-/ga_measure.
 /ga_no_cookie.
 /ga_no_cookie_
 /ga_optimize.
@@ -26532,7 +26487,6 @@ m.babytree.com##script + a[class]
 /kissmetrics.
 /kissmetrics/*
 /KISSmetricsTrackCode.
-/kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
 /koko-analytics-
@@ -28271,7 +28225,6 @@ m.babytree.com##script + a[class]
 /tealiumpixel.
 /tealiumTagsData.
 /telemetry/log/*
-/tenping.cpa.
 /testImpressions/*
 /textlink.php?text
 /thbeacon/*
@@ -28334,7 +28287,6 @@ m.babytree.com##script + a[class]
 /trace?sessionid=
 /traces.php?
 /tracing?aspect=
-/track-action/*
 /track-compiled.js
 /track-cookies.
 /track-event.
@@ -28745,7 +28697,6 @@ m.babytree.com##script + a[class]
 /trafic.js
 /trail.gif?s=
 /trakksocial.js
-/trans/logger.js
 /trans_pixel.asp
 /transparent.gif?ray=
 /transparent1x1.
