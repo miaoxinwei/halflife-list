@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ans1Ym1X2OjwvjLwBVN6tg
+! Checksum: SWT9SDJvbMbbLEsdRkoUdQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303250911
-! Last Modified: 2023年03月25日 09:11
+! Version: 202303251417
+! Last Modified: 2023年03月25日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2834,6 +2834,9 @@ newduba.cn###jq_youxi
 ||msiogo.xyz^
 ||fgdtln.xyz^
 ||catdomepimyth.com^
+||xsplus.info^
+||zmadsvd.cn^
+||gaowei.fit^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -30882,6 +30885,7 @@ _mongo_stats/
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
 ||getdrip.com^$third-party
+||getelevar.com^$third-party
 ||getfreebl.com^$third-party
 ||getpublica.com^$third-party
 ||getrockerbox.com^$third-party
@@ -38996,6 +39000,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||groupon.com/analytic/
 ||groupondata.com/tracky
 ||gsght.com/twizards.js
+||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
@@ -53579,7 +53584,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com|tcgplayer.com
 @@||cdn.segment.com/analytics-next/
-@@||cdn.segment.com/analytics.js/$script,domain=app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com
+@@||cdn.segment.com/analytics.js/$script,domain=app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
 @@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
