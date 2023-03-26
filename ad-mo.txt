@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /ctqBeZhwT3BxdUFbUPpww
+! Checksum: NY9Xow20JQWshW09Of2XEA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202303262026
-! Last Modified: 2023年03月26日 20:26
+! Version: 202303270216
+! Last Modified: 2023年03月27日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51363,6 +51363,8 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,xmlhttprequest,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|chikiporn.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|hog.tv|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornchimp.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$script,subdocument,domain=4kporn.xxx|4tube.com|alotporn.com|alphaporno.com|alrincon.com|amateur8.com|anyporn.com|anysex.com|badjojo.com|bdsmstreak.com|bestfreetube.xxx|bigtitslust.com|bravotube.net|cockmeter.com|daftporn.com|ebony8.com|erome.com|exoav.com|fantasti.cc|fapality.com|fapnado.com|fetishshrine.com|freeporn8.com|gfsvideos.com|gotporn.com|hdporn24.org|hdpornmax.com|hdtube.porn|hellporno.com|hottorrent.org|hqsextube.xxx|hqtube.xxx|iceporn.com|imx.to|its.porn|katestube.com|lesbian8.com|lustypuppy.com|manhwa18.cc|maturetubehere.com|megatube.xxx|milffox.com|momxxxfun.com|openloadporn.co|orsm.net|pervclips.com|porn-plus.com|porndr.com|pornicom.com|pornid.xxx|pornotrack.net|pornrabbit.com|pornwatchers.com|pornwhite.com|pussy.org|redhdtube.xxx|rule34.art|sexvid.porn|sexvid.pro|sexvid.xxx|sexytorrents.info|shameless.com|sleazyneasy.com|smutty.com|sortporn.com|stepmom.one|stileproject.com|str8ongay.com|tnaflix.com|urgayporn.com|vikiporn.com|wankoz.com|xbabe.com|xcafe.com|xhqxmovies.com|xxx-torrent.net|xxxdessert.com|xxxextreme.org|xxxonxxx.com|yourlust.com|youx.xxx|zbporn.com|zbporn.tv
 /^https?:\/\/.*\.eporner\.com\/[0-9a-f]{10,}\/$/$script,domain=eporner.com
+@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
+@@||thegay.com/assets//jwplayer-*/jwplayer.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
 @@||thegay.com/assets/jwplayer-*/jwplayer.js|$domain=thegay.com
@@ -52904,7 +52906,7 @@ boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.
 careerindia.com##.cmscontent-top
 thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
-180gadgets.com,academicful.com,americansongwriter.com,androidsage.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dcenquirer.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,notalwaysright.com,patriotfetch.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,sdnews.com,simscommunity.info,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,welovetrump.com,wepc.com,wisden.com,zerohanger.com##.code-block
+180gadgets.com,academicful.com,americansongwriter.com,androidsage.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dcenquirer.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,nationalfile.com,notalwaysright.com,patriotfetch.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,sdnews.com,simscommunity.info,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,welovetrump.com,wepc.com,wisden.com,zerohanger.com##.code-block
 streamtelly.com##.code-block-1
 coinpaprika.com##.coinzilla-ad--desktop
 mydramalist.com##.col-lg-4 > .clear
@@ -54638,6 +54640,7 @@ appuals.com##.wp-timed-p-content
 bevmalta.org,chromoscience.com,hawaiireporter.com##.wpa
 techyv.com##.wpb_raw_code
 premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
+nationalfile.com##.wpb_wrapper > p
 sashares.co.za##.wppopups-whole
 theregister.com##.wptl
 memeburn.com,ventureburn.com##.wrapper--grey
@@ -59065,6 +59068,7 @@ newduba.cn###jq_youxi
 ||658bbb.us^
 ||65oml.cn^
 ||6617398ccc.com^
+||6686bb.app^
 ||6888i.top^
 ||688aaa.us^
 ||7162a.com^
@@ -59112,6 +59116,7 @@ newduba.cn###jq_youxi
 ||aifwjekfe.xyz^
 ||aijilu.xyz^
 ||aishan.shop^
+||aisnj.cn^
 ||aizhubo.co^
 ||ajcnz1.com^
 ||ajfkwwpo.xyz^
@@ -59127,6 +59132,7 @@ newduba.cn###jq_youxi
 ||aoi21.cn^
 ||aol32.cn^
 ||aowdk.cyou^
+||aptosdevnet.com^
 ||aqtcw.cn^
 ||aqylmil.cn^
 ||arejug.xyz^
@@ -59270,6 +59276,7 @@ newduba.cn###jq_youxi
 ||ekqfkk.xyz^
 ||elsmom.xyz^
 ||ennde.cyou^
+||eopad.cyou^
 ||ermao20230220.live^
 ||etdcezc.cn^
 ||ethandataserver.love^
@@ -59283,6 +59290,7 @@ newduba.cn###jq_youxi
 ||ezwxia.xyz^
 ||f9s6.top^
 ||fangbaba.xyz^
+||fangbai.online^
 ||fangfeng009.xyz^
 ||fangyaomin.site^
 ||faunaships.com^
@@ -59612,6 +59620,7 @@ newduba.cn###jq_youxi
 ||nonabh.xyz^
 ||nouivjv.cn^
 ||nqezlls.cn^
+||nqfrhd.xyz^
 ||nqhqpq.cn^
 ||nqxvevk.cn^
 ||ntozr.top^
@@ -59791,6 +59800,7 @@ newduba.cn###jq_youxi
 ||shhaiya.com^
 ||shidaiheima.ltd^
 ||shikongbb.com^
+||sicongyyds.com^
 ||siejp.cyou^
 ||sige20221230.xyz^
 ||siuscs.xyz^
@@ -59876,6 +59886,7 @@ newduba.cn###jq_youxi
 ||u644.fun^
 ||u66099.com^
 ||uasvyi.xyz^
+||uckmee.xyz^
 ||udifvi.cn^
 ||ufynxmf.cn^
 ||uibjhqwkl.com^
@@ -59956,6 +59967,7 @@ newduba.cn###jq_youxi
 ||x800.top^
 ||xageias.cn^
 ||xbptvaq.cn^
+||xeiatmf.cn^
 ||xeiyt.cyou^
 ||xfn1688.com^
 ||xfzaimfq.xyz^
@@ -60045,10 +60057,12 @@ newduba.cn###jq_youxi
 ||zchkz.cn^
 ||zczcvx.com^
 ||zdabnt.live^
+||zdama.xyz^
 ||zdreo.cyou^
 ||zdrvtmj.cn^
 ||zeipw.xyz^
 ||zfykvns.cn^
+||zhangxiaoluo.xyz^
 ||zhiwan.club^
 ||zjrua.site^
 ||zkdmdf.xyz^
@@ -60061,6 +60075,7 @@ newduba.cn###jq_youxi
 ||zodvlr.xyz^
 ||zopvjn.xyz^
 ||zoute.cyou^
+||zowralr.cn^
 ||zsjyuet.cn^
 ||ztwrnpd.cn^
 ||ztxstudy.club^
@@ -60070,18 +60085,6 @@ newduba.cn###jq_youxi
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||zowralr.cn^
-||nqfrhd.xyz^
-||uckmee.xyz^
-||aptosdevnet.com^
-||zdama.xyz^
-||xeiatmf.cn^
-||zhangxiaoluo.xyz^
-||fangbai.online^
-||aisnj.cn^
-||sicongyyds.com^
-||eopad.cyou^
-||6686bb.app^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -109574,7 +109577,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||elon.se^*/googleanalytics.js
 @@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
 @@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se
-@@||googletagmanager.com/gtm.js?id=$domain=tradera.com|xxl.se
+@@||googletagmanager.com/gtm.js$domain=toyota-forklifts.se|tradera.com|xxl.se
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||reseguiden.se^*.siteCatalyst.js
