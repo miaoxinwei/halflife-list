@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MzkjO/xPZ1Y8NLEMV/ZclA
+! Checksum: TS1PYkOqOmnpfcr5WMzpgg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303282030
-! Last Modified: 2023年03月28日 20:30
+! Version: 202303290219
+! Last Modified: 2023年03月29日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1986,6 +1986,7 @@ newduba.cn###jq_youxi
 ||ctoyb.cyou^
 ||cuwuqo.xyz^
 ||cwobgp.cn^
+||cwolwc.xyz^
 ||cwpbohx.cn^
 ||cxgwsu.xyz^
 ||d3f3.xyz^
@@ -2016,6 +2017,7 @@ newduba.cn###jq_youxi
 ||dfzv25.com^
 ||dgozp.com^
 ||dhl4.xyz^
+||dioak.cyou^
 ||diqizu.xyz^
 ||diwok.cyou^
 ||dmqi.ltd^
@@ -2112,6 +2114,7 @@ newduba.cn###jq_youxi
 ||gejulm1314.com^
 ||gfqsded.cn^
 ||ggrhsx.cn^
+||gkustph.cn^
 ||gkwrae.xyz^
 ||glzniuy.cn^
 ||godie.cyou^
@@ -2234,6 +2237,7 @@ newduba.cn###jq_youxi
 ||jgqub.cn^
 ||jh001.cc^
 ||jiangzhou.ltd^
+||jiaojun.icu^
 ||jiape.cyou^
 ||jike001.top^
 ||jinkens.fun^
@@ -2293,6 +2297,7 @@ newduba.cn###jq_youxi
 ||ksccqu.xyz^
 ||kscly.com^
 ||ktbelts.cn^
+||kunzhang.name^
 ||kuyw.cn^
 ||kwivb.cn^
 ||kzeqq.com^
@@ -2346,6 +2351,7 @@ newduba.cn###jq_youxi
 ||meidd.cyou^
 ||mengzhan24.com^$third-party
 ||meueeq.xyz^
+||meximexi.me^
 ||mfaec.cn^
 ||mffdn.xyz^
 ||mfjiaoyu.cn^
@@ -2562,6 +2568,7 @@ newduba.cn###jq_youxi
 ||sangoo.top^$third-party
 ||sanqian.pro^
 ||santou20230127.live^
+||sanwen.icu^
 ||sc4mh.cn^
 ||scbt.asia^
 ||scfh9.cn^
@@ -2630,6 +2637,7 @@ newduba.cn###jq_youxi
 ||tioew.cyou^
 ||tjbxhn.xyz^
 ||tjxafmo.cn^
+||touwengyyds.com^
 ||tqxthzy.cn^
 ||traktalent.com^
 ||travescorylus.com^
@@ -2695,9 +2703,11 @@ newduba.cn###jq_youxi
 ||vilki.cn^
 ||viope.cyou^
 ||vj1p.xyz^
+||vkjqbb.xyz^
 ||vlbbxt.xyz^
 ||vnq3.top^
 ||vokmhydy.xyz^
+||vulrxr.xyz^
 ||vvtztj.xyz^
 ||vw66i.top^
 ||vwvjzd.xyz^
@@ -2851,6 +2861,7 @@ newduba.cn###jq_youxi
 ||zkdmdf.xyz^
 ||zktqzyz.cn^
 ||zlfthh.xyz^
+||zlzizsq.cn^
 ||zmadsvd.cn^
 ||zmdtcw.cn^
 ||znktkt.cn^
@@ -2868,16 +2879,6 @@ newduba.cn###jq_youxi
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
-||meximexi.me^
-||cwolwc.xyz^
-||vkjqbb.xyz^
-||touwengyyds.com^
-||jiaojun.icu^
-||dioak.cyou^
-||sanwen.icu^
-||gkustph.cn^
-||kunzhang.name^
-||vulrxr.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
