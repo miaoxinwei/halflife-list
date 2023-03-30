@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MXJm2sqSNRmLi5UpD9y0Sw
+! Checksum: 6GMDBphGzEUrjxs0UDVDRg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303300223
-! Last Modified: 2023年03月30日 02:23
+! Version: 202303300915
+! Last Modified: 2023年03月30日 09:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2885,6 +2885,14 @@ newduba.cn###jq_youxi
 ||zxtkfvm.cn^
 ||zyrwfd.xyz^
 ||zzxmcp.com^
+||lztmrdv.cn^
+||rp5o.top^
+||kqskqi.xyz^
+||denpvh.xyz^
+||leirsw.com^
+||xmi1.top^
+||bdcd2.com^
+||tfcoverss.live^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -29750,6 +29758,7 @@ _mongo_stats/
 ||clarity.ms^
 ||clearbitscripts.com^
 ||click360.io^
+||cliquelead.com^
 ||cloudwp.io^
 ||clrt.ai^
 ||cntxtfl.com^
@@ -29772,6 +29781,7 @@ _mongo_stats/
 ||dlxpix.net^
 ||dm-event.net^
 ||dmpxs.com^
+||doublestat.info^
 ||dratingmaject.com^
 ||dspx.tv^
 ||dttrk.com^
@@ -29983,6 +29993,7 @@ _mongo_stats/
 ||thefontzone.com^
 ||tncid.app^
 ||trackclicks.info^
+||triplestat.online^
 ||trk-maiorum.com^
 ||trkbc.com^
 ||trkn.us^
@@ -35838,6 +35849,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
 ||domodomain.com^*/ddsense.aspx?
+||doppiocdn.com/healthcheck
 ||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
@@ -36901,6 +36913,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
 ||stats.esecured.net^
+||stats.externulls.com^$domain=beeg.com
 ||stats.fomo.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
@@ -39425,6 +39438,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rps-uk.rockpapershotgun.com^
 ||rs.mail.ru^
 ||rss-loader.com/track/
+||rstat.rockmostbet.com^
 ||rt.newswire.ca^
 ||rt.prnewswire.com^
 ||rt.rakuten.co.jp^$~xmlhttprequest
@@ -39647,6 +39661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strcloud.in/stat/
 ||streamadblocker.com/stat/
 ||streamadblocker.store/stat/
+||streamadblocker.xyz/stat/
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
 ||streamta.site/stat/
