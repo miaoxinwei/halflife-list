@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6GMDBphGzEUrjxs0UDVDRg
+! Checksum: MeKFiowjWJhQLVhUhPyTjg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303300915
-! Last Modified: 2023年03月30日 09:15
+! Version: 202303301419
+! Last Modified: 2023年03月30日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2893,6 +2893,11 @@ newduba.cn###jq_youxi
 ||xmi1.top^
 ||bdcd2.com^
 ||tfcoverss.live^
+||qbtd.xyz^
+||xiaozengyyds.com^
+||yangsir.xyz^
+||qianqian.red^
+||gcejdac.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -33041,6 +33046,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||automaticflock.com^
 ||automaticside.com^$third-party
 ||avalonalbum.com^
+||averageactivity.com^
 ||averageamusement.com^
 ||awakebird.com^$third-party
 ||awarealley.com^
@@ -37717,6 +37723,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.nexx.cloud/*/session/
 ||artemis-cdn.ocdn.eu^
 ||audimark.de/tracking/
+||ba-content.de/cds/log/
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
@@ -52417,6 +52424,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||url9609.account.experience-muse.com^
 !-----------------International individual tracking systems-----------------!
 ||agnes.waz.de^
+||analytics.adliners.de^
 ||analytics.daasrv.net^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.moviepilot.de^
