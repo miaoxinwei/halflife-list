@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Zw0230FRujNjiC3kN8y+Dw
+! Checksum: LDucEV2xDozWHQiJjUUi0Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202303310914
-! Last Modified: 2023年03月31日 09:14
+! Version: 202303311419
+! Last Modified: 2023年03月31日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1670,6 +1670,7 @@ newduba.cn###jq_youxi
 ~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
+###qinav_a1
 ##body[onload*="u()"] > #x
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
@@ -1712,6 +1713,7 @@ newduba.cn###jq_youxi
 ##p[style^="width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !important; flex-flow: row wrap !important; background:"]
 ##script + #coupletBox
 ##script + #rbbox
+##.b300 > .h100 > a[href^="http"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[href^="https://l.hyenadata.com/"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
@@ -2908,6 +2910,10 @@ newduba.cn###jq_youxi
 ||bdnvklavbklabl.com^
 ||baidunnd.top^
 ||xiuwaiyyds.com^
+||yufeng8.tech^
+||eoqtyyp.cn^
+||autopwn.site^
+||oyxp.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
