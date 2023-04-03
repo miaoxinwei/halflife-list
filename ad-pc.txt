@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rWpo5QX2efttNOu7YrnELA
+! Checksum: qZDcd0aaVu7mklcUMOpZ/w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304031418
-! Last Modified: 2023年04月03日 14:18
+! Version: 202304032027
+! Last Modified: 2023年04月03日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1319,7 +1319,6 @@ tieba.baidu.com##.tuijian-wrap
 /adfunctions.
 /adfurikun/*$~image
 /adgenerator.
-/adgpt.js
 /adhandler/*$~subdocument
 /adhandlers-
 /adheader.
@@ -34038,7 +34037,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||leeante.com^
 ||leechiza.net^
 ||leechplanes.com^
-||leechpremium.link^
 ||leegaroo.xyz^
 ||leepoona.com^
 ||leetaipt.net^
@@ -52530,6 +52528,7 @@ disqus.com###siderail-sticky-ads-module
 gephardtdaily.com###simple-sticky-footer-container
 995thewolf.com,newcountry963.com###simpleimage-3
 hot933hits.com###simpleimage-5
+inoreader.com###sinner_container
 pocketgamer.com###site-background
 webkinznewz.ganzworld.com###site-description
 2oceansvibe.com###skin
@@ -52746,6 +52745,7 @@ talkingpointsmemo.com##.--span\:12.AdSlot
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
 porndoe.com##.-h-banner-svg-desktop
+hellomagazine.com##.-variation-megabanner
 advfn.com##.APS_TOP_BANNER_468_X_60_container
 bendsource.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 thescore.com##.Ad__container--2fhQb
@@ -53438,6 +53438,7 @@ hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 cointelegraph.com##.componentAdbutler_UHZMO
+dailymail.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
 washingtontimes.com##.connatixcontainer
 beincrypto.com##.cont-wrapper
@@ -53892,6 +53893,7 @@ majorgeeks.com##.highlight.content > center > font
 duckduckgo.com##.highlight_sponsored
 48hills.org##.hills-adlabel
 highwayradio.com##.hiway-widget
+hellomagazine.com##.hm-ad-container
 ndtv.com##.hmpage_rhs
 cryptorank.io##.hofjwZ
 bizarrepedia.com##.holder
@@ -59505,6 +59507,7 @@ newduba.cn###jq_youxi
 ||tmochyf.cn^
 ||balspaulite.com^
 ||jiuba20230320.live^
+||xcaukve.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
