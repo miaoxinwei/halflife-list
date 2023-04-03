@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kxXlcio0DyJ+qOwudR4ksQ
+! Checksum: uo/SwFBJoEZYJve6ofKaKA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304030215
-! Last Modified: 2023年04月03日 02:15
+! Version: 202304030909
+! Last Modified: 2023年04月03日 09:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51136,7 +51136,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||go.trvdp.com^
 ||jwpcdn.com^$script,domain=bgr.com|dexerto.com|zimbio.com
-||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|kiplinger.com|spokesman-recorder.com|tomshardware.com|variety.com|videogames.si.com|whathifi.com
+||jwplayer.com^$domain=americansongwriter.com|dexerto.com|gamesradar.com|ginx.tv|kiplinger.com|spokesman-recorder.com|thestreet.com|tomshardware.com|variety.com|videogames.si.com|whathifi.com
 ||live.primis.tech^$third-party
 ||minute.ly^$third-party
 ||minutemedia-prebid.com^$third-party
@@ -52281,7 +52281,7 @@ irishnews.com###lbtop
 piraproxy.info,unblockedstreaming.net###lbxUR99472
 123unblock.bar###lbxVPN666
 dailydooh.com###leaddiv
-kontraband.com,motherproof.com,sansabanews.com,thestreet.com###leader
+kontraband.com,motherproof.com,sansabanews.com###leader
 techrepublic.com###leader-bottom
 thepostmillennial.com###leader-mot
 techrepublic.com###leader-plus-top
@@ -53931,6 +53931,7 @@ uk420.com##.ipsLayout_container > div[align="center"]
 allnurses.com##.ipsSpacer_both
 alibaba.com##.is-creative
 mydramalist.com##.is-desktop
+thestreet.com##.is-video-footer-enabled
 speedcheck.org##.isg-container
 iconfinder.com##.istockphoto-placeholder
 nintendolife.com,purexbox.com,pushsquare.com##.item-insert
@@ -59479,6 +59480,9 @@ newduba.cn###jq_youxi
 ||wangjiayi.fun^
 ||xingyang.in^
 ||yulingaa.xyz^
+||p4pd.cn^
+||yfohgo.xyz^
+||rtjmln.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
