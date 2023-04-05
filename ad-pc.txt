@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZDZUyR4uVawdKhTp6BosPQ
+! Checksum: tQGwVFv0XiNLYLIT4A3spw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304050215
-! Last Modified: 2023年04月05日 02:15
+! Version: 202304050900
+! Last Modified: 2023年04月05日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1399,7 +1399,7 @@ tieba.baidu.com##.tuijian-wrap
 /adman/*
 /adman_
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com
-/admanager/*$~object,domain=~konograma.com
+/admanager/*$~object,domain=~blog.google|~konograma.com
 /admanager3.
 /admanager_$domain=~konograma.com
 /admanagers/*
@@ -3078,7 +3078,6 @@ tieba.baidu.com##.tuijian-wrap
 /google-afc.
 /google-dfp-
 /google/ad?
-/google_ad_
 /google_ads/*
 /google_adsense-
 /google_adv/*
@@ -52716,6 +52715,7 @@ drivespark.com,goodreturns.in###taboola-mid-category-thumbnails
 comicbookrealm.com###tad
 google.com###tadsc
 cyclingtips.com###takeover
+romsgames.net###td-top-leaderboard
 based-politics.com###tdi_107
 linuxtoday.com###tdi_46
 cornish-times.co.uk###teads
@@ -53084,7 +53084,7 @@ timesofindia.indiatimes.com##.addblock
 aish.com##.adholder-sidebar
 auto-data.net##.adin
 boards.4channel.org##.adl
-animalfactguide.com,portlandmonthlymag.com,sportsmediawatch.com##.adlabel
+animalfactguide.com,portlandmonthlymag.com,romsgames.net,sportsmediawatch.com##.adlabel
 prokerala.com##.adm-unit
 goldderby.com##.adma
 brickset.com##.admin.buy
@@ -56468,6 +56468,7 @@ javhd.today###ics
 guyswithiphones.com###imglist > .noshadow
 maturesladies.com###inVideoInner
 hotmovs.com###in_va
+youngamateursporn.com###inplayer_block
 freebunker.com,imagesnake.com,imgcarry.com,pornbus.org###introOverlayBg
 hentaiprn.com###l_340
 postyourpuss.com###leaderboard
@@ -59537,6 +59538,11 @@ newduba.cn###jq_youxi
 ||yfohgo.xyz^
 ||yulingaa.xyz^
 ||zdlnhv.xyz^
+||9itan.cc^
+||gzsjym.xyz^
+||znnodl.xyz^
+||bekco.xyz^
+||huaweinnd.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -71372,7 +71378,7 @@ bd2020.co###fmtdiv
 apk.tw###focus
 news.qq.com###focus-bar
 qq.com###focus_jordon
-fuliba2023.net,uliba.net###focusslide
+fuliba2023.net,fuliba23.net,uliba.net###focusslide
 bitauto.com###folieAdNews
 913e.com###footad_913e
 jxedt.com###footer
@@ -74996,7 +75002,6 @@ didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;lin
 doubibackup.com##.widgetRoller
 fulibl.com##.widget_banner
 hackhw.com##.widget_content_b
-fuliba2023.net,uliba.net##.widget_custom_html
 22vd.com##.widget_custom_html:last-child
 ssr.tools##.widget_custom_html:nth-child(n+2)
 423down.com##.widget_d_banner
@@ -75013,7 +75018,6 @@ jsphp.net##.widget_tuijian
 aeink.com##.widget_ui_adsf
 4spaces.org,ypojie.com##.widget_ui_orbui
 hit180.com##.widget_ui_orbui:nth-child(-n+2)
-fuliba2023.net,uliba.net##.widget_ui_slider
 aeink.com##.widget_ui_textads
 swoole.com##.wiki-resource
 so.com##.windisplayCell
@@ -75574,7 +75578,7 @@ cosxcos.cc##div[class*="yy"]
 ifeng.com##div[class="adbox02"]
 5119.cn##div[class="downDz"]
 ithome.com.tw##div[class="span4"]
-fuliba2023.net,uliba.net##div[class="widget widget_ui_orbui"]
+fuliba2023.net,fuliba23.net,uliba.net##.widget_ui_orbui
 r3sub.com##div[class] > a[href^="show.php?id="]
 bdimg.com,tieba.baidu.com,tieba.com##div[class][lgoinprompt="prompt"]
 cyol.com,hc360.com##div[class^="AD"]
@@ -81330,8 +81334,6 @@ fqsousou.com,kengso.com#@#.user-share
 /jscripts/analytics.js
 /jserrLog?
 /jslogger.php?ref=
-/jsnlog.js
-/jsnlog.min.js
 /json/stats?
 /json/tracking/*
 /json?mbox=
@@ -108748,7 +108750,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mxpnl.com^$domain=mixpanel.com
 @@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
-@@||myaccount.depositprotection.com/Scripts/lib/jsnlog/$script,~third-party
 @@||mycourses.pearson.com/shared/static/*/component/ga.min.js$~third-party
 @@||mywebar.com/js/tracking_worker.js$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
@@ -108779,7 +108780,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ondemand.sas.com^$subdocument
 @@||onenote.com^*/aria-web-telemetry
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
-@@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlyfans.com/theme/onlyfans/spa/statistics.js$~third-party
 @@||open.spotifycdn.com/cdn/build/embed/overture.$script,domain=open.spotify.com
@@ -108857,6 +108857,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
 @@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
+@@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
