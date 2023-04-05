@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TnCh7mLW8IajWFWTGrJReQ
+! Checksum: NYA0X9OVVFqODWHc8GRK/w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202304052034
-! Last Modified: 2023年04月05日 20:34
+! Version: 202304060220
+! Last Modified: 2023年04月06日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -645,7 +645,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 ! #CV-1190
 instacart.com#$#hide-if-matches-xpath './/div[contains(@style,"color") and contains(@style,"font-size:") and contains(@style,"line-height:")]/span[2]/ancestor::div[contains(@class,"ItemCardHoverProvider")]'
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::a[contains(@href,"interaction_id")]/parent::div/ancestor::div[contains(@id,"a/")]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::a[contains(@href,"interaction_id")]/parent::div/ancestor::div[contains(@id,"a/") or contains(@id,"r/")]'
 instacart.com#$#hide-if-matches-xpath './/span[contains(@class,"AddItemButtonExpandingAdd")]/preceding::*[contains(@class,"ListHeaderDisclaimer")]/ancestor::*[contains(@class,"SearchLazyLoader")][1]'
 instacart.com##div[data-testid="ads-promoted-aisle"]
 instacart.com##div[data-testid="storefront-category-hero-banner"]
