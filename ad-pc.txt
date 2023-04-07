@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IKetfeHcax7MXZ+XKrnN/w
+! Checksum: 4Dss6xRaPiuVHshSS01f8g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304072026
-! Last Modified: 2023年04月07日 20:26
+! Version: 202304080216
+! Last Modified: 2023年04月08日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54773,6 +54773,7 @@ bing.com##a[href*="/aclick?ld="]
 booking.com#?#div[data-testid="property-card"]:-abp-has(div[data-testid="new-ad-design-badge"])
 booking.com#?#div[data-testid="property-card"]:-abp-has(span[data-testid="new-ad-design-badge"])
 countdown.co.nz#?#cdx-card:-abp-has(product-badge-list)
+macys.com#?#li.productThumbnailItem:-abp-has(.sponsored-items-label)
 pigglywigglystores.com#?#.fp-item:-abp-has(.fp-tag-ad)
 priceline.com#?#div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:-abp-has(span[aria-label="Promoted"])
 wowcher.co.uk#?#.two-by-two-deal:-abp-has(a[href*="src=sponsored_search_"])
@@ -54810,7 +54811,6 @@ digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 inverse.com#?#div > p + div:-abp-has(amp-ad)
 bleepingcomputer.com#?#.post_wrap:-abp-contains(AdBot)
 cointalk.com#?#li.message:-abp-contains(hide this ad)
-outlook.live.com#?#div.customScrollBar > div > div > div > div > div > div:-abp-has(div[class] > div[class] > div[class] > div[class] > i[data-icon-name="Delete"] + div[class])
 instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(span:-abp-contains(Paid partnership with ))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership))
 alternativeto.net#?#div[class^="AppList"]:-abp-has([class^="AppListItem_sponsored"])
@@ -56464,6 +56464,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
 -90mh-gg.
+-1316632262.cos.
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
@@ -76960,6 +76961,8 @@ $image,third-party,domain=258zw.com
 /ceshi127722.
 /dayu2.html?channelCode=$csp=script-src
 /hmzn_*_*_*.js?$script,third-party
+/frambox.php?166$script,~third-party
+/swiper.php?166$script,~third-party
 /jquery-ui.js?166$script,~third-party
 /js/easyAD.js
 /js/easyAD2.js
