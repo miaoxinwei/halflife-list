@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +06DGT9rNoX3c0v40otgXw
+! Checksum: qPiraPb9GZjAdb3StsD6NQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304081416
-! Last Modified: 2023年04月08日 14:16
+! Version: 202304082024
+! Last Modified: 2023年04月08日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18315,6 +18315,7 @@ _800x80_
 ##.js_ad_wrapper
 ##.js_contained-ad-container
 ##.js_deferred-ad
+##.js_midbanner_ad_slot
 ##.js_movable_ad_slot
 ##.js_preheader-ad-container
 ##.js_slideshow-full-width-ad
@@ -53282,7 +53283,7 @@ sassymamahk.com##.pre_header_widget
 vivo.sx##.preload
 premiumtimesng.com##.premi-texem-campaign
 sulekha.com##.premium-banner-advertisement
-pixabay.com##.present-gtty-item
+pixabay.com##.present-g-item
 flobzoo.com##.preview2bannerspot
 astrology.com##.primis-video-module-horoscope
 setlist.fm##.prmtnTop
@@ -58282,6 +58283,9 @@ newduba.cn###jq_youxi
 ||kayzqar.cn^
 ||lianxi.link^
 ||kzjqraj.cn^
+||codeice.xyz^
+||whbn.xyz^
+||nurahf.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
