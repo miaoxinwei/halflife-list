@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fuichm3Qi2DEcbV6TFWltw
+! Checksum: XosN3gQHXJZZTCISmU964g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304090912
-! Last Modified: 2023年04月09日 09:12
+! Version: 202304091416
+! Last Modified: 2023年04月09日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1834,6 +1834,8 @@ newduba.cn###jq_youxi
 ||ej65.xyz^
 ||gzexsc.top^
 ||enahmy.xyz^
+||itoken.pro^
+||jvkckeg.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -24853,7 +24855,7 @@ m.babytree.com##script + a[class]
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
-/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com
+/criteo.$domain=~criteo.blotout.io|~criteo.github.io|~criteo.investorroom.com
 /Criteo/*
 /criteo_
 /criteoRTA.
@@ -34803,6 +34805,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apester.com/event^
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
+||api-v3.findify.io/v3/feedback
 ||api.autopilothq.com^
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
@@ -35171,6 +35174,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter.jdi5.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
+||counter.powr.io^
 ||counter.powweb.com^
 ||counter.rambler.ru^
 ||counter.scribblelive.com^
@@ -38335,6 +38339,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
 ||drop.com/statBeacon
+||dropbox.com/*/log_events
 ||dropbox.com/2/client_metrics
 ||dropbox.com/alternate_
 ||dropbox.com/jse
@@ -38345,6 +38350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
 ||dtag.breadfinancial.com^
+||dubz.co/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
 ||dw.com/tracking/
@@ -38664,7 +38670,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||manua.ls/gtag
 ||mapquest.com/logger
 ||marketing.alibaba.com^
-||marketing.dropbox.com^
 ||massivecams.com/api/events
 ||massivecams.com/api/metrics
 ||mat6tube.com/stats
@@ -53956,6 +53961,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||type.jp/common/js/clicktag.js
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
 @@||useinsider.com/ins.js$domain=pizzahut.jp
+@@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||zinro.net/m/log.php
