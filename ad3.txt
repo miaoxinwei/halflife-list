@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MximnDlOUk7lFDw46wBJIw
+! Checksum: fuichm3Qi2DEcbV6TFWltw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304090216
-! Last Modified: 2023年04月09日 02:16
+! Version: 202304090912
+! Last Modified: 2023年04月09日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1827,6 +1827,13 @@ newduba.cn###jq_youxi
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
+||vnlqcod.cn^
+||yankuoyyds.com^
+||xbvmrx.xyz^
+||feild.xyz^
+||ej65.xyz^
+||gzexsc.top^
+||enahmy.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -36798,6 +36805,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wetpaint.com^*/track?
 ||whooshkaa.com/identify
 ||whooshkaa.com/listen/track
+||whoson.com/poll.gif
+||whoson.com/w.js
 ||whosread.com/counter/
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
@@ -37391,6 +37400,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||baidu.com/js/o.js
 ||baidu.com/x.js?
 ||beacon.sina.com.cn^
+||beaconcdn.qq.com^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bzclk.baidu.com^
@@ -37568,6 +37578,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fb_servpub-a.akamaihd.net^
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
+||gmdigital.it/vtrack-staging.js
 ||heymatic.com^$third-party
 ||httdev.it/e/c?
 ||iltrovatore.it/vp.htm
@@ -38173,7 +38184,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bhphotovideo.com/aperture/client/logs
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bing.com/fd/ls/GLinkPing.aspx?
+||bing.com/geolocation/write?
 ||bing.com/mouselog
+||bing.com/notifications/render?
+||bing.com/rewardsapp/reportActivity?
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
 ||blitz-analytics-batch-server.blitz.gg^
@@ -38920,6 +38934,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smetrics.ralphlauren.com^
 ||snapchat.com/web/metrics
+||solidtorrents.to/ping
 ||solvusoft.com^*/scripts/visitor.js
 ||soundcloud.com^$ping
 ||sourcesync.io/analytics

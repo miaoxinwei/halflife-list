@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mQFmiJrX2ADvVKNswl9Mxg
+! Checksum: 4I1rlIjNPHfeV19XTYDSlQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304090216
-! Last Modified: 2023年04月09日 02:16
+! Version: 202304090912
+! Last Modified: 2023年04月09日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -11999,6 +11999,8 @@ _800x80_
 ##.ad-tabs
 ##.ad-tag
 ##.ad-tag-square
+##.ad-tag__inner
+##.ad-tag__wrapper
 ##.ad-takeover
 ##.ad-takeover-homepage
 ##.ad-tall
@@ -24944,6 +24946,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||areasonsimon.club^
 ||areelbagwyn.com^
 ||areelektrosstor.com^
+||arehen.com^
 ||arejoysew.com^
 ||areliux.cc^
 ||arenalitteraccommodation.com^
@@ -27967,6 +27970,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||crocopop.com^
 ||crojikenatic.tech^
 ||cromo.name^
+||crooth.com^
 ||croplake.com^
 ||crossrider.com^
 ||crossroaddividerecorded.com^
@@ -30035,6 +30039,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||fbseimciojigv.com^
 ||fbtfddhhrsiapq.xyz^
 ||fc2ppv.buzz^
+||fcaijpwzvj.com^
 ||fccinteractive.com^
 ||fcompsepd.com^
 ||fcxcubtkahif.xyz^
@@ -31939,6 +31944,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||hxlvqndylyoi.xyz^
 ||hxoewq.com^
 ||hybridgermandespicable.com^
+||hycantyoubelik.com^
 ||hydnoraraasch.tech^
 ||hydragrouge.com^
 ||hygieneretorted.com^
@@ -33144,6 +33150,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||kqpdnmkkvuu.com^
 ||kqzyfj.com^
 ||krazil.com^
+||kremarkedone.com^
 ||kriaqgsrosko.com^
 ||krilor.com^
 ||krisydark.com^
@@ -33353,6 +33360,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||lcentntel.com^
 ||lcfooiqhro.com^
 ||lcreatessque.xyz^
+||ldehffofpeqr.com^
 ||ldimnveryldgittl.com.ua^
 ||ldimnveryldgitwe.xyz^
 ||ldpiecesonth.xyz^
@@ -33884,6 +33892,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
 ||ma2gs3wne3gfej70osium.com^
+||ma3ryh8l6v.de^
 ||maalabaala.com^
 ||mableyable.com^
 ||maboazolsamp.com^
@@ -35259,6 +35268,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||nsshed.com^
 ||ntanaerc.cyou^
 ||ntdvjlvau.com^
+||ntiaxofk.xyz^
 ||ntlysearchin.com^
 ||nttogetherefwukou.xyz^
 ||nturyremovem.com^
@@ -35309,6 +35319,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||nutrientexceptingreplica.com^
 ||nutritionrumblelocus.com^
 ||nutritionshooterinstructor.com^
+||nuttyanger.pro^
 ||nuumitgoobli.com^
 ||nuvzuha.com^
 ||nvane.com^
@@ -36025,6 +36036,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||owoxauky.com^
 ||owwqacrfi.com^
 ||oxado.com^
+||oxbbwikuttt.com^
 ||oxharmonysample.com^
 ||oxlandvoicing.digital^
 ||oxlfhifzfynll.com^
@@ -38217,6 +38229,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||rightenedetu.site^
 ||righteouscentral.com^
 ||rightiescolled.club^
+||rigiddepth.com^
 ||rigidearnest.com^
 ||rigidpenholderintelligence.com^
 ||rigies.com^
@@ -39487,6 +39500,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sotetahe.pro^
 ||sottagejalur.uno^
 ||soulfulinevitable.pro^
+||soulsglovesacid.com^
 ||soundelktemper.com^
 ||soupevents.com^
 ||souptrip.com^
@@ -41815,6 +41829,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||vidscity.info^
 ||vidsfun.info^
 ||vidsfun.online^
+||vidsfun.space^
 ||vidsofdream.today^
 ||vidsservices.info^
 ||vidverto.io^
@@ -42160,6 +42175,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||wci0jf62.cfd^
 ||wcmcs.net^
 ||wct.link^
+||wd282endfws.de^
 ||wdeliv.net^
 ||wdt9iaspfv3o.com^
 ||wdtuxxjy.xyz^
@@ -42330,6 +42346,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||wholewowblog.com^
 ||whoocmee.net^
 ||whoognoz.com^
+||whookroo.com^
 ||whoopersavour.com^
 ||whoostoo.net^
 ||whoostoo.xyz^
@@ -42459,6 +42476,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||wizwarsum.site^
 ||wjbrinsb.com^
 ||wjikxopltjp.xyz^
+||wka4jursurf6.com^
 ||wkewgywth.xyz^
 ||wkjoehzlkl.com^
 ||wkqcnkstso.com^
@@ -42777,6 +42795,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||xoalt.com^
 ||xoktditxsmr.xyz^
 ||xotpunwcabeijft.xyz^
+||xoyuxostayam.com^
 ||xpctraffic.com^
 ||xpectthatmy.shop^
 ||xpollo.com^
@@ -46208,6 +46227,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||luvaihoo.com^$popup
 ||luxetalks.com^$popup
 ||lvztx.com^$popup
+||lwonclbench.com^$popup
 ||lyconery-readset.com^$popup
 ||m73lae5cpmgrv38.com^$popup
 ||maddenbusy.com^$popup
@@ -46808,6 +46828,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||rhvdsplm.com^$popup
 ||rhxdsplm.com^$popup
 ||ridgephysique.com^$popup
+||rigiddepth.com^$popup
 ||ringexpressbeach.com^$popup
 ||riotousunspeakablestreet.com^$popup
 ||riowrite.com^$popup
@@ -46981,6 +47002,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sopertyvalua.com^$popup
 ||sortyellowapples.com^$popup
 ||sotchoum.com^$popup
+||soulsglovesacid.com^$popup
 ||soundelktemper.com^$popup
 ||souvenirsflex.com^$popup
 ||sparkstudios.com^$popup
@@ -49074,6 +49096,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||d5pb47xzjz3fc.cloudfront.net^
 ||d5wxfe8ietrpg.cloudfront.net^
 ||d63a3au5lqmtu.cloudfront.net^
+||d6deij4k3ikap.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
 ||d7016uqa4s0lw.cloudfront.net^
@@ -50022,7 +50045,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 @@||voeunblock.com^$subdocument
 @@||voeunblock3.com^$subdocument
 /^https?:\/\/.*(com|net|top|xyz)\/(bundle|warning|style|bootstrap|brand|reset|jquery-ui|styles|error|logo|index|favicon|star|header)\.(png|css)\?[A-Za-z0-9]{30,}.*/$third-party
-/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~scribble.website
+/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~scribble.website|~traineast.co.uk
 /^https?:\/\/cdn\.[0-9a-z]{3,6}\.xyz\/[a-z0-9]{8,}\.js$/$script,third-party
 ||frameperfect.speedrun.com^
 ||junkrat-tire.overbuff.com^
@@ -50628,6 +50651,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||redtube.com^$subdocument,~third-party
 ||redtube.fm/advertisment.htm
 ||redtube.fm/lcgldrbboxj.php
+||rn2vw3.xhamster.com^
 ||rst.pornyhd.com^
 ||ruedux.com/code/script/
 ||rule34hentai.net^$subdocument,~third-party
@@ -51859,7 +51883,7 @@ atlasobscura.com##.advertisement-shadow
 radiocity.in##.advertisement-text
 structurae.net##.advertisements
 scmp.com##.advertisers
-afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,cio.co.ke,gq.co.za,imageupscaler.com,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,yourdictionary.com##.advertising
+afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,cio.co.ke,gq.co.za,imageupscaler.com,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,pornicom.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,yourdictionary.com##.advertising
 satdl.com##.advertizement
 hurriyetdailynews.com##.advertorial-square-type-1
 148apps.com##.advnote
@@ -54549,6 +54573,7 @@ gamebyte.com,irishnews.com##div[id^="mpu"]
 progamerage.com##div[id^="proga-"]
 howtogeek.com##div[id^="purch_"]
 realtalk933.com##div[id^="realt-"]
+sbstatesman.com##div[id^="sbsta-"]
 smallnetbuilder.com##div[id^="snb-"]
 express.co.uk##div[id^="taboola-"]
 filehorse.com##div[id^="td-"]
@@ -54978,6 +55003,7 @@ macys.com#?#li.productThumbnailItem:-abp-has(.sponsored-items-label)
 pigglywigglystores.com#?#.fp-item:-abp-has(.fp-tag-ad)
 priceline.com#?#div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:-abp-has(span[aria-label="Promoted"])
 wowcher.co.uk#?#.two-by-two-deal:-abp-has(a[href*="src=sponsored_search_"])
+bing.com#?#.b_ans.b_top.b_topborder:-abp-has(.bte_join)
 sainsburys.co.uk#?#.productESpot:-abp-has(.strapline:-abp-contains(Sponsored))
 independent.co.uk,standard.co.uk#?#article > div[class^="sc-"]:-abp-has(> div[class^="sc-"] > div[data-ad-unit-path])
 sbs.com.au#?#.MuiBox-root:-abp-has(>.desktop-ads)
@@ -58294,6 +58320,13 @@ newduba.cn###jq_youxi
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
+||vnlqcod.cn^
+||yankuoyyds.com^
+||xbvmrx.xyz^
+||feild.xyz^
+||ej65.xyz^
+||gzexsc.top^
+||enahmy.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -90966,6 +90999,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wetpaint.com^*/track?
 ||whooshkaa.com/identify
 ||whooshkaa.com/listen/track
+||whoson.com/poll.gif
+||whoson.com/w.js
 ||whosread.com/counter/
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
@@ -91559,6 +91594,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||baidu.com/js/o.js
 ||baidu.com/x.js?
 ||beacon.sina.com.cn^
+||beaconcdn.qq.com^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
 ||bzclk.baidu.com^
@@ -91736,6 +91772,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fb_servpub-a.akamaihd.net^
 ||gazzettaobjects.it^*/tracking/
 ||glomera.com/stats
+||gmdigital.it/vtrack-staging.js
 ||heymatic.com^$third-party
 ||httdev.it/e/c?
 ||iltrovatore.it/vp.htm
@@ -92341,7 +92378,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bhphotovideo.com/aperture/client/logs
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bing.com/fd/ls/GLinkPing.aspx?
+||bing.com/geolocation/write?
 ||bing.com/mouselog
+||bing.com/notifications/render?
+||bing.com/rewardsapp/reportActivity?
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
 ||blitz-analytics-batch-server.blitz.gg^
@@ -93088,6 +93128,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smetrics.ralphlauren.com^
 ||snapchat.com/web/metrics
+||solidtorrents.to/ping
 ||solvusoft.com^*/scripts/visitor.js
 ||soundcloud.com^$ping
 ||sourcesync.io/analytics
