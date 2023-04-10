@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TzVltL8SBfKtDQFpYE5arA
+! Checksum: AJ9I4pu2mfI5j8WbC4Ls9w
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202304102026
-! Last Modified: 2023年04月10日 20:26
+! Version: 202304110217
+! Last Modified: 2023年04月11日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -644,7 +644,6 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
-/Runtime/Js/haojio_
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -1186,6 +1185,7 @@ stgowan.com
 /Runtime/Js/footer-m.js
 /Runtime/js/fumeiti.
 /Runtime/Js/guding_top.js
+/Runtime/Js/haojio_
 /runtime/js/index960.js
 /Runtime/Js/lianmeng.js
 /Runtime/Js/m_tuijian_
@@ -2198,9 +2198,12 @@ newduba.cn###jq_youxi
 ##a[href*=".mmrjmh.com/"]
 ||1136999.com^
 ||230579.top^
+||39nw.com^
+||52qd.club^
 ||9itan.cc^
 ||aaaaa599.com^
 ||aaaaa663.com^
+||aaaaa699.com^
 ||aaaaa855.com^
 ||aamv.vip^
 ||akdhiahcjojdkck.com^
@@ -2214,10 +2217,12 @@ newduba.cn###jq_youxi
 ||campu.ltd^
 ||ccohayo.xyz^
 ||cdcc3.com^
+||cnmmcjn.cn^
 ||codeice.xyz^
 ||dcdf4.com^
 ||ej65.xyz^
 ||enahmy.xyz^
+||excfig.xyz^
 ||feild.xyz^
 ||fijipic.xyz^
 ||flyinsky2009.ltd^
@@ -2237,6 +2242,7 @@ newduba.cn###jq_youxi
 ||iepda.xyz^
 ||ijnuhb.top^
 ||itoken.pro^
+||jeedi.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiuba20230320.live^
@@ -2250,6 +2256,7 @@ newduba.cn###jq_youxi
 ||lianxi.link^
 ||lxbbs.fun^
 ||mindopu.com^
+||nqyz.tw^
 ||nurahf.xyz^
 ||ojuhwc.xyz^
 ||otwiss.xyz^
@@ -2264,9 +2271,11 @@ newduba.cn###jq_youxi
 ||rtjmln.xyz^
 ||sh6ss7.top^
 ||smailes.pro^
+||tc911.vip^
 ||tianma704.ltd^
 ||tmochyf.cn^
 ||uqymady.cn^
+||vel7.xyz^
 ||vnlqcod.cn^
 ||vorluic.cn^
 ||vujhaib.cn^
@@ -2276,27 +2285,18 @@ newduba.cn###jq_youxi
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xingyang.in^
+||xlxknf.xyz^
 ||xunjie.fun^
 ||yankuoyyds.com^
 ||yfohgo.xyz^
+||yingce.asia^
+||yingnanyyds.com^
 ||yulingaa.xyz^
 ||zbvchabjbcj.com^
 ||zdkdwk.buzz^
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
-||xlxknf.xyz^
-||cnmmcjn.cn^
-||yingnanyyds.com^
-||excfig.xyz^
-||jeedi.xyz^
-||yingce.asia^
-||52qd.club^
-||39nw.com^
-||vel7.xyz^
-||nqyz.tw^
-||tc911.vip^
-||aaaaa699.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -12490,6 +12490,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
 ||qayqa.com:6868/jquery/
+||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
@@ -12972,6 +12973,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
 ||taizexy.com^*.gif
 ||talkfx.*/showTKImg?
+||tangrenjie.tv/gg/
 ||tanseb.com/vads/
 ||taobaocdn.com^$image,domain=cnblogs.com
 ||taoguba.com.cn/res/js/tgbgg/
