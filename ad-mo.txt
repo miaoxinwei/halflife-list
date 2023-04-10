@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: f+8b+K4Qz6u0TGs2LJshUA
+! Checksum: Pd0nskyDAFLgYfy2syuUlA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304100216
-! Last Modified: 2023年04月10日 02:16
+! Version: 202304100909
+! Last Modified: 2023年04月10日 09:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -56814,6 +56814,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/Runtime/Js/haojio_
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -58454,6 +58455,11 @@ newduba.cn###jq_youxi
 ||zdlnhv.xyz^
 ||zjqs.shop^
 ||znnodl.xyz^
+||xlxknf.xyz^
+||cnmmcjn.cn^
+||yingnanyyds.com^
+||excfig.xyz^
+||jeedi.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -78507,7 +78513,6 @@ fqsousou.com,kengso.com#@#.user-share
 /assets/beacons.js
 /assets/ga.js
 /assets/smarttag-$script
-/assets/tracking-
 /assignments/impressions
 /AssyncCSStats.aspx
 /astrack.js
@@ -107502,7 +107507,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||currys.co.uk/on/*/js/tracking.js$script,~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
-@@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
@@ -107799,7 +107803,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
-@@||shopify.com^*/assets/tracking-$domain=oatsovernight.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
@@ -107810,7 +107813,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||songstats.com/api/v1/analytics/track_data$~third-party,xmlhttprequest
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
-@@||spark.co.nz/content/*/utag.sync.js$~third-party
+@@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
