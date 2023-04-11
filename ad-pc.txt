@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IwrPAmdDoAKDjYEwj3GTog
+! Checksum: c4bu1j62mPHP10/LMGj/mA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304110910
-! Last Modified: 2023年04月11日 09:10
+! Version: 202304111418
+! Last Modified: 2023年04月11日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -51973,7 +51973,7 @@ missingremote.com###top-bar
 dotesports.com###top-billboard
 returnyoutubedislike.com###top-donors
 capetownmagazine.com###top-leader-wrapper
-carmag.co.za,thegazette.com###top-leaderboard
+austinchronicle.com,carmag.co.za,thegazette.com###top-leaderboard
 gogetaroomie.com###top-space
 progameguides.com###top-sticky-sidebar-container
 dotesports.com,gamepur.com###top-sticky-sidebar-wrapper
@@ -52120,6 +52120,7 @@ naturalnews.com##.INGHZXMVDCUF
 inverness-courier.co.uk##.LLKGTX
 kentonline.co.uk##.LeaderBack
 apnews.com##.Leaderboard
+fivebooks.com##.Leaderboard-container
 nationalgeographic.com##.LinkedImage
 inverness-courier.co.uk,johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
 wayfair.com##.MediaNativePlacement-wrapper-link
@@ -58823,6 +58824,11 @@ newduba.cn###jq_youxi
 ||lendc.xyz^
 ||fvzljv.xyz^
 ||mhegew.xyz^
+||wangjc.ltd^
+||d86n.top^
+||ck33.top^
+||sjalipa.cn^
+||falal.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
