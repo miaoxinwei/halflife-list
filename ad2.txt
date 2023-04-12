@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: u2SuAClwc5t1/pLUayub+Q
+! Checksum: j5vJ5wuc14FwBYkjPq+wGw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202304122028
-! Last Modified: 2023年04月12日 20:28
+! Version: 202304130217
+! Last Modified: 2023年04月13日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1874,6 +1874,9 @@ newduba.cn###jq_youxi
 ||hsrgnac.cn^
 ||helid.xyz^
 ||pbgtpjz.cn^
+||almabelen.com^
+||fionamignon.com^
+##A[href*="/st66st.cc"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13119,8 +13122,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||xkzzz.com/zb_users/plugin/MoreLinks/MoreLinks.
+||xkzzz.com/zb_users/plugin/MoreLinks*/show.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+3dmgame.com##.Indexadd-100
+360kuai.com##.detail__top__title__under
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
