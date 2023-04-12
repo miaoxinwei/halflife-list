@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ul/aWZQH/zc1Lbj+qV7ERg
+! Checksum: 6Lha+ifAQkd7KYIidud0BQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304120911
-! Last Modified: 2023年04月12日 09:11
+! Version: 202304121418
+! Last Modified: 2023年04月12日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54579,7 +54579,7 @@ wccftech.com##[href^="https://cutt.ly/"]
 topfiveforex.com##[href^="https://fbs.com/promo/"]
 torrentgalaxy.to##[href^="https://gen4ever.com/"]
 pastemytxt.com##[href^="https://geturl.us/"]
-ahaan.co.uk,emailnator.com,scrolller.com##[href^="https://go.nordvpn.net/"]
+ahaan.co.uk,emailnator.com,myip.is,scrolller.com##[href^="https://go.nordvpn.net/"]
 bitcoiner.tv##[href^="https://go.stormgain.com/"]
 coinpaprika.com##[href^="https://go2nft.io"]
 imagetwist.com##[href^="https://imagetwist.com/pxt/"]
@@ -58767,6 +58767,11 @@ newduba.cn###jq_youxi
 ||nvchmkw.cn^
 ||mrgecm.xyz^
 ||ffbjhl.xyz^
+||jlzz.name^
+||qingdou.ltd^
+||zhouduanyyds.com^
+||wangyq.ltd^
+||hsrgnac.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -86191,6 +86196,7 @@ _mongo_stats/
 ||stats4you.com^$third-party
 ||statsbox.nl^$third-party
 ||statsig.com^$third-party
+||statsigapi.net^$third-party
 ||statsinsight.com^$third-party
 ||statsit.com^$third-party
 ||statsmachine.com^$third-party
@@ -90012,7 +90018,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
-||events.statsigapi.net^
 ||events.tubecup.org^
 ||events.ubembed.com^
 ||events.whisk.com^
