@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5jjkFDW09hL0Gda6j1BpwQ
+! Checksum: HSLamk3Ix3CZapzc+AjoQw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304140910
-! Last Modified: 2023年04月14日 09:10
+! Version: 202304141418
+! Last Modified: 2023年04月14日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1374,7 +1374,7 @@ tieba.baidu.com##.tuijian-wrap
 /adlantis.
 /adlayer.
 /adlayer/*
-/adlead.$domain=~adlead.com|~adlead.pro|~adlead.ru
+/adlead.$domain=~adlead.co.il|~adlead.com|~adlead.pro|~adlead.ru
 /adleader.
 /adleft.
 /adleft/*
@@ -27178,6 +27178,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||cehuiy.com^
 ||ceileangsts.com^
 ||ceilingbruiseslegend.com^
+||ceillons.site^
 ||celaenomash.com^
 ||celeb-ads.com^
 ||celebritybulk.com^
@@ -27788,7 +27789,6 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||comadscity.com^
 ||comalonger.com^
 ||combatdenotecasserole.com^
-||combativecar.com^
 ||combia-tellector.com^
 ||combineencouragingutmost.com^
 ||combitly.com^
@@ -50584,6 +50584,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
 ||sermonaudio.com/images/sponsors/
+||serve.v3rmillion.net^
 ||sgtreport.com/wp-content/uploads/*Banner
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
@@ -50873,6 +50874,8 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 ||reviveusa.com//
 ||reviveusa.com/qjlfeoliteqjl/
 ||reviveusa.com/yA78_6/
+||thegatewaypundit.com//
+||thegatewaypundit.com/rp5-28/
 ||thelibertydaily.com//
 ||thelibertydaily.com/zr30_Et/
 ||toptenz.net//
@@ -52026,6 +52029,7 @@ hometheaterreview.com###section-246-102074
 neoseeker.com###section-pagetop
 searchenginejournal.com###sej-pop-wrapper
 analyticsinsight.net###sgpb-popup-dialog-main-div-wrapper
+v3rmillion.net###sharingPlace
 filedropper.com,lifenews.com###sidebar
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
 tellymix.co.uk###sidebar > div[style]
@@ -52446,6 +52450,7 @@ drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
 food.com##.ad__ad
 disqus.com##.ad__adh-wrapper
+stuff.co.nz##.ad__caption
 nationalpost.com,vancouversun.com##.ad__inner
 politico.eu##.ad__mobile
 asianjournal.com##.ad_before_title
@@ -52883,6 +52888,7 @@ radiotoday.co.uk##.byglhsmf
 insurancejournal.com##.bzn
 insidebitcoins.com##.c-FloatingPrompt
 globalnews.ca##.c-ad
+zdnet.com##.c-adDisplay_container_incontent-all-top
 tuko.co.ke##.c-adv
 legit.ng##.c-adv--video-placeholder
 newstalkzb.co.nz##.c-background
@@ -54136,6 +54142,7 @@ mdisk.me##.robot
 boxrox.com##.rolling-mrt
 atalayar.com##.rotulo-publi
 flightconnections.com##.route-display-box
+healthnfitness.net##.row-section-game-widget
 elnacional.cat##.row-top-banner
 steamanalyst.com##.row.tpbcontainer
 bikechatforums.com##.row2[style="padding: 5px;"]
@@ -55696,7 +55703,7 @@ search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 protrumpnews.com#?#.show-on-ptn:-abp-has(.pre-announcement)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
-imgur.com#?#div[style^="height:"]:-abp-has(.Post-item-external-ad)
+imgur.com##.Post-item:-abp-has(.AdHomeContainer)
 insta-stories-viewer.com#?#.profile__tabs-media-item:-abp-has(.profile__adv)
 agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 u.gg#?#.video-guide:-abp-has(.content-section_header:-abp-contains(Sponsored Content))
@@ -59079,6 +59086,10 @@ newduba.cn###jq_youxi
 ||dqazwsxd.xyz^
 ||wcdc5.com^
 ||aniauu2.cc^
+||linuozhiyao.xyz^
+||zoushao.xyz^
+||wvwl.cn^
+||92ph.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -88251,6 +88262,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||screechingfurniture.com^
 ||screechingslip.com^$third-party
 ||screechingstove.com^
+||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^$third-party
 ||seashoresociety.com^
