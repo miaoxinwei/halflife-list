@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZYFGZG+hJc/SbJtVe22kVA
+! Checksum: g1UlJwGpC5HBHA/llRvC+Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304141418
-! Last Modified: 2023年04月14日 14:18
+! Version: 202304142027
+! Last Modified: 2023年04月14日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -23867,6 +23867,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||adsyst.biz^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
 ||adtaily.com^
@@ -51603,6 +51604,7 @@ flyordie.com###dgad
 winaero.com###diodfoihdfsd
 realclearpolitics.com###distro_right_rail
 tribunnews.com###div-Inside-MediumRectangle
+designtaxi.com###div-center-wrapper
 allafrica.com###div-clickio-ad-superleaderboard-a
 herfamily.ie,sportsjoe.ie###div-gpt-top_page
 abovethelaw.com###div-id-for-middle-300x250
@@ -51795,6 +51797,7 @@ moomoo.io###menuContainer > .menuCard
 peacemakeronline.com###middle_banner_section
 bleedingcool.com###middle_medium_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
+dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
 sportskeeda.com###mob3-cnx-container-bottom
 pocketgamer.com###mobile-background
@@ -52038,7 +52041,7 @@ premiumtimesng.com###text-440
 eevblog.com###text-49
 computips.org,techlife.com,technipages.com###text-5
 2smsupernetwork.com###text-50
-2smsupernetwork.com,times.co.zm###text-6
+2smsupernetwork.com,snowbrains.com,times.co.zm###text-6
 yugatech.com###text-69
 kollelbudget.com###text-70
 kollelbudget.com###text-78
@@ -52346,6 +52349,7 @@ cheatcodes.com##.ad_btf_728
 auto-data.net##.ad_incar
 bigislandnow.com##.ad_mobileleaderboard
 kitco.com##.ad_space_730
+outlookindia.com##.ad_unit_728x90
 queerty.com##.adb-box-large
 queerty.com##.adb-top-lb
 tellymix.co.uk##.adb_top
@@ -52961,6 +52965,8 @@ mangamiso.net##.d-flex-row
 fastpic.ru,freesteam.io##.d-lg-block
 calendar-canada.ca##.d-md-block
 thestreamable.com##.d-md-flex
+publish0x.com##.d-md-none.text-center
+publish0x.com##.d-xl-block
 artsy.net##.dDusYa
 yourstory.com##.dJEWSq
 fxempire.com##.dKBfBG
@@ -53087,6 +53093,7 @@ euronews.com##.enw-MPU
 marcadores247.com##.es_top_banner
 shtfplan.com,yournews.com##.et_pb_code_inner
 appleinsider.com##.exclusive-wrap
+mashable.com##.exco
 metric-conversions.org##.exists
 streamingmedia.com##.expand
 appuals.com##.expu-protipeop
@@ -53250,6 +53257,7 @@ topminecraftservers.org##.grey-section
 teleboy.ch##.grid-col-content-leaderboard
 groovypost.com##.groov-adlabel
 saultonline.com##.gsmfab
+gulftoday.ae##.gt-ad-center
 gulf-times.com##.gt-horizontal-ad
 gulf-times.com##.gt-square-desktop-ad
 gulf-times.com##.gt-vertical-ad
@@ -53757,6 +53765,7 @@ otakuusamagazine.com##.otaku_big_ad
 thesaurus.com##.otd-item__bottom
 mma-core.com##.outVidAd
 egmnow.com##.outbrain-wrapper
+businesstoday.in##.outer-add-section
 techadvisor.com##.outer-wrapper
 aminoapps.com##.overflow-scroll-sidebar > div
 golfweather.com##.ox300x250
@@ -53779,6 +53788,7 @@ realtytoday.com##.page-middle
 krcrtv.com,ktxs.com,wcti12.com,wcyb.com##.pageHeaderRow1
 military.com##.page__top
 rateyourmusic.com##.page_creative_frame
+trustedreviews.com##.page_header_container
 nzcity.co.nz##.page_skyscraper
 calculatorsoup.com##.pages
 livejournal.com##.pagewide-wrapper
@@ -53866,6 +53876,7 @@ thetowner.com##.powered
 thecoinrise.com##.pp_ad_block
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
+oneesports.gg##.pr-sm-4
 foxbusiness.com##.pre-content
 sassymamahk.com##.pre_header_widget
 vivo.sx##.preload
@@ -54286,6 +54297,7 @@ todayuknews.com##.stream-item-top-wrapper
 hardwaretimes.com##.stream-item-widget
 coinpedia.org##.stream-title
 stellar.ie##.stuck
+dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 troypoint.com##.su-box
 gearspace.com##.subforum-sponsor
@@ -54320,7 +54332,7 @@ igg-games.com##.taxonomy-description
 zenger.news##.tb_e2rr695
 bookriot.com##.tbr-promo
 ghpage.com##.td-a-ad
-aptoslife.com,aviacionline.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com##.td-a-rec
+aptoslife.com,aviacionline.com,bohemian.com,constructionreviewonline.com,cyberparse.co.uk,darkhorizons.com,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,kenyan-post.com,kingcityrustler.com,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com##.td-a-rec
 zycrypto.com##.td-a-rec-id-content_bottom
 zycrypto.com##.td-a-rec-id-custom_ad_2
 unlockboot.com##.td-ads-home
@@ -54412,7 +54424,7 @@ justjared.com,justjaredjr.com##.top_rail_shell
 allnigerianrecipes.com,antimusic.com,roadtests.com##.topad
 eurointegration.com.ua##.topban_r
 axisbank.com##.topbandBg_New
-allmonitors24.com,streamable.com##.topbanner
+algemeiner.com,allmonitors24.com,streamable.com##.topbanner
 drugs.com##.topbanner-wrap
 belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 blabber.buzz##.topfeed
@@ -54851,6 +54863,7 @@ timesnownews.com##[style="min-height: 181px;"]
 calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 analyticsinsight.net##[style="text-align: center;"]
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
+newagebd.net##[style^="float:left; width:320px;"]
 forum.lowyat.net##[style^="height:100px;padding:5px"]
 fandomwire.com##[style^="min-height: 320px"]
 decrypt.co##[style^="min-width: 728px;"]
@@ -55037,7 +55050,7 @@ issuu.com##div[class*="adPlacement"]
 issuu.com##div[class*="adSkyscraper"]
 ladbible.com,unilad.co.uk##div[class*="margin-Advert"]
 apkcombo.com##div[class*="revamp-ads"]
-cryptoslate.com,newsbtc.com,publish0x.com##div[class*="sticky-header"]
+cryptoslate.com,newsbtc.com##div[class*="sticky-header"]
 politico.com##div[class*="styles_supercube_"]
 serverhunter.com##div[class*="why"]
 walmart.com##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
@@ -58978,6 +58991,9 @@ newduba.cn###jq_youxi
 ||zoushao.xyz^
 ||wvwl.cn^
 ||92ph.cn^
+||uwhreur.cn^
+||sozrrkx.xyz^
+||uqelxct.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -70226,6 +70242,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||alicloud.b-cdn.net/1.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -89988,6 +90005,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
+||collector.appconsent.io^$image
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
