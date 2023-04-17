@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gFgsh+U2PREUwQ/j+usDhg
+! Checksum: 0wgCKXoyuNWKmfVHYkY7Zw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304170912
-! Last Modified: 2023年04月17日 09:12
+! Version: 202304171419
+! Last Modified: 2023年04月17日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54169,6 +54169,7 @@ hagerty.com##.placements
 plagiarismtoday.com##.plagi-widget
 trakt.tv##.playwire
 advfn.com##.plus500
+thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
 pedestrian.tv##.popular-jobs-widget
@@ -59370,6 +59371,11 @@ newduba.cn###jq_youxi
 ||pkkylyx.xyz^
 ||zscgoqt.cn^
 ||zrbabog.cn^
+||ddkep.xyz^
+||hangtuo.pub^
+||aqpvglv.cn^
+||zsblog.vip^
+||hxes.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
