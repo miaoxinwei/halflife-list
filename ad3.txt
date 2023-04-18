@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7Va5zmZcpandnO890MD+dg
+! Checksum: +GHHZ1+4yokkj8kazYzi3g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304180910
-! Last Modified: 2023年04月18日 09:10
+! Version: 202304181418
+! Last Modified: 2023年04月18日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1958,6 +1958,9 @@ newduba.cn###jq_youxi
 ||sisjwol.xyz^
 ||moend.xyz^
 ||iughyy7919.com^
+||himeneko.ink^
+||cbhwekr.cn^
+||xni.ink^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -12711,8 +12714,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlula507.com/Public/js/dui
 ||tlula507.com/Public/js/float
-||tlxxw.cc/public/*/plugins/
-||tlxxw.cc/public/1/assets/js/custom/tt.
+||pki.net.cn/public/1/assets/js/custom/tt.
+||pki.net.cn/public/*/plugins/
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tmioe.com/img/att/boom.jpg
@@ -20804,6 +20807,7 @@ smjb.net##div[style*="height: 50%"]
 ||ysxs8.vip/js/play_db.js
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
+||138txt.net/js/ssgdd.
 ||zhuishubox.com/js/after-rain.js
 ###appss[style="padding:15px;"]
 ###asdw3
@@ -29408,7 +29412,6 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
-||icanhazip.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -30630,6 +30633,7 @@ _mongo_stats/
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
 ||ic-live.com^$third-party
+||icanhazip.com^$third-party
 ||iclive.com^$third-party
 ||ics0.com^$third-party
 ||icstats.nl^$third-party
