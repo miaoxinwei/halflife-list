@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QKrmhub3IYnoAWViKo9PeQ
+! Checksum: X57q0lzMgptELq8cMx3z6A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304181418
-! Last Modified: 2023年04月18日 14:18
+! Version: 202304182028
+! Last Modified: 2023年04月18日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -52876,6 +52876,7 @@ businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au#
 zeenews.india.com##.add-placeholder
 moneycontrol.com##.add-spot
 media4growth.com##.add-text
+brandingmag.com##.add-wrap
 ndtv.com##.add-wrp
 muslimobserver.com##.add2
 projectorcentral.com##.addDiv2
@@ -57906,6 +57907,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 .com/uploads/*-860x250.gif
 .com/vh1/$script,third-party
 .com/vj1/$script,third-party
+.com/vj2/$script,third-party
 .com/vodad.js
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
@@ -59592,6 +59594,9 @@ newduba.cn###jq_youxi
 ||himeneko.ink^
 ||cbhwekr.cn^
 ||xni.ink^
+||qpoiwnelc.com^
+||cdfda.xyz^
+||ealdi.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -78441,8 +78446,6 @@ smjb.net##div[style*="height: 50%"]
 ||138txt.net/js/ssgdd.
 ||zhuishubox.com/js/after-rain.js
 ###appss[style="padding:15px;"]
-###asdw3
-###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ###downdiv > .downcode
 ###gudingweiDiv
