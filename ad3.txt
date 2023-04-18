@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RYuN8CzNKfdaBGeXTeU6nw
+! Checksum: 7Va5zmZcpandnO890MD+dg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304180217
-! Last Modified: 2023年04月18日 02:17
+! Version: 202304180910
+! Last Modified: 2023年04月18日 09:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1708,6 +1708,7 @@ newduba.cn###jq_youxi
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="position"][onclick^="window.open"]
 ##dl#listwoBox
+###diads
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -1950,6 +1951,13 @@ newduba.cn###jq_youxi
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||szsbiw.xyz^
+||rtdxqq.com^
+||peishuning1.cn^
+||lnnjnv.xyz^
+||sisjwol.xyz^
+||moend.xyz^
+||iughyy7919.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -39251,6 +39259,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stapadblockuser.art/stat/
 ||stapadblockuser.click/stat/
 ||stapadblockuser.info/stat/
+||stapadblockuser.xyz/stat/
 ||stape.fun/stat/
 ||stapewithadblock.beauty/stat/
 ||stapewithadblock.monster/stat/
