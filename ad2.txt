@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OvSSFubPqFHY73uET/fcaw
+! Checksum: 4zrOCXgC8W7aESJTpA7zgQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202304190912
-! Last Modified: 2023年04月19日 09:12
+! Version: 202304192028
+! Last Modified: 2023年04月19日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1975,6 +1975,13 @@ newduba.cn###jq_youxi
 ||txphjl.xyz^
 ||ajucem.xyz^
 ||fweia.xyz^
+||luckydino.ren^
+||fssxyiq.cn^
+||pithjpf.cn^
+||piaochong.co^
+||evmnlpv.cn^
+||18so.vip^
+||aniqgsz.cc^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21220,7 +21227,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=xinrenxinshi.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
