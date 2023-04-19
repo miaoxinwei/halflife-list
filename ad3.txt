@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Vm9bdAl+pxd7au3YWt6YIw
+! Checksum: tYxn3479ixkIG6ugiGMs5Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304190218
-! Last Modified: 2023年04月19日 02:18
+! Version: 202304190912
+! Last Modified: 2023年04月19日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1969,6 +1969,12 @@ newduba.cn###jq_youxi
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||xckyqq.com^
+||xiaochen1.cn^
+||chnuuee.xyz^
+||txphjl.xyz^
+||ajucem.xyz^
+||fweia.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -28827,7 +28833,7 @@ _ga_code.
 _ga_tag.
 _ga_tracker.
 _gaTrack.js
-_google_analytics.
+_google_analytics.$~image
 _googleAnalytics.
 _googleAnalytics_
 _gpt_bootstrap_
@@ -52289,6 +52295,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||hits.porn.fr^
+||hlms.ecologie.gouv.fr^
 ||ianimes.org/img/tracker.gif
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
@@ -52350,6 +52357,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||unblog.fr/cu.js
 ||wawacity.*/bypass
 ||woopic.com/z.gif
+||wrhv.education.gouv.fr^
 ||wstats.gameblog.fr^
 ||wt.oscaro.com^
 ||yandex.fr/clck/click
