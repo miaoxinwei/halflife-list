@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VigtGEF33CjbgtgIh89mQg
+! Checksum: N2DoAeCjtylt/wqPlus+sQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202304201418
-! Last Modified: 2023年04月20日 14:18
+! Version: 202304202028
+! Last Modified: 2023年04月20日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1994,6 +1994,9 @@ newduba.cn###jq_youxi
 ||adbtwyxl96.fun^
 ||hzoijcm.cn^
 ||shangyuan.ltd^
+||skluff.com^
+||ra1.xyz^
+||fthqzxq.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -18981,7 +18984,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
-@@||bcong.top/static/ad/main.js
+@@/static/ad/main.$domain=bhuai.top|bhuan.top
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
 @@||bdstatic.com/??*,*,*,
@@ -19015,7 +19018,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||chinatimes.com/css-main/ad.css
 @@||chtoen.com/js/adsbygoogle.js
 @@||citysbs.com^*/swfupload/
-@@||cl9a.com/static/ad/main.js
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||club.tgfcer.com^$generichide
 @@||cmbc.com.cn^*ads/
