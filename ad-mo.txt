@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VU/GN6eqm8jX8mRuRgV7kw
+! Checksum: J02dXEIDnIttY7f6ZJXPlg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304200218
-! Last Modified: 2023年04月20日 02:18
+! Version: 202304200910
+! Last Modified: 2023年04月20日 09:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -13894,6 +13894,7 @@ _800x80_
 ##.adsMarker
 ##.adsMiddle
 ##.adsMvCarousel
+##.adsNetwork
 ##.adsOuter
 ##.adsOverPrimary
 ##.adsPlaceHolder
@@ -15585,6 +15586,7 @@ _800x80_
 ##.banner728-ad
 ##.banner728-container
 ##.banner728x90
+##.bannerADS
 ##.bannerADV
 ##.bannerAd
 ##.bannerAd-module
@@ -21060,6 +21062,7 @@ _800x80_
 ##.video-ad-content
 ##.video-ads
 ##.video-ads-container
+##.video-ads-grid
 ##.video-ads-wrapper
 ##.video-adv
 ##.video-advert
@@ -50467,6 +50470,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||affiliates.thrixxx.com^
 ||allanalpass.com/visitScript/
 ||amarotic.com/Banner/$third-party
+||amateur.tv/freecam/$third-party
 ||amateurporn.net^$third-party
 ||asg.bhabhiporn.pro^
 ||asianbutterflies.com/potd/
@@ -53202,7 +53206,7 @@ coin360.com##.azJOX6
 smallseotools.com##.b
 dailyvoice.com##.b-banner
 hypestat.com##.b-error
-seattlepi.com##.b-gray300
+seattlepi.com##.b-gray300.bt
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,search.frontier.com,searchguide.level3.com##.b-links
 kyivpost.com##.b-title
@@ -53988,6 +53992,8 @@ westword.com##.hil28zhf1wyd
 highwayradio.com##.hiway-widget
 hellomagazine.com##.hm-ad-container
 ndtv.com##.hmpage_rhs
+seattlepi.com##.hnpad-Flex1
+seattlepi.com##.hnpad-Inline
 cryptorank.io##.hofjwZ
 bizarrepedia.com##.holder
 finbold.com##.holder-bg
@@ -54594,6 +54600,7 @@ insauga.com##.proper-content-dynamic
 planetrugby.com##.ps-block-a
 kathmandupost.com##.pt-0
 gonintendo.com##.pt-5
+seattlepi.com##.pt40
 1980-games.com,flash-mp3-player.net,gameslol.net,theportugalnews.com,tolonews.com##.pub
 starsinsider.com##.pub-container
 yabiladi.com##.pub2
@@ -56844,7 +56851,7 @@ amateur-vids.eu,mature.community,mature.mom,mature.sexy,milf.community,milf.mom,
 indianpornvideos2.com##.happy-footer-mobile
 koreanstreamer.xyz,vrhotporn.top##.happy-header
 indianpornvideos2.com##.happy-header-mobile
-nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
+cheemsporn.com,nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
 sexseeimage.com##.happy-player-beside
 sexseeimage.com##.happy-player-under
 sexseeimage.com##.happy-section
@@ -57576,6 +57583,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
 @@||rubiconproject.com/prebid/dynamic/$script,domain=ask.com
+@@||rule34.us/images/ad/$image,~third-party
 @@||runescape.wiki^$image,~third-party
 @@||s.ntv.io/serve/load.js$domain=titantv.com
 @@||salfordonline.com/wp-content/plugins/wp_pro_ad_system/$script
@@ -59774,6 +59782,13 @@ newduba.cn###jq_youxi
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||qfdtqq.com^
+||cennv.cn^
+||agwdac.xyz^
+||turifb.xyz^
+||mfifsux.xyz^
+||7067.top^
+||giold.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -108996,7 +109011,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca|virginmedia.com
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
