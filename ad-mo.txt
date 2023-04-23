@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l+uhIVVqZF5vv1csahED0Q
+! Checksum: xLiKgYSd7l+fm+X+leDoCQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202304230918
-! Last Modified: 2023年04月23日 09:18
+! Version: 202304231417
+! Last Modified: 2023年04月23日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55485,7 +55485,7 @@ tekdeeps.com##.zAzfDBzdxq3
 windows101tricks.com##.zanui-container
 antimusic.com##.zerg
 thehackernews.com##.zoho-box-1
-bellinghamherald.com,charlotteobserver.com,fresnobee.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,newsobserver.com##.zone
+bellinghamherald.com,charlotteobserver.com,fresnobee.com,heraldonline.com,idahostatesman.com,kansas.com,kansascity.com,kentucky.com,macon.com,miamiherald.com,modbee.com,newsobserver.com,sacbee.com,thenewstribune.com,thestate.com,tri-cityherald.com##.zone
 bellinghamherald.com##.zone-el
 exchangerates.org.uk##[alt="banner"]
 urbandictionary.com##[aria-label*="Advertise"]
@@ -60016,6 +60016,10 @@ newduba.cn###jq_youxi
 ||jeidd.xyz^
 ||jyxfvp.xyz^
 ||jbtfmis.xyz^
+||dtnhjzl.xyz^
+||yywh.vip^
+||amryqmm.cn^
+||donku.club^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -88791,6 +88795,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hatefulrequest.com^
 ||hauntlist.com^
 ||headyhook.com^
+||healflowers.com^
 ||hearinglizards.com^
 ||hearthorn.com^$third-party
 ||heavyplayground.com^
@@ -88924,6 +88929,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||materialisticmark.com^
 ||materialisticmoon.com^
 ||materialmoon.com^$third-party
+||materialplayground.com^
 ||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^
