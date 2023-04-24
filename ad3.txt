@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xlxlP7aP0UYhJzVz6mTlAQ
+! Checksum: TnBCoMdU67ue13ptkYIcpw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304240913
-! Last Modified: 2023年04月24日 09:13
+! Version: 202304241419
+! Last Modified: 2023年04月24日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2051,6 +2051,10 @@ newduba.cn###jq_youxi
 ||yuebog.xyz^
 ||maoqxyl.xyz^
 ||koekd.xyz^
+||rizgtf.xyz^
+##a[href*="/d6586.com:"]
+||uzuarlv.cn^
+||xueyugaoyuan.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13293,6 +13297,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+duelmeta.com##.single-top-html
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -29626,6 +29631,7 @@ _mongo_stats/
 ||the-ozone-project.com^
 ||thefontzone.com^
 ||tncid.app^
+||track-selectmedia.com^
 ||trackclicks.info^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -33930,6 +33936,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.rechtslupe.org^
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
+||area51.to^$third-party
 ||asadcdn.com^$third-party
 ||atsfi.de^$third-party
 ||audiencemanager.de^$third-party
@@ -34644,6 +34651,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
+||solucx.com.br^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
 ||voxus.com.br^$third-party
@@ -39386,6 +39394,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
+||stats.newsweek.com^
 ||stats.pandora.com^
 ||stats.paste2.org^
 ||stats.pstream.net^
@@ -39620,6 +39629,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wikimonde.com/h.php
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
+||wiztube.xyz/cdn-cgi/trace
 ||wolfram.com/common/javascript/wal/
 ||wondershare.com/trk
 ||wsj.com/asset/amt.js
@@ -53173,6 +53183,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||top.mail.ru/tc?js
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
+||trk.mail.ru^
 ||tut.by/stat/
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
