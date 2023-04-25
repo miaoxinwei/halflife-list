@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d+jqeN/+a+ZLU7MTp1RGtA
+! Checksum: WBbXUQNpUrkvTQG6waOCXQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304251418
-! Last Modified: 2023年04月25日 14:18
+! Version: 202304252027
+! Last Modified: 2023年04月25日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -53512,7 +53512,7 @@ timesofindia.indiatimes.com##.addblock
 aish.com##.adholder-sidebar
 auto-data.net##.adin
 boards.4channel.org##.adl
-animalfactguide.com,portlandmonthlymag.com,romsgames.net,sportsmediawatch.com##.adlabel
+animalfactguide.com,msn.com,portlandmonthlymag.com,romsgames.net,sportsmediawatch.com##.adlabel
 prokerala.com##.adm-unit
 goldderby.com##.adma
 brickset.com##.admin.buy
@@ -53527,6 +53527,8 @@ vice.com##.adph
 dallasinnovates.com##.ads-article-body
 gosunoob.com,indianexpress.com,roblox.com,spotify.com,wccftech.com##.ads-container
 fintech.tv##.ads-img
+auto.hindustantimes.com##.adsHeight300x600
+auto.hindustantimes.com##.adsHeight970x250
 games2jolly.com##.ads_310_610_sidebar_new
 metro.co.uk##.ads__index__adWrapper--cz7QL
 glanceoflife.com##.ads_margin
@@ -53866,6 +53868,7 @@ dappradar.com##.bottom-networks
 codeproject.com##.bottom-promo
 cnbctv18.com##.bottom-sticky
 coincodex.com##.bottom3
+auto.hindustantimes.com##.bottomSticky
 softicons.com##.bottom_125_block
 softicons.com##.bottom_600_250_block
 imgtaxi.com##.bottom_abs
@@ -54225,6 +54228,7 @@ worldscreen.com##.embdad
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-header__desktop__article-prefill-container
+autostraddle.com##.end-of-article-ads
 endtimeheadlines.org##.endti-widget
 floridianpress.com##.enhanced-text-widget
 kupondo.com##.entry-content > .row
@@ -54508,6 +54512,7 @@ barstoolsports.com##.htl-ad__container
 nameberry.com##.htlad-InContent_Flex
 nameberry.com##.htlad-Leaderboard_Flex
 wtop.com##.hubb-at-rad-header
+huddle.today##.huddle-big-box-placement
 myabandonware.com##.i528
 animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
@@ -55339,6 +55344,7 @@ sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 metalsucks.net##.single-300-insert
 abovethelaw.com##.single-post__sponsored-post--desktop
+policyoptions.irpp.org##.single__ad
 deshdoaba.com##.site-branding
 sassyhongkong.com##.site-leaderboard
 dailycoffeenews.com##.site-top-ad-desktop
@@ -55652,6 +55658,7 @@ igg-games.com##.uk-panel.widget-text
 softarchive.is##.un-link
 pixhost.to##.under-image
 hidefninja.com##.underads
+inquinte.ca##.unit-block
 bobvila.com##.unit-header-container
 sciencedaily.com##.unit1
 sciencedaily.com##.unit2
@@ -56069,6 +56076,7 @@ drwealth.com##[width="640"]
 4chan.org##[width="728"]
 elitepvpers.com##[width="729"]
 elitepvpers.com##[width="966"]
+presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
 freshplaza.com##a.banner
@@ -56420,7 +56428,6 @@ imgbabes.com##div[style^="width:604px;"]
 interglot.com,sodapdf.com,stopmalvertising.com##div[style^="width:728px;"]
 tvtv.us##div[style^="z-index: 1100; position: fixed;"]
 ebay.com##div[title="ADVERTISEMENT"]
-presearch.com##div[x-data*="kwAdFirst"]
 adblock-tester.com##embed[width="240"]
 imgburn.com##font[face="Arial"][size="1"]
 realitytvworld.com##font[size="1"][color="gray"]
@@ -56735,6 +56742,7 @@ msn.com###partners
 msn.com###promotions
 msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
+msn.com##.drrTopAdWrapper
 msn.com##.galleryPage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.intra-article-ad-full
 msn.com##.intra-article-ad-half
