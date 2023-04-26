@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TnT0YustN/rvkEmlBNRVnQ
+! Checksum: emlBbPCaclsn+cPOOvvaqA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304260217
-! Last Modified: 2023年04月26日 02:17
+! Version: 202304260911
+! Last Modified: 2023年04月26日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -197,6 +197,7 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/bookxiaoshuo.oss-
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -2077,6 +2078,13 @@ newduba.cn###jq_youxi
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||ychkujj.cn^
+||wwqfqq.com^
+||jndyl.xyz^
+||gxemtes.xyz^
+||zcdfll.xyz^
+||meexx.xyz^
+||goiagm.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -36023,6 +36031,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||levelaccess.net/analytics/
+||lhinsights.com/collect?
 ||libcdnjs.com/api/event
 ||licdn.com/*.gif?rnd=
 ||licensing.bitmovin.com/impression
