@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cFTMRxUz3I2LIUEWkqxDLQ
+! Checksum: ifuZjt5Hf/AARvvZ7bAWVw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304301417
-! Last Modified: 2023年04月30日 14:17
+! Version: 202304302025
+! Last Modified: 2023年04月30日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2147,6 +2147,8 @@ newduba.cn###jq_youxi
 ||cdkke.xyz^
 ||mrruuov.cn^
 ||4388888.xyz^
+||4cjh.xyz^
+##a[href*=".tdchat.in"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -12487,7 +12489,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||rfidworld.com.cn/js/RFID.js
 ||rfidworld.com.cn/js/RFIDExec.js
 ||rfidworld.com.cn/Notice/Home
-||ri1.site/wp-content/uploads/*x400.
 ||riaway.com/statics/idea.jpg
 ||rigengjihua.cn/banner/
 ||right.com.cn/forum/static/image/common/logo*.gif
@@ -14228,7 +14229,7 @@ hao.360.cn,hao.360.com###left_float
 sina.com.cn###left_focus_ad
 hao123.com###leftbannerv2
 xc6b.com###leftbottbox
-ri1.site,www.wenxuecity.com###leftside
+www.wenxuecity.com###leftside
 hao123.com###lefttip
 hao123.com###lefttip-container
 iplaysoft.com###link1111
@@ -14499,7 +14500,7 @@ uc123.com###right_elevator
 gmw.cn###rightad1 + .contentColumnRight
 xc6b.com###rightbottbox
 ixueyi.com,shangxueba.com###rightfloatdiv
-ri1.site,www.wenxuecity.com###rightside
+www.wenxuecity.com###rightside
 nczsks.com###rightyxjs
 motocity.com.tw###rotator
 so.com###rt-interest-list
@@ -16328,7 +16329,6 @@ iqshw.com##.iqshwad-comm
 haojiyou.la##.iqshwad-div
 douyu.com##.isLink[href^="https://igxe.cn/"]
 czsp12.com##.iswindow
-sokankan51.cc##.item > .item > a[target="_blank"]
 carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
 gansudaily.com.cn##.itemFloat
 cnbeta.com##.items_area .time
@@ -26771,7 +26771,6 @@ m.babytree.com##script + a[class]
 /pageLevelOmniture.
 /pagelogger/connector.php?
 /pageloggerobyx.
-/pages/analytics-$script
 /pagestat/*
 /pagestat?
 /PageStatistics/*
@@ -30585,6 +30584,7 @@ _mongo_stats/
 ||k3node.com^$third-party
 ||kameleoon.com^$third-party
 ||kameleoon.eu^$third-party
+||kaminari.click^$third-party
 ||kampyle.com^$third-party
 ||kantartns.lt^$third-party
 ||kaxsdc.com^$third-party
@@ -55169,7 +55169,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||1001trackstats.com/api/$xmlhttprequest,domain=songstats.com
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||accounts.intuit.com/fe_logger?$~third-party
-@@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
@@ -55204,7 +55203,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
 @@||app.pangolin.exchange/assets/analytics-$~third-party
-@@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
 @@||atl-paas.net/analytics/event
@@ -55289,7 +55287,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=einthusan.tv|staples.ca|tlk.io
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
-@@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.unity.com/dist/udash/app/assets/services/analytics/$domain=dashboard.unity.com|dashboard.unity3d.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|dashboard.getdriven.app|usa.experian.com
