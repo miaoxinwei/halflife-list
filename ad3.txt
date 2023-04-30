@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ifuZjt5Hf/AARvvZ7bAWVw
+! Checksum: aAIqbtatHGph06+FP89utw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304302025
-! Last Modified: 2023年04月30日 20:25
+! Version: 202305010216
+! Last Modified: 2023年05月01日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -919,12 +919,12 @@ stgowan.com
 ?method=baidu.ting.commercial.tactics&
 _billboard_320x100.iframe.
 _btbttme/fox/img/QT_
+_dasiqq315.
 _fioiwhfo_
 _float_fuo.js
 _naimabdd_
 _popAds.
 _tm11_pmt_
-_dasiqq315.
 _yad_jsonp_
 ubmcmm.baidustatic.com
 |http://*.cn/ad/
@@ -1759,6 +1759,7 @@ newduba.cn###jq_youxi
 ##a[href*=".bucd.icu"]
 ##a[href*=".mmrjmh.com/"]
 ##a[href*=".oidmwq2v.cn"]
+##a[href*=".tdchat.in"]
 ~v2ny.org##a[href*=".v2ny.org"]
 ##a[href*="/bucd.top"]
 ##a[href*="/d6586.com:"]
@@ -1771,7 +1772,9 @@ newduba.cn###jq_youxi
 ||230579.top^
 ||331qka.cn^
 ||39nw.com^
+||4388888.xyz^
 ||480img.com^
+||4cjh.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -1794,6 +1797,7 @@ newduba.cn###jq_youxi
 ||adbtwyxl96.fun^
 ||agwdac.xyz^
 ||aircraft-fapi.club^
+||ajjgune.cn^
 ||ajucem.xyz^
 ||akdhiahcjojdkck.com^
 ||alejd.xyz^
@@ -1826,6 +1830,7 @@ newduba.cn###jq_youxi
 ||ccohayo.xyz^
 ||cdcc3.com^
 ||cdfda.xyz^
+||cdkke.xyz^
 ||cdn-99-pic.cc^
 ||cennv.cn^
 ||cfxkluv.cn^
@@ -1881,6 +1886,7 @@ newduba.cn###jq_youxi
 ||goiagm.xyz^
 ||golden88.co^
 ||gpqicw.xyz^
+||grxeyig.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
 ||gykyec.xyz^
@@ -1923,6 +1929,7 @@ newduba.cn###jq_youxi
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jiangzimeng1.cn^
+||jinmin.online^
 ||jiqadoi.cn^
 ||jiuba20230320.live^
 ||jlzz.name^
@@ -1964,6 +1971,7 @@ newduba.cn###jq_youxi
 ||mindopu.com^
 ||moend.xyz^
 ||mrgecm.xyz^
+||mrruuov.cn^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyx.ltd^
@@ -1994,6 +2002,7 @@ newduba.cn###jq_youxi
 ||poopd.xyz^
 ||poqwnllkm.com^
 ||ppshop.club^
+||pqldzp.xyz^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
@@ -2016,6 +2025,7 @@ newduba.cn###jq_youxi
 ||reffnik.cn^
 ||rencaihome.xyz^
 ||rizgtf.xyz^
+||rksnqq.com^
 ||rpajqxo.cn^
 ||rqytqq.com^
 ||rsbepv.xyz^
@@ -2124,6 +2134,7 @@ newduba.cn###jq_youxi
 ||zdlnhv.xyz^
 ||zdo-bdg.xyz^
 ||zdyuoae.xyz^
+||zgyvg.top^
 ||zhalinyyds.com^
 ||zhemu.xyz^
 ||zhoubo01.cn^
@@ -2138,17 +2149,6 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||jinmin.online^
-||ajjgune.cn^
-||grxeyig.xyz^
-||rksnqq.com^
-||pqldzp.xyz^
-||zgyvg.top^
-||cdkke.xyz^
-||mrruuov.cn^
-||4388888.xyz^
-||4cjh.xyz^
-##a[href*=".tdchat.in"]
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -34388,6 +34388,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblockmetrics.ru^$third-party
 ||admile.ru^$third-party
 ||adx.com.ru^$third-party
+||airlogs.ru^$third-party
 ||announcement.ru^$third-party
 ||apkonline.ru^$third-party
 ||audsp.com^$third-party
@@ -34442,6 +34443,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mediatoday.ru^$third-party
 ||metaversn.site^$third-party
 ||metrika-informer.com^$third-party
+||mobtop.com^$third-party
+||mobtop.ru^$third-party
 ||mokuz.ru^$third-party
 ||more-data.ru^$third-party
 ||musiccounter.ru^$third-party
@@ -34658,6 +34661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
+||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-production.hapyak.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
@@ -39231,7 +39235,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||twitter.com/i/csp_report?
 ||twitter.com/i/jot
 ||typepad.com/t/stats?
-||u989.theweek.com^
 ||ua.indianexpress.com^
 ||uber.com/_events
 ||uber.com/_track
@@ -39561,7 +39564,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zoominfo.com/osx7m0dx/init.js
 ://a02342.
 ||cb-mms.carbuyer.co.uk^
-||cdn-alliancegravity.s3.amazonaws.com^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
 ||cmp.huffingtonpost.fr^
@@ -39574,19 +39576,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmp.tek.no^
 ||cmp.telerama.fr^
 ||d.sourcepoint.capitalfm.com^
-||eurogamer-it.eurogamer.it^
-||eurogamer-pl.eurogamer.pl^
-||eurogamer-pt.eurogamer.pt^
 ||fuse.forbes.com^
 ||h-bid.com^$third-party
-||mms.wwe.com^
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
 ||sourcepoint-mms.mylifetime.com^
 ||trustarc.mgr.consensu.org/get?
-||twus-mms.theweek.com^
-||usgamer-us.usgamer.net^
 ||vg247-p2.vg247.com^
+||vg247-uk.vg247.com^
 /misites/*
 /yozons-lib/*
 ||aerlingus.com/ahktqsewxjhguuxe.js
@@ -55828,6 +55825,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
 @@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
+@@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||howtonote.jp/google-analytics/$image,~third-party
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
 @@||justmyshop.com/gate/criteo/product-id.js$~third-party
