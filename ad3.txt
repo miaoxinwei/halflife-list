@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MH7J/23S1Ad3l5uTKUJaTg
+! Checksum: khAxvsyKPCjwoYQjHWSoYQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305010915
-! Last Modified: 2023年05月01日 09:15
+! Version: 202305011418
+! Last Modified: 2023年05月01日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2159,6 +2159,9 @@ newduba.cn###jq_youxi
 ||feiju12138.xyz^
 ||jstimiz.xyz^
 ||acqc9.com^
+||tzmhqll.cn^
+||sbyueyue.xyz^
+||huangji1.cn^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -13399,6 +13402,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+fantuanhd.com###t-img-box
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -21020,25 +21024,17 @@ $image,third-party,domain=258zw.com
 .xyz/?channelCode=$csp=script-src
 /1.js?ssfrid=$script,third-party
 /121sdw/*$script,third-party
-/145sd*.js?$script,third-party
-/145tdww/*.js
-/168mj*.js?$script,third-party
-/168tjsdsdsiqxxvi93.js
 /1MObaudu.$script,xmlhttprequest
 /1skwwd.
 /1xhtml?$script,third-party
 /2me3/true.js
-/555hsdsj/*
-/555hsdsjTT/*
 /CodeFiles/*.aspx?placeid=$third-party
-/aa_*_a1.js$script,third-party
 /assets/frameworks/types-*?plm=$script,third-party
 /bbhd_*_kkis.js
 /c.js#pid=$script,third-party
 /ce_l.aspx?showid=$third-party
 /ceshi127722.
 /dayu2.html?channelCode=$csp=script-src
-/hmzn_*_*_*.js?$script,third-party
 /jquery-ui.js?166$script,~third-party
 /js/easyAD.js
 /js/easyAD2.js
@@ -21057,7 +21053,6 @@ $image,third-party,domain=258zw.com
 /timer.aspx?649$script,~third-party
 /timer.aspx?719$script,~third-party
 /vbvb_*_pmpm.js
-/windowwap_*_*_*.js?$script,third-party
 /xxgg/0dd*.js
 /xxgg/app.js
 /xxgg/book.js
@@ -25546,7 +25541,6 @@ m.babytree.com##script + a[class]
 /front-metrics/*
 /frontend-gtag.
 /frontend-sentry-
-/frosmo.easy.js
 /frtrack.
 /fsrscripts/*
 /FTTrack2.js
@@ -31463,14 +31457,12 @@ _mongo_stats/
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
 ||speedhq.net^$third-party
-||spklw.com^$third-party
 ||splitbee.io^$third-party
 ||splittag.com^$third-party
 ||splyt.com^$third-party
 ||sponsored.com^$third-party
 ||spring.de^$third-party
 ||springmetrics.com^$third-party
-||sprinklecontent.com^$third-party
 ||sptag.com^$third-party
 ||sptag1.com^$third-party
 ||spycounter.net^$third-party
@@ -34110,7 +34102,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||synovite-scripts.com^$third-party
 ||traffic4u.nl^$third-party
 ||counter.ok.ee^$third-party
-||frosmo.com^$third-party
 ||inpref.com^$third-party
 ||kavijaseuranta.fi^$third-party
 ||leiki.com^$third-party
@@ -34935,6 +34926,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bmrg.reflected.net^
 ||bobparsons.com/image.aspx?
 ||bolt.com/v1/log?
+||bonfire.spklw.com^
 ||booking.com/pxpixel.html
 ||botdetection.hbrsd.com^
 ||bpath.com/count.dll?
@@ -35230,6 +35222,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
+||data.tm-awx.com/smile-web-v2/
+||data.tm-awx.com/smile-web.min.js
 ||data.woosmap.com^
 ||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
@@ -36552,7 +36546,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.shop2market.com^
 ||track.sitetag.us^
 ||track.social.com^
-||track.sprinklecontent.com^
 ||track.strife.com^
 ||track.tcppu.com^
 ||track.td3x.com^
@@ -36812,6 +36805,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||widget-pixels.outbrain.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
+||widgets.sprinklecontent.com/v2/sprinkle.js
 ||widgetserver.com/metrics/
 ||widgetserver.com/t/
 ||widgetserver.com^*/image.gif?
@@ -37535,7 +37529,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dnt-userreport.com^
 ||er.sanoma-sndp.fi/stats/
 ||er.sanoma-sndp.fi/v2/stats/
-||inpref.s3.amazonaws.com^$third-party
 ||insight.fonecta.fi^
 ||nelonenmedia.fi/logger/
 ||tags.op-palvelut.fi^
@@ -54238,9 +54231,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||lecho.be/track/
 ||lefigaro.fr/ext/analytics
 ||lefigaro.fr/ext/figanalytics
-||lemonde.fr/*&gatp=
-||lemonde.fr/*&ptag=
-||lemonde.fr/*&vtag=
+||lemonde.fr/*&stc=
 ||lemonde.fr/bucket/*/tagistan.
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
@@ -55770,9 +55761,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||assets.strossle.com/strossle-widget-sdk/$script,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 @@||certona.net^*/resonance.js$domain=zooplus.fi
 @@||clickdimensions.com^$subdocument,domain=fingrid.fi
-@@||cloudfront.net/frosmo.easy.js$domain=hobbyhall.fi|lippu.fi
-@@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
-@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|eeva.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
@@ -55884,7 +55872,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
 !---------- Polish ----------
-@@/frosmo.easy.js$domain=sklep.pl.canalplus.com
 @@||gemius.pl/gstream.js
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
