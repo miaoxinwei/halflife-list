@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KbSn7A+FKoDDPxF7d7c0ag
+! Checksum: XkEzz+XMNLlbL5H8aAJs3w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202304290911
-! Last Modified: 2023年04月29日 09:11
+! Version: 202305022029
+! Last Modified: 2023年05月02日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1300,6 +1300,7 @@ series-de.online#$#abort-on-property-read doSecondPop; abort-on-property-read do
 animefenix.com#$#abort-on-property-read p18
 peliculasyseries.gratis,ver-peliculas.gratis,verpeliculasio.online#$#abort-on-property-write window.open
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
+seriesyonkis.cx#$#abort-on-property-read window.atob; abort-on-property-read open; abort-on-property-read _0x4c81
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
 ! *** abp-filters-anti-cv:turkish.txt ***
@@ -1360,10 +1361,15 @@ javnong.cc#$#abort-on-property-read Math.round
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
 vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
 truyengihotne.com#$#abort-current-inline-script document.createElement checkIntersection
+zo3x.ml,zo3x.cc,zo3x.com,zo3x.vip#$#abort-current-inline-script document.querySelectorAll popMagic
 ! *** abp-filters-hotfix:hotfix.txt ***
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
-! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709 / FD-3782 / FD-3821
+! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709 / FD-3782 / FD-3821 / FD-3868
+@@||scribblestring.com^$script,xmlhttprequest
+@@||serioussuit.com^$script,xmlhttprequest
+@@||losslace.com^$script,xmlhttprequest
+@@||healflowers.com^$script,xmlhttprequest
 @@||exchangedetail.com^$script,xmlhttprequest
 @@||engineertrick.com^$script,xmlhttprequest
 @@||pumpedpancake.com^$script,xmlhttprequest
