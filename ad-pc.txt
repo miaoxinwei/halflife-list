@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9OX3PaUDcegBYgX0NmX90g
+! Checksum: j/cK3pNmBNYBDEA1iWYaZA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305020217
-! Last Modified: 2023年05月02日 02:17
+! Version: 202305020911
+! Last Modified: 2023年05月02日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5296,6 +5296,7 @@ _800x80_
 /?placement=*&redirect$popup
 /?redirect&placement=$popup
 /?zoneid=*&timeout=$popup
+/_xa/ads?$popup
 /a/display.php?$popup
 /ad.php?tag=$popup
 /ad.php?zone$popup
@@ -24304,6 +24305,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||agukalty.net^
 ||agurgeed.net^
 ||agvmfgsdaotjmoq.com^
+||ahabcaca.com^
 ||ahadsply.com^
 ||ahagreatlypromised.com^
 ||ahaheartburndo.com^
@@ -26681,6 +26683,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||bootstrap-js.com^
 ||bootstraplugin.com^
 ||bop-bop-bam.com^
+||bopexacta.com^
 ||bopvetgel.com^
 ||borary.com^
 ||boreasinflash.com^
@@ -27371,6 +27374,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||celeritascdn.com^
 ||cellaraudacityslack.com^
 ||cellarpassion.com^
+||cellistbeats.com^
 ||cellsmonitor.com^
 ||cellsquickie.com^
 ||celotexchalaze.website^
@@ -33969,6 +33973,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||kinripen.com^
 ||kinsecutiony.club^
 ||kinsmenmislies.com^
+||kioeasodamid.com^
 ||kipeir.com^
 ||kirgeemo.com^
 ||kirkmanhirple.com^
@@ -34056,6 +34061,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||koalaups.com^
 ||koapsuha.net^
 ||kobeden.com^
+||kocaisin.xyz^
 ||kofirusy.pro^
 ||kogutcho.net^
 ||koindut.com^
@@ -34715,6 +34721,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||lotsooms.com^
 ||lotteryaffiliates.com^
 ||lotteryhibernateauthorized.com^
+||loucegle.net^
 ||louchees.net^
 ||loud-tower.pro^
 ||loudmemory.pro^
@@ -39052,6 +39059,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||ramsonhunk.com^
 ||ramstripedbull.com^
 ||ramtakeout.com^
+||ramusiproxied.com^
 ||rancidstrait.com^
 ||randallbesin.com^
 ||randiul.com^
@@ -39150,6 +39158,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||readserver.net^
 ||readyblossomsuccesses.com^
 ||reagend.com^
+||reaginsroset.com^
 ||reajyu.net^
 ||real-consequence.pro^
 ||real-difficulty.pro^
@@ -39546,6 +39555,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||revolvefarfetched.com^
 ||revolvemockerycopper.com^
 ||revolveoppress.com^
+||revotedmilts.com^
 ||revresponse.com^
 ||revrtb.com^
 ||revrtb.net^
@@ -39845,6 +39855,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||rssrqecohagbk.xyz^
 ||rsthwwqhxef.xyz^
 ||rszimg.com^
+||rszqtry.cn^
 ||rtb-media.me^
 ||rtb1bid.com^
 ||rtbbnr.com^
@@ -42077,6 +42088,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||thricemodestsuffix.com^
 ||thrillingblindly.com^
 ||thriveradioactivecheers.com^
+||throgetfd.com^
 ||throngsarseno.com^
 ||throughdfp.com^
 ||thrtle.com^
@@ -49560,7 +49572,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||clickadu.com^$third-party
 ||clickaine.com^$third-party
 ||clipxn.com^$third-party
-||cross-system.com^$third-party
+||cross-system.com^$script,third-party
 ||cuserphochun.shop^
 ||cwchmb.com^
 ||cybernetentertainment.com^$third-party
@@ -52794,7 +52806,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ||icepbns.com^$popup,domain=iceporn.com
 ||livejasmin.com/pu/$popup
 ||missav.com/pop?$popup
-||pornhub.com/_xa/ads?$popup
 ||videowood.tv/pop?$popup
 ||xtapes.to/out.php$popup
 ||xteen.name/xtn/$popup
@@ -60868,6 +60879,14 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||qkwsqq.com^
+||exwxrfz.cn^
+||vifzrf.xyz^
+||cderyu.club^
+||mrbtkyn.xyz^
+||ceodk.xyz^
+||bjwh8.xyz^
+||9h622.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -92276,6 +92295,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||target.mixi.media^
 ||targeting.*.arcpublishing.com^
 ||tarteaucitron.io/log/
+||tatadigital.com/analytics-engine/
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
 ||technolutions.net/ping?
@@ -111190,6 +111210,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||locoloader.com/assets/js/ga.min.js$script,~third-party
 @@||logging.apache.org^$~third-party
 @@||logo.clearbit.com^$image,third-party
+@@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||matomo.miraheze.org/matomo.js$script,~third-party
@@ -112234,6 +112255,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 !------------------------Specific element hiding rules------------------------!
+focus.cn##.module-common-float-im
+focus.cn##.shequn-code-img
 easylearn.baidu.com##.feedback-icon
 easylearn.baidu.com##.vip-banner-cont
 djljz.cn###djl_hdhb

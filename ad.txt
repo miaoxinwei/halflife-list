@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eEIIwrrnFml6jkxNZGGTUA
+! Checksum: e8CtmiLHmhR+JG6ESODqfQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202305020217
-! Last Modified: 2023年05月02日 02:17
+! Version: 202305020911
+! Last Modified: 2023年05月02日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2614,6 +2614,14 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||qkwsqq.com^
+||exwxrfz.cn^
+||vifzrf.xyz^
+||cderyu.club^
+||mrbtkyn.xyz^
+||ceodk.xyz^
+||bjwh8.xyz^
+||9h622.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -22358,6 +22366,8 @@ _box_ad_
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 !------------------------Specific element hiding rules------------------------!
+focus.cn##.module-common-float-im
+focus.cn##.shequn-code-img
 easylearn.baidu.com##.feedback-icon
 easylearn.baidu.com##.vip-banner-cont
 djljz.cn###djl_hdhb

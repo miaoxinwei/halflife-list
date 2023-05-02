@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1lFnfxzzq51DAXf7YKiMTQ
+! Checksum: 5dRxBl++MiExGeqJwHVTTA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305020217
-! Last Modified: 2023年05月02日 02:17
+! Version: 202305020911
+! Last Modified: 2023年05月02日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2167,6 +2167,14 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||qkwsqq.com^
+||exwxrfz.cn^
+||vifzrf.xyz^
+||cderyu.club^
+||mrbtkyn.xyz^
+||ceodk.xyz^
+||bjwh8.xyz^
+||9h622.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21911,6 +21919,8 @@ _box_ad_
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 !------------------------Specific element hiding rules------------------------!
+focus.cn##.module-common-float-im
+focus.cn##.shequn-code-img
 easylearn.baidu.com##.feedback-icon
 easylearn.baidu.com##.vip-banner-cont
 djljz.cn###djl_hdhb
@@ -35876,6 +35886,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||target.mixi.media^
 ||targeting.*.arcpublishing.com^
 ||tarteaucitron.io/log/
+||tatadigital.com/analytics-engine/
 ||tcheck.outbrainimg.com^
 ||te.supportfreecontent.com^
 ||technolutions.net/ping?
@@ -54790,6 +54801,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||locoloader.com/assets/js/ga.min.js$script,~third-party
 @@||logging.apache.org^$~third-party
 @@||logo.clearbit.com^$image,third-party
+@@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||matomo.miraheze.org/matomo.js$script,~third-party
