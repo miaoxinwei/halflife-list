@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o83U8PE3ERLkLzW/zKQ11w
+! Checksum: ZaJVGg2yMYYQFqTiwGehLA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305030912
-! Last Modified: 2023年05月03日 09:12
+! Version: 202305031418
+! Last Modified: 2023年05月03日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51979,6 +51979,8 @@ browsershots.org#@#.advert_area
 ||sbfull.com/js/mainpc.js
 ||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
+||search.brave.com/serp/v1/static/serp-js/paid/
+||search.brave.com/serp/v1/static/serp-js/shopping/
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
 ||sermonaudio.com/images/sponsors/
@@ -53465,6 +53467,7 @@ neoseeker.com###section-pagetop
 searchenginejournal.com###sej-pop-wrapper
 analyticsinsight.net###sgpb-popup-dialog-main-div-wrapper
 v3rmillion.net###sharingPlace
+search.brave.com###shopping
 filedropper.com,lifenews.com###sidebar
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
 tellymix.co.uk###sidebar > div[style]
@@ -60961,6 +60964,9 @@ newduba.cn###jq_youxi
 ||234mx.club^
 ||diekd.xyz^
 ||wqweiog.xyz^
+||13niao20230422.live^
+||kzjkexn.cn^
+||acbe.club^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -86458,7 +86464,6 @@ _mongo_stats/
 ||ironbeast.io^$third-party
 ||ist-track.com^$third-party
 ||istrack.com^$third-party
-||iterable.com^$third-party
 ||ithinkthereforeiam.net^$third-party
 ||itrac.it^$third-party
 ||itracker360.com^$third-party
@@ -91556,6 +91561,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||iraiser.eu/analytics.js
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
+||iterable.com/analytics.js
 ||iubenda.com/write?
 ||iyisayfa.net/inc.php?
 ||jailbaitchan.com/tp/
@@ -111285,7 +111291,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||level.travel/tracker/tracker.js$script,~third-party
-@@||links.iterable.com/lists/$domain=clickup.com
 @@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.bbc.co.uk^*/comscore.js$~third-party
