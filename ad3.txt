@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +vf9tCo0ocMOepSxxD8cKA
+! Checksum: SA4qP88pMB7O0B42QACdTg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305030217
-! Last Modified: 2023年05月03日 02:17
+! Version: 202305030912
+! Last Modified: 2023年05月03日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2182,6 +2182,12 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||dshapv.xyz^
+||denghaishan1.cn^
+||dgfqqq.com^
+||234mx.club^
+||diekd.xyz^
+||wqweiog.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -33378,6 +33384,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mastertag.effiliation.com^$third-party
 ||mb-srv.com^$third-party
 ||megavisites.com^$third-party
+||mgtmod01.com^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
@@ -34975,6 +34982,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
 ||hb.vhsrv.com^
+||hcmanager.swifteq.com/hc_events/
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||heg-cp.com/upm/$third-party
 ||hello.myfonts.net/count/
@@ -37380,6 +37388,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.ringier.sk^
 ||interseek.si^*/visit.js
 ||1to1.bbva.com^
+||ab.blogs.es^
 ||advgo.net/hits/
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
@@ -37957,6 +37966,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hotstar.com/v1/track
 ||houzz.com/hsc/aetrk/
 ||houzz.com/js/log?
+||hqq.ac/cdn-cgi/trace
 ||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
@@ -38187,6 +38197,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nytimes.com/v1/purr-cache
 ||nzpages.co.nz/modules/common/track.js
 ||observe.metarouter.io^
+||oceanplay.xyz/cdn-cgi/trace
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
@@ -53643,6 +53654,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
+||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
@@ -55366,7 +55378,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||json.geoiplookup.io/?callback=$script,domain=chilepeajes.cl
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
+@@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
+@@||vodgc.net^*/genoa-event-tracking.min.js
 !---------- Swedish ----------
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||picsearch.com/js/comscore.js$domain=dn.se
