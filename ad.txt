@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: exBhwF4CmmXyRFUH1QP29Q
+! Checksum: kJOt7ooIjjz16M4HCvXUfg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202305042027
-! Last Modified: 2023年05月04日 20:27
+! Version: 202305050217
+! Last Modified: 2023年05月05日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2223,6 +2223,7 @@ newduba.cn###jq_youxi
 ||1136999.com^
 ||13niao20230422.live^
 ||1512a.com^
+||16niao20230125.live^
 ||18so.vip^
 ||230579.top^
 ||234mx.club^
@@ -2331,6 +2332,7 @@ newduba.cn###jq_youxi
 ||dyhnbgtsl.xyz^
 ||ealdi.xyz^
 ||ecav5.com^
+||eciea.xyz^
 ||efilgvz.cn^
 ||eitb7.top^
 ||ej65.xyz^
@@ -2340,6 +2342,7 @@ newduba.cn###jq_youxi
 ||excfig.xyz^
 ||exwxrfz.cn^
 ||falal.cn^
+||fangguanjia.xyz^
 ||feiju12138.xyz^
 ||feild.xyz^
 ||ffbjhl.xyz^
@@ -2360,8 +2363,10 @@ newduba.cn###jq_youxi
 ||gjxczx.xyz^
 ||goiagm.xyz^
 ||golden88.co^
+||gorpgeu.xyz^
 ||gpqicw.xyz^
 ||grxeyig.xyz^
+||grxwqq.com^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
 ||gykyec.xyz^
@@ -2390,6 +2395,7 @@ newduba.cn###jq_youxi
 ||iaacua.xyz^
 ||icesfeathers.fun^
 ||iepda.xyz^
+||ifeurcw.cn^
 ||igtchzp.cn^
 ||iidjo.xyz^
 ||ijnuhb.top^
@@ -2431,6 +2437,7 @@ newduba.cn###jq_youxi
 ||kucoa.xyz^
 ||kzjkexn.cn^
 ||kzjqraj.cn^
+||lcjyll.xyz^
 ||ledni.xyz^
 ||lendc.xyz^
 ||lianxi.link^
@@ -2439,6 +2446,7 @@ newduba.cn###jq_youxi
 ||luckydino.ren^
 ||lwtqqq.com^
 ||lxbbs.fun^
+||lxyl66.cn^
 ||maoqxyl.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -2459,6 +2467,7 @@ newduba.cn###jq_youxi
 ||networkname.xyz^
 ||npdkdb.xyz^
 ||nqyz.tw^
+||nsfdsa.xyz^
 ||nurahf.xyz^
 ||nvchmkw.cn^
 ||oimzak.xyz^
@@ -2481,6 +2490,7 @@ newduba.cn###jq_youxi
 ||pkynqq.com^
 ||poiqwnekb.com^
 ||poopd.xyz^
+||poppy.fit^
 ||poqwnllkm.com^
 ||ppshop.club^
 ||pqldzp.xyz^
@@ -2542,6 +2552,7 @@ newduba.cn###jq_youxi
 ||u1010.com^
 ||u1077.com^
 ||u55022.com^
+||u5nvu.xyz^
 ||u833ij.com^
 ||ubifyc.xyz^
 ||umcpebi.cn^
@@ -2586,6 +2597,7 @@ newduba.cn###jq_youxi
 ||wxxmt.xyz^
 ||wyjbvoz.xyz^
 ||wyynike.cn^
+||x4csq.top^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -2611,6 +2623,7 @@ newduba.cn###jq_youxi
 ||ychkujj.cn^
 ||yegzkw.xyz^
 ||yfohgo.xyz^
+||yikucdn.com^
 ||yingce.asia^
 ||yingnanyyds.com^
 ||yisangyyds.com^
@@ -2639,18 +2652,6 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||gorpgeu.xyz^
-||lxyl66.cn^
-||eciea.xyz^
-||poppy.fit^
-||lcjyll.xyz^
-||x4csq.top^
-||ifeurcw.cn^
-||nsfdsa.xyz^
-||fangguanjia.xyz^
-||grxwqq.com^
-||yikucdn.com^
-||u5nvu.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -14362,6 +14363,7 @@ duba.com###qq_adv
 qq.com###qqadv
 qq.com###qqmail_AD_container
 baidu.com###qrcode-chunwan
+axutongxue.com,axutongxue.net###qtqwb
 fsclzs.com###qvod
 user.qzone.qq.com###qz_notification
 qq.com###r_ad
@@ -20834,6 +20836,8 @@ smjb.net##div[style*="height: 50%"]
 ||jsdelivr.net/gh/diyibanzhu/
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kanshu5.net/js/index.js
+||kanshushi.com/js/nxnhsqe.
+||kanshushi.com/yyddssdd.
 ||loli.net^$domain=xinqingdou.net
 ||meiguixsw.com/images/*.js
 ||photo.*.html?tk=$script,third-party
@@ -20849,8 +20853,6 @@ smjb.net##div[style*="height: 50%"]
 ||ttzw.tv/tz/true.js
 ||weiyuedu.cc/skin/v3/js/dibu.js
 ||wwzw.cc/img/
-||kanshushi.com/js/nxnhsqe.
-||kanshushi.com/yyddssdd.
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||x81zw.co/js/dsnmd.
 ||xbiqugela.com/js/basisc.
