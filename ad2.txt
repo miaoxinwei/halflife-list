@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A3ppXpyGeYC4D9Fj7suoEg
+! Checksum: w5EGNZeMqDY4Mx8vSyRECg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202305040217
-! Last Modified: 2023年05月04日 02:17
+! Version: 202305040910
+! Last Modified: 2023年05月04日 09:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2193,6 +2193,12 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||gorpgeu.xyz^
+||lxyl66.cn^
+||eciea.xyz^
+||poppy.fit^
+||lcjyll.xyz^
+||x4csq.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -20400,6 +20406,8 @@ smjb.net##div[style*="height: 50%"]
 ||ttzw.tv/tz/true.js
 ||weiyuedu.cc/skin/v3/js/dibu.js
 ||wwzw.cc/img/
+||kanshushi.com/js/nxnhsqe.
+||kanshushi.com/yyddssdd.
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||x81zw.co/js/dsnmd.
 ||xbiqugela.com/js/basisc.
@@ -21305,7 +21313,6 @@ msn.com##.ad
 /common/ad.
 /common/ad_
 /contentAd.
-/css/ad.
 /css/ads.
 /data/ads/*
 /default/ads/*
