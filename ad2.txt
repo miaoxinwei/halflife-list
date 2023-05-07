@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Nbyas/YcKpf8pqIfdAqgyQ
+! Checksum: CBHfA7XyXgvCJmzV36WZ9Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202305070216
-! Last Modified: 2023年05月07日 02:16
+! Version: 202305070916
+! Last Modified: 2023年05月07日 09:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2227,6 +2227,11 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||xyzyqq.com^
+||ttpybz.xyz^
+||wx001.online^
+||hoiea.xyz^
+||dkcwnsu.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -18313,6 +18318,7 @@ zdface.com#@#.top-ad
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 tangdoucdn.com#@#.video-ad
 i-cable.com#@#.video_ad
+edu.sh.gov.cn#@#.short-ad
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
