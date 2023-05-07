@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kBUtrZoxaboPkinvZWRnYA
+! Checksum: uXfg7UsgJ3NkO5lGfwGXYQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305070916
-! Last Modified: 2023年05月07日 09:16
+! Version: 202305071417
+! Last Modified: 2023年05月07日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2232,6 +2232,10 @@ newduba.cn###jq_youxi
 ||wx001.online^
 ||hoiea.xyz^
 ||dkcwnsu.xyz^
+||dszhqww.cn^
+||guzhimian.fun^
+||pvjlfjz.cn^
+||chenze1.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -25152,7 +25156,6 @@ m.babytree.com##script + a[class]
 /gtm_monitor?
 /gtmProd.
 /gtmTracking.
-/gtrack.
 /gujTracker.
 /gv-analytics/*
 /gweb/analytics/*
@@ -27918,6 +27921,7 @@ m.babytree.com##script + a[class]
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://gtrack.*/dye
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
@@ -27925,6 +27929,7 @@ m.babytree.com##script + a[class]
 ://segment-api.
 ://segment-cdn.
 ://track.*/collect
+://track.*/dye
 ://track.*/visitor/
 ://tracker.*/pageview
 ://tracking.*/beacon/
@@ -31702,6 +31707,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazingairplane.com^$third-party
 ||ambiguousalarm.com^
 ||ambiguousanger.com^
+||ambiguousdinosaurs.com^
 ||ambiguousincome.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
@@ -53555,6 +53561,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||api.odysee.com/locale/get
+||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
 ||bmly.impots.gouv.fr^
 ||boingtv.fr/track_view
@@ -53569,6 +53576,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||easeus.com/default/js/aff_buy_tracking.js
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
+||eum2.caisse-epargne.fr^
 ||events-logs.doctolib.com^
 ||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
@@ -53626,6 +53634,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||space-blogs.net/include/counter/
 ||sta.zone-telechargement.
 ||stat.ouedkniss.com^
+||stats*.credit-cooperatif.coop^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
@@ -54948,7 +54957,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! googletagmanager.com/gtag/js
 @@||googletagmanager.com/gtag/js$domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|dholic.co.jp|ejgiftcards.com|enmotive.com|game.anymanager.io|herculesstands.com|honeystinger.com|hostingvergelijker.nl|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|modehasen.de|montcopa.org|nihontsushin.com|radiosarajevo.ba|rintraccialamiaspedizione.it|schwab.com|timparty.tim.it|toptal.com|virginplus.ca|winefolly.com|xl-bygg.no|zf1.tohoku-epco.co.jp
 !! googleoptimize.com/optimize.js
-@@||googleoptimize.com/optimize.js$domain=binglee.com.au|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
+@@||googleoptimize.com/optimize.js$domain=binglee.com.au|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
 !! google-analytics.com/plugins/ua/ec.js
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at|teddyfood.com|xxl.se
 !! google-analytics.com/ga.js
