@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 517FlXew09J4MykUcP0Lwg
+! Checksum: Nr6husLL3c3iLwdooVAjoQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305072025
-! Last Modified: 2023年05月07日 20:25
+! Version: 202305080216
+! Last Modified: 2023年05月08日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57150,6 +57150,7 @@ tunefind.com##div[class^="ImageListAdSlot_"]
 sportinglife.com##div[class^="Layout__TopAdvertWrapper-"]
 genius.com##div[class^="LeaderboardOrMarquee__"]
 appsample.com##div[class^="MapLayout_Bottom"]
+dailymotion.com##div[class^="NewWatchingDiscovery__adSection"]
 dsearch.com##div[class^="PreAd_"]
 games.dailymail.co.uk##div[class^="RightRail__displayAdRight_"]
 chloeting.com##div[class^="StickyFooterAds__Wrapper"]
@@ -59038,6 +59039,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||warpwire.net/AD/
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.net
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
+@@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
 @@||worldgravity.com^$script,domain=hotstar.com
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
@@ -60975,6 +60977,7 @@ newduba.cn###jq_youxi
 ||47zoz.xyz^
 ||480img.com^
 ||4cjh.xyz^
+||5251m.xyz^
 ||52qd.club^
 ||5xur.top^
 ||7067.top^
@@ -61051,6 +61054,7 @@ newduba.cn###jq_youxi
 ||cge.cc^
 ||chaozhunbb.xyz^
 ||chenyuzhou1.cn^
+||chenze1.cn^
 ||chnuuee.xyz^
 ||cjbpqq.com^
 ||cjcvd6.com^
@@ -61070,11 +61074,13 @@ newduba.cn###jq_youxi
 ||dertyhsf.xyz^
 ||dgfqqq.com^
 ||diekd.xyz^
+||dkcwnsu.xyz^
 ||doccd.xyz^
 ||donku.club^
 ||dqazwsxd.xyz^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
+||dszhqww.cn^
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
 ||dyhnbgtsl.xyz^
@@ -61116,6 +61122,7 @@ newduba.cn###jq_youxi
 ||gpqicw.xyz^
 ||grxeyig.xyz^
 ||grxwqq.com^
+||guzhimian.fun^
 ||gwide.xyz^
 ||gwvzgjb.cn^
 ||gxemtes.xyz^
@@ -61132,6 +61139,7 @@ newduba.cn###jq_youxi
 ||hgpdoa.cn^
 ||hhrnxr.xyz^
 ||himeneko.ink^
+||hoiea.xyz^
 ||hsili.ltd^
 ||hsrgnac.cn^
 ||huangji1.cn^
@@ -61255,6 +61263,7 @@ newduba.cn###jq_youxi
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
+||pvjlfjz.cn^
 ||qatuaad.cn^
 ||qfblqq.com^
 ||qfdtqq.com^
@@ -61308,6 +61317,7 @@ newduba.cn###jq_youxi
 ||tmochyf.cn^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||ttpybz.xyz^
 ||tuhipkz.xyz^
 ||turifb.xyz^
 ||twnafj.xyz^
@@ -61358,6 +61368,7 @@ newduba.cn###jq_youxi
 ||wvwl.cn^
 ||wwgqqq.com^
 ||wwqfqq.com^
+||wx001.online^
 ||wxxmt.xyz^
 ||wyjbvoz.xyz^
 ||wyynike.cn^
@@ -61380,6 +61391,7 @@ newduba.cn###jq_youxi
 ||xueyugaoyuan.xyz^
 ||xunjie.fun^
 ||xyjcpcb.cn^
+||xyzyqq.com^
 ||yanghetp.com^
 ||yangyuqing.xyz^
 ||yankuoyyds.com^
@@ -61418,16 +61430,6 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||xyzyqq.com^
-||ttpybz.xyz^
-||wx001.online^
-||hoiea.xyz^
-||dkcwnsu.xyz^
-||dszhqww.cn^
-||guzhimian.fun^
-||pvjlfjz.cn^
-||chenze1.cn^
-||5251m.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -77508,13 +77510,13 @@ chinatimes.com#@#.page_ad
 fjsen.com,nuomi.com#@#.right-ad
 perfectmatch.tw#@#.right_ad
 360zbz.com#@#.rightad
+edu.sh.gov.cn#@#.short-ad
 muve.org.tw#@#.sponsor-area
 muve.org.tw#@#.sponsor-wrap
 zdface.com#@#.top-ad
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 tangdoucdn.com#@#.video-ad
 i-cable.com#@#.video_ad
-edu.sh.gov.cn#@#.short-ad
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
