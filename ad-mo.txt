@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DiLXWRFOWOv3roHXu9E+DA
+! Checksum: 3T6EPdvqC+NQcSm/KCvmPg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305080909
-! Last Modified: 2023年05月08日 09:09
+! Version: 202305081418
+! Last Modified: 2023年05月08日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50614,6 +50614,7 @@ browsershots.org#@#.advert_area
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
+||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
 ||ak.imgaft.com^
 ||akamacdn.com/api/spots/
@@ -50706,7 +50707,7 @@ browsershots.org#@#.advert_area
 ||ddownload.com/images/promo/$third-party
 ||dealextreme.com/affiliate_upload/
 ||desperateseller.co.uk/affiliates/
-||digitaloceanspaces.com/WWW/$domain=7-zip.org
+||digitaloceanspaces.com/woohoo/
 ||disqus.com/ads-iframe/
 ||disqus.com/listPromoted?
 ||dtrk.slimcdn.com^
@@ -61483,6 +61484,8 @@ newduba.cn###jq_youxi
 ||bdrzxp.xyz^
 ||ipeef.xyz^
 ||mk795.cn^
+||zhanghao164.xyz^
+||risrauj.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
