@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OMxBbUouS3Xo0IolahNkJQ
+! Checksum: YD9XYjfRH/Sbm/ImLXmKhg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305080216
-! Last Modified: 2023年05月08日 02:16
+! Version: 202305080909
+! Last Modified: 2023年05月08日 09:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2237,6 +2237,13 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||sa3a.cn^
+||fangqingkai.icu^
+||xghnqq.com^
+||gixhlii.xyz^
+||bdrzxp.xyz^
+||ipeef.xyz^
+||mk795.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -28729,6 +28736,7 @@ _mongo_stats/
 ||vpdcp.com^
 ||vstats.me^
 ||wct-2.com^
+||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
 ||wmgroup.us^
@@ -34367,6 +34375,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clickiocdn.com/consent/log/
 ||clickiocdn.com/utr/
 ||clicks.dealer.com^
+||clicks.tyuwq.com^
 ||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^$third-party
 ||clicktime.symantec.com^$script,third-party
@@ -38115,6 +38124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||norton.com/service/norton/head?
 ||novanthealth.org/v1/tagular/beam
 ||novelcool.com/files/js/yh_tj.js
+||ntvid.online/cdn-cgi/trace
 ||nysun.com/tracker.js
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
@@ -38146,6 +38156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
 ||pcgamesn.com/cdn-cgi/trace
+||pcmag.com/js/ga.js
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
