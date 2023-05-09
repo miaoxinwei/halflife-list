@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v1QWkfhQeyytLeBH8CkrEA
+! Checksum: Lbb9wNsFmyxaMZmkEggvWw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305090216
-! Last Modified: 2023年05月09日 02:16
+! Version: 202305090913
+! Last Modified: 2023年05月09日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3632,7 +3632,6 @@ tieba.baidu.com##.tuijian-wrap
 /popunder?
 /popunder_
 /popunderjs/*
-/popunders.
 /popunders/*
 /popunderWeb-
 /popundr.
@@ -4349,7 +4348,6 @@ tieba.baidu.com##.tuijian-wrap
 =partnerad&
 =showsearchgoogleads&
 =textads&
-?ad_ids=
 ?ad_number=
 ?ad_partner=
 ?ad_size=
@@ -21532,6 +21530,7 @@ _800x80_
 ##a[href^="//a.bestcontentfare.top/"]
 ##a[href^="//go.eabids.com/"]
 ##a[href^="//pubads.g.doubleclick.net/"]
+##a[href^="//zunsoach.com/"]
 ##a[href^="http://ad.doubleclick.net/"]
 ##a[href^="http://adf.ly/?id="]
 ##a[href^="http://adultfriendfinder.com/go/page/landing"]
@@ -21618,6 +21617,7 @@ _800x80_
 ##a[href^="https://clicks.pipaffiliates.com/"]
 ##a[href^="https://clixtrac.com/"]
 ##a[href^="https://clk.wrenchsound.store/"]
+##a[href^="https://convertmb.com/"]
 ##a[href^="https://cpmspace.com/"]
 ##a[href^="https://datingoffers30.info/"]
 ##a[href^="https://dl-protect.net/"]
@@ -21733,6 +21733,7 @@ _800x80_
 ##a[href^="https://track.afcpatrk.com/"]
 ##a[href^="https://track.totalav.com/"]
 ##a[href^="https://track.wg-aff.com"]
+##a[href^="https://tracker.loropartners.com/"]
 ##a[href^="https://tracking.avapartner.com/"]
 ##a[href^="https://traffdaq.com/"]
 ##a[href^="https://traffic.bannerator.com/"]
@@ -22919,6 +22920,7 @@ browsershots.org#@#.advert_area
 ||51cf9c517a.com^
 ||521bec59f1.com^
 ||52c9f48b14.com^
+||530bc37e10.com^
 ||532xcxypmpnp.com^
 ||535a855e66.com^
 ||53c2dtzsj7t1.top^
@@ -26015,6 +26017,7 @@ browsershots.org#@#.advert_area
 ||bb6dcc7e45.com^
 ||bbaannrr03.com^
 ||bbaannrr05.com^
+||bbannjdax.com^
 ||bbcrgate.com^
 ||bbes.xyz^
 ||bbgtranst.com^
@@ -27144,6 +27147,7 @@ browsershots.org#@#.advert_area
 ||caffleklismos.website^
 ||caglaikr.net^
 ||cagothie.net^
+||caigluph.xyz^
 ||caimoasy.net^
 ||cainismlungee.uno^
 ||caipowho.net^
@@ -27479,6 +27483,7 @@ browsershots.org#@#.advert_area
 ||chachophigy.pro^
 ||chachors.net^
 ||chadseer.xyz^
+||chaeffulace.com^
 ||chaerel.com^
 ||chaftedmahsur.store^
 ||chaghets.net^
@@ -27955,6 +27960,7 @@ browsershots.org#@#.advert_area
 ||clxtsxwjp.com^
 ||cm-trk3.com^
 ||cm-trk5.com^
+||cmasisrjbgfv.xyz^
 ||cmbestsrv.com^
 ||cmbvrtiikioce.xyz^
 ||cmfads.com^
@@ -30186,6 +30192,7 @@ browsershots.org#@#.advert_area
 ||emptem.com^
 ||emptivetss.space^
 ||emptyescort.com^
+||emqvwujfjknkbg.com^
 ||emraudpeptone.com^
 ||emsservice.de^
 ||emukentha.xyz^
@@ -30405,6 +30412,7 @@ browsershots.org#@#.advert_area
 ||esorandhewa.com^
 ||espierbatz.digital^
 ||espionagegardenerthicket.com^
+||essaypresidential.com^
 ||essentialpiece.pro^
 ||esseza.com^
 ||establishbrightestsavvy.com^
@@ -31254,6 +31262,7 @@ browsershots.org#@#.advert_area
 ||forjoiyvidspics.online^
 ||forjoiyvidspics.site^
 ||forjoiyvidspics.space^
+||forjoyvidspics.online^
 ||forlumineoner.com^
 ||forlumineontor.com^
 ||formallythrill.com^
@@ -33745,6 +33754,7 @@ browsershots.org#@#.advert_area
 ||jersit.com^
 ||jervinreverdi.uno^
 ||jesaifie.com^
+||jescyeet.xyz^
 ||jessehalurgy.com^
 ||jessieemys.com^
 ||jestbiases.com^
@@ -34505,6 +34515,7 @@ browsershots.org#@#.advert_area
 ||laugue.com^
 ||lauhefoo.com^
 ||lauhoosh.net^
+||laukaivi.net^
 ||launchbit.com^
 ||launchreliantcleaver.com^
 ||laundawaits.com^
@@ -34596,6 +34607,7 @@ browsershots.org#@#.advert_area
 ||leezeemu.com^
 ||leezoama.net^
 ||leffeshumoury.xyz^
+||leforgotteddisg.info^
 ||leftiesseem.com^
 ||leftmajority.com^
 ||leftnetarenning.pro^
@@ -34684,6 +34696,7 @@ browsershots.org#@#.advert_area
 ||lhmos.com^
 ||lhs-3844b.com^
 ||li2meh6eni3tis.com^
+||liadinfqfjmc.xyz^
 ||liaisondegreedaughters.com^
 ||liambahaloed.com^
 ||libbetpalooka.life^
@@ -34907,6 +34920,7 @@ browsershots.org#@#.advert_area
 ||longaboo.com^
 ||longestwaileddeadlock.com^
 ||longingarsonistexemplify.com^
+||loniil.com^
 ||lonits.com^
 ||lonreddone.com^
 ||loodoost.net^
@@ -35818,6 +35832,7 @@ browsershots.org#@#.advert_area
 ||modulusoctodon.uno^
 ||moedgapers.com^
 ||mogointeractive.com^
+||mohaqu.xyz^
 ||mohyafckgatre.com^
 ||moilizoi.com^
 ||moistblank.com^
@@ -37902,6 +37917,7 @@ browsershots.org#@#.advert_area
 ||pepperyforeign.com^
 ||peppy2lon1g1stalk.com^
 ||peracy.com^
+||perceivedundesirable.com^
 ||percephonefruit70.com^
 ||perceuslok071.com^
 ||percussiverefrigeratorunderstandable.com^
@@ -39480,6 +39496,7 @@ browsershots.org#@#.advert_area
 ||readserv.com^
 ||readserver.net^
 ||readyblossomsuccesses.com^
+||reaffixteaey.com^
 ||reagend.com^
 ||reaginsroset.com^
 ||reajyu.net^
@@ -40325,6 +40342,7 @@ browsershots.org#@#.advert_area
 ||rvrpushsrv.com^
 ||rvwtpwmtnfj.com^
 ||rvxqnjsczubld.com^
+||rwated.com^
 ||rwfnpayyn.xyz^
 ||rwkdqtenbr.com^
 ||rwkqbunoehe.com^
@@ -43173,7 +43191,6 @@ browsershots.org#@#.advert_area
 ||tytostaracar.lol^
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
-||tzegilo.com^
 ||tzugumojfm.com^
 ||u0054.com^
 ||u0064.com^
@@ -43659,6 +43676,7 @@ browsershots.org#@#.advert_area
 ||vacuomehautain.tech^
 ||vacuts.com^
 ||vacwrite.com^
+||vadaltojlomd.com^
 ||vaebard.com^
 ||vaeesspot.com^
 ||vaemfecqllefj.xyz^
@@ -44743,6 +44761,7 @@ browsershots.org#@#.advert_area
 ||worersie.com^
 ||workerdisadvantageunrest.com^
 ||workhovdi.com^
+||workhovdiminatedi.info^
 ||workingflense.website^
 ||workmanceremony.com^
 ||workplaceidenticalincompetent.com^
@@ -44932,6 +44951,7 @@ browsershots.org#@#.advert_area
 ||xanawet.com^
 ||xapads.com^
 ||xarbenul.com^
+||xargijqtgysdvgj.com^
 ||xarqnuelxtvajgp.xyz^
 ||xawlop.com^
 ||xaxoro.com^
@@ -46833,6 +46853,7 @@ browsershots.org#@#.advert_area
 ||semi-cod.com^$third-party
 ||sendmepush.com^$third-party
 ||sendptp.com^$third-party
+||sendwebpush.com^$third-party
 ||sensible-ads.com^$third-party
 ||serialbay.com^$third-party
 ||seriend.com^$third-party
@@ -47718,6 +47739,7 @@ browsershots.org#@#.advert_area
 ||cellsquickie.com^$popup
 ||censelysoviell.xyz^$popup
 ||cgeckmydirect.biz^$popup
+||chaeffulace.com^$popup
 ||chainbelt.top^$popup
 ||chaintopdom.nl^$popup
 ||chauksoa.net^$popup
@@ -47811,6 +47833,7 @@ browsershots.org#@#.advert_area
 ||contentabc.com^$popup,third-party
 ||contextendless.com^$popup
 ||convenientcertificate.com^$popup
+||convertmb.com^$popup
 ||cooljony.com^$popup
 ||cophypserous.com^$popup
 ||cor8ni3shwerex.com^$popup
@@ -48559,6 +48582,7 @@ browsershots.org#@#.advert_area
 ||leadingservicesintimate.com^$popup
 ||leapretrieval.com^$popup
 ||leaseholderbarbcompact.com^$popup
+||leforgotteddisg.info^$popup
 ||legendadmiration.com^$popup
 ||leiasedofold.xyz^$popup
 ||lenkmio.com^$popup
@@ -48912,6 +48936,7 @@ browsershots.org#@#.advert_area
 ||onclicksuper.com^$popup
 ||onclicktop.com^$popup
 ||ondbarrowat.xyz^$popup
+||one-name-studio.com^$popup
 ||oneegrou.net^$popup
 ||onenomadtstore.com^$popup
 ||oneqanatclub.com^$popup
@@ -49012,6 +49037,7 @@ browsershots.org#@#.advert_area
 ||peopleloves.me^$popup
 ||pepperyforeign.com^$popup
 ||perce1ve.com^$popup
+||perceivedundesirable.com^$popup
 ||pereliaastroid.com^$popup
 ||perfecttoolmedia.com^$popup
 ||performancetrustednetwork.com^$popup
@@ -51624,6 +51650,7 @@ browsershots.org#@#.advert_area
 ||d3t3z4teexdk2r.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d3t87ooo0697p8.cloudfront.net^
+||d3tfeohk35h2ye.cloudfront.net^
 ||d3tfz9q9zlwk84.cloudfront.net^
 ||d3tjml0i5ek35w.cloudfront.net^
 ||d3tozt7si7bmf7.cloudfront.net^
@@ -54860,6 +54887,7 @@ bnonews.com##.bnone-widget
 evertiq.com,mediamanager.co.za##.bnr
 thecompleteuniversityguide.co.uk##.bnr_out
 armenpress.am##.bnrcontainer
+apkmody.io##.body-fixed-footer
 saharareporters.com##.body-inject
 btcmanager.com##.boo_3oo_6oo
 cmo.com.au##.boombox
@@ -61627,6 +61655,12 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||imks.cn^
+||onlystar.club^
+||wkzrqq.com^
+||jntxvf.xyz^
+||qhssjyb.xyz^
+||jrtwi.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -94572,6 +94606,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
+||analytics.similarweb.com^
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
