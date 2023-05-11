@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4aoJgMVG/N/+lIC0Vr8SKw
+! Checksum: qtqbacfaaBCF/OzgZUqQxQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305111417
-! Last Modified: 2023年05月11日 14:17
+! Version: 202305112028
+! Last Modified: 2023年05月11日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -52645,7 +52645,7 @@ browsershots.org#@#.advert_area
 @@||voeunblock.com^$subdocument
 @@||voeunblock3.com^$subdocument
 /^https?:\/\/.*(com|net|top|xyz)\/(bundle|warning|style|bootstrap|brand|reset|jquery-ui|styles|error|logo|index|favicon|star|header)\.(png|css)\?[A-Za-z0-9]{30,}.*/$third-party
-/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~mempool.space|~scribble.ninja|~scribble.website|~traineast.co.uk
+/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~bitrix24.life|~mempool.space|~scribble.ninja|~scribble.website|~traineast.co.uk
 /^https?:\/\/cdn\.[0-9a-z]{3,6}\.xyz\/[a-z0-9]{8,}\.js$/$script,third-party
 ||frameperfect.speedrun.com^
 ||junkrat-tire.overbuff.com^
@@ -72292,6 +72292,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||right.com.cn/forum/static/image/common/logo1.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -110851,6 +110852,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||al.autohome.com.cn^
 ||alarm.youku.com/api/sendAlarm
 ||alicdn.com/f/pcdn/i.php?
+||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
 ||analytics.126.net^
 ||analytics.163.com^
