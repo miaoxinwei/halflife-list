@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4ps0DmGRWqmSCIJUuvje4A
+! Checksum: zpUpveCfulQ6+TYSG/HzmQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305122026
-! Last Modified: 2023年05月12日 20:26
+! Version: 202305130216
+! Last Modified: 2023年05月13日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -415,6 +415,7 @@ stgowan.com
 /bg5t4h.oss-
 /blgg/*
 /blog/showdetail.php?z=$script,third-party
+/bookad.oss-
 /bookxiaoshuo.oss-
 /botad.html
 /BrandXuanDong.js
@@ -1781,6 +1782,7 @@ newduba.cn###jq_youxi
 ||234mx.club^
 ||32fi.com^
 ||331qka.cn^
+||36060.xyz^
 ||36nl.com^
 ||39nw.com^
 ||4388888.xyz^
@@ -1837,6 +1839,7 @@ newduba.cn###jq_youxi
 ||awdc6.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||balspaulite.com^
+||baytfede.xyz^
 ||bcivqxd.cn^
 ||bdrzxp.xyz^
 ||beiod.xyz^
@@ -1865,6 +1868,7 @@ newduba.cn###jq_youxi
 ||cdn-99-pic.cc^
 ||cennv.cn^
 ||ceodk.xyz^
+||cex8jw.cn^
 ||cfxkluv.cn^
 ||cge.cc^
 ||chaozhunbb.xyz^
@@ -1959,6 +1963,7 @@ newduba.cn###jq_youxi
 ||hbbxwan.cn^
 ||hefei64.com^
 ||heild.xyz^
+||heliangjun2.cn^
 ||helid.xyz^
 ||hffxc.com^
 ||hgpdoa.cn^
@@ -2059,9 +2064,12 @@ newduba.cn###jq_youxi
 ||mrbtkyn.xyz^
 ||mrgecm.xyz^
 ||mrruuov.cn^
+||mueid.xyz^
+||mxknqq.com^
 ||nagmopd.cn^
 ||naned.xyz^
 ||ncyx.ltd^
+||ndqzqmb.xyz^
 ||nedes.xyz^
 ||nekomasu.ltd^
 ||networkname.xyz^
@@ -2130,6 +2138,7 @@ newduba.cn###jq_youxi
 ||robberyinscription.com^
 ||rpajqxo.cn^
 ||rqytqq.com^
+||rrzxlt.xyz^
 ||rsbepv.xyz^
 ||rszqtry.cn^
 ||rtdxqq.com^
@@ -2140,6 +2149,7 @@ newduba.cn###jq_youxi
 ||scrvw3.com^
 ||sectn.xyz^
 ||semaobf1.com^
+||seumouxuezha.xyz^
 ||sh6ss7.top^
 ||shangyuan.ltd^
 ||sisjwol.xyz^
@@ -2155,6 +2165,7 @@ newduba.cn###jq_youxi
 ||tc911.vip^
 ||tffulllist.shop^
 ||tfonlyuse.shop^
+||tian0.ltd^
 ||tianma704.ltd^
 ||tlhlpcb.xyz^
 ||tmochyf.cn^
@@ -2172,6 +2183,8 @@ newduba.cn###jq_youxi
 ||u5nvu.xyz^
 ||u833ij.com^
 ||ubifyc.xyz^
+||ucqihfh.cn^
+||ufgg55.xyz^
 ||umcpebi.cn^
 ||uqelxct.cn^
 ||uqymady.cn^
@@ -2206,6 +2219,7 @@ newduba.cn###jq_youxi
 ||weeqmcq.cn^
 ||weixinnft.com^
 ||wenxiaowu.xyz^
+||wgzgzmu.cn^
 ||whbn.xyz^
 ||windyang.xyz^
 ||wjaqc.xyz^
@@ -2281,17 +2295,7 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||mxknqq.com^
-||heliangjun2.cn^
-||tian0.ltd^
-||ndqzqmb.xyz^
-||mueid.xyz^
-||rrzxlt.xyz^
 ||zxgko.cn^
-||cex8jw.cn^
-||seumouxuezha.xyz^
-||baytfede.xyz^
-||ufgg55.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -11867,6 +11871,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
 ||qayqa.com:6868/jquery/
+||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
@@ -19325,7 +19330,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^
-||3.cjcp.cn^
 ||1.codesdq.com^
 ||1.codezh.com^
 ||1.doudouditu.com^
@@ -19390,6 +19394,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||21.zhaozongjie.com^
 ||283.laobanfa.com^
 ||3.5646.cn^
+||3.cjcp.cn^
 ||3.guidaye.com^
 ||3.ssqzj.com^
 ||301848.com^
@@ -29925,7 +29930,6 @@ _mongo_stats/
 ||iocnt.net^$third-party
 ||iotechnologies.com^$third-party
 ||iovation.com^$third-party
-||ip-api.com^$third-party
 ||ip-label.net^$third-party
 ||ip-tracker.org^$third-party
 ||ip2c.org^$third-party
@@ -54910,7 +54914,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||plugins.matomo.org^$image,~third-party
 @@||postex.com/api/ping?$~third-party
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
