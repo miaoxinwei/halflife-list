@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: srJ/J/lD1rWweMMJJPBJtg
+! Checksum: 9JGri0kU8alXdfFpEyovyQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305120216
-! Last Modified: 2023年05月12日 02:16
+! Version: 202305120911
+! Last Modified: 2023年05月12日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -32200,6 +32200,7 @@ browsershots.org#@#.advert_area
 ||griffsunneat.com^
 ||grifictuberal.site^
 ||grignoaw.com^
+||grigrees.xyz^
 ||griksoud.net^
 ||grillcheekunfinished.com^
 ||grinchsycoses.tech^
@@ -34120,6 +34121,7 @@ browsershots.org#@#.advert_area
 ||kbyjxhnweoi.com^
 ||kcdn.xyz^
 ||kcepfyzuna.com^
+||kdvewlabjokfoc.com^
 ||keamateorski.xyz^
 ||keapeiros.xyz^
 ||kebyartopsman.website^
@@ -35481,6 +35483,7 @@ browsershots.org#@#.advert_area
 ||mczbf.com^
 ||mdadx.com^
 ||mdcytqwnbr.com^
+||mdfasisitslddxq.com^
 ||mdfbrsfkufamsr.com^
 ||mdkkbrbhlji.com^
 ||mdn2015x1.com^
@@ -44235,6 +44238,7 @@ browsershots.org#@#.advert_area
 ||vukticlataf.com^
 ||vulgartaivert.website^
 ||vulguspyemic.com^
+||vungqwclop.xyz^
 ||vuuwd.com^
 ||vuwmxjusucnh.com^
 ||vv8h9vyjgnst.com^
@@ -45281,6 +45285,7 @@ browsershots.org#@#.advert_area
 ||yellowacorn.net^
 ||yellowblue.io^
 ||yellowtaraph.live^
+||yellpeculiarities.com^
 ||yemecotum.com^
 ||yepsawomen.com^
 ||yepsobtax.com^
@@ -48059,6 +48064,7 @@ browsershots.org#@#.advert_area
 ||dmzjmp.com^$popup
 ||dnckawxatc.com^$popup
 ||doaipomer.com^$popup
+||dolatiaschan.com^$popup
 ||dolohen.com^$popup
 ||dompeterapp.com^$popup
 ||donthedoorwi.com^$popup
@@ -57943,14 +57949,17 @@ testpages.adblockplus.org###abptest
 msn.com###displayAdCard
 msn.com###partners
 msn.com###promotions
+msn.com##.articlePage_bannerAd_wrapper-DS-EntryPoint1-1
 msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
 msn.com##.drrTopAdWrapper
 msn.com##.galleryPage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.intra-article-ad-full
 msn.com##.intra-article-ad-half
+msn.com##.intra-article-module
 msn.com##.modernRightRail_stickyTopBannerAd-DS-EntryPoint1-1
 msn.com##.outeradcontainer
+msn.com##.qohvco-DS-EntryPoint1-1
 msn.com##.windowsBannerAdContainer-DS-EntryPoint1-1
 msn.com##[class^="articlePage_eoabContent"]
 msn.com##[data-m*="Infopane_CMSBasicCardstore_article"]
@@ -58026,6 +58035,7 @@ outlook.live.com#?#div.customScrollBar > div > div[id][class]:-abp-has(img[src$=
 search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 playpilot.com#?#.search-preview .side:-abp-has(> .provider)
 protrumpnews.com#?#.show-on-ptn:-abp-has(.easylist-sucks)
+amazon.com#?#div.s-inner-result-item > div.sg-col-inner:-abp-has(a.puis-sponsored-label-text)
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(Sponsored))
 newsweek.com#?#.block.block-ibtmedia-special-item:-abp-has(.sponsor:-abp-contains(SPONSORED))
 imgur.com#?#.Post-item:-abp-has(.AdHomeContainer)
@@ -61812,6 +61822,13 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||mxknqq.com^
+||heliangjun2.cn^
+||tian0.ltd^
+||ndqzqmb.xyz^
+||mueid.xyz^
+||rrzxlt.xyz^
+||zxgko.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
