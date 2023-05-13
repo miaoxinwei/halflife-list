@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GFRlq9cTkGXNh2A0XjLgxg
+! Checksum: 2PuTajGtAroMas7Ls38HUQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305130909
-! Last Modified: 2023年05月13日 09:09
+! Version: 202305131416
+! Last Modified: 2023年05月13日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -12352,6 +12352,7 @@ _800x80_
 ##.adRect
 ##.adRectangle
 ##.adRectangle-pos-large
+##.adRectangle-pos-small
 ##.adRectangleBanner
 ##.adRectangleUnit
 ##.adRemove
@@ -51220,6 +51221,7 @@ browsershots.org#@#.advert_area
 ||wp.com/assets.sheetmusicplus.com/banner/
 ||wp.com/assets.sheetmusicplus.com/smp/
 ||wp.com/bugsfighter.com/wp-content/uploads/2016/07/adguard-banner.png
+||wpengine.com/wp-json/api/advanced_placement/api-in-article-ad/
 ||wpzoom.com/images/aff/
 ||ws.amazon.*/widgets/$third-party
 ||yahoo.com/bidRequest
@@ -53871,6 +53873,7 @@ downloadsafer.com###homebannerbottom
 hometheaterreview.com###homepagehorizontalad
 semiconductor-today.com###homeright
 nutritioninsight.com,packaginginsights.com###horizontalblk
+webmd.com###hp-ad-container
 blog.hubspot.com###hs_cos_wrapper_blog_post_sticky_cta
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
 robbreport.com###icon-sprite
@@ -55087,7 +55090,7 @@ boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.
 careerindia.com##.cmscontent-top
 thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
-180gadgets.com,academicful.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dcenquirer.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,nationalfile.com,notalwaysright.com,patriotfetch.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,sdnews.com,simscommunity.info,superwatchman.com,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,zerohanger.com##.code-block
+180gadgets.com,9to5linux.com,academicful.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,bigleaguepolitics.com,browserhow.com,charlieintel.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dcenquirer.com,dexdotexe.com,eurweb.com,fandomwire.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,indianhealthyrecipes.com,iotwreport.com,journeybytes.com,lithub.com,nationalfile.com,notalwaysright.com,patriotfetch.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,rezence.com,roadaheadonline.co.za,rok.guide,sdnews.com,simscommunity.info,superwatchman.com,techpp.com,techrounder.com,thecinemaholic.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,zerohanger.com##.code-block
 streamtelly.com##.code-block-1
 coinpaprika.com##.coinzilla-ad--desktop
 mydramalist.com##.col-lg-4 > .clear
@@ -55485,6 +55488,7 @@ hltv.org##.gg-firstcol-box
 cometbird.com##.gg_250x250
 cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 ghacks.net##.ghacks-ad
+ghacks.net##.ghacks_ad_code
 goodmenproject.com##.gmp-instream-wrap
 givemesport.com##.gms-ad
 givemesport.com##.gms-billboard-container
@@ -56904,7 +56908,7 @@ wplift.com##.widget_bsa
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 theiphoneappreview.com##.widget_links
-9to5linux.com,aboutcrypto.info,appleworld.today,closerweekly.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+aboutcrypto.info,appleworld.today,closerweekly.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.widget_nypost_vivid_concerts_widget
 dailynewsegypt.com##.widget_rotatingbanners
@@ -61783,6 +61787,8 @@ newduba.cn###jq_youxi
 ||zbbvhj.xyz^
 ||xbldocp.xyz^
 ||zebjlt.buzz^
+||rdtjkwy.cn^
+||yttc.ren^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -82283,7 +82289,6 @@ fqsousou.com,kengso.com#@#.user-share
 /geocc.$domain=~geocc.ru
 /geocoding.ash
 /geocompteur.
-/geocounter.
 /geoip.html
 /geoip/detect?
 /geoip?
@@ -111699,6 +111704,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||matt.mercadolibre.
 ||mercadolibre.com/tracks^
 ||pixel.europapress.net^
+||px-intl.ucweb.com^
 ||rvv.emol.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
