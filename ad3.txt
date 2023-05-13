@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z5U0fs8gXKEfwhNrCYeu0g
+! Checksum: 1aJ3xrz/4GsCW7e8z9dGhA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305132024
-! Last Modified: 2023年05月13日 20:24
+! Version: 202305140216
+! Last Modified: 2023年05月14日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1837,6 +1837,7 @@ newduba.cn###jq_youxi
 ||aprlitj.cn^
 ||aqpvglv.cn^
 ||awdc6.com^
+||baidudbvjksbvs.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||balspaulite.com^
 ||baytfede.xyz^
@@ -1938,6 +1939,7 @@ newduba.cn###jq_youxi
 ||fvzljv.xyz^
 ||fweia.xyz^
 ||fzcsd33.com^
+||g77ds2.xyz^
 ||gaokao.asia^
 ||gggppp666.com^
 ||giold.xyz^
@@ -2000,6 +2002,7 @@ newduba.cn###jq_youxi
 ||jeidd.xyz^
 ||jerrytom.xyz^
 ||jfanhao.com^
+||jhxcld.xyz^
 ||jiangzimeng1.cn^
 ||jinmin.online^
 ||jiqadoi.cn^
@@ -2029,6 +2032,7 @@ newduba.cn###jq_youxi
 ||kkgytur.cn^
 ||kkylx.xyz^
 ||kmlxlkz.cn^
+||knxvwxe.cn^
 ||koekd.xyz^
 ||kpqdkg.xyz^
 ||kprjva.cn^
@@ -2079,6 +2083,7 @@ newduba.cn###jq_youxi
 ||nsfdsa.xyz^
 ||nurahf.xyz^
 ||nvchmkw.cn^
+||nwecd.xyz^
 ||oimzak.xyz^
 ||ojuhwc.xyz^
 ||on-you.cn^
@@ -2119,6 +2124,7 @@ newduba.cn###jq_youxi
 ||qiwjiy.xyz^
 ||qkcaqq.xyz^
 ||qkwsqq.com^
+||qnmtqq.com^
 ||qpoiwnelc.com^
 ||qqied.xyz^
 ||qwahk.com^
@@ -2127,6 +2133,7 @@ newduba.cn###jq_youxi
 ||rbrv9.cn^
 ||rbxunao.cn^
 ||rcxysoj.cn^
+||rdtjkwy.cn^
 ||readme.red^
 ||reffnik.cn^
 ||rencaihome.xyz^
@@ -2208,6 +2215,7 @@ newduba.cn###jq_youxi
 ||vydbvp.xyz^
 ||vzfizr.xyz^
 ||w4jz.top^
+||w9f1r.top^
 ||wangjc.ltd^
 ||wangjiayi.fun^
 ||wangyq.ltd^
@@ -2235,6 +2243,7 @@ newduba.cn###jq_youxi
 ||wyjbvoz.xyz^
 ||wyynike.cn^
 ||x4csq.top^
+||xbldocp.xyz^
 ||xbvmrx.xyz^
 ||xcaukve.cn^
 ||xckyqq.com^
@@ -2252,6 +2261,7 @@ newduba.cn###jq_youxi
 ||xnjvn1.com^
 ||xnmqqq.com^
 ||xrkyqq.com^
+||xuanqi.ltd^
 ||xueyugaoyuan.xyz^
 ||xunjie.fun^
 ||xyjcpcb.cn^
@@ -2267,9 +2277,11 @@ newduba.cn###jq_youxi
 ||yingce.asia^
 ||yingnanyyds.com^
 ||yisangyyds.com^
+||yttc.ren^
 ||yuebog.xyz^
 ||yulingaa.xyz^
 ||yywh.vip^
+||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
 ||zdkdwk.buzz^
@@ -2277,6 +2289,7 @@ newduba.cn###jq_youxi
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdyuoae.xyz^
+||zebjlt.buzz^
 ||zgyvg.top^
 ||zhalinyyds.com^
 ||zhanghao164.xyz^
@@ -2296,19 +2309,6 @@ newduba.cn###jq_youxi
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
-||xuanqi.ltd^
-||qnmtqq.com^
-||knxvwxe.cn^
-||nwecd.xyz^
-||zbbvhj.xyz^
-||xbldocp.xyz^
-||zebjlt.buzz^
-||rdtjkwy.cn^
-||yttc.ren^
-||w9f1r.top^
-||baidudbvjksbvs.com^
-||g77ds2.xyz^
-||jhxcld.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -17422,6 +17422,7 @@ itxueyuan.com##a[href*="guanggaowei"]
 iqiyi.com,~mall.iqiyi.com,~so.iqiyi.com##a[href*="http://mall.iqiyi.com/item/"]
 c4dsky.com##a[href*="ibaotu.com"]
 jinti.com##a[href*="immobel.com"]
+kdslife.com##a[href*="kds.2144.cn"]
 m.baidu.com##a[href*="m.lecai.com"]
 ccav1.com##a[href*="meidebi."]
 nfuwow.com##a[href*="myyj.net"]
@@ -19925,6 +19926,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||jy135.com^$third-party
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
+||k1.wendahu.com^
 ||ka5188.com^
 ||kanxiao.net^$third-party
 ||kc.gouchezj.com^
