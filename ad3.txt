@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XpK9psXwMhkOJMreB6iGRw
+! Checksum: jtDn0YPascLgu/wt1dH/0A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305142025
-! Last Modified: 2023年05月14日 20:25
+! Version: 202305150215
+! Last Modified: 2023年05月15日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2321,6 +2321,7 @@ newduba.cn###jq_youxi
 ||tiancaiwei.wang^
 ||ooexkqj.cn^
 ||d7dzf.xyz^
+||stbdepjb.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -34549,7 +34550,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
-||collector.appconsent.io^$image
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
@@ -35290,6 +35291,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -36982,6 +36984,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmtgo.upc.biz^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
+||mediahuis.be/cxense/
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||pijper.io/visits/
 ||rmgdapfnccsharpprd.azurewebsites.net^
@@ -37269,6 +37272,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||statig.com.br/pub/setCookie.js?
+||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||terra.com.br/metrics/
 ||track.noddus.com^
@@ -54068,6 +54072,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||bc34.wijnvoordeel.nl^
 ||bol.com/tracking/
 ||businessinsider.nl^*/tr.php
+||c.vrt.be^
 ||coolblue.nl/monitoring/
 ||ds2.independer.nl^
 ||events.reclamefolder.nl^
@@ -54094,6 +54099,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
 ||stats.fd.nl^
+||t.vrt.be^
 ||tdep.kvk.nl^
 ||tijd.be/fb/?
 ||tijd.be/fb2?
@@ -55275,6 +55281,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|la7.it|leggo.it|quotidianodipuglia.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
+@@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
