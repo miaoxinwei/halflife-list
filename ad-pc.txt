@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JYeeB+JYiS+bbEs4trj1rA
+! Checksum: brN2hJl3JslFtvIx9qxXog
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305160912
-! Last Modified: 2023年05月16日 09:12
+! Version: 202305161418
+! Last Modified: 2023年05月16日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54035,6 +54035,7 @@ cnx-software.com###fixeddbar
 vscode.one###flamelab-convo-widget
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 streams.tv###flowerInGarden
+12tomatoes.com###footboard
 fanlesstech.com###footer-1
 metasrc.com###footer-content
 bundesliga.com###footer-partnerlogo
@@ -54263,7 +54264,7 @@ dokicloud.one,fmoviefree.net###overlay-center
 mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
 animexin.vip###overplay
-aninews.in,hardwaretimes.com,oneindia.com,wionews.com###parentDiv0
+aninews.in,dnaindia.com,hardwaretimes.com,oneindia.com,wionews.com###parentDiv0
 hwbot.org###partner-tiles
 cnn.com###partner-zone
 limesurvey.org###partnerbanner
@@ -54309,6 +54310,7 @@ dict.cc###recthomebot
 10minutemail.net,eel.surf7.net.my,javatpoint.com###right
 msguides.com###right-bottom-camp
 comicbookrealm.com###right-rail > .module
+purewow.com###right-rail-ad
 gogetaroomie.com###right-space
 ffiles.com###right_col
 medicaldialogues.in###right_level_8
@@ -54988,6 +54990,7 @@ firstforwomen.com##.article-content__sponsored_tout_ad___1iSJm
 eonline.com##.article-detail__right-rail--topad
 eonline.com##.article-detail__segment-ad
 christianpost.com##.article-divider
+purewow.com##.article-in-content-ad
 scoop.co.nz##.article-left-box
 slashdot.org##.article-nel-12935
 spectator.com.au##.article-promo
@@ -55049,7 +55052,7 @@ gayexpress.co.nz##.backstretch
 izismile.com##.ban_top
 saabplanet.com##.baner
 rhumbarlv.com##.banlink
-1001games.com,alistapart.com,arcadebomb.com,armageddonexpo.com,bikechatforums.com,birminghamworld.uk,bristolworld.com,btcmanager.com,ca-flyers.com,caixinglobal.com,caribvision.tv,cmo.com.au,coryarcangel.com,derbyshiretimes.co.uk,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,fifetoday.co.uk,filmmakermagazine.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,glasgowworld.com,gr8.cc,gsprating.com,hartlepoolmail.co.uk,hortidaily.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,manchesterworld.uk,marinelink.com,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myfreemp3.to,newcastleworld.com,news.am,news.net,northamptonchron.co.uk,northantstelegraph.co.uk,northumberlandgazette.co.uk,oncyprus.com,onlineconvertfree.com,pharmatimes.com,portsmouth.co.uk,powerboat.world,reversephonesearch.com.au,roblox.com,scientificamerican.com,smartcarfinder.com,speedcafe.com,sputniknews.com,starradionortheast.co.uk,subscene.com,sumodb.com,sweeting.org,swzz.xyz,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,timeslive.co.za,timesofisrael.com,tmi.me,unblockstreaming.com,vloot.io,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshirepost.co.uk##.banner
+1001games.com,alistapart.com,arcadebomb.com,armageddonexpo.com,bikechatforums.com,birminghamworld.uk,bristolworld.com,btcmanager.com,ca-flyers.com,caixinglobal.com,caribvision.tv,cmo.com.au,coryarcangel.com,derbyshiretimes.co.uk,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,fifetoday.co.uk,filmmakermagazine.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,glasgowworld.com,gr8.cc,gsprating.com,hartlepoolmail.co.uk,hortidaily.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,manchesterworld.uk,marinelink.com,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,myfreemp3.to,newcastleworld.com,news.am,news.net,northamptonchron.co.uk,northantstelegraph.co.uk,northumberlandgazette.co.uk,oncyprus.com,onlineconvertfree.com,pharmatimes.com,portsmouth.co.uk,powerboat.world,reversephonesearch.com.au,roblox.com,scientificamerican.com,smartcarfinder.com,speedcafe.com,sputniknews.com,starradionortheast.co.uk,subscene.com,sumodb.com,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thestar.co.uk,timeslive.co.za,timesofisrael.com,tmi.me,unblockstreaming.com,vloot.io,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshirepost.co.uk##.banner
 papermag.com##.banner--ad__placeholder
 oilprice.com##.banner--inPage
 puzzlegarage.com##.banner--inside
@@ -55285,6 +55288,7 @@ softarchive.is##.c-un-link
 mangareader.net##.c10
 theeastafrican.co.ke##.c15r
 canada411.ca##.c411TopBanner
+sussexexpress.co.uk##.cIffkq
 filepuma.com##.cRight_footer
 money.com##.ca-widget-inline
 thecable.ng##.cableads_mid
@@ -55513,6 +55517,7 @@ legacy.com##.displayOverlay1
 designtaxi.com##.displayboard
 theodysseyonline.com##.distroscale_p2
 theodysseyonline.com##.distroscale_side
+nottinghampost.com##.div-gpt-ad-vip-slot-wrapper
 readcomiconline.li##.divCloseBut
 jpost.com##.divConnatix
 tigerdroppings.com##.divHLeaderFull
@@ -55641,7 +55646,7 @@ thestranger.com##.fish-butter
 khaleejtimes.com##.fix-billboard-nf
 khaleejtimes.com##.fix-mpu-nf
 vice.com##.fixed-slot
-liverpoolecho.co.uk##.fixed-slots
+dorset.live,liverpoolecho.co.uk##.fixed-slots
 theblock.co##.fixedUnit
 2conv.com##.fixed_banner
 fixya.com##.fixya_primis_container
@@ -55988,6 +55993,7 @@ tuko.co.ke##.l-adv-branding__top
 iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
 si.com##.l-inline.m-detail--feature-container
+purewow.com##.lander-interstital-ad
 3dprint.com##.lap-block-items
 ptonline.com##.large-horizontal-banner
 weatherpro.com##.large-leaderboard
@@ -56867,6 +56873,8 @@ coinpedia.org##.stream-title
 stellar.ie##.stuck
 news.stv.tv##.stv-article-gam-slot
 dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
+inyourarea.co.uk##.style_advertisementMark_1Jki4
+inyourarea.co.uk##.style_cardWrapper_ycKf8
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 troypoint.com##.su-box
 gearspace.com##.subforum-sponsor
@@ -57005,7 +57013,7 @@ axisbank.com##.topbandBg_New
 algemeiner.com,allmonitors24.com,streamable.com##.topbanner
 drugs.com##.topbanner-wrap
 papermag.com##.topbarplaceholder
-belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,mylondon.news,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
+belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,manchestereveningnews.co.uk,mylondon.news,nottinghampost.com,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 blabber.buzz##.topfeed
 drivespark.com##.topsection div[style^="float"]
 cambridge.org##.topslot-container
@@ -86024,6 +86032,7 @@ _mongo_stats/
 ||egoi.site^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
+||envato.market^
 ||eqy.link^
 ||etop.ro^
 ||everesttech.net^
@@ -95479,6 +95488,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||irs.gov/h4z97Hz8jMrNO/
 ||isc-tracking.eventim.com^
 ||isharemetric.rediff.com^
+||isshiki.donmai.us/post_views
 ||itweb.co.za/analytics/
 ||ivx.lacompagnie.com^
 ||j927.statnews.com^
@@ -111090,6 +111100,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||4399stat.5054399.com^
 ||55bbs.com/east.html
 ||591.com.tw/stats/
+||a.itsmore.cn^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
 ||alarm.youku.com/api/sendAlarm
@@ -111552,6 +111563,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
 ||astat.nikkei.com^
+||astral.nicovideo.jp^
 ||barks.jp/v1/stats
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
@@ -111585,6 +111597,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
 ||nhk.or.jp^*/bc.js
+||nicovideo.jp/api/counter/
+||nicovideo.jp/v1/recommend/log/
+||nicovideo.jp/v2/user/actions/watch-events.json
 ||nikkei.com/.resources/tracking/
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
