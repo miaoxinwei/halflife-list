@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IMf0efQvMjmVkRfaJpGU6A
+! Checksum: JYeeB+JYiS+bbEs4trj1rA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305160217
-! Last Modified: 2023年05月16日 02:17
+! Version: 202305160912
+! Last Modified: 2023年05月16日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -11617,7 +11617,6 @@ _800x80_
 ##.ad-placeholder-wrapper
 ##.ad-placeholder-wrapper-dynamic
 ##.ad-placeholder__inner
-##.ad-placement
 ##.ad-placement-left
 ##.ad-placement-right
 ##.ad-placement_desktop-top-sticky
@@ -54770,8 +54769,8 @@ pinkvilla.com##.ad-heder-320-50
 dailyuptea.com##.ad-info
 mariopartylegacy.com##.ad-long
 constructionenquirer.com##.ad-page-takeover
-beincrypto.com##.ad-post-right-sidebar
 beincrypto.com##.ad-post-right-sidebar-1
+beincrypto.com##.ad-post-right-sidebar-2
 atlasobscura.com##.ad-site-top-full-width
 nationalreview.com##.ad-skeleton
 thedrive.com##.ad-slot-wrapper
@@ -55415,6 +55414,7 @@ gamingbible.co.uk##.css-1i2p7ui
 bmj.com##.css-1jjs1rx
 cruisecritic.co.uk,cruisecritic.com,cruisecritic.com.au##.css-1kyizeh
 infowars.com##.css-1nbwp0k
+bet.com##.css-1ofg0gs-Box-Container-StyledVideoPromoContainer
 pgatour.com##.css-1p0f086
 eviemagazine.com##.css-1pm6hh5
 keeb-finder.com##.css-1s33rak
@@ -56485,7 +56485,7 @@ planetrugby.com##.ps-block-a
 kathmandupost.com##.pt-0
 gonintendo.com##.pt-5
 seattlepi.com##.pt40
-1980-games.com,flash-mp3-player.net,gameslol.net,theportugalnews.com,tolonews.com##.pub
+1980-games.com,coleka.com,flash-mp3-player.net,gameslol.net,theportugalnews.com,tolonews.com##.pub
 starsinsider.com##.pub-container
 yabiladi.com##.pub2
 gameslol.net##.pubGside
@@ -56796,7 +56796,6 @@ cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
 2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
-beincrypto.com##.sponsored-badge
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
@@ -58521,6 +58520,8 @@ beeg.com##.GreyFox
 hentaivideo.tube##.UVPAnnotationJavascriptNormal
 xtube.com##.ZBTBTTr93ez9.ktZk9knDKFfB
 porndoe.com##.\-f-banners
+xhamster.com##._80e65-containerBottomSpot
+xhamster.com##._80e65-containerPauseSpot
 tubepornclassic.com##.___it0h1l3u2se2lo
 pichunter.com##.__autofooterwidth
 sunporno.com##.a-block
@@ -59119,6 +59120,10 @@ megaxh.com##.xplayer-banner-bottom
 xhamster.com##.xplayer-hover-menu
 hqbang.com##.xpot-horizontal
 theyarehuge.com##.yellow
+xhamster.com##.yfd-fdcam-thumb
+xhamster.com##.yfd-fdcams-widget
+xhamster.com##.yfd-fdclipstore-bottom
+xhamster.com##.yfd-fdsp-b
 xhamster.com##.ytd-jcam-thumb
 xhamster.com##.ytd-jcams-widget
 xhamster.com##.ytd-jsp-a
@@ -62047,6 +62052,12 @@ newduba.cn###jq_youxi
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
+||mahao1.cn^
+||clqkqq.com^
+||uxwkiyp.xyz^
+||pacix.xyz^
+||radish-cake.xyz^
+||zldzbr.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
