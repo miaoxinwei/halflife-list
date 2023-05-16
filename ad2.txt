@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UPVzwnErD8f41ZVkboTMcw
+! Checksum: 4zh8HBabwkbLNIhGGhoDag
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202305162030
-! Last Modified: 2023年05月16日 20:30
+! Version: 202305170217
+! Last Modified: 2023年05月17日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1774,6 +1774,7 @@ newduba.cn###jq_youxi
 ||0776.red^
 ||08u6q.com^
 ||1136999.com^
+||1385a.xyz^
 ||13niao20230422.live^
 ||1512a.com^
 ||16niao20230125.live^
@@ -1889,6 +1890,7 @@ newduba.cn###jq_youxi
 ||ck33.top^
 ||clkdus.xyz^
 ||cloudsong.xyz^
+||clqkqq.com^
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
@@ -2009,6 +2011,7 @@ newduba.cn###jq_youxi
 ||itoken.pro^
 ||iughyy7919.com^
 ||iwandlo.top^
+||iwdvvoc.cn^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
 ||jeedi.xyz^
@@ -2070,6 +2073,7 @@ newduba.cn###jq_youxi
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||mahao1.cn^
 ||maoqxyl.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -2113,6 +2117,7 @@ newduba.cn###jq_youxi
 ||oubqzcg.cn^
 ||p2oh1.xyz^
 ||p4pd.cn^
+||pacix.xyz^
 ||pansclub.xyz^
 ||pbgtpjz.cn^
 ||pedjqkl.xyz^
@@ -2150,6 +2155,7 @@ newduba.cn###jq_youxi
 ||qwahk.com^
 ||qwrdj.xyz^
 ||ra1.xyz^
+||radish-cake.xyz^
 ||rbbbdj.xyz^
 ||rbrv9.cn^
 ||rbxunao.cn^
@@ -2228,6 +2234,7 @@ newduba.cn###jq_youxi
 ||uu9735uu.com^
 ||uuuxyjh.cn^
 ||uwhreur.cn^
+||uxwkiyp.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
 ||vel7.xyz^
@@ -2310,6 +2317,7 @@ newduba.cn###jq_youxi
 ||yulingaa.xyz^
 ||ywsiqlg.cn^
 ||yywh.vip^
+||z11011.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
@@ -2328,6 +2336,7 @@ newduba.cn###jq_youxi
 ||zhouduanyyds.com^
 ||zhuxiao11.cn^
 ||zjqs.shop^
+||zldzbr.xyz^
 ||zmfdjb.xyz^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
@@ -2338,13 +2347,6 @@ newduba.cn###jq_youxi
 ||zsblog.vip^
 ||zscgoqt.cn^
 ||zxgko.cn^
-||mahao1.cn^
-||clqkqq.com^
-||uxwkiyp.xyz^
-||pacix.xyz^
-||radish-cake.xyz^
-||zldzbr.xyz^
-||iwdvvoc.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -12957,8 +12959,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-qq.com,sogou.com##.daohang-gamecenter
-downza.cn##.down-item-2
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -15307,6 +15307,7 @@ acfun.cn##.danmu-activity
 soufun.com##.danmu_inbox
 mtrend.cn##.daogou-foot
 bbs.it168.com##.daoh2 + .bor8
+qq.com,sogou.com##.daohang-gamecenter
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dasense
 newxue.com##.dashuggtop
 newxue.com##.dashuggtop1
@@ -15362,6 +15363,7 @@ iqiyi.com##.dove_banner
 iqiyi.com##.dove_videos
 3d66.com##.down-adver
 zol.com.cn##.down-append-mol__pic
+downza.cn##.down-item-2
 xiaopi.com##.down-list
 mianbao99.com##.downApp
 gamersky.com##.downLoadGame-2
