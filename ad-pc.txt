@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tltGam0OGdsOIa6zyQXn8A
+! Checksum: gwKW/ajMXu1ckiPZli6j3Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305172027
-! Last Modified: 2023年05月17日 20:27
+! Version: 202305180216
+! Last Modified: 2023年05月18日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -12674,6 +12674,7 @@ _800x80_
 ##.ad_970x250_300x250
 ##.ad_970x250_container
 ##.ad_970x90_prog
+##.ad_Bumper
 ##.ad_CustomAd
 ##.ad_Flex
 ##.ad_Flexi_LowerRight
@@ -18094,6 +18095,7 @@ _800x80_
 ##.itinerary-index-advertising
 ##.its_all_for_ads
 ##.its_for_ads
+##.itsanad
 ##.j-ad
 ##.jLinkSponsored
 ##.jannah_ad
@@ -21327,6 +21329,7 @@ _800x80_
 ##.widget_wp-bannerize-widget
 ##.widget_wp_ads_gpt_widget
 ##.widget_wp_insert_ad_widget
+##.widget_wpex_advertisement
 ##.widget_wpstealthads_widget
 ##.widgetads
 ##.width-ad-slug
@@ -21346,6 +21349,7 @@ _800x80_
 ##.wp_bannerize_container
 ##.wpadvert
 ##.wpd-advertisement
+##.wpex-ads-widget
 ##.wppaszone
 ##.wpvqgr-a-d-s
 ##.wpx-bannerize
@@ -52631,6 +52635,8 @@ browsershots.org#@#.advert_area
 ||fentent.streampiay.fun^
 ||fentent.streampiay.me^
 ||file-upload.site/page.js
+||filehippo.com/best-recommended-apps^
+||filehippo.com/revamp.js
 ||filemoon.*/js/baf.js
 ||filemoon.*/js/dola.js
 ||filemoon.*/js/skrrt.js
@@ -61076,6 +61082,7 @@ newduba.cn###jq_youxi
 ##.container + .container > .warp > .cate
 ##.container > .index-ad
 ##.container > .slide-baidu
+##.container > .t-img-box:first-child
 ##.container > a[href^="http"] > .ads
 ##.containeradvertising
 ##.content > a > .topline
@@ -61244,7 +61251,6 @@ newduba.cn###jq_youxi
 ##.player_ggw
 ##.playtop.col-pd
 ##.plc > .a_p
-##.container > .t-img-box:first-child
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
 ##.post-title + .metadata + .entry > div > div > a[href^="/"][href$="/"] > img
@@ -61330,6 +61336,7 @@ newduba.cn###jq_youxi
 ##.wrapper > a[target="_blank"] > .ads
 ##.wumii-bottom-popup
 ##.wumii-widget-ad
+##.wwads
 ##.wwads-cn
 ##.wzad
 ##.xstui-content__acc
@@ -61528,6 +61535,7 @@ newduba.cn###jq_youxi
 ||4cjh.xyz^
 ||5251m.xyz^
 ||52qd.club^
+||54ha.cn^
 ||5xur.top^
 ||7067.top^
 ||7xwx.cn^
@@ -61551,6 +61559,7 @@ newduba.cn###jq_youxi
 ||aagomsi.xyz^
 ||aamv.vip^
 ||acbe.club^
+||accid.xyz^
 ||aceik.xyz^
 ||acqc9.com^
 ||acsc10.com^
@@ -61601,6 +61610,7 @@ newduba.cn###jq_youxi
 ||brkzczn.cn^
 ||bwwlw.cn^
 ||campu.ltd^
+||caozhixiong.cn^
 ||cbhwekr.cn^
 ||ccohayo.xyz^
 ||cdcc3.com^
@@ -61633,6 +61643,7 @@ newduba.cn###jq_youxi
 ||d7dzf.xyz^
 ||d86n.top^
 ||dcdf4.com^
+||dcnytdpke.xyz^
 ||dcqs4.com^
 ||ddkep.xyz^
 ||ddlipf.xyz^
@@ -61718,10 +61729,12 @@ newduba.cn###jq_youxi
 ||himeneko.ink^
 ||hldwdz.xyz^
 ||hoiea.xyz^
+||hontont.com^
 ||hsili.ltd^
 ||hsrgnac.cn^
 ||huangji1.cn^
 ||huaweinnd.top^
+||huishengqihang.xyz^
 ||hunlimd.cn^
 ||hvfubp.xyz^
 ||hwhefj.xyz^
@@ -61763,11 +61776,13 @@ newduba.cn###jq_youxi
 ||jntxvf.xyz^
 ||joplopr.cn^
 ||jqueryboots.net^
+||jquerydns.com^
 ||jrtwi.xyz^
 ||jrzaht.xyz^
 ||jstimiz.xyz^
 ||jvkckeg.cn^
 ||jvmxrug.xyz^
+||jwandla.top^
 ||jwjdpab.cn^
 ||jwronx.xyz^
 ||jxncs1.com^
@@ -61800,6 +61815,7 @@ newduba.cn###jq_youxi
 ||linuozhiyao.xyz^
 ||lmlzht.xyz^
 ||lnnjnv.xyz^
+||lorenop.icu^
 ||lqglqq.com^
 ||luckydino.ren^
 ||ludie.xyz^
@@ -61808,6 +61824,7 @@ newduba.cn###jq_youxi
 ||lxbbs.fun^
 ||lxyl66.cn^
 ||mahao1.cn^
+||majunguo.cn^
 ||maoqxyl.xyz^
 ||mc3369.xyz^
 ||mdqhyxe.cn^
@@ -61827,6 +61844,7 @@ newduba.cn###jq_youxi
 ||mxknqq.com^
 ||nagmopd.cn^
 ||naned.xyz^
+||ncyksuw.xyz^
 ||ncyx.ltd^
 ||ndqzqmb.xyz^
 ||nedes.xyz^
@@ -61838,6 +61856,7 @@ newduba.cn###jq_youxi
 ||nsfdsa.xyz^
 ||nurahf.xyz^
 ||nvchmkw.cn^
+||nwandlc.top^
 ||nwecd.xyz^
 ||ocoda.xyz^
 ||oimzak.xyz^
@@ -61866,6 +61885,7 @@ newduba.cn###jq_youxi
 ||poopd.xyz^
 ||poppy.fit^
 ||poqwnllkm.com^
+||ppjttn.xyz^
 ||ppshop.club^
 ||pqldzp.xyz^
 ||pqxyqq.com^
@@ -61946,6 +61966,7 @@ newduba.cn###jq_youxi
 ||ttpybz.xyz^
 ||tuhipkz.xyz^
 ||turifb.xyz^
+||twbqqq.com^
 ||twnafj.xyz^
 ||txphjl.xyz^
 ||tzmhqll.cn^
@@ -61998,6 +62019,7 @@ newduba.cn###jq_youxi
 ||whbn.xyz^
 ||windyang.xyz^
 ||wjaqc.xyz^
+||wjtij.top^
 ||wkzrqq.com^
 ||wqweiog.xyz^
 ||wsoxwa.xyz^
@@ -62016,6 +62038,7 @@ newduba.cn###jq_youxi
 ||xckyqq.com^
 ||xcysqq.com^
 ||xghnqq.com^
+||xiangfenyabu.xyz^
 ||xiaobixiaobi.com^
 ||xiaochen1.cn^
 ||xiaoliublog.icu^
@@ -62030,9 +62053,11 @@ newduba.cn###jq_youxi
 ||xnmqqq.com^
 ||xpynqq.com^
 ||xrkyqq.com^
+||xsbdj6.com^
 ||xuanqi.ltd^
 ||xueyugaoyuan.xyz^
 ||xunjie.fun^
+||xvrvgod.xyz^
 ||xyjcpcb.cn^
 ||xyzyqq.com^
 ||yanghetp.com^
@@ -62080,25 +62105,8 @@ newduba.cn###jq_youxi
 ||zrrnqq.com^
 ||zsblog.vip^
 ||zscgoqt.cn^
-||zxgko.cn^
-||majunguo.cn^
-||lorenop.icu^
-||twbqqq.com^
-||xvrvgod.xyz^
 ||zvfaxh.xyz^
-||jwandla.top^
-||ppjttn.xyz^
-||caozhixiong.cn^
-||ncyksuw.xyz^
-||jquerydns.com^
-||accid.xyz^
-||nwandlc.top^
-||huishengqihang.xyz^
-||xiangfenyabu.xyz^
-||wjtij.top^
-||xsbdj6.com^
-||dcnytdpke.xyz^
-||54ha.cn^
+||zxgko.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -68095,7 +68103,6 @@ newduba.cn###jq_youxi
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
-||mgtv-bbqn.oss-cn-beijing.aliyuncs.com^
 ||miaozhen.com^$third-party
 ||mobads.baidu.com^$third-party
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
@@ -68561,6 +68568,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||360.cn/int/getadurls?
 ||360.cn/popup/popinfo/
 ||360buyimg.com/babel/jfs/t1/209256/22/21888/60206/627b7a6aEa5f2d78b/219868beb169203f.jpg
+||360buyimg.com/ddimg/jfs/t1/27218/8/19964/31194/636a1930E1de2ae78/e3ff134116579b95.jpg
 ||360buyimg.com/jzt/temp/js/
 ||360buyimg.com^$domain=1024pz.com|chdbits.co|gw54.com|qianggou5.com|xgw5.com
 ||360doc.com^*.html?t=
@@ -72711,7 +72719,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-ruyo.net##.textwidget a > img
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -76554,6 +76561,7 @@ baidu.com##.spread-wrap
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.spreadad
 sogou.com##.sr-adv
 youku.com##.src_adwrap
+alist.nn.ci##.ss
 stockstar.com##.ss-ad-icon2
 duba.com##.ss_sider_list[href*=".wan.liebao.cn"]
 acwifi.net,zhain8.com##.ssr
@@ -76647,6 +76655,7 @@ baidu.com##.text-link-ads
 auto-online.com.tw##.text_links_h
 jiyingw.vip##.textwidget > p > a > img
 maomaomom.com##.textwidget > table[width="1050"]
+ruyo.net##.textwidget a > img
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 10fang.com##.tfy-ab
 bmlink.com##.tg
@@ -76706,6 +76715,7 @@ booom.net,x6d.com##.tmall_tab
 qq.com##.tmallredpacket
 qq.com##.tmallskin
 sxrom.com##.tmk
+element-plus.gitee.io,element-plus.org##.toc-content > .m-t-16px
 pc841.com,zol.com.cn##.today-hot-layer
 muchong.com##.todayhot
 weather.com.cn##.tong
@@ -77388,6 +77398,7 @@ firefoxchina.cn##a[track_key="sites_saoma"]
 gameinns.com##a[url^="/api/ads?"]
 duba.com##a[w="topad"]
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
+element-plus.gitee.io,element-plus.org##aside > .page-content
 idanmu.ee##aside > div[class="widget "]
 zhujiceping.com##aside[id^="custom_html-"]
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
@@ -79455,6 +79466,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||ccmeng.com^$third-party
 ||cdgtw3.guapaijia.com^
 ||cdn.haocaa.com^
+||cdn.sinam.top^
 ||cdn.wenzhangba.cn^
 ||cdn1.tvzhe.com^
 ||cdnjs.hro-cosmetics.com^
@@ -79753,6 +79765,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||m1.nn670.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
+||m5.66077.cn^
 ||ma1.meishij.net^
 ||main.jiukang.org^
 ||materiel.baizhan.net^
@@ -80757,7 +80770,6 @@ fqsousou.com,kengso.com#@#.user-share
 &http_referer=$script,xmlhttprequest,domain=~facebook.com|~jobscore.com
 &refer=http$script
 &t=pageview&
-&tag=IMPRESSION&
 &visitorUuid=
 -ad-targeting?
 -adobe-analytics.
@@ -80771,10 +80783,8 @@ fqsousou.com,kengso.com#@#.user-share
 -analytics/analytics.
 -appanalytics-
 -click-tracker.
--content-tracking.
 -datacollection.
 -didomi.js
--dspcookiematching.
 -event-tracking.
 -ga-tracker.
 -ga-tracking/
@@ -80782,8 +80792,6 @@ fqsousou.com,kengso.com#@#.user-share
 -geoIP.js
 -heatmaps-analytics/
 -inview-tracker.
--krux-tag/
--landing-tracking-
 -optimization-metrics.
 -optimost-
 -page-analytics.
@@ -80834,9 +80842,7 @@ fqsousou.com,kengso.com#@#.user-share
 .com/stats.aspx?
 .com/track?$~object
 .com/tracking?
-.com/vtrack|
 .content_tracking.
-.d-engine.js
 .de/h.gif?
 .de/l.gif?
 .drive-analytics.
@@ -80856,8 +80862,6 @@ fqsousou.com,kengso.com#@#.user-share
 .net/ping.php?
 .ntpagetag.
 .org/js/ga-
-.PageHitServlet?
-.pageVisitCounter_
 .php?action=browse&
 .php?action_name=
 .php?hey_stat=
@@ -80870,23 +80874,16 @@ fqsousou.com,kengso.com#@#.user-share
 .php?self=
 .php?stats=
 .php?tracking=
-.pixel.archive.
-.pl?trans.gif&ref=
 .pt/n.gif?
-.redux-logger-
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
 .sitetracking.
 .skimlinks.js
 .snowplowanalytics.$domain=~snowplowanalytics.com
-.statData-eup.
 .stats?action=
 .svc/?tracking_id=
-.track_apply_impression/
 .track_Visit?
-.trafficTracking.
-.tstracker.
 .tv/log?event
 .v4.analytics.
 .vsTracking.
@@ -80909,11 +80906,9 @@ fqsousou.com,kengso.com#@#.user-share
 /?dm=*&blogid=$script
 /?dsp_uid=
 /?essb_counter_
-/?fp=*&prvtof=
 /?livehit=
 /?log=experiment&
 /?log=performance-
-/?mob.ct=
 /?record&key=
 /?sentry_key=
 /?sentry_version=
@@ -80943,23 +80938,14 @@ fqsousou.com,kengso.com#@#.user-share
 /_stat/log_
 /_tracking/*
 /_visitcount?
-/a-stat.
 /a.gif?
 /a8c-analytics.
 /a8c-analytics/*
 /aap/stats
-/abp-analytics.
-/abp.gif?
-/abstat.
-/abtestInit-
-/abtshield-snippet.js
-/ac-site-tracking-
 /ac.fcgi?
-/acbeacon2.
 /accessanalyzer/tracker?
 /AccessCounter/*
 /accesstracking/*
-/accip_script.js
 /acclog.cgi?
 /acecounter/*
 /acecounter_
@@ -80972,13 +80958,11 @@ fqsousou.com,kengso.com#@#.user-share
 /AD/PageHits.
 /ad/statistic
 /ad_tracking.
-/AdAppSettings/*
 /adb-analytics
 /adb1.gif?
 /adblock_logging.
 /AdCookies.js
 /AdCount/*
-/add_anonymous_identifier
 /add_page_view?
 /add_stats
 /add_utm_links.
@@ -112238,6 +112222,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
+@@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||ens.nzz.ch^$~third-party
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
