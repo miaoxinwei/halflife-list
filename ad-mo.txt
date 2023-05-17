@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6p5wolobK6nhB3OHhlhSqQ
+! Checksum: BQ1qsrRH8hGSG3gfV+5Q0w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305171417
-! Last Modified: 2023年05月17日 14:17
+! Version: 202305172027
+! Last Modified: 2023年05月17日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51333,6 +51333,7 @@ browsershots.org#@#.advert_area
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
+||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||windows.net/banners/$domain=hortidaily.com
@@ -57776,7 +57777,6 @@ linkedin.com##li[data-is-sponsored="true"]
 linkvertise.com##lv-taboola-ctr-ad-dummy
 aniwatcher.com##main > [href] > [src]
 hentai-foundry.com##main > p
-porsche.com##myservices-cookie-banner
 escorenews.com##noindex
 adblock-tester.com##object[width="240"]
 mrchecker.net##p > [href^="https://www.mrchecker.net/"]
@@ -61983,6 +61983,10 @@ newduba.cn###jq_youxi
 ||nwandlc.top^
 ||huishengqihang.xyz^
 ||xiangfenyabu.xyz^
+||wjtij.top^
+||xsbdj6.com^
+||dcnytdpke.xyz^
+||54ha.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -72595,6 +72599,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ruyo.net##.textwidget a > img
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
