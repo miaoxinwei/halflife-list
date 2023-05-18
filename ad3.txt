@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: r3Mk+pex1hQWeZN0q1N7LQ
+! Checksum: eCxcJ2QxRjIFs+svUH+oyw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305180216
-! Last Modified: 2023年05月18日 02:16
+! Version: 202305180911
+! Last Modified: 2023年05月18日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2368,6 +2368,14 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||bjtel.cn^
+||kryjqq.com^
+||bockd.xyz^
+||fdytdc.xyz^
+||qange.com^
+||xzlurd.xyz^
+||humgrww.xyz^
+||hfhytx.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -23405,6 +23413,7 @@ m.babytree.com##script + a[class]
 .com/stats.aspx?
 .com/track?$~object
 .com/tracking?
+.com/vtrack|
 .content_tracking.
 .de/h.gif?
 .de/l.gif?
@@ -26433,6 +26442,7 @@ m.babytree.com##script + a[class]
 /pluck-tracking.
 /plugin/trackEvents.
 /plugins/catman/*
+/plugins/duracelltomi-google-tag-manager/*
 /plugins/exactmetrics-
 /plugins/stat-dfp/*
 /plugins/status.gif?
@@ -34008,6 +34018,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.stats.in.th^$third-party
 ||truehits.net^$third-party
 ||truehits3.gits.net.th^$third-party
+||brainsland.com^$third-party
 ||onlinewebstat.com^$third-party
 ||realist.gen.tr^$third-party
 ||sayyac.com^$third-party
@@ -35900,6 +35911,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.powerreviews.com^$third-party
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
+||t.rentcafe.com^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.skimresources.com^
@@ -36070,6 +36082,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.buygoods.com^
 ||tracking.cerdmann.com^
 ||tracking.chilipiper.com^
+||tracking.dealeranalytics.com^
 ||tracking.drsfostersmith.com^$third-party
 ||tracking.drum.io^
 ||tracking.dsmmadvantage.com^
@@ -38120,6 +38133,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcloud.to/log/
 ||mcloud.to/ping/
 ||mcs-va.tiktokv.com^
+||mcs.us.tiktokv.com^
 ||mdmpix.com/js/connector.php?
 ||medium.com/_/batch
 ||medium.com/_/clientele/reports/performance/
@@ -53373,6 +53387,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||s5.charliehebdo.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
+||shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
@@ -54136,6 +54151,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||sync.rambler.ru^
 ||tes-game.ru/stat/
 ||tonkosti.ru/go.php?
+||top-staging.mail.ru^
 ||top.mail.ru/tc?js
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
@@ -54384,7 +54400,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||check.ddos-guard.net/check.js$script
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
-@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|winnipegfreepress.com
+@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|winnipegfreepress.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair2.resmed.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
