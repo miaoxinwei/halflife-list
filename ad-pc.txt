@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JN8xQQnd1uPCdMBImj17YQ
+! Checksum: DBGjbVTX2kdbWLG/zGhBNg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305181418
-! Last Modified: 2023年05月18日 14:18
+! Version: 202305182028
+! Last Modified: 2023年05月18日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5496,9 +5496,7 @@ _800x80_
 ###OAS2
 ###OASMiddleAd
 ###OASRightAd
-###OpenXAds
 ###PaneAdvertisingContainer
-###PreRollAd
 ###PromotionAdBox
 ###PushDownAd
 ###RadAdSkyscraper
@@ -5577,8 +5575,6 @@ _800x80_
 ###ad-300b
 ###ad-300x250
 ###ad-300x250-0
-###ad-300x250-01
-###ad-300x250-02
 ###ad-300x250-2
 ###ad-300x250-b
 ###ad-300x250-sidebar
@@ -6896,7 +6892,6 @@ _800x80_
 ###adscolumn
 ###adscontainer
 ###adscontent
-###adsctl00_AdsHome2
 ###adsdiv
 ###adsection
 ###adsense-2
@@ -8208,7 +8203,6 @@ _800x80_
 ###floatingAds
 ###floating_ad
 ###floating_ad_container
-###floating_ads_bottom_textcss_container
 ###floorAdWrapper
 ###foot-ad-wrap
 ###foot-ad2-wrap
@@ -10839,8 +10833,6 @@ _800x80_
 ##.ad--wallpaper
 ##.ad--widget
 ##.ad--wrapper
-##.ad-01
-##.ad-02
 ##.ad-1
 ##.ad-1-drzac-links
 ##.ad-1-sidebar-1
@@ -10946,7 +10938,6 @@ _800x80_
 ##.ad-728-banner
 ##.ad-728-x-90
 ##.ad-728x90
-##.ad-728x90--a2g
 ##.ad-728x90-1
 ##.ad-728x90-top
 ##.ad-728x90-top0
@@ -10960,14 +10951,11 @@ _800x80_
 ##.ad-9
 ##.ad-90
 ##.ad-90x600
-##.ad-921
 ##.ad-970
 ##.ad-970-250
 ##.ad-970-90
 ##.ad-970x250-container
 ##.ad-970x250-home
-##.ad-970x50
-##.ad-970x90
 ##.ad-980-1
 ##.ad-Advert_Placeholder
 ##.ad-CUSTOM
@@ -18524,7 +18512,6 @@ _800x80_
 ##.marketing-ad
 ##.marketplace-ad
 ##.marketplaceAd
-##.marketplaceAdShell
 ##.markplace-ads
 ##.marquee-ad
 ##.masonry-tile-ad
@@ -18546,12 +18533,8 @@ _800x80_
 ##.mb-advert__tweeny
 ##.mb-block--advert-side
 ##.mb-list-ad
-##.mc-ad-chrome
 ##.mc_floating_ad
 ##.mc_text_ads_box
-##.mchadcont
-##.mcx-content-ad
-##.md-adv
 ##.md-advertisement
 ##.mdl-ad
 ##.medRect
@@ -18563,12 +18546,7 @@ _800x80_
 ##.media-viewer__ads-container
 ##.mediaAd
 ##.mediaAdContainer
-##.mediaResult_sponsoredSearch
-##.media__ad
-##.media__ad--banner
-##.media_ad
 ##.media_impact_ads_ad_superbanner
-##.medianet-ad
 ##.medium-rectangle-ad
 ##.medium-top-ad
 ##.mediumRectAdWrapper
@@ -18582,11 +18560,8 @@ _800x80_
 ##.medrect-ad2
 ##.medrectAd
 ##.medrect_ad
-##.medrectadv4
 ##.mega-ad
 ##.member-ads
-##.memberAdsContainer
-##.member_ad_banner
 ##.menu-ad
 ##.menuAd
 ##.menuAds-cage
@@ -18599,7 +18574,6 @@ _800x80_
 ##.meta_ad
 ##.metabet-adtile
 ##.metaboxType-sponsor
-##.mf-ad300-container
 ##.mf-adsense-leaderboard
 ##.mf-adsense-rightrail
 ##.mg_box_ads
@@ -18659,21 +18633,12 @@ _800x80_
 ##.misc-ad
 ##.misc-ad-label
 ##.miscAd
-##.mit-adv-comingsoon
 ##.mj-floating-ad-wrapper
 ##.mk_ads
 ##.mks_ads_widget
 ##.ml-advert
-##.ml-adverts-sidebar-1
-##.ml-adverts-sidebar-2
-##.ml-adverts-sidebar-4
-##.ml-adverts-sidebar-bottom-1
-##.ml-adverts-sidebar-bottom-2
-##.ml-adverts-sidebar-bottom-3
-##.ml-adverts-sidebar-random
 ##.mlaAd
 ##.mm-ad-sponsored
-##.mm-banner970-90-ad
 ##.mm-banner970-ad
 ##.mmads
 ##.mmc-ad
@@ -18726,8 +18691,6 @@ _800x80_
 ##.mod-ad-2
 ##.mod-ad-300x250
 ##.mod-ad-600
-##.mod-ad-box
-##.mod-ad-google-afc
 ##.mod-ad-lrec
 ##.mod-ad-n
 ##.mod-ad-risingstar
@@ -21421,6 +21384,7 @@ _800x80_
 ##[data-m-ad-id]
 ##[data-mobile-ad-id]
 ##[data-name="adaptiveConstructorAd"]
+##[data-rc-widget]
 ##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
@@ -54843,6 +54807,7 @@ this.org##.Wrap-leaderboard
 tumblr.com##.XJ7bf
 tumblr.com##.Yc2Sp
 olympics.com##.\-partners
+deviantart.com##._15LLi
 timesnownews.com##._1ML8q
 swarajyamag.com##._1eNH8
 afkgaming.com##._2-COY
@@ -54851,7 +54816,7 @@ jeffdornik.com##._2kEVY
 motortrend.com##._2xd_t
 coderwall.com##._300x250
 timesofindia.indiatimes.com##._3JJMX
-deviantart.com##._3bkGl
+deviantart.com##._3jfHP
 thequint.com##._4xQrn
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 gadgets360.com##.__wdgt_rhs_kpc
@@ -55932,6 +55897,7 @@ tvcancelrenew.com##.h-72
 buzzly.art##.h-min.overflow-hidden
 target.com##.h-position-fixed-bottom
 lyricsmode.com##.h113
+opoyi.com##.hLYYlN
 marketscreener.com##.hPubRight2
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hTgZCF
 gifcompressor.com,heic2jpg.com,imagecompressor.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.ha
@@ -57383,7 +57349,6 @@ yardbarker.com##.yb-card-out
 shockwave.com##.ympb_target_banner
 saltwire.com##.youtube_article_ad
 yellowpages.co.za##.yp-object-ad-modal
-deviantart.com##.ytXUX
 buzzly.art##.z-10.w-max
 howstuffworks.com##.z-999
 tekdeeps.com##.zAzfDBzdxq3
@@ -57612,6 +57577,7 @@ cbn.com##[style="display:block !important; min-height:90px;"]
 tenforums.com##[style="height:280px;"]
 geekzone.co.nz##[style="height:90px"]
 timesnownews.com##[style="min-height: 181px;"]
+namemc.com##[style="min-height: 238px"]
 calendar-uk.co.uk,wahm.com##[style="min-height:250px;"]
 dvdsreleasedates.com##[style="padding:15px 0 15px 0;width:728px;height:90px;text-align:center;"]
 analyticsinsight.net##[style="text-align: center;"]
