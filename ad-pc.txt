@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J6hMDSYPlJOuyNq5xVVb3A
+! Checksum: ZKA8/ssXPj1hxrV+PoyW6g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305190913
-! Last Modified: 2023年05月19日 09:13
+! Version: 202305191417
+! Last Modified: 2023年05月19日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54514,6 +54514,7 @@ hot933hits.com###simpleimage-5
 inoreader.com###sinner_container
 pocketgamer.com###site-background
 webkinznewz.ganzworld.com###site-description
+dead-frog.com###site_top
 2oceansvibe.com###skin
 namemc.com###skin_wrapper
 dafont.com###sky
@@ -54859,6 +54860,7 @@ thequint.com##._4xQrn
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 gadgets360.com##.__wdgt_rhs_kpc
 indiewire.com##._adUnit_1satq_1
+timeout.com##._ad_1elek_1
 vscode.one##._flamelab-ad
 tampafp.com##._ning_outer
 startpage.com##.a-bg
@@ -62280,6 +62282,8 @@ newduba.cn###jq_youxi
 ||cadke.xyz^
 ||vfsvv1.com^
 ||jinheart.xyz^
+||jn060.xyz^
+||ljte0.com^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -72892,6 +72896,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+shangyexinzhi.com##.hang-baidu_adv
+shangyexinzhi.com##.advert
+shangyexinzhi.com##.img2text-adv_wrapper
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
