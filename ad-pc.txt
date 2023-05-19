@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1OzSLB1rRt8XgXy++lKcPg
+! Checksum: J6hMDSYPlJOuyNq5xVVb3A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305190217
-! Last Modified: 2023年05月19日 02:17
+! Version: 202305190913
+! Last Modified: 2023年05月19日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8203,6 +8203,7 @@ _800x80_
 ###floatingAds
 ###floating_ad
 ###floating_ad_container
+###floating_ads_bottom_textcss_container
 ###floorAdWrapper
 ###foot-ad-wrap
 ###foot-ad2-wrap
@@ -54485,7 +54486,7 @@ wowway.net###sc_home_recommended_banner
 wowway.net###sc_read_header_banner
 my.juno.com###scienceTile
 coinarbitragebot.com###screener
-money.yahoo.com###sda-MON
+yahoo.com###sda-MON
 pao.gr###section--sponsors
 hometheaterreview.com###section-20297-191992
 hometheaterreview.com###section-246-102074
@@ -54917,7 +54918,7 @@ merriam-webster.com##.ad-base
 home-designing.com,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 save.ca##.ad-box
-12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
 sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 pinkvilla.com##.ad-heder-320-50
@@ -55725,8 +55726,7 @@ artsy.net##.ePrLqP
 euractiv.com##.ea-gat-slot-wrapper
 coin360.com##.earnMenuButton-link
 expats.cz##.eas
-itwire.com##.eb-init
-nativenewsonline.net##.eb-visible
+itwire.com,nativenewsonline.net##.eb-init
 gfinityesports.com##.ecommerceUnit
 newagebd.net##.editorialMid
 sashares.co.za##.elementor-48612
@@ -56220,7 +56220,6 @@ getbukkit.org##.limit
 linuxize.com##.linaff
 jpost.com##.line-left-side-before-and-after-container
 jpost.com##.line-one-row-before-and-after-container
-builtbybit.com##.link--external
 architecturesideas.com##.linkpub_right_img
 babynamegenie.com,forless.com,worldtimeserver.com##.links
 weatherpro.com##.list-city-ad
@@ -56965,7 +56964,7 @@ newsroom.co.nz##.sponsor-logos2
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,dunyanews.tv,fifplay.com,freebmd.org.uk,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za##.sponsored
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
@@ -62272,6 +62271,15 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||fjnsnt.xyz^
+||lkmxqq.com^
+||ningdebus.club^
+||dagft.cn^
+||rshrpmk.xyz^
+||hpjzpn.xyz^
+||cadke.xyz^
+||vfsvv1.com^
+||jinheart.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -92262,6 +92270,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
 ||csr.onet.pl^
+||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^$third-party
 ||ct.itbusinessedge.com^$third-party
@@ -92463,6 +92472,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||facebook.com/tr/
 ||facebook.com/tr?
 ||facebook.com/w/$third-party
+||facebook.com/xti.php?
 ||factors.ai/sdk/event/
 ||fairfax.com.au/js/track/
 ||faphouse.com/api/collector/
@@ -96263,6 +96273,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yahoo.com/beacon?
 ||yahoo.net/pixel.gif
 ||yalemedicine.org/website-api-data/analytics-report
+||yandex.*/clck/$~ping
+||yandex.*/count/
 ||yandex.com/clck/
 ||yandex.eu/clck/
 ||yandex.ru/clck/
@@ -110022,7 +110034,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||get.pintpass.com^
 ||get.printtapp.com^
 ||get.prismapp.com^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -112321,7 +112332,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! cxense.com/cx.js
 @@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp
 !! fast.appcues.com
-@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com
+@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com|westrive.com
 !! collector.appconsent.io
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||gs.statcounter.com/chart.php$script,third-party

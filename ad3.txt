@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: czHVhCWfH3oXky3FMfTo+Q
+! Checksum: nSKI/P00B9qoQhQgy+LfZw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305190217
-! Last Modified: 2023年05月19日 02:17
+! Version: 202305190913
+! Last Modified: 2023年05月19日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2379,6 +2379,15 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||fjnsnt.xyz^
+||lkmxqq.com^
+||ningdebus.club^
+||dagft.cn^
+||rshrpmk.xyz^
+||hpjzpn.xyz^
+||cadke.xyz^
+||vfsvv1.com^
+||jinheart.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -34671,6 +34680,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
 ||csr.onet.pl^
+||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^$third-party
 ||ct.itbusinessedge.com^$third-party
@@ -34872,6 +34882,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||facebook.com/tr/
 ||facebook.com/tr?
 ||facebook.com/w/$third-party
+||facebook.com/xti.php?
 ||factors.ai/sdk/event/
 ||fairfax.com.au/js/track/
 ||faphouse.com/api/collector/
@@ -38672,6 +38683,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yahoo.com/beacon?
 ||yahoo.net/pixel.gif
 ||yalemedicine.org/website-api-data/analytics-report
+||yandex.*/clck/$~ping
+||yandex.*/count/
 ||yandex.com/clck/
 ||yandex.eu/clck/
 ||yandex.ru/clck/
@@ -52431,7 +52444,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||get.pintpass.com^
 ||get.printtapp.com^
 ||get.prismapp.com^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -54730,7 +54742,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! cxense.com/cx.js
 @@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp
 !! fast.appcues.com
-@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com
+@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com|westrive.com
 !! collector.appconsent.io
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||gs.statcounter.com/chart.php$script,third-party
