@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fVgb12Wgfy0PqPRPcocpVQ
+! Checksum: TisF8QRnmssV/kxeQgtKfQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305202025
-! Last Modified: 2023年05月20日 20:25
+! Version: 202305210215
+! Last Modified: 2023年05月21日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -56446,6 +56446,7 @@ myfigurecollection.net,prolificnotion.co.uk##.partner
 hbr.org##.partner-center
 mail.com##.partner-container
 mavin.io##.partner-content
+courier-journal.com,courierpress.com,detroitnews.com,freep.com,greenbaypressgazette.com,jsonline.com,lohud.com,northjersey.com,sheboyganpress.com,tallahassee.com,theadvertiser.com##.partner-placement
 dzone.com##.partner-resources-block
 nationtalk.ca##.partner-slides
 artasiapacific.com##.partner_container
@@ -57975,6 +57976,7 @@ escorenews.com##noindex
 adblock-tester.com##object[width="240"]
 mrchecker.net##p > [href^="https://www.mrchecker.net/"]
 bitref.com##picture > img[src]
+courier-journal.com,courierpress.com,detroitnews.com,freep.com,greenbaypressgazette.com,jsonline.com,lohud.com,northjersey.com,sheboyganpress.com,tallahassee.com,theadvertiser.com##promo-story-bucket-short[style="min-height: 335px;"]
 healthgrades.com##ps-action-intercept
 mashable.com##section.mt-4 > div
 bbc.com##section[data-e2e="advertisement"]
@@ -61607,6 +61609,7 @@ newduba.cn###jq_youxi
 ||230579.top^
 ||234mx.club^
 ||26niao20230505.live^
+||2fa20230511.live^
 ||32fi.com^
 ||331qka.cn^
 ||36060.xyz^
@@ -61621,6 +61624,7 @@ newduba.cn###jq_youxi
 ||52qd.club^
 ||54ha.cn^
 ||5xur.top^
+||69wx1.top^
 ||6h1cz.xyz^
 ||7067.top^
 ||7xwx.cn^
@@ -61648,6 +61652,7 @@ newduba.cn###jq_youxi
 ||aceik.xyz^
 ||acqc9.com^
 ||acsc10.com^
+||acsydez.cn^
 ||adadu.cn^
 ||adbtwyxl96.fun^
 ||adcd7.com^
@@ -61672,6 +61677,7 @@ newduba.cn###jq_youxi
 ||aqpvglv.cn^
 ||aquvg.com^
 ||awdc6.com^
+||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
 ||baitu1llbkotsfthllcjeg.com^
 ||balspaulite.com^
@@ -61729,6 +61735,7 @@ newduba.cn###jq_youxi
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
+||crhyqq.com^
 ||csh253.cn^
 ||cvmesi.xyz^
 ||d7dzf.xyz^
@@ -61750,6 +61757,7 @@ newduba.cn###jq_youxi
 ||dkcwnsu.xyz^
 ||doccd.xyz^
 ||donku.club^
+||dpaic.xyz^
 ||dqazwsxd.xyz^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
@@ -61782,11 +61790,13 @@ newduba.cn###jq_youxi
 ||findnam.xyz^
 ||fionamignon.com^
 ||fjnsnt.xyz^
+||fkading38.xyz^
 ||flpnnqe.xyz^
 ||flyinsky2009.ltd^
 ||fnnzr.cn^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
+||ftptjj.xyz^
 ||fvzljv.xyz^
 ||fweia.xyz^
 ||fzcsd33.com^
@@ -61816,6 +61826,7 @@ newduba.cn###jq_youxi
 ||hbbxwan.cn^
 ||hefei64.com^
 ||heild.xyz^
+||hejbd.cn^
 ||heliangjun2.cn^
 ||helid.xyz^
 ||hffxc.com^
@@ -61880,6 +61891,7 @@ newduba.cn###jq_youxi
 ||jrtwi.xyz^
 ||jrzaht.xyz^
 ||jstimiz.xyz^
+||justasimple.top^
 ||jvkckeg.cn^
 ||jvmxrug.xyz^
 ||jwandla.top^
@@ -61927,6 +61939,7 @@ newduba.cn###jq_youxi
 ||lwtqqq.com^
 ||lxbbs.fun^
 ||lxyl66.cn^
+||m9d6p03.com^
 ||mahao1.cn^
 ||majunguo.cn^
 ||maoqxyl.xyz^
@@ -62001,6 +62014,7 @@ newduba.cn###jq_youxi
 ||prlioxb.cn^
 ||prtlth.xyz^
 ||pvjlfjz.cn^
+||pzlxnd.xyz^
 ||qange.com^
 ||qatuaad.cn^
 ||qfblqq.com^
@@ -62073,6 +62087,7 @@ newduba.cn###jq_youxi
 ||tian0.ltd^
 ||tiancaiwei.wang^
 ||tianma704.ltd^
+||tingchen.xyz^
 ||tlhlpcb.xyz^
 ||tmochyf.cn^
 ||tpjmqq.com^
@@ -62096,6 +62111,7 @@ newduba.cn###jq_youxi
 ||umcpebi.cn^
 ||uqelxct.cn^
 ||uqymady.cn^
+||urccncd.xyz^
 ||uu5731uu.com^
 ||uu6522uu.com^
 ||uu6873uu.com^
@@ -62105,6 +62121,7 @@ newduba.cn###jq_youxi
 ||uuuxyjh.cn^
 ||uwhreur.cn^
 ||uxwkiyp.xyz^
+||uysdxmo.com^
 ||uz44x.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
@@ -62203,6 +62220,7 @@ newduba.cn###jq_youxi
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdyuoae.xyz^
+||zeatse.buzz^
 ||zebjlt.buzz^
 ||zgyvg.top^
 ||zhalinyyds.com^
@@ -62225,22 +62243,6 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||hejbd.cn^
-||dpaic.xyz^
-||crhyqq.com^
-||tingchen.xyz^
-||baiduajbcjkabcav.com^
-||pzlxnd.xyz^
-||2fa20230511.live^
-||urccncd.xyz^
-||pzlxnd.xyz^
-||ftptjj.xyz^
-||aquvg.com^
-||zeatse.buzz^
-||acsydez.cn^
-||uysdxmo.com^
-||justasimple.top^
-||69wx1.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -71312,6 +71314,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||loli.net/2020/06/17/gpRx7AzGwI4kQmV.gif
 ||loli.net/2020/06/17/vGALJ4mQx26T75u.gif
+||loli.net/2023/05/08/w4aGFUIVmKgOT78.
 ||loli.net^$domain=1090ys8.com|520film.net|9kanqq.com|acglover.me|hdsky.me|magnet2048.com|nulltm.com
 ||lolshipin.com/zt/sxx/
 ||longdidi.top^*.js
@@ -89375,6 +89378,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||actoramusement.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
+||adamantsnail.com^
 ||additionant.com^$third-party
 ||adorableanger.com^
 ||advertisementafterthought.com^
