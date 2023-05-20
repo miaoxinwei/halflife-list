@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ka7AiKma8VnU56roid9wyg
+! Checksum: GFk53FBMRhkI5uOqyy3Cgw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305200216
-! Last Modified: 2023年05月20日 02:16
+! Version: 202305200910
+! Last Modified: 2023年05月20日 09:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -53287,6 +53287,7 @@ $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fa
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|cmovies.ac|coinfaucet.eu|crictime.com|crictime.is|deltabit.co|doodcdn.com|estream.to|extreme-down.tv|flashx.co|flashx.to|flashx.tv|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|kinox.to|lewd.ninja|assia1.tv|assia2.tv|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.watch|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|wallpoper.com|wearesaudis.net|yazilir.com
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
+||bodysize.org^$csp=child-src *
 ||convertfiles.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
 ||moviewatcher.is^$csp=script-src 'self' '*' 'unsafe-inline'
@@ -58224,6 +58225,8 @@ yahoo.com##div[id^="darla-ad"]
 yahoo.com##div[id^="gemini-item-"]
 yahoo.com##div[style*="/ads/"]
 yahoo.com##li[data-test-locator="stream-related-ad-item"]
+youtube.com###YtKevlarVisibilityIdentifier
+youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###masthead-ad
 youtube.com###merch-shelf
@@ -59719,7 +59722,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 @@||pubads.g.doubleclick.net/ssai/$domain=newson.us|worldsurfleague.com
 @@||radiotimes.com/static/advertising/$script,~third-party
-@@||recoco.it^$image,xmlhttprequest,domain=bodysize.org|heavy-r.com|porngo.com|showbiz.cz|tostreamit.com|vumoo.to
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
 @@||rubiconproject.com/prebid/dynamic/$script,domain=ask.com
@@ -62321,6 +62323,16 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||hejbd.cn^
+||dpaic.xyz^
+||crhyqq.com^
+||tingchen.xyz^
+||baiduajbcjkabcav.com^
+||pzlxnd.xyz^
+||2fa20230511.live^
+||urccncd.xyz^
+||pzlxnd.xyz^
+||ftptjj.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -85805,6 +85817,7 @@ _WebVitalsReporter_
 .bahn.de/op/$image
 .bhphotovideo.com/mo/
 .bluekai.com/*?e_id_
+.bmetrack.com/c/$image
 .cmail19.com/t/$image
 .cmail19.com/ti/$image
 .cmail20.com/t/$image
@@ -86208,6 +86221,7 @@ _mongo_stats/
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
 ||bfmio.com^
 ||bidswitch.net^
@@ -94659,6 +94673,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||walla.co.il/stats/
 ||gpr.hu/pr.pr?
+||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -111406,8 +111421,14 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||stats.mako.co.il^
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
+||adat.life.hu^
+||adat.mindmegette.hu^
+||adat.origo.hu^
+||adat.veol.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
+||hirtv.hu/ajaxx/_stat/
+||hirtv.hu/nx_general_stat.jpg?
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
 ||rtl.hu/_stat/
@@ -111523,6 +111544,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
 ||barks.jp/v1/stats
+||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
 ||bookoffonline.co.jp/files/inc_js/ac/
@@ -111575,6 +111597,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
 ||so-zou.jp/js/ga.js
+||stats.nhk.or.jp^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
