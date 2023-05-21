@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wCslemVDLXbIxzIjAwLITw
+! Checksum: Mxj7mjNRgVfRKW6ogkbCoQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305212024
-! Last Modified: 2023年05月21日 20:24
+! Version: 202305220216
+! Last Modified: 2023年05月22日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -196,7 +196,6 @@ stgowan.com
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
-.live/o.js$script,third-party
 -1316632262.cos.
 -1688-wp-media/ads/
 -90mh-gg.
@@ -299,6 +298,7 @@ stgowan.com
 .js?advertID=
 .la/style/vue.js?v=
 .life/ads/
+.live/o.js$script,third-party
 .lu/ads/
 .me/gg.js
 .men/ads/
@@ -1619,6 +1619,7 @@ newduba.cn###jq_youxi
 ##a#wrapper_left_bg[target="_blank"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a.ad_links
+##a.hengfu > img.hengfu
 ##a[href$=".cc:8443"]
 ##a[href$=".php"] > img[src*=".bcebos.com"]
 ##a[href$=".xyz:8443"]
@@ -1795,6 +1796,7 @@ newduba.cn###jq_youxi
 ||36060.xyz^
 ||36nl.com^
 ||39nw.com^
+||3fa20230512.live^
 ||4388888.xyz^
 ||47zoz.xyz^
 ||480image.com^
@@ -1856,6 +1858,7 @@ newduba.cn###jq_youxi
 ||aprlitj.cn^
 ||aqpvglv.cn^
 ||aquvg.com^
+||aup34.xyz^
 ||awdc6.com^
 ||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
@@ -1882,6 +1885,7 @@ newduba.cn###jq_youxi
 ||bozumi.xyz^
 ||bqcxgbm.cn^
 ||bqdyqq.com^
+||bqsxqq.com^
 ||brkzczn.cn^
 ||bwwlw.cn^
 ||cadke.xyz^
@@ -1915,9 +1919,11 @@ newduba.cn###jq_youxi
 ||cnmmcjn.cn^
 ||cnucpaq.xyz^
 ||codeice.xyz^
+||cofz9.top^
 ||crhyqq.com^
 ||csh253.cn^
 ||cvmesi.xyz^
+||cwsgbekun.xyz^
 ||d7dzf.xyz^
 ||d86n.top^
 ||dagft.cn^
@@ -1945,6 +1951,7 @@ newduba.cn###jq_youxi
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
 ||dyhnbgtsl.xyz^
+||eaica.xyz^
 ||ealdi.xyz^
 ||ecav5.com^
 ||eciea.xyz^
@@ -1953,6 +1960,7 @@ newduba.cn###jq_youxi
 ||ej65.xyz^
 ||enahmy.xyz^
 ||endio.xyz^
+||eqknlsw.xyz^
 ||evmnlpv.cn^
 ||excfig.xyz^
 ||exwxrfz.cn^
@@ -2115,6 +2123,7 @@ newduba.cn###jq_youxi
 ||luckydino.ren^
 ||ludie.xyz^
 ||luuss.cn^
+||lvy0.cn^
 ||lwh147.xyz^
 ||lwtqqq.com^
 ||lxbbs.fun^
@@ -2148,6 +2157,7 @@ newduba.cn###jq_youxi
 ||ncyksuw.xyz^
 ||ncyx.ltd^
 ||ndqzqmb.xyz^
+||ndruhz.xyz^
 ||nedes.xyz^
 ||nekomasu.ltd^
 ||networkname.xyz^
@@ -2180,6 +2190,7 @@ newduba.cn###jq_youxi
 ||pepnsnq.cn^
 ||pgjcbz.xyz^
 ||piaochong.co^
+||pingfang.icu^
 ||pithjpf.cn^
 ||pkkylyx.xyz^
 ||pkynqq.com^
@@ -2258,6 +2269,7 @@ newduba.cn###jq_youxi
 ||srkl.pw^
 ||stbdepjb.xyz^
 ||svrojrv.cn^
+||swandlb.top^
 ||szsbiw.xyz^
 ||tangxu.xyz^
 ||tc911.vip^
@@ -2285,6 +2297,7 @@ newduba.cn###jq_youxi
 ||u55022.com^
 ||u5nvu.xyz^
 ||u833ij.com^
+||u97jr.xyz^
 ||ubifyc.xyz^
 ||ucqihfh.cn^
 ||ufgg55.xyz^
@@ -2314,6 +2327,7 @@ newduba.cn###jq_youxi
 ||vorluic.cn^
 ||vujhaib.cn^
 ||vydbvp.xyz^
+||vydqknuy.xyz^
 ||vzfizr.xyz^
 ||w4jz.top^
 ||w9f1r.top^
@@ -2359,6 +2373,7 @@ newduba.cn###jq_youxi
 ||xingyang.in^
 ||xiod.xyz^
 ||xiongxiaoze12.cn^
+||xjnyjt.xyz^
 ||xkdlqq.com^
 ||xlsds888.xyz^
 ||xlxknf.xyz^
@@ -2423,18 +2438,6 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||pingfang.icu^
-||lvy0.cn^
-||eqknlsw.xyz^
-||eaica.xyz^
-||xjnyjt.xyz^
-||ndruhz.xyz^
-||swandlb.top^
-||vydqknuy.xyz^
-||cofz9.top^
-||bqsxqq.com^
-||u97jr.xyz^
-||3fa20230512.live^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -11303,7 +11306,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kaixin001.com.cn/js/cpm-
 ||kakadm.*/js/loadjs/jquery
 ||kalvin.cn/page/img/
-||kan-ju.net/cr.gif
 ||kan.cc/statics/abs/scripts/abs.
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
