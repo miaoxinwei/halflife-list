@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0dbzCUz8kBc+NM52P0QvvA
+! Checksum: gnE6Fa0pTcgq0TybVYp8QA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305210215
-! Last Modified: 2023年05月21日 02:15
+! Version: 202305210917
+! Last Modified: 2023年05月21日 09:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2422,6 +2422,13 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||pingfang.icu^
+||lvy0.cn^
+||eqknlsw.xyz^
+||eaica.xyz^
+||xjnyjt.xyz^
+||ndruhz.xyz^
+||swandlb.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -18249,7 +18256,6 @@ ldqk.xyz,masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
 lenovo.com.cn#?#.imgNewText:-abp-has(>footer>.info>.source:-abp-contains(/广告/))
 lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
 yyrtv.com##li[class*="baidu"]
-pianbus.com,pianmas.com##li[class]:not(.index):not(.hidden-ps):not(.hidden-xs):not(.active)
 3g.qq.com##li[data-adtype="qbad"] > a[class^="type"]
 so.com##li[data-cpc_query]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##li[data-daid]
@@ -35592,6 +35598,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
+||pixel2.realclever.com^
 ||pixels.afcdn.com^
 ||pixlee.com/assets/fp.js
 ||pixlee.com/assets/keen-
