@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eTNMxrCNrNvpo5eGLAOqhA
+! Checksum: R4qaV4+OtW8qH2LvHjexUA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305221418
-! Last Modified: 2023年05月22日 14:18
+! Version: 202305222027
+! Last Modified: 2023年05月22日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -56369,6 +56369,7 @@ fandom.com##.marketplace
 imgur.com,pushsquare.com,songlyrics.com##.masthead
 timeextension.com##.masthead > .insert
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
+mayoclinic.org##.mayoad
 racgp.org.au##.mb-1.small
 amgreatness.com##.mb-10.mx-auto
 wccftech.com##.mb-11
@@ -62453,6 +62454,9 @@ newduba.cn###jq_youxi
 ||fmild.xyz^
 ||ewandlw.top^
 ||orsrmrx.cn^
+||xyqmy.xyz^
+||nntsdp.xyz^
+||y3cdp.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -80978,7 +80982,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|xinrenxinshi.com|zzjiasuqi.com
+@@/sensorsdata.$domain=ttcdw.cn|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
 @@||10010.com/mall/common/js/fa.js?referer=
@@ -88720,6 +88724,7 @@ _mongo_stats/
 ||sqate.io^$third-party
 ||squeezely.tech^$third-party
 ||squidanalytics.com^$third-party
+||srmdata-us.com^$third-party
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||ssm.codes^$third-party
