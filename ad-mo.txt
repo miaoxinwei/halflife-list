@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: If/ZrqoPFwjQzVOpH7Aizw
+! Checksum: HA0GSlgJ0Lotdqx7FaRRhg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305230912
-! Last Modified: 2023年05月23日 09:12
+! Version: 202305231417
+! Last Modified: 2023年05月23日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -47315,6 +47315,7 @@ browsershots.org#@#.advert_area
 ||spolecznosci.net^$third-party
 ||sponsoredtweets.com^$third-party
 ||spotx.tv^$third-party
+||springify.io^$third-party
 ||springserve.com^$~media,third-party
 ||sprintrade.com^$third-party
 ||sprout-ad.com^$third-party
