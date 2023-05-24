@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lsXW2f+X3+HB2eJ4Xc+pag
+! Checksum: GvtGLiF+KO++ePTU+4xQ8w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202305240216
-! Last Modified: 2023年05月24日 02:16
+! Version: 202305242027
+! Last Modified: 2023年05月24日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -709,6 +709,7 @@ videojav.com,pornpapa.com,fapguru.com#$#abort-on-property-read document.querySel
 4kporn.xxx,cambro.tv,mangovideo.club#$#abort-current-inline-script crakPopInParams; abort-on-property-read onload
 livesexporn.net#$#abort-current-inline-script window.onload atob
 extremetube.com,pornhub.com,redtube.com,redtube.com.br,tube8.com,tube8.es,tube8.fr,youporn.com,youporngay.com,youpornru.com#$#abort-current-inline-script Object.defineProperty trafficjunky
+redtube.com,tube8.com,tube8.es,tube8.fr,tube8.net##a[href*="advertising"]
 cine.to#$#abort-on-property-read document.head.appendChild
 nhentai.net#$#override-property-read _n_app.popunder null;
 forums.socialmediagirls.com,masahub.net#$#abort-on-property-write zfgloadedpopup;
@@ -868,6 +869,7 @@ vidmoly.to###adsblock
 vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 @@||nosteam.ro/notcaptcha/adheader.js$domain=nosteamgames.ro
+xvideos.com##div[id^="video-ad"]+div[class]
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
@@ -1380,7 +1382,12 @@ zo3x.ml,zo3x.cc,zo3x.com,zo3x.vip#$#abort-current-inline-script document.querySe
 ! *** abp-filters-hotfix:hotfix.txt ***
 ! FDA-2830
 @@||cdn.jsdelivr.net/npm/just-detect-adblock@*/dist/bundle.umd.min.js|
-! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709 / FD-3782 / FD-3821 / FD-3868
+! FDA-2915 / FDA-2984 / FD-3135 / FD-3401 / FD-3422 / FD-3573 / FD-3660 / FD-3709 / FD-3782 / FD-3821 / FD-3868 / FD-3916
+@@||inquisitiveice.com^$script,xmlhttprequest
+@@||secretivesheep.com^$script,xmlhttprequest
+@@||rebelhen.com^$script,xmlhttprequest
+@@||guardeddirection.com^$script,xmlhttprequest
+@@||adamantsnail.com^$script,xmlhttprequest
 @@||scribblestring.com^$script,xmlhttprequest
 @@||serioussuit.com^$script,xmlhttprequest
 @@||losslace.com^$script,xmlhttprequest
