@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RBp0+9impeQa3wJmT8jtuw
+! Checksum: /k2m+SAtNzyHxKVFPGCNQA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202305260216
-! Last Modified: 2023年05月26日 02:16
+! Version: 202305260912
+! Last Modified: 2023年05月26日 09:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -166,8 +166,8 @@ dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 wpadmngr.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
-||nunuyingyuan.com/serviceworker.js^$script
-||dandanzan.cf/serviceworker.js^$script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
 www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 aqours.today
 chushoushijian.cn
@@ -2470,6 +2470,15 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||c9cc.icu^
+||lobqpt.xyz^
+||vuxxtn.xyz^
+||kpiwgio.cn^
+||yankuojjqq.com^
+||hrngmf.com^
+||oiljomy.xyz^
+||jweod.xyz^
+||zetcul.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
