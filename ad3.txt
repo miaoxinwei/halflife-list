@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DzpUg4BHbOZvuFEgXERMqQ
+! Checksum: qRxb77sHpxKQ7+jR5biTdQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305280215
-! Last Modified: 2023年05月28日 02:15
+! Version: 202305280921
+! Last Modified: 2023年05月28日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2499,6 +2499,14 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||xiaodouding.club^
+||brzfqq.com^
+||qlwoglp.cn^
+||ifbfksf.xyz^
+||ludpa.xyz^
+||tifpjz.xyz^
+||dobwll.xyz^
+||dikmnhyxz.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -47594,7 +47602,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ezgo.advancedtech.com^
 ||featured.bradyid.com^
 ||feedback.aon.com^
-||fme.safe.com^
 ||form.harvardbusiness.org^
 ||form.vocalink.com^
 ||forms-emea.lenovo.com^
@@ -53445,9 +53452,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ianimes.org/img/tracker.gif
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
-||l.bfmtv.com^
-||l.franceculture.fr^
-||l.gentside.com^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-layout/tracking-
 ||lacoccinelle.net/g.js
@@ -54330,7 +54334,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||d.haberler.com^
 ||haberler.com/dinamik/
 ||hstats.hepsiburada.com^
-||mark.isbank.com.tr^
 ||p.milliyet.com.tr^
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
