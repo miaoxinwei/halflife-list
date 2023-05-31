@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KOn0TUuepvLkTzcuHxVt+Q
+! Checksum: IVBMPJ2T92h97UYCqku/UQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305310923
-! Last Modified: 2023年05月31日 09:23
+! Version: 202305311419
+! Last Modified: 2023年05月31日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5338,10 +5338,7 @@ _800x80_
 ###AdSense1
 ###AdSense2
 ###AdSense3
-###AdSenseBottomAds
 ###AdSenseDiv
-###AdSenseMiddleAds
-###AdSenseTopAds
 ###AdServer
 ###AdServer_Banner_1
 ###AdServer_Banner_2
@@ -7488,7 +7485,6 @@ _800x80_
 ###articleLeftAdColumn
 ###articleSideAd
 ###articleTop-ads
-###article_SponsoredLinks
 ###article_ad
 ###article_ad_1
 ###article_ad_3
@@ -7517,9 +7513,7 @@ _800x80_
 ###ax-billboard-bottom
 ###ax-billboard-sub
 ###ax-billboard-top
-###b-ad-choices
 ###backad
-###background-ad-cover
 ###background-adv
 ###background_ad_left
 ###background_ad_right
@@ -8429,8 +8423,6 @@ _800x80_
 ###grid_ad
 ###gtm_dfp_leaderboard_top
 ###h-ad
-###hAd
-###hAdv
 ###half-page-ad
 ###halfPageAd
 ###half_page_ad_300x600
@@ -9049,8 +9041,6 @@ _800x80_
 ###nbcShowcaseAds
 ###networkads
 ###newAd
-###newPostProfileAd
-###newPostProfileVerticalAd
 ###ng-ad
 ###ng-ad-lbl
 ###ni-ad-row
@@ -9062,17 +9052,13 @@ _800x80_
 ###online_ad
 ###openx-text-ad
 ###openx-widget
-###openx_iframe
 ###optadATF
-###or-ad
-###ovAdWrap
 ###ovadsense
 ###overlay-ad-bg
 ###overlay-advertising
 ###overlay_ad
 ###overlayad
 ###overlayadd
-###overtureSponsoredLinks
 ###p-Ad
 ###p-advert
 ###p-googlead
@@ -9095,12 +9081,10 @@ _800x80_
 ###page__outside-advertsing
 ###page_ad
 ###page_ad_top
-###page_content_top_ad
 ###page_top_ad
 ###pageads_top
 ###pagebottomAd
 ###pagination-advert
-###paidlistingAds
 ###panel-ad
 ###panelAd
 ###panel_ad1
@@ -9313,18 +9297,10 @@ _800x80_
 ###right-content-ad
 ###right-featured-ad
 ###right-rail-ad-slot-content-top
-###right-widget-b-ads_widget-26
-###right-widget-b-ads_widget-29
 ###right-widget-b-ads_widget-9
-###right-widget-c-ads_widget-24
-###right-widget-c-ads_widget-30
 ###right-widget-c-ads_widget-7
 ###right-widget-d-ads_widget-36
-###right-widget-d-ads_widget-37
-###right-widget-d-ads_widget-38
-###right-widget-top-ads_widget-21
 ###right-widget-top-ads_widget-23
-###right-widget-top-ads_widget-28
 ###right1-ad
 ###right1ad
 ###rightAD
@@ -9337,14 +9313,10 @@ _800x80_
 ###rightAdDiv1
 ###rightAdDiv2
 ###rightAdDiv3
-###rightAdHideLinkContainer
 ###rightAdHolder
 ###rightAdUnit
-###rightAd_Iframe
-###rightAd_rdr
 ###rightAds
 ###rightAdsDiv
-###rightBanner-ad
 ###rightBlockAd
 ###rightBottomAd
 ###rightColAd
@@ -9431,8 +9403,6 @@ _800x80_
 ###rm-adslot-bigsizebanner_1
 ###rm-adslot-contentad_1
 ###rm_ad_text
-###rn_ad_native_ppkpu
-###rolldown-ad
 ###ros_ad
 ###rotating-ad-display
 ###rotating-ads-wrap
@@ -15494,7 +15464,6 @@ _800x80_
 ##.b-ad
 ##.b-ad-main
 ##.b-adhesion
-##.b-ads_gpt
 ##.b-adv
 ##.b-advert
 ##.b-advertising__down-menu
@@ -17471,7 +17440,6 @@ _800x80_
 ##.gpAdBox
 ##.gpAdFooter
 ##.gpAds
-##.gpnad
 ##.gpt-ad
 ##.gpt-ad-container
 ##.gpt-ad-sidebar-wrap
@@ -19181,7 +19149,6 @@ _800x80_
 ##.pcads_widget
 ##.pd-ads-mpu
 ##.pdpads_desktop
-##.peg_ad
 ##.penci-ad-box
 ##.penci-ad-image
 ##.penci-ad_box
@@ -19294,7 +19261,6 @@ _800x80_
 ##.poster_ad
 ##.postfooterad
 ##.posts-ad
-##.powerinbox
 ##.pp-ad-container
 ##.pp_ad_code_adtxt
 ##.ppb_ads
@@ -19315,7 +19281,6 @@ _800x80_
 ##.primary-ad
 ##.primary-ad-widget
 ##.primary-advertisment
-##.primary_sidebar_ad
 ##.primis-video
 ##.primis-wrapper
 ##.print-ad-wrapper
@@ -19331,8 +19296,6 @@ _800x80_
 ##.profile__ad-wrapper
 ##.profile_ad_bottom
 ##.profile_ad_top
-##.proftopad
-##.programmatic-ad
 ##.programtic-ads
 ##.promo-ad
 ##.promo-mpu
@@ -56807,6 +56770,8 @@ heatmap.news##.middle_leaderboard
 thefastmode.com##.middlebanner
 fruitnet.com##.midpageAdvert
 extremetech.com##.min-h-24
+uwufufu.com##.min-h-\[253px\]
+uwufufu.com##.min-h-\[300px\]
 stripes.com##.min-h90
 kitco.com##.mining-banner-container
 ar15.com##.minis
@@ -57108,7 +57073,6 @@ nymag.com##.products-package
 nymag.com##.products-package_single
 filehippo.com##.program-actions-header__promo
 filehippo.com##.program-description__slot
-channelnewsasia.com##.programtic-ads
 as.com,gokunming.com##.prom
 delicious.com.au,taste.com.au##.prom-header
 babynamegenie.com,ecaytrade.com,nbcbayarea.com,nwherald.com,planetsourcecode.com,sciagaj.org,themuslimvibe.com,totalxbox.com,varsity.com,w3techs.com,wgxa.tv##.promo
@@ -62967,6 +62931,7 @@ newduba.cn###jq_youxi
 ||fbzmrgf.xyz^
 ||dfec2.com^
 ||tshtbh.xyz^
+||baucdngb.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -87633,7 +87598,6 @@ _mongo_stats/
 ||cvtr.io^$third-party
 ||cya2.net^$third-party
 ||cyberanalytics.nl^$third-party
-||cytoclause.com^$third-party
 ||d-1.co^$third-party
 ||d41.co^$third-party
 ||dacounter.com^$third-party
@@ -89838,7 +89802,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||goldoffer.online^$third-party
-||googleanalytcs.com^$third-party
 ||gramombird.com^
 ||gus.host^$third-party
 ||hashcoin.co^$third-party
@@ -90451,7 +90414,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||glisteningguide.com^$third-party
 ||glisteningsign.com^
 ||gloriousbeef.com^$third-party
-||gloriouscracker.com^
 ||glossysense.com^
 ||godlygeese.com^
 ||gondolagnome.com^
@@ -90635,7 +90597,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
-||medusasailor.com^
 ||melodicminute.com^
 ||meltmilk.com^
 ||memopilot.com^
@@ -92326,7 +92287,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.algolia.com^
 ||analytics.amakings.com^
 ||analytics.apnewsregistry.com^
-||analytics.atomiconline.com^
 ||analytics.audioeye.com^
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
@@ -93426,7 +93386,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.cookieyes.com^
 ||log.go.com^
 ||log.invodo.com^
-||log.kibboko.com^
 ||log.mediacategory.com^
 ||log.nordot.jp^
 ||log.olark.com^
@@ -95716,7 +95675,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
 ||aegis.trovo.live^
-||affiliate.gearbest.com^$image,third-party
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||agoda.com/api/pixel/
@@ -96607,7 +96565,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||startpage.com/sp/elp
 ||startpage.com/sp/jst
 ||stat.cdngeek.com^
-||stat.livesportbar.net^
 ||stat.pubhtml5.com^
 ||stat.tildacdn.com^
 ||stat.turb.pw^
@@ -97458,7 +97415,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||a8.shop.tsukijiwadatsumi.com^
 ||a8.shopserve.jp^
 ||a8.simple-hoiku.com^
-||a8.skill-crowd.com^
 ||a8.smp.shanon.co.jp^
 ||a8.soelu.com^
 ||a8.sommelier.gift^
@@ -97693,7 +97649,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
 ||a8clk.starwifi.jp^
-||a8clk.store.healthcare.omron.co.jp^
 ||a8clk.store.kadokawa.co.jp^
 ||a8clk.store.mago-ch.com^
 ||a8clk.stylestore.jp^
@@ -98187,7 +98142,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||analytics.martin-fieber.de^
 ||analytics.mc500.info^
 ||analytics.mhpod.gov.au^
-||analytics.mondoweiss.net^
 ||analytics.mycater.fr^
 ||analytics.naturequant.com^
 ||analytics.qualityquestions.co^
@@ -98947,7 +98901,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||stats.roderickduenas.com^
 ||stats.ruhrfestspiele.de^
 ||stats.rushilperera.me^
-||stats.ruthmontenegro.com^
 ||stats.rymawby.com^
 ||stats.s-zt.at^
 ||stats.sahpa.co.za^
@@ -99041,11 +98994,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||we-love-privacy.humane.club^
 ||webstats.bijenpatel.com^
 ||whz9ruftvh4pxz8fc7vh.theochu.com^
-||www2.azimuthpsych.com^
 ||yolo.philipbjorge.com^
-||yolo.phpliveregex.com^
 ||zahlen.olereissmann.de^
-||2tty.overstappen.nl^
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||a.20minutes.fr^
 ||a.pourquoidocteur.fr^
@@ -103945,8 +103895,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||cagkpu.suitdirect.co.uk^
 ||cajmze.allpax.de^
 ||caknmq.rotita.com^
-||carzbz.braincandy.net^
-||carzbz.triviatoday.com^
 ||cbpgpg.bombshellsportswear.com^
 ||cdfhpj.automobile.it^
 ||cfsaze.retailmenot.com^
@@ -106606,8 +106554,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||campaign.item-china.cn^
 ||campaign.kanto-mazda.com^
 ||cloud.aspiresys.com^
-||marketing.income.com.sg^
-||news.income.com.sg^
 ||rpa.aspiresys.com^
 ||ai.thermo.com^
 ||ai.thermofisher.com^
@@ -107679,7 +107625,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^
-||adebis.datumow.com^
 ||adebis.demae-can.com^
 ||adebis.entetsu.co.jp^
 ||adebis.gfs-official.com^
@@ -107689,7 +107634,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebis.kamada.co.jp^
 ||adebis.kirei-journal.jp^
 ||adebis.kirin.co.jp^
-||adebis.kodomohamigaki.com^
 ||adebis.leben-establish.jp^
 ||adebis.leben-style.jp^
 ||adebis.lifestylemag.jp^
@@ -107716,8 +107660,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebiscname.sumirin-ht.co.jp^
 ||adebisu.wowow.co.jp^
 ||adex.jrwp-arimatsu34.com^
-||adex.kintetsu-re.co.jp^
-||adex.naruko333.jp^
 ||adnl.bk.mufg.jp^
 ||adpromo.peppynet.com^
 ||adtrack.loracle.jp^
@@ -107738,7 +107680,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||cname.lions-mansion.jp^
 ||cname.mebiusseiyaku.co.jp^
 ||cname.mitsuihome.co.jp^
-||cname.nikkei-cnbc.co.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^
 ||cnameebis.eizoshigoto.com^
@@ -107761,10 +107702,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ebis-tracking.tcb-setagaya.com^
 ||ebis.15jikai.com^
 ||ebis.2jikaikun.com^
-||ebis.aibashiro.jp^
 ||ebis.apo-mjob.com^
 ||ebis.as-1.co.jp^
-||ebis.ayura.co.jp^
 ||ebis.belta.co.jp^
 ||ebis.biyo-job.com^
 ||ebis.care-tensyoku.com^
@@ -107815,13 +107754,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ebisfracora.fracora.com^
 ||ebisstore.tamagokichi.com^
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
-||emc.dr-stick.shop^
 ||frontierconsul02.tsunagaru-office.com^
 ||greenjapan-cname.green-japan.com^
 ||hokkaidobank.rapi.jp^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
-||itpebis03.recella3d.com^
 ||kyoufukudoucname.worldsmile.net^
 ||marketing.biz.mynavi.jp^
 ||marketing.zwei.com^
@@ -107920,7 +107857,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||deut3.fdj.fr^
 ||dko.vente-unique.nl^
 ||dqs3.darjeeling.fr^
-||du2k.bhv.fr^
 ||dv59b.montecarlomeeting.com^
 ||dw0c.sfr.fr^
 ||dw7u.hotelsbarriere.com^
@@ -107932,7 +107868,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ea.audika.com^
 ||ea.auvergne-direct.fr^
 ||ea.bcassurance.fr^
-||ea.bongo.nl^
 ||ea.camping-and-co.com^
 ||ea.carrefour.com^
 ||ea.carrefour.fr^
@@ -107996,7 +107931,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ea.reunica.com^
 ||ea.roxy.eu^
 ||ea.smallable.com^
-||ea.smartbox.com^
 ||ea.telecommandeonline.com^
 ||ea.tool-fitness.com^
 ||ea.topsante.com^
@@ -109047,7 +108981,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||webt.aqipa.com^
 ||webt.eleonto.com^
 ||webt.eu.teac-audio.com^
-||webt.pure.com^
 ||webt.store.okmilo.com^
 ||wetr.sportscheck.at^
 ||wetr.sportscheck.ch^
@@ -109152,7 +109085,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||tk.moveyourfit.com^
 ||tk.msccruises.com^
 ||tk.nhlottery.com^
-||tk.ornikar.com^
 ||tk.planete-oui.fr^
 ||tk.prismashop.fr^
 ||tk.qare.fr^
@@ -110099,7 +110031,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||app.roomsync.com^
 ||app.scrpbx.co^
 ||app.semusi.com^
-||app.sheepclash.com^
 ||app.shopback.com^
 ||app.shopeefood.vn^
 ||app.shouta.co^
@@ -110535,7 +110466,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||download.sendstack.africa^
 ||download.sharexpere.com^
 ||download.shiftsmart.com^
-||download.tglapp.com^
 ||download.usehero.com^
 ||download.virtual-shopping.klarna.com^
 ||download.withu.fit^
@@ -110693,7 +110623,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||go.leaf.fm^
 ||go.letscliq.com^
 ||go.letspepapp.com^
-||go.madbikeapp.com^
 ||go.majelan.com^
 ||go.makwajy.com^
 ||go.mapstr.com^
@@ -110872,7 +110801,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||l.siply.in^
 ||l.slothlive.com^
 ||l.supremapoker.net^
-||l.trafi.com^
 ||l.umba.com^
 ||l.uvcr.me^
 ||lapescheria.openapp.link^
@@ -110929,7 +110857,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||link.eventconnect.io^
 ||link.everlance.com^
 ||link.fanzapp.io^
-||link.farm.seedz.ag^
 ||link.fitwell.co^
 ||link.freetrade.io^
 ||link.frescoymas.com^
@@ -111004,7 +110931,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||link.swa.info^
 ||link.taptapapp.com^
 ||link.tastemade.com^
-||link.tbcbank.uz^
 ||link.testbook.com^
 ||link.thegourmetplus.net^
 ||link.thesecurityteam.rocks^
@@ -112804,6 +112730,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||usbank.com^*/adrum.js?$~third-party
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
+@@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||varagesale.com/assets/analytics-$script,~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vidible.tv^*/ComScore.StreamSense.js
@@ -112844,7 +112771,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! browser.sentry-cdn.com
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 !! adobedtm.com^*/satelliteLib-
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|auspost.com.au|backcountry.com|bmw.com.au|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
 !! adobedtm.com^*_source.min.js
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|telus.com
 !! adobedtm.com^*-source.min.js
