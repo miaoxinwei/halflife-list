@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6rd9CJ3HFSWFnZtzLd7ncQ
+! Checksum: 4doQn5l1eEjrZXkb3f3hbw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305310216
-! Last Modified: 2023年05月31日 02:16
+! Version: 202305310923
+! Last Modified: 2023年05月31日 09:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20426,6 +20426,7 @@ _800x80_
 ##.sticky-advert-widget
 ##.sticky-bottom-ad
 ##.sticky-footer-ad
+##.sticky-footer-ad-container
 ##.sticky-rail-ad-container
 ##.sticky-side-ad
 ##.sticky-sidebar-ad
@@ -55280,6 +55281,7 @@ atlasobscura.com##.ad-site-top-full-width
 nationalreview.com##.ad-skeleton
 cnn.com##.ad-slot-header__wrapper
 cointelegraph.com##.ad-slot_NjPAE
+oann.com##.ad-slot__ad-label
 freepressjournal.in##.ad-slots
 techinformed.com##.ad-text-styles
 trueachievements.com##.ad-wrap
@@ -55448,8 +55450,7 @@ domainnamewire.com##.after-header
 venea.net##.ag_banner
 venea.net##.ag_line
 nexusmods.com##.agroup
-picnob.com##.ah-box-i-w
-picnob.com##.ah-box-n-w
+picnob.com##.ah-box
 techpp.com##.ai-attributes
 onlineradious.com##.ai-placement
 uploadvr.com##.ai-sticky-widget
@@ -56018,6 +56019,7 @@ coingape.com##.dfd
 nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
 gazette.com##.dfp-ad
 investing.com##.dfp-native
+investing.com##.dfpVideo
 dailyfx.com##.dfx-article__sidebar
 kiplinger.com##.dianomi_gallery_wrapper
 coingape.com##.diplay-m-ad
@@ -57246,6 +57248,7 @@ uquiz.com##.side_bar
 panarmenian.net##.side_panner
 tutorialrepublic.com##.sidebar
 dkoding.in##.sidebar .widget_custom_html
+oann.com##.sidebar-ad-slot__ad-label
 computing.co.uk##.sidebar-block
 dailycoffeenews.com##.sidebar-box
 radiotoday.co.uk##.sidebar-column-secondary > .sidebar
@@ -60300,7 +60303,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !! imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|delish.com|distro.tv|doubtnut.com|einthusan.tv|embed.comicbook.com|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|games.usatoday.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|locipo.jp|maharashtratimes.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|nettavisen.no|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.earthtv.com|player.performgroup.com|pointmall.rakuten.co.jp|popculture.com|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|truvid.com|tubitv.com|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 !! imasdk.googleapis.com/js/sdkloader/ima3_dai.js
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|s.yimg.jp|sbs.com.au|vk.sportsbull.jp|worldsurfleague.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|worldsurfleague.com
 !! imasdk.googleapis.com/js/sdkloader/ima3_debug.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|insideedition.com|pch.com
 !! g.doubleclick.net/gpt/pubads_impl_
@@ -62845,6 +62848,13 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||liweiling.xyz^
+||yingnanyqq.com^
+||shentongjiakao.ren^
+||nucld.xyz^
+||fbzmrgf.xyz^
+||dfec2.com^
+||tshtbh.xyz^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -87312,7 +87322,6 @@ _mongo_stats/
 ||buzzdeck.com^$third-party
 ||bytemgdd.com^$third-party
 ||c-o-u-n-t.com^$third-party
-||c-rings.net^$third-party
 ||c.hit.ua^$third-party
 ||c1exchange.com^$third-party
 ||c212.net^$third-party
@@ -95182,6 +95191,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||buzzurl.jp/api/counter/
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
+||c-rings.net^$script,third-party
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
 ||cookie.codemarketing.cloud^
