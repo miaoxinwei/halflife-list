@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /PtNU8yhXL9QTnO+6JdUug
+! Checksum: WQCp3ZO0IeeFn3g1QFhuFA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202305312028
-! Last Modified: 2023年05月31日 20:28
+! Version: 202306010217
+! Last Modified: 2023年06月01日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -62194,6 +62194,7 @@ newduba.cn###jq_youxi
 ||480img.com^
 ||4cjh.xyz^
 ||4iuyw.xyz^
+||50i2n.top^
 ||5251m.xyz^
 ||52qd.club^
 ||54ha.cn^
@@ -62237,6 +62238,7 @@ newduba.cn###jq_youxi
 ||adelaideceliacd.com^
 ||adfec3.com^
 ||aeletheacd.com^
+||afgathacd.com^
 ||afndhou.xyz^
 ||agwdac.xyz^
 ||aicpa.club^
@@ -62265,12 +62267,14 @@ newduba.cn###jq_youxi
 ||baitu1llbkotsfthllcjeg.com^
 ||balspaulite.com^
 ||bapdkgmvn.xyz^
+||baucdngb.xyz^
 ||baytfede.xyz^
 ||bcivqxd.cn^
 ||bdrzxp.xyz^
 ||beiod.xyz^
 ||bekcd.xyz^
 ||bekco.xyz^
+||bestialvehemence.com^
 ||betgdr.xyz^
 ||bili96.co^
 ||bjcpjab.cn^
@@ -62344,10 +62348,12 @@ newduba.cn###jq_youxi
 ||ddkep.xyz^
 ||ddlipf.xyz^
 ||ddqkqq.com^
+||deansent.top^
 ||denghaishan1.cn^
 ||dertyhsf.xyz^
 ||devofei.xyz^
 ||dezstd.xyz^
+||dfec2.com^
 ||dgfqqq.com^
 ||dhaxhsa325.com^
 ||dhxrxn.xyz^
@@ -62391,8 +62397,10 @@ newduba.cn###jq_youxi
 ||falal.cn^
 ||fangguanjia.xyz^
 ||fangqingkai.icu^
+||fanyuelin208.club^
 ||fast416.info^
 ||fatvzh.xyz^
+||fbzmrgf.xyz^
 ||fcied.xyz^
 ||fdrxdr.xyz^
 ||fdytdc.xyz^
@@ -62502,6 +62510,7 @@ newduba.cn###jq_youxi
 ||jerrytom.xyz^
 ||jfanhao.com^
 ||jhxcld.xyz^
+||jiangxing.pub^
 ||jiangzimeng1.cn^
 ||jinheart.xyz^
 ||jinmin.online^
@@ -62564,6 +62573,7 @@ newduba.cn###jq_youxi
 ||lianxi.link^
 ||lifvfr.xyz^
 ||linuozhiyao.xyz^
+||liweiling.xyz^
 ||ljte0.com^
 ||lkidke.com^
 ||lkmxqq.com^
@@ -62634,6 +62644,7 @@ newduba.cn###jq_youxi
 ||nqyz.tw^
 ||nsfdsa.xyz^
 ||nuanqipian.pw^
+||nucld.xyz^
 ||nurahf.xyz^
 ||nvchmkw.cn^
 ||nwandlc.top^
@@ -62666,6 +62677,7 @@ newduba.cn###jq_youxi
 ||pgjcbz.xyz^
 ||piaochong.co^
 ||pingfang.icu^
+||pitawastarkani.com^
 ||pithjpf.cn^
 ||pkkylyx.xyz^
 ||pkynqq.com^
@@ -62742,6 +62754,7 @@ newduba.cn###jq_youxi
 ||seumouxuezha.xyz^
 ||sh6ss7.top^
 ||shangyuan.ltd^
+||shentongjiakao.ren^
 ||singmwn51g.com^
 ||sisjwol.xyz^
 ||sjalipa.cn^
@@ -62774,6 +62787,7 @@ newduba.cn###jq_youxi
 ||tmochyf.cn^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||tshtbh.xyz^
 ||ttpybz.xyz^
 ||tuhipkz.xyz^
 ||turifb.xyz^
@@ -62908,6 +62922,7 @@ newduba.cn###jq_youxi
 ||yhgumcr.xyz^
 ||yikucdn.com^
 ||yingce.asia^
+||yingnanyqq.com^
 ||yingnanyyds.com^
 ||yisangyhqq.com^
 ||yisangyyds.com^
@@ -62955,17 +62970,6 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||liweiling.xyz^
-||yingnanyqq.com^
-||shentongjiakao.ren^
-||nucld.xyz^
-||fbzmrgf.xyz^
-||dfec2.com^
-||tshtbh.xyz^
-||baucdngb.xyz^
-||afgathacd.com^
-||deansent.top^
-||50i2n.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -70562,6 +70566,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||chubun.com/images/banners/
 ||chubun.com/uploads/pic/img
 ||chusan.com/js/m*_
+||cidianwang.com/css/tj.
 ||cidianwang.com/js/left
 ||cidianwang.com/js/right
 ||cidianwang.com/js/zdtop.js
@@ -81323,7 +81328,7 @@ t66y.com##.tips
 ###video_playr_side.video_playr_sider.videoplayerside
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
-69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#[class]:-abp-has(>a>.q-responsive)
+69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ||jsdelivr.net/gh/dashange123/
@@ -89882,7 +89887,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||moneroocean.stream^$third-party
 ||mutinyhq.com^$third-party
 ||nabaza.com^$third-party
-||nablabee.com^$third-party
 ||nametraff.com^$third-party
 ||nathetsof.com^$third-party
 ||nerohut.com^$third-party
