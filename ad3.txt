@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1KlrneFBZyKOsCyVmXeYTg
+! Checksum: 1jTaICnPHSLY6L3h7xhmQg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306010950
-! Last Modified: 2023年06月01日 09:50
+! Version: 202306011418
+! Last Modified: 2023年06月01日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2572,6 +2572,10 @@ newduba.cn###jq_youxi
 ||rsdop.icu^
 ||owandlk.top^
 ||u1055.com^
+||wxbanking.com^
+||bicid.xyz^
+||igegeda.club^
+||tacool.com^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -36046,6 +36050,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||terabox.fun/api/analytics
+||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
 ||th.bing.com/th/*&riu=$image,third-party
 ||the-group.net/aether/
 ||themesltd.com/online-users-counter/$third-party
@@ -36562,6 +36568,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dxwgpw0lkcum5.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dyv1bugovvq1g.cloudfront.net^
+||firebase.googleapis.com^$domain=terabox.fun
+||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^

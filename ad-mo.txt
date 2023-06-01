@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HH47frKLQjmk2hBRPbOsxg
+! Checksum: aqkw4A0+3EPKbYoyOyV49A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306010950
-! Last Modified: 2023年06月01日 09:50
+! Version: 202306011418
+! Last Modified: 2023年06月01日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57944,6 +57944,7 @@ cheaptickets.com,ebookers.com,expedia.com,hotels.com,orbitz.com,travelocity.com,
 coingecko.com##[data-target="ads.banner"]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
 target.com##[data-test="featuredProducts"]
+reuters.com##[data-testid="ResponsiveAdSlot"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
 coles.com.au##[data-testid="banner-container-desktop"]
 forbes.com##[data-testid="locked-top-ad-container"]
@@ -58130,7 +58131,6 @@ ttgmedia.com##[style^="position: fixed;"]
 meaww.com##[style^="text-align: center;"]
 zenger.news##[style^="text-align:center;min-height:"]
 filmdaily.co,gelbooru.com,integral-calculator.com,live365.com,passiveaggressivenotes.com,twcenter.net##[style^="width: 728px;"]
-reuters##[testid="ResponsiveAdSlot"]
 myfitnesspal.com##[title*="Ad"]
 check-host.net##[title="DDOS-Guard"]
 modrinth.com##[type="banner"]
@@ -62978,6 +62978,10 @@ newduba.cn###jq_youxi
 ||rsdop.icu^
 ||owandlk.top^
 ||u1055.com^
+||wxbanking.com^
+||bicid.xyz^
+||igegeda.club^
+||tacool.com^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -94150,6 +94154,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||terabox.fun/api/analytics
+||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
 ||th.bing.com/th/*&riu=$image,third-party
 ||the-group.net/aether/
 ||themesltd.com/online-users-counter/$third-party
@@ -94666,6 +94672,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dxwgpw0lkcum5.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dyv1bugovvq1g.cloudfront.net^
+||firebase.googleapis.com^$domain=terabox.fun
+||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
