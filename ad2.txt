@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Z8ROV6YIql+jzgA3hN/v5w
+! Checksum: btrv6vNV7BJAmOWjYdbF7Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202306020217
-! Last Modified: 2023年06月02日 02:17
+! Version: 202306020925
+! Last Modified: 2023年06月02日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -192,6 +192,7 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/5555vipqipai.oss-
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -1617,6 +1618,7 @@ newduba.cn###jq_youxi
 ##a#wrapper_left_bg[target="_blank"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a.ad_links
+##A[href*=".bright.cn/?utm_"]
 ##a.hengfu > img.hengfu
 ##a[href$=".cc:8443"]
 ##a[href$=".php"] > img[src*=".bcebos.com"]
@@ -2581,6 +2583,14 @@ newduba.cn###jq_youxi
 ||zscgoqt.cn^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||zhouduayqq.com^
+||yrszy.com.cn^
+||razrzh.xyz^
+||bcvxfgy.xyz^
+||chenhaishan.info^
+##A[href*="/nb66nb.cc"]
+||94evd.xyz^
+||fka06.site^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
