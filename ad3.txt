@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ieGikZvDjlMjmdzDAp+E2w
+! Checksum: Xagn97wjZbjzeTi2JOkmqA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306031416
-! Last Modified: 2023年06月03日 14:16
+! Version: 202306032025
+! Last Modified: 2023年06月03日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2608,6 +2608,8 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||1383a.xyz^
 ||srbzw.cn^
+||tctltb.com^
+||1cdhf.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -29732,6 +29734,7 @@ _mongo_stats/
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
 ||histats.com^$third-party
+||hit-360.com^$third-party
 ||hit-counter.info^$third-party
 ||hit-counters.net^$third-party
 ||hit-parade.com^$third-party
@@ -34554,6 +34557,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
 ||data.digitalks.az^
+||data.eetech.com^
 ||data.gosquared.com^
 ||data.imakenews.com^$third-party
 ||data.minute.ly^
@@ -37853,8 +37857,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hltv.org/scripts/hltv-tracking.js
 ||homedepot.ca/mr/thd-ca-prod.js
 ||hoo.be/api/hoobe/analytics
-||hotels.com/kt2lli/
-||hotels.com/trvl-px/
+||hotels.com/api/bucketing/v1/evaluateExperimentsAndLog
+||hotels.com/cl/data/omgpixel.json?
 ||hotpads.com/node/api/comscore
 ||hotstar.com/v1/identify
 ||hotstar.com/v1/track
@@ -38544,6 +38548,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
 ||xstats.evoload.io^
+||xxf.mobi/hit
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
 ||yahoo.com/beacon?
@@ -53245,7 +53250,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||a.itsmore.cn^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
-||alarm.youku.com/api/sendAlarm
 ||alicdn.com/f/pcdn/i.php?
 ||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
@@ -53254,23 +53258,16 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
 ||analytics.shop.hisense.com^
-||api.baike.sogou.com/dr/p1.gif?
 ||applog.yiche.com^
-||autohome.com.cn/deliver?
 ||autohome.com.cn/impress?
-||autohome.com.cn/realdeliver?
 ||baidu.com/api/bidder/
 ||baidu.com/kan/api/ipLocation
 ||banana.le.com^
-||bc.qunar.com^
-||bdwblog.eastmoney.com^
 ||beacon.qq.com^
-||btrace.qq.com^
 ||cherry.le.com^
 ||clewm.net/public/cli_analytics.js$domain=cli.im
 ||click.gamersky.com^
 ||cm.bilibili.com^
-||cmstool.youku.com^
 ||count.candou.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
@@ -53284,26 +53281,22 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||eastmoney.com/usercollect/
 ||eastmoney.com/web/prd/jump_tracker.js
 ||eclick.360doc.com^
-||eclick.baidu.com^
-||ems.youku.com/event?
+||ems.youku.com^
 ||err.ifengcloud.ifeng.com^
 ||event.csdn.net^
 ||fclog.baidu.com^
 ||flog.pressplay.cc^
 ||forum.zuvio.com.tw/api/article/finish
 ||frog.yuanfudao.com^
-||ftchinese.com/js/log.js
-||funshion.com/interface/
 ||gentian-frd.hjapi.com^
 ||gia.jd.com^
 ||gk.sina.cn^
 ||h5log.zongheng.com^
-||hdslb.com/images/isptrack.js
-||his.tv.sohu.com/his/ping.do?
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
 ||hujiang.com/v2/log
 ||i-cable.com/ci/tracking/
+||i-tm.com.tw/api/itm-tracker.js$domain=pixnet.net
 ||ifeng.com/i?p=
 ||imgstat.baidu.com^
 ||improving.wuzhuiso.com^
@@ -53311,33 +53304,20 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||iqiyi.com/track2?
 ||jcm.jd.com^$script,third-party
 ||jiayuan.com^*/pv.js
-||js.kuwo.cn/stat/
-||js.sohu.com/track/
-||js.soufunimg.com/count/
-||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||kn007.net/snmp.php
-||ku6.com/ku6.gif?
 ||le.com/op/
-||letv.com/op?
-||log*.ku6.com^
 ||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
-||log.kuwo.cn^
 ||log.m.sm.cn^
 ||log.mix.sina.com.cn^
 ||log.sina.cn^
 ||log.zongheng.com^
-||log1.17173.com^
 ||log2.sina.cn^
-||loginlog.sdo.com^
 ||logs.51cto.com^
-||logstat.caixin.com^
 ||logtake.weidian.com^
-||luobo.tv/staticts.html
 ||mail.qq.com/cgi-bin/getinvestigate?
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
-||mar.vip.com^
 ||metric.huya.com^
 ||mi.com/stat/
 ||monitor.music.qq.com^
@@ -53351,18 +53331,14 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||mtrace.qq.com^
 ||music.163.com/weapi/feedback/weblog
 ||music.163.com/weapi/pl/count
-||narutom.com/stat.js
 ||nex.163.com^
-||on.cc^*/checkrev.gif?
 ||p.data.cctv.com^
 ||pan.baidu.com/api/report/
 ||pan.baidu.com/pcloud/counter/refreshcount?
 ||pan.baidu.com/recent/report?
 ||pb.i.sogou.com^
-||pcapp-data-collect.youku.com^
 ||people.cn/js/pa.js
 ||phpstat.cntcm.com.cn^
-||pingback.sogou.com^
 ||pingjs.qq.com^
 ||pinkoi.com/_log/
 ||pixel.kknews.cc^
@@ -53374,6 +53350,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||pvx.xcar.com.cn^
 ||qhimg.com/11.0.1.js$script
 ||qihucdn.com/11.0.1.js$script
+||qiyukf.com/webda/da.gif$domain=youdao.com
 ||qq.com/code.cgi?
 ||qq.com/collect/
 ||qq.com/kvcollect?
@@ -53391,14 +53368,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||referer.pixplug.in^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
-||rgd.com.cn/counter/
+||rlogs.youdao.com^
 ||s.360.cn^
 ||s.pixfs.net/js/pixlogger.min.js
 ||s.pixfs.net/visitor.pixplug.in/
-||s.qhupdate.com^
-||s.renren.com^
 ||sbeacon.sina.com.cn^
-||sclick.baidu.com^
 ||sfp.safe.baidu.com^
 ||shrek.6.cn^
 ||sina.com.cn/view?
@@ -53406,20 +53380,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||sngmta.qq.com^
 ||sofire.bdstatic.com^
 ||sogou.com/cl.gif?
-||sogou.com/cl?
-||sogou.com/pv?
 ||sogoucdn.com/hhytrace/
-||sohu.com.cn/hdpb.gif?
 ||sohu.com/adgtr/
-||sohu.com/clk.gif?
 ||sohu.com/count/
-||sohu.com/ctr.gif?
-||sohu.com/eventstat/
 ||sohu.com/ip/$script
 ||sohu.com/pv.js
-||sohu.com/pv?
-||sohu.com/qfpc.gif?
-||sohu.com/wrating
 ||soufun.com/click/
 ||soufun.com/stats/
 ||ssp.hinet.net^
@@ -53436,8 +53401,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||static.funshion.com/*/common/log/
 ||static.qiyi.com/js/pingback/
 ||statistic.qzone.qq.com^
-||statistic.takungpao.com^
-||stats.autohome.com.cn^
 ||steamchina.com/events/
 ||sugar.zhihu.com^
 ||tbskip.taobao.com^$script
@@ -53469,6 +53432,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||vatrack.hinet.net^
 ||vipstatic.com/mars/
 ||visit.xchina.pics^
+||visitorapi.pixplug.in^$domain=pixnet.net
 ||wanmei.com/public/js/stat.js
 ||weather.com.cn/a1.js
 ||webstat.kuwo.cn^
@@ -53485,16 +53449,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||xiaohongshu.com/api/v2/collect
 ||xiaomi.com/js/mstr.js?
 ||ylog.huya.com^
-||youdao.com/cf.gif?
-||youdao.com/imp/cac.js
-||youku.com/compvlog?
-||youku.com/recikupushshow?
-||youku.com/ykvvlog?
-||youku.com/yplaylog?
-||youku.com/ypvlog?
-||youku.com^*/click.php?
+||youku.com/log/
 ||yxdown.com/count.js
 ||zhihu-web-analytics.zhihu.com^
+||zhihu.com/collector/
 ||zhihu.com/zbst/events/
 ||zio.xcar.com.cn^
 ||zongheng.com^*/logger.min.js
