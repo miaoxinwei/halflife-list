@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tqFx2gjAth+gwGgAeYUU/g
+! Checksum: eRWf1phYCECJ+Jv0Vxnd4g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306040945
-! Last Modified: 2023年06月04日 09:45
+! Version: 202306041416
+! Last Modified: 2023年06月04日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54499,7 +54499,7 @@ doubtnut.com###Web_HomePage_Banner_Resposive_1-container
 doubtnut.com###Web_VideoPage_Banner_Resposive_1-container
 dexerto.com###\#primisplayer
 turbobit.net###__bgd_link
-news-daily.com,stripes.com###_snup-rtdx-ldgr1
+news-daily.com,outlookindia.com,stripes.com###_snup-rtdx-ldgr1
 ytmp3.cc###a-320-50
 egotastic.com###a46c6331
 egotasticsports.com###a83042c4
@@ -54677,6 +54677,7 @@ linuxinsider.com###cboxOverlay
 curseforge.com###cdm-zone-03
 godbolt.org###ces
 xcalibrscans.com###close-teaser
+oneindia.com###closePopupDiv
 whocallsme.com###cnt_1
 whocallsme.com###cnt_2
 whocallsme.com###cnt_btm
@@ -56678,7 +56679,7 @@ heatmap.news##.infinite-container
 filmibeat.com##.infinite-scroll-add
 stocksnap.io##.info-col
 bab.la##.info-panel
-careerindia.com##.inhouse-content
+careerindia.com,oneindia.com##.inhouse-content
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 kijiji.ca##.inline-banner
@@ -58955,6 +58956,7 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk##html[itemtype="http://schema.org/SearchResultsPage"] #cnt div[class$="sh-sr__tau"][style]
 testpages.adblockplus.org###abptest
 msn.com###displayAdCard
+msn.com###div[id^="mrr-topad-"]
 msn.com###partners
 msn.com###promotions
 msn.com##.articlePage_bannerAd_wrapper-DS-EntryPoint1-1
@@ -58967,6 +58969,7 @@ msn.com##.intra-article-ad-full
 msn.com##.intra-article-ad-half
 msn.com##.intra-article-module
 msn.com##.modernRightRail_stickyTopBannerAd-DS-EntryPoint1-1
+msn.com##.modernRightRail_topAd_container_2col_newRR-DS-EntryPoint1-1
 msn.com##.outeradcontainer
 msn.com##.qohvco-DS-EntryPoint1-1
 msn.com##.windowsBannerAdContainer-DS-EntryPoint1-1
@@ -58993,6 +58996,7 @@ msn.com##a[href^="https://www.awin1.com/cread.php"]
 msn.com##cs-native-ad-card
 msn.com##div[class^="articlePage_topBannerAdContainer_"]
 msn.com##div[class^="galleryPage_bannerAd"]
+msn.com##div[id^="nativeAd"]
 msn.com##li[data-m*="NativeAdItem"] > a > *
 msn.com##li[data-provider="gemini"]
 msn.com##li[data-provider="outbrain"]
@@ -82016,7 +82020,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ActionLogger?
 /activity-track/?
 /activity.gif?
-/ad-iptracer.
 /AD/PageHits.
 /ad/statistic
 /ad_tracking.
@@ -82063,7 +82066,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adobevideoheartbeat.
 /adpixel.
 /adplogger/*
-/ads/counter.
 /ads/track/*
 /ads?cookie_
 /adsct?
@@ -82076,7 +82078,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adtoniq-
 /adtrack-
 /adtrk/*
-/adv/tracking.
 /adv?pixel_
 /adviewtrack.
 /advstats/*
@@ -82085,7 +82086,6 @@ fqsousou.com,kengso.com#@#.user-share
 /adx_remote.
 /aff_i?offer_id=
 /aff_land?referrer
-/affil/tracker/*
 /affiliate-track.
 /affiliate-tracker.
 /affiliate.track?
@@ -82112,7 +82112,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ajax/stat/*
 /ajax/track.php?
 /ajax_video_counter.php?
-/ajaxClicktrack.
 /ajaxlog?
 /ajaxLogger_tracking_
 /ajaxstat/*
@@ -82122,7 +82121,6 @@ fqsousou.com,kengso.com#@#.user-share
 /akam/10/*
 /akam/11/*
 /akam/13/*
-/akamai/pixy.gif
 /akamai_analytics_
 /AkamaiAnalytics.
 /alog.min.js
@@ -82144,11 +82142,8 @@ fqsousou.com,kengso.com#@#.user-share
 /amp/analytics
 /amp/log.json
 /amp/pingback?
-/amp_ping/*
 /amp_pingback/*
 /ampmetrics.
-/amptrack.
-/analys/dep/*
 /analyse.js
 /analysis-logger/*
 /analysisTag.js
@@ -82287,11 +82282,8 @@ fqsousou.com,kengso.com#@#.user-share
 /analyticstracking.
 /analyticstracking?
 /analyticstracking_
-/analyticstrain-
 /analytix/events
 /analyze.js^
-/analyzer.gif?
-/analyzer2.
 /anametrix/*
 /anapixel.
 /angular-tag.
@@ -82333,8 +82325,6 @@ fqsousou.com,kengso.com#@#.user-share
 /apilog?
 /apixel?
 /app-measurement?
-/app/tracking/*
-/app/tracking_
 /appGoogleTagManager-
 /appinsightor.min.js
 /AppMeasurement.js
@@ -82344,7 +82334,6 @@ fqsousou.com,kengso.com#@#.user-share
 /AppMeasurementCustom.
 /aptrk.js
 /ard.png?
-/argtk.min.
 /aria-web-telemetry-
 /arstat?
 /art/stats/*
@@ -82357,7 +82346,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ArticleCounterLogger.
 /articleOmnitureTracking.
 /ArticleViewTracking/*
-/aspenanalytics.
 /ASPixel.js
 /assets/analytics-
 /assets/beacons.js
@@ -82431,7 +82419,6 @@ fqsousou.com,kengso.com#@#.user-share
 /bb-analytics-
 /bc-track.
 /bc/clk?
-/bcbot-nomin.js
 /bcn.gif?
 /bcsensor.js
 /bctrackers/*
@@ -82440,7 +82427,6 @@ fqsousou.com,kengso.com#@#.user-share
 /beacon-cookie.
 /beacon.cgi?
 /beacon.gif?
-/beacon.html?
 /beacon.js
 /beacon.min.js
 /beacon/affiliates
@@ -82464,13 +82450,10 @@ fqsousou.com,kengso.com#@#.user-share
 /beacons-external.
 /beacons?data=
 /behavior/web/pv?
-/BehaviourCaptureHandler.
 /benchmarketingsmarttag/*
 /better-analytics/*
 /bf.gif?ac=
 /bfs-track.
-/bh_counter.js
-/bi.tracking/*
 /bicomscore.
 /bicomscore_
 /bin/stats?
@@ -82485,7 +82468,6 @@ fqsousou.com,kengso.com#@#.user-share
 /BKVTrack.js
 /blank.gif?*%
 /blank.gif?*&
-/block/pixel?
 /blockstat?
 /blogcounter.js
 /bluekai.
@@ -82495,8 +82477,6 @@ fqsousou.com,kengso.com#@#.user-share
 /BlueKaiPixel/*
 /bluetracker.
 /bluetracker/*
-/bm-analytics-trk.js
-/bm-analytics/*
 /bm-bam-trk.
 /bms-analytics.
 /bom/analytics/*
@@ -82523,14 +82503,12 @@ fqsousou.com,kengso.com#@#.user-share
 /bstat.js
 /bstats.gif
 /bt.gif?
-/btn_tracking_pixel.
 /btrack.php?
 /buffermetrics/*
 /bugcounter.php?
 /build/tracker.js
 /bundle.tracking.
 /bundle/analytics.
-/bundles/cm.js|
 /bundles/metrics.
 /bunsen/events/*
 /bypasspiphp?
@@ -82560,9 +82538,6 @@ fqsousou.com,kengso.com#@#.user-share
 /cdn-cgi/zaraz/*
 /cdn_cookie_service.$image
 /cdnperf-rum.
-/cds-webanalytics.
-/cdx-radar/*
-/cdx.gif?
 /cedexis.js
 /cedexis/*
 /cedexisus.
@@ -82595,7 +82570,6 @@ fqsousou.com,kengso.com#@#.user-share
 /cgi/count?
 /cgi/stats.pl?
 /cgi/trk.js
-/channelintelligence/*
 /chartbeat.js
 /chartbeat.min.js
 /Chartbeatanalytics.
@@ -82641,11 +82615,9 @@ fqsousou.com,kengso.com#@#.user-share
 /clicklog4pc.
 /clicklog_
 /clickLogger?
-/clicklognew.
 /clickm.js
 /clickmap.js
 /clickpathmedia.
-/clickpathmedia_
 /clickrecord.php?
 /clicks/servlet/*
 /clickscript.
@@ -82679,7 +82651,6 @@ fqsousou.com,kengso.com#@#.user-share
 /clientPageLog/*
 /clientstat?
 /cls_report?
-/cls_rpt.gif?
 /cm_segments.php?cookie
 /cms.gif?
 /cms/stats/*
@@ -82746,9 +82717,7 @@ fqsousou.com,kengso.com#@#.user-share
 /comscore/pageview_
 /comscore/streamsense.
 /comscore?
-/comscore_beacon.
 /comscore_beacon/*
-/comscore_engine.
 /comscore_pageview
 /comscore_ping
 /comscore_stats.
@@ -82759,13 +82728,11 @@ fqsousou.com,kengso.com#@#.user-share
 /confiant.js
 /config/analytics.js
 /configuration-stat.js
-/contador.gif?
 /containerTag.js
 /containertag?
 /contentanalytics/*
 /contentiq.js
 /ContentTrackingCall.
-/control/tracking.php?
 /conversion_async.
 /convertro.js
 /cookie.crumb
@@ -82776,9 +82743,7 @@ fqsousou.com,kengso.com#@#.user-share
 /Cookie?merchant=
 /cookie_ga.
 /cookieAnalytics.
-/cookiebean?
 /cookieId.htm
-/CookieLawStats/*
 /CookieMapping?
 /cookieMonster?
 /CookiePingback?
@@ -82851,7 +82816,6 @@ fqsousou.com,kengso.com#@#.user-share
 /cpeEvent.
 /cpeEventTracking.
 /cqcounter.
-/crai_tracker.
 /create-lead.js
 /CreateAnalytics.js
 /CreateCookieSSO_
@@ -82859,14 +82823,11 @@ fqsousou.com,kengso.com#@#.user-share
 /Criteo/*
 /criteo_
 /criteoRTA.
-/crmTracking.
 /cross-domain-cookie?
-/cross_pixels.
 /CrossDomainTracking/*
 /crtracker.
 /cs_api/log
 /CSAdobeTracking.
-/csc-event?
 /csct.js
 /csi?v=*&action=
 /csi?v=2&s=
@@ -82882,7 +82843,6 @@ fqsousou.com,kengso.com#@#.user-share
 /ctrack?
 /ctracker/*$domain=~charmtracker.com
 /custom-analytics.js
-/custom-tracking.
 /CustomTrackingScript.
 /cv/conversion.js
 /cv_pixel.
@@ -82890,19 +82850,15 @@ fqsousou.com,kengso.com#@#.user-share
 /cwTRACK.js
 /cwtracking-
 /cx-tracking.
-/cx-video-analytics.js
 /cx_tracking.js
-/cXense-Analytics-
 /cxense-candy.js
 /cxense-video/*
 /cxense/cx.js
 /cxf-tracking
-/cyberestat/*
 /d.gif?
 /d1VisitsCounter.
 /data.do?session_
 /data.mistat.
-/data/collect/*$xmlhttprequest
 /data_collect.js
 /datacapture/track
 /datacollectcode?
@@ -82949,8 +82905,6 @@ fqsousou.com,kengso.com#@#.user-share
 /dl_counter.
 /dla_tracker.
 /dlpageping?
-/dltrack.
-/dltrack/*
 /dm.gif?
 /dmp-tracking-
 /dmp/pixel.js
@@ -82996,7 +82950,6 @@ fqsousou.com,kengso.com#@#.user-share
 /dynimpression?rkey=
 /e.gif?
 /e_stat?g_id=
-/eae-logger/*
 /eatms.js
 /ebay_analytics.
 /ebonetag.js
@@ -83006,13 +82959,11 @@ fqsousou.com,kengso.com#@#.user-share
 /ecap.min.js
 /ecblank.gif?
 /ecom/status.jsp?
-/Econda2.
 /ecos-surveycode.
 /ecos.js
 /ecos_survey.
 /ecos_surveycode_
 /ecossurvey.
-/eCustomerSurvey.
 /edAnalyticsWrapper.
 /edata.js
 /edateAdTrack?
@@ -83044,8 +82995,6 @@ fqsousou.com,kengso.com#@#.user-share
 /email/tracking?
 /EmailOpenTrackLog.aspx?$image
 /EmbedAsyncLogger.
-/EMERPEventCollector.
-/emos2-$script
 /emos2.js$~xmlhttprequest
 /emstrack.
 /emtj_tracker.
@@ -83058,7 +83007,6 @@ fqsousou.com,kengso.com#@#.user-share
 /epvplytics.
 /err/js/?url=
 /error/js/log?
-/est.pl?
 /estat.$domain=~estat.ly|~estat.stat.ee
 /estatistica.js
 /eta/events?
@@ -83067,7 +83015,6 @@ fqsousou.com,kengso.com#@#.user-share
 /etarget/*
 /etracker.
 /etracker/*
-/etrackercode.
 /eu-survey.js
 /eva-analytics.
 /event-log/*
@@ -83169,7 +83116,6 @@ fqsousou.com,kengso.com#@#.user-share
 /fairfax_tracking.js
 /famobi_tracking_
 /fastcounter.
-/favcyanalytics?
 /fb-app-tracker.
 /fb-ga-track-
 /fb-pixel-
@@ -83207,12 +83153,8 @@ fqsousou.com,kengso.com#@#.user-share
 /fit?analyticsSession=
 /fkounter/*
 /fkounter5/*
-/flash-cookies/*
-/flash-stats.php?
-/flashtag.txt?Log=
 /flcounter/*$script
 /flextag/*
-/flip-stats-queue?
 /flow_statistic.
 /flowplayer.ganalytics.
 /flushimpressions?
@@ -83220,7 +83162,6 @@ fqsousou.com,kengso.com#@#.user-share
 /footer-tracking.js
 /footer_tag_iframe.
 /footerpixel.gif?
-/fora_player_tracking.
 /foresee/*
 /fortvision-fb-web.
 /forumPixLog.
@@ -83425,8 +83366,6 @@ fqsousou.com,kengso.com#@#.user-share
 /getlog.gif?
 /getnortonsealimaget.js
 /getPixelSso
-/getRemoteDomainCookies?
-/getsidpixeltag?sid=
 /getstats.js.php
 /getThirdPartyTracking?
 /getTotalHits.
@@ -85326,6 +85265,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sTrackStats.
 /stream/log.html?
 /streamsense.min.js
+/strpixel.png?
 /stt/track.
 /stt/track/*
 /stwc-counter/*
@@ -85803,7 +85743,6 @@ fqsousou.com,kengso.com#@#.user-share
 /trigger-visit-event
 /triggertag.js
 /triggit-analytics.
-/trk-fr.
 /trk-off.
 /trk.*/impression/*
 /trk.*/open?$image
@@ -85919,7 +85858,6 @@ fqsousou.com,kengso.com#@#.user-share
 /valueclickbrands/*
 /vanillaanalytics/*
 /vanillastats/*
-/vanillastatsapp/*
 /vastlog.txt?
 /vblntpagetag.
 /vecapture.js
@@ -85945,7 +85883,6 @@ fqsousou.com,kengso.com#@#.user-share
 /view.gif?
 /view_stats.js.php
 /viewcount-service.
-/viewcount.ashx?*&referrer=
 /ViewCounter/*
 /viewerimpressions?
 /views_tracking/*
@@ -86046,7 +85983,6 @@ fqsousou.com,kengso.com#@#.user-share
 /web_logger/*
 /web_tracking_
 /web_traffic_capture.js
-/webabacus-$script
 /WebAnalytics.$domain=~webanalytics.italia.it
 /webAnalytics/*
 /webc-tracking-
@@ -86066,7 +86002,6 @@ fqsousou.com,kengso.com#@#.user-share
 /webstatistics.php?
 /webstats.js
 /webstats.php
-/webstats/stat
 /webstats/track.php?
 /webstats_counter/*
 /webtag.js
@@ -86097,7 +86032,6 @@ fqsousou.com,kengso.com#@#.user-share
 /wjcountercore.
 /wlexpert_tracker.
 /wlexpert_tracker/*
-/wlog.php?
 /wmgbeaconcode.
 /wmps_tracker.
 /wmxtracker.js
@@ -86162,7 +86096,6 @@ fqsousou.com,kengso.com#@#.user-share
 /xtclicks.
 /xtclicks_
 /xtcore.js
-/xtcore_
 /xtroi.js
 /yad_sortab_cetlog.js
 /yandex-metrica-watch/*
@@ -86195,7 +86128,6 @@ fqsousou.com,kengso.com#@#.user-share
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
-://gtrack.*/dye
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
@@ -86216,8 +86148,6 @@ fqsousou.com,kengso.com#@#.user-share
 =getStats_
 =metrics_profile&
 =pageImpression&
-=stats&action=
-=stats&apiVersion=
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
@@ -86233,7 +86163,6 @@ fqsousou.com,kengso.com#@#.user-share
 ?event=performance&
 ?event=performancelogger:
 ?event=tracking:ajax
-?eventtype=impression&pid=
 ?eventtype=request&pid=
 ?local_ga_js=
 ?log=stats-
@@ -86245,29 +86174,21 @@ fqsousou.com,kengso.com#@#.user-share
 ?statify_referrer=
 ?type=page&event=
 ?type=pageview&
-_adcenterconversion.
 _adobe_analytics.
 _adobe_analytics_
 _analytics-tracking?
 _analytics.php?
 _analytics/lib/
-_artcl_log/
-_audience_pixel.
-_baynote.
 _beacon?
 _bnTracker.min.js?
 _c.gif?c=
-_cedexis.
 _chartbeat.js
 _Clicktale.
-_ComScore.
 _effectLog-
 _event_tracking-
 _event_tracking.
 _event_tracking?
 _ga-events_
-_ga_code.
-_gaTrack.js
 _gpt_bootstrap_
 _hitcount1.
 _hits_stat.
@@ -86278,8 +86199,6 @@ _interaction_analytics/
 _logHuman=
 _masterTagCallback&
 _metric_collect.
-_metricsTagging.
-_minder_tracking/
 _mixpanel_events.
 _nedstat.js
 _newrelic_min.
@@ -86288,7 +86207,6 @@ _ntpagetag.
 _pv_init?
 _rpc/log?
 _saveUserEventLog.
-_setAnalyticsFields&
 _social_tracking.js
 _stat.php?referer=
 _stat_counter.php?
@@ -86297,7 +86215,6 @@ _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
 ||internal-matomo.
-||meetrics.netbb-
 &mi_ecmp=
 -track-email-open?
 .acemlna.com/Prod/link-tracker?$image
@@ -86552,12 +86469,9 @@ _track_pixel.gif?
 /cn.wasm$third-party
 /coin-hive-proxy-
 /coinblind.js
-/coinblind_beta.
-/coinGofile.
 /coinhive-proxy-
 /coinhive.min.js
 /coinimp-cache/*
-/coinlab.js
 /collector/event
 /compact_miner?
 /connectics.js
@@ -86570,7 +86484,6 @@ _track_pixel.gif?
 /cryptonight-worker.
 /cryptonight.wasm
 /cryptonoter.
-/deepMiner.js
 /deepMiner.min.js
 /dprocessor.js
 /eventLog.ajax
@@ -86601,7 +86514,6 @@ _track_pixel.gif?
 /nano.wasm
 /nativendo.js
 /noblock.js
-/obfus.min.js
 /pageview/pixel?
 /partner-analytics/*
 /partnermetrics.
@@ -86626,7 +86538,6 @@ _track_pixel.gif?
 /webmnr.min.js
 /webmr.js
 /webxmr.js
-/wproxy$~third-party,websocket
 /xminer.js
 /xminer.min.js
 /xmr-monero.js
@@ -90362,6 +90273,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flockflame.com^
 ||floodprincipal.com^
 ||flowerstreatment.com^
+||flowerycreature.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||foamyfood.com^
@@ -111840,7 +111752,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adat.videa.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
-||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
