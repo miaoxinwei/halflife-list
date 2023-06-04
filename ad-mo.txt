@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5vYvBq+2S/tgHGtit9YnLQ
+! Checksum: 0jX4YUSlJo7xLk4igHmlIA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306042026
-! Last Modified: 2023年06月04日 20:26
+! Version: 202306050216
+! Last Modified: 2023年06月05日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -23812,6 +23812,7 @@ browsershots.org#@#.advert_area
 ||adsxyz.com^
 ||adt328.com^
 ||adt545.net^
+||adt567.net^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
@@ -54887,6 +54888,7 @@ mzzcloud.life,rabbitstream.net,rapid-cloud.ru,streamrapid.ru###overlay-container
 drivevideo.xyz###overlays
 animexin.vip###overplay
 aninews.in,dnaindia.com,hardwaretimes.com,oneindia.com,wionews.com###parentDiv0
+mg.co.za###partner-content
 hwbot.org###partner-tiles
 cnn.com###partner-zone
 limesurvey.org###partnerbanner
@@ -56282,6 +56284,7 @@ forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 whatismyipaddress.com##.fbx-player-wrapper
 digminecraft.com##.fc2e5688
+businessinsider.in##.fc_clmb_ad_mrec
 filmdaily.co##.fd-article-sidebar-ad
 filmdaily.co##.fd-article-top-banner
 filmdaily.co##.fd-home-sidebar-inline-rect
@@ -58906,6 +58909,7 @@ bing.com##.pa_sb
 bing.com##.productAd
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
+mg.co.za#?#article:-abp-has(.sponsored-single)
 metager.org#?#.result:-abp-has(.advertisement-mark)
 metager.org#?#.result:-abp-has(span:-abp-contains(partnershop))
 rakuten.com#?#div[data-productid]:-abp-has(div.productList_sponsoredAds_RUS)
@@ -62219,6 +62223,7 @@ newduba.cn###jq_youxi
 ||002777.xyz^
 ||0776.red^
 ||08u6q.com^
+||0hlc8.top^
 ||10090dfs.com^
 ||1136999.com^
 ||1383a.xyz^
@@ -62227,6 +62232,7 @@ newduba.cn###jq_youxi
 ||14fa20230523.live^
 ||1512a.com^
 ||16niao20230125.live^
+||173e.cn^
 ||18so.vip^
 ||1cdhf.top^
 ||1qlgi.top^
@@ -62263,6 +62269,7 @@ newduba.cn###jq_youxi
 ||7xwx.cn^
 ||88885aaa.com^
 ||8b4v.cn^
+||8jxxai.com^
 ||92f2m.top^
 ||92ph.cn^
 ||94evd.xyz^
@@ -62345,6 +62352,7 @@ newduba.cn###jq_youxi
 ||blvnsgr.xyz^
 ||blxfqq.com^
 ||bny3.cn^
+||bny6.cn^
 ||bnz9.cn^
 ||bockd.xyz^
 ||boshao666.com^
@@ -62429,6 +62437,7 @@ newduba.cn###jq_youxi
 ||donku.club^
 ||dpaic.xyz^
 ||dqazwsxd.xyz^
+||drtyujgsg.xyz^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
 ||dszhqww.cn^
@@ -62517,6 +62526,7 @@ newduba.cn###jq_youxi
 ||gzsscr.cn^
 ||h731.icu^
 ||hangtuo.pub^
+||haxd7.top^
 ||hbbxwan.cn^
 ||hbkunye.com^
 ||hefei64.com^
@@ -62534,11 +62544,13 @@ newduba.cn###jq_youxi
 ||hoiea.xyz^
 ||hontont.com^
 ||hpjzpn.xyz^
+||hq390.xyz^
 ||hrngmf.com^
 ||hsili.ltd^
 ||hsrgnac.cn^
 ||huangji1.cn^
 ||huaweinnd.top^
+||hudqrn.xyz^
 ||huishengqihang.xyz^
 ||humgrww.xyz^
 ||hunlimd.cn^
@@ -62721,7 +62733,9 @@ newduba.cn###jq_youxi
 ||nvchmkw.cn^
 ||nwandlc.top^
 ||nwecd.xyz^
+||nwmol.top^
 ||nwuidsbjak.com^
+||oalmbmf.xyz^
 ||ocoda.xyz^
 ||ogtphoj.cn^
 ||oiewpw.com^
@@ -62766,6 +62780,7 @@ newduba.cn###jq_youxi
 ||prlioxb.cn^
 ||prtlth.xyz^
 ||pvjlfjz.cn^
+||pxzkqq.com^
 ||pzlxnd.xyz^
 ||q1zcp.com^
 ||qange.com^
@@ -62971,6 +62986,7 @@ newduba.cn###jq_youxi
 ||xiaochen1.cn^
 ||xiaodouding.club^
 ||xiaoliublog.icu^
+||xiaosss.ren^
 ||xiaoyunong13.top^
 ||xiiljoy.cn^
 ||xingyang.in^
@@ -63063,17 +63079,6 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||pxzkqq.com^
-||hudqrn.xyz^
-||xiaosss.ren^
-||oalmbmf.xyz^
-||173e.cn^
-||8jxxai.com^
-||drtyujgsg.xyz^
-||hq390.xyz^
-||haxd7.top^
-||0hlc8.top^
-||nwmol.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -70930,6 +70935,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||douban.com/?unit=dale_movie_trailer_after_play&
 ||douban.com/view/dale-online/dale_ad
 ||douban.com^*/fm_bgad.js
+||doubanio.com/view/photo/l/public/p2891976611.
 ||doubanio.com^*/js/ad.
 ||doubleclick.ctfile.com^
 ||douguo.net/upload/post/d/
@@ -71964,6 +71970,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kdhome.net/images/banner
 ||kdhome.net/templets/default/img/tpfd.jpg
 ||kdou.com/ad_js.php?adid=
+||kdslife.com/kds_2023/kafu.
 ||kdslife.com/ui/ad/
 ||kdw*.com/layer/layer.js
 ||kedou*.com/layer/layer.js
@@ -73680,7 +73687,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||kdslife.com/kds_2023/kafu.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -92765,6 +92771,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.btw.so^
 ||events.demoup.com^
 ||events.devcycle.com^
+||events.flagship.io^
 ||events.jokerly.com^
 ||events.jotform.com^
 ||events.launchdarkly.com^$third-party
