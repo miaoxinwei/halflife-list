@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Gfn6f2o/vGJPupAp0n4tHg
+! Checksum: 6crML3IngjCztC1gZjbeiQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306040215
-! Last Modified: 2023年06月04日 02:15
+! Version: 202306040945
+! Last Modified: 2023年06月04日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -770,7 +770,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-top-
 /ad-top.
 /ad-unit-
-/ad-units.
 /ad-vert.
 /ad-view-
 /ad-web.
@@ -57944,6 +57943,7 @@ barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
 beincrypto.com,bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com,insidebitcoins.com##[class*="clickout-"]
 smallseotools.com##[class*="gram"]
+levels.fyi##[class*="submissions-table-promo_promoContainer"]
 alternativeto.net##[class^="AdsenseAd"]
 thesouthafrican.com##[class^="Advertisement_"]
 games.washingtonpost.com##[class^="DisplayAd_"]
@@ -63058,6 +63058,16 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||pxzkqq.com^
+||hudqrn.xyz^
+||xiaosss.ren^
+||oalmbmf.xyz^
+||173e.cn^
+||8jxxai.com^
+||drtyujgsg.xyz^
+||hq390.xyz^
+||haxd7.top^
+||0hlc8.top^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -73664,6 +73674,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||kdslife.com/kds_2023/kafu.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
