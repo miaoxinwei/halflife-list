@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rJxn81NazVIP28E4b25thw
+! Checksum: v1vxIY7iolOGmgZCPYlu2w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306052031
-! Last Modified: 2023年06月05日 20:31
+! Version: 202306060216
+! Last Modified: 2023年06月06日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -696,6 +696,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 .zm/ads/
 .zw/ads/
 /?affiliateId=*&realDomain=
+/?fp=*&poru=$subdocument
 /?view=ad
 /_adslot/*
 /_global/ads/*
@@ -11770,6 +11771,7 @@ _800x80_
 ##.ad-tower-container
 ##.ad-towers
 ##.ad-transition
+##.ad-trck
 ##.ad-two
 ##.ad-twos
 ##.ad-txt
@@ -21338,6 +21340,7 @@ _800x80_
 ##[name^="google_ads_iframe"]
 ##[onclick^="location.href='http://www.reimageplus.com"]
 ##a-ad
+##a[href*=".cfm?fp="][href*="&maxads="]
 ##a[href*=".engine.adglare.net/"]
 ##a[href*="//lkstrck2.com/"]
 ##a[href^="//a.bestcontentfare.top/"]
@@ -21427,7 +21430,7 @@ _800x80_
 ##a[href^="https://click.candyoffers.com/"]
 ##a[href^="https://click.dtiserv2.com/"]
 ##a[href^="https://click.hoolig.app/"]
-##a[href^="https://click.linksynergy.com/fs-bin/"]
+##a[href^="https://click.linksynergy.com/fs-bin/"] > img
 ##a[href^="https://clickadilla.com/"]
 ##a[href^="https://clicks.pipaffiliates.com/"]
 ##a[href^="https://clixtrac.com/"]
@@ -30361,6 +30364,7 @@ browsershots.org#@#.advert_area
 ||entigatenturge.pro^
 ||entirelysacrament.com^
 ||entitledbalcony.com^
+||entjgcr.com^
 ||entrecard.s3.amazonaws.com^
 ||entreeselegist.com^
 ||entrepreneurrestorationthereby.com^
@@ -35488,6 +35492,7 @@ browsershots.org#@#.advert_area
 ||makemehappy.space^
 ||makemyvids.com^
 ||makesboundlessvirtue.com^
+||makingdevil.com^
 ||makingnude.com^
 ||makoglassen.website^
 ||makotruong.live^
@@ -37748,6 +37753,7 @@ browsershots.org#@#.advert_area
 ||oumtoujo.net^
 ||ouncillorswhow.info^
 ||oungimuk.net^
+||ounojushyxb.xyz^
 ||ounsoopt.xyz^
 ||oupaumul.net^
 ||oupe71eiun.com^
@@ -41102,6 +41108,7 @@ browsershots.org#@#.advert_area
 ||sealedsimplicitynoun.com^
 ||sealeryshilpit.com^
 ||sealerysuppler.com^
+||sealthatleak.com^
 ||seamankidding.com^
 ||seamloring.life^
 ||seapolo.com^
@@ -42934,6 +42941,7 @@ browsershots.org#@#.advert_area
 ||thecoolposts.com^
 ||thecred.info^
 ||thecurtainied.xyz^
+||theedrem.xyz^
 ||theelrou.net^
 ||theensos.xyz^
 ||theerdax.com^
@@ -44290,6 +44298,7 @@ browsershots.org#@#.advert_area
 ||vaccinationwear.com^
 ||vaccinegrownparliamentary.com^
 ||vacuolewhilter.com^
+||vacuomedogeys.com^
 ||vacuomehautain.tech^
 ||vacuts.com^
 ||vacwrite.com^
@@ -45585,6 +45594,7 @@ browsershots.org#@#.advert_area
 ||wypydowhi.com^
 ||wysasys.com^
 ||wysyshypti.pro^
+||wytxjmow.com^
 ||wyypykoenie.xyz^
 ||wzdzht7am5.com^
 ||wzk5ndpc3x05.com^
@@ -45755,6 +45765,7 @@ browsershots.org#@#.advert_area
 ||xvderylqps.xyz^
 ||xvika.com^
 ||xviperonec.com^
+||xvpqmcgf.com^
 ||xvuslink.com^
 ||xvwebllndr.com^
 ||xwlketvkzf.com^
@@ -48137,6 +48148,7 @@ browsershots.org#@#.advert_area
 ||affelseaeinera.org^$popup
 ||affiliate-wg.com^$popup
 ||affilirise.com^$popup
+||affinity.net^$popup
 ||afflat3e1.com^$popup
 ||affluentshinymulticultural.com^$popup
 ||afk-i.com^$popup
@@ -48769,6 +48781,7 @@ browsershots.org#@#.advert_area
 ||enlightencentury.com^$popup
 ||enloweb.com^$popup
 ||entainpartners.com^$popup,third-party
+||entjgcr.com^$popup
 ||entlyhaveb.autos^$popup
 ||entry-system.xyz^$popup
 ||eonsmedia.com^$popup
@@ -49430,6 +49443,7 @@ browsershots.org#@#.advert_area
 ||maddenbusy.com^$popup
 ||magicads.nl^$popup
 ||majorityevaluatewiped.com^$popup
+||makingdevil.com^$popup
 ||maltunfaithfulpredominant.com^$popup
 ||mambkooocango.com^$popup
 ||manbycus.com^$popup
@@ -50059,6 +50073,7 @@ browsershots.org#@#.advert_area
 ||relievedgeoff.com^$popup
 ||remaysky.com^$popup
 ||remedyeloise.com^$popup
+||remembergirl.com^$popup
 ||reminews.com^$popup
 ||remove-ads.xyz^$popup
 ||renownsimultaneouslyunresolved.com^$popup
@@ -50172,6 +50187,7 @@ browsershots.org#@#.advert_area
 ||scenbe.com^$popup
 ||schemeabsolutejanuary.com^$popup
 ||screenov.site^$popup
+||sealthatleak.com^$popup
 ||search4y.com^$popup
 ||searchenhancements.com^$popup
 ||searchmulty.com^$popup
@@ -51575,6 +51591,7 @@ browsershots.org#@#.advert_area
 ||1183537888.rsc.cdn77.org^
 ||1206335544.rsc.cdn77.org^
 ||1380535010.rsc.cdn77.org^
+||1502649226.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1678776982.rsc.cdn77.org^
 ||1698632923.rsc.cdn77.org^
@@ -54420,6 +54437,7 @@ exchangerates.org.uk,investing.com###ad3
 comicbookmovie.com###adATFLeaderboard
 mdpi.com###adBannerContent
 moomoo.io###adCard
+globimmo.net###adConH
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sherdog.com###adViAi
 cheatcodes.com###ad_atf_970
@@ -54433,6 +54451,7 @@ lifenews.com###adds
 englishclub.com###adhed
 freepik.com###adobe-pagination-mkt-copy
 onworks.net###adonworksbot
+globimmo.net###adplus-anchor
 192-168-1-1-ip.co,receivesms.co###adresp
 3g2upl4pq6kufc4m.onion,audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,dekhobd.com,duckduckgo.com,g.doubleclick.net,ip-address.org,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,photographyreview.com,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
 lingojam.com###adsense-area-label
@@ -55406,7 +55425,7 @@ home-designing.com,inc.com,trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 cryptodaily.co.uk##.ad-bottom-spacing
 save.ca##.ad-box
-12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,advfn.com,all3dp.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,insidehook.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,memuplay.com,metro.us,metrophiladelphia.com,miningweekly.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,physiology.org,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,toofab.com,usmagazine.com,vanguardngr.com,wogx.com##.ad-container
 sciencealert.com##.ad-desktop\:block
 mobilesyrup.com##.ad-goes-here
 pinkvilla.com##.ad-heder-320-50
@@ -56279,6 +56298,7 @@ futuregaming.io##.ez-video-wrap
 formula1.com##.f1-dfp-banner-wrapper
 audiophilereview.com##.f7e65-midcontent
 audiophilereview.com##.f7e65-sidebar-ad-widget
+globimmo.net##.fAdW
 datenna.com##.fPHZZA
 btcmanager.com##.f_man_728
 freeads.co.uk##.fa_box_m
@@ -62254,6 +62274,7 @@ newduba.cn###jq_youxi
 ||234mx.club^
 ||26niao20230505.live^
 ||27niao20230506.live^
+||27w8f.com^
 ||2fa20230511.live^
 ||2medo.top^
 ||2tyne.icu^
@@ -62294,6 +62315,8 @@ newduba.cn###jq_youxi
 ||9vs0.cn^
 ||9wsbf.top^
 ||a3kd0.top^
+||aa665588aa.com^
+||aa993388aa.com^
 ||aaaaa288.com^
 ||aaaaa556.com^
 ||aaaaa599.com^
@@ -62356,9 +62379,11 @@ newduba.cn###jq_youxi
 ||bekco.xyz^
 ||bestialvehemence.com^
 ||betgdr.xyz^
+||bhfdgdounv.xyz^
 ||bicid.xyz^
 ||bili96.co^
 ||bjcpjab.cn^
+||bjiohva.cn^
 ||bjtel.cn^
 ||bjwh8.xyz^
 ||bkae.top^
@@ -62378,6 +62403,7 @@ newduba.cn###jq_youxi
 ||bqsxqq.com^
 ||brkzczn.cn^
 ||brzfqq.com^
+||bwandlv.top^
 ||bwwlw.cn^
 ||c9cc.icu^
 ||cadke.xyz^
@@ -62527,8 +62553,10 @@ newduba.cn###jq_youxi
 ||gorpgeu.xyz^
 ||gpqicw.xyz^
 ||gpqid.xyz^
+||gr0z6.xyz^
 ||grxeyig.xyz^
 ||grxwqq.com^
+||guangdongtaiji.com^
 ||guzhimian.fun^
 ||gwide.xyz^
 ||gwvzgjb.cn^
@@ -62544,6 +62572,7 @@ newduba.cn###jq_youxi
 ||hbbxwan.cn^
 ||hbkunye.com^
 ||hefei64.com^
+||hefrpv.xyz^
 ||heild.xyz^
 ||heiow.xyz^
 ||hejbd.cn^
@@ -62661,6 +62690,7 @@ newduba.cn###jq_youxi
 ||kzjkexn.cn^
 ||kzjqraj.cn^
 ||l74co.xyz^
+||lazyii.icu^
 ||lcjyll.xyz^
 ||ledni.xyz^
 ||lendc.xyz^
@@ -62840,6 +62870,7 @@ newduba.cn###jq_youxi
 ||rksnqq.com^
 ||rnajhyd.xyz^
 ||robberyinscription.com^
+||rp9p0.xyz^
 ||rpajqxo.cn^
 ||rqxtbr.xyz^
 ||rqytqq.com^
@@ -62948,6 +62979,7 @@ newduba.cn###jq_youxi
 ||vlinz.icu^
 ||vnlqcod.cn^
 ||vorluic.cn^
+||vrffwbf.cn^
 ||vujhaib.cn^
 ||vuxxtn.xyz^
 ||vxvtzx.xyz^
@@ -62975,6 +63007,7 @@ newduba.cn###jq_youxi
 ||wjaqc.xyz^
 ||wjtij.top^
 ||wkzrqq.com^
+||wodw0.xyz^
 ||wosidnlkxq.com^
 ||wqweiog.xyz^
 ||wsoxwa.xyz^
@@ -63049,11 +63082,13 @@ newduba.cn###jq_youxi
 ||yulingaa.xyz^
 ||yuwenbin.host^
 ||ywsiqlg.cn^
+||yytxzct.xyz^
 ||yywh.vip^
 ||z11011.com^
 ||z74lb.com^
 ||zaiceyjjqq.com^
 ||zaiyuanyqq.com^
+||zangtankqq.com^
 ||zbbvhj.xyz^
 ||zbvchabjbcj.com^
 ||zcdfll.xyz^
@@ -63093,21 +63128,6 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||lazyii.icu^
-||zangtankqq.com^
-||vrffwbf.cn^
-||hefrpv.xyz^
-||yytxzct.xyz^
-||bwandlv.top^
-||wodw0.xyz^
-||rp9p0.xyz^
-||hefrpv.xyz^
-||bhfdgdounv.xyz^
-||bjiohva.cn^
-||guangdongtaiji.com^
-||aa993388aa.com^
-||aa665588aa.com^
-||27w8f.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
