@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qsscduZ10Fx84JZ5QdYmOw
+! Checksum: Ut1mZirNa1tuLKN2A+1HNA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306060925
-! Last Modified: 2023年06月06日 09:25
+! Version: 202306061417
+! Last Modified: 2023年06月06日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22499,7 +22499,6 @@ m.babytree.com##script + a[class]
 &refer=http$script
 &t=pageview&
 &visitorUuid=
--ad-targeting?
 -adobe-analytics.
 -adobe-analytics/
 -adobeDatalayer_
@@ -22514,11 +22513,9 @@ m.babytree.com##script + a[class]
 -ga-tracking/
 -gatracker.
 -geoIP.js
--heatmaps-analytics/
 -inview-tracker.
 -optimization-metrics.
 -page-analytics.
--pixelfront-analytics.
 -quantcast-measurement.
 -rttracking.
 -sa-tracker-
@@ -22530,7 +22527,6 @@ m.babytree.com##script + a[class]
 -universal-analytics/
 .analytics.min.
 .beacon.min.js
-.cdn-tracking.js
 .click/track?
 .cn/jc.gif?
 .cn/sl.gif?
@@ -22612,7 +22608,6 @@ m.babytree.com##script + a[class]
 /3.gif?
 /500b-bench.jpg?
 /?dm=*&blogid=$script
-/?dsp_uid=
 /?essb_counter_
 /?livehit=
 /?log=experiment&
@@ -22664,14 +22659,12 @@ m.babytree.com##script + a[class]
 /activity.gif?
 /AD/PageHits.
 /ad/statistic
-/ad_tracking.
 /adb-analytics
 /adb1.gif?
 /adblock_logging.
 /AdCount/*
 /add_page_view?
 /add_stats
-/add_utm_links.
 /addEvent?action=
 /addLinker.js
 /addLinkerEvents-ga.
@@ -22713,7 +22706,6 @@ m.babytree.com##script + a[class]
 /adsct?
 /adshield-
 /adstat.
-/adstatistics/*
 /adstats.
 /adstrack.
 /adtctr.
@@ -22755,7 +22747,6 @@ m.babytree.com##script + a[class]
 /ajax/track.php?
 /ajax_video_counter.php?
 /ajaxlog?
-/ajaxLogger_tracking_
 /ajaxstat/*
 /ajaxtracker.
 /ajx/ptrack/*
@@ -23137,7 +23128,6 @@ m.babytree.com##script + a[class]
 /browserinfo?f.sid=
 /bsp-analytics.
 /bstat.js
-/bstats.gif
 /btrack.php?
 /buffermetrics/*
 /bugcounter.php?
@@ -23359,7 +23349,6 @@ m.babytree.com##script + a[class]
 /confiant.js
 /config/analytics.js
 /configuration-stat.js
-/containerTag.js
 /containertag?
 /contentanalytics/*
 /contentiq.js
@@ -23368,7 +23357,6 @@ m.babytree.com##script + a[class]
 /convertro.js
 /cookie.crumb
 /cookie.gif?
-/cookie.html?sid=
 /cookie/visitor/*
 /cookie?affiliate
 /Cookie?merchant=
@@ -23378,6 +23366,7 @@ m.babytree.com##script + a[class]
 /CookieMapping?
 /cookieMonster?
 /CookiePingback?
+/cookies/render?
 /CookieSetterAS3.
 /cookietag?
 /coopcommerce-pixel.
@@ -23555,7 +23544,6 @@ m.babytree.com##script + a[class]
 /dtagent_
 /dtm_cm.js
 /dtrack.js
-/dtstats.
 /duel-analytics.
 /dw-tracking-
 /dwanalytics-
@@ -23568,7 +23556,6 @@ m.babytree.com##script + a[class]
 /dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~dynatracelabs.com|~github.com|~github.io
 /dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
 /dynaTraceMonitor^
-/dynimpression?rkey=
 /e.gif?
 /e_stat?g_id=
 /eatms.js
@@ -23659,7 +23646,6 @@ m.babytree.com##script + a[class]
 /event?&event=
 /event?adblk=
 /event?auditLinkReceived=
-/event?client=$websocket
 /event?eventType=
 /event?pmo=
 /event?ref=
@@ -23673,7 +23659,6 @@ m.babytree.com##script + a[class]
 /event_logging/*
 /event_tracker?_
 /eventcnt.php?
-/EventhubStats.js
 /EventLog.axd?
 /eventlog.js
 /eventLogServlet?
@@ -23686,7 +23671,6 @@ m.babytree.com##script + a[class]
 /events/counter?
 /Events/Impression?
 /events/page-viewed
-/events/pixel/*$image
 /events/pixelEvent
 /events/track/*
 /events/view-form-open
@@ -23745,7 +23729,7 @@ m.babytree.com##script + a[class]
 /fbevents.js
 /fbevents.min.js
 /fbo-collect.
-/fbpix-
+/fbpix-events-
 /fbpixel.
 /fbpixel/*
 /fdlogger.
@@ -23904,10 +23888,8 @@ m.babytree.com##script + a[class]
 /galinks-
 /gallerystats.
 /galtracklib.
-/gamepageomniture.
 /ganalytics.
 /ganalytics/*
-/gannettomniture.
 /gapagetracker.
 /gapro.js
 /GARecord^
@@ -23928,7 +23910,6 @@ m.babytree.com##script + a[class]
 /gb-tracker-
 /gc?id=*&refurl=
 /gc?refurl=
-/gciAnalytics.
 /gClickTracking.
 /gcount.pl?
 /gcui_vidtracker/*
@@ -23974,11 +23955,9 @@ m.babytree.com##script + a[class]
 /getIbleStats?
 /getlog.gif?
 /getnortonsealimaget.js
-/getPixelSso
 /getstats.js.php
 /getThirdPartyTracking?
 /getTotalHits.
-/GetWebTrekkRecoElement?
 /gifbanner?
 /gifstats.
 /gigyaGAIntegration.
@@ -24044,7 +24023,6 @@ m.babytree.com##script + a[class]
 /googletracker/*
 /googleTracking.js
 /googlytics-
-/gootics.js
 /gosquared-livestats/*
 /gov-tracking.min.js
 /gPageTracking.
@@ -24140,7 +24118,6 @@ m.babytree.com##script + a[class]
 /hpmetrics.
 /hs_track.
 /hsc/trk/*
-/hubspot_tracking.
 /i.gif?
 /i.php?i=
 /i.png?id=
@@ -24598,7 +24575,6 @@ m.babytree.com##script + a[class]
 /mediateGA.js
 /megacounter/*
 /mendelstats.
-/merise.gif?
 /meta-analytics/*
 /meta-tracker/*
 /metatraffic/track.asp?
@@ -24669,7 +24645,6 @@ m.babytree.com##script + a[class]
 /mmpww-tracking.
 /mms.*/pv?
 /mms/get_loaders?
-/mmt.gif?
 /mn-collector.
 /mngi/tracking/*
 /mnppixellibrary.
@@ -24692,7 +24667,6 @@ m.babytree.com##script + a[class]
 /monitor_analytic.
 /monitus.js
 /monsido.js
-/moose-track.
 /morega.js
 /mormont.js
 /mouseover-tracker.
@@ -24709,13 +24683,11 @@ m.babytree.com##script + a[class]
 /mstartracking/*
 /mstat/*
 /mstats.
-/mstr?phpsessid=
 /mstrack/*
 /mt.gif?
 /mtc.js
 /mtc/pageview
 /mtiFontTrackingCode.
-/mtp.*.gif?ref=
 /mtrack.nl/js/*
 /mtracking.
 /mttag/*
@@ -24757,7 +24729,6 @@ m.babytree.com##script + a[class]
 /netresults.js
 /netrum.
 /netstat.
-/netstorage/tealeaf/*
 /nettracker.js
 /nettracker/*
 /netupdate/live.php?
@@ -24797,7 +24768,6 @@ m.babytree.com##script + a[class]
 /nielson_stats.
 /nikioWSJCallback.
 /ninemsn.tracking.
-/ninja-panamera.js
 /NitroCookies.js
 /njs.gif?
 /nlogger.js
@@ -24813,8 +24783,6 @@ m.babytree.com##script + a[class]
 /NNAnalytics/*
 /NNAnalyticsWPSites.
 /no-impression.gif?
-/nofastat.
-/notifications/analytics
 /np?log=
 /npm/perfops-rom
 /npssurvey.
@@ -24850,9 +24818,7 @@ m.babytree.com##script + a[class]
 /omega?ad_
 /omega?tceRow_
 /omni-tracking.
-/omniture-app-measurement.
 /omniture-scode-prod.
-/omniture-visitorapi.
 /omniture.do;
 /omniture/script.
 /omniture/sphere
@@ -24919,7 +24885,6 @@ m.babytree.com##script + a[class]
 /oxAnalytics.
 /oxtracker.
 /p.gif?
-/pa?type=ping&
 /packaged-js/trackers.
 /packed.analytics.
 /page-addviews?
@@ -25029,7 +24994,6 @@ m.babytree.com##script + a[class]
 /piNctTracking.js
 /ping.gif?$domain=~mega689.com
 /ping.php?sid=
-/ping.png?session=
 /ping/?p=
 /ping/?url=
 /ping/pageload?
@@ -25191,7 +25155,6 @@ m.babytree.com##script + a[class]
 /pro-ping.php?
 /probance_tracker.
 /prod-analytics.
-/prod-client-js-logger/*
 /prod-dataroid.
 /prod/log_preprocess
 /prod/ncg/*
@@ -25268,7 +25231,6 @@ m.babytree.com##script + a[class]
 /pxrc.php
 /pxre.php
 /pxtrack.
-/qa-tracker.
 /qlitics.js
 /qtracker-
 /QualtricsSurvey.
@@ -25407,7 +25369,6 @@ m.babytree.com##script + a[class]
 /rtd.js
 /rtkbeacon.gif?
 /rtm-tracking.
-/rtm_etag.
 /rtoaster.js
 /rtracker.
 /rubics_trk
@@ -25723,7 +25684,6 @@ m.babytree.com##script + a[class]
 /statistics.html?url=
 /statistics.js?$third-party
 /statistics.php?data=
-/statistics.php?nid=
 /statistics/get?
 /statistics/getcook.php?
 /statistics/imr.
@@ -25752,7 +25712,6 @@ m.babytree.com##script + a[class]
 /stats.gif?
 /stats.hitbox.com/*
 /stats.php?*http
-/stats.php?format=
 /stats.php?type=
 /stats.php?uri=
 /stats.wawacity.
@@ -25768,14 +25727,12 @@ m.babytree.com##script + a[class]
 /stats/collector.js
 /stats/CounterPage.
 /stats/dlcount_
-/stats/enc-
 /stats/et_track.asp?
 /stats/etag.
 /stats/event.js?
 /stats/footer.
 /stats/ga.
 /stats/header.
-/stats/hmac-
 /stats/ida_
 /stats/impression
 /stats/imr.
@@ -25801,7 +25758,6 @@ m.babytree.com##script + a[class]
 /stats/v2/visit?
 /stats/visitors
 /stats/welcome.php?
-/stats/xmsg_
 /stats/xtcore.
 /stats?aid=
 /stats?blog_
@@ -25936,8 +25892,6 @@ m.babytree.com##script + a[class]
 /testImpressions/*
 /textlink.php?text
 /thbeacon/*
-/thcn_code.
-/thcn_code_
 /thd-new-relic/*
 /thermostat.js
 /thetracker.js
@@ -26616,8 +26570,6 @@ m.babytree.com##script + a[class]
 /wjcountercore.
 /wlexpert_tracker.
 /wlexpert_tracker/*
-/wmgbeaconcode.
-/wmps_tracker.
 /wmxtracker.js
 /woopra.js
 /worldwide_analytics/*
@@ -36331,6 +36283,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||byteoversea.com/monitor_web/
 ||c.fingerprint.com^
 ||c.paypal.com^$script
+||c.thredup.com^
 ||c.wort-suche.com^
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
@@ -36468,6 +36421,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||e2ma.net/track/
 ||ea.epochbase.com^
 ||ebay.com^*/customer_image_service?
+||ec.thredup.com^
 ||edge.staging.fullstory.com^
 ||edisound.com/api/p/stats
 ||eec.crunchyroll.com^
@@ -36762,6 +36716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lowes.com/gauge/
 ||lyft.com/api/track
 ||ma.redhat.com^
+||macys.com/tag_path/
 ||mail.yahoo.com/f/track/
 ||mangadex.org/api/event
 ||mangadex.org/p.js
@@ -53228,7 +53183,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! amplitude.com/libs
 @@||amplitude.com/libs/$script,domain=elconfidencial.com|kink.com|pdfexpert.com
 !! googletagmanager.com/gtm.js
-@@||googletagmanager.com/gtm.js$domain=3djuegosguias.com|3djuegospc.com|acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|animeanime.jp|anond.hatelabo.jp|applesfera.com|arvopaperi.fi|atptour.com|autobild.de|autorevue.cz|axeptio.eu|backcountry.com|bbcgoodfood.com|benesse-style-care.co.jp|besplatka.ua|beterbed.nl|betten.de|binglee.com.au|book.impress.co.jp|bsa-whitelabel.com|bunte.de|bybit.com|bybitglobal.com|carcareplus.jp|carhartt-wip.com|casa.it|ccleaner.com|cdek.ru|cdon.fi|chipotle.com|chronopost.fr|cinemacafe.net|cmoa.jp|como.fi|complex.com|compradiccion.com|computerbild.de|coolermaster.com|costco.co.jp|crello.com|cyclestyle.net|cyclingnews.com|cypress.io|dazeddigital.com|dengekionline.com|dholic.co.jp|directoalpaladar.com|dlsite.com|dmv.ca.gov|doodle.com|dropps.com|e15.cz|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|episodi.fi|eprice.it|ergotron.com|espinof.com|euronics.it|expressvpn.com|feex.co.il|festoolusa.com|finanzen.at|finanzen.ch|finanzen.net|flytap.com|focus.de|formula1.com|fortune.com|freenet-funk.de|fum.fi|gamebusiness.jp|gamespark.jp|genbeta.com|glamusha.ru|gorillamind.com|grandhood.dk|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|hatenacorp.jp|herculesstands.com|hobbyhall.fi|hostingvergelijker.nl|houseofbilocca.com|idealo.at|idealo.de|iltalehti.fi|independent.co.uk|inferno.fi|inside-games.jp|insiderstore.com.br|iphoneitalia.com|jn.pt|journaldunet.com|junonline.jp|kakuyomu.jp|karriere.at|kedronparkhotel.com.au|komputronik.pl|konami.com|la7.it|lastampa.it|lecker.de|level.travel|lift.co.za|linternaute.com|luko.eu|mainichi.jp|makitani.net|mangaseek.net|mcgeeandco.com|mediamarkt.nl|mediuutiset.fi|mercell.com|meritonsuites.com.au|mikrobitti.fi|mobilmania.cz|montcopa.org|mycar-life.com|mysmartprice.com|nap-camp.com|netcombo.com.br|newscafe.ne.jp|nflgamepass.com|nicovideo.jp|nielsendodgechryslerjeepram.com|nihontsushin.com|nordvpn.com|nourison.com|oakandfort.com|odia.ig.com.br|oetker-shop.de|okwave.jp|olx.ro|onlineshop.ocn.ne.jp|pccomponentes.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|poprosa.com|post.ch|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|radiko.jp|radio-canada.ca|radiorur.de|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|rtl.de|rumba.fi|runescape.com|rustih.ru|sanwacompany.co.jp|saraiva.com.br|saturn.at|savethechildren.it|scan.netsecurity.ne.jp|sciencesetavenir.fr|scotsman.com|soranews24.com|soundguys.com|soundi.fi|spektrum.de|sport-wear.com.ua|sport1.de|sportmaster.ru|spyder7.com|stage.parco.jp|stressless.com|superesportes.com.br|support.creative.com|swarajyamag.com|swb.de|talent.lowes.com|talouselama.fi|teddyfood.com|tekniikkatalous.fi|telia.no|theretrofitsource.com|tilt.fi|tivi.fi|tn.com.ar|topper.com.br|toyota-forklifts.se|trademe.co.nz|tradera.com|trendencias.com|trendenciashombre.com|tribuna.com|tugatech.com.pt|tumi.com|type.jp|uclabruins.com|unieuro.it|uniqlo.com|upc.pl|upwork.com|uqr.to|veho.fi|vidaextra.com|video.repubblica.it|vip.de|vitonica.com|viviennewestwood-tokyo.com|vox.de|vtvgo.vn|wamiz.com|wowma.jp|www.kauppalehti.fi|www.uusisuomi.fi|xatakamovil.com|xxl.se|ymobile.jp|youpouch.com|zakzak.co.jp|zennioptical.com|zf1.tohoku-epco.co.jp|zinio.com|zive.cz|zozo.jp
+@@||googletagmanager.com/gtm.js$domain=3djuegosguias.com|3djuegospc.com|acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|animeanime.jp|anond.hatelabo.jp|applesfera.com|arvopaperi.fi|atptour.com|autobild.de|autorevue.cz|axeptio.eu|backcountry.com|bbcgoodfood.com|benesse-style-care.co.jp|besplatka.ua|beterbed.nl|betten.de|binglee.com.au|book.impress.co.jp|bsa-whitelabel.com|bunte.de|bybit.com|bybitglobal.com|carcareplus.jp|carhartt-wip.com|casa.it|ccleaner.com|cdek.ru|cdon.fi|chipotle.com|chronopost.fr|cinemacafe.net|cmoa.jp|como.fi|complex.com|compradiccion.com|computerbild.de|coolermaster.com|costco.co.jp|crello.com|cyclestyle.net|cyclingnews.com|cypress.io|dazeddigital.com|dengekionline.com|dholic.co.jp|directoalpaladar.com|dlsite.com|dmv.ca.gov|doodle.com|dropps.com|e15.cz|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|episodi.fi|eprice.it|ergotron.com|espinof.com|euronics.it|expressvpn.com|feex.co.il|festoolusa.com|finanzen.at|finanzen.ch|finanzen.net|flytap.com|focus.de|formula1.com|fortress.com.hk|fortune.com|freenet-funk.de|fum.fi|gamebusiness.jp|gamespark.jp|genbeta.com|glamusha.ru|gorillamind.com|grandhood.dk|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|hatenacorp.jp|herculesstands.com|hobbyhall.fi|hostingvergelijker.nl|houseofbilocca.com|idealo.at|idealo.de|iltalehti.fi|independent.co.uk|inferno.fi|inside-games.jp|insiderstore.com.br|iphoneitalia.com|jn.pt|journaldunet.com|junonline.jp|kakuyomu.jp|karriere.at|kedronparkhotel.com.au|komputronik.pl|konami.com|la7.it|lastampa.it|lecker.de|level.travel|lift.co.za|linternaute.com|luko.eu|mainichi.jp|makitani.net|mangaseek.net|mcgeeandco.com|mediamarkt.nl|mediuutiset.fi|mercell.com|meritonsuites.com.au|mikrobitti.fi|mobilmania.cz|montcopa.org|mycar-life.com|mysmartprice.com|nap-camp.com|netcombo.com.br|newscafe.ne.jp|nflgamepass.com|nicovideo.jp|nielsendodgechryslerjeepram.com|nihontsushin.com|nordvpn.com|nourison.com|oakandfort.com|odia.ig.com.br|oetker-shop.de|okwave.jp|olx.ro|onlineshop.ocn.ne.jp|pccomponentes.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|poprosa.com|post.ch|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|radiko.jp|radio-canada.ca|radiorur.de|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|rtl.de|rumba.fi|runescape.com|rustih.ru|sanwacompany.co.jp|saraiva.com.br|saturn.at|savethechildren.it|scan.netsecurity.ne.jp|sciencesetavenir.fr|scotsman.com|soranews24.com|soundguys.com|soundi.fi|spektrum.de|sport-wear.com.ua|sport1.de|sportmaster.ru|spyder7.com|stage.parco.jp|stressless.com|superesportes.com.br|support.creative.com|swarajyamag.com|swb.de|talent.lowes.com|talouselama.fi|teddyfood.com|tekniikkatalous.fi|telia.no|theretrofitsource.com|tilt.fi|tivi.fi|tn.com.ar|topper.com.br|toyota-forklifts.se|trademe.co.nz|tradera.com|trendencias.com|trendenciashombre.com|tribuna.com|tugatech.com.pt|tumi.com|type.jp|uclabruins.com|unieuro.it|uniqlo.com|upc.pl|upwork.com|uqr.to|veho.fi|vidaextra.com|video.repubblica.it|vip.de|vitonica.com|viviennewestwood-tokyo.com|vox.de|vtvgo.vn|wamiz.com|wowma.jp|www.kauppalehti.fi|www.uusisuomi.fi|xatakamovil.com|xxl.se|ymobile.jp|youpouch.com|zakzak.co.jp|zennioptical.com|zf1.tohoku-epco.co.jp|zinio.com|zive.cz|zozo.jp
 !! google-analytics.com/analytics.js
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|carnesvizzera.ch|cmoa.jp|enmotive.com|healthrangerstore.com|hobbyhall.fi|infoconso-multimedia.fr|jackbox.tv|k2radio.com|koel.com|kowb1290.com|ligtv.com.tr|meritonsuites.com.au|nabortu.ru|news.gamme.com.tw|novatv.bg|poiskstroek.ru|rzd.ru|saturn.at|schweizerfleisch.ch|skaties.lv|stressless.com|teddyfood.com|tracking.narvar.com|tradera.com|tribuna.com|truwin.com|tuasaude.com|tv3play.no|unicef.de|viandesuisse.ch|vox.de|westernunion.com|worldsbiggestpacman.com|xxl.se
 !! googletagmanager.com/gtag/js
