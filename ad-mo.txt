@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v1vxIY7iolOGmgZCPYlu2w
+! Checksum: zwvYaLwPru97Nk9fgcn1vw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306060216
-! Last Modified: 2023年06月06日 02:16
+! Version: 202306060925
+! Last Modified: 2023年06月06日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -21340,7 +21340,6 @@ _800x80_
 ##[name^="google_ads_iframe"]
 ##[onclick^="location.href='http://www.reimageplus.com"]
 ##a-ad
-##a[href*=".cfm?fp="][href*="&maxads="]
 ##a[href*=".engine.adglare.net/"]
 ##a[href*="//lkstrck2.com/"]
 ##a[href^="//a.bestcontentfare.top/"]
@@ -21659,6 +21658,7 @@ _800x80_
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+##a[href*=".cfm?fp="][href*="&maxads="]
 ##.CitrusBannerWrapper--enollj
 ##[class^="tile-picker__CitrusBannerContainer-sc-"]
 ##citrus-ad-wrapper
@@ -32902,6 +32902,7 @@ browsershots.org#@#.advert_area
 ||histormedengi.xyz^
 ||hisurnhuh.com^
 ||hiswhelectu.xyz^
+||hitbip.com^
 ||hitchrational.com^
 ||hitcpm.com^
 ||hitlnk.com^
@@ -49286,6 +49287,7 @@ browsershots.org#@#.advert_area
 ||jsmptjmp.com^$popup
 ||jubhahsfurzier.digital^$popup
 ||jubsaugn.com^$popup
+||juiceadv.com^$popup
 ||juicyads.com^$popup
 ||jujaufur.net^$popup
 ||julia-liz.com^$popup
@@ -50197,6 +50199,7 @@ browsershots.org#@#.advert_area
 ||securecloud-smart.com^$popup
 ||securecloud-sml.com^$popup
 ||securedcdn.com^$popup
+||securedsmcd.com^$popup
 ||securegate9.com^$popup
 ||securegfm.com^$popup
 ||secureintl.com^$popup
@@ -58943,6 +58946,7 @@ bing.com##.pa_sb
 bing.com##.productAd
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
+noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
 mg.co.za#?#article:-abp-has(.sponsored-single)
 metager.org#?#.result:-abp-has(.advertisement-mark)
 metager.org#?#.result:-abp-has(span:-abp-contains(partnershop))
@@ -63128,6 +63132,11 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||zhengliyqq.com^
+||bcb9.cn^
+||pohpll.xyz^
+||rcsden.top^
+||bxoiksm.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
