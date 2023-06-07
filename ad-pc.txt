@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zjh5gxt3uM/TuCow7O1S4A
+! Checksum: 9S4WT0jyLMXD/lV6Qa1GdA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306070927
-! Last Modified: 2023年06月07日 09:27
+! Version: 202306072028
+! Last Modified: 2023年06月07日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54688,6 +54688,7 @@ game-news24.com###block-50
 ericpetersautos.com###block-6
 systutorials.com###block-7
 slideme.org###block-block-31
+ancient-origins.net###block-block-49
 infoplease.com###block-ipabovethefold
 infoplease.com###block-ipbtfad
 infoplease.com###block-ipleaderboardad
@@ -63299,6 +63300,10 @@ newduba.cn###jq_youxi
 ||guzsjdl.cn^
 ||lvjtiaa.xyz^
 ||mwandlx.top^
+||dfaikhkm.xyz^
+||mdqpkdne.xyz^
+||5vuk.xyz^
+||imgcacaca.vip^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -84860,6 +84865,7 @@ fqsousou.com,kengso.com#@#.user-share
 /web-api/log/*
 /web-data-ingress?
 /web-js-telemetry-service/*
+/web-pixel-shopify-app-pixel@
 /web-vitals-
 /web-vitals.
 /web-vitals/*
