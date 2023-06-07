@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2b1b+N+CkZMEZbNMgJ5aDQ
+! Checksum: swPM9/FqIvtaS+BJIaiQrg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306070217
-! Last Modified: 2023年06月07日 02:17
+! Version: 202306070927
+! Last Modified: 2023年06月07日 09:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2646,6 +2646,13 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
+||kehbcv.top^
+||uxcnhsf.cn^
+||pyjqhb.xyz^
+||rsinnxoe.com^
+||guzsjdl.cn^
+||lvjtiaa.xyz^
+||mwandlx.top^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -26663,6 +26670,7 @@ m.babytree.com##script + a[class]
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://internal-matomo.
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
@@ -30069,6 +30077,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||notiks.io^$third-party
 ||notiksio.com^$third-party
 ||notix.io^$third-party
+||ocmhood.com^
 ||olgtex.com^$third-party
 ||on-push.com^$third-party
 ||onepush.app^$third-party
@@ -42878,7 +42887,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||halo.actonservice.com^
 ||harriscomputer.actonservice.com^
 ||hcacentralwesttexas.hrm.healthgrades.com^
-||hfd.bridgetowermedia.com^
 ||hotel-marketing.hrs.com^
 ||hub.hubinternational.com^
 ||ibamolecular.actonservice.com^
