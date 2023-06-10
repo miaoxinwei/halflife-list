@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: td46phbOcsTrW0+AAVws5g
+! Checksum: mzgiunoFzZIXO1vMGLVJIQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306101416
-! Last Modified: 2023年06月10日 14:16
+! Version: 202306102024
+! Last Modified: 2023年06月10日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54385,6 +54385,7 @@ advfn.com###APS_300_X_600
 advfn.com###APS_BILLBOARD
 webcarstory.com###Ads
 search.avast.com###AsbAdContainer
+ranker.com###BLOG_AD_SLOT_1
 weegy.com###BannerDiv
 citynews.ca###Bigbox_300x250
 calculatorsoup.com###Bottom
@@ -55913,6 +55914,7 @@ simkl.com##.blockplacecente
 wowhead.com##.blocks
 mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
+failory.com##.blog-column-ad
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
 techspot.com##.blu
@@ -57225,7 +57227,7 @@ filehippo.com##.program-description__slot
 as.com,gokunming.com##.prom
 delicious.com.au,taste.com.au##.prom-header
 babynamegenie.com,ecaytrade.com,nbcbayarea.com,nwherald.com,planetsourcecode.com,sciagaj.org,themuslimvibe.com,totalxbox.com,varsity.com,w3techs.com,wgxa.tv##.promo
-thesaturdaypaper.com.au##.promo-banner
+setapp.com,thesaturdaypaper.com.au##.promo-banner
 winscp.net##.promo-block
 drweil.com##.promo-blurb
 drweil.com##.promo-blurb-label
@@ -57464,6 +57466,7 @@ cartoq.com##.side-a
 chaseyoursport.com##.side-adv-block-blog-open
 news.am,nexter.org,viva.co.nz##.side-banner
 myanimelist.net##.side-koukoku
+setapp.com##.side-scrolling__banner
 gfycat.com##.side-slot
 idropnews.com##.side-title-wrap
 vpnmentor.com##.side-top-vendors-wrap
@@ -84504,7 +84507,6 @@ fqsousou.com,kengso.com#@#.user-share
 /tunestats.
 /turn-proxy.html?
 /tw-track.js
-/twdc-dtci/prod/servercomponent.php?
 /TwitterTracking.
 /tynt.js
 /tzr.fcgi?
@@ -94769,6 +94771,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gurgle.pcmag.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
+||health-metrics-api.setapp.com^
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hilton.com/zJbufaUX/
@@ -95679,6 +95682,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js
 ||sweetwater.com/p2TBVNJZ/init.js
+||thehill.com/6zcfGH4h/init.js
 ||therealreal.com/ev56mY37/init.js
 ||tumi.com/4i06uv8M/init.js
 ||twentytwowords.com/static/clients/twentytwowords/3CVQBi14_init.js
