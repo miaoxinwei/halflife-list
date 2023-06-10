@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pIUEStbDye4Hg9IZzQ02lQ
+! Checksum: fAtjopUPIAnZlHiWh4bdUw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306102024
-! Last Modified: 2023年06月10日 20:24
+! Version: 202306110215
+! Last Modified: 2023年06月11日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1844,6 +1844,7 @@ newduba.cn###jq_youxi
 ||acqc9.com^
 ||acsc10.com^
 ||acsydez.cn^
+||ad2023.site^
 ||adadu.cn^
 ||adbtwyxl96.fun^
 ||adcd7.com^
@@ -1967,6 +1968,7 @@ newduba.cn###jq_youxi
 ||czexrhl.cn^
 ||d7dzf.xyz^
 ||d86n.top^
+||dadcc.cn^
 ||dagft.cn^
 ||daizitu.ren^
 ||dcdf4.com^
@@ -2019,6 +2021,7 @@ newduba.cn###jq_youxi
 ||enahmy.xyz^
 ||endio.xyz^
 ||epoun.top^
+||eqghuu.com^
 ||eqknlsw.xyz^
 ||esanciw.top^
 ||euyvpgn.cn^
@@ -2038,6 +2041,7 @@ newduba.cn###jq_youxi
 ||fatvzh.xyz^
 ||fbzmrgf.xyz^
 ||fcied.xyz^
+||fcpnxx.xyz^
 ||fdrxdr.xyz^
 ||fdytdc.xyz^
 ||feiju12138.xyz^
@@ -2149,6 +2153,7 @@ newduba.cn###jq_youxi
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
+||iruacwa.xyz^
 ||isancio.top^
 ||itoken.pro^
 ||iughyy7919.com^
@@ -2159,6 +2164,7 @@ newduba.cn###jq_youxi
 ||jbzjegn.cn^
 ||jciske.top^
 ||jdamc.top^
+||jdpm.net.cn^
 ||jeedi.xyz^
 ||jeidd.xyz^
 ||jerrytom.xyz^
@@ -2300,6 +2306,7 @@ newduba.cn###jq_youxi
 ||nekomasu.ltd^
 ||networkname.xyz^
 ||nezqmud.com^
+||ngishc.top^
 ||nilzq.xyz^
 ||ningdebus.club^
 ||nkvwvx.xyz^
@@ -2340,6 +2347,7 @@ newduba.cn###jq_youxi
 ||pansclub.xyz^
 ||pazz.xyz^
 ||pbgtpjz.cn^
+||pdweigee.com^
 ||pedjqkl.xyz^
 ||peishuning1.cn^
 ||pepnsnq.cn^
@@ -2417,6 +2425,7 @@ newduba.cn###jq_youxi
 ||rqxtbr.xyz^
 ||rqytqq.com^
 ||rrzxlt.xyz^
+||rsanciz.top^
 ||rsbepv.xyz^
 ||rsdop.icu^
 ||rshrpmk.xyz^
@@ -2530,6 +2539,7 @@ newduba.cn###jq_youxi
 ||vueegqt.xyz^
 ||vujhaib.cn^
 ||vuxxtn.xyz^
+||vwtjvd.xyz^
 ||vxvtzx.xyz^
 ||vydbvp.xyz^
 ||vydqknuy.xyz^
@@ -2542,6 +2552,7 @@ newduba.cn###jq_youxi
 ||wangyq.ltd^
 ||wangyun01.cn^
 ||wbnhqq.com^
+||wbupbv.com^
 ||wcdc5.com^
 ||wdygoi.xyz^
 ||web4023.top^
@@ -2672,6 +2683,7 @@ newduba.cn###jq_youxi
 ||zouqiuyyds.com^
 ||zoushao.xyz^
 ||zpfqolj.cn^
+||zrakpxsf.com^
 ||zrbabog.cn^
 ||zrrnqq.com^
 ||zsblog.vip^
@@ -2681,16 +2693,6 @@ newduba.cn###jq_youxi
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||dadcc.cn^
-||pdweigee.com^
-||fcpnxx.xyz^
-||ngishc.top^
-||vwtjvd.xyz^
-||iruacwa.xyz^
-||rsanciz.top^
-||ad2023.site^
-||eqghuu.com^
-||wbupbv.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -14775,6 +14777,7 @@ kisstube.top##.footer-gg
 iciba.com##.footer_baidu
 image.baidu.com##.ford-tag
 chineseinla.com##.forum_banner_ads
+125.la##.forumlist_ad
 880sy.com##.fot_btom
 win7xzb.com##.four_box
 v2ex.com##.fr > a[href^="https://www.digitalocean.com/"]
@@ -24263,51 +24266,26 @@ m.babytree.com##script + a[class]
 /interaction/beacon
 /intercept.js
 /internal/page_view?
-/intervigil.
 /IPbeacon.
 /ipdvdc/*
 /iperceptions.
 /iperceptions/*
 /iperceptions_
-/IperceptionsSurvey.
-/ipfx?eid=
 /ipinfo.json
 /ipixel?spacedesc
-/iporganictrack.
 /ips-invite.iperceptions.com/*
 /iptracer.
-/iqtm.js
-/istat.aspx?
-/ists.tag?
-/item-stats.
-/ItemStats.ajax?
 /itgdtracksdk.
 /itmdp_code.
-/itrack.php?
-/iva_analytics.
-/iva_thefilterjwanalytics.
-/ivw.html
-/ivw.js
-/ivw.php
 /ivw/SP/*$image,script
-/ivw2.cgi?
-/ivw2.js
-/ivw_analytics_
-/IVWAnalytics.
-/ivwbox/*
-/iwa.js
-/iwstat.js
 /j.gif?
 /jgs_portal_log_bildschirm.php?
-/jltracking.
 /jquery.analytics.js|
 /jquery.audiencetarget.
 /jquery.browser-fingerprint-
 /jquery.google-analytics.
-/jquery.jw.analitycs.
 /jquery.trackstar.
 /jquery.unica.
-/JqueryEtracker.
 /js-sdk-event.
 /js/_analytics/*
 /js/analitics.
