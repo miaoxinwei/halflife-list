@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HIAdcQ3m0EyxiQvAsHiwPA
+! Checksum: ox6FFiTNjFfg3zgP1L3lTg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306120216
-! Last Modified: 2023年06月12日 02:16
+! Version: 202306120926
+! Last Modified: 2023年06月12日 09:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55022,6 +55022,7 @@ mostlyblogging.com###media_image-5
 cgchannel.com###mediumRectangle
 moomoo.io###menuContainer > .menuCard
 voiranime.com###mg_vd
+forward.com###middle-of-page
 peacemakeronline.com###middle_banner_section
 bleedingcool.com###middle_medium_rectangle
 pastemagazine.com###middle_rectangle
@@ -55397,6 +55398,7 @@ gaynewzealand.com###wn-insurance-quote-editor
 rediff.com###world_right1
 rediff.com###world_top
 worldrecipes.eu###worldrecipeseu_970x90_desktop_sticky_no_closeplaceholder
+forward.com###wp_piano_top_wrapper
 eteknix.com###wrapper > header
 cranestodaymagazine.com,hoistmagazine.com,ttjonline.com,tunnelsonline.info###wrapper_banners
 xda-developers.com###xda_alert_bar
@@ -58573,6 +58575,7 @@ readonepiece.com##div > b
 coffeeordie.com##div.HtmlModule > [href]
 steamgifts.com##div.dont_block_me
 baking-forums.com,windows10forums.com##div.message--post.message
+forward.com##div.sticky-container:first-child
 inverse.com##div.zz
 liverpoolway.co.uk##div[align="center"] > a[href]
 nexusradio.com##div[align=center]
@@ -59267,7 +59270,6 @@ ouedkniss.com#?#.container:-abp-has(.o-section-heading:-abp-contains(/Sponsored/
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane."]:-abp-has(span.jHLihd)
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:"]:-abp-has(a[href^="/aclk?sa="][href$="&adurl="])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sh-sr__shop-result-group[data-hveid]:-abp-has(g-scrolling-carousel)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#.main > [class] > div:-abp-has([href$="&adurl="])
 guru99.com#?#.content2:-abp-has(div[id^="div-gpt-ad"])
 guru99.com#?#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 haveibeenpwned.com#?#.actionsBar:-abp-has(.why1Password)
@@ -60335,7 +60337,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
 @@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
 @@||ads3.xumo.com^$domain=2vnews.com|redbox.com
-@@||adsafeprotected.com/iasPET.$script,domain=reuters.com
+@@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
@@ -60346,7 +60348,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||akamaized.net^*.stream/$domain=naver.com
 @@||akamaized.net^*/playlist.m3u8?$domain=naver.com
 @@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$script,~third-party
-@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|inquirer.com|keloland.com|radio.com|rd.com|si.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|independent.co.uk|inquirer.com|keloland.com|radio.com|rd.com|si.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wellgames.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||aniview.com/api/$script,domain=gamingbible.co.uk|ladbible.com
 @@||aone-soft.com/style/images/ad2.jpg
@@ -60741,7 +60743,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=game.anymanager.io
-@@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com|telsu.fi|weather.com
+@@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|telsu.fi|weather.com
 @@||gakushuin.ac.jp/ad/common/$~third-party
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||getjad.io/library/$script,domain=allocine.fr
@@ -63398,6 +63400,13 @@ newduba.cn###jq_youxi
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
+||zxcrr.com^
+||zffymmdg.com^
+||kart2ks.icu^
+||tnebxv.top^
+||xlardaxq.com^
+||vokwlch.xyz^
+||njtprv.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
