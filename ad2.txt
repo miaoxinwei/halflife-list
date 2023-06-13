@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Zxh2Et3kRgLLzIpwc8G0g
+! Checksum: RJq04lAAP7ssfevHeozEoA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202306132028
-! Last Modified: 2023年06月13日 20:28
+! Version: 202306140217
+! Last Modified: 2023年06月14日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -20146,6 +20146,7 @@ fqsousou.com,kengso.com#@#.user-share
 !-------------------------------Fixed EasyPrivacy-----------------------------!
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
 @@/analytics.php?$domain=xcar.com.cn
+@@/fingerprint.$domain=abchina.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|gxpf.cn|hnair.com|pop-fashion.com
 @@/fingerprint2.min.js$domain=csdn.net|neets.cc|passport.vpgame.com|shixiseng.com
 @@/fingerprintjs2.min.js$domain=imooc.com
