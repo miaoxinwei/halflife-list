@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lJTCZf0HYZZXPfb7St3vrw
+! Checksum: uUr/do9/Ra1Qa7riGDtxKQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306151418
-! Last Modified: 2023年06月15日 14:18
+! Version: 202306152028
+! Last Modified: 2023年06月15日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -27544,6 +27544,7 @@ _mongo_stats/
 ||aptrinsic.com^$third-party
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
+||arc.io^$third-party
 ||arcadeweb.com^$third-party
 ||ardalio.com^$third-party
 ||arena-quantum.co.uk^$third-party
@@ -30923,6 +30924,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||memorycobweb.com^
 ||mentorsticks.com^
 ||meremark.com^
+||merequartz.com^
 ||messagenovice.com^
 ||messyoranges.com^
 ||metroaverage.com^
@@ -34957,6 +34959,22 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dyv1bugovvq1g.cloudfront.net^
 ||firebase.googleapis.com^$domain=terabox.fun
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
+||cefgo.com^
+||domaincontrol.com^
+||fbi.com^
+||lacolhost.com^
+||lndo.site^
+||local.computer^
+||local.qinlili.bid^
+||local.sisteminha.com^
+||localho.st^
+||localtest.me^
+||lvh.me^
+||nip.io^
+||ssh.town^
+||supercalifragilisticexpialidocious.co.uk^
+||xip.io^
+||yoogle.com^
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
