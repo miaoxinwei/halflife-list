@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C5OAFZb5msbNJ4jrKObwPg
+! Checksum: UXv43dzPpspKDoz3iI9tyA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306150217
-! Last Modified: 2023年06月15日 02:17
+! Version: 202306150919
+! Last Modified: 2023年06月15日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2754,6 +2754,14 @@ newduba.cn###jq_youxi
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
+||chicmifi.com^
+||canser8.top^
+||surperverse.com^
+||jyt58.top^
+||skidfqh.xyz^
+||ohoyao.com^
+||dnzmhr.xyz^
+||hbrmickt.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -33002,6 +33010,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfront.net/zephyr.js
 ||cloudfront.net^*.bmp?
 ||cloudfunctions.net/commonBonnierDataLayer
+||cloudfunctions.net/export-customizer-data-metrics
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/vanalytics
@@ -35934,6 +35943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||analitik.bik.gov.tr^
 ||analytics.kkb.com.tr^
 ||collector.wawlabs.com^
 ||hulyagedikci.com/vhit.php?
@@ -36301,6 +36311,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
+||embed.reddit.com/svc/shreddit
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engine.traceparts.com^
@@ -37055,6 +37066,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tredir.go.com^
 ||tripadvisor.*/MetricsAjax
 ||tripadvisor.*/wm/record
+||tripcdn.com/bee/collect$domain=trip.com
 ||trivago.com/tracking/
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
