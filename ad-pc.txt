@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w+9kd3fw898y60DUikaT8g
+! Checksum: hmCNijCfrK4Y+/oOYUTqnQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306160217
-! Last Modified: 2023年06月16日 02:17
+! Version: 202306160920
+! Last Modified: 2023年06月16日 09:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2013,7 +2013,7 @@ tieba.baidu.com##.tuijian-wrap
 /advertbuttons_
 /advertical.$domain=~advertical.hu
 /advertise-$~script,domain=~ads.microsoft.com|~advertise-solution.nl|~bingads.microsoft.com
-/advertise/*$domain=~legl.co
+/advertise/*$domain=~legl.co|~payju.ir
 /advertise_
 /advertisehere.
 /advertisement-$~script,domain=~berlin-airport.de
@@ -59926,7 +59926,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
-@@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
+@@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads3.xumo.com^$domain=2vnews.com|redbox.com
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
@@ -63050,6 +63050,16 @@ newduba.cn###jq_youxi
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
+||cidhdgv.xyz^
+||xecner.top^
+||frcykpk.cn^
+||iszbxqps.com^
+||brfgbn.xyz^
+||bg04y.xyz^
+||lxbndh.xyz^
+||yiw2iei.icu^
+||a962m.xyz^
+||nhyvhmvw.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -94298,7 +94308,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dropbox.com/log/
 ||dropbox.com/log_
 ||drudgereport.com/204.png
-||drudgereport.com/js/responsive-
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
 ||dtag.breadfinancial.com^
