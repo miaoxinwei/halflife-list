@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BNOih3wI4JHu0yPTO/2CRw
+! Checksum: sjt+17E2JjIo31i+l0LFJA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306160920
-! Last Modified: 2023年06月16日 09:20
+! Version: 202306161418
+! Last Modified: 2023年06月16日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62948,6 +62948,7 @@ newduba.cn###jq_youxi
 ||yiw2iei.icu^
 ||a962m.xyz^
 ||nhyvhmvw.com^
+||haoy1.top^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -85534,7 +85535,6 @@ _mongo_stats/
 ||bionicclick.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
-||bizseasky.com^$third-party
 ||bizspring.net^$third-party
 ||bjcathay.com^$third-party
 ||bkvtrack.com^$third-party
@@ -90742,6 +90742,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bit.ly/stats?
 ||bitclouds.ru/trd
 ||bitrix.info/ba.js
+||bizseasky.com/dc/
+||bizseasky.com/mon
+||bizseasky.com/tracker/
 ||blend.com/event/
 ||blink.net/e/
 ||blip.bizrate.com^$script
