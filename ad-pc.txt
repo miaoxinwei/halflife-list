@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Pp2P5y4DrXqxgLD+9aC68Q
+! Checksum: UDDN+DiRonTyQp16btlmrw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306171416
-! Last Modified: 2023年06月17日 14:16
+! Version: 202306172025
+! Last Modified: 2023年06月17日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3012,7 +3012,6 @@ tieba.baidu.com##.tuijian-wrap
 /js/prebid-video.
 /js/youmuffpu.js
 /js3caf.js
-/js_ads/*
 /js_ads_
 /js_adv-
 /js_adv_
@@ -13805,6 +13804,7 @@ _800x80_
 ##.adsenseframe
 ##.adsenseleaderboard
 ##.adsensemobile
+##.adsenvelope
 ##.adsep
 ##.adserve_728
 ##.adserverBox
@@ -22020,6 +22020,7 @@ browsershots.org#@#.advert_area
 ||12805b86d6.com^
 ||12d59da1e2.com^
 ||12dc71b7cb820f2a.com^
+||130gelh8q.de^
 ||13646d7b78.com^
 ||136dd8678f.com^
 ||137kfj65k.de^
@@ -22312,6 +22313,7 @@ browsershots.org#@#.advert_area
 ||3b0df911a8.com^
 ||3b1e3ebd27.com^
 ||3bcd202415.com^
+||3bfcfaa8c8.com^
 ||3c22db1a50.com^
 ||3c92e2040f.com^
 ||3c967f3fb4.com^
@@ -22952,6 +22954,7 @@ browsershots.org#@#.advert_area
 ||abolid.com^
 ||abolishcareful.com^
 ||abolishmentglum.com^
+||abombu.com^
 ||abonnementpermissiveenliven.com^
 ||abordy.com^
 ||aboriginalhubby.com^
@@ -23921,6 +23924,7 @@ browsershots.org#@#.advert_area
 ||aineghoo.xyz^
 ||ainingukmo.xyz^
 ||aino2.com^
+||ainuftou.net^
 ||aipofeem.net^
 ||aiqidwcfrm.com^
 ||airairgu.com^
@@ -24170,6 +24174,7 @@ browsershots.org#@#.advert_area
 ||alphonso.tv^
 ||alpidoveon.com^
 ||alreadyballetrenting.com^
+||alreau.com^
 ||alrightastound.com^
 ||alrightconsulatevarying.com^
 ||alsatiapolynia.com^
@@ -24749,6 +24754,7 @@ browsershots.org#@#.advert_area
 ||asakserbian.guru^
 ||asbinacler.com^
 ||asccdn.com^
+||asce.xyz^
 ||ascendcolonel.com^
 ||ascensionmonksurround.com^
 ||ascensionpatterbearable.com^
@@ -25246,6 +25252,7 @@ browsershots.org#@#.advert_area
 ||ayboll.com^
 ||ayelpacle.com^
 ||ayhereabit.xyz^
+||ayorks.com^
 ||ayprokwbpc.com^
 ||ayrovalcontain.com^
 ||ayvcjvdfk.xyz^
@@ -27167,6 +27174,7 @@ browsershots.org#@#.advert_area
 ||chastehandkerchiefclassified.com^
 ||chastepaddlesynthesis.com^
 ||chatheez.net^
+||chats2023.online^
 ||chattertasty.com^
 ||chaudrep.net^
 ||chaukrgukepers.xyz^
@@ -29094,6 +29102,7 @@ browsershots.org#@#.advert_area
 ||docityhoatzin.com^
 ||doctorenticeflashlights.com^
 ||doctorhousing.com^
+||doctorpost.net^
 ||documentationskillgrasshopper.com^
 ||dodayobeitand.xyz^
 ||doddassagai.com^
@@ -29426,6 +29435,7 @@ browsershots.org#@#.advert_area
 ||dviccvivms.com^
 ||dvigukindal.com^
 ||dvirmxystyb.com^
+||dvjkmskks.xyz^
 ||dvklfkssxirup.xyz^
 ||dvypar.com^
 ||dwaterver.xyz^
@@ -29764,6 +29774,7 @@ browsershots.org#@#.advert_area
 ||egglikelt.com^
 ||eggnogsagrapha.com^
 ||eggytiptops.com^
+||egifwllxtchiqs.com^
 ||egikoilnbwk.com^
 ||egknjiycidfj.com^
 ||egloochy.com^
@@ -29813,6 +29824,7 @@ browsershots.org#@#.advert_area
 ||ekkpaxli.xyz^
 ||eklfuctjbwddgn.com^
 ||ekmas.com^
+||ekovfgtgcjqg.com^
 ||ekqtxmkexabmrsr.com^
 ||elaboratehall.pro^
 ||elajowser.com^
@@ -30373,6 +30385,7 @@ browsershots.org#@#.advert_area
 ||f329cba40e.com^
 ||f3551539d6565853.com^
 ||f35bb81112.com^
+||f3663618ff.com^
 ||f37d6b16c3.com^
 ||f397fd95eb.com^
 ||f3a173b897.com^
@@ -30493,6 +30506,7 @@ browsershots.org#@#.advert_area
 ||fandelcot.com^
 ||fandmo.com^
 ||fanleaffalter.com^
+||fantasticdiet.pro^
 ||fantasyspent.com^
 ||fantodsshrug.com^
 ||fanyorgagetn.buzz^
@@ -30571,6 +30585,7 @@ browsershots.org#@#.advert_area
 ||fccinteractive.com^
 ||fcmecvwyp.com^
 ||fcompsepd.com^
+||fcprst.xyz^
 ||fcqqbrfucuf.com^
 ||fcsrnbjfmhikea.com^
 ||fcxcubtkahif.xyz^
@@ -30907,6 +30922,7 @@ browsershots.org#@#.advert_area
 ||fnacgbik9v14.com^
 ||fnbauniukvi.com^
 ||fnptvpbwnoo.xyz^
+||fnqcbxqvodj.com^
 ||fnrdymekgohcsj.xyz^
 ||fnrrm2fn1njl1.com^
 ||fntlyenclothe.xyz^
@@ -31112,6 +31128,7 @@ browsershots.org#@#.advert_area
 ||freshannouncement.com^
 ||freshendueshealth.com^
 ||freshleads.pro^
+||freshpops.net^
 ||freudunsneck.com^
 ||freutz.com^
 ||freychang.fun^
@@ -31617,6 +31634,7 @@ browsershots.org#@#.advert_area
 ||gleegloo.net^
 ||gleejoad.net^
 ||gleemsomto.com^
+||gleetchisurvey.top^
 ||glefeesh.net^
 ||glegreel.xyz^
 ||gleitmappy.com^
@@ -32778,6 +32796,7 @@ browsershots.org#@#.advert_area
 ||hwchvgpc.xyz^
 ||hwpnocpctu.com^
 ||hwyjfhdjgoorb.com^
+||hxcdyx.com^
 ||hxfjbdgjscufctm.xyz^
 ||hxgqqxopf.com^
 ||hxlvqndylyoi.xyz^
@@ -33377,6 +33396,7 @@ browsershots.org#@#.advert_area
 ||isanikcieontak.xyz^
 ||isanikcieontap.com.ua^
 ||isawthenews.com^
+||isbnrs.com^
 ||isboost.co.jp^
 ||iseatheadline.com^
 ||isegeowrvnxorj.com^
@@ -33595,6 +33615,7 @@ browsershots.org#@#.advert_area
 ||jeperdee.net^
 ||jeqixokniyny.com^
 ||jeribpupiled.com^
+||jerjrqqzmzyzv.top^
 ||jerkarmlesspuppy.com^
 ||jerkindeducer.com^
 ||jerridlarded.com^
@@ -33871,6 +33892,7 @@ browsershots.org#@#.advert_area
 ||kabalagarsil.com^
 ||kablic.com^
 ||kabobitacism.com^
+||kadniltuwsu.com^
 ||kadwnhhistoli.xyz^
 ||kafugo.xyz^
 ||kagbydhgwbq.com^
@@ -34731,6 +34753,7 @@ browsershots.org#@#.advert_area
 ||lkoobbpti.com^
 ||lkpmprksau.com^
 ||lkqd.net^
+||lksbnrs.com^
 ||llantynethebrav.xyz^
 ||lleadupthere.xyz^
 ||llentmatchw.xyz^
@@ -35799,6 +35822,7 @@ browsershots.org#@#.advert_area
 ||montkpl.top^
 ||montkyodo.top^
 ||montlusa.top^
+||montnotimex.top^
 ||montpdp.top^
 ||montwam.top^
 ||monumentsmaterialeasel.com^
@@ -38371,6 +38395,7 @@ browsershots.org#@#.advert_area
 ||plywoodfact.com^
 ||pmaosrgeieft.com^
 ||pmetorealiukze.xyz^
+||pmimdcjx.com^
 ||pmiofgwzaf.com^
 ||pmlw0efk4x.com^
 ||pmpubs.com^
@@ -39304,6 +39329,7 @@ browsershots.org#@#.advert_area
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
 ||qgoqkcpw.xyz^
+||qgsgnqhqgjw.com^
 ||qgxbluhsgad.com^
 ||qhfjamsmjyn.com^
 ||qhnwj.com^
@@ -39588,6 +39614,7 @@ browsershots.org#@#.advert_area
 ||rdreamsofcryin.info^
 ||rdrhmxyitc.com^
 ||rdroot.com^
+||rdrsec.com^
 ||rdrtrk.com^
 ||rdsb2.club^
 ||rdtk.io^
@@ -39811,6 +39838,7 @@ browsershots.org#@#.advert_area
 ||relaxkubera.tech^
 ||relaxtime24.biz^
 ||releasedgrievedeye.com^
+||releasedverge.com^
 ||releivovires.com^
 ||releph.com^
 ||relept.com^
@@ -40082,6 +40110,7 @@ browsershots.org#@#.advert_area
 ||ricettadellanonna.com^
 ||ricewaterhou.one^
 ||ricewaterhou.xyz^
+||richads.com^
 ||richardenlightenfervent.com^
 ||richcatis.com^
 ||richinfo.co^
@@ -40341,6 +40370,7 @@ browsershots.org#@#.advert_area
 ||rqhere.com^
 ||rqnomljdot.xyz^
 ||rqnvci.com^
+||rqtrk.eu^
 ||rreauksofthecom.xyz^
 ||rreleaseavailan.xyz^
 ||rrentlysearchi.info^
@@ -43154,6 +43184,7 @@ browsershots.org#@#.advert_area
 ||tracepath.cc^
 ||track-victoriadates.com^
 ||track.routes.name^
+||track.totalav.com^
 ||track4ref.com^
 ||trackad.cz^
 ||trackad2.com^
@@ -43841,6 +43872,7 @@ browsershots.org#@#.advert_area
 ||untimburra.com^
 ||untrendenam.com^
 ||untria.com^
+||untrk.xyz^
 ||untrol.com^
 ||untropiuson.com^
 ||untruewring.com^
@@ -45828,6 +45860,7 @@ browsershots.org#@#.advert_area
 ||zaparena.com^
 ||zapdescendant.com^
 ||zaphakesleigh.com^
+||zapprecisionadmire.com^
 ||zapunited.com^
 ||zaremamynah.com^
 ||zarpop.com^
@@ -48004,6 +48037,7 @@ browsershots.org#@#.advert_area
 ||artisticbuoyemphasize.com^$popup
 ||artpever.com^$popup
 ||asarma.xyz^$popup
+||asce.xyz^$popup
 ||asdasdad.net^$popup
 ||asgclickpp.com^$popup
 ||asgorebysschan.com^$popup
@@ -48954,6 +48988,7 @@ browsershots.org#@#.advert_area
 ||hungryrise.com^$popup
 ||hurriedcoward.com^$popup
 ||huskydesigner.pro^$popup
+||hxcdyx.com^$popup
 ||hybridgermandespicable.com^$popup
 ||hyenadata.com^$popup
 ||i62e2b4mfy.com^$popup
@@ -49816,6 +49851,7 @@ browsershots.org#@#.advert_area
 ||rapidhooray.com^$popup
 ||razdvabm.com^$popup
 ||rbxtrk.com^$popup
+||rdrsec.com^$popup
 ||rdsrv.com^$popup
 ||rdtk.io^$popup
 ||readserv.com^$popup
@@ -50299,6 +50335,7 @@ browsershots.org#@#.advert_area
 ||torrentsafeguard.com^$popup
 ||toshelmeton.com^$popup
 ||totadblock.com^$popup
+||totalactualnewz.com^$popup
 ||totaladblock.com^$popup
 ||totaladperformance.com^$popup
 ||totalnicefeed.com^$popup
@@ -54780,6 +54817,7 @@ slideserve.com###readl
 scoop.co.nz###rect
 dict.cc###recthome
 dict.cc###recthomebot
+tapatalk.com###relatedblogbar
 10minutemail.net,eel.surf7.net.my,javatpoint.com###right
 msguides.com###right-bottom-camp
 comicbookrealm.com###right-rail > .module
@@ -63151,6 +63189,8 @@ newduba.cn###jq_youxi
 ||gcqciiqk.com^
 ||hhff111222.com^
 ||1381a.xyz^
+||84zm8.xyz^
+||ezlgszdb.icu^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -80722,10 +80762,8 @@ fqsousou.com,kengso.com#@#.user-share
 -adobeDatalayer_
 -amp-error-reporting.
 -analytics-events.
--analytics-state?
 -appanalytics-
 -click-tracker.
--datacollection.
 -didomi.js
 -ga-tracker.
 -ga-tracking/
@@ -80852,7 +80890,6 @@ fqsousou.com,kengso.com#@#.user-share
 /_gz/counter.php?
 /_hcms/perf
 /_lib/ga.js
-/_log?ocid=
 /_owa.gif?
 /_sess/script.js
 /_stat/log/*
@@ -80871,7 +80908,6 @@ fqsousou.com,kengso.com#@#.user-share
 /acecounter/*
 /acecounter_
 /acounter.php?
-/action/analytics
 /ActionLogger?
 /activity-track/?
 /activity.gif?
@@ -80892,7 +80928,6 @@ fqsousou.com,kengso.com#@#.user-share
 /addlogdetails.
 /addon/analytics/*
 /addpageview/*
-/addrtlog/*
 /adds/counter.js
 /addstats?callback=
 /adlogger.
@@ -83411,6 +83446,7 @@ fqsousou.com,kengso.com#@#.user-share
 /rcpganalytics-
 /rcpganalytics/*
 /readReceipt/notify/?img=$image
+/readthedocs-analytics.js
 /readtracker-
 /realtimeapi/impression?
 /realytics-
@@ -83620,14 +83656,9 @@ fqsousou.com,kengso.com#@#.user-share
 /set_optimizely_cookie.js
 /set_tracking.js
 /setAdStatEV?
-/setbucket?signature=
-/setcookieADV.js
-/SetSabreAnalyticsCookie.
 /setTDUID.do?
 /sfCounter/*
-/sfsites/auraAnalytics
 /sgtracker.js
-/share/analytics?
 /shareCounts.
 /shared/sentry/*
 /sherlock.gif?
@@ -83641,17 +83672,11 @@ fqsousou.com,kengso.com#@#.user-share
 /showhits.php?
 /shreddit/perfMetrics
 /si-tracking.
-/sidebarAnalytic?
 /sidtracker.
 /sikcomscore_
-/sikquantcast_
 /silveregg_cookie?
 /silveregg_tracking.
-/SilverPop.
-/silverpop/*
-/simple-tracking?
 /simple_reach.js
-/simplereach_counts/*
 /simtracker.min.js
 /siq-analytics.
 /site_counter?
@@ -83665,24 +83690,17 @@ fqsousou.com,kengso.com#@#.user-share
 /sitecatalist.js
 /sitecatalyst.js
 /sitecatalyst/tracking.
-/sitecounter/counter.
 /sitecrm.js
 /sitecrm2.js
 /SiteSearchAnalytics.js
-/siteskan.com/*
 /sitestat.
 /sitestat_
-/sitestatforms.
 /sitestats.gif?
-/sitetracker21.
-/SiteTrackingGA.
 /sitetrek.js
 /sizes.gif?*=
-/sk1n-async.
 /skstats-
 /skstats_
 /skype-analytics.
-/sl.gif?1=
 /slimstat/*
 /sluurpy_track.js
 /smart-pixel.min.
@@ -83708,7 +83726,6 @@ fqsousou.com,kengso.com#@#.user-share
 /socialTracking.js
 /socialtracking.min.js
 /softclick.js
-/softpage/stats_registerhit.asp?
 /solarcode.js
 /sometrics/*
 /somni.js
@@ -83728,33 +83745,18 @@ fqsousou.com,kengso.com#@#.user-share
 /sp_tracker.
 /space.gif?host=
 /spacer.gif?
-/spannerworks-tracking-
-/SpectrumAnalytics.js?
-/speedlog?ts=
-/SpeedTrapInsert.
-/spi.gif?aid=
-/spip.php?page=stats.js
-/spixel.
 /splunk-logging-
-/sponsorship_stats/*
-/spot.aspx?Log=
 /springmetrics.
-/sptlog.
-/spy/tracker.
-/spylog_
 /spymonitor.js
 /sr.gif?
 /sra_analytics.
 /sranalytics.
 /src/tracking_
-/srganalytics.
 /srp.gif?
 /ssl-intgr-net/*
 /SSOCore/update?
 /sst8.js
-/sst8.sst?
 /sstat_plugin.js
-/st.aspx?
 /standalone-analytics-
 /stat-adobe-
 /stat-analytics/*
@@ -83795,26 +83797,15 @@ fqsousou.com,kengso.com#@#.user-share
 /statcounter.asp
 /statcounter.js
 /statcountex/count.asp?
-/stateye/*
-/static/javascript/readthedocs-analytics.js
 /statistic/pixel?
-/statistics-page-view/*
-/statistics.aspx?profile
-/statistics.html?action=
-/statistics.html?url=
 /statistics.js?$third-party
-/statistics.php?data=
 /statistics/get?
 /statistics/getcook.php?
-/statistics/imr.
-/Statistics/Log.svc/*
 /statistics/metrica.
 /statistics/ping.
 /statistics/pixel/*
-/statistics/seen
 /statistics/set?
 /statistics?counter=
-/statistics?eventType=
 /statisticsv2/*
 /statlogger.
 /StatRecorder.asp?
@@ -84135,9 +84126,7 @@ fqsousou.com,kengso.com#@#.user-share
 /tracking/open?
 /tracking/pageview.
 /tracking/pixel.
-/tracking/pixel/*
 /tracking/pixel_
-/tracking/pixels.
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /Tracking/TrackPage
@@ -84193,8 +84182,6 @@ fqsousou.com,kengso.com#@#.user-share
 /trackpageview.
 /trackPageView/*
 /TrackPageview?
-/TrackPartnerVisit?
-/trackpidv3.
 /trackpix.
 /trackpixel.
 /trackpixel?
@@ -84208,7 +84195,6 @@ fqsousou.com,kengso.com#@#.user-share
 /trackTimings.gif?
 /trackui.min.js
 /trackuity.
-/TrackUser?callback=
 /trackv&tmp=
 /TrackView/*$xmlhttprequest
 /TrackView/?track
@@ -84217,14 +84203,11 @@ fqsousou.com,kengso.com#@#.user-share
 /trackvisit?
 /TrackVisitors/*
 /TrackWebPage?
-/tradelab.js
 /traffic-source-cookie.
 /traffic-source-cookie/*
-/traffic.asmx/*
 /traffic/status.gif?
 /traffic/track^
 /traffic4u.
-/traffic_link_client.php?
 /traffic_record.php?
 /traffic_tracker.
 /TrafficCookie.
@@ -84232,28 +84215,21 @@ fqsousou.com,kengso.com#@#.user-share
 /traffictrade/*
 /traffix-track.
 /trafic.js
-/trail.gif?s=
-/trakksocial.js
 /trans_pixel.asp
 /transparent.gif?ray=
 /transparent1x1.
 /transparent_pixel.
 /transpix.gif
 /travel-pixel-
-/travelAdsBeacon/*
-/trax.gif?
 /traxis-logger.
 /trbo.js
 /trck/eclick/*
 /trck/etms/*
-/trcking/trck.php?
 /trckUtil.
-/trclnk.js
 /trendmd.min.js
 /trigger-visit-event
 /triggertag.js
 /triggit-analytics.
-/trk-off.
 /trk.*/impression/*
 /trk.*/open?$image
 /trk.*/tracking.
@@ -84262,29 +84238,12 @@ fqsousou.com,kengso.com#@#.user-share
 /trk/api/*
 /trk2.*/open?$image
 /trk?t=$image
-/trk_tb.
-/trk_zbo.
 /trkga.
-/trkpixel.gif
-/trkr.js
-/trkr/php?
 /trovit-analytics.js
-/trpic.asp?
 /truehits.php?
-/trueTag-
-/truetag_landing_
-/trx?id=
-/tse/tracking.
-/tsrHitCounter.
-/ttt.gif?
-/tunestats.
-/turn-proxy.html?
 /tw-track.js
-/TwitterTracking.
 /tynt.js
-/tzr.fcgi?
 /u.gif?
-/uclick.php?add_event2=
 /ucount.php?
 /udctrack.
 /uds/stats?
@@ -84313,16 +84272,12 @@ fqsousou.com,kengso.com#@#.user-share
 /universal-tracking-
 /universalPixelStatic.
 /update_hits3/*
-/updateBotStatus.do?
 /updateStats.
 /urchin.gif?
 /urchin.html?
 /urchin.js
 /urchinstats.
-/URLSplitTrack?
-/user-agent-analyzer.
 /user-context?referrer=
-/userdata_n?
 /userfingerprinttoken/*$xmlhttprequest
 /userfly.js
 /users/track?
@@ -93698,6 +93653,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c-rings.net^$script,third-party
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
+||codemarketing.cloud/rest/
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^
