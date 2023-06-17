@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BLyQ8zK93Km8zObCOPfFrQ
+! Checksum: IIRgYqhkskrnMYX3XTIJiQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306170916
-! Last Modified: 2023年06月17日 09:16
+! Version: 202306171416
+! Last Modified: 2023年06月17日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55417,6 +55417,7 @@ guidingtech.com##.at1
 guidingtech.com##.at2
 fedex.com##.atTile1
 audiobacon.net##.audio-widget.et_pb_widget
+darko.audio##.audio_widget
 mbl.is##.augl
 imasdk.googleapis.com##.autoalign.nonLinearContainer
 iai.tv##.auw--container
@@ -60062,7 +60063,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
-@@||pubads.g.doubleclick.net/ssai/$domain=cbssports.com|newson.us|worldsurfleague.com
 @@||radiotimes.com/static/advertising/$script,~third-party
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
@@ -60251,6 +60251,9 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js
 !! imasdk.googleapis.com/js/sdkloader/ima3_debug.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|cbsnews.com|insideedition.com|pch.com
+!! https://github.com/uBlockOrigin/uAssets/issues/18541
+!! cbssports.com|newson.us|worldsurfleague.com
+@@||pubads.g.doubleclick.net/ssai/
 !! g.doubleclick.net/gpt/pubads_impl_
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=accuweather.com|blastingnews.com|bloomberg.com|chelseafc.com|chromatographyonline.com|digitaltrends.com|downdetector.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|game.anymanager.io|games.coolgames.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nationalreview.com|nationalworld.com|nbcsports.com|nycgo.com|physicianspractice.com|scotsman.com|telsu.fi|voici.fr|weather.com
 !! pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
@@ -63033,6 +63036,9 @@ newduba.cn###jq_youxi
 ||mhysbwo.xyz^
 ||lsancil.top^
 ||jbhhxd.xyz^
+||gcqciiqk.com^
+||hhff111222.com^
+||1381a.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -85484,7 +85490,6 @@ _mongo_stats/
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
 ||analytik.xyz^$third-party
-||analytk.com^$third-party
 ||analyzz.com^$third-party
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
@@ -85869,7 +85874,6 @@ _mongo_stats/
 ||crtx.info^$third-party
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
-||cttracking02.com^$third-party
 ||cuberoot.co^$third-party
 ||curalate.com^$third-party
 ||customer.io^$third-party
@@ -86235,7 +86239,6 @@ _mongo_stats/
 ||globel.co.uk^$third-party
 ||globetrackr.com^$third-party
 ||gnpge.com^$third-party
-||go2link.net^$third-party
 ||goadservices.com^$third-party
 ||goatcounter.com^$third-party
 ||godhat.com^$third-party
@@ -87282,7 +87285,6 @@ _mongo_stats/
 ||siteapps.com^$third-party
 ||sitebro.com^$third-party
 ||sitebro.net^$third-party
-||sitebro.tw^$third-party
 ||sitecompass.com^$third-party
 ||siteimprove.com^$third-party
 ||siteimproveanalytics.com^$third-party
@@ -87433,7 +87435,6 @@ _mongo_stats/
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
-||swfstats.com^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
 ||synerise.com^$third-party
@@ -87518,7 +87519,6 @@ _mongo_stats/
 ||traceless.me^$third-party
 ||tracelytics.com^$third-party
 ||tracemyip.org^$third-party
-||tracer.jp^$third-party
 ||traceworks.com^$third-party
 ||track-re01.com^$third-party
 ||track-server-100.com^$third-party
@@ -87799,8 +87799,6 @@ _mongo_stats/
 ||wrating.com^$third-party
 ||wt-eu02.net^$third-party
 ||wt-safetag.com^$third-party
-||wtastats.com^$third-party
-||wtastats.ro^$third-party
 ||wts.one^$third-party
 ||wts2.one^$third-party
 ||wtstats.com^$third-party
@@ -88114,7 +88112,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lmiutil.com^$third-party
 ||machieved.com^$third-party
 ||mepirtedic.com^$third-party
-||mercy.ga^$third-party
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
 ||mine.torrent.pw^$third-party
@@ -89537,7 +89534,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||24log.de^$third-party
 ||3ng6p6m0.de^$third-party
 ||4stats.de^$third-party
-||actionallocator.com^$third-party
 ||active-tracking.de^$third-party
 ||adc-serv.net^$third-party
 ||adclear.net^$third-party
@@ -90285,7 +90281,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeting.biz^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
-||trafix.ro^$third-party
 ||wtstats.ro^$third-party
 ||zontera.com^$third-party
 ||109.169.66.161^$third-party,domain=~adult-site.ip
@@ -90712,7 +90707,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.adjust.com^$third-party
 ||app.carnow.com/dealers/track_visitor
-||app.cdn-cs.com/__t.png?
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
 ||app.yesware.com/t/$third-party
@@ -92040,7 +92034,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushpro.io/api/logging/
 ||pussy.org^*.cgi?pid=
 ||pussy.org^*/track.php
-||pv.pjtsu.com^
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
 ||px-cloud.net/b/s
@@ -92394,7 +92387,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.catapultx.com^
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
-||tags.creativille.co.uk^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.refinery89.com^
@@ -93527,7 +93519,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
 ||logger.kataweb.it^
-||maxusglobal.it/init.js
 ||mibatech.com/track/
 ||mrwebmaster.it/work/stats.php?
 ||nanopress.it/lab.js
@@ -93595,7 +93586,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c-rings.net^$script,third-party
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
-||cookie.codemarketing.cloud^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^
@@ -95254,7 +95244,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||clear.wallapop.com^
-||content.id.elsevier.com^
 ||content22.bmoharris.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
