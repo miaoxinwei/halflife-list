@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Sfl/PREh2IL027UiZtO8ow
+! Checksum: LkKuFmqh+7HaY0rT5Cv7MA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202306181417
-! Last Modified: 2023年06月18日 14:17
+! Version: 202306190216
+! Last Modified: 2023年06月19日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -719,8 +719,6 @@ stgowan.com
 .com/vh2/$script,third-party
 .com/vj1/$script,third-party
 .com/vj2/$script,third-party
-:9875/vj2/
-:9875/vh2/
 .com/vodad.js
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
@@ -1357,6 +1355,8 @@ stgowan.com
 :8888/zhu/wap_
 :8898/ads_
 :9001/code/
+:9875/vh2/
+:9875/vj2/
 :99/js/ads/
 =ad_top_slider&
 =AdCode_$script,third-party
@@ -2491,6 +2491,7 @@ newduba.cn###jq_youxi
 ||ecav5.com^
 ||eciea.xyz^
 ||efilgvz.cn^
+||eiadf.xyz^
 ||eitb7.top^
 ||ej65.xyz^
 ||enahmy.xyz^
@@ -2671,6 +2672,7 @@ newduba.cn###jq_youxi
 ||jiqadoi.cn^
 ||jiuba20230320.live^
 ||jjnrqq.com^
+||jljftl.xyz^
 ||jlzz.name^
 ||jn060.xyz^
 ||jndyl.xyz^
@@ -2728,6 +2730,7 @@ newduba.cn###jq_youxi
 ||lazyii.icu^
 ||lcjyll.xyz^
 ||ldxinb.xyz^
+||leadc7.icu^
 ||ledni.xyz^
 ||lendc.xyz^
 ||lesenjiaoyu.xyz^
@@ -2848,6 +2851,7 @@ newduba.cn###jq_youxi
 ||ooexkqj.cn^
 ||oofyjik.xyz^
 ||opida.xyz^
+||opzksyy.cn^
 ||originate.ltd^
 ||orsrmrx.cn^
 ||osancik.top^
@@ -2865,6 +2869,7 @@ newduba.cn###jq_youxi
 ||pedjqkl.xyz^
 ||peishuning1.cn^
 ||pepnsnq.cn^
+||pftdmmc.xyz^
 ||pgjcbz.xyz^
 ||piaochong.co^
 ||pingfang.icu^
@@ -2882,6 +2887,7 @@ newduba.cn###jq_youxi
 ||pplnjoow.com^
 ||ppshop.club^
 ||pqldzp.xyz^
+||pqomnfbg.com^
 ||pqxyqq.com^
 ||prlioxb.cn^
 ||prtlth.xyz^
@@ -2913,6 +2919,7 @@ newduba.cn###jq_youxi
 ||qsanciy.top^
 ||quancuncq.xyz^
 ||qvcyeknp.xyz^
+||qvxvvjom.com^
 ||qwahk.com^
 ||qwandly.top^
 ||qwrdj.xyz^
@@ -3012,6 +3019,7 @@ newduba.cn###jq_youxi
 ||tnebxv.top^
 ||tpjmqq.com^
 ||tqdpqq.com^
+||trfmxf.xyz^
 ||trp69.top^
 ||tsancii.top^
 ||tshtbh.xyz^
@@ -3073,6 +3081,7 @@ newduba.cn###jq_youxi
 ||vnlqcod.cn^
 ||vokwlch.xyz^
 ||vorluic.cn^
+||vreephay.com^
 ||vrffwbf.cn^
 ||vtvnnl.xyz^
 ||vueegqt.xyz^
@@ -3107,6 +3116,7 @@ newduba.cn###jq_youxi
 ||wjtij.top^
 ||wkzrqq.com^
 ||wodw0.xyz^
+||worjeklmq.com^
 ||wosidnlkxq.com^
 ||wqweiog.xyz^
 ||wsoxwa.xyz^
@@ -3148,6 +3158,7 @@ newduba.cn###jq_youxi
 ||xni.ink^
 ||xnjvn1.com^
 ||xnmqqq.com^
+||xokcaxw.cn^
 ||xpynqq.com^
 ||xrkyqq.com^
 ||xsbdj6.com^
@@ -3191,6 +3202,7 @@ newduba.cn###jq_youxi
 ||ywsiqlg.cn^
 ||yytxzct.xyz^
 ||yywh.vip^
+||yziwoidi.icu^
 ||z11011.com^
 ||z74lb.com^
 ||zaiceyjjqq.com^
@@ -3242,18 +3254,6 @@ newduba.cn###jq_youxi
 ||zxcrr.com^
 ||zxgko.cn^
 ||zzqrr.com^
-||qvxvvjom.com^
-||xokcaxw.cn^
-||leadc7.icu^
-||pftdmmc.xyz^
-||pqomnfbg.com^
-||jljftl.xyz^
-||trfmxf.xyz^
-||eiadf.xyz^
-||yziwoidi.icu^
-||opzksyy.cn^
-||vreephay.com^
-||worjeklmq.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
