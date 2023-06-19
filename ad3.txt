@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GjiKXwqNib/ice1MNxwxqw
+! Checksum: k5dE7DwPfu8X92en9k0bFQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306191418
-! Last Modified: 2023年06月19日 14:18
+! Version: 202306192029
+! Last Modified: 2023年06月19日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2817,6 +2817,7 @@ newduba.cn###jq_youxi
 ||fooid.xyz^
 ||ghsnhjk.cn^
 ||szafvjdd.icu^
+||beatricenba.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -12313,6 +12314,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
+||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
+||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
+||zhimg.com/80/v2-503830bc48217331677fc5c7b67eee12.
+||fanyi.baidu.com/wise/afd
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -14781,7 +14787,7 @@ baidu.com##.ec_im_container
 ettoday.net##.ec_menu
 baidu.com##.ec_pc_ad
 baidu.com##.ec_sma_im
-baidu.com,~m.baidu.com##.ec_wise_ad
+baidu.com##.ec_wise_ad
 easou.com##.ecom-adTop
 baidu.com##.ecom_pingzhuan
 baidu.com##.ecomad-banner-loading
@@ -34895,7 +34901,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domaincontrol.com^
 ||fbi.com^
 ||lacolhost.com^
-||lndo.site^
+||lndo.site^$third-party
 ||local.computer^
 ||local.qinlili.bid^
 ||local.sisteminha.com^
@@ -34904,7 +34910,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||localtest.me^
 ||lvh.me^
 ||netfinity.hostedrmm.com^
-||nip.io^
+||nip.io^$third-party
 ||ssh.town^
 ||supercalifragilisticexpialidocious.co.uk^
 ||xip.io^
@@ -52989,7 +52995,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||imrworldwide.com/novms/js/2/ggc$script,domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|espn.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|la7.it|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sky.it|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|tvnow.de|video.corriere.it|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 !! optimizely.com
-@@||cdn.optimizely.com/js/$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com|kabeleins.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|tcgplayer.com
+@@||cdn.optimizely.com/js/$domain=bikesales.com.au|compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com|kabeleins.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|tcgplayer.com
 @@||optimizely.com/datafiles/$domain=alaskaair.com|guildeducation.com|hm.com|nike.com|printify.me|talktalk.co.uk|tommy.com|wallapop.com
 !! mpsnare.iesnare.com
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|equifax.ca|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
