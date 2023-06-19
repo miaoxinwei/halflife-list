@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nC8xfwXvb8G+JvykiKru2Q
+! Checksum: GjiKXwqNib/ice1MNxwxqw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306190920
-! Last Modified: 2023年06月19日 09:20
+! Version: 202306191418
+! Last Modified: 2023年06月19日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2815,6 +2815,8 @@ newduba.cn###jq_youxi
 ||zeookuv.xyz^
 ||bbhktv.xyz^
 ||fooid.xyz^
+||ghsnhjk.cn^
+||szafvjdd.icu^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -26186,8 +26188,6 @@ m.babytree.com##script + a[class]
 /utrack?
 /utracker.js
 /uutils.fcg?
-/ux_analytics/*
-/ux_analytics_
 /v.gif?
 /v1/adn/visit|
 /v1/impressions
@@ -32069,7 +32069,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||d2c.ne.jp^$third-party
-||datasign.co^$third-party
 ||dbfocus.jp^$third-party
 ||deteql.net^$third-party
 ||dmtag.jp^$third-party
@@ -32956,6 +32955,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
+||cmp.datasign.co^
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnnx.io^*/tracker.js
@@ -33105,6 +33105,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.woosmap.com^
 ||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
+||datasign.co/js/opn.js
 ||daxab.com/logger/
 ||dcinfos-cache.abtasty.com^
 ||dditscdn.com/*fingerprints
@@ -34267,6 +34268,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stg-data-collector.playbuzz.com^
 ||stileproject.com/vhtk/
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
@@ -36224,8 +36226,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
 ||drop.com/statBeacon
-||dropbox.com/*/log_events
 ||dropbox.com/2/client_metrics
+||dropbox.com/2/pap_event_logging
 ||dropbox.com/alternate_
 ||dropbox.com/jse
 ||dropbox.com/log/
@@ -52748,7 +52750,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||dev.visualwebsiteoptimizer.com/j.php$script,domain=gravitydefyer.com|wakefit.co
 @@||dev.visualwebsiteoptimizer.com/web/$script,domain=gravitydefyer.com|wakefit.co
 @@||docs.google.com/*/viewdata$~third-party
-@@||dropboxstatic.com/static/metaserver/static/js/ux_analytics/$script,domain=dropbox.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
@@ -52806,7 +52807,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||level.travel/tracker/tracker.js$script,~third-party
 @@||lightning.bleacherreport.com/launch/*-source.min.js$~third-party
 @@||lightning.bleacherreport.com^*/launch-$~third-party
-@@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||logging.apache.org^$~third-party
