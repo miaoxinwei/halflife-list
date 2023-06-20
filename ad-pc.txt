@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PTjD0iAob79H7lc/CMEJNg
+! Checksum: Fjm1AlncudbPFnit/m/g1A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306201418
-! Last Modified: 2023年06月20日 14:18
+! Version: 202306202029
+! Last Modified: 2023年06月20日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -56799,6 +56799,7 @@ autoplius.lt##.leader-board-wrapper
 zdnet.com##.leader-top
 blaauwberg.net##.leaderBoardContainer
 techadvisor.com##.leaderBoardHolder
+mediaweek.com.au##.leader-wrap-out
 coin360.com##.leader_wrapper
 coveteur.com##.leaderboar_promo
 agcanada.com,allmusic.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,cattime.com,chairmanlol.com,chemistryworld.com,citynews.ca,comingsoon.net,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodista.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,iamdisappoint.com,imedicalapps.com,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,liveoutdoors.com,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,playstationlifestyle.net,precisionvaccinations.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
@@ -57944,6 +57945,7 @@ ebook-searcher.com##.w-100
 androidpolice.com##.w-pencil-banner
 wsj.com##.w27771
 userscript.zone##.w300
+mediaweek.com.au###wallpaper
 goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
 watson.ch##.watson-ad
@@ -63433,6 +63435,7 @@ newduba.cn###jq_youxi
 ||vyye.cn^
 ||afdunaui.com^
 ||uo12.com^
+||vizacasa.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -71550,7 +71553,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mnrrk.com/yuhe/ote/js/pcgg.js
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
-||moe123.net/static/img/1200x200_
+||moe123.net/static/img/1200x
 ||moedao.com/js/top.js
 ||moegirl.org.cn/insight/MoegirlInsight.
 ||moerats.com/usr/affpc/
@@ -72936,6 +72939,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+eastmoney.com##div[id^="flow-ad-"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
