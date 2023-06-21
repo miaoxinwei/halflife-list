@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4DyEPud9+TqHiBscFtGeGw
+! Checksum: JFvIeZ4fNJzVO+cE2OZeEQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306212027
-! Last Modified: 2023年06月21日 20:27
+! Version: 202306220217
+! Last Modified: 2023年06月22日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51294,7 +51294,6 @@ browsershots.org#@#.advert_area
 ||mobilerevenu.com^$third-party
 ||mobtop.ru^$third-party
 ||modelsgonebad.com^$third-party
-||monetizze.com.br^$third-party
 ||morehitserver.com^$third-party
 ||mp-https.info^$third-party
 ||mpmcash.com^$third-party
@@ -53581,6 +53580,7 @@ browsershots.org#@#.advert_area
 ||sonichits.com/tf.php
 ||sontent.powzers.lol^
 ||sorcerers.net/images/aff/
+||soundcloud.com/audio-ads?
 ||southfloridagaynews.com/images/banners/
 ||sportshub.to/player-source/images/banners/
 ||spox.com/daznpic/
@@ -58396,6 +58396,7 @@ presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
 freshplaza.com##a.banner
+aliexpress.com,aliexpress.us##a.search-card-item[href*="&aem_p4p_detail="]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[ajaxify*="&eid="] + a[href^="https://l.facebook.com/l.php?u="]
 newstalkflorida.com##a[alt="Ad"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[aria-label="Advertiser link"]
@@ -58407,7 +58408,6 @@ trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 namepros.com##a[data-tag="backer"]
 sashares.co.za##a[data-wpel-link="external"]
 aliexpress.com,aliexpress.us##a[href*="&ad_pvid="]
-aliexpress.com,aliexpress.us##a[href*="&aem_p4p_detail="]
 aliexpress.com,aliexpress.us##a[href*="&detail_p4p_id="]
 pinterest.at,pinterest.ca,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt##a[href*="&epik="]
 aliexpress.com,aliexpress.us##a[href*="&p4p_pvid="]
@@ -63535,6 +63535,7 @@ newduba.cn###jq_youxi
 ||cifyeldf.top^
 ||ymhyw6.lol^
 ||efvsyhbf.xyz^
+||daede.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -73038,6 +73039,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+naifei.im##DIV[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+naifei.im##.tg_w
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
