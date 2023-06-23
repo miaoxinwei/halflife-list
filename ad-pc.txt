@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y2+Gy4Mc5+91wS8PtH3f0g
+! Checksum: XDKSMzVEk7FGuecd4uHBYQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202306230937
-! Last Modified: 2023年06月23日 09:37
+! Version: 202306231421
+! Last Modified: 2023年06月23日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -16476,6 +16476,7 @@ _800x80_
 ##.ezo_ad
 ##.ezoic-ad
 ##.ezoic-ad-adaptive
+##.ezoic-adpicker-ad
 ##.ezoic-floating-bottom
 ##.f-ad
 ##.f-item-ad
@@ -56955,6 +56956,7 @@ businessinsider.com,insider.com##.in-post-sticky
 faithpot.com##.inarticle-ad
 crash.net##.inarticle-wrapper
 motherjones.com##.incontent-promo
+truckinginfo.com##.incontent02Ad
 brudirect.com##.index-banner
 katv.com##.index-module_adAfterContent__1cww
 theinertia.com##.inertia-ad-300x250
@@ -58382,6 +58384,7 @@ theblaze.com##[data-category="SPONSORED"]
 gab.com##[data-comment="gab-ad-comment"]
 curbed.com##[data-concert="prelude"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-empty]
+ginx.tv##[data-ez-ph-id]
 tvzoneuk.com##[data-hook="HtmlComponent"]
 jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
@@ -63764,6 +63767,7 @@ newduba.cn###jq_youxi
 ||jaowd.xyz^
 ||rppihz.xyz^
 ||hjtedf.xyz^
+##div[onclick*="ky01003.com"]
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
