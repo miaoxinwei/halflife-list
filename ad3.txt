@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tu3/yqQ4q37L0MrQ62pClw
+! Checksum: eXTU6y4QkcHBO6EH9zQ6tQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202306240936
-! Last Modified: 2023年06月24日 09:36
+! Version: 202306241419
+! Last Modified: 2023年06月24日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1544,6 +1544,7 @@ newduba.cn###jq_youxi
 ##.subject_link[href$="/thread-index-fid-1-tid-12848.htm"]
 ##.svg-icon + #player_pause
 ##.sxAdBox
+##.samBannerUnit
 ##.t5[style="border:1px solid #a6cbe7;"] + .t[style="margin-top:8px"]
 ##.tab-content + .col-pd
 ##.textadlist
@@ -2885,6 +2886,7 @@ newduba.cn###jq_youxi
 ||crookedchange.com^
 ||jxcrnwc.xyz^
 ||ptvfzv.xyz^
+||daadr.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -28256,6 +28258,7 @@ _mongo_stats/
 ||georiot.com^$third-party
 ||geotargetly-1a441.appspot.com^$third-party
 ||geotargetly.co^$third-party
+||getaawp.com^$third-party
 ||getambassador.com^$third-party
 ||getbackstory.com^$third-party
 ||getblueshift.com^$third-party
@@ -37109,10 +37112,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tweakers.net/ajax/$ping
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
-||twitter.com/1.1/promoted_content/log.json
 ||twitter.com/9/measurement/
+||twitter.com/i/api/1.1/jot
 ||twitter.com/i/csp_report?
 ||twitter.com/i/jot
+||twitter.com^*/log.json
 ||typepad.com/t/stats?
 ||ua.indianexpress.com^
 ||uber.com/_events
