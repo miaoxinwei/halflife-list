@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VkG5hZMliEfzMc+UgF0nmw
+! Checksum: GWQKBILL+zfCg0w+FCWRfQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202306262032
-! Last Modified: 2023年06月26日 20:32
+! Version: 202306270219
+! Last Modified: 2023年06月27日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -21358,6 +21358,7 @@ _800x80_
 ##.rec_container_right
 ##.rec_title_footer
 ##[onclick*="content.ad/"]
+##.amp-ad-container
 ##.amp-adv-container
 ##.amp-article-ad-element
 ##.amp-flying-carpet-text-border
@@ -22961,6 +22962,7 @@ browsershots.org#@#.advert_area
 ||acceptabletally.com^
 ||access-mc.com^
 ||access.vidox.net^
+||accessdatatrack.com^
 ||accesshomeinsurance.co^
 ||accessiblescopevisitor.com^
 ||accessorydistantdepths.com^
@@ -24346,6 +24348,7 @@ browsershots.org#@#.advert_area
 ||anguishexperimental.com^
 ||anguishleague.com^
 ||anguishlonesome.com^
+||anguishworst.com^
 ||angularconstitution.com^
 ||anhdqnhxtx.xyz^
 ||anida.info^
@@ -24371,6 +24374,7 @@ browsershots.org#@#.advert_area
 ||annesuspense.com^
 ||annihilationefficient.com^
 ||anniversaryblaspheme.com^
+||annotationdiverse.com^
 ||annotationpushy.com^
 ||annotationsolely.com^
 ||annotationwednesdayplayground.com^
@@ -28021,6 +28025,7 @@ browsershots.org#@#.advert_area
 ||coronetkittles.com^
 ||coronisabv.com^
 ||corporategarnish.com^
+||corpulentoverdoselucius.com^
 ||corpulentrubber.com^
 ||corruptheedless.com^
 ||corsakpeize.com^
@@ -28426,6 +28431,7 @@ browsershots.org#@#.advert_area
 ||d869381a42af33b.com^
 ||d8b6aa51fe.com^
 ||d8b805b9a9.com^
+||d90be87e47.com^
 ||d95d7d7060.com^
 ||d9kvn70l4ogn.com^
 ||da-ads.com^
@@ -32210,6 +32216,7 @@ browsershots.org#@#.advert_area
 ||grooveworship.space^
 ||groowzer.com^
 ||grortalt.xyz^
+||gross-success.com^
 ||grosseaffiche.com^
 ||grossedoicks.com^
 ||grouisamrehr.com^
@@ -32596,7 +32603,6 @@ browsershots.org#@#.advert_area
 ||henoticpipi.com^
 ||henrithisheprat.com^
 ||hentaibiz.com^
-||hentaiheroes.com^
 ||hentaionline.net^
 ||henwilethysen.com^
 ||heodeidsoanadthe.info^
@@ -38067,6 +38073,7 @@ browsershots.org#@#.advert_area
 ||pampela.lol^
 ||pamperencourage.com^
 ||pampimty.com^
+||pamtuea.xyz^
 ||panaservers.com^
 ||panchaxcorylet.com^
 ||panchaxumbilic.com^
@@ -42253,6 +42260,7 @@ browsershots.org#@#.advert_area
 ||spinbiased.com^
 ||spinbox.net^
 ||spinbox1.com^
+||spinna.online^
 ||spinsterremnantstooped.com^
 ||spiralewiverns.website^
 ||spiralstab.com^
@@ -53706,6 +53714,7 @@ browsershots.org#@#.advert_area
 ||armyrecognition.com/images/stories/customer/
 ||artdaily.cc/banners/
 ||asgg.ghostbin.me^
+||atoplay.com/js/rtads.js
 ||atptour.com^*/sponsors/
 ||audiotag.info/images/banner_
 ||aurn.com/wp-content/banners/
@@ -64064,6 +64073,7 @@ newduba.cn###jq_youxi
 ||goxob6wo.icu^
 ||yupov6ks.icu^
 ||atbdkmt.xyz^
+||01v62.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -111726,6 +111736,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
+@@||d347cldnsmtg5x.cloudfront.net/util/1x1.gif$image,domain=aplaceforeverything.co.uk
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
