@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DOnwyOBA/9LlILDvmKTmNg
+! Checksum: xIN+1xxsVGYIgpe68nHXlA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307072032
-! Last Modified: 2023年07月07日 20:32
+! Version: 202307080219
+! Last Modified: 2023年07月08日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1785,6 +1785,7 @@ newduba.cn###jq_youxi
 ||berylnbb.com^
 ||bkhblj.xyz^
 ||hdpdrandpd.xyz^
+||ulojlvmejkaem.xyz^
 ||wuye3d.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^
@@ -11741,6 +11742,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||xchina.life/ad/
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 zhihu.com##.RichText-Ecommerce
@@ -22197,7 +22199,7 @@ m.babytree.com##script + a[class]
 .siteclarity.
 .sitetracking.
 .skimlinks.js
-.snowplowanalytics.
+.snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
 .tv/log?event
@@ -25261,6 +25263,7 @@ m.babytree.com##script + a[class]
 /thermostat.js
 /thixel.js
 /tiara/tracker/*
+/ticimax/analytics.js
 /tide_stat.js
 /tilda-stat-
 /timingcg.
@@ -35519,6 +35522,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
+||analytics.silktide.com^
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
@@ -36159,6 +36163,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||optimizely.com/js/geo.js
+||optimizely.techtarget.com^
 ||oracle.com/visitorinfo/
 ||oracleimg.com^*/metrics/
 ||outbound.io/v2/identify
@@ -36256,6 +36261,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reichelt.com/setsid.php?
 ||relay.fiverr.com^
 ||reports.tunein.com^
+||researchgate.net/track/
 ||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
 ||rfk.dsw.com/api/init/1/init.js

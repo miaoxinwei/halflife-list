@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wd39dF8K87PalgCYcJAsZw
+! Checksum: nQ38JEQTYc/Xrkynx2MgPQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307072032
-! Last Modified: 2023年07月07日 20:32
+! Version: 202307080219
+! Last Modified: 2023年07月08日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -28172,6 +28172,7 @@ browsershots.org#@#.advert_area
 ||cosmeticsgenerosity.com^
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
+||cosseterrits.com^
 ||costaquire.com^
 ||costatevamped.com^
 ||costhandbookfolder.com^
@@ -33250,6 +33251,7 @@ browsershots.org#@#.advert_area
 ||hunterlead.com^
 ||huntingarroyo.website^
 ||huppahshoras.com^
+||huradisbud.com^
 ||hurced.com^
 ||hurdlesmuchel.com^
 ||hurdleyreer.info^
@@ -33383,6 +33385,7 @@ browsershots.org#@#.advert_area
 ||idioticdeprint.com^
 ||idiotproprietary.com^
 ||idiotyet.com^
+||iditolshewn.com^
 ||idledifficulty.pro^
 ||idnbckbknxurmf.xyz^
 ||idownloadgalore.com^
@@ -38424,6 +38427,7 @@ browsershots.org#@#.advert_area
 ||paifemouchoa.com^
 ||paigna.com^
 ||paikaufy.com^
+||paikoaza.net^
 ||painfulpropaganda.com^
 ||painlessassumedbeing.com^
 ||painmidsummer.com^
@@ -53461,6 +53465,7 @@ browsershots.org#@#.advert_area
 ||d33nui33dvl0el.cloudfront.net^
 ||d33otidwg56k90.cloudfront.net^
 ||d347nuc6bd1dvs.cloudfront.net^
+||d34cixo0lr52lw.cloudfront.net^
 ||d34opff713c3gh.cloudfront.net^
 ||d34qb8suadcc4g.cloudfront.net^
 ||d34rdvn2ky3gnm.cloudfront.net^
@@ -63489,6 +63494,7 @@ newduba.cn###jq_youxi
 ||berylnbb.com^
 ||bkhblj.xyz^
 ||hdpdrandpd.xyz^
+||ulojlvmejkaem.xyz^
 ||wuye3d.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^
@@ -73445,6 +73451,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||xchina.life/ad/
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 zhihu.com##.RichText-Ecommerce
@@ -81599,7 +81606,7 @@ fqsousou.com,kengso.com#@#.user-share
 .siteclarity.
 .sitetracking.
 .skimlinks.js
-.snowplowanalytics.
+.snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
 .tv/log?event
@@ -84663,6 +84670,7 @@ fqsousou.com,kengso.com#@#.user-share
 /thermostat.js
 /thixel.js
 /tiara/tracker/*
+/ticimax/analytics.js
 /tide_stat.js
 /tilda-stat-
 /timingcg.
@@ -94921,6 +94929,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
+||analytics.silktide.com^
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
@@ -95561,6 +95570,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||optimizely.com/js/geo.js
+||optimizely.techtarget.com^
 ||oracle.com/visitorinfo/
 ||oracleimg.com^*/metrics/
 ||outbound.io/v2/identify
@@ -95658,6 +95668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reichelt.com/setsid.php?
 ||relay.fiverr.com^
 ||reports.tunein.com^
+||researchgate.net/track/
 ||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
 ||rfk.dsw.com/api/init/1/init.js
