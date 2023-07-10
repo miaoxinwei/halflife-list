@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4/W40biXYKa/AC4nbabXyg
+! Checksum: qv/c28Tu1ImgNyoni16Uvw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307101421
-! Last Modified: 2023年07月10日 14:21
+! Version: 202307102032
+! Last Modified: 2023年07月10日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -19,7 +19,7 @@ m.youku.com,v.youku.com##+js(m3u-prune,'',/^https:\/\/[\w\.]+ott\.cibntv\.net.+?
 atm.youku.com
 cad.youku.com
 @@||mmstat.com^$domain=youku.com
-||cibntv.net/youku/$media,mp4
+||cibntv.net/youku/$media
 ||valipl.cp31.ott.cibntv.net/$media
 !|https://static.youku.com/index/js/ikuAdapterNew.js
 ||sealine.youku.com/yk/*callback=adpagesdk$script
@@ -84,7 +84,7 @@ de.as.pptv.com
 ||osswc.pplive.cn/cccms/$image
 ||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
 pub.funshion.com
-1905.com##+js(json-prune,videolink)
+||relive.vodfile.m1905.com/video/qiantie202$media
 @@||tb.mgtv.com/sdk/*/ad-sdk.
 ad-survey.com
 ||video.da.mgtv.com/$media
@@ -1825,6 +1825,8 @@ newduba.cn###jq_youxi
 ||zfteiv.xyz^
 ||uyq3ruf.icu^
 ||duoying.vip^$third-party
+||erfskhnpter.xyz^
+||baiduvjsbvjknlsvsv.com^
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
@@ -8839,7 +8841,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||coolpc.com.tw/img/topweb.html
 ||copyfuture.com/images/zhifubao.jpg
 ||cornpic.com/images/*.gif
-||cosxcos.cc/uploads/aaybabc/
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -16543,7 +16544,6 @@ pixabay.com##div[class*="sponsoredWithResults"]
 wenku.baidu.com##div[class*="tiger-"][class*="-dialog"]
 yiche.com##div[class*="words-ad"]
 vpsmm.com##div[class*="xx"]
-cosxcos.cc##div[class*="yy"]
 ifeng.com##div[class="adbox02"]
 5119.cn##div[class="downDz"]
 ithome.com.tw##div[class="span4"]
