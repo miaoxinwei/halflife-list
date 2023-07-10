@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aNT5WeyuHswnpUuxCq3gzA
+! Checksum: B2GEkKokMx21q04gVOza7w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307100938
-! Last Modified: 2023年07月10日 09:38
+! Version: 202307101421
+! Last Modified: 2023年07月10日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -63595,6 +63595,8 @@ newduba.cn###jq_youxi
 ||lwide.xyz^
 ||pirxzl.xyz^
 ||zfteiv.xyz^
+||uyq3ruf.icu^
+||duoying.vip^$third-party
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zonyff.xyz^
@@ -69257,8 +69259,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||17173cdn.com/js/play/page/pThridPlayerAd.js
 ||1722t.com/js/jquery.js
 ||174.123.15.43:8080
-||17500.cn/Public/Mobile/img/enjoyswiss.jpg
-||17500.cn/template/images/*_960X90.
 ||178.com/glr.js
 ||17dm.com/s/common/js/*AD.js
 ||17gameworld.com/gmifr_lei.
@@ -69507,7 +69507,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||52dytt.net/images/bbs_btn.gif
 ||52dytt.net/img/zlgg.png
 ||52ghai.com/data/attachment/common/ac/
-||52jingsai.com/images/huanbao
 ||52movieba.com/img/ad
 ||52pk.com/style/files/images/*beitou.
 ||52rd.com/Pic/Click/
@@ -73530,6 +73529,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+188soft.com##.safety
+188soft.com##.cont_d_l_dow + .down-center
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75058,7 +75059,7 @@ tools.2345.com##._hb-box + .mod
 qq.com##._switchad
 pincong.rocks##.a-a
 gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
-cupfox.app##div[class*="-box"][class^="jsx-"]
+cupfox.app##.a2-box[class^="jsx-"]
 159i.com##.a1.style25
 159i.com##.a1d
 159i.com##.a2.style25
@@ -77856,7 +77857,6 @@ php.cn##.zwwad
 tuliu.com##.zx-advertising-box
 19lou.com##.zx-link
 foodmate.net##.zx_ad
-17house.com##.zx_xrhb
 wdzzz.com##.zz
 iqiyi.com##.zzVideo
 wdzzz.com##.zz_nr
@@ -81986,7 +81986,6 @@ fqsousou.com,kengso.com#@#.user-share
 /analyticsjs/*
 /analyticsScript.
 /analyticsscript_
-/analyticssdk.js
 /analyticstick.
 /analyticstrack.
 /analyticstracking.
@@ -85262,7 +85261,6 @@ fqsousou.com,kengso.com#@#.user-share
 /wmxtracker.js
 /woocommerce-google-adwords-conversion-tracking-tag/*
 /woopra.js
-/worldwide_analytics/*
 /wp-click-track/*
 /wp-clickmap/*
 /wp-content/plugins/confection/bridge.php
@@ -86876,7 +86874,6 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
-||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -92210,6 +92207,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.whisk.com^
 ||events.yourcx.io^
 ||eveonline.com/redir.asp$third-party
+||evergage.com/beacon/
 ||everyaction.com/v1/Track/
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/
@@ -115663,7 +115661,6 @@ ke.qq.com##.bottom-bar
 tuchong.com##.float
 baidu.com##.desktop-guide
 bilibili.com##.video-page-game-card
-bilibili.com##.video-page-game-card-small
 ldmnq.com##.dialog-game
 hupu.com###game-center-entrance-container
 hupu.com##DIV[class^="game-center-"]
