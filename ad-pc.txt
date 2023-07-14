@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YVz7+sB+1cKQE5IOTabFpQ
+! Checksum: YJoX2O9+Dk3ZuvZdR/OHrg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307140219
-! Last Modified: 2023年07月14日 02:19
+! Version: 202307140940
+! Last Modified: 2023年07月14日 09:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -56837,10 +56837,10 @@ coin360.com##.azJOX6
 smallseotools.com##.b
 dailyvoice.com##.b-banner
 hypestat.com##.b-error
-seattlepi.com##.b-gray300.bt
-chron.com##.b-gray300.bt.bb
-seattlepi.com##.b-gray300.md\:bt
-chron.com##.b-gray300.md\:bt.md\:bb
+seattlepi.com,sfgate.com##.b-gray300.bt
+chron.com,sfgate.com##.b-gray300.bt.bb
+seattlepi.com,sfgate.com##.b-gray300.md\:bt
+chron.com,sfgate.com##.b-gray300.md\:bt.md\:bb
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,search.frontier.com,searchguide.level3.com##.b-links
 kyivpost.com##.b-title
@@ -63619,6 +63619,12 @@ newduba.cn###jq_youxi
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zfcdirf.icu^
+||sfg11rr.com^
+||jhzfwl.cn^
+||chiese.site^
+||oopej.xyz^
+||lamkghx.icu^
+||pcvzpj.xyz^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^

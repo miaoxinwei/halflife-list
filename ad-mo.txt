@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t+Mm6EXeIP85hpOIJ8IOTQ
+! Checksum: wdTWPBFo2BD/f2ID/u46Ig
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307140219
-! Last Modified: 2023年07月14日 02:19
+! Version: 202307140940
+! Last Modified: 2023年07月14日 09:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -56725,10 +56725,10 @@ coin360.com##.azJOX6
 smallseotools.com##.b
 dailyvoice.com##.b-banner
 hypestat.com##.b-error
-seattlepi.com##.b-gray300.bt
-chron.com##.b-gray300.bt.bb
-seattlepi.com##.b-gray300.md\:bt
-chron.com##.b-gray300.md\:bt.md\:bb
+seattlepi.com,sfgate.com##.b-gray300.bt
+chron.com,sfgate.com##.b-gray300.bt.bb
+seattlepi.com,sfgate.com##.b-gray300.md\:bt
+chron.com,sfgate.com##.b-gray300.md\:bt.md\:bb
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,search.frontier.com,searchguide.level3.com##.b-links
 kyivpost.com##.b-title
@@ -63507,6 +63507,12 @@ newduba.cn###jq_youxi
 ||ymhyw6.lol^
 ||zerolcp.cn^
 ||zfcdirf.icu^
+||sfg11rr.com^
+||jhzfwl.cn^
+||chiese.site^
+||oopej.xyz^
+||lamkghx.icu^
+||pcvzpj.xyz^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
