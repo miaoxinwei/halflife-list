@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x9I86Bev7auwnv2mSGR3lw
+! Checksum: MpOukvSoBv3uqRnfyBbtoA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307172034
-! Last Modified: 2023年07月17日 20:34
+! Version: 202307180219
+! Last Modified: 2023年07月18日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -10390,6 +10390,7 @@ _800x80_
 ##.ad-context
 ##.ad-cover
 ##.ad-critical
+##.ad-cta
 ##.ad-ctn
 ##.ad-current
 ##.ad-curtain
@@ -26596,6 +26597,7 @@ browsershots.org#@#.advert_area
 ||catmustyhypothesis.com^
 ||catscanty.com^
 ||catspawquitu.website^
+||cattailaix.com^
 ||cattledisplace.com^
 ||catwenbat.com^
 ||catwrite.com^
@@ -28484,6 +28486,7 @@ browsershots.org#@#.advert_area
 ||dentofinauk.shop^
 ||dentwithought.com^
 ||deostr.com^
+||deotarevalue.com^
 ||deparn.com^
 ||departedbeings.com^
 ||departgross.com^
@@ -29015,6 +29018,7 @@ browsershots.org#@#.advert_area
 ||doucheraisiny.com^
 ||doufoacu.net^
 ||dougale.com^
+||douglaug.net^
 ||douhooke.net^
 ||douoblelimpup.com^
 ||dousersricking.com^
@@ -32768,6 +32772,7 @@ browsershots.org#@#.advert_area
 ||humiliating-risk.pro^
 ||humiliating-tradition.pro^
 ||humilityanytime.com^
+||humoralpurline.com^
 ||humordecomposebreathtaking.com^
 ||humpdecompose.com^
 ||humpdubious.com^
@@ -34400,6 +34405,7 @@ browsershots.org#@#.advert_area
 ||kyufqusjrt.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzkmmbrrzn.com^
+||l1native.com^
 ||l2ksixujfcg5.com^
 ||l3g3media.com^
 ||l44mobileinter.com^
@@ -34900,6 +34906,7 @@ browsershots.org#@#.advert_area
 ||lnk8j7.com^
 ||lnkrdr.com^
 ||lnkvv.com^
+||lnkyqvkyznkvz.top^
 ||lnpnhwfjcxcygo.xyz^
 ||lntriguingdate.net^
 ||lo8ve6ygour3pea4cee.com^
@@ -35004,6 +35011,7 @@ browsershots.org#@#.advert_area
 ||lorybnfh.com^
 ||loshrhaphae.com^
 ||losingoldfry.com^
+||losingsplowter.com^
 ||lositz.com^
 ||lotionmodule.com^
 ||lotosmarkkaa.com^
@@ -35691,6 +35699,7 @@ browsershots.org#@#.advert_area
 ||methoxyunpaled.com^
 ||methree-salien.icu^
 ||metingsaeta.com^
+||metinkuba.com^
 ||metonicthought.com^
 ||metosk.com^
 ||metredesculic.com^
@@ -36953,6 +36962,7 @@ browsershots.org#@#.advert_area
 ||null-point.com^
 ||nullboatloo.com^
 ||nullsrefilliron.com^
+||nulpailou.com^
 ||nultoaly.net^
 ||nulwhbbyfdxy.com^
 ||numberium.com^
@@ -39935,6 +39945,7 @@ browsershots.org#@#.advert_area
 ||rallyexpirehide.com^
 ||rallynabdoomed.com^
 ||rameejour.com^
+||rammagepatagia.com^
 ||rammersdarvon.com^
 ||rammishruinous.com^
 ||ramosz.lol^
@@ -41164,6 +41175,7 @@ browsershots.org#@#.advert_area
 ||sapiaostremma.com^
 ||sapsixysho.pro^
 ||saptiledispatch.com^
+||saptorge.com^
 ||sarafpdu.com^
 ||sarcasticdismalconstrue.com^
 ||sarcineamender.store^
@@ -42578,6 +42590,7 @@ browsershots.org#@#.advert_area
 ||stiffenshave.com^
 ||stiflerivers.com^
 ||stifletunnelsang.com^
+||stiftood.xyz^
 ||stigat.com^
 ||stiksaud.com^
 ||stilaikr.com^
@@ -44761,6 +44774,7 @@ browsershots.org#@#.advert_area
 ||urmavite.com^
 ||urmilan.info^
 ||urogramredfins.com^
+||urotoxykerch.com^
 ||urryjgwqjo.com^
 ||ursonewry.com^
 ||urswellsgrp.xyz^
@@ -44851,6 +44865,7 @@ browsershots.org#@#.advert_area
 ||uwoaptee.com^
 ||uxdfxyepfow.xyz^
 ||uxdwhatijun.xyz^
+||uxpascal.com^
 ||uyfpmhmqh.xyz^
 ||uyojnhqeipyb.xyz^
 ||uzelruth.com^
@@ -46967,6 +46982,7 @@ browsershots.org#@#.advert_area
 ||zuzodoad.com^
 ||zvetokr2hr8pcng09.com^
 ||zvhednrza.com^
+||zvjvkjereleaz.top^
 ||zvkytbjimbhk.com^
 ||zvwhrc.com^
 ||zwaar.net^
@@ -54616,6 +54632,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /?ref=$popup,domain=hltv.org
 /hkz*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
+/loadme/com/lazymolecule^$popup,script,domain=flixtor.video
 ||123moviesfree.world/hd-episode/$popup
 ||amazon-adsystem.com^$popup,domain=twitch.tv
 ||animesuge.to/?$popup
@@ -55002,6 +55019,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||pornxp.com/sp/
 ||pornxp.net/spnbf.js
 ||pornyhd.com/hillpop.php
+||pregchan.com/.static/pages/dlsite.html
 ||projectjav.com/scripts/projectjav_newpu.js
 ||puporn.com/xahnqhalt/
 ||pussycatxx.com/tab49fb22988.js
@@ -55311,6 +55329,7 @@ stakingrewards.com###asset-calculator-banner
 assamtribune.com###async_body_tags
 addictivetips.com###at_popup_modal
 cityandstateny.com###atlas-module
+dlraw.co,dlraw.to,manga-zip.info###avfap
 teamfortress.tv###aw
 gulte.com###awt_landing
 gayvegas.com###background
@@ -59339,7 +59358,7 @@ tetris.com##a[onclick*="open"]
 himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontimes.com##a[onclick]
 onetransistor.eu##a[onclick][target="_blank"]
 earlygame.com,i711.com##a[rel*="sponsored"]
-amishamerica.com##a[rel="nofollow"]
+amishamerica.com,flixtor.video##a[rel="nofollow"] > img
 gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
@@ -60780,7 +60799,6 @@ sexvid.xxx##.site_holder
 porn-monkey.com##.size-300x250
 simply-hentai.com##.skyscraper
 porngames.tv##.skyscraper_inner
-porngameshub.com##.slick-list
 pornhub.com##.sniperModeEngaged
 thelittleslush.com##.snppopup
 boycall.com##.source_info
@@ -62809,6 +62827,7 @@ newduba.cn###jq_youxi
 ##.adpc > .module
 ##.adpc > .promote-link
 ##.adpc > .promote-link-
+##.adpc > .promote-link_
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads-after-content
@@ -63158,7 +63177,6 @@ newduba.cn###jq_youxi
 ##a#wrapper_left_bg[target="_blank"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a.ad_links
-##.adpc > .promote-link_
 ##a.hengfu > img.hengfu
 ##a[href$=".cc:8443"]
 ##a[href$=".php"] > img[src*=".bcebos.com"]
@@ -63298,14 +63316,18 @@ newduba.cn###jq_youxi
 ##a[href*=".f2ocoin.com/"]
 ##a[href*="/9966699.vip"]
 ##a[href*="/mug749.vip"]
+||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
 ||52kuwang.cn^
+||a8age.com^
 ||abrnfctkn.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
+||baitaiz.com^
+||bbges.xyz^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
@@ -63335,6 +63357,7 @@ newduba.cn###jq_youxi
 ||dyeperd.icu^
 ||eghyahl.cn^
 ||erfskhnpter.xyz^
+||esgher.fun^
 ||esgher.site^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
@@ -63352,8 +63375,10 @@ newduba.cn###jq_youxi
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
+||hgf8hck.com^
 ||hikykhz.icu^
 ||hlnr9q.icu^
+||hohmaryt.com^
 ||hpvwdkn.cn^
 ||hsadeg.site^
 ||hstbrt.xyz^
@@ -63384,11 +63409,13 @@ newduba.cn###jq_youxi
 ||lifyeldl.top^
 ||lwide.xyz^
 ||metaversemolecule.com^
+||mifyeldx.top^
 ||misapopait.com^
 ||mlstx.cn^
 ||moobtcnse.xyz^
 ||ngbthf.xyz^
 ||nieae.xyz^
+||njogejt.icu^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -63424,6 +63451,7 @@ newduba.cn###jq_youxi
 ||ulojlvmejkaem.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
+||vnfsbl.xyz^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -63432,26 +63460,17 @@ newduba.cn###jq_youxi
 ||xiaoxiuapp.com^
 ||xjzyhp.xyz^
 ||xmxupz.xyz^
+||xpcwrgy.cn^
+||xtbzff.xyz^
 ||xukou.net^
 ||yh18h8s.com^
 ||ymhyw6.lol^
 ||zcvyzsyd.icu^
-||hgf8hck.com^
-||esgher.fun^
-||xpcwrgy.cn^
-||njogejt.icu^
-||vnfsbl.xyz^
-||bbges.xyz^
-||xtbzff.xyz^
-||1379a.xyz^
-||zifyeldq.top^
-||zexfzson.icu^
-||baitaiz.com^
-||hohmaryt.com^
-||mifyeldx.top^
 ||zerolcp.cn^
+||zexfzson.icu^
 ||zfcdirf.icu^
 ||zfteiv.xyz^
+||zifyeldq.top^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -73382,8 +73401,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-ikandy1.com##A[href*="/ky-a.html"]
-18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="50%"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75268,6 +75285,7 @@ pilifx.com##.alltop
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="20%"] > a[target="_blank"]
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="25%"]
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="33%"]
+18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="50%"]
 gugeys.cc##.am-g
 maguays.cc##.animate-bounce-up
 gufengmh.com##.animated
@@ -77871,6 +77889,7 @@ php.cn##a[href*="/go."]:not([href*="Fwww.php"])
 dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 cableabc.com##a[href*="/img1/"]
 ooopn.com##a[href*="/jump.html"]
+ikandy1.com##a[href*="/ky-a.html"]
 ithome.com##a[href*="/lapin."]
 ithome.com##a[href*="/lapin."] + .ad
 jandan.net##a[href*="/money.php?"]
