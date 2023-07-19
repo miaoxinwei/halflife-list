@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HINR1dUACFhJU8pFDUcgKw
+! Checksum: T5mLUP7+HyO1uqOfOMPC7A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307191039
-! Last Modified: 2023年07月19日 10:39
+! Version: 202307191418
+! Last Modified: 2023年07月19日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1935,6 +1935,8 @@ newduba.cn###jq_youxi
 ||epoid.xyz^
 ||nnfyxd.xyz^
 ||ddush.xyz^
+||jutwzssh.icu^
+||nifyeldc.top^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -30137,6 +30139,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gorgeousground.com^
 ||gracefulsock.com^
 ||grandioseguide.com^
+||grandfatherguitar.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -30670,6 +30673,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shesubscriptions.com^
 ||shinesavage.com^
 ||shinestuart.com^
+||shirtsidewalk.com^
 ||shiveringspot.com^
 ||shiverscissors.com^
 ||shockinggrass.com^
@@ -36272,6 +36276,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plenty.vidio.com^
 ||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
+||pm.geniusmonkey.com^
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poptropica.com/brain/track.php?
@@ -36509,6 +36514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
+||tc.geniusmonkey.com^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
 ||telegraph.prd.api.max.com^
