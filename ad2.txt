@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yBcd3Fd9hfH9u8AYuIfISQ
+! Checksum: bMWZ8yPGyWZVs/vNYrri+Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202307191418
-! Last Modified: 2023年07月19日 14:18
+! Version: 202307192028
+! Last Modified: 2023年07月19日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1604,6 +1604,7 @@ newduba.cn###jq_youxi
 ##.wwads
 ##.wwads-cn
 ##.wzad
+##div[onclick*="/ky"][onclick*="open"]
 ##.xstui-content__acc
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
@@ -19694,6 +19695,8 @@ wnacg.com##script + div > a > img
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
 189.cn#@##linkShare
+yunpan.com#@#.share-wrapper
+yunpan.com#@#.share-new
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list
 zhihu.com#@#.FollowButton
