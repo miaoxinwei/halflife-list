@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LOX6uI6m/QV6mZx3p54/5w
+! Checksum: OKuOvCUly5qGplC/HWbiRg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307201418
-! Last Modified: 2023年07月20日 14:18
+! Version: 202307202029
+! Last Modified: 2023年07月20日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1948,6 +1948,8 @@ newduba.cn###jq_youxi
 ||lrlsrz.xyz^
 ||wddsva0.com^
 ||rilwzsit.icu^
+||wnzle.com^
+||52acc.cn^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -22469,7 +22471,6 @@ m.babytree.com##script + a[class]
 /afftracking.
 /aftrack.
 /aggbug.aspx?
-/agwebtracking_
 /ahoy/events
 /ahoy/visits
 /AIT_Analytics.
@@ -22480,12 +22481,8 @@ m.babytree.com##script + a[class]
 /ajax/heatmap-
 /ajax/log?
 /ajax/stat/*
-/ajax/track.php?
 /ajax_video_counter.php?
 /ajaxlog?
-/ajaxstat/*
-/ajaxtracker.
-/ajx/ptrack/*
 /akam/*/pixel_
 /akam/10/*
 /akam/11/*
@@ -22537,7 +22534,6 @@ m.babytree.com##script + a[class]
 /analytics-event/*
 /analytics-events-
 /analytics-facade.
-/analytics-gcp.
 /analytics-gjc/*
 /analytics-helper.
 /analytics-hit?
@@ -22549,15 +22545,11 @@ m.babytree.com##script + a[class]
 /analytics-ping.
 /analytics-plugin/*
 /analytics-pusher/*
-/analytics-reporter/*
-/analytics-scripts.
 /analytics-sdk.
 /analytics-secure.
-/analytics-sendEvent
 /analytics-tag.
 /analytics-tracker/*
 /analytics-tracking.
-/analytics-v1.
 /analytics.*/event?
 /analytics.*/ping/?
 /analytics.*/track
@@ -25713,8 +25705,6 @@ m.babytree.com##script + a[class]
 /v1/pixel?
 /v1/stats/track
 /v1/tracker.js
-/v2/tracking/*
-/v4/analytics.
 /v4/analytics/*$~xmlhttprequest
 /v4/metrics
 /v60.js
@@ -31879,7 +31869,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||leadhit.ru^$third-party
 ||leadslabpixels.net^$third-party
 ||lentainform.com^$third-party
-||livetex.ru^$third-party,domain=~livetex.github.io
 ||logua.com^$third-party
 ||logxp.ru^$third-party
 ||logz.ru^$third-party
@@ -32563,6 +32552,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
+||collector.dmp.cnna.io^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
@@ -33904,6 +33894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.jobsyn.org^
 ||t.mail.sony-europe.com/r/?
 ||t.menepe.com^
+||t.metrilo.com^
 ||t.pointandplace.com^
 ||t.powerreviews.com^$third-party
 ||t.pswec.com^
@@ -34083,6 +34074,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.cerdmann.com^
 ||tracking.chilipiper.com^
 ||tracking.dealeranalytics.com^
+||tracking.diginetica.net^
 ||tracking.drsfostersmith.com^$third-party
 ||tracking.drum.io^
 ||tracking.dsmmadvantage.com^
@@ -54788,6 +54780,7 @@ arketing.indianadunes.com^
 ||log.ren.tv^
 ||log.rutube.ru^
 ||mail.ru/count/
+||metrika.kontur.ru^
 ||mirtesen.ru/js/ms.js
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
@@ -54899,6 +54892,7 @@ arketing.indianadunes.com^
 ||glami.com.tr/tracker/
 ||haberler.com/dinamik/
 ||hstats.hepsiburada.com^
+||iys.org.tr/mti-popts.js
 ||p.milliyet.com.tr^
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
