@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: INZlUP99ZdL9+CangucfMQ
+! Checksum: +6JYVDMDqEpm9x8Qbt+Vrg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307200217
-! Last Modified: 2023年07月20日 02:17
+! Version: 202307200916
+! Last Modified: 2023年07月20日 09:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -28018,6 +28018,7 @@ browsershots.org#@#.advert_area
 ||crottlerennin.com^
 ||crowbarorchat.uno^
 ||crowdgravity.com^
+||crpcruynxxc.com^
 ||crptentry.com^
 ||crptgate.com^
 ||crrepo.com^
@@ -30736,6 +30737,7 @@ browsershots.org#@#.advert_area
 ||fierysolemncow.com^
 ||fifishlbs.com^
 ||fifteenthhardboiledbanker.com^
+||fifthjournalisminadequate.com^
 ||figgleimpregn.com^
 ||fighes.com^
 ||fighla.com^
@@ -33423,6 +33425,7 @@ browsershots.org#@#.advert_area
 ||inlandpiereel.com^
 ||inmespritr.com^
 ||inminuner.com^
+||inncreasukedrev.info^
 ||innessabigeat.space^
 ||innity.net^
 ||innocenceexpeditionsensation.com^
@@ -36174,6 +36177,7 @@ browsershots.org#@#.advert_area
 ||momentpalpate.store^
 ||momijoy.ru^
 ||mommaseclat.com^
+||mommygravelyslime.com^
 ||monadplug.com^
 ||monadvs.com^
 ||monarchracistsparkle.com^
@@ -50034,6 +50038,7 @@ browsershots.org#@#.advert_area
 ||initialbanisters.com^$popup
 ||initiateheavilycurrentinfo-product.info^$popup
 ||injusticeamend.com^$popup
+||inncreasukedrev.info^$popup
 ||innocenceexpeditionsensation.com^$popup
 ||innovid.com^$popup,third-party
 ||inoradde.com^$popup
@@ -53584,6 +53589,7 @@ browsershots.org#@#.advert_area
 ||d3lvr7yuk4uaui.cloudfront.net^
 ||d3lw2k94jnkvbs.cloudfront.net^
 ||d3m4hp4bp4w996.cloudfront.net^
+||d3m8nzcefuqu7h.cloudfront.net^
 ||d3m9ng807i447x.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -63781,6 +63787,14 @@ newduba.cn###jq_youxi
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||vvdzucs.cn^
+||jjklrcw.com^
+||nxhwvt.xyz^
+||ghland.site^
+||enhad.xyz^
+||ntozchv.icu^
+||fwepd.xyz^
+||lrlsrz.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -91411,7 +91425,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||leadhit.ru^$third-party
 ||leadslabpixels.net^$third-party
 ||lentainform.com^$third-party
-||livetex.ru^$third-party
+||livetex.ru^$third-party,domain=~livetex.github.io
 ||logua.com^$third-party
 ||logxp.ru^$third-party
 ||logz.ru^$third-party
