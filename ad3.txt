@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cDTj37mxN9oyOWfEuCHcIA
+! Checksum: x6FeGA9qx8baNmI3Ug0FVw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307210218
-! Last Modified: 2023年07月21日 02:18
+! Version: 202307210917
+! Last Modified: 2023年07月21日 09:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1953,6 +1953,17 @@ newduba.cn###jq_youxi
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
+||zxrcfw.com^
+||hgehse.site^
+||jzdgn.cn^
+||yyuivw6.com^
+||vhjxrj.xyz^
+||xeynozl.icu^
+||feiln.xyz^
+||lbnqnp.xyz^
+||rifyeldz.top^
+||gjipd.xyz^
+||hongteng.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
@@ -26479,6 +26490,7 @@ _mongo_stats/
 ||fpcdn.io^
 ||fptls.com^
 ||fptls2.com^
+||fptls3.com^
 ||funnelserv.systems^
 ||fzlnk.com^
 ||g10300385420.co^
@@ -34279,6 +34291,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||widgeo.net/hitparade.php
 ||widgeo.net/tracking.php?
 ||widget-pixels.outbrain.com^
+||widget.educationdynamics.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
 ||widgets.sprinklecontent.com/v2/sprinkle.js
@@ -36196,6 +36209,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||n26-trusted.n26.com^
 ||naiz.eus/visits
 ||namethatporn.com/assets/imgs/1x1.gif
+||narkive.com/ajax/TelemV2?
 ||nasi.etherscan.com^
 ||nature.com/platform/track/
 ||naukrigulf.com/ni/nibms/bms_display.php
@@ -36263,6 +36277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
 ||pf.newegg.com^
+||ph.thenextweb.com^
 ||phonearena.com/_track.php
 ||pikbest.com/?m=Stats&
 ||ping.hungama.com^
@@ -54682,6 +54697,7 @@ arketing.indianadunes.com^
 ||15min.lt/cached/tgif$~third-party
 ||lrytas.lt/counter/
 ||click.vgnett.no^
+||data.nrk.no^
 ||nrk.no^*/stats/
 ||stats.proff.no^
 ||tdep.hema.nl/main.js
@@ -54750,6 +54766,7 @@ arketing.indianadunes.com^
 ||2gis.ru/_/metrics
 ||3dnews.ru/track
 ||4pda.ru/stat/
+||a.pikabu.ru^
 ||ad.mail.ru/static/sync-loader.js
 ||ad7.bigmir.net^
 ||adme.media/metric-collector
@@ -54794,6 +54811,7 @@ arketing.indianadunes.com^
 ||odnoklassniki.ru/dk?cmd=videoStatNew
 ||ok.ru/dk?cmd=videoStatNew
 ||ozon.ru/tracker/
+||pikabu.ru/apps/*/analytics.js
 ||pixels.boxberry.ru^
 ||pulsarback.mail.ru^
 ||rabota.by/analytics?
@@ -54910,6 +54928,7 @@ arketing.indianadunes.com^
 ||meta.ua/c.asp?
 ||piccy.info/c?
 ||piccy.org.ua/c?
+||remp.nv.ua^
 ||sport.ua/pixel/
 ||target.ukr.net^
 ||analytics.aita.gov.vn^
