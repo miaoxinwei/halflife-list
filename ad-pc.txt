@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w3jlPKPTWMyPwczLfo+XTQ
+! Checksum: yn5lQS/DwlNv2n4EzVQN0A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307232025
-! Last Modified: 2023年07月23日 20:25
+! Version: 202307240215
+! Last Modified: 2023年07月24日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3625,7 +3625,6 @@ tieba.baidu.com##.tuijian-wrap
 /taboola-footer.
 /taboola-header.
 /taboola_7.4.1.js
-/taboola_ads.js
 /taboola_header.
 /taboolaArticle.
 /taboolaSection.
@@ -18044,6 +18043,7 @@ _800x80_
 ##.myAds
 ##.myAdsGroup
 ##.myTestAd
+##.my__container__ad
 ##.myadmid
 ##.myinarticlead
 ##.narrow_ad_unit
@@ -21587,6 +21587,7 @@ browsershots.org#@#.advert_area
 ||12805b86d6.com^
 ||12d59da1e2.com^
 ||12dc71b7cb820f2a.com^
+||12ezo5v60.com^
 ||130gelh8q.de^
 ||13646d7b78.com^
 ||136dd8678f.com^
@@ -21671,6 +21672,7 @@ browsershots.org#@#.advert_area
 ||1knhg4mmq.de^
 ||1lbk62l5c.de^
 ||1lj11b2ii.de^
+||1m72cfole.de^
 ||1niao20230410.live^
 ||1nimo.com^
 ||1nqrqa.de^
@@ -23788,6 +23790,7 @@ browsershots.org#@#.advert_area
 ||allyenitwasbr.com^
 ||allyes.com^
 ||allypublicity.com^
+||allywasnothyc.info^
 ||almapa2.com^
 ||almareepom.com^
 ||almasatten.com^
@@ -23929,6 +23932,7 @@ browsershots.org#@#.advert_area
 ||amoddishor.com^
 ||amonar.com^
 ||amonor.com^
+||amontp.com^
 ||amountdonutproxy.com^
 ||amourmelilot.com^
 ||amouroachoo.com^
@@ -25173,6 +25177,7 @@ browsershots.org#@#.advert_area
 ||bangedprone.com^
 ||bangedwouldrecorded.com^
 ||bangingpunk.com^
+||bangrighteous.com^
 ||bangtopads.com^
 ||bangtyranclank.com^
 ||bangute.xyz^
@@ -28213,6 +28218,7 @@ browsershots.org#@#.advert_area
 ||d28dc30335.com^
 ||d29gqcij.com^
 ||d2ship.com^
+||d31rse9wo0bxcx.cloudfront.net^
 ||d37aacdbcc.com^
 ||d38190um0l9h9v.cloudfront.net^
 ||d3d98dc11c.com^
@@ -29408,6 +29414,7 @@ browsershots.org#@#.advert_area
 ||duwcacahfa.com^
 ||duwsikdimo.com^
 ||dvaminusodin.net^
+||dvfkpfgqyauuux.com^
 ||dviccvivms.com^
 ||dvigukindal.com^
 ||dvjkmskks.xyz^
@@ -29610,6 +29617,7 @@ browsershots.org#@#.advert_area
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||eclogicmeows.com^
+||econenectedith.info^
 ||economicalgobetween.com^
 ||economyobserver.com^
 ||econth.com^
@@ -32483,6 +32491,7 @@ browsershots.org#@#.advert_area
 ||haulstugging.com^
 ||haunchbelongings.com^
 ||haunigre.net^
+||haunowho.net^
 ||hauphuchaum.com^
 ||hausic.com^
 ||hauthoun.xyz^
@@ -32495,6 +32504,7 @@ browsershots.org#@#.advert_area
 ||havils.com^
 ||havingsreward.com^
 ||haviouseulom.club^
+||havocsbilaan.com^
 ||hawkyeye5ssnd.com^
 ||hawsquallgenerate.com^
 ||hawsuffer.com^
@@ -34016,6 +34026,7 @@ browsershots.org#@#.advert_area
 ||jewhouca.net^
 ||jewisk.com^
 ||jewith.com^
+||jewscane.digital^
 ||jezailjazzmen.com^
 ||jf71qh5v14.com^
 ||jfivafkigju.com^
@@ -34883,6 +34894,7 @@ browsershots.org#@#.advert_area
 ||lcfooiqhro.com^
 ||lcjiusbyqfpdo.com^
 ||lcreatessque.xyz^
+||ldclxgkcy.xyz^
 ||ldehffofpeqr.com^
 ||ldforeyesheha.info^
 ||ldimnveryldgittl.com.ua^
@@ -35405,6 +35417,7 @@ browsershots.org#@#.advert_area
 ||lqriubyebqo.top^
 ||lr-in.com^
 ||lrepampipa.com^
+||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
 ||lrwksobdw.com^
 ||lrzzqvzjejqwn.top^
@@ -36063,6 +36076,7 @@ browsershots.org#@#.advert_area
 ||mghkpg.com^
 ||mgrattedropenrigh.xyz^
 ||mgtxdntxkx.com^
+||mgyccfrshz.com^
 ||mh9dskj8jg.com^
 ||mhadsd.com^
 ||mhgshawy.guru^
@@ -39495,6 +39509,7 @@ browsershots.org#@#.advert_area
 ||prefleks.com^
 ||pregamepluteal.com^
 ||pregnancyreproducepalace.com^
+||prehealpaster.guru^
 ||prehem.com^
 ||prehistoriceast.com^
 ||preideanested.com^
@@ -40317,6 +40332,7 @@ browsershots.org#@#.advert_area
 ||qvjpjsglmvhcbv.xyz^
 ||qvol.tv^
 ||qwa3ldhn9u0t.com^
+||qwaapgxfahce.com^
 ||qwerfdx.com^
 ||qwertytracks.com^
 ||qwtag.com^
@@ -43773,6 +43789,7 @@ browsershots.org#@#.advert_area
 ||telescopespinal.com^
 ||televeniesuc.pro^
 ||televoxretoast.com^
+||telingabureaus.top^
 ||telinteredlmewhl.xyz^
 ||telllwrite.com^
 ||tellmadeirafireplace.com^
@@ -44825,6 +44842,7 @@ browsershots.org#@#.advert_area
 ||tvqqrycnutpp.com^
 ||tvxetxjvobm.com^
 ||twangedcored.com^
+||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||twdjklxt.com^
 ||tweenydone.website^
@@ -45976,6 +45994,7 @@ browsershots.org#@#.advert_area
 ||vtaos.xyz^
 ||vtaov.lol^
 ||vtaov.xyz^
+||vtbrcixnca.com^
 ||vtiipxfdtnkaau.com^
 ||vtjfplukwxolkgw.xyz^
 ||vtrnpueqtqke.xyz^
@@ -47349,6 +47368,7 @@ browsershots.org#@#.advert_area
 ||yydtbpms8tf4.com^
 ||yydwkkxhjb.com^
 ||yygszlgor.com^
+||yyjngvuaqrdgghs.com^
 ||yyjvimo.com^
 ||yyptyrrjba.xyz^
 ||yyselrqpyu.com^
@@ -48476,6 +48496,7 @@ browsershots.org#@#.advert_area
 ||nativeads.com^$third-party
 ||nativemedia.rs^$third-party
 ||nativeroll.tv^$third-party
+||nativery.com^$third-party
 ||nativespot.com^$third-party
 ||neobux.com^$third-party
 ||neodatagroup.com^$third-party
@@ -54471,6 +54492,7 @@ browsershots.org#@#.advert_area
 ||gfrevenge.com/vbanners/
 ||girlsfuck-tube.com/js/aobj.js
 ||go.clicknplay.to^
+||go.telorku.xyz/hls/iklan.js
 ||go2cdn.org/brand/$third-party
 ||hardbritlads.com/banner/
 ||hardcoreluv.com/hmt.gif
@@ -56346,6 +56368,7 @@ actvid.com,f2movies.to,fmovies.ink,fmovies.ps,fmoviesto.cc,himovies.to,movies2wa
 stackoverflow.com###hireme
 techmeme.com###hiring
 thecountersignal.com###home-ad-1
+gunbroker.com###home-ad-a-wrapper
 transfermarkt.com###home-rectangle-spotlight
 downloadsafer.com###homebannerbottom
 hometheaterreview.com###homepagehorizontalad
@@ -57712,6 +57735,7 @@ dailymail.co.uk,thisismoney.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
 washingtontimes.com##.connatixcontainer
 beincrypto.com##.cont-wrapper
+whatismyip.net##.container > .panel[id]
 redditsave.com##.container > center
 marketwatch.com##.container--sponsored
 mangakakalot.com##.container-chapter-reader > div
@@ -58919,7 +58943,7 @@ actionnetwork.com##.promotion-table
 throwawaymail.com##.promotion_row
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
-planetrugby.com##.ps-block-a
+planetf1.com,planetrugby.com##.ps-block-a
 kathmandupost.com##.pt-0
 gonintendo.com##.pt-5
 seattlepi.com##.pt40
@@ -60973,6 +60997,7 @@ imagebam.com###cs-link
 pornhub.com###customSkin
 hentaiprn.com###custom_html-19
 celebritymovieblog.com,interracial-girls.com###custom_html-2
+watchjavonline.com###custom_html-3
 dpfantasy.org,hotcelebshome.com###custom_html-4
 eporner.com###deskadmiddle
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
@@ -63350,6 +63375,7 @@ ubmcmm.baidustatic.com
 ###bottomAD
 ###bottomNavad
 ###bottombanner
+###bottommob.bottommob
 ###breadCrumb + .c + .t[style="margin-top:8px"]
 ###breadCrumb + .t[style="margin-top:8px"]
 ###cat_intro_first_ad
@@ -64072,7 +64098,6 @@ newduba.cn###jq_youxi
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
-###bottommob.bottommob
 ##script + #rbbox
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[href^="https://l.hyenadata.com/"]
@@ -64099,9 +64124,9 @@ newduba.cn###jq_youxi
 ||154.22.214.2^
 ||154.7.80.158^
 ||194.59.220.161^
+||23.231.151.252^
 ||23.234.217.11^
 ||23.234.217.12^
-||23.231.151.252^
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*="/9966699.vip"]
@@ -64135,19 +64160,24 @@ newduba.cn###jq_youxi
 ||c4d4.cn^
 ||caider.fun^
 ||ccnim.xyz^
+||cdmjur.xyz^
 ||chiese.site^
 ||ciadre.fun^
 ||cix0wk.com^
 ||connectreadoasis.com^
 ||csedasdme.xyz^
+||cslbahf.top^
 ||cuioxbqi.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
 ||dafdf.cn^
 ||dalld.xyz^
+||dbnwlp.xyz^
 ||dd778899dd.com^
 ||ddush.xyz^
+||dehaer.site^
+||dghhot.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -64158,6 +64188,7 @@ newduba.cn###jq_youxi
 ||duoying.vip^$third-party
 ||dyeperd.icu^
 ||eghyahl.cn^
+||ekdky.cn^
 ||enhad.xyz^
 ||epoid.xyz^
 ||erfskhnpter.xyz^
@@ -64191,6 +64222,7 @@ newduba.cn###jq_youxi
 ||hgehse.site^
 ||hgf8hck.com^
 ||hikykhz.icu^
+||hiqua.xyz^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
 ||hohmaryt.com^
@@ -64199,12 +64231,14 @@ newduba.cn###jq_youxi
 ||hqgearb.icu^
 ||hsadeg.site^
 ||hstbrt.xyz^
+||hubiazhi.com^
 ||huoju.asia^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
 ||iplm.cc^
+||iqede.xyz^
 ||janwzsqi.icu^
 ||jdcnwd.com^
 ||jh16csf.com^
@@ -64220,9 +64254,12 @@ newduba.cn###jq_youxi
 ||jutwzssh.icu^
 ||jzdgn.cn^
 ||kahgjjd.com^
+||kasiklz.cc^
 ||kdvmnn.com^
 ||kgeesh.site^
 ||kl91ccp.com^
+||kljslku.com^
+||kv8899.com^
 ||kxm1b0u.com^
 ||kyplpw.com^
 ||kyq3hky.icu^
@@ -64251,6 +64288,7 @@ newduba.cn###jq_youxi
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||ntozchv.icu^
+||nunxhv.com^
 ||nxhwvt.xyz^
 ||oifyeldk.top^
 ||one6u.xyz^
@@ -64258,6 +64296,7 @@ newduba.cn###jq_youxi
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
+||pcqsajr.icu^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
@@ -64293,6 +64332,7 @@ newduba.cn###jq_youxi
 ||toastspinner.com^
 ||tqdctl.xyz^
 ||tvdpebx.cn^
+||tvrshv.xyz^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
 ||uyq3ruf.icu^
@@ -64317,6 +64357,7 @@ newduba.cn###jq_youxi
 ||xjzyhp.xyz^
 ||xmxupz.xyz^
 ||xpcwrgy.cn^
+||xpicj1.cc^
 ||xtbzff.xyz^
 ||xukou.net^
 ||yh18h8s.com^
@@ -64329,22 +64370,6 @@ newduba.cn###jq_youxi
 ||zfcdirf.icu^
 ||zfteiv.xyz^
 ||zifyeldq.top^
-||kljslku.com^
-||ekdky.cn^
-||pcqsajr.icu^
-||dehaer.site^
-||dbnwlp.xyz^
-||xpicj1.cc^
-||iqede.xyz^
-||tvrshv.xyz^
-||kasiklz.cc^
-||kv8899.com^
-||cslbahf.top^
-||cdmjur.xyz^
-||nunxhv.com^
-||dghhot.com^
-||hiqua.xyz^
-||hubiazhi.com^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
@@ -72890,7 +72915,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mnrrk.com/yuhe/ote/js/pcgg.js
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
-||moe123.net/static/img/1200x
+||moe48.com/static/img/1200x
 ||moedao.com/js/top.js
 ||moegirl.org.cn/insight/MoegirlInsight.
 ||moerats.com/usr/affpc/
@@ -76058,7 +76083,7 @@ molure.cn##.adplan
 ifeng.com##.adpubpic
 doc88.com##.adpx250
 gamme.com.tw##.adread
-0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,moe123.net,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
+0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
 appinn.com##.ads-m
 360.cn##.ads-pic
 shejidaren.com##.ads-post-foot
@@ -79783,7 +79808,7 @@ i-cable.com#@#.video_ad
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
-android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe123.net,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
+android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
