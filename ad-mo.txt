@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mhLUCufAV3ZM2veQOklfFQ
+! Checksum: TCMHdYsWQnaWd+tbeI5wfA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307251418
-! Last Modified: 2023年07月25日 14:18
+! Version: 202307252030
+! Last Modified: 2023年07月25日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -26007,6 +26007,7 @@ browsershots.org#@#.advert_area
 ||bourranuncurbs.com^
 ||boustahe.com^
 ||bousyshock.com^
+||bouwehee.xyz^
 ||bovemtou.xyz^
 ||bowed-common.pro^
 ||boweddemand.com^
@@ -26308,6 +26309,7 @@ browsershots.org#@#.advert_area
 ||burstcravecraving.com^
 ||burstingdipper.com^
 ||bursulasnags.com^
+||burtonsugar.com^
 ||burydibase.com^
 ||bushesawaitfeminine.com^
 ||bushicitrals.com^
@@ -37495,6 +37497,7 @@ browsershots.org#@#.advert_area
 ||oaujswgofu.com^
 ||oaxoulro.com^
 ||oaxpcohp.com^
+||oazartie.com^
 ||oazoorse.com^
 ||obbdarhmos.com^
 ||obbfpykcoa.com^
@@ -74479,8 +74482,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ali213.net/Pics/*/down_popup_
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ali213.net##.detailAlertBox > a[style]
 itdog.cn##.div-top > .row > div[class]
 itdog.cn##.col-12 > .card.mb-3[style="padding: 5px;"]
 szxx.com.cn###A1
