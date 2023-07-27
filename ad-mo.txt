@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lMgnzUg+YC2tiPio7O/YyA
+! Checksum: mrid+hguUnjyPbR2SW85eg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307270908
-! Last Modified: 2023年07月27日 09:08
+! Version: 202307271417
+! Last Modified: 2023年07月27日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -518,7 +518,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 .cn/sc/*?n=$script,third-party
 .com/?ad=
 .com/a?pagetype
-.com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com
+.com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com|~wsj.com
 .com/ad?
 .com/adds/
 .com/adinf/
@@ -1992,11 +1992,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /banner.ca?
 /banner.cgi?
 /banner.engine?
-/banner.gif?
-/banner.htm?
 /banner.php
-/banner.ws?
-/banner/ad.
 /banner/ad/*
 /banner/ad_
 /banner/ads/*
@@ -2109,21 +2105,13 @@ pan.baidu.com##.upload-bar.global-clearfix
 /bsa-pro-
 /bserver/*
 /btads/*
-/bundle/ads.
-/bundles/Ad/*
-/bundles/ads-
 /bunyad_
-/burt/adv_
-/button_ads/*
 /buttonad/*
 /buttonads.
 /buttonads/*
-/buyad.
 /buyclicks/*
-/buyer/dyad/*
 /buysellads-
 /buysellads.
-/buzz/ads/*
 /cache/ads_
 /call/pubif/*
 /call/pubj/*
@@ -2139,17 +2127,10 @@ pan.baidu.com##.upload-bar.global-clearfix
 /cdn.ads.
 /cds.ad.
 /centerads.
-/central/ads/*
 /cgi-bin/ad/*
 /cgi-bin/ads.
 /cgi-bin/ads/*
 /cgi-bin/ads_
-/cgi-exe/ad.
-/cgi/ad_
-/china-ad.
-/chorus_ads.
-/chrome-ad.
-/ck.php?nids
 /clever_ads.js
 /click/zone?
 /click?adv=
@@ -2157,14 +2138,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /clickboothad.
 /clicksor.$domain=~clicksor.com
 /clickunder.
-/client/ads.
-/clients/ads/*
 /clkads.
-/cm/ads/*
 /cmg_ad.
-/cmlink/ads-
 /cms/ads/*
-/cms/js/ad_
 /cms_ads/*
 /cnads.js
 /code/native.js?h=$script
@@ -2216,7 +2192,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /cpmrect.
 /cpx-ad.
 /cpxads.
-/crazyad.
 /csp/ads?
 /css/ads-
 /css/ads300_
@@ -2236,10 +2211,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /customads/*
 /customadsense.
 /customerad_
-/cutead.
-/cvs/ads/*
-/cxf-ad-banner
-/daily/ads/*
 /dart_ads.
 /dart_ads/*
 /dartad/*
@@ -37195,6 +37166,7 @@ browsershots.org#@#.advert_area
 ||noddlegoop.com^
 ||nodouslover.com^
 ||nodulhrwxdptbc.com^
+||noearon.click^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
 ||nofashot.com^
@@ -54953,6 +54925,7 @@ browsershots.org#@#.advert_area
 ||celebstoner.com/assets/images/img/sidebar/$image
 ||centent.stemplay.cc^
 ||clarksvilleonline.com/cols/
+||cloudfront.net/j/wsj-prod.js$domain=wsj.com
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
 ||cloudfront.net^$domain=titantv.com
 ||coincheck.com/images/affiliates/
@@ -55145,7 +55118,6 @@ browsershots.org#@#.advert_area
 ||manytoon.com/script/$script
 ||marineterms.com/images/banners/
 ||marketscreener.com/content_openx.php
-||marketwatch.com/asset/ace/ace.min.js
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masternodes.online/baseimages/
 ||maxgames.com/img/sponsor_
@@ -56484,6 +56456,7 @@ thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
 vscode.one###flamelab-convo-widget
+nanoreview.net###float-sb-right
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
 streams.tv###flowerInGarden
 12tomatoes.com###footboard
@@ -58876,6 +58849,7 @@ hoteldesigns.net##.n2-ss-slider
 naturalblaze.com##.n553lfzn75
 mail.google.com##.nH.PS
 cryptobriefing.com##.na-item.item
+nanoreview.net##.nad_only_desktop
 nascar.com##.nascar-ad-container
 allthatsinteresting.com##.native-box
 blockchair.com##.native-sentence
@@ -64627,6 +64601,21 @@ newduba.cn###jq_youxi
 ||bxackzj.icu^
 ||islbaho.top^
 ||rjzqtz.xyz^
+||mmead.xyz^
+||zfvltd.xyz^
+||nmkghh.com^
+||unjld.com^
+||knjmhmk.com^
+||jnhgm.com^
+||lkmhn.com^
+||jknnjk.com^
+||okmhmkjnm.com^
+||ujnkn.com^
+||yhhnjg.com^
+||nhjkm.com^
+||ssnnn.net^
+||hghjks2.com^
+||a9able.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -93828,6 +93817,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||organiccdn.io/assets/sdk/monitor.unit-sdk.js
 ||organicfruitapps.com/analytics/
 ||orts.wixawin.com^$third-party
+||osano.com/js/?action_name=
 ||outbrain.com/nanoWidget/externals/cookie/
 ||outbrain.com/widgetOBUserSync/
 ||outbrain.com^*/widgetStatistics.js
