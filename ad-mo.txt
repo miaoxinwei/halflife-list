@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mrid+hguUnjyPbR2SW85eg
+! Checksum: 5doLPcr0yhZm9s4FCg6o1w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307271417
-! Last Modified: 2023年07月27日 14:17
+! Version: 202307272028
+! Last Modified: 2023年07月27日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1795,7 +1795,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /advertisements-
 /advertisements?
 /advertisements_
-/advertisers/*$domain=~ad-maven.com|~ads.pinterest.com|~datalift360.com|~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com|~publisuites.com|~qubeslate.com
 /advertiserwidget.
 /advertising-$image,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising/banner_
@@ -14629,6 +14628,7 @@ _800x80_
 ##.banner_ad_full
 ##.banner_ad_leaderboard
 ##.banner_ad_link
+##.banner_ad_wrapper
 ##.banner_ads
 ##.banner_ads1
 ##.banner_ads_300x250
@@ -57979,6 +57979,7 @@ infowars.com##.css-1vj1npn
 healthline.com,medicalnewstoday.com##.css-1wm8u43
 stylist.co.uk##.css-8me5ln
 eviemagazine.com##.css-9n98hk
+nytimes.com##.css-bs95eu
 pgatour.com##.css-cl2hq
 eviemagazine.com##.css-ipk9pc
 nytimes.com##.css-oeful5
@@ -64616,6 +64617,8 @@ newduba.cn###jq_youxi
 ||ssnnn.net^
 ||hghjks2.com^
 ||a9able.com^
+||uxtruz.xyz^
+||8861198.com^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -93980,7 +93983,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
 ||r.skimresources.com^
-||r.stripe.com^
+||r.stripe.com^$script
 ||rackcdn.com/gate.js
 ||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?
@@ -96471,6 +96474,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||link.kogan.com^
 ||link2.strawberrynet.com^$image
 ||linkedin.com/collect/
+||linkedin.com/li/track$xmlhttprequest
 ||linkedin.com/litms/utag/
 ||linkedin.com/platform-telemetry/
 ||linkedin.com/sensorCollect/
@@ -96829,6 +96833,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
+||statista.com/data/ptm.gif
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
