@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: waBhHSMsZqLkV2hVQ008cg
+! Checksum: WMQMWpLxr4eOXaSp2/1H1A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307280910
-! Last Modified: 2023年07月28日 09:10
+! Version: 202307281417
+! Last Modified: 2023年07月28日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -20838,6 +20838,7 @@ _800x80_
 ##hl-adsense
 ##img[src^="https://images.purevpnaffiliates.com"]
 ##ps-connatix-module
+##span[data-ez-ph-id]
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
@@ -57259,6 +57260,7 @@ planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
 mope.io##.Home__home-ad-wrapper
 artsy.net##.IITnS
 sporcle.com##.IMGgi
+streamingsites.com##.IPdetectCard
 inverness-courier.co.uk##.LLKGTX
 kentonline.co.uk##.LeaderBack
 apnews.com##.Leaderboard
@@ -59674,6 +59676,8 @@ dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 inyourarea.co.uk##.style_advertisementMark_1Jki4
 inyourarea.co.uk##.style_cardWrapper_ycKf8
 nationalheraldindia.com##.styles-m__dfp__3T0-C
+streamingsites.com##.styles_adverticementBlock__FINvH
+streamingsites.com##.styles_backdrop__8uFQ4
 troypoint.com##.su-box
 buzzfeed.com##.subbuzz-bfp--connatix_video
 gearspace.com##.subforum-sponsor
@@ -64763,6 +64767,9 @@ newduba.cn###jq_youxi
 ||liitwrz.icu^
 ||tptp002.cfd^
 ||bzxvtj.xyz^
+||statisfile.com^
+||rtborp.xyz^
+||nnqwe.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
