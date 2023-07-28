@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WMQMWpLxr4eOXaSp2/1H1A
+! Checksum: iNy8hYbl33Zix4RLyYV7+w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202307281417
-! Last Modified: 2023年07月28日 14:17
+! Version: 202307282027
+! Last Modified: 2023年07月28日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -29314,6 +29314,7 @@ browsershots.org#@#.advert_area
 ||drjgjngf.com^
 ||drkness.net^
 ||dronedgentile.com^
+||dronelskipper.com^
 ||droppalpateraft.com^
 ||droppedbanking.com^
 ||drovernomine.com^
@@ -34021,6 +34022,7 @@ browsershots.org#@#.advert_area
 ||jarvispopsu.com^
 ||jaseysbionomy.com^
 ||jashautchord.com^
+||jasheest.xyz^
 ||jaspercrozes.com^
 ||jatostepa.com^
 ||jatsekse.net^
@@ -38288,6 +38290,7 @@ browsershots.org#@#.advert_area
 ||otween.com^
 ||otwwtutujwa.com^
 ||ouaker.com^
+||oucaibie.net^
 ||ouchojig.xyz^
 ||ouchruse.com^
 ||oudseroa.com^
@@ -42948,6 +42951,7 @@ browsershots.org#@#.advert_area
 ||soupevents.com^
 ||soupteep.xyz^
 ||souptrip.com^
+||sourishpuler.com^
 ||sourne.com^
 ||sourtophulsean.space^
 ||sousefulhea.buzz^
@@ -49128,6 +49132,7 @@ browsershots.org#@#.advert_area
 ||trustx.org^$third-party
 ||trytada.com^$third-party
 ||tubeadvertising.eu^$third-party
+||twads.gg^$third-party
 ||tyroo.com^$third-party
 ||ubercpm.com^$third-party
 ||ultrapartners.com^$third-party
@@ -64770,6 +64775,7 @@ newduba.cn###jq_youxi
 ||statisfile.com^
 ||rtborp.xyz^
 ||nnqwe.xyz^
+||svarub.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -96451,6 +96457,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||freepik.*/download.gif?
 ||freepik.com/_ga?
 ||freeplayervideo.com/cdn-cgi/trace
+||freeprivacypolicy.com/track/
 ||fresnel-events.vimeocdn.com^
 ||ft.com/ingest?
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
