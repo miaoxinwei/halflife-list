@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: P71VjJw7+ALqxWLXyAZnvA
+! Checksum: V7X26E3igWAq9T1CSsRsIg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202307292024
-! Last Modified: 2023年07月29日 20:24
+! Version: 202307300215
+! Last Modified: 2023年07月30日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1778,6 +1778,7 @@ newduba.cn###jq_youxi
 ||8861198.com^
 ||a8age.com^
 ||a9able.com^
+||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
@@ -1825,6 +1826,7 @@ newduba.cn###jq_youxi
 ||dd778899dd.com^
 ||ddush.xyz^
 ||dehaer.site^
+||destc8.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
@@ -1835,6 +1837,7 @@ newduba.cn###jq_youxi
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
 ||dyeperd.icu^
+||eamqbaqzaewwq.top^
 ||eghyahl.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
@@ -1849,6 +1852,7 @@ newduba.cn###jq_youxi
 ||ewfsef.com^
 ||eyq3nog.icu^
 ||falsarywaybung.com^
+||fantuan.name^
 ||fddxbn.xyz^
 ||feiln.xyz^
 ||fhglcpf.icu^
@@ -1905,6 +1909,7 @@ newduba.cn###jq_youxi
 ||jhzfwl.cn^
 ||jjade.xyz^
 ||jjklrcw.com^
+||jjztrz.xyz^
 ||jklhs7u.com^
 ||jknnjk.com^
 ||jnhgm.com^
@@ -1913,9 +1918,11 @@ newduba.cn###jq_youxi
 ||jpqed.xyz^
 ||jpvrbt.xyz^
 ||jrmrijv.icu^
+||jslbaha.top^
 ||jszavs1.com^
 ||jujcjz.xyz^
 ||jutwzssh.icu^
+||jvjlkih.com^
 ||jzdgn.cn^
 ||jzixypd.icu^
 ||jzxpxj.xyz^
@@ -1976,6 +1983,7 @@ newduba.cn###jq_youxi
 ||okmhmkjnm.com^
 ||one6u.xyz^
 ||oopej.xyz^
+||ooqwc.xyz^
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
@@ -2031,6 +2039,8 @@ newduba.cn###jq_youxi
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
 ||tseda6.icu^
+||tushwjp.icu^
+||tuwaqtjcood.com^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||ty8bz.com^
@@ -2076,6 +2086,7 @@ newduba.cn###jq_youxi
 ||yuifgh.fun^
 ||yyuivw6.com^
 ||zcvyzsyd.icu^
+||zddpnf.xyz^
 ||zerolcp.cn^
 ||zexfzson.icu^
 ||zfcdirf.icu^
@@ -2084,17 +2095,6 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||destc8.icu^
-||jvjlkih.com^
-||fantuan.name^
-||jjztrz.xyz^
-||jslbaha.top^
-||zddpnf.xyz^
-||tushwjp.icu^
-||ooqwc.xyz^
-||eamqbaqzaewwq.top^
-||tuwaqtjcood.com^
-||abdluv.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -10083,6 +10083,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||itavcn.com/pic/news/201802/20180207/image/050N2.gif
 ||itbaoku.cn/Content/jms_
 ||itbear.com.cn/abc/list-and-
+||itbulu.com/banner/
 ||itc.*^prod=ad&
 ||itc.cn/?prod=rtb&
 ||itc.cn/activity/activity_js/changyan_config_
@@ -12025,7 +12026,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||itbulu.com/banner/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -19534,8 +19534,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 @@||230book.com/images/bqg.js$domain=230book.net
 @@||dushu.ru^$script,domain=bhshu.net
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
-bookrb.com##a[href="/rmtj.html"]
 bamxs.com##body > a
+bookrb.com##a[href="/rmtj.html"]
 bxwx888.org###addiv3
 bxwx888.org###bdstatic
 duanwenxue.com##.qgzdwx
