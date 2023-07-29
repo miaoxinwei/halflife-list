@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SvmrUh9xeBO89WY2X9Qvyg
+! Checksum: xUBmtX2YVo4EYpI+2W4jfQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202307291415
-! Last Modified: 2023年07月29日 14:15
+! Version: 202307292024
+! Last Modified: 2023年07月29日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -58109,6 +58109,7 @@ investing.com##.dfp-native
 investing.com##.dfpVideo
 dailyfx.com##.dfx-article__sidebar
 kiplinger.com##.dianomi_gallery_wrapper
+kmplayer.com##.dim-layer
 coingape.com##.diplay-m-ad
 temporary-phone-number.com##.direct-chat-messages > div[style="margin:15px 0;"]
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
@@ -59199,7 +59200,7 @@ coingape.com,dailyboulder.com,townflex.com##.quads-location
 surfline.com##.quiver-google-dfp
 tgstat.com##.r1-aors
 calendar-canada.ca##.r89-outstream-video
-joins.com##.r_banner
+joins.com,kmplayer.com##.r_banner
 linuxtopia.org##.raCloseButton
 time.is##.rad
 wahm.com##.rad-links
@@ -59611,7 +59612,7 @@ patriotnationpress.com##.t2ampmgy
 sbenny.com##.t3-masthead
 emoneyspace.com##.t_a_c
 ucompares.com##.tablepress-id-46
-6abc.com##.taboola
+6abc.com,abcnews.go.com##.taboola
 gizmodo.com,kotaku.com,theonion.com,theroot.com##.taboola-container
 protocol.com##.tag-sponsored
 spectrum.ieee.org##.tag-type-whitepaper
@@ -60260,7 +60261,8 @@ ghostbin.me##a[href*=".short.gy/"]
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
 chicagoprowrestling.com##a[href*="//www.aliciashouse.org/"] > img
 itweb.co.za##a[href*="/adclick.php?"]
-torrentgalaxy.to##a[href*="/hub.php?a"][target="_blank"]
+torrentgalaxy.to##a[href*="/fetchdownload.php?"]
+torrentgalaxy.to##a[href*="/hub.php?a"][target]
 breakingbelizenews.com,cardealermagazine.co.uk,headfonics.com,igorslab.de,landline.media,mikesmoneytalks.ca,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
 movie-censorship.com##a[href*="/out.php?"]
 imagetwist.com##a[href*="/par/"]
@@ -64688,6 +64690,9 @@ newduba.cn###jq_youxi
 ||zddpnf.xyz^
 ||tushwjp.icu^
 ||ooqwc.xyz^
+||eamqbaqzaewwq.top^
+||tuwaqtjcood.com^
+||abdluv.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -74618,6 +74623,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||itbulu.com/banner/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -82127,6 +82133,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 @@||dushu.ru^$script,domain=bhshu.net
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 bookrb.com##a[href="/rmtj.html"]
+bamxs.com##body > a
 bxwx888.org###addiv3
 bxwx888.org###bdstatic
 duanwenxue.com##.qgzdwx
@@ -92718,6 +92725,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ariane.abtasty.com^
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
+||assets.yumpu.com/release/*/tracking.js
 ||asterpix.com/tagcloudview/
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
@@ -93116,6 +93124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2wa5sea6guof0.cloudfront.net^
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
+||dashboard.nowdialogue.com/api/events/
 ||data.circulate.com^
 ||data.digitalks.az^
 ||data.eetech.com^
@@ -93403,6 +93412,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
+||geoip.apps.avada.io^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
