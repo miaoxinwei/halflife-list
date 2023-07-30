@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Vm8Qz/A/5mwsq8KW1sP5Fg
+! Checksum: vF6DysMO2K1fTLWQyN1ntw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307301416
-! Last Modified: 2023年07月30日 14:16
+! Version: 202307302025
+! Last Modified: 2023年07月30日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2103,6 +2103,7 @@ newduba.cn###jq_youxi
 ||jtbunh.xyz^
 ||akdie.xyz^
 ||hnfnjn.xyz^
+||ijgbuj.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -17530,7 +17531,7 @@ ishangman.com#@#.bottom_ad
 douban.com#@#.download-ad
 typecho.wiki#@#.downloadad
 petrochina.com.cn#@#.ggbox
-bbt.tv,btbt.tv,fiime.cn,mmiyue.com,qcheng.cc,xbeibeix.com#@#.google-ad
+bbt.tv,btbt.tv,fiime.cn,mmiyue.com,qcheng.cc#@#.google-ad
 apk.tw#@#.google_ad
 adbug.cn#@#.google_ads
 mobile01.com#@#.googlead
@@ -17684,6 +17685,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||51img1.com/??*/adsys.
 @@||520call.me/ad/ad_1.php
 @@||520call.me/jspopunder.
+@@||xbeibeix.com^$generichide
 @@||520call.me^$generichide
 @@||520cc.cc/ad/$script
 @@||520cc.cc/ad/ad_1.php
@@ -55179,6 +55181,7 @@ arketing.indianadunes.com^
 @@||1001trackstats.com/api/$xmlhttprequest,domain=songstats.com
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||8tm.net/static/img/fbpixel.png$~third-party
+@@||ab.blogs.es/abtest.png$domain=trendencias.com|xataka.com
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
@@ -55314,6 +55317,7 @@ arketing.indianadunes.com^
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
 @@||identity.mparticle.com^$xmlhttprequest
+@@||ikea.com^*/assets/analyticsEvent.component-$script,~third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
