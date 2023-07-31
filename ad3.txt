@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mHzS00itYyAQSOJ7RyVhUQ
+! Checksum: 0+E300VmiB9w2BMOemZySg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307310215
-! Last Modified: 2023年07月31日 02:15
+! Version: 202307310913
+! Last Modified: 2023年07月31日 09:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -188,6 +188,7 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/api/Video/GetAdsDataList?
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -2104,6 +2105,15 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
+||eers0cy.com^
+||hqzcths.cn^
+||thesac2.top^
+||hmjhnkas.com^
+||puy2.cn^
+||lskmipb.icu^
+||bcejk.xyz^
+||rddsjx.xyz^
+||hxhohd.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -12036,6 +12046,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||iyf.tv/play/$xmlhttprequest
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -19486,7 +19497,6 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 ##vg-pause-ads
 @@/ads.js$domain=iyf.tv
 ||dnvodcdn.me/fast/*.mp4
-||flyv.tv/a/$xmlhttprequest
 ||s1-a1.dnvodcdn.me^*.svg
 !#e
 !#f
@@ -26763,6 +26773,7 @@ _mongo_stats/
 ||p2r14.com^
 ||p7cloud.net^
 ||pageid.info^
+||peiq.de^
 ||permutive.app^
 ||pippio.com^
 ||pix.pub^
@@ -26840,6 +26851,7 @@ _mongo_stats/
 ||tru.am^
 ||truffle.bid^
 ||trx-hub.com^
+||try-snowplow.com^
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
@@ -28587,6 +28599,7 @@ _mongo_stats/
 ||publicgood.com^$third-party
 ||publicidees.com^$third-party
 ||publishflow.com^$third-party
+||publytics.net^$third-party
 ||pubperf.com^$third-party
 ||pubplus.com^$third-party
 ||pubstack.io^$third-party
@@ -35220,6 +35233,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
 ||bemail.it^*/analytics.js
+||blasterzone.it/analytics/
 ||click.kataweb.it^
 ||cnt.iol.it^
 ||d32hwlnfiv2gyn.cloudfront.net^
@@ -36508,6 +36522,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qwant.com/impression/
 ||qwant.com/maps/events
 ||qwant.com/v2/api/ux/surveys?
+||qwerpdf.com/trk23/
 ||r.bbci.co.uk^
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
@@ -36667,6 +36682,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamtape.cc/stat/
 ||streamtape.com/stat/
 ||streamtape.to/stat/
+||streamtape.xyz/stat/
 ||streamtapeadblock.art/stat/
 ||streamtapeadblockuser.art/stat/
 ||streamtapeadblockuser.homes/stat/
@@ -54133,6 +54149,7 @@ arketing.indianadunes.com^
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||teltarif.de/ttt.go?
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
@@ -54161,6 +54178,7 @@ arketing.indianadunes.com^
 ||tracking.fupa.net^
 ||tracking.grosseladies.de^
 ||tracking.hobbyladies.de^
+||tracking.immobilienscout24.de^
 ||tracking.jungeladies.de^
 ||tracking.krone.at^
 ||tracking.kussladies.de^
