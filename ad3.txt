@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0+E300VmiB9w2BMOemZySg
+! Checksum: 7/IdklJSKy8J8PHANOVhkw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307310913
-! Last Modified: 2023年07月31日 09:13
+! Version: 202307311418
+! Last Modified: 2023年07月31日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2114,6 +2114,7 @@ newduba.cn###jq_youxi
 ||bcejk.xyz^
 ||rddsjx.xyz^
 ||hxhohd.xyz^
+||kslbahd.top^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -32449,6 +32450,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appspot.com/event?
 ||appspot.com/stats?
 ||appspot.com/take?
+||arc.pub/clavis/training/events
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
 ||argos.citruserve.com^
@@ -32741,6 +32743,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector-soompi.viki.io^
 ||collector.api.video^
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
