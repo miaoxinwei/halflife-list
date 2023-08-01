@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z0tDvj3vlg1m+un9bR76Gg
+! Checksum: Ftbr6+Uuf/n8hL0iEIhdzg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202308010918
-! Last Modified: 2023年08月01日 09:18
+! Version: 202308011419
+! Last Modified: 2023年08月01日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1721,9 +1721,8 @@ newduba.cn###jq_youxi
 ##.addddddwarp
 ##.adlistcss
 ##.adpc > .module
-##.adpc > .promote-link
-##.adpc > .promote-link-
-##.adpc > .promote-link_
+##.adpc > .promot-link-
+##.adpc > .promot-link_
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads-after-content
@@ -12504,9 +12503,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
+||yii666.com/ad/dynamic-
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+yii666.com##.widget-asst > p > a[href^="http"]:not([href*="yii666.com"])
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18028,6 +18029,7 @@ andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.
 tangdoucdn.com#@#.video-ad
 i-cable.com#@#.video_ad
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
+yii666.com#@#.google-ad
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
