@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MaTOEX64tBVv6EGuqbgvfA
+! Checksum: FK3SbXachztmlf+uvvqr6Q
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202308021417
-! Last Modified: 2023年08月02日 14:17
+! Version: 202308022028
+! Last Modified: 2023年08月02日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2584,6 +2584,9 @@ newduba.cn###jq_youxi
 ||suy5x8.com^
 ||northcookie.xyz^
 ||sslbahb.top^
+||xukang09.cn^
+||likdie.com^
+||ihwdun.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -12753,7 +12756,7 @@ juxia.com###fmt
 apk.tw###focus
 news.qq.com###focus-bar
 qq.com###focus_jordon
-fuliba2023.net,fuliba23.net,uliba.net###focusslide
+fuliba2023.net,fuliba.net,uliba.net###focusslide
 bitauto.com###folieAdNews
 jxedt.com###footer
 ttzmz.vip###footer > div[style]
@@ -16415,7 +16418,7 @@ fulibl.cc##.widget_text:last-child
 py91.net##.widget_textads
 jsphp.net##.widget_tuijian
 aeink.com##.widget_ui_adsf
-4spaces.org,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
+4spaces.org,fuliba2023.net,fuliba.net,uliba.net,ypojie.com##.widget_ui_orbui
 hit180.com##.widget_ui_orbui:nth-child(-n+2)
 aeink.com##.widget_ui_textads
 swoole.com##.wiki-resource
