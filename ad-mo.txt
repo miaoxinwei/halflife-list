@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CswCGBcd+0unviaVNSN0yg
+! Checksum: VruURkqVnqATGt71fkXYQg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308022028
-! Last Modified: 2023年08月02日 20:28
+! Version: 202308030216
+! Last Modified: 2023年08月03日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -12529,6 +12529,7 @@ _800x80_
 ##.ads-bottom-right
 ##.ads-box
 ##.ads-box-border
+##.ads-box-cont
 ##.ads-bt
 ##.ads-btm
 ##.ads-by
@@ -20955,6 +20956,10 @@ so-net.ne.jp#@##ad-p3
 techymedies.com#@##ad-top
 afterdawn.com,download.fi,edukas.fi#@##ad-top-banner-placeholder
 ufoevidence.org#@##ad-wrapper
+sdf-event.sakura.ne.jp#@##ad_1
+sdf-event.sakura.ne.jp#@##ad_2
+sdf-event.sakura.ne.jp#@##ad_3
+sdf-event.sakura.ne.jp#@##ad_4
 streetinsider.com#@##ad_space
 adtunes.com#@##ad_thread_first_post_content
 linuxtracker.org#@##adbar
@@ -22693,6 +22698,7 @@ browsershots.org#@#.advert_area
 ||admiringinsightstops.com^
 ||admission.net^
 ||admissionreceipt.com^
+||admitad-connect.com^
 ||admitad.com^
 ||admith.com^
 ||admitoutspokensupreme.com^
@@ -23473,6 +23479,7 @@ browsershots.org#@#.advert_area
 ||alimonyarmisticesnap.com^
 ||alinesappels.com^
 ||alipromo.com^
+||alitems.co^
 ||alitems.com^
 ||alitems.site^
 ||alklinker.com^
@@ -23895,6 +23902,7 @@ browsershots.org#@#.advert_area
 ||anxiouslyconsistencytearing.com^
 ||anxiouslywonderexcitement.com^
 ||anxioussituation.com^
+||anxkuzvfim.com^
 ||anybodytoldsieve.com^
 ||anyhowunplat.uno^
 ||anymad.com^
@@ -24081,6 +24089,7 @@ browsershots.org#@#.advert_area
 ||ardsdusknoiron.com^
 ||ardslediana.com^
 ||ardspalkiator.com^
+||ardunorwest.life^
 ||areantaid.site^
 ||areasnap.com^
 ||areelbagwyn.com^
@@ -25679,6 +25688,7 @@ browsershots.org#@#.advert_area
 ||bmhenchlyica.xyz^
 ||bmkz57b79pxk.com^
 ||bmpgkspo.xyz^
+||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
 ||bmzmeugzar.com^
@@ -27319,6 +27329,7 @@ browsershots.org#@#.advert_area
 ||coherenceinvest.com^
 ||coherentinflationescort.com^
 ||coherepeasant.com^
+||cohertfause.uno^
 ||coholy.com^
 ||coilincomplete.com^
 ||coinad.media^
@@ -27383,6 +27394,7 @@ browsershots.org#@#.advert_area
 ||combotag.com^
 ||comdrbonum.website^
 ||come-get-s0me.com^
+||come-get-s0me.net^
 ||comeadvertisewithus.com^
 ||comedyauto.com^
 ||comedyrent.com^
@@ -27854,6 +27866,7 @@ browsershots.org#@#.advert_area
 ||crumbumgristly.space^
 ||crummygoddess.com^
 ||crumplylenient.com^
+||crumpsbogbean.com^
 ||crunchybears.com^
 ||crunodedysuric.digital^
 ||crushedignoring.com^
@@ -29606,6 +29619,7 @@ browsershots.org#@#.advert_area
 ||effixtile-inceive.com^
 ||effortfranzbloodless.com^
 ||effusedprankle.com^
+||egcqohrksmlmu.xyz^
 ||eggcupsfriends.com^
 ||eggerscorr.com^
 ||egglessunfrees.uno^
@@ -30599,6 +30613,7 @@ browsershots.org#@#.advert_area
 ||fertilrouts.com^
 ||ferventhoaxresearch.com^
 ||fessoovy.com^
+||festinsages.website^
 ||festivalexcitinghypocrisy.com^
 ||festivefranchisetorrent.com^
 ||festtube.com^
@@ -30879,6 +30894,7 @@ browsershots.org#@#.advert_area
 ||fobeetch.net^
 ||focalex.com^
 ||focath.com^
+||focoidsatt.uno^
 ||focumu.com^
 ||fodderripeskyscraper.com^
 ||foetusconductfold.com^
@@ -31788,6 +31804,7 @@ browsershots.org#@#.advert_area
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
+||gnashedmaypops.digital^
 ||gnditiklas.com^
 ||gnjxesyfensbh.com^
 ||gnosticwinks.com^
@@ -32152,6 +32169,7 @@ browsershots.org#@#.advert_area
 ||guasarestant.com^
 ||gubopedruph.com^
 ||guchihyfa.pro^
+||gudouzov.com^
 ||guemalgist.com^
 ||guerrerevisal.website^
 ||guerrilla-links.com^
@@ -32907,6 +32925,7 @@ browsershots.org#@#.advert_area
 ||htlbid.com^
 ||htmonster.com^
 ||htoptracker11072023.com^
+||htsysxlupdqe.com^
 ||htthereflewove.xyz^
 ||httpsecurity.org^
 ||htwrildnk.xyz^
@@ -34768,6 +34787,7 @@ browsershots.org#@#.advert_area
 ||lanksnail.com^
 ||lankychaosrun.com^
 ||lanopoon.net^
+||lanqbzawvmwe.top^
 ||lansukse.xyz^
 ||lanternpossibly.com^
 ||lantodomirus.com^
@@ -35855,6 +35875,7 @@ browsershots.org#@#.advert_area
 ||meagerdrawing.pro^
 ||meagplin.com^
 ||meakam.com^
+||mealierbani.digital^
 ||mealplanningideas.com^
 ||meandiminutionhit.com^
 ||meanspowersmotives.com^
@@ -36552,6 +36573,7 @@ browsershots.org#@#.advert_area
 ||multicoloredsteak.pro^
 ||multimater.com^
 ||multipletrustedpc.com^
+||mumblesmisrun.space^
 ||mumcreator.com^
 ||mumgenericcourt.com^
 ||mumiti.xyz^
@@ -36817,6 +36839,7 @@ browsershots.org#@#.advert_area
 ||ndbegantoti.xyz^
 ||ndblowthroug.info^
 ||ndbriolenproc.buzz^
+||ndccouuyotn.com^
 ||ndds0001.com^
 ||ndds0002.com^
 ||ndedaphon.com^
@@ -37159,6 +37182,7 @@ browsershots.org#@#.advert_area
 ||noksauxi.com^
 ||nolrougn.com^
 ||nomadsdata.com^
+||nomadsfit.com^
 ||nomadtricesurfing.com^
 ||nomathoo.net^
 ||nomeuspagrus.com^
@@ -38696,6 +38720,7 @@ browsershots.org#@#.advert_area
 ||peaterylebes.guru^
 ||peatmanpols.store^
 ||pebadu.com^
+||pebansokes.uno^
 ||pebiieygwt.com^
 ||pecialukizeias.info^
 ||pecism.com^
@@ -40043,6 +40068,7 @@ browsershots.org#@#.advert_area
 ||pupilmudwort.com^
 ||pupilorgansmad.com^
 ||pupspu.com^
+||pupur.net^
 ||puqobfkghmyb.com^
 ||purchasefastidiouswindfall.com^
 ||purchaserteddy.com^
@@ -40156,6 +40182,7 @@ browsershots.org#@#.advert_area
 ||putainalen.com^
 ||putate.com^
 ||putbid.net^
+||putfeableand.info^
 ||putfeepea.site^
 ||putrefyvarioushumorous.com^
 ||putrescentheadstoneyoungest.com^
@@ -40619,6 +40646,7 @@ browsershots.org#@#.advert_area
 ||reasonableoakdejection.com^
 ||reasoningarcherassuage.com^
 ||reasus.com^
+||reatasfibro.uno^
 ||reate.info^
 ||reautecryable.life^
 ||rebakeassets.com^
@@ -40668,6 +40696,7 @@ browsershots.org#@#.advert_area
 ||recommendedseizedbewildered.com^
 ||recompensecombinedlooks.com^
 ||reconsiderallowinggunfire.com^
+||record.guts.com^
 ||record.rizk.com^
 ||recordeditionneedful.com^
 ||recorderbenefactortriggers.com^
@@ -40896,6 +40925,7 @@ browsershots.org#@#.advert_area
 ||repentancematernity.com^
 ||repentbits.com^
 ||repercussionspoonsbuiltin.com^
+||repetitioustaint.com^
 ||rephaseeg.com^
 ||replacebarhandkerchief.com^
 ||replacementreluctance.com^
@@ -41549,6 +41579,7 @@ browsershots.org#@#.advert_area
 ||russellseemslept.com^
 ||russianballoons.com^
 ||russiaroman.com^
+||russif.com^
 ||rustgenerations.com^
 ||rusticaula.com^
 ||rusticsnoop.com^
@@ -41982,6 +42013,7 @@ browsershots.org#@#.advert_area
 ||seethafo.xyz^
 ||sefsdvc.com^
 ||sefulheadde.info^
+||segrea.com^
 ||segreencolumn.com^
 ||seibertspart.com^
 ||seizecrashsophia.com^
@@ -42914,6 +42946,7 @@ browsershots.org#@#.advert_area
 ||spellingunacceptable.com^
 ||spellsvolume.com^
 ||speltzpataca.guru^
+||spened.com^
 ||spentbennet.com^
 ||sperans-beactor.com^
 ||spewsserved.website^
@@ -45144,6 +45177,7 @@ browsershots.org#@#.advert_area
 ||ulmoyc.com^
 ||ulmxelnonbeao.xyz^
 ||uloadeeksurvey.space^
+||uloaludu.xyz^
 ||ulourgaz.net^
 ||ulrzovfukgkljw.com^
 ||ultimatumloftyharvest.com^
@@ -45174,6 +45208,7 @@ browsershots.org#@#.advert_area
 ||unacceptableclevercapable.com^
 ||unaces.com^
 ||unafeed.com^
+||unanac.com^
 ||unanimouslyrejectproperly.com^
 ||unaptsullens.com^
 ||unarbokor.com^
@@ -45463,6 +45498,7 @@ browsershots.org#@#.advert_area
 ||urbund.com^
 ||urdant.com^
 ||urechar.com^
+||urediumshirker.website^
 ||ureticdesorb.com^
 ||urgoldpie.club^
 ||urimnugocfr.com^
@@ -45493,6 +45529,7 @@ browsershots.org#@#.advert_area
 ||usegzydswt.com^
 ||usehol.com^
 ||uselnk.com^
+||usemegasales.shop^
 ||usemyreferral.link^
 ||usenet.world^
 ||usenetpassport.com^
@@ -45914,6 +45951,7 @@ browsershots.org#@#.advert_area
 ||viiithia.com^
 ||viiithie.com^
 ||viiithin.com^
+||viiithinks.com^
 ||viiithio.com^
 ||viijah.com^
 ||viimsa.com^
@@ -46982,6 +47020,7 @@ browsershots.org#@#.advert_area
 ||wt20trk.com^
 ||wt2noay3fgjn.com^
 ||wtdome.com^
+||wtfgep.xyz^
 ||wtg-ads.com^
 ||wtpizrezmr.com^
 ||wtpsicowsqb.xyz^
@@ -47324,6 +47363,7 @@ browsershots.org#@#.advert_area
 ||yeioreo.net^
 ||yelledvotable.com^
 ||yellow-record.pro^
+||yellow-resultsbidder.org^
 ||yellowacorn.net^
 ||yellowblue.io^
 ||yellowtaraph.live^
@@ -49139,6 +49179,7 @@ browsershots.org#@#.advert_area
 /(https?:\/\/)51\.195\.31\..{100,}/
 ||142.91.159.139^
 ||142.91.159.147^
+||142.91.159.150^
 ||142.91.159.164^
 ||142.91.159.169^
 ||142.91.159.179^
@@ -49149,6 +49190,7 @@ browsershots.org#@#.advert_area
 ||167.99.31.227^
 ||172.255.6.137^
 ||172.255.6.139^
+||172.255.6.140^
 ||172.255.6.150^
 ||172.255.6.152^
 ||172.255.6.199^
@@ -49488,6 +49530,7 @@ browsershots.org#@#.advert_area
 ||algardevehme.com^$popup
 ||algocashmaster.com^$popup
 ||alightbornbell.com^$popup
+||alitems.co^$popup
 ||alitems.site^$popup
 ||alklinker.com^$popup
 ||alleviatepracticableaddicted.com^$popup
@@ -51212,6 +51255,7 @@ browsershots.org#@#.advert_area
 ||noerwe5gianfor19e4st.com^$popup
 ||noiseslaveoutfit.com^$popup
 ||nomadsdata.com^$popup
+||nomadsfit.com^$popup
 ||nominalreverend.com^$popup
 ||nonecoffeehousesuspicious.com^$popup
 ||nongloths.com^$popup
@@ -51602,6 +51646,7 @@ browsershots.org#@#.advert_area
 ||punsong.com^$popup
 ||pupilorgansmad.com^$popup
 ||pupspu.com^$popup
+||pupur.net^$popup
 ||pureadexchange.com^$popup
 ||purebrowseraddonedge.com^$popup
 ||purpleads.io^$popup
@@ -52448,6 +52493,7 @@ browsershots.org#@#.advert_area
 ||viienetik.com^$popup
 ||viiithia.com^$popup
 ||viiithie.com^$popup
+||viiithinks.com^$popup
 ||viimsa.com^$popup
 ||viinsdap.com^$popup
 ||viinset.com^$popup
@@ -52654,6 +52700,7 @@ browsershots.org#@#.advert_area
 ||yeesshh.com^$popup
 ||yeioreo.net.^$popup
 ||yeioreo.net^$popup
+||yellow-resultsbidder.org^$popup
 ||yestilokano.top^$popup
 ||ygamey.com^$popup
 ||yhbcii.com^$popup
@@ -64469,6 +64516,7 @@ newduba.cn###jq_youxi
 ||4asfgyx.com^
 ||52acc.cn^
 ||52kuwang.cn^
+||777aa999aa.com^
 ||8861198.com^
 ||a8age.com^
 ||a9able.com^
@@ -64519,10 +64567,12 @@ newduba.cn###jq_youxi
 ||dafdf.cn^
 ||dalld.xyz^
 ||dbnwlp.xyz^
+||dd667788dd.com^
 ||dd778899dd.com^
 ||ddush.xyz^
 ||dehaer.site^
 ||destc8.icu^
+||dffrahax.com^
 ||dgayibf.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
@@ -64573,6 +64623,7 @@ newduba.cn###jq_youxi
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hanwdsii.com^
+||hasgde.site^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
@@ -64583,6 +64634,7 @@ newduba.cn###jq_youxi
 ||hghjks2.com^
 ||hikykhz.icu^
 ||hiqua.xyz^
+||hjkiguy.com^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
 ||hmjhnkas.com^
@@ -64602,6 +64654,7 @@ newduba.cn###jq_youxi
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
+||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
 ||ipadf.xyz^
@@ -64659,6 +64712,7 @@ newduba.cn###jq_youxi
 ||lhotajl.icu^
 ||lifyeldl.top^
 ||liitwrz.icu^
+||likdie.com^
 ||lkmhn.com^
 ||llpuhx.xyz^
 ||lmnpd.xyz^
@@ -64686,6 +64740,7 @@ newduba.cn###jq_youxi
 ||nmkghh.com^
 ||nnfyxd.xyz^
 ||nnqwe.xyz^
+||northcookie.xyz^
 ||nqdufv.xyz^
 ||nryqr.cn^
 ||ntozchv.icu^
@@ -64734,15 +64789,19 @@ newduba.cn###jq_youxi
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sa8zdui.com^
+||sacfasv.com^
 ||sbeaje.com^
 ||sdchb2.com^
 ||sfg11rr.com^
+||shulsbs.cn^
 ||soushubah.com^$third-party
 ||sq59.cn^
 ||ssdfgq7.com^
 ||ssjuxsc.cn^
+||sslbahb.top^
 ||ssnnn.net^
 ||statisfile.com^
+||suy5x8.com^
 ||svarub.xyz^
 ||svvev3.com^
 ||tarqk5.com^
@@ -64758,6 +64817,7 @@ newduba.cn###jq_youxi
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
 ||tseda6.icu^
+||ttykabh.icu^
 ||tushwjp.icu^
 ||tuwaqtjcood.com^
 ||tvdpebx.cn^
@@ -64793,12 +64853,14 @@ newduba.cn###jq_youxi
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xjzyhp.xyz^
+||xlvqhx.xyz^
 ||xmxupz.xyz^
 ||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
 ||xqblnei.cn^
 ||xtbzff.xyz^
+||xukang09.cn^
 ||xukou.net^
 ||yh18h8s.com^
 ||yhhnjg.com^
@@ -64807,6 +64869,7 @@ newduba.cn###jq_youxi
 ||yuifgh.fun^
 ||yyuivw6.com^
 ||yzllux.xyz^
+||zbx01.com^
 ||zcvyzsyd.icu^
 ||zddpnf.xyz^
 ||zerolcp.cn^
@@ -64817,21 +64880,6 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||shulsbs.cn^
-||hjkiguy.com^
-||ttykabh.icu^
-||hasgde.site^
-||sacfasv.com^
-||xlvqhx.xyz^
-||dd667788dd.com^
-||777aa999aa.com^
-||dffrahax.com^
-||suy5x8.com^
-||northcookie.xyz^
-||sslbahb.top^
-||xukang09.cn^
-||likdie.com^
-||ihwdun.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -69699,56 +69747,15 @@ newduba.cn###jq_youxi
 ||zzxmcp.com^
 ||zzzhuoxiaqu.online^
 !long-term
-||u0057.com^
-||u0071.com^
-||u0056.com^
-||u0062.com^
-||u0065.com^
-||u0067.com^
-||u0071.com^
-||u0075.com^
-||u0078.com^
-||u0079.com^
-||u0081.com^
-||u0082.com^
-||u0083.com^
-||u1055.com^
-||6651tp.com^
-||n0544.com^
-||n0644.com^
-||3p8801.co^
-||u1011.com^
-||n0566.com^
-||u1099.com^
-||n0633.com^
-||chunmiaosh.com^
-||u1033.com^
-||u1102.com^
-||u1010.com^
-||u1077.com^
-||img301.com^
-||n3567.com^
-||n0244.com^
-||n0255.com^
-||n0211.com^
-||n0488.com^
-||n0499.com^
-||n0622.com^
-||n7181.com^
-||n0399.com^
-||n5725.com^
-||n6579.com^
 ##a[href*=".xacg.info/"]
 ##button[onclick*=".xacg.info/"]
-||gdxxb.com^$third-party
-||gamecps.com^$third-party
-||displink.com^$third-party
-||tx99y.net^
 ||06789.xyz^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||3alian.net^$third-party
 ||3dwwwgame.com^$third-party
+||3p8801.co^
+||6651tp.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||87uq.com^
 ||a.youdao.com^
@@ -69769,6 +69776,7 @@ newduba.cn###jq_youxi
 ||c.91wan.com^$third-party
 ||cb.baidu.com^
 ||cbjs.baidu.com^
+||chunmiaosh.com^
 ||chushoushijian.cn^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
@@ -69779,6 +69787,7 @@ newduba.cn###jq_youxi
 ||d3t3z4teexdk2r.cloudfront.net^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dingbu.bj.bcebos.com^
+||displink.com^$third-party
 ||dlads.cn^$third-party
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
@@ -69791,13 +69800,16 @@ newduba.cn###jq_youxi
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||foreveryoung.gz01.bdysite.com^
 ||g1.tagtic.cn^
+||gamecps.com^$third-party
 ||gd.189.cn^*.htm?SP=$third-party
+||gdxxb.com^$third-party
 ||gg.miued.com^
 ||guanjiabo.net^
 ||hao123union.baidu.com^$third-party
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||hiad.myweb.hinet.net^
 ||img.uu1001.cn^$third-party,domain=~1688.com|~alimama.com|~taobao.com
+||img301.com^
 ||imgtg.com^*.gif
 ||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com
 ||iprefer.com.tw^$third-party
@@ -69813,6 +69825,21 @@ newduba.cn###jq_youxi
 ||mobads.baidu.com^$third-party
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mtburn.com^$third-party
+||n0211.com^
+||n0244.com^
+||n0255.com^
+||n0399.com^
+||n0488.com^
+||n0499.com^
+||n0544.com^
+||n0566.com^
+||n0622.com^
+||n0633.com^
+||n0644.com^
+||n3567.com^
+||n5725.com^
+||n6579.com^
+||n7181.com^
 ||news.tagtoo.co^$third-party
 ||niuza.com^$image,subdocument,third-party
 ||oa-panther.data.aliyun.com^$third-party
@@ -69838,6 +69865,26 @@ newduba.cn###jq_youxi
 ||tianji520.cn^$third-party
 ||to8to.com^$subdocument,third-party
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
+||tx99y.net^
+||u0056.com^
+||u0057.com^
+||u0062.com^
+||u0065.com^
+||u0067.com^
+||u0071.com^
+||u0075.com^
+||u0078.com^
+||u0079.com^
+||u0081.com^
+||u0082.com^
+||u0083.com^
+||u1010.com^
+||u1011.com^
+||u1033.com^
+||u1055.com^
+||u1077.com^
+||u1099.com^
+||u1102.com^
 ||ubmcvideo.baidustatic.com^
 ||union-wifi.com^
 ||unionli.com^$third-party
@@ -73955,6 +74002,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ttavav6.com/zz/
 ||tucao.cam/uploadfile/*/300-86.
 ||tui.gtimg.com//res/
+||tui555.com/public/gong/js/a_
 ||tuicool.com/images/upload/aliyun
 ||tupian55.com^*.gif
 ||tuwan.com/events/courseiframe?
@@ -74311,6 +74359,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yunupload.net/jsa/
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
+||yuwangshe.net/astyle/wap.
 ||yxad.com/baidu/
 ||yxad.com/yxad/
 ||yxbao.com/js/beitou.
@@ -74412,7 +74461,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-axutongxue.com,axutongxue.net###yfasufd
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75001,7 +75049,7 @@ juxia.com###fmt
 apk.tw###focus
 news.qq.com###focus-bar
 qq.com###focus_jordon
-fuliba2023.net,fuliba.net,uliba.net###focusslide
+fuliba.net,fuliba2023.net,uliba.net###focusslide
 bitauto.com###folieAdNews
 jxedt.com###footer
 ttzmz.vip###footer > div[style]
@@ -75788,6 +75836,7 @@ alu.cn###xxxhuangjinzhanwei
 drv5.cn###xzq
 redocn.com###yc_adv_1_2
 house.qq.com###yf
+axutongxue.com,axutongxue.net###yfasufd
 starbaby.cn###yindex_ads
 hao123.com###yixing-siye
 ynet.com###ynetG_B1
@@ -78663,7 +78712,7 @@ fulibl.cc##.widget_text:last-child
 py91.net##.widget_textads
 jsphp.net##.widget_tuijian
 aeink.com##.widget_ui_adsf
-4spaces.org,fuliba2023.net,fuliba.net,uliba.net,ypojie.com##.widget_ui_orbui
+4spaces.org,fuliba.net,fuliba2023.net,uliba.net,ypojie.com##.widget_ui_orbui
 hit180.com##.widget_ui_orbui:nth-child(-n+2)
 aeink.com##.widget_ui_textads
 swoole.com##.wiki-resource
