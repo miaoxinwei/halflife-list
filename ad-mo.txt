@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gAuD4knUG/7MW1tr7/4TRg
+! Checksum: zbkNR+AK3e1IQkqByaxtfQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308031418
-! Last Modified: 2023年08月03日 14:18
+! Version: 202308032028
+! Last Modified: 2023年08月03日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -61293,6 +61293,7 @@ linkedin.com#?#div.feed-shared-update-v2:-abp-has(span.update-components-actor__
 lovenovels.net#?#center:-abp-contains(Advertisement)
 mirrored.to#?#tr:-abp-has([alt="UseNet"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#.tweet:-abp-has(.promo)
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#article[data-testid="tweet"]:-abp-has(span:-abp-contains(Ad))
 moonastro.com#?#div[style^="background-color:"]:-abp-contains(Advertisement)
 multiup.eu,multiup.org#?#.alert:-abp-contains(VPN)
 multiup.eu,multiup.org#?#.col-md-4:-abp-contains(Usenet.nl)
@@ -64891,6 +64892,9 @@ newduba.cn###jq_youxi
 ||xixrdn.xyz^
 ||wsdfame.com^
 ||p52q.cn^
+||kqubxdb.cn^
+||sacre.cn^
+||qrirud.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
