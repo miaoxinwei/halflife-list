@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d7OyUa+j8QTRRhntmp+I5w
+! Checksum: Pva/YNF4cHPY5rVn6sIC5A
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202308042027
-! Last Modified: 2023年08月04日 20:27
+! Version: 202308050216
+! Last Modified: 2023年08月05日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2259,6 +2259,7 @@ newduba.cn###jq_youxi
 ||bxackzj.icu^
 ||bzxvtj.xyz^
 ||c4d4.cn^
+||c9r05q.com^
 ||caider.fun^
 ||canser1.top^
 ||ccnim.xyz^
@@ -2295,6 +2296,7 @@ newduba.cn###jq_youxi
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
 ||dyeperd.icu^
+||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
 ||eers0cy.com^
 ||eghyahl.cn^
@@ -2307,6 +2309,7 @@ newduba.cn###jq_youxi
 ||erty0yx.com^
 ||esgher.fun^
 ||esgher.site^
+||eslbahw.top^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
 ||ewfsef.com^
@@ -2318,6 +2321,7 @@ newduba.cn###jq_youxi
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
@@ -2420,6 +2424,7 @@ newduba.cn###jq_youxi
 ||lbnqnp.xyz^
 ||legdeh.fun^
 ||lgohse.fun^
+||lgoseh.fun^
 ||lhiefl.com^
 ||lhotajl.icu^
 ||lifyeldl.top^
@@ -2429,6 +2434,7 @@ newduba.cn###jq_youxi
 ||llpuhx.xyz^
 ||lmnpd.xyz^
 ||lrlsrz.xyz^
+||lrqpyhn.icu^
 ||lskmipb.icu^
 ||lvrvdn.xyz^
 ||lwide.xyz^
@@ -2441,6 +2447,7 @@ newduba.cn###jq_youxi
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
+||mvamnng.cn^
 ||mvgucp.com^
 ||ncgqmzm.cn^
 ||nektonsrutate.com^
@@ -2459,6 +2466,7 @@ newduba.cn###jq_youxi
 ||nunxhv.com^
 ||nxhwvt.xyz^
 ||oifyeldk.top^
+||oiunga.com^
 ||okmhmkjnm.com^
 ||one6u.xyz^
 ||oopej.xyz^
@@ -2508,6 +2516,7 @@ newduba.cn###jq_youxi
 ||sacre.cn^
 ||sbeaje.com^
 ||sdchb2.com^
+||sdfgbuy.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
 ||soushubah.com^$third-party
@@ -2549,6 +2558,7 @@ newduba.cn###jq_youxi
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
 ||vhjxrj.xyz^
+||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
 ||vrlvnz.xyz^
@@ -2583,7 +2593,9 @@ newduba.cn###jq_youxi
 ||xukou.net^
 ||yh18h8s.com^
 ||yhhnjg.com^
+||yjnhndt.com^
 ||ymhyw6.lol^
+||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yyuivw6.com^
@@ -2599,18 +2611,6 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||mvamnng.cn^
-||lrqpyhn.icu^
-||sdfgbuy.com^
-||lgoseh.fun^
-||fszpzd.xyz^
-||c9r05q.com^
-||yjnhndt.com^
-||eslbahw.top^
-||vmdlxj.xyz^
-||yuanmengbi.com^
-||oiunga.com^
-||dzkwj0y.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -14217,6 +14217,7 @@ cnblogs.com##.bannerbar
 baidu.com##.bannerdown
 nfuwow.com##.bannermid3box
 javlibrary.com##.bannerqq
+yazhouse8.com##.banners
 efu.com.cn##.banners-top-b
 efu.com.cn##.banners-top-x2
 fang.com##.bannger_inbox
