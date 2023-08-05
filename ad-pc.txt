@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 300iQE4MsjCb33D2dyYjzA
+! Checksum: P1m8aDjapuGlsP6vpF67bA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202308052024
-! Last Modified: 2023年08月05日 20:24
+! Version: 202308060215
+! Last Modified: 2023年08月06日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -64805,6 +64805,7 @@ newduba.cn###jq_youxi
 ||23.234.217.11^
 ||23.234.217.12^
 ##a[href*=".f2ocoin.com/"]
+##a[href*=".n7.org.cn"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*="/9966699.vip"]
 ##a[href*="/mug749.vip"]
@@ -64839,6 +64840,7 @@ newduba.cn###jq_youxi
 ||bifyeldv.top^
 ||bkhblj.xyz^
 ||bkjlf58.com^
+||bnds4.site^
 ||bnds8.site^
 ||bnfyzszm.icu^
 ||boewgph.icu^
@@ -64886,6 +64888,7 @@ newduba.cn###jq_youxi
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duoying.vip^$third-party
+||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
@@ -64907,8 +64910,10 @@ newduba.cn###jq_youxi
 ||eyq3nog.icu^
 ||falsarywaybung.com^
 ||fantuan.name^
+||fcbqxt.xyz^
 ||fddxbn.xyz^
 ||feiln.xyz^
+||fengyukun03.cn^
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
@@ -64930,6 +64935,7 @@ newduba.cn###jq_youxi
 ||gyutmrp.com^
 ||hanwdsii.com^
 ||hasgde.site^
+||hbqabbg.cn^
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
@@ -64982,6 +64988,7 @@ newduba.cn###jq_youxi
 ||jochenanabata.guru^
 ||jokerlulm.com^
 ||jpqed.xyz^
+||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jrmrijv.icu^
 ||jslbaha.top^
@@ -64991,6 +64998,7 @@ newduba.cn###jq_youxi
 ||jutwzssh.icu^
 ||jvjlkih.com^
 ||jzdgn.cn^
+||jzdwl4.cn^
 ||jzixypd.icu^
 ||jzxpxj.xyz^
 ||kahgjjd.com^
@@ -65000,6 +65008,7 @@ newduba.cn###jq_youxi
 ||kklpe.xyz^
 ||kl91ccp.com^
 ||kljslku.com^
+||klufjdo.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
 ||kqubxdb.cn^
@@ -65057,6 +65066,7 @@ newduba.cn###jq_youxi
 ||nunxhv.com^
 ||nxhwvt.xyz^
 ||oifyeldk.top^
+||oijmds.com^
 ||oiunga.com^
 ||okmhmkjnm.com^
 ||one6u.xyz^
@@ -65089,6 +65099,7 @@ newduba.cn###jq_youxi
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
+||rdbousn.cn^
 ||rddsjx.xyz^
 ||rdufuxr.icu^
 ||relafp.xyz^
@@ -65148,6 +65159,7 @@ newduba.cn###jq_youxi
 ||uxtruz.xyz^
 ||uyq3ruf.icu^
 ||v1gyb.xyz^
+||vcydyzd.icu^
 ||vhjxrj.xyz^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
@@ -65202,18 +65214,6 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||bnds4.site^
-||klufjdo.com^
-||rdbousn.cn^
-||vcydyzd.icu^
-||fengyukun03.cn^
-||hbqabbg.cn^
-||jzdwl4.cn^
-||fcbqxt.xyz^
-||dwfjtz.xyz^
-||oijmds.com^
-##a[href*=".n7.org.cn"]
-||jpush0b.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -73681,6 +73681,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||picsuperfast.xyz/imageUpload/images/*AD_
 ||picuphost.com^$domain=mmload.info
 ||picyq.com/index.php/Home/run/get_ad/
+||pierrebotton.com/global/
 ||piimg.com/508806/d53a8d13a40f814d.gif
 ||piimg.com^$domain=kisssub.org|lsjsoso.me
 ||pincai.com/js/pubuliu.
@@ -74792,10 +74793,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
-||pierrebotton.com/global/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-jin10.com##.top-ad
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -78836,6 +78835,7 @@ meizhou.com##.top + .w1000
 2345.com##.top > .fred
 toolfk.com##.top > div[style="font-size: 12px;text-align: center;margin-top:6px;"]
 midifan.com##.top-aaa
+jin10.com##.top-ad
 10jqka.com.cn##.top-ad-box
 baidu.com##.top-ad-cont
 vansky.com##.top-ad-link
@@ -82673,6 +82673,7 @@ yunpan.com#@#.share-new
 189.cn#@#.share-panel
 youdao.com#@#.share-text
 aiqicha.baidu.com,xinmin.cn#@#.share-title
+iyf.tv#@#.share-top
 yunpan.com#@#.share-wrapper
 wantgoo.com#@#.shareBtns
 cger.com,pcsoft.com.cn#@#.share_box
