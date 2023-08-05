@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bQi5UfofpNWbUQvGcTyWTg
+! Checksum: EYP0AywQMK86vYAEbrBiHw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308051415
-! Last Modified: 2023年08月05日 14:15
+! Version: 202308052024
+! Last Modified: 2023年08月05日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59127,6 +59127,7 @@ extremetech.com##.min-h-24
 uwufufu.com##.min-h-\[253px\]
 uwufufu.com##.min-h-\[300px\]
 stripes.com##.min-h90
+moviemeter.com##.minheight250
 kitco.com##.mining-banner-container
 ar15.com##.minis
 revolutionsoccer.net##.mls-o-adv-container
@@ -63112,6 +63113,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+-1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -74422,7 +74424,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xghylt.com/api.php?mod=ad&adid=
 ||xhymsq.com/data/attachment/portal/
 ||xiacaidd.com/xiacai/ad/
-||xiakedy.org/js/jquery.
 ||xianshuabao.com/ashx/pt.ashx?cmd=record&filter=&order=all&
 ||xiaobaipan.com/tb.html
 ||xiaobi*.com/layer/layer.js
@@ -74679,6 +74680,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||pierrebotton.com/global/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 jin10.com##.top-ad
@@ -77532,7 +77534,6 @@ hupu.com##.hupu-shihuo-hot
 hupu.com##.hupushihuo
 hutool.cn##.hutool-top-ad
 iqiyi.com##.hwLink
-xiakedy.org##.hy-details-qrcode
 warting.com##.hz2
 52pk.com##.hz_adv
 99.com.cn##.hzh_botleft
