@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gSyCqRcwt5XF9kiFSpZpQw
+! Checksum: VVIPPYlhWm/r7DvKivn5rQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202308112025
-! Last Modified: 2023年08月11日 20:25
+! Version: 202308120215
+! Last Modified: 2023年08月12日 02:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -190,6 +190,7 @@ stgowan.com
 -1316632262.cos.
 -1316899192.cos.
 -1688-wp-media/ads/
+/os230718.oss-
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -2252,6 +2253,10 @@ newduba.cn###jq_youxi
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||36mghtd.xyz^
+||egipsbvlgn.xyz^
+||lingsiqiwu.com^
+||baidudvbjkbssjvsvv.com^
+||duyvtanrheje.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -22838,6 +22843,7 @@ m.babytree.com##script + a[class]
 /bundle/analytics.
 /bundles/metrics.
 /bunsen/events/*
+/bv-analytics.js
 /byside_webcare.
 /bytro/logs/*
 /c.gif?
