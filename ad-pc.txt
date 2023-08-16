@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sOKElzTdwu+ngeIkvQra1Q
+! Checksum: KUn9AbvniBBPJzqDbV1q3Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202308161417
-! Last Modified: 2023年08月16日 14:17
+! Version: 202308162025
+! Last Modified: 2023年08月16日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2861,7 +2861,6 @@ tieba.baidu.com##.tuijian-wrap
 /popupunder.
 /post-ad-
 /post_ads_
-/postad.
 /pounder-$~image
 /pp-ad.
 /ppd_ads.
@@ -2875,7 +2874,6 @@ tieba.baidu.com##.tuijian-wrap
 /printad.
 /printad/*
 /prism_ad/*
-/proads/*
 /proadvertising.
 /proadvertising_
 /processad.
@@ -3032,17 +3030,12 @@ tieba.baidu.com##.tuijian-wrap
 /ServeAd?
 /serveads.
 /Server/AD/*
-/server/ads/*
-/servewebads/*
 /service/ad/*
 /service/ads/*
 /service/adv/*
 /services/ads/*
 /servlet/view/*
 /set_adcode?
-/share/ads/*
-/shared/ad_
-/shared/ads/*
 /show-ad.
 /show.ad?
 /show?zone_id=
@@ -3129,19 +3122,13 @@ tieba.baidu.com##.tuijian-wrap
 /smartadserver.$domain=~smartadserver.com|~smartadserver.com.br|~smartadserver.de|~smartadserver.es|~smartadserver.fr|~smartadserver.it|~smartadserver.pl|~smartadserver.ru
 /smartadserver/*$domain=~smartadserver.com|~smartadserver.de|~smartadserver.fr
 /smartlinks.epl?
-/smb/ads/*
-/smeadvertisement/*
-/socialads.$domain=~socialads.eu|~socialads.guru
-/socialads/*
 /soralink.js
 /soralink/*$~stylesheet
 /sp/delivery/*
 /space_ad.
 /spacedesc=
-/spark_ad.
 /spc.php
 /spcjs.php
-/special-ads/*
 /special_ad.
 /special_ads.
 /special_ads/*
@@ -3208,11 +3195,7 @@ tieba.baidu.com##.tuijian-wrap
 /story_ads_
 /storyads.
 /stream-ad.
-/streamads.
 /style_ad.
-/Styles/Ad_
-/styles/ads.
-/styles/ads/*
 /subAd.
 /sugarads-
 /superads_
@@ -20381,6 +20364,7 @@ _800x80_
 ##.ht_outbrain
 ##.js-outbrain-container
 ##.ob-ad-carousel-layout
+##.ob-feed-layout
 ##.ob-hover
 ##.ob-p.ob-dynamic-rec-container
 ##.ob-strip-layout
@@ -48302,6 +48286,7 @@ browsershots.org#@#.advert_area
 ||zlacraft.com^
 ||zlink2.com^
 ||zlink6.com^
+||zlinkc.com^
 ||zlinkm.com^
 ||zljwhbuagdvl.com^
 ||zlx.com.br^
@@ -57177,6 +57162,7 @@ smbc-comics.com###comicright > div[style]
 mirror.co.uk###comments-standalone-mpu
 kotaku.com,qz.com###commerce-inset-wrapper
 cpuid.com###console_log
+miniwebtool.com###contain300-1
 miniwebtool.com###contain300-2
 gearspace.com###container__DesktopFDAdBanner
 gearspace.com###container__DesktopForumdisplayHalfway
@@ -58522,7 +58508,7 @@ stuff.tv##.block-hcm-external-blocks
 mondoweiss.net##.block-head-c
 newsweek.com##.block-ibtmedia-dfp
 endocrineweb.com,practicalpainmanagement.com##.block-oas
-justthenews.com##.block-simple-blockad-728-90
+justthenews.com##.block-simple-block
 kaotic.com##.block-toplist
 worldtimebuddy.com##.block2
 macmusic.org##.block440Adv
@@ -60083,6 +60069,8 @@ gamertweak.com##.rsgvqezdh-container
 box-core.net,mma-core.com##.rsky
 newstrackindia.com##.rt-add336x280
 nextofwindows.com##.rtsidebar-cm
+freewebarcade.com##.rxads
+freewebarcade.com##.rxse
 itweb.co.za##.s-logos
 bleepingcomputer.com##.s-ou-wrap
 hope1032.com.au##.s-supported-by
@@ -60369,7 +60357,9 @@ dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 inyourarea.co.uk##.style_advertisementMark_1Jki4
 inyourarea.co.uk##.style_cardWrapper_ycKf8
 nationalheraldindia.com##.styles-m__dfp__3T0-C
+cmswire.com##.styles_ad-block__2OJmV
 streamingsites.com##.styles_adverticementBlock__FINvH
+cmswire.com##.styles_article__top-ad-wrapper__35zg2
 streamingsites.com##.styles_backdrop__8uFQ4
 troypoint.com##.su-box
 buzzfeed.com##.subbuzz-bfp--connatix_video
@@ -60608,6 +60598,7 @@ videogameschronicle.com##.vgc-productsblock
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
+justthenews.com##.video--container
 songkick.com##.video-ad-wrapper
 cyclinguptodate.com##.video-container
 forbes.com,nasdaq.com##.video-placeholder
@@ -63112,6 +63103,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bidder.dev/clients/$script,domain=forces.net
 @@||chycor.co.uk/cms/advert_search_thumb.php$image,domain=chycor.co.uk
+@@||cloudfront.net/js/common/invoke.js
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||connatix.com*/connatix.player.$script,domain=ebaumsworld.com|funker530.com|washingtonexaminer.com
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
@@ -65735,6 +65727,7 @@ newduba.cn###jq_youxi
 ||bmptbyb.com^
 ||vhutitpu.icu^
 ||zcbfjd.xyz^
+||mnpbxjq.cn^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -87108,6 +87101,7 @@ _social_tracking.js
 _stat.php?referer=
 _stat_counter.php?
 _trackWebtrekkEvents.
+_vercel/insights/*
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
@@ -89736,6 +89730,7 @@ _mongo_stats/
 ||simpleanalytics.io^$third-party
 ||simpleanalyticsbadge.com^$third-party
 ||simpleanalyticscdn.com^$third-party
+||simpleanalyticsexternal.com^$third-party
 ||simplehitcounter.com^$third-party
 ||simplereach.com^$third-party
 ||simpli.fi^$third-party
@@ -91899,6 +91894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stiffstem.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
+||stomachscience.com^
 ||storescissors.com^
 ||storeslope.com^
 ||storesurprise.com^
@@ -97212,6 +97208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
 ||macys.com/tag_path/
+||mail.proton.me/api/data/v1/stats
 ||mail.yahoo.com/f/track/
 ||mangadex.org/api/event
 ||mangadex.org/p.js
