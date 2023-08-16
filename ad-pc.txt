@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ouTjLv83LFsFSfiQp9461Q
+! Checksum: sOKElzTdwu+ngeIkvQra1Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202308160858
-! Last Modified: 2023年08月16日 08:58
+! Version: 202308161417
+! Last Modified: 2023年08月16日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -20245,6 +20245,7 @@ _800x80_
 ###mplayer-embed
 ###primis-holder
 ###primis_intext
+###vidazoo-player
 ##.GRVPrimisVideo
 ##.GRVVideo
 ##.ac-lre-desktop
@@ -57862,6 +57863,7 @@ petfinder.com##.AdUnitParagraph-module--adunitContainer--2b7a6
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
 earth.com##.AdZone_adZone__2w4TC
 thescore.com##.Ad__container--2fhQb
+charlieintel.com##.Ad_ad__SqDQA
 therealdeal.com##.Ad_rootHomepage__mSzqh
 greatandhra.com##.AdinHedare
 coingape.com##.AdsMid
@@ -58751,6 +58753,7 @@ physicsworld.com##.corporate-partners
 kiss-anime.asia,kissanime.mobi##.countdown.btn
 pcworld.com##.coupons
 coursedrive.org##.cours-adsense-in-feed
+ivytech.bncollege.com##.course-finder-google-ads-body-top-content-slot
 wolfstream.tv##.cover2
 coinpaprika.com##.cp-table__row--ad-row
 realsport101.com##.cpaAd
@@ -59484,7 +59487,6 @@ dailyo.in##.lhsAdvertisement300
 latestly.com##.lhs_adv_970x90_div
 gadgets360.com##.lhs_top_banner
 mobygames.com##.lifesupport-header
-trakt.tv##.light
 iheartradio.ca##.lightbox-wrapper
 rebelnews.com##.lighter-gray-bg
 getbukkit.org##.limit
