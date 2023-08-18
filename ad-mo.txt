@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BPQ/B2zGbI3Cawe2l/rjgw
+! Checksum: CCIltcHeZnvLbKOhKIznxw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308180858
-! Last Modified: 2023年08月18日 08:58
+! Version: 202308181417
+! Last Modified: 2023年08月18日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54458,6 +54458,7 @@ browsershots.org#@#.advert_area
 ||wpzoom.com/images/aff/
 ||ws.amazon.*/widgets/$third-party
 ||yahoo.com/bidRequest
+||yastatic.net/pcode/adfox/header-bidding.js
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
 ||yimg.com/dy/ads/readmo.js
@@ -60173,6 +60174,7 @@ dbknews.com##.sidekick-wrap
 kit.co##.sidekit-banner
 linuxtopia.org##.sidelinks > .sidelinks
 atlasobscura.com##.siderail-bottom-affix-placeholder
+rockradio.com##.sidewall-ad-component
 sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 metalsucks.net##.single-300-insert
@@ -63221,6 +63223,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||summitracing.com/global/images/bannerads/
 @@||sundaysportclassifieds.com/ads/$image,~third-party
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
+@@||tcbk.com/application/files/4316/7521/1922/Q1-23-CD-Promo-Banner-Ad.png^$~third-party
 @@||thdstatic.com/experiences/local-ad/$domain=homedepot.com
 @@||thepiratebay.org/cdn-cgi/challenge-platform/$~third-party
 @@||thetvdb.com/banners/$image,domain=tvtime.com
@@ -64604,7 +64607,6 @@ newduba.cn###jq_youxi
 ###xqad1
 ###xqad2
 ###xqad3
-###xqad[style="margin-bottom: 5px;"]
 ##.AD_TAC_BOX
 ##.Flagrow-Ads-under-header
 ##.MacPlayer > #play-pause
@@ -65138,7 +65140,6 @@ newduba.cn###jq_youxi
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
 ##script[src="/js/sy2.js"] + div[align="center"]
-##script[src="/template/kuhei2/skin/base.js"] + #couplet
 ##span[title="neteasefooter"]
 ##style + .a-loading
 ##style + .need_grid_img
@@ -65724,6 +65725,9 @@ newduba.cn###jq_youxi
 ||rcblfd.xyz^
 ||afgp10l.com^
 ||lzmvcrp.icu^
+||zglmvz.buzz^
+||yjnkas.com^
+||wrpsouf.cn^
 ||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -73246,7 +73250,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||iid97.com/bdgo/
 ||iid97.com/wp-content/cache/autoptimize/js/
 ||iiilab.com/sponsor
-||iiilab.com/sponsor/getByPage
 ||iis7.com/ys/css2018/ggw.js
 ||ijinshan.com/images/gk/game
 ||ik123.com/js/dd.js
@@ -75314,6 +75317,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+winwin7.com##.xzbox-lf
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -78532,7 +78536,6 @@ taobao.com##.mask.animated.swing
 qq.com##.masker_1111
 fx110.com##.matrix-banner
 oschina.net##.mayun-jj
-cangku.moe##.mb-4.slider
 itavcn.com##.mb_right > .mt8:nth-child(3)
 265g.com##.mban
 sciencenet.cn##.mbanner
@@ -79341,7 +79344,6 @@ tieba.baidu.com##.tl_spread
 manmanw.net##.tlads
 esnai.com##.tlgg
 maxthon.cn##.tmall-nav-v2
-##.tmall_bg15
 booom.net,x6d.com##.tmall_tab
 qq.com##.tmallredpacket
 qq.com##.tmallskin
@@ -80566,7 +80568,6 @@ nasyun.com##img[width="970"]
 cgown.com,taohuayun.cn##img[width="980"]
 chyangwa.net,motorfans.com.cn##img[width^="1200"]
 0597kk.com##img[width^="37"][height="30"]
-apk.tw##ins.adsbygoogle
 bitauto.com##ins[type="ad_play"]
 iqshv.com#?#.post-list-item:-abp-has(.thumb-link[href^="http"]:not([href*=".iqshv."]))
 itdog.cn#?#.card:-abp-has(.partner>a[href*=".jimcloud.net"])
@@ -97019,6 +97020,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geolocation.forbes.com^
 ||getadblock.com/js/log.js
 ||getpocket.com/t/
+||getpocket.com/web-client-api/braze
 ||getpocket.com/web-utilities/public/static/te.js
 ||gettyimages.*/pulse$ping
 ||ghacks.net/statics/px.gif
@@ -116452,7 +116454,7 @@ arketing.indianadunes.com^
 !! omtrdc.net
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
 !! tags.tiqcdn.com
-@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|sony.jp|vmware.com
+@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|vmware.com
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||statcounter.com/js//fusioncharts.charts.js
 @@||statcounter.com/js/fusioncharts.js
