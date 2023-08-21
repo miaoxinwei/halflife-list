@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6BIl0FC6uD5qNYUrqyCvrQ
+! Checksum: 212tAq/frbWMOjQGYb1k3A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308210214
-! Last Modified: 2023年08月21日 02:14
+! Version: 202308210858
+! Last Modified: 2023年08月21日 08:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -14753,7 +14753,6 @@ _800x80_
 ##.cpg-ad-placeholder-mobile
 ##.cpmstarHeadline
 ##.cpmstarText
-##.cpoma-adlabel
 ##.cpp-text-ad
 ##.cr_ad
 ##.crain-advertisement
@@ -57404,6 +57403,7 @@ pikalytics.com###pokedex-top-ad
 politico.com###pol-01-wrap
 pons.com###pons-ad-leaderboard__container
 safetydetectives.com###popup
+bankinfosecurity.com###popup-interstitial-full-page
 chaseyoursport.com###popup1
 quickmeme.com###post[style="display: block;min-height: 290px; padding:0px;"]
 ultrabookreview.com###postadsside
@@ -57740,6 +57740,7 @@ bendsource.com,buzzfeed.com,federalnewsnetwork.com,imgur.io,lonelyplanet.com,sev
 deseret.com##.Ad-space
 petfinder.com##.AdUnitParagraph-module--adunitContainer--2b7a6
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
+complex.com##.AdWrapper__AdPlaceholderContainer-sc-15idjh1-0
 earth.com##.AdZone_adZone__2w4TC
 thescore.com##.Ad__container--2fhQb
 charlieintel.com##.Ad_ad__SqDQA
@@ -58643,6 +58644,9 @@ ivytech.bncollege.com##.course-finder-google-ads-body-top-content-slot
 wolfstream.tv##.cover2
 coinpaprika.com##.cp-table__row--ad-row
 realsport101.com##.cpaAd
+cpomagazine.com##.cpoma-adlabel
+cpomagazine.com##.cpoma-main-header
+cpomagazine.com##.cpoma-target
 chronline.com##.cq-creative
 theweather.net##.creatividad
 mma-core.com##.crec
@@ -65709,6 +65713,12 @@ newduba.cn###jq_youxi
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||asdyui16.cn^
+||ydgh0zc.com^
+||nimoatl.icu^
+||canser7.top^
+||tlbjw.com^
+||hthivr.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
@@ -87202,6 +87212,7 @@ _WebVitalsReporter_
 .spreadshirt.net/mo/$image
 .starbucks.com/a/
 .substack.com/o/$image
+.substackcdn.com/open?$image
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
 .travis-ci.com/r/$image
@@ -118424,7 +118435,6 @@ m.babytree.com##script + a[class]
 ||log2.mtime.cn^
 ||lotour.net/analytics/statsv2.js
 ||mafengwo.cn/uva/i.gif?
-||mixer.sina.cn^
 ||mlog.aipai.com^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
