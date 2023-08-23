@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UXcWMJIF/SFudCHJ0wMmWQ
+! Checksum: X3cLa5uHAiQVybG2FcWXeA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202308232026
-! Last Modified: 2023年08月23日 20:26
+! Version: 202308240214
+! Last Modified: 2023年08月24日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2167,6 +2167,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /images/adv_
 /images/adz/*
 /images/vghd
+/images2/Ads/*
 /imfloat.
 /img-ads.
 /img-ads/*
@@ -2677,17 +2678,13 @@ pan.baidu.com##.upload-bar.global-clearfix
 /realmedia_mjx.
 /realmedia_mjx_
 /reclama/*
-/reclame/*$domain=~github.com
 /recommendations/ad.
 /rect_ad.
 /rectangle_ad.
 /redirect/?spot_id=
 /redirect?tid=
 /redirect_awe.
-/redpop_ads/*
-/refads/*
 /refreshads-
-/reklam-ads2.
 /reklam.$domain=~github.com|~reklam.com.tr
 /reklam/*$domain=~cloudflare.com|~github.com|~reklam.com.tr
 /reklama/*$domain=~github.com
@@ -2699,13 +2696,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /reklame/*
 /related-ads.
 /relatedads.
-/relevance_ad.
 /remove-ads.
 /remove_ads.
 /ren.gif?
-/render-ad/*
-/renewalad/*
-/repeat_adv.
 /report_ad.
 /report_ad_
 /requirejs/ads/*
@@ -2774,8 +2767,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /show_ads_
 /showad/*
 /showad_
-/showadcode.
-/showadcode2.
 /showads_
 /showadvert.
 /showadvertising.
@@ -2786,7 +2777,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /side-ads-
 /side-ads/*
 /side_ads/*
-/side_adverts.
 /sidead.
 /sidead1.
 /sidead2.
@@ -3027,6 +3017,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /v9/adv/*
 /valnet-header-ads.
 /valuad.
+/vast/?zid=
 /vast/ads-
 /vast_ads_
 /VASTAdPlugin.
@@ -46368,6 +46359,7 @@ browsershots.org#@#.advert_area
 ||waymarkgentiin.com^
 ||waymentriddel.com^
 ||waynagmay.com^
+||wazaki.xyz^
 ||wazbuvdcij.com^
 ||wazensee.net^
 ||wbdds.com^
@@ -54947,6 +54939,8 @@ browsershots.org#@#.advert_area
 ||br.fling.com^
 ||br.realitykings.com^
 ||brazzers.com/ads/
+||bullz-eye.com/blog_ads/
+||bullz-eye.com/images/ads/
 ||bursa.conxxx.pro^
 ||byxxxporn.com/300x250.html
 ||c3s.bionestraff.pro^
@@ -56213,6 +56207,9 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||jennylist.xyz/t63fd79f7055.js
 ||jhat1n4.xhamster.com^
 ||joysporn.sex/js/kj.js
+||justthegays.com/agent.php
+||justthegays.com/api/spots/
+||justthegays.com/api/users/
 ||jy8dc.xhamster.com^
 ||k-teen.com/banner/
 ||kafdlwyw4z.xhamster.com^
@@ -57075,6 +57072,7 @@ asura.gg,nacm.xyz###noktaplayercontainer
 boxingstreams.cc,crackstreams.gg,cricketstreams.cc,footybite.cc,formula1stream.cc,mlbshow.com,nbabite.com###nordd
 forums.somethingawful.com###notregistered
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
+streetdirectory.com###offers_splash_screen
 gizbot.com###oi-custom-camp
 kohls.com###open-drawer
 livestreamfails.com###oranum_livefeed_container_0
@@ -57220,6 +57218,7 @@ hilltimes.com###sp-mini-box
 toumpano.net###sp-right
 coingape.com###spinbtn
 fastseduction.com###splash
+streetdirectory.com###splash_screen_overlay
 downloads.codefi.re###spo
 downloads.codefi.re###spo2
 firmwarefile.com###spon
@@ -57880,6 +57879,7 @@ teslaoracle.com##.amp-wp-539b047
 teslaoracle.com##.amp-wp-53ff299
 thepostemail.com##.amp-wp-b194b9a
 letras.com##.an-pub
+streetdirectory.com##.anchor_bottom
 rok.guide##.ancr-sticky
 rok.guide##.ancr-top-spacer
 eprinkside.com##.annons
@@ -64865,6 +64865,7 @@ newduba.cn###jq_youxi
 ||52acc.cn^
 ||52kuwang.cn^
 ||5ggj5cp.com^
+||5lfgdju.com^
 ||777aa999aa.com^
 ||7xixi.site^
 ||8861198.com^
@@ -65020,6 +65021,7 @@ newduba.cn###jq_youxi
 ||fddxbn.xyz^
 ||feiln.xyz^
 ||fengyukun03.cn^
+||fgetmzx.icu^
 ||fhglcpf.icu^
 ||fiktvlnc.icu^
 ||fjsytjs.cn^
@@ -65058,6 +65060,7 @@ newduba.cn###jq_youxi
 ||hdfdsdaw.com^
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
+||hegk02a.top^
 ||hegk03a.top^
 ||hegk05a.top^
 ||hfjk3wa.com^
@@ -65252,6 +65255,7 @@ newduba.cn###jq_youxi
 ||one6u.xyz^
 ||oopej.xyz^
 ||ooqwc.xyz^
+||oqyiapj.cn^
 ||oslbahk.top^
 ||ossfile001.com^
 ||owlinggnomist.com^
@@ -65270,6 +65274,7 @@ newduba.cn###jq_youxi
 ||pjsbuhl.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
+||pnlhnx.xyz^
 ||poqiod.com^
 ||powedw.com^
 ||pr88vhg.com^
@@ -65468,16 +65473,11 @@ newduba.cn###jq_youxi
 ||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||zpotkvpy.icu^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
-||5lfgdju.com^
-||fgetmzx.icu^
-||hegk02a.top^
-||pnlhnx.xyz^
-||oqyiapj.cn^
-||zpotkvpy.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
@@ -74246,6 +74246,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||seek68.cn/img/*.gif
 ||sefu8j.com/index.php?m=poster&
 ||segmentfault.com/sponsor/
+||sentcss.com/get/cors/spread/
 ||seojiaoshi.cn/banner/
 ||seowhy.com/ask/img/*gg
 ||seqing.world/qq/qq.js
@@ -83498,6 +83499,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics/collect?
 /analytics/collector.
 /analytics/collector/*
+/analytics/comscore.js
 /analytics/dist/*
 /analytics/embed/*
 /analytics/engine/*
@@ -84600,7 +84602,6 @@ fqsousou.com,kengso.com#@#.user-share
 /hash_stat_bulk/*
 /hc/activity
 /hc_pixel.gif?
-/headerpixel.gif?
 /headupstats.gif?
 /healthanalytics.js
 /heatmap_log.js
