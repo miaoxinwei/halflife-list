@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oHOle91YPeJ8uv13zIOaYA
+! Checksum: 9+hnSQFv9fSIV1+Sku3BHw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202308280900
-! Last Modified: 2023年08月28日 09:00
+! Version: 202308281418
+! Last Modified: 2023年08月28日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1022,11 +1022,8 @@ tieba.baidu.com##.tuijian-wrap
 /addyn/3.0/*
 /addyn|*;adtech;
 /addyn|*|adtech;
-/adengage-
 /adengage.
-/adengage_
 /adengine.
-/adengine_
 /adentry.
 /adevent.$domain=~adevent.com
 /adevents.$domain=~adevents.com|~adevents.com.au|~adevents.nl
@@ -1037,7 +1034,6 @@ tieba.baidu.com##.tuijian-wrap
 /adfetch?
 /adfooter.
 /adframe2.
-/adframe?
 /adframe_
 /adframes.
 /adfshow?
@@ -1174,10 +1170,6 @@ tieba.baidu.com##.tuijian-wrap
 /ads/gpt/*
 /ads/header-
 /ads/header.
-/ads/header/*
-/ads/header_
-/ads/house_
-/ads/html/*
 /ads/iframe
 /ads/image/*
 /ads/images/*
@@ -1404,9 +1396,6 @@ tieba.baidu.com##.tuijian-wrap
 /adsponsor.
 /adspot.$domain=~adspot.lt
 /adspot/*
-/adspot_
-/adspots/*
-/adspro/*
 /adspromo-
 /adspromo.
 /adsquare.$domain=~adsquare.com|~adsquare.ma
@@ -1533,13 +1522,9 @@ tieba.baidu.com##.tuijian-wrap
 /advrotator_
 /advscript.
 /advshow.
-/advt.$domain=~advt.ch|~advt.it
 /advtBanner.
-/adwidget/*
 /adwidget_
 /adwidgets/*
-/adwiz.
-/adwiz/*
 /adwrapper/*
 /adx/ads?
 /adx2.
@@ -1548,8 +1533,7 @@ tieba.baidu.com##.tuijian-wrap
 /adx_iframe_
 /adz/js/*
 /adzerk2_
-/adzones.
-/adzones/*
+/adzones.js
 /afcads.
 /aff-ads.
 /aff-exchange/*
@@ -1566,7 +1550,6 @@ tieba.baidu.com##.tuijian-wrap
 /affbanners/*
 /affclick/*
 /affilatebanner.
-/AffilateBanner_
 /affiliate/ad/*
 /affiliate/ads/*
 /affiliate/banner/*
@@ -1574,12 +1557,8 @@ tieba.baidu.com##.tuijian-wrap
 /affiliateads/*
 /affiliates/banner
 /afr.php?
-/afr?auid=
-/afs/ads/*
-/ajax/ad/*
 /ajaxAd?
 /ajs.php?
-/ajs?auid=
 /ajs?zoneid=
 /ak-ads-ns.
 /amazon-ad-
@@ -1658,9 +1637,7 @@ tieba.baidu.com##.tuijian-wrap
 /banner-sponsor/*
 /banner-sponsors.
 /banner.asp?$third-party
-/banner.ca?
 /banner.cgi?
-/banner.engine?
 /banner.php
 /banner/ad/*
 /banner/ad_
@@ -1689,8 +1666,7 @@ tieba.baidu.com##.tuijian-wrap
 /banner_dfp.
 /bannerad.
 /bannerad/*
-/bannerad3.
-/bannerad6.
+/bannerad3.js
 /bannerad_
 /bannerads-
 /bannerads.
@@ -1751,16 +1727,9 @@ tieba.baidu.com##.tuijian-wrap
 /Box-ad-
 /box_ad_
 /box_ads_
-/boxad1.
-/boxad2.
-/boxad3.
-/boxad_
 /brightcovead.
 /bsa-plugin-pro-
 /bsa-pro-
-/bserver/*
-/btads/*
-/bunyad_
 /buttonad/*
 /buttonads.
 /buttonads/*
@@ -1786,19 +1755,16 @@ tieba.baidu.com##.tuijian-wrap
 /click/zone?
 /click?adv=
 /clickads/*
-/clickboothad.
 /clicksor.$domain=~clicksor.com
 /clickunder.
 /clkads.
 /cmg_ad.
-/cms/ads/*
-/cms_ads/*
+/cms_ads.js
 /cnads.js
 /code/native.js?h=$script
 /code/pops.js?h=$script
 /code/silent.js?h=$script
 /column-ad-
-/columnads/*
 /combo?darla/*
 /comment-ad-
 /comment-ad.
@@ -1814,7 +1780,6 @@ tieba.baidu.com##.tuijian-wrap
 /companion_ads.
 /components/ads/*
 /concert_ads-
-/cont-adv.
 /contads.
 /content-ads.
 /content/ad/*
@@ -1839,10 +1804,8 @@ tieba.baidu.com##.tuijian-wrap
 /cover_ad.
 /cpm_ad.
 /cpmbanner.
-/cpmrect.
 /cpx-ad.
 /cpxads.
-/csp/ads?
 /css/ads-
 /css/adsense
 /css/adv.
@@ -1851,61 +1814,37 @@ tieba.baidu.com##.tuijian-wrap
 /cubead.
 /cubeads/*
 /cubeads_
-/curlad.
 /curveball/ads/*
 /custom_ads.
 /customad.
 /customads/*
-/customadsense.
-/dart_ads.
-/dart_ads/*
 /dartad/*
 /dartads.
-/dartcall.
 /dartfunctions.
-/data/ads/*
-/dateads.
-/dclk_ads.
-/dclk_ads_
-/de/ads/*
-/default/ads/*
-/default_ads/*
 /defaultad.
 /defaultad?
 /defaults_ads/*
 /defer_ads.
 /deferads.
-/defersds.
-/delay-ad.
-/delayedad.
 /deliverad/*
 /deliverads.
-/deliversd/*
 /deliversds.
 /delivery.ads.
-/delivery.php?pool_id=
-/delivery.php?rnd=
 /delivery.php?zone=
 /delivery/ag.
 /delivery/apu.php
 /delivery/avw.
 /delivery/fc.
-/delivery/jsonp/?zoneid=
 /delivery/spc.
 /delivery_ads/*
 /dfp-ads.
 /dfp-ads/*
 /dfp.min.js$third-party
-/dfp/async.
-/dfp/dc.js
 /dfp/head/*
-/dfp/jquery.
 /dfp_async.
-/dfp_js/*
 /dfpNew.
 /didna_config.js
 /discourse-adplugin-
-/discuss_ad/*
 /display-ad/*
 /display-ads-$domain=~google.co.uk|~google.com|~google.com.au
 /display-ads/*
@@ -1978,7 +1917,6 @@ tieba.baidu.com##.tuijian-wrap
 /flashad3.
 /flashads.$domain=~flashads.co.id
 /flashads/*
-/flashpeelads/*
 /flatad.
 /fleshlight.$domain=~fleshlight.com|~fleshlight.zendesk.com
 /fleshlightcash_
@@ -1993,8 +1931,7 @@ tieba.baidu.com##.tuijian-wrap
 /floatingad.
 /FloatingAd_
 /floatingads.
-/flyad/*
-/flyads/*
+/flyad.js
 /footad-
 /footad.
 /footer-ad-
@@ -2221,11 +2158,10 @@ tieba.baidu.com##.tuijian-wrap
 /Javascripts/SBA-
 /jquery-ads.
 /jquery.ad.
-/jquery.adi.
-/jquery.adx.
+/jquery.adi.js
+/jquery.adx.js
+/jquery.dfp.js
 /jquery.php/?uid=
-/jquery/ad.
-/jqueryadvertising.
 /js.ad/size=
 /js.ng/cat=
 /js.ng/channel_
@@ -2594,7 +2530,6 @@ tieba.baidu.com##.tuijian-wrap
 /productAds/*
 /production/ad-
 /production/ads/*
-/promo-ads/*
 /promo/ad_
 /promo/ads/*
 /promo/affiframe.
@@ -2603,7 +2538,6 @@ tieba.baidu.com##.tuijian-wrap
 /propellerad.
 /propellerads.$domain=~propellerads.com
 /proto2ad.
-/provideadcode.
 /provider_ads/*
 /proxyadcall?
 /pub/ad/*
@@ -2615,7 +2549,6 @@ tieba.baidu.com##.tuijian-wrap
 /public/ad?
 /public/ads/*
 /public/ads_
-/public/js/ad/*
 /publicidad.$~object,~stylesheet
 /publicidad/*
 /publicidad_$~stylesheet
@@ -2629,7 +2562,6 @@ tieba.baidu.com##.tuijian-wrap
 /purch-ad-
 /pushdownAd.
 /pustrck.js
-/queryAdContent.
 /quigo_ad
 /radioAdEmbed.
 /radioAdEmbedGPT.
@@ -2648,9 +2580,7 @@ tieba.baidu.com##.tuijian-wrap
 /re-ads-
 /realmedia/ads/*
 /realmedia_mjx.
-/realmedia_mjx_
 /reclama/*
-/recommendations/ad.
 /rect_ad.
 /rectangle_ad.
 /redirect/?spot_id=
@@ -2673,7 +2603,6 @@ tieba.baidu.com##.tuijian-wrap
 /ren.gif?
 /report_ad.
 /report_ad_
-/requirejs/ads/*
 /resources/ad.
 /resources/ads/*
 /resources/ads_
@@ -2751,7 +2680,6 @@ tieba.baidu.com##.tuijian-wrap
 /sidead1.
 /sidead2.
 /sidead3.
-/sideadiframe.
 /sideads.
 /sideads/*
 /sidebar-ad-
@@ -2760,11 +2688,7 @@ tieba.baidu.com##.tuijian-wrap
 /sidebar_ads/*
 /sidebarad/*
 /SidebarAds.
-/sidelinead.
-/siframead.
-/site-ads/*
 /site-advert.
-/site/ads?
 /site=*/size=*/viewid=
 /site=*/viewid=*/size=
 /site_ads/*
@@ -2772,10 +2696,8 @@ tieba.baidu.com##.tuijian-wrap
 /siteads/*
 /siteadvert.
 /size=*/random=*/viewid=
-/skin-ad2-
 /skin-ad_
 /skin/ad/*
-/skin/ad3/*
 /skin/adv/*
 /skin3/ads/*
 /skin_ad-
@@ -55694,7 +55616,7 @@ browsershots.org#@#.advert_area
 ||viewdeos.com^$script,third-party
 ||voqally.com/hub/app/
 ||vplayer.newseveryday.com^
-||widgets.outbrain.com^$domain=mamasuncut.com
+||widgets.outbrain.com^$domain=investing.com|mamasuncut.com
 ||www-idm.com/wp-content/uploads/2022/02/bitcoin.png
 ||zype.com^$third-party,domain=bossip.com|hiphopwired.com|madamenoire.com
 ||centent.streamp1ay.
@@ -56502,7 +56424,6 @@ utne.com###URTK_Right_300x600
 scrabble-solver.com###Upper
 doubtnut.com###Web_HomePage_Banner_Resposive_1-container
 doubtnut.com###Web_VideoPage_Banner_Resposive_1-container
-dexerto.com###\#primisplayer
 turbobit.net###__bgd_link
 news-daily.com,outlookindia.com,stripes.com###_snup-rtdx-ldgr1
 ytmp3.cc###a-320-50
@@ -57861,6 +57782,7 @@ yts.mx##.aoiwjs
 motor1.com##.ap
 chargedretail.co.uk,foodstuffsa.co.za,thinkcomputers.org##.apPluginContainer
 motor1.com##.apb
+thetoyinsider.com##.apb-adblock
 eurogamer.net##.apester_block
 classicfm.com##.apple_music
 icon-icons.com##.apu
@@ -58792,6 +58714,7 @@ lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 kveller.com##.header-bottom
 counterpunch.org##.header-center
+thetoyinsider.com##.header-drop-zone
 autental.com##.header-grid-items
 allmovie.com,realestate.com.au,theoldie.co.uk##.header-leaderboard
 realestate.com.au##.header-leaderboard-portal
@@ -59127,6 +59050,7 @@ fandom.com##.marketplace
 imgur.com,pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
 merriam-webster.com##.max-h-\[94px\].min-h-\[94px\].max-w-\[730px\]
+cloudwards.net##.max-medium
 mayoclinic.org##.mayoad
 racgp.org.au##.mb-1.small
 amgreatness.com##.mb-10.mx-auto
@@ -60062,7 +59986,6 @@ vuejs.org##.text-ad
 how2shout.com##.text-ads
 skylinewebcams.com##.text-center.cam-light
 royalroad.com##.text-center.light
-dexerto.com##.text-center.min-h-\[20rem\]
 upi.com##.text-center.mt-5
 whatismyisp.com##.text-gray-100
 businessonhome.com##.text-info
@@ -60086,6 +60009,7 @@ nybooks.com##.toast-cta
 spy.com##.todays-top-deals-widget
 last.fm##.tonefuze
 euobserver.com,medicinehatnews.com##.top
+dexerto.com##.top-0.justify-center
 mashable.com##.top-0.sticky > div
 dexerto.com##.top-10
 cartoq.com##.top-a
@@ -60502,6 +60426,7 @@ cq-esports.com##[href][target*="blank"]
 shroomery.org##[href^="//www.shroomery.org/ads/"]
 unogs.com##[href^="/ad/"]
 royalroad.com##[href^="/advertising/redirect"]
+torrentgalaxy.to##[href^="/bub.php"]
 discord.me##[href^="/cr/"]
 audiobookbay.nl##[href^="/down-"]
 ar15.com##[href^="/forums/transfer.html"]
@@ -60674,8 +60599,6 @@ ghostbin.me##a[href*=".short.gy/"]
 chicagoprowrestling.com##a[href*="//thecmf.com/"] > img
 chicagoprowrestling.com##a[href*="//www.aliciashouse.org/"] > img
 itweb.co.za##a[href*="/adclick.php?"]
-torrentgalaxy.to##a[href*="/fetchdownload.php?"]
-torrentgalaxy.to##a[href*="/hub.php?a"][target]
 breakingbelizenews.com,cardealermagazine.co.uk,headfonics.com,igorslab.de,landline.media,mikesmoneytalks.ca,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
 movie-censorship.com##a[href*="/out.php?"]
 imagetwist.com##a[href*="/par/"]
@@ -65541,6 +65464,7 @@ newduba.cn###jq_youxi
 ||zvasuzb.icu^
 ||zwfkxb.xyz^
 ||zxrcfw.com^
+||jrltdiu.cn^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
@@ -94172,6 +94096,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mql5.com/tr?
 ||mrf.io/statics/marfeel/chunks/metrics-
 ||ms-trackingapi.phenompeople.com^
+||msadsscale.azureedge.net^
 ||msecnd.net/jscripts/HA-$script
 ||msecnd.net/next/$script
 ||msecnd.net/script/raptor-
@@ -96335,6 +96260,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mgz.com.ua/counter.php?
 ||top.zp.ua/counter/
 ||tracker.prom.ua^
+||webvitals.luxnet.ua^
 ||analytics.yomedia.vn^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
