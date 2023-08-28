@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8H0Rs1deNbXQ8Z6ZrccNvg
+! Checksum: zHObCRFiLehwucA0IkST4w
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202308281418
-! Last Modified: 2023年08月28日 14:18
+! Version: 202308282027
+! Last Modified: 2023年08月28日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1636,6 +1636,7 @@ newduba.cn###jq_youxi
 ##a#wrapper_left_bg[target="_blank"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a.ad_links
+##.adv-couplets
 ##a.hengfu > img.hengfu
 ##a[clickmode="ad"]
 ##a[href$=".cc:8443"]
@@ -1711,6 +1712,7 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
+###adv-fixed-square
 ##div#xinxi
 ##div[bannerlist]
 ~ix8.la##div[class^="ADTOPLB_"]
@@ -2464,6 +2466,9 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||jrltdiu.cn^
+||sdvfvgj.cn^
+||r5dfwjtb.icu^
+||5gg17gm.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
@@ -8322,7 +8327,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||acgnx.se/images/adwork/
 ||acgnz.cn/static/b.js
 ||acgnz.cn/static/i.js
-||achost.top/banner/
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
 ||act.chinatimes.com/aimg/
@@ -12048,6 +12052,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||achost.top/uploads/ads/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -12813,7 +12818,7 @@ jiangjunzy.com###index-lb
 ydss.cn###indexBlad
 hdmoli.com###index_banner
 baidu.com###index_banner_top
-2dfan.com,3dmgame.com,galge.fun###index_bg_box
+3dmgame.com###index_bg_box
 qiyeku.com###index_gg
 sm.cn###index_haodongxi
 baidu.com###index_right_float
