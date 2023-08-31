@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: elbfBbPlDtuLachwu+3MhQ
+! Checksum: kTK9hvoaPwqhLzB58G5r7g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202308310217
-! Last Modified: 2023年08月31日 02:17
+! Version: 202308310900
+! Last Modified: 2023年08月31日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2500,6 +2500,9 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||rbrbr88p.cn^
+||cheda1.icu^
+||dwyngjb.icu^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -35653,6 +35656,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
+||antiadtape.com/stat/
 ||apartments.com/clientvisit/al.gif?
 ||apester.com/cookie/bundle.js
 ||api-js.mixpanel.com^
@@ -35664,6 +35668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
+||archive.org^*/analytics.js
 ||as.coinbase.com/metrics
 ||assets.instacart.com^
 ||atrack.allposters.com^
@@ -36743,6 +36748,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
+||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
