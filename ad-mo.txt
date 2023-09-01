@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YX6u1d93TsWFRf5BzMnRqA
+! Checksum: 0SiflWcLL7Jy5yCQ7Tc5iw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309010904
-! Last Modified: 2023年09月01日 09:04
+! Version: 202309011417
+! Last Modified: 2023年09月01日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57769,6 +57769,7 @@ schoolguide.co.za##.banner-bar-bot
 pretoria.co.za##.banner-bg
 azernews.az##.banner-block
 dailycoffeenews.com##.banner-box
+theshovel.com.au##.banner-col
 countdown.co.nz,nscreenmedia.com,whoscored.com##.banner-container
 soccerway.com##.banner-content
 insidebitcoins.com##.banner-cta-wrapper
@@ -65427,6 +65428,8 @@ newduba.cn###jq_youxi
 ||kekop.cn^
 ||bnrdnx.xyz^
 ||uchat6.com^
+||ggdumze.cn^
+||jgsajfggv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -77290,7 +77293,7 @@ u-car.com.tw##.contad
 dragon-guide.net##.container > .gutter:first-child
 zxzjtv.com##.container > .none
 ygdy8.cc##.container > a[href^="/"]
-sstv.fun##.container > a[target="_blank"] > img
+ssyy.ee##.container > a[target="_blank"] > img
 vpsdx.com##.container-fluid > .gsfha3 > .gsfha3
 78dm.net##.container-fluid > a[href*=".taobao.com"]
 ppys66.com##.container-slide + .container-slide
@@ -80598,7 +80601,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=bigpixel.cn|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
+@@/adview_pic_$domain=fffmo.com|bigpixel.cn|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/api/ad/*$domain=pinduoduo.com
@@ -89064,6 +89067,7 @@ _mongo_stats/
 ||reedbusiness.net^$third-party
 ||referer.org^$third-party
 ||referforex.com^$third-party
+||referralrock.com^$third-party
 ||refersion.com^$third-party
 ||reinvigorate.net^$third-party
 ||relead.com^$third-party
@@ -93326,6 +93330,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dw.com.com^$script
 ||dx.mountain.com^
 ||dynamicyield.com/batch?
+||dynamicyield.com/clog
 ||dynamicyield.com/dpx?
 ||dynamicyield.com/imp?
 ||dynamicyield.com/uia?
@@ -94977,6 +94982,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
+||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
@@ -97362,6 +97368,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wellsfargo.com/jenny/
 ||wellsfargo.com/tracking/
 ||wfinterface.com/tracking/$domain=wellsfargo.com
+||wh.ipaddress.com^
 ||whattomine.com/stats
 ||wheregoes.com/api/event
 ||whistleout.com.au/track
