@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EPkNhwvdSvsV/nxEHyX1pA
+! Checksum: y/9uohUhMzAAY4H+HciCnA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202309051417
-! Last Modified: 2023年09月05日 14:17
+! Version: 202309052026
+! Last Modified: 2023年09月05日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1462,6 +1462,7 @@ newduba.cn###jq_youxi
 ##.ksads
 ##.kuandu > .bottommob
 ##.leftadv
+##[style="display: flex; justify-content: space-between; width: 100%;"] > [style*="margin-bottom: 6px; background"]
 ##.leftd + .rightd
 ##.leo-container .ssr1
 ##.link > .image[src*=".qhimg.com/"]
@@ -1778,7 +1779,6 @@ newduba.cn###jq_youxi
 ||23.234.217.11^
 ||23.234.217.12^
 ||cupfox.app^$third-party
-##[style*="mi-img.com"]
 ##[style*="sotv.me"]
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".n7.org.cn"]
@@ -2548,6 +2548,7 @@ newduba.cn###jq_youxi
 ||lgoewtd.icu^
 ||zbzbzb.xyz^
 ||ptfxh.com^
+||ztqdkzn.cn^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -10976,6 +10977,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+am730.com.hk##.adbox
 hcbbs.com###diynavtop
 hcbbs.com##.ke-zeroborder
 szxx.com.cn###A1
@@ -24664,7 +24666,7 @@ m.babytree.com##script + a[class]
 /wp-powerstat/*
 /wp-rum/*
 /wp-slimstat/*
-/wp-statistics/v2/hit?
+/wp-statistics/v2/*
 /wp-stats-manager/js/wsm_new.js
 /wp-useronline/useronline.
 /wp_stat.php?
@@ -25470,6 +25472,10 @@ _mongo_stats/
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
+||wlct-one.de^
+||wlct-two.de^
+||wlt-alice.de^
+||wlt-jupiter.de^
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
@@ -34818,7 +34824,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||generalblue.com/js/pages/shared/analytics.min.js
 ||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||geo.brobible.com^
-||geo.gfycat.com^
 ||geo.nbcsports.com^
 ||geo.yahoo.com^
 ||geoip.boredpanda.com^
@@ -35356,6 +35361,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
 ||statista.com/data/ptm.gif
+||statistics.streamdav.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
@@ -53768,7 +53774,6 @@ arketing.indianadunes.com^
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
 ||trk.mail.ru^$image,script
-||tut.by/stat/
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
 ||xapi.ozon.ru^
