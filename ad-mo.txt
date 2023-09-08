@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: E15254UZpyieBnDDoJpE+g
+! Checksum: DCRe9jeJkKDPbqoauEVwjw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309080217
-! Last Modified: 2023年09月08日 02:17
+! Version: 202309080900
+! Last Modified: 2023年09月08日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25731,6 +25731,7 @@ browsershots.org#@#.advert_area
 ||cluttered-win.pro^
 ||clvacjv.com^
 ||clvceacvvwgk.xyz^
+||clxlxmbtysabn.com^
 ||clxlydpqpnsvxso.xyz^
 ||clxtsxwjp.com^
 ||clydetugger.com^
@@ -27691,6 +27692,7 @@ browsershots.org#@#.advert_area
 ||dpbxtrqyljhse.xyz^
 ||dpdnav.com^
 ||dpfchqsiksjuyjc.xyz^
+||dphpycbr.com^
 ||dpipel.com^
 ||dpmsrv.com^
 ||dprograp.online^
@@ -29427,6 +29429,7 @@ browsershots.org#@#.advert_area
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
 ||ffrywcxaewmpp.com^
+||fftagtden.com^
 ||ffuzila.com^
 ||ffyabcmahqiz.com^
 ||fgddrrr.com^
@@ -39142,6 +39145,7 @@ browsershots.org#@#.advert_area
 ||ppixufsalgm.com^
 ||pplferio.com^
 ||ppoommhizazn.com^
+||ppovysmcycmwvv.com^
 ||pppbr.com^
 ||pprq7.com^
 ||pqnnjjpzarpb.com^
@@ -40406,6 +40410,7 @@ browsershots.org#@#.advert_area
 ||recipeominouscrest.com^
 ||recipesunny.com^
 ||reciprocaldowntownabout.com^
+||reciteassemble.com^
 ||reciteimplacablepotato.com^
 ||recklessliver.com^
 ||recklessmarine.com^
@@ -44633,6 +44638,7 @@ browsershots.org#@#.advert_area
 ||tpn134.com^
 ||tpopularcldfa.co^
 ||tpopularcldfb.co^
+||tposkglvqookv.xyz^
 ||tpycithabalj.com^
 ||tpyshaaxps.com^
 ||tpyxplkcap.top^
@@ -65446,6 +65452,7 @@ newduba.cn###jq_youxi
 ||154.212.147.231^
 ||154.22.214.2^
 ||154.7.80.158^
+||121.43.235.135^
 ||194.59.220.161^
 ||23.231.151.252^
 ||23.234.217.11^
@@ -66243,6 +66250,11 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||nqoxurf.icu^
+||inowe.xyz^
+||htseca.top^
+||dmvckj.icu^
+||hsfbpp.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -86104,7 +86116,6 @@ fqsousou.com,kengso.com#@#.user-share
 ://tracker.*/pageview
 ://tracking.*/beacon/
 ://tracking.*/event
-://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.lol|~utm.md|~utm.openskies.sh|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
