@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hX8kliakYZWwuwHQojAZYQ
+! Checksum: qRzaqJV5il2jN/PRbH7OMg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202309090216
-! Last Modified: 2023年09月09日 02:16
+! Version: 202309090858
+! Last Modified: 2023年09月09日 08:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -598,9 +598,7 @@ tieba.baidu.com##.tuijian-wrap
 .lk/ads/
 .mx/ads/
 .my/ads/
-.name/ads/
 .nativeads.
-.net/_adv/
 .net/ad2/$~xmlhttprequest
 .net/ads?
 .net/noidadx/
@@ -778,9 +776,6 @@ tieba.baidu.com##.tuijian-wrap
 /ad_link.
 /ad_loader.
 /ad_manager/*
-/ad_medium_
-/ad_mobile.
-/ad_mobile_
 /ad_notice.
 /ad_overlay.
 /ad_page_
@@ -808,7 +803,6 @@ tieba.baidu.com##.tuijian-wrap
 /ad_square.
 /ad_square_
 /ad_sticky.
-/ad_text.
 /ad_top.
 /ad_txt.
 /ad_util.
@@ -821,30 +815,20 @@ tieba.baidu.com##.tuijian-wrap
 /adaptvadplayer.
 /adasset/*
 /adasync.
-/adback.
-/adback?
 /AdBackground.
 /adbanner2.
 /adBanner?
 /adbanner_
 /adbanners/*
-/adbeacon.
 /adbottom.
 /adbox.
-/adbreak_
-/adbrite.
 /adbucket.
-/adbutler-
 /adbutler.
-/adcache.
 /adcall?
 /adcalloverride.
-/adcash-
 /adcash.
-/adcast_
 /adcgi?
 /adcheck.
-/adcheck?
 /adchoice.
 /adchoice_
 /adchoices_
@@ -1120,16 +1104,12 @@ tieba.baidu.com##.tuijian-wrap
 /adscontrol.
 /adscontroller.
 /adscript?
-/adscript_
 /adscroll.
 /adsdaq_
 /adsdelivery.
 /adsdelivery/*
-/adsDesktop.
-/adsense?
-/adsensegoogle.
+/adsensegoogle.js
 /adserv.
-/adserve-
 /adserve/*
 /adserve_
 /adserver-
@@ -1154,7 +1134,6 @@ tieba.baidu.com##.tuijian-wrap
 /adsetup.
 /adsfetch.
 /adsheader.
-/adshider.
 /adshow-
 /adshow.
 /adshow/*
@@ -1183,8 +1162,6 @@ tieba.baidu.com##.tuijian-wrap
 /adsmm.dll/*
 /adsnative_
 /adsonar.
-/adspace.$~stylesheet,domain=~adspace.pro
-/adspace?
 /adspan.
 /adsplay.
 /AdsPlugin.
@@ -1192,15 +1169,12 @@ tieba.baidu.com##.tuijian-wrap
 /adsponsor.
 /adspot.$domain=~adspot.lt
 /adspot/*
-/adspromo-
 /adspromo.
-/adsquare.$domain=~adsquare.com|~adsquare.ma
 /adsremote.
 /adsright.$domain=~adsright.pl
 /adsrotate.
 /adsrotator.
 /adsrv.
-/adsrv/*
 /adsscript.
 /adsserv.
 /adsserver.
@@ -1208,28 +1182,20 @@ tieba.baidu.com##.tuijian-wrap
 /adstracking.
 /adstream.
 /adstream_
-/adswide.
-/adsword.
 /adswrapper.
 /adsystem/*
 /ads~adsize~
-/adtable_
 /adtabs.
 /adtag.
 /adtag?
 /adtag_
-/adtago.
 /adtags.
 /adtech;
 /adtext.
-/adtext_
 /adtitle.
 /adTools.
 /adtop.
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
-/adtracker.
-/adttext-
-/adttext.
 /adultadworldpop_
 /adunit/track-view
 /adunits.
@@ -24618,6 +24584,7 @@ browsershots.org#@#.advert_area
 ||budapebluest.com^
 ||buddedpetrie.space^
 ||buddhamoduli.com^
+||budroups.xyz^
 ||budsminepatent.com^
 ||budvawshes.ru^
 ||buench.com^
@@ -26466,6 +26433,7 @@ browsershots.org#@#.advert_area
 ||crimeansnakily.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
+||crimpedmelanic.com^
 ||crimsondozeprofessional.com^
 ||crisdomson.com^
 ||crisistuesdayartillery.com^
@@ -28724,6 +28692,7 @@ browsershots.org#@#.advert_area
 ||eoafgbgyebbcy.com^
 ||eoaktaposh.com^
 ||eofst.com^
+||eogaeapolaric.com^
 ||eondunpea.com^
 ||eonsmedia.com^
 ||eonwayaha.com^
@@ -30087,6 +30056,7 @@ browsershots.org#@#.advert_area
 ||fripth.xyz^
 ||friskbiscuit.com^
 ||fristminyas.com^
+||fritdugs.com^
 ||frittercommittee.com^
 ||fritue.com^
 ||frivolous-copy.pro^
@@ -42219,6 +42189,7 @@ browsershots.org#@#.advert_area
 ||shatoawussoo.com^
 ||shattermessseedling.com^
 ||shaufoal.com^
+||shauhacm.net^
 ||shauhaik.xyz^
 ||shauksug.com^
 ||shaumtol.com^
@@ -45168,7 +45139,6 @@ browsershots.org#@#.advert_area
 ||tuitionpancake.com^
 ||tujajnatzbmo.com^
 ||tujourda.net^
-||tukipasti.com^
 ||tulasitoughie.com^
 ||tuleceti.com^
 ||tulipsameedge.com^
@@ -66436,6 +66406,12 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||jweoe.xyz^
+||desac10.icu^
+||xbyoujv.icu^
+||azukgee.cn^
+||hwfoct.icu^
+||pchznf.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -74863,6 +74839,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||hiaxj.com/dbxf/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -80638,6 +80615,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||banma.com/statics/js/??
 @@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
+@@||juduo.cc^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
@@ -116601,6 +116579,9 @@ arketing.indianadunes.com^
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 !------------------------Specific element hiding rules------------------------!
+fnjiasu.com##.sidebar_download
+fnjiasu.com##.layui-layer
+fnjiasu.com##.swiper-container
 crsky.com##.adowGright
 17173.com##a[href^="https://gtv."]
 gamer.com.tw,~buy.gamer.com.tw##a[href^="https://buy.gamer.com.tw"]
