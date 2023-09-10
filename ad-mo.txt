@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xg3pBq9ORHm+muGWpY/l2A
+! Checksum: aS06S/5ICYP3x1PBn4L2XQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309100903
-! Last Modified: 2023年09月10日 09:03
+! Version: 202309101416
+! Last Modified: 2023年09月10日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57913,6 +57913,7 @@ pcworld.com,techhive.com###tso
 trumparea.com###udmvid
 planetminecraft.com###ultra_wide
 thequint.com###unitDivWrapper-0
+upworthy.com###upworthyFreeStarVideoAdContainer
 my.juno.com###usWorldTile
 forum.mobilism.org###v-mobilism-org-0
 nutritioninsight.com###verticlblks
@@ -59226,6 +59227,7 @@ newsroom.co.nz##.foundingpartners
 freepresskashmir.news##.fpkdonate
 theiphoneappreview.com##.frame
 freedomfirstnetwork.com##.freed-1
+upworthy.com##.freestar-in-content
 moviemistakes.com##.freestarad
 sciencenews.org##.from-nature-index__wrapper___2E2Z9
 cryptocompare.com##.front-page-info-wrapper
@@ -60125,7 +60127,7 @@ twitter.com##.promoted-account
 andoveradvertiser.co.uk,asianimage.co.uk,autoexchange.co.uk,banburycake.co.uk,barryanddistrictnews.co.uk,basildonstandard.co.uk,basingstokegazette.co.uk,bicesteradvertiser.net,borehamwoodtimes.co.uk,bournemouthecho.co.uk,braintreeandwithamtimes.co.uk,brentwoodlive.co.uk,bridgwatermercury.co.uk,bridportnews.co.uk,bromsgroveadvertiser.co.uk,bucksfreepress.co.uk,burnhamandhighbridgeweeklynews.co.uk,burytimes.co.uk,campaignseries.co.uk,chardandilminsternews.co.uk,chelmsfordweeklynews.co.uk,chesterlestreetadvertiser.co.uk,chorleycitizen.co.uk,clactonandfrintongazette.co.uk,cotswoldjournal.co.uk,cravenherald.co.uk,creweguardian.co.uk,dailyecho.co.uk,darlingtonandstocktontimes.co.uk,dorsetecho.co.uk,droitwichadvertiser.co.uk,dudleynews.co.uk,ealingtimes.co.uk,echo-news.co.uk,enfieldindependent.co.uk,eppingforestguardian.co.uk,eveshamjournal.co.uk,falmouthpacket.co.uk,freepressseries.co.uk,gazette-news.co.uk,gazetteherald.co.uk,gazetteseries.co.uk,guardian-series.co.uk,halesowennews.co.uk,halsteadgazette.co.uk,hampshirechronicle.co.uk,harrowtimes.co.uk,harwichandmanningtreestandard.co.uk,heraldseries.co.uk,herefordtimes.com,hillingdontimes.co.uk,ilkleygazette.co.uk,keighleynews.co.uk,kidderminstershuttle.co.uk,knutsfordguardian.co.uk,lancashiretelegraph.co.uk,ledburyreporter.co.uk,leighjournal.co.uk,ludlowadvertiser.co.uk,maldonandburnhamstandard.co.uk,malverngazette.co.uk,messengernewspapers.co.uk,milfordmercury.co.uk,newsshopper.co.uk,northwichguardian.co.uk,oxfordmail.co.uk,penarthtimes.co.uk,prestwichandwhitefieldguide.co.uk,redditchadvertiser.co.uk,redhillandreigatelife.co.uk,richmondandtwickenhamtimes.co.uk,romseyadvertiser.co.uk,runcornandwidnesworld.co.uk,salisburyjournal.co.uk,somersetcountygazette.co.uk,southendstandard.co.uk,southwalesargus.co.uk,southwalesguardian.co.uk,southwestfarmer.co.uk,stalbansreview.co.uk,sthelensstar.co.uk,stourbridgenews.co.uk,surreycomet.co.uk,suttonguardian.co.uk,swindonadvertiser.co.uk,tewkesburyadmag.co.uk,theargus.co.uk,theboltonnews.co.uk,thenational.scot,thenorthernecho.co.uk,thescottishfarmer.co.uk,thetelegraphandargus.co.uk,thetottenhamindependent.co.uk,thewestmorlandgazette.co.uk,thisisthewestcountry.co.uk,thurrockgazette.co.uk,times-series.co.uk,wandsworthguardian.co.uk,warringtonguardian.co.uk,watfordobserver.co.uk,westerntelegraph.co.uk,wharfedaleobserver.co.uk,wiltsglosstandard.co.uk,wiltshiretimes.co.uk,wimbledonguardian.co.uk,wirralglobe.co.uk,witneygazette.co.uk,worcesternews.co.uk,yeovilexpress.co.uk,yorkpress.co.uk,yourlocalguardian.co.uk##.promoted-block
 sportskeeda.com##.promoted-img
 imdb.com##.promoted-provider
-reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.promotedlink
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.promotedlink:not([style^="height: 1px;"])
 racingtv.com,twitter.com,wral.com##.promotion
 eetimes.eu##.promotion-block-wrapper
 actionnetwork.com##.promotion-table
@@ -89871,6 +89873,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awesomeattack.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
+||azuremystique.com^
 ||badgeboat.com^
 ||bagbeam.com^
 ||balancemailbox.com^
@@ -89931,6 +89934,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bravebone.com^
 ||breadbalance.com^
 ||breakableinsurance.com^
+||breakerror.com^
 ||breakfastboat.com^
 ||briefbears.com^
 ||briefstem.com^
@@ -89948,6 +89952,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bunchance.com^
 ||burgerbrush.com^
 ||burnbubble.com^
+||burntwist.com^
 ||burstblade.com^
 ||bushesbag.com^
 ||businessbells.com^
@@ -89991,6 +89996,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cautiouscredit.com^
 ||cavecurtain.com^
 ||cdnral.com^
+||celestialspectra.com^
 ||chairscrack.com^
 ||channelcamp.com^
 ||chargecracker.com^
@@ -90017,6 +90023,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clamcelery.com^
 ||clammychicken.com^
 ||clammytree.com^
+||cleanhaircut.com^
 ||clearcabbage.com^
 ||cloisteredcord.com^
 ||cloisteredcurve.com^
@@ -90028,6 +90035,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clumsyrock.com^
 ||coachquartz.com^
 ||coatfood.com^
+||coldbalance.com^
 ||colorfulafterthought.com^
 ||colossalchance.com^
 ||colossalclouds.com^
@@ -90110,6 +90118,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dashingdirt.com^
 ||dashingdrop.com^
 ||dashingsweater.com^
+||dazzlingbook.com^
 ||deadpanmarble.com^
 ||deadpantruck.com^
 ||deafeningdock.com^
@@ -90144,6 +90153,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||difficultfog.com^
 ||diplomahawaii.com^
 ||direfuldesk.com^
+||disagreeabledrop.com^
 ||discreetfield.com^
 ||discreetquarter.com^
 ||dispensablestranger.com^
@@ -90196,6 +90206,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||elderlyscissors.com^
 ||elderlytown.com^
 ||elephantqueue.com^
+||embermosaic.com^
 ||emptyescort.com^
 ||enchantedjudge.com^
 ||enchantedtop.com^
@@ -90218,6 +90229,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||enviousthread.com^
 ||equablekettle.com^
 ||erraticreaction.com^
+||etherealripple.com^
 ||evaluateend.com^
 ||evaluatestream.com^
 ||evanescentedge.com^
@@ -90482,6 +90494,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||longinglettuce.com^
 ||longingtrees.com^
 ||looseloaf.com^
+||lopsidedleather.com^
 ||lorenzourban.com^
 ||losslace.com^
 ||loudlunch.com^
@@ -90506,6 +90519,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||markedcrayon.com^
 ||markedmeasure.com^
 ||markedpail.com^
+||marketspiders.com^
 ||marriedbelief.com^
 ||massivebasket.com^
 ||massivemark.com^
@@ -90521,6 +90535,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
+||medusasailor.com^
 ||mellowbike.com^
 ||melodicminute.com^
 ||meltmilk.com^
@@ -90593,6 +90608,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||oppositeparcel.com^
 ||optimallimit.com^
 ||orangeoperation.com^
+||orionember.com^
 ||outstandingincome.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
@@ -90708,11 +90724,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quacksquirrel.com^
 ||quaintborder.com^
 ||quaintcan.com^
+||quantumlagoon.com^
 ||quarterbean.com^
 ||questionableobservation.com^
 ||quicksandear.com^
 ||quietknowledge.com^
 ||quillkick.com^
+||quixoticnebula.com^
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
@@ -90847,6 +90865,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sensorsmile.com^
 ||separateshow.com^
 ||separatesilver.com^
+||seraphichorizon.com^
 ||serioussuit.com^
 ||serpentshampoo.com^
 ||shadeship.com^
@@ -91001,6 +91020,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||steadfastsound.com^
 ||steadfastsystem.com^
 ||steadycopper.com^
+||stealsteel.com^
 ||steepsister.com^
 ||steepsquirrel.com^
 ||stepplane.com^
@@ -91049,6 +91069,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||suddenstructure.com^
 ||sugarcurtain.com^
 ||sugarfriction.com^
+||suggestionbridge.com^
 ||sulkybutter.com^
 ||sulkycook.com^
 ||summerobject.com^
@@ -91186,6 +91207,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uselesslumber.com^
 ||uttermosthobbies.com^
 ||vanfireworks.com^
+||velvetnova.com^
 ||vengefulgrass.com^
 ||venusgloria.com^
 ||verdantanswer.com^
