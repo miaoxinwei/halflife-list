@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pky7sBswJMvkDS2Weqhl0Q
+! Checksum: bboOaI2Ktor7UHVt0nzHxw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202309112027
-! Last Modified: 2023年09月11日 20:27
+! Version: 202309120217
+! Last Modified: 2023年09月12日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2655,6 +2655,7 @@ newduba.cn###jq_youxi
 ||legdeh.fun^
 ||legopq.site^
 ||lestv1.icu^
+||lestv10.icu^
 ||lfjtiuy.cn^
 ||lgoewtd.icu^
 ||lgohse.fun^
@@ -2688,6 +2689,7 @@ newduba.cn###jq_youxi
 ||lwide.xyz^
 ||lycjsix.cn^
 ||lzmvcrp.icu^
+||m4pgay.com^
 ||mdhxyhl.cn^
 ||mdwhxw.com^
 ||metaversemolecule.com^
@@ -2702,6 +2704,7 @@ newduba.cn###jq_youxi
 ||mmtnat.com^
 ||mnhknds.com^
 ||mnpbxjq.cn^
+||mnzvtwd.cn^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -2767,6 +2770,7 @@ newduba.cn###jq_youxi
 ||piqtpbxo.icu^
 ||pirxzl.xyz^
 ||pjsbuhl.icu^
+||pkjmmn.icu^
 ||plbs9k.icu^
 ||pmxalz.xyz^
 ||pnhp3x1.com^
@@ -2781,7 +2785,9 @@ newduba.cn###jq_youxi
 ||puy2.cn^
 ||pypwxvo.cn^
 ||pzjizsyf.icu^
+||pzqqstb.icu^
 ||q27sz.com^
+||qbhmz3.com^
 ||qezpjlp.cn^
 ||qhjm600.com^
 ||qhx1h2g.com^
@@ -2946,6 +2952,7 @@ newduba.cn###jq_youxi
 ||vzvvifw.cn^
 ||wcv68kw.com^
 ||wddsva0.com^
+||whe0nqk.icu^
 ||wlgxaij.cn^
 ||wnzle.com^
 ||wpoarjokzgi.com^
@@ -2988,6 +2995,7 @@ newduba.cn###jq_youxi
 ||xukang09.cn^
 ||xukou.net^
 ||xuwfmhh.icu^
+||xwlyfl.xyz^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
 ||xxniln.xyz^
@@ -3046,14 +3054,6 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||lestv10.icu^
-||mnzvtwd.cn^
-||pzqqstb.icu^
-||xwlyfl.xyz^
-||pkjmmn.icu^
-||m4pgay.com^
-||qbhmz3.com^
-||whe0nqk.icu^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -11262,6 +11262,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xitonghe.com/SkinNew/js/init_g.
 ||xitongzhijia.net/theme/2020/js/10033_
 ||xiu8.com/baidu-tieba/*&forum_name=
+||xiumb8.com/js/lm_
 ||xizi.com/js/rotator.js
 ||xkd*.com/layer/layer.js
 ||xkyn.com/imgs/js/xx.js
@@ -19051,13 +19052,13 @@ $image,third-party,domain=258zw.com
 /timer.aspx?649$script,~third-party
 /timer.aspx?719$script,~third-party
 /vbvb_*_pmpm.js
-/xxgg/pppp.js
-/xxgg/ddd*.js
 /xxgg/0dd*.js
 /xxgg/app.js
 /xxgg/book.js
+/xxgg/ddd*.js
 /xxgg/dj*.js
 /xxgg/pf*.js
+/xxgg/pppp.js
 /xxgg/pv.js
 /xxgg/xsggs.js
 ://*:*/chunyu.html?k=$csp=script-src
