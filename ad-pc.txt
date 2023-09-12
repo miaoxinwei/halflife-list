@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZyJNsuty0TCGPss7+DSWQA
+! Checksum: gksl2r2qvYYGoOaS8gfzmg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202309122026
-! Last Modified: 2023年09月12日 20:26
+! Version: 202309130216
+! Last Modified: 2023年09月13日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -24455,6 +24455,7 @@ browsershots.org#@#.advert_area
 ||bryond.com^
 ||bryovo.com^
 ||bs50tds.com^
+||bsfofnphcuj.com^
 ||bsgbd77l.de^
 ||bsgeneral.com^
 ||bshifsasgnpgqf.com^
@@ -27411,6 +27412,7 @@ browsershots.org#@#.advert_area
 ||dissipatecombinedcolon.com^
 ||dissipatedifficulty.com^
 ||dissolveretinue.com^
+||distant-session.pro^
 ||distantsoil.com^
 ||distilinborn.com^
 ||distilled.ie^
@@ -27484,6 +27486,7 @@ browsershots.org#@#.advert_area
 ||dmlkzmg.com^
 ||dmm-video.online^
 ||dmnprx.com^
+||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
@@ -29476,6 +29479,7 @@ browsershots.org#@#.advert_area
 ||ficusoid.xyz^
 ||fidelity-media.com^
 ||fidelitybask.com^
+||fidelitybearer.com^
 ||fieldofbachus.com^
 ||fiendrhythm.com^
 ||fienttestor.guru^
@@ -31984,6 +31988,7 @@ browsershots.org#@#.advert_area
 ||htsysxlupdqe.com^
 ||htthereflewove.xyz^
 ||httpsecurity.org^
+||htufhvsglyoy.com^
 ||htwrildnk.xyz^
 ||huanez.xyz^
 ||hubakba.com^
@@ -33743,6 +33748,7 @@ browsershots.org#@#.advert_area
 ||kjgzctn.com^
 ||kjheamwouk.xyz^
 ||kjisypvbsanmlem.xyz^
+||kjjbgclciiay.xyz^
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjsvvnzcto.com^
@@ -34939,6 +34945,7 @@ browsershots.org#@#.advert_area
 ||lythonefa.com^
 ||lythrumnoetics.website^
 ||lyvbqbvwllblj.top^
+||lyvbqbvwllvnb.top^
 ||lywasnothycant.info^
 ||lyzenoti.pro^
 ||lyzvbjmeybyqj.top^
@@ -44702,6 +44709,7 @@ browsershots.org#@#.advert_area
 ||tnpads.xyz^
 ||tntgfyivhgz.com^
 ||tnudztz.com^
+||toabaise.net^
 ||toabuck.xyz^
 ||toaioi.lol^
 ||toaioi.xyz^
@@ -46658,6 +46666,7 @@ browsershots.org#@#.advert_area
 ||vungqwclop.xyz^
 ||vuuwd.com^
 ||vuvacu.xyz^
+||vuvcroguwtuk.com^
 ||vuvoti.uno^
 ||vuvoti.xyz^
 ||vuvscoqafva.com^
@@ -60423,6 +60432,7 @@ lawandcrime.com,themarysue.com##.promo-unit
 texasmonthly.com##.promo__vertical
 uxmatters.com##.promo_block
 reviversoft.com##.promo_dr
+macworld.com##.promo_wrap
 core77.com##.promo_zone
 fool.com##.promobox-container
 thedailydigest.com##.promocion_celda
@@ -60509,6 +60519,7 @@ dosgamesarchive.com##.rectangle
 knowyourmeme.com##.rectangle-unit-wrapper
 redferret.net##.redfads
 arras.io##.referral
+windowsreport.com##.refmedprd-b
 al-monitor.com##.region--after-content
 middleeasteye.net##.region-before-navigation
 steveharveyfm.com##.region-recommendation-right
@@ -62901,6 +62912,7 @@ pornpics.vip,xxxporn.pics##.cam
 xnxxvideos.rest##.camitems
 winporn.com##.cams
 theyarehuge.com##.cams-button
+tnapics.com##.cams_small
 peekvids.com##.card-deck-promotion
 sxyprn.com##.cbd
 stepmom.one##.cblidovr
@@ -63272,6 +63284,7 @@ hclips.com##.suggestions
 pornmd.com##.suggestions-box
 simply-hentai.com##.superbanner
 holymanga.net##.svl_ads_right
+tnapics.com##.sy_top_wide
 exhibporno.com##.syn
 boundhub.com##.t2op
 boundhub.com##.tab7le
@@ -64208,9 +64221,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
-/js/yueyupp_3.js
-/js/mmdaohang_2.js
-/js/huath_2.js
 -1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
@@ -64641,8 +64651,10 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /js/ggtop.js
 /js/guanggao_gg.js
 /js/home/ad/ad.
+/js/huath_2.js
 /js/index_adfloat.js
 /js/jsstyle-$third-party
+/js/mmdaohang_2.js
 /js/mob/cpc_bottom.js
 /js/pcbook.js?
 /js/piaofu_bet.
@@ -64653,6 +64665,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /js/utils78.js
 /js/wahha/*
 /js/wlfloat.js
+/js/yueyupp_3.js
 /js/yzgg.js
 /js_php/ajsf.php?id=$third-party
 /jsadv/*
@@ -65308,6 +65321,7 @@ newduba.cn###jq_youxi
 ##.add-gg
 ##.addddddwarp
 ##.adlistcss
+##.adpc
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads-after-content
@@ -65814,6 +65828,7 @@ newduba.cn###jq_youxi
 ##a[href*="/9966699.vip"]
 ##a[href*="/mug749.vip"]
 ||1267a.xyz^
+||126ccb.xyz^
 ||1378a.xyz^
 ||1379a.xyz^
 ||1u5gy.xyz^
@@ -65857,6 +65872,7 @@ newduba.cn###jq_youxi
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
+||anei.tv^$third-party
 ||anwqj0i.xyz^
 ||anyunwl04.com^
 ||apdfmhp.cn^
@@ -65938,6 +65954,7 @@ newduba.cn###jq_youxi
 ||chozarpeases.com^
 ||ciadre.fun^
 ||cix0wk.com^
+||cocloud.site^
 ||connectreadoasis.com^
 ||cqtlimi.cn^
 ||csedasdme.xyz^
@@ -66034,6 +66051,7 @@ newduba.cn###jq_youxi
 ||feiln.xyz^
 ||fengyukun03.cn^
 ||fgetmzx.icu^
+||fgnzdb.xyz^
 ||fhglcpf.icu^
 ||fiktvlnc.icu^
 ||fjsytjs.cn^
@@ -66173,6 +66191,7 @@ newduba.cn###jq_youxi
 ||jqkcett.icu^
 ||jrltdiu.cn^
 ||jrmrijv.icu^
+||jsgdvkjz.com^
 ||jslbaha.top^
 ||jszavs1.com^
 ||jtbunh.xyz^
@@ -66185,6 +66204,7 @@ newduba.cn###jq_youxi
 ||jxmiyrh.icu^
 ||jxtejf.xyz^
 ||jygiizv.icu^
+||jynthelon.com^
 ||jyvith.xyz^
 ||jzdgn.cn^
 ||jzdwl4.cn^
@@ -66328,6 +66348,7 @@ newduba.cn###jq_youxi
 ||oqyiapj.cn^
 ||oslbahk.top^
 ||ossfile001.com^
+||otienlk.top^
 ||owlinggnomist.com^
 ||oyfnkle.cn^
 ||p11q.cn^
@@ -66379,6 +66400,7 @@ newduba.cn###jq_youxi
 ||qwdbsjnql.com^
 ||qxakzox.cn^
 ||qxrvmu.com^
+||qzpbwq.com^
 ||r5dfwjtb.icu^
 ||rabuagc.cn^
 ||rbodwtj.icu^
@@ -66421,6 +66443,7 @@ newduba.cn###jq_youxi
 ||sdvfvgj.cn^
 ||sensifyfugged.com^
 ||sfg11rr.com^
+||sgeth7.icu^
 ||shulsbs.cn^
 ||simblotusitate.com^
 ||sjbgyak.cn^
@@ -66476,6 +66499,7 @@ newduba.cn###jq_youxi
 ||tuplzt.xyz^
 ||tushwjp.icu^
 ||tuwaqtjcood.com^
+||tuyyex.icu^
 ||tvdpebx.cn^
 ||tvrshv.xyz^
 ||txcv68f.com^
@@ -66561,6 +66585,7 @@ newduba.cn###jq_youxi
 ||xn--521-x72fh66s.cn^
 ||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
+||xolerkr.cn^
 ||xopxptn.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
@@ -66591,6 +66616,7 @@ newduba.cn###jq_youxi
 ||yuanxiang19.fun^
 ||yuifgh.fun^
 ||yunliunet.com^
+||yxvoud.com^
 ||yyuivw6.com^
 ||yzllux.xyz^
 ||z3yfkdjd.icu^
@@ -66618,6 +66644,7 @@ newduba.cn###jq_youxi
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||zlbcxr.xyz^
+||zlyhslx.icu^
 ||zmdjbl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
@@ -66629,17 +66656,6 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||xolerkr.cn^
-||sgeth7.icu^
-||zlyhslx.icu^
-||jynthelon.com^
-||tuyyex.icu^
-||fgnzdb.xyz^
-||yxvoud.com^
-||qzpbwq.com^
-||otienlk.top^
-||anei.tv^$third-party
-||126ccb.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -75071,8 +75087,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-360kuai.com##.g4.undefined
-360kuai.com##.article__content__yyconfig
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -75445,6 +75459,9 @@ chinaqking.com###cnt-ad
 2345.com###cnxh
 sina.com.tw###colorbox
 qq.com###comic_ad
+fzd3.com###comiis_app_block_22
+fzd3.com###comiis_app_block_74
+fzd3.com###comiis_app_block_84
 haianw.com###comiis_haianw01
 haianw.com###comiis_haianw13
 haianw.com###comiis_haianw14
@@ -75505,7 +75522,6 @@ hao.360.cn###daily-hotword
 6789.com,hao.360.cn,hao.360.com###daily-hotwords
 iask.sina.com.cn###daily_topic_flnr
 kpw6.com###daojs
-fzdao.cn###datu
 my0511.com###dbdcc
 ytbbs.com###dd1
 4399.com###defaultbglink
@@ -76847,7 +76863,6 @@ xineurope.com##.adft
 92wy.com##.adhengfu
 huanqiu.com##.adindexList
 13tv.top,sina.com##.aditem
-fzdao.cn##.adlan
 jsphp.net##.adleft-wrap
 cww.net.cn##.adlinkL
 cww.net.cn##.adlinkR
@@ -76996,6 +77011,7 @@ sm.cn##.article.ali_row + #sc ~ .article.ali_row
 hahamx.cn##.article.mt-20
 xvna.com##.articleAD
 xuite.net##.articleExtAd
+360kuai.com##.article__content__yyconfig
 toutiao.com##.article_link[data-tag="ad"]
 24en.com##.article_part_top
 ssr.tools##.asb
@@ -77693,6 +77709,7 @@ so.com##.g-a-noline[data-md*="sad"]
 onlinedown.net##.g-huodong
 qq.com##.g-qzp-bottom
 weiyun001.com##.g-side-r > a[onclick^="onLogs"]
+360kuai.com##.g4.undefined
 mobanwang.com##.g960
 126.com,163.com##.gWel-promt
 gmw.cn##.g_adMain
