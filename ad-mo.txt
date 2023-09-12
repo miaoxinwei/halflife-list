@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JKV0k3c9Fc2pPQz2MLcx5g
+! Checksum: W6JJDFI8klx0nTI3uBf7mA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309120858
-! Last Modified: 2023年09月12日 08:58
+! Version: 202309121417
+! Last Modified: 2023年09月12日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -547,8 +547,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-overlay-
 /ad-overlay.
 /ad-provider.js
-/ad-refresh-
-/ad-refresh.
 /ad-renderer.
 /ad-scripts--
 /ad-scroll.
@@ -560,9 +558,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-third-party?
 /ad-top-
 /ad-top.
-/ad-unit-
 /ad-vert.
-/ad-view-
 /ad.*/impression?
 /ad.cgi?
 /ad.css?
@@ -643,17 +639,11 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad_home.
 /ad_horisontal.
 /ad_horizontal.
-/ad_iframe.
-/ad_iframe_
-/ad_image.
 /ad_images/*
-/ad_img.
 /ad_img/*
 /ad_include.
 /ad_index_
-/ad_insert.
 /ad_label_
-/ad_large.
 /ad_lazyload.
 /ad_left.
 /ad_left_
@@ -872,7 +862,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ads/leaderboard.
 /ads/native.js
 /ads/outbrain?
-/ads/panel.
 /ads/player-
 /ads/popout.
 /ads/popup.
@@ -1068,16 +1057,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adswrapper.
 /adsystem/*
 /ads~adsize~
-/adtabs.
-/adtag.
-/adtag?
-/adtag_
-/adtags.
 /adtech;
 /adtext.
-/adtitle.
 /adTools.
-/adtop.
 /adtrack.$domain=~adtrack.ca|~adtrack.yacast.fr
 /adultadworldpop_
 /adunit/track-view
@@ -1087,11 +1069,10 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adutil.
 /adutils.
 /adv-banner-
-/adv-bannerize-
 /adv-mobile.
-/adv-scroll-
+/adv-scroll-sidebar.js
 /adv-scroll.
-/adv-socialbar-
+/adv-socialbar-scroll.js
 /adv.css?
 /adv/adriver
 /adv/kelkoo_
@@ -1757,7 +1738,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /maven/am.js
 /mbads?
 /mcad.php
-/media/ad/*
 /media/ads/*
 /media_ads/*
 /mellowads.
@@ -58421,7 +58401,7 @@ freepik.com##.adobe-detail
 freepik.com##.adobe-grid-design
 flightglobal.com,thriftyfun.com##.adp
 vice.com##.adph
-1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,coingax.com,cryptonomist.ch,currencyrate.today,economictimes.com,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hockeyfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,m.economictimes.com,mangasect.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,piliapp.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,y8.com,yummy.ph##.ads
+1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,coingax.com,cryptonomist.ch,currencyrate.today,economictimes.com,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hockeyfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,m.economictimes.com,mangasect.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,onlinerekenmachine.com,piliapp.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,y8.com,yummy.ph##.ads
 moneycontrol.com##.ads-320-50
 dallasinnovates.com##.ads-article-body
 dnaindia.com,wionews.com##.ads-box-300x250
@@ -58904,6 +58884,7 @@ download.cnet.com##.c-pageProductDetail-sidebarAd
 download.cnet.com##.c-pageProductDetail_productAlternativeAd
 cnet.com##.c-pageReviewContent_ad
 smashingmagazine.com##.c-promo-box
+smashingmagazine.com##.c-promotion-box
 webtoon.xyz##.c-sidebar
 umassathletics.com##.c-sticky-leaderboard
 globalnews.ca##.c-stickyRail
@@ -59490,7 +59471,7 @@ scmp.com##.header-ad-slot
 worldpress.org##.header-b
 adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,warisboring.com##.header-banner
 mercurynews.com,nssmag.com##.header-banners
-amazonadviser.com,apptrigger.com,fansided.com,hiddenremote.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.header-billboard
+amazonadviser.com,apptrigger.com,fansided.com,hiddenremote.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,stormininnorman.com,winteriscoming.net##.header-billboard
 lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 kveller.com##.header-bottom
@@ -60537,6 +60518,7 @@ sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 metalsucks.net##.single-300-insert
 9to5mac.com##.single-custom-post-ad
+kolompc.com##.single-post-content > center
 abovethelaw.com##.single-post__sponsored-post--desktop
 policyoptions.irpp.org##.single__ad
 deshdoaba.com##.site-branding
@@ -60698,6 +60680,7 @@ news.stv.tv##.stv-article-gam-slot
 dbltap.com##.style_7z5va1-o_O-style_48hmcm-o_O-style_1ts1q2h
 inyourarea.co.uk##.style_advertisementMark_1Jki4
 inyourarea.co.uk##.style_cardWrapper_ycKf8
+amazonadviser.com,apptrigger.com,arrowheadaddict.com,bamsmackpow.com,fansided.com,gamesided.com,gojoebruin.com,hiddenremote.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,stormininnorman.com,winteriscoming.net##.style_k8mr7b-o_O-style_1ts1q2h
 nationalheraldindia.com##.styles-m__dfp__3T0-C
 cmswire.com##.styles_ad-block__2OJmV
 streamingsites.com##.styles_adverticementBlock__FINvH
@@ -61202,6 +61185,7 @@ yesflicks.com##[href="/location/amazon"]
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
 warfarehistorynetwork.com##[href="http://www.bktravel.com/"]
 daijiworld.com##[href="http://www.expertclasses.org/"]
+gametracker.com##[href="http://www.gameservers.com"]
 allnewspipeline.com##[href="http://www.sqmetals.com/"]
 dafontfree.io##[href="https://1.envato.market/c/"]
 bitcoiner.tv##[href="https://bitcoiner.tv/buy-btc.php"]
@@ -64018,6 +64002,9 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/js/yueyupp_3.js
+/js/mmdaohang_2.js
+/js/huath_2.js
 -1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
