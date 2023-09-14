@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SZABM3pFqxb9zD81i+vMtw
+! Checksum: kwK+S9qYsyUSlQEx69BjvA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202309142026
-! Last Modified: 2023年09月14日 20:26
+! Version: 202309150217
+! Last Modified: 2023年09月15日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2649,6 +2649,8 @@ newduba.cn###jq_youxi
 ||zypzzv.xyz^
 ||diouy9cvtx.xyz^
 ||54dbg.xyz^
+||xybnfn.xyz^
+||1jc5t.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -16625,6 +16627,7 @@ tangdoucdn.com#@#.video-ad
 i-cable.com#@#.video_ad
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
+pengbocloud.com#@#.ad-bg
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
 !---------------------------------URL Whitelist-------------------------------!
