@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: toDyp0wblflNDgOkventMQ
+! Checksum: zofd/7x8HufNrLAi6tNatA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309210900
-! Last Modified: 2023年09月21日 09:00
+! Version: 202309211418
+! Last Modified: 2023年09月21日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -844,14 +844,12 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adsbox.$~script,domain=~adsbox.com.sg|~adsbox.in
 /adscontrol.
 /adscontroller.
-/adscroll.
-/adsdaq_
+/adscroll.js
 /adsdelivery.
 /adsdelivery/*
 /adsensegoogle.js
 /adserv.
 /adserve/*
-/adserve_
 /adserver-
 /adserver.$~xmlhttprequest,domain=~konograma.com
 /adserver1-
@@ -860,11 +858,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adserver2/*
 /adserver3.
 /adserver?
-/adservice-
-/adservices.
-/adservices/*
 /adserving.
-/adserving/*
 /adserv|*|adtech;
 /adsheader.
 /adsimage/*
@@ -1111,22 +1105,13 @@ pan.baidu.com##.upload-bar.global-clearfix
 /beacon/ads/*
 /beacon/ads?
 /bg-advert-
-/bg/ads/*
-/bg_ads_
-/bg_adv_
-/bigad.
-/bigad_
-/bigboxad.
-/blockad_
 /blogad.
 /blogad_
 /blogads-
 /blogads.
 /blogads/*
-/blogads_
 /bnr_ad_
 /bnrsrv.
-/bottom-ad-
 /bottom-ads.
 /bottom-advert-
 /bottom_ad.
@@ -1134,18 +1119,13 @@ pan.baidu.com##.upload-bar.global-clearfix
 /bottom_adv.
 /bottom_adv_
 /bottomad.
-/bottomad/*
 /bottomads.
 /Box-ad-
 /box_ad_
-/box_ads_
 /brightcovead.
 /bsa-plugin-pro-
 /bsa-pro-
-/buttonad/*
 /buttonads.
-/buttonads/*
-/buyclicks/*
 /buysellads-
 /buysellads.
 /call/pubif/*
@@ -1253,11 +1233,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /display-ad/*
 /display-ads-$domain=~google.co.uk|~google.com|~google.com.au
 /display-ads/*
-/display.ad.
-/display/ads/*
-/display/ads?
-/display?ad_
-/display_ad$domain=~ads.instacart.com
 /displayad.$~script
 /displayad/*
 /displayad?
@@ -2123,9 +2098,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /widgetad.
 /widgets/ads.
 /widgets/sponsored/*
-/wix-ad.
-/wixads.
-/wixads/*
 /wordpress-ads-plug-in/*
 /wp-ad.min.
 /wp-auto-affiliate-links/*
@@ -2176,10 +2148,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /xclicks.
 /xpopunder.
 /xpopup.js
-/yahoo-ads/*
-/yahooads.
-/yahooads/*
-/yahooadsapi.
 /yhs/ads?
 /yume_ad_library_
 /zanox/banner/*
@@ -56615,6 +56583,7 @@ browsershots.org#@#.advert_area
 ||vtube.to/api/spots/
 ||wafvertizing.crazygames.com^
 ||wall.vgr.com^
+||web-oao.ssp.yahoo.com/admax/
 ||webcamtests.com/MyShowroom/view.php?
 ||webstick.blog/images/images-ads/
 ||welovemanga.one/uploads/bannerv.gif
@@ -59057,8 +59026,10 @@ saabplanet.com##.baner
 rhumbarlv.com##.banlink
 1001games.com,alistapart.com,arcadebomb.com,armageddonexpo.com,bikechatforums.com,birminghamworld.uk,bristolworld.com,bsc.news,btcmanager.com,ca-flyers.com,caixinglobal.com,caribvision.tv,cmo.com.au,coryarcangel.com,derbyshiretimes.co.uk,dominicantoday.com,doncasterfreepress.co.uk,elyricsworld.com,euobserver.com,eurochannel.com,exalink.fun,fifetoday.co.uk,filmmakermagazine.com,flvtomp3.cc,footballtradedirectory.com,forexpeacearmy.com,funpic.hu,gartic.io,garticphone.com,glasgowworld.com,gr8.cc,gsprating.com,hartlepoolmail.co.uk,hortidaily.com,hyipexplorer.com,ibtimes.co.in,ibtimes.co.uk,imedicalapps.com,insidefutbol.com,irishpost.com,israelnationalnews.com,japantimes.co.jp,jpost.com,kissasians.org,lincolnshireworld.com,liverpoolworld.uk,livescore.in,londonworld.com,manchesterworld.uk,marinelink.com,mercopress.com,miltonkeynes.co.uk,mmorpg.com,mob.org,nationalworld.com,newcastleworld.com,news.am,news.net,northamptonchron.co.uk,northantstelegraph.co.uk,northumberlandgazette.co.uk,oncyprus.com,onlineconvertfree.com,pharmatimes.com,portsmouth.co.uk,powerboat.world,reversephonesearch.com.au,roblox.com,scientificamerican.com,smartcarfinder.com,speedcafe.com,sputniknews.com,starradionortheast.co.uk,subscene.com,sumodb.com,sussexexpress.co.uk,sweeting.org,swzz.xyz,tass.com,thefanhub.com,thefringepodcast.com,thehun.com,thestar.co.uk,timeslive.co.za,timesofisrael.com,tmi.me,toyworldmag.co.uk,unblockstreaming.com,vibilagare.se,vloot.io,warwickshireworld.com,weatheronline.co.uk,weekly-ads.us,worldtimeserver.com,xbiz.com,ynetnews.com,yorkshirepost.co.uk##.banner
 papermag.com##.banner--ad__placeholder
+onlineradiobox.com##.banner--header
 oilprice.com##.banner--inPage
 puzzlegarage.com##.banner--inside
+onlineradiobox.com##.banner--vertical
 freepik.com##.banner-adobe
 schoolguide.co.za##.banner-bar
 schoolguide.co.za##.banner-bar-bot
@@ -66975,6 +66946,7 @@ newduba.cn###jq_youxi
 ||crvbnac.xyz^
 ||gniew.xyz^
 ||sdjvbsjbvas.com^
+||lrdyfz.xyz^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/ky6y.com"]
@@ -83953,6 +83925,7 @@ fqsousou.com,kengso.com#@#.user-share
 /bundle/analytics.
 /bundles/metrics.
 /bunsen/events/*
+/busting/facebook-tracking/*
 /bv-analytics.js
 /byside_webcare.
 /bytro/logs/*
@@ -84384,51 +84357,33 @@ fqsousou.com,kengso.com#@#.user-share
 /eventtracking-
 /eventtracking.
 /eventtracking/*
-/evercookie.
-/evercookie/*
-/evercookie_
-/evergage-script.
+/evercookie.js
+/evercookie/swfobject-2.2.min.js
 /evergage.js
-/evergage.min-
 /evergage.min.js
 /evt.gif?
-/evtrack-
-/ewtrack.
-/EWTRACK_
 /exactag.js
-/exittracker.
-/expcount/*
-/extendedAnalytics.
-/external-tracking.
-/external/nielsen_
-/ezytrack.
+/exittracker.js
+/expcount/additional.php
+/extendedanalytics.js
+/external-tracking.min.js
+/ezytrack.js
 /f.gif?
-/facebook-retargeting-
-/facebook-tracking/*
 /facebook/pixel.js
-/facebook_fbevents.
-/facebook_pixel_
-/facebookpixel.
-/facebookpixel/*
-/facebookproductad/*$script
-/FacebookTracking.
+/facebook_fbevents.js
+/facebook_pixel_3_1_2.js
+/facebookpixel.js
 /faciliti-tag.min.js
-/fairfax_tracking.js
-/fastcounter.
-/fb-pixel-
+/fb-pixel-scripts?
 /fb-tracking.js
-/fb_pixel_page_
-/fbanalytics/*
-/fbcounter/*
-/fbevents-amd.js
+/fb_pixel_page_view
+/fbanalytics.js
+/fbcounter/counter.cgi
 /fbevents.js
 /fbevents.min.js
-/fbo-collect.
 /fbpix-events-
-/fbpixel.
+/fbpixel.js
 /fbpixel/*
-/fdlogger.
-/fdlogger/*
 /fe/track/*
 /fe_logger?
 /figanalytics/*
@@ -84950,6 +84905,7 @@ fqsousou.com,kengso.com#@#.user-share
 /LogAmpHit?
 /LogAnalysisTracker/*
 /loganalyticsevent?
+/logAutoMicroConversion?
 /logclick.
 /logcollect.
 /logcollect_
@@ -87118,6 +87074,7 @@ _mongo_stats/
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
+||byspotify.com^
 ||cadsuta.net^
 ||captcha-display.com^
 ||cbdatatracker.com^
@@ -87639,6 +87596,7 @@ _mongo_stats/
 ||apolloprogram.io^$third-party
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
+||appdynamics.com^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -88183,6 +88141,7 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
+||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -93057,7 +93016,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.opmnstr.com/v2/geolocate/
 ||app.posthog.com/static/array.js
 ||app.yesware.com/t/$third-party
-||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
@@ -96798,6 +96756,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fathom.app.silverbeak.com^
 ||fathom.status.im^
 ||fathom.tdvm.net^
+||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fc2.com/ana/analyzer.php
 ||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
@@ -97041,6 +97000,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.klook.com^
 ||log.quora.com^
 ||log.snapdeal.com^
+||log.v.ssp.yahoo.com^
 ||log.webnovel.com^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
