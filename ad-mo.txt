@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n87k6z9FA1Pn7/aE+Eb8eQ
+! Checksum: m49NNBHYc2MeOzXO8CaEbg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202310070218
-! Last Modified: 2023年10月07日 02:18
+! Version: 202310070900
+! Last Modified: 2023年10月07日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -66607,6 +66607,16 @@ newduba.cn###jq_youxi
 ||xvzfyra.xyz^
 ||xxkswdf.icu^
 ||yepgdita.xyz^
+||quzmtpxw.xyz^
+||rkds10.icu^
+||vdggsd007.com^
+||quzmtpxw.xyz^
+||vxdpmxw.xyz^
+||cuvtnzv.cn^
+||qauksl.icu^
+||gmx29.top^
+||thboxp.xyz^
+||vivienjumpe.com^
 ||yhtpsy8888.cc^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -75564,6 +75574,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+chinaz.com##.HeaderAdvert
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -91549,6 +91560,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
+||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
 ||scarfsmash.com^
