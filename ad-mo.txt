@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KTY6L0PPb7f9vIME8qKC1A
+! Checksum: 14YazgBbJZ+nNRtwatcFcw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202310091419
-! Last Modified: 2023年10月09日 14:19
+! Version: 202310092029
+! Last Modified: 2023年10月09日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -24333,6 +24333,7 @@ browsershots.org#@#.advert_area
 ||caesaw.com^
 ||caeso-nmr.com^
 ||caffleklismos.website^
+||cagerssoohong.com^
 ||cagesscan.com^
 ||caglaikr.net^
 ||cagothie.net^
@@ -24559,6 +24560,7 @@ browsershots.org#@#.advert_area
 ||cavecredentialdeer.com^
 ||caveestate.com^
 ||cavernousshift.pro^
+||cavilerestops.com^
 ||cawbarthe.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -24969,7 +24971,6 @@ browsershots.org#@#.advert_area
 ||choupaig.xyz^
 ||choupsee.com^
 ||chozeers.xyz^
-||chpadblock.com^
 ||chpjnxbxvzmqpx.com^
 ||chpok.pw^
 ||chrantary-vocking.com^
@@ -29596,6 +29597,7 @@ browsershots.org#@#.advert_area
 ||for-joiyvidspics.online^
 ||for-joiyvidspics.site^
 ||forads.pro^
+||foramendowve.com^
 ||foramoongussor.com^
 ||forarchenchan.com^
 ||foraxewan.com^
@@ -31654,6 +31656,7 @@ browsershots.org#@#.advert_area
 ||hogqmd.com^
 ||hogtiesnosh.guru^
 ||hohese.com^
+||hoickpinyons.com^
 ||hoiiodacdsmro.com^
 ||hoisquit.buzz^
 ||hoistchart.com^
@@ -36704,6 +36707,7 @@ browsershots.org#@#.advert_area
 ||niftpyobkap.com^
 ||nifty-drive.pro^
 ||nigerm.com^
+||niggedpacaya.com^
 ||nighter.club^
 ||nightfallforestallbookkeeper.com^
 ||nightfallroad.com^
@@ -41965,6 +41969,7 @@ browsershots.org#@#.advert_area
 ||safetytds.com^
 ||safewarns.com^
 ||saffianxenian.com^
+||sagbutsbhotia.com^
 ||sagedeportflorist.com^
 ||saggarmammon.com^
 ||saggrowledetc.com^
@@ -43317,6 +43322,7 @@ browsershots.org#@#.advert_area
 ||sosettoourmarke.info^
 ||soshoord.com^
 ||sosigninggrudge.com^
+||sotchart.net^
 ||sotchoum.com^
 ||sotetahe.pro^
 ||sottagejalur.uno^
@@ -47673,6 +47679,7 @@ browsershots.org#@#.advert_area
 ||whychymithy.com^
 ||whyocafenet.space^
 ||wibtntmvox.com^
+||wichauru.xyz^
 ||wichtstoppit.space^
 ||wickedhumankindbarrel.com^
 ||wickiupcopalms.com^
@@ -47779,6 +47786,7 @@ browsershots.org#@#.advert_area
 ||wishesobtrusivefastest.com^
 ||wishfulauthorities.com^
 ||wishfulthingtreble.com^
+||wishjolty.com^
 ||wishjus.com^
 ||wishmayvaganti.website^
 ||wisingpianeta.uno^
@@ -48814,7 +48822,6 @@ browsershots.org#@#.advert_area
 ||zenoviaexchange.com^
 ||zenoviagroup.com^
 ||zeofnuvzsh.com^
-||zeotap.com^
 ||zepazupi.com^
 ||zepihoju.xyz^
 ||zer1ads.com^
@@ -49560,6 +49567,7 @@ browsershots.org#@#.advert_area
 ||cdnreference.com^$third-party
 ||charltonmedia.com^$third-party
 ||chitika.com^$third-party
+||chpadblock.com^$~image
 ||cibleclick.com^$third-party
 ||cinarra.com^$third-party
 ||citrusad.com^$third-party
@@ -57009,6 +57017,7 @@ browsershots.org#@#.advert_area
 ||saabsunited.com/wp-content/uploads/*banner
 ||sat-universe.com/wos2.png
 ||sat-universe.com/wos3.gif
+||save-editor.com/b/in/ad/
 ||sawfirstdelivery.com/master/delivery.js
 ||sbfull.com/assets/jquery/jquery-3.2.min.js?
 ||sbfull.com/js/mainpc.js
@@ -61382,6 +61391,7 @@ brandsoftheworld.com##.seedling
 hypestat.com##.sem_banner
 shareus.io##.seperator-tag
 searchencrypt.com##.serp__top-ads
+save-editor.com##.set_wrapper
 shortorial.com##.sgpb-popup-dialog-main-div-wrapper
 analyticsinsight.net,shortorial.com##.sgpb-popup-overlay
 stockhouse.com##.sh-ad
@@ -66689,6 +66699,7 @@ newduba.cn###jq_youxi
 ||vdggsd009.com^
 ||yhlzadr.xyz^
 ||ibsea.cn^
+||rvreuxi.cn^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -75645,6 +75656,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+yahoo.com##div[data-content="廣告"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
