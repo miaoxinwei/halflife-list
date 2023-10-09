@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kfQ3un2uDabGeGdHA0ob9g
+! Checksum: KTY6L0PPb7f9vIME8qKC1A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202310090901
-! Last Modified: 2023年10月09日 09:01
+! Version: 202310091419
+! Last Modified: 2023年10月09日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -10231,6 +10231,7 @@ _800x80_
 ##.adform__topbanner
 ##.adfoxly-overlay
 ##.adfoxly-place-delay
+##.adfoxly-wrapper
 ##.adframe
 ##.adframe2
 ##.adframe_banner
@@ -64548,6 +64549,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||givingassistant.org/Advertisers/$~third-party
 @@||global-uploads.webflow.com/*_dimensions-$image,domain=dimensions.com
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
+@@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=raiderramble.com
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||google.com/images/integrations/$image,~third-party
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=zubizu.com
@@ -66686,6 +66688,7 @@ newduba.cn###jq_youxi
 ||bbfnrn.xyz^
 ||vdggsd009.com^
 ||yhlzadr.xyz^
+||ibsea.cn^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -86135,6 +86138,7 @@ fqsousou.com,kengso.com#@#.user-share
 /stats/api/collect
 /stats/article?
 /stats/bezoek_count.php
+/stats/collect/*
 /stats/collect?
 /stats/collector.js
 /stats/CounterPage.
@@ -94803,6 +94807,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shorthand.com/analytics/
 ||showstopped.com/owa/log.php
 ||showstopped.com/owa/modules/base/dist/owa.tracker.js
+||shrtfly.vip/js/tag.js
 ||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitefinity.com/collect/
