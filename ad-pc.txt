@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Mj6mYSrzEnvB9coQdRg3lw
+! Checksum: TbcVlywH+1sVVTc3u1wtLw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202310110218
-! Last Modified: 2023年10月11日 02:18
+! Version: 202310110901
+! Last Modified: 2023年10月11日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -66870,6 +66870,14 @@ newduba.cn###jq_youxi
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
 ||zchvyet.cn^
+||vdggsd011.com^
+||uahozcfq.xyz^
+||uahozcfq.xyz^
+||wrtjojn.xyz^
+||cheda6.icu^
+||cadizer.com^
+||ebmlsvw.cn^
+||jvjmjt.xyz^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -75826,6 +75834,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zztt24.com##.event-notice
+zztt24.com##.gotoclick
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -117572,6 +117582,7 @@ arketing.indianadunes.com^
 ||infogram.com^$domain=hk01.com
 ||letvcdn.com/lc02_live/201803/18/23/40/1521387641261new.
 !------------------------Specific element hiding rules------------------------!
+yisu.com##.coupon-get-link
 on.cc##.appinstall
 36kr.com##.app-track-card
 fnjiasu.com##.sidebar_download
