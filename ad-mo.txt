@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IQ2gCyOwQABsM4YCZ2J1xQ
+! Checksum: 7jS+KOviAN08YL8PTN6BqA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202310121418
-! Last Modified: 2023年10月12日 14:18
+! Version: 202310122027
+! Last Modified: 2023年10月12日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62655,6 +62655,7 @@ sfchronicle.com##div[class^="ad-module-"]
 fodors.com##div[class^="ad-placeholder"]
 cointelegraph.com##div[class^="ad-slot_"]
 reuters.com##div[class^="ad-slot__"]
+gamingdeputy.com##div[class^="ad-wrapper-"]
 kijiji.ca##div[class^="adChoices-"]
 goodrx.com##div[class^="adContainer"]
 statsroyale.com##div[class^="adUnit_"]
@@ -62683,6 +62684,7 @@ kijiji.ca##div[class^="sponsored-"]
 target.com##div[class^="styles__PubAd"]
 semafor.com##div[class^="styles_ad"]
 unmineablesbest.com##div[class^="uk-visible@"]
+gamingdeputy.com##div[class^="vb-"]
 whatsondisneyplus.com##div[class^="whats-"]
 unsplash.com##div[data-ad="true"]
 999thehawk.com##div[data-alias="Sweetjack"]
@@ -64623,6 +64625,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||global-uploads.webflow.com/*_dimensions-$image,domain=dimensions.com
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=raiderramble.com
+@@||go.xlirdr.com/api/models/vast$xmlhttprequest
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||google.com/images/integrations/$image,~third-party
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=zubizu.com
@@ -66798,6 +66801,9 @@ newduba.cn###jq_youxi
 ||y341i.xyz^
 ||rslkhj.xyz^
 ||a4bj6.xyz^
+||lwmzoaf.cn^
+||bollenhurkle.com^
+||exemptambientcream.com^
 ||yhlzadr.xyz^
 ||newpgqnfapkamg.xyz^
 ||yhtpsy8888.cc^
@@ -90996,6 +91002,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||courageousbaby.com^
 ||coverapparatus.com^
 ||cowscrayon.com^
+||cozyhillside.com^
 ||crabbychin.com^
 ||crafthenry.com^
 ||crashchance.com^
