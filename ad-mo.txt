@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0y2bBjUNDnqiAvi+HctSuw
+! Checksum: ZyiEkbAKUviXNez9Nyfk+A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202310230216
-! Last Modified: 2023年10月23日 02:16
+! Version: 202310230902
+! Last Modified: 2023年10月23日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50012,6 +50012,7 @@ browsershots.org#@#.advert_area
 ||insurads.com^$third-party
 ||integr8.digital^$third-party
 ||intenthq.com^$third-party
+||intentiq.com^$third-party
 ||intentmedia.net^$third-party
 ||interactiveads.ai^$third-party
 ||interadv.net^$third-party
@@ -61726,6 +61727,7 @@ bangordailynews.com##.scaip
 newindianexpress.com##.scc
 radiotimes.com##.schedule__row-list-item-advert
 hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_video_master
+eatsmarter.com##.scroll-creatives
 readmng.com##.scroll_target_top
 lethbridgenewsnow.com##.scroller
 cyclinguptodate.com,tennisuptodate.com##.sda
@@ -67200,6 +67202,14 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||jnkmhn.com^
+||cgbswl.icu^
+||yuanxiaa.cn^
+||diaocaixiaq.cn^
+||zjdruhn.xyz^
+||nyhgvn.xyz^
+||hkrytf.xyz^
+||pidurrmu.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -92357,6 +92367,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||verdantanswer.com^
 ||verifyvegetable.com^
 ||verseballs.com^
+||vibranthaven.com^
 ||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
@@ -98004,6 +98015,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||speed.cloudflare.com/__log
 ||sportsmansguide.com/scripts/vendor/at_
 ||spotifycdn.com/cdn/js/retargeting-pixels-
+||spt.ahram.org.eg^
 ||squarespace.com/api/1/performance/
 ||squirrel.malaynahocker.com^
 ||srchoffer.com/tracking/
