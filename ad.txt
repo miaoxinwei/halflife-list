@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t1tA+vfxXp0o3FNIdiAOSA
+! Checksum: mwxFedYg9l6bLXYfYYaOBw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202310271418
-! Last Modified: 2023年10月27日 14:18
+! Version: 202310272026
+! Last Modified: 2023年10月27日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2552,6 +2552,7 @@ newduba.cn###jq_youxi
 ||gmx38.top^
 ||cjohpsc.cn^
 ||tongjiniao.com^
+||gmx41.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -11513,6 +11514,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||520click.com/ad.$domain=~video.520cc.cc
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17202,7 +17204,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||520cc.cc/api/jspopunder.
 @@||520cc.cc/jspopunder.
 @@||520cc.cc^*/ad.php
-@@||520click.com/ad.php
 @@||5278.cool^$generichide
 @@||52zy.com/gg/
 @@||58.com/adJump?adType=
