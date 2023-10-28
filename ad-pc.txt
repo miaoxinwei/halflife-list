@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: w8aNqFy1cI4jSJRRRdh3wA
+! Checksum: ukU3dh1hvTnX2lUW2kTRxg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202310280217
-! Last Modified: 2023年10月28日 02:17
+! Version: 202310280859
+! Last Modified: 2023年10月28日 08:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -17282,6 +17282,7 @@ _800x80_
 ##.tcf-ad
 ##.td-a-ad
 ##.td-a-rec-id-custom_ad_1
+##.td-a-rec-id-custom_ad_2
 ##.td-a-rec-id-custom_ad_3
 ##.td-a-rec-id-custom_ad_4
 ##.td-a-rec-id-custom_ad_5
@@ -22995,6 +22996,7 @@ browsershots.org#@#.advert_area
 ||beastsclassbiscuit.com^
 ||beastsmalefic.uno^
 ||beatifulapplabland.com^
+||beatifulllhistory.com^
 ||beautifulasaweath.info^
 ||beaverculbert.uno^
 ||beavertron.com^
@@ -62763,7 +62765,6 @@ elitepvpers.com##[width="966"]
 presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
-freshplaza.com##a.banner
 cript.to##a.btn[target="_blank"][href^="https://cript.to/"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##a[ajaxify*="&eid="] + a[href^="https://l.facebook.com/l.php?u="]
 newstalkflorida.com##a[alt="Ad"]
@@ -62843,6 +62844,7 @@ cript.to##a[href^="https://cript.to/link/"][href*="?token="]
 moddroid.co##a[href^="https://doodoo.love/"]
 pluggedingolf.com##a[href^="https://edisonwedges.com/"]
 files.im##a[href^="https://galaxyroms.net/?scr="]
+odin-valhallarising.com,tarislandglobal.com##a[href^="https://get.surfshark.net/"]
 warm98.com##a[href^="https://giving.cincinnatichildrens.org/donate"]
 disasterscans.com##a[href^="https://go.onelink.me/"]
 etherscan.io##a[href^="https://goto.etherscan.com/"] > img
@@ -63376,6 +63378,8 @@ booking.com##.js_sr_persuation_msg
 booking.com##.sr-motivate-messages
 ##.section-subheader > .section-hotel-prices-header
 yahoo.com###Horizon-ad
+yahoo.com###Lead-0-Ad-Proxy
+yahoo.com###adsStream
 yahoo.com###defaultLREC
 finance.yahoo.com###mrt-node-Lead-0-Ad
 sports.yahoo.com###mrt-node-Lead-1-Ad
@@ -63395,6 +63399,7 @@ yahoo.com###sda-MON
 yahoo.com###sda-WFPAD
 mail.yahoo.com###slot_LREC
 yahoo.com###viewer-LDRB
+yahoo.com###viewer-LREC2
 yahoo.com###viewer-LREC2-iframe
 yahoo.com##.Feedback
 finance.yahoo.com##.ad-lrec3
@@ -63415,7 +63420,9 @@ yahoo.com##.searchCenterTopAds
 yahoo.com##.sys_shopleguide
 yahoo.com##.viewer-sda-container
 groupon.com##[data-bhc$="sponsored_carousel"]
+yahoo.com##[data-content="Advertisement"]
 mail.yahoo.com##[data-test-id^="pencil-ad"]
+yahoo.com##[data-wf-beacons]
 finance.yahoo.com##[id^="defaultLREC"]
 mail.yahoo.com##[rel="noreferrer"][data-test-id][href^="https://beap.gemini.yahoo.com/mbclk?"]
 yahoo.com##a[data-test-id="large-image-ad"]
@@ -67343,6 +67350,17 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||lwhffh.xyz^
+||fepmpify.xyz^
+||rntdqwc.xyz^
+||wyoaij.icu^
+||naweslt.cn^
+||jupeicha.cn^
+||unqrroh.cn^
+||mrthav.xyz^
+||gmx40.top^
+||vrivslffndepxqd.xyz^
+||clcmdie.com^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -84360,7 +84378,7 @@ fqsousou.com,kengso.com#@#.user-share
 &EventType=DataDealImpression&
 &EventType=Impression&
 &hitType=pageview&
-&http_referer=$script,xmlhttprequest,domain=~facebook.com|~jobscore.com
+&http_referer=$script,xmlhttprequest,domain=~biletomat.pl|~facebook.com|~jobscore.com
 &refer=http$script
 &t=pageview&
 -adobe-analytics.
@@ -86111,7 +86129,6 @@ fqsousou.com,kengso.com#@#.user-share
 /plugins/vdz-google-analytics/*
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
-/plugins/wp-monero-miner/*
 /pm/pixel.
 /pmc-cxense.js
 /pointeur.gif?
@@ -86790,46 +86807,36 @@ fqsousou.com,kengso.com#@#.user-share
 /tracking/log?
 /tracking/networktrackingservlet
 /tracking/open?
-/tracking/pageview.
 /tracking/pixel.
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /tracking/trackpageview
 /tracking/user_sync_widget?
 /tracking/views/*
-/tracking/xtcore.
-/tracking202/*
+/tracking/xtcore.js
+/tracking202/static/landing.php
 /Tracking?id=
 /tracking?referrer
 /Tracking?t=
 /tracking?vs=
-/tracking_ajax.
-/tracking_frame_
-/tracking_headerJS_
 /tracking_id_
-/tracking_iframe.
-/tracking_pix.
 /tracking_pixel
 /tracking_unitary/*
-/trackingab?
 /trackingCode-
 /trackingCode.js
-/TrackingCookieCheck.
-/TrackingCookieCheck?
 /trackingcookies.
 /trackingDTM.js
 /trackingEventsBlocks/*
-/trackingFooter.
+/trackingFooter.js
 /trackingGA.js
-/TrackingHandler.
-/trackingheader.
+/TrackingHandler.js
+/trackingheader.js
 /trackingImpression/*
 /trackingp.gif
 /trackingPixel.
 /TrackingPixel/*
-/trackingScriptLoader.
 /trackingTools.
-/trackingVtm.
+/trackingVtm.js
 /trackIt.js
 /trackit.php?
 /trackit.pl?
@@ -86838,11 +86845,11 @@ fqsousou.com,kengso.com#@#.user-share
 /tracklog.
 /trackmerchant.js
 /trackmvisit?
-/tracknat.
 /trackopen.cgi?
 /trackPage.js?
 /trackpagecover?
-/trackpageview.
+/trackpageview.js
+/trackpageview.php
 /trackPageView/*
 /TrackPageview?
 /trackpixel?
@@ -86858,10 +86865,8 @@ fqsousou.com,kengso.com#@#.user-share
 /trackvisit?
 /TrackVisitors/*
 /TrackWebPage?
-/traffic-source-cookie.
-/traffic-source-cookie/*
+/traffic-source-cookie.min.js
 /traffic/status.gif?
-/traffic/track^
 /traffic_record.php?
 /TrafficCookie.js
 /traffictrade/*
@@ -87073,7 +87078,9 @@ fqsousou.com,kengso.com#@#.user-share
 /wp-content/tracker.js
 /wp-js/analytics.js
 /wp-monero-miner-class.js
+/wp-monero-miner-util.min.js
 /wp-monero-miner.js
+/wp-monero-miner.min.js
 /wp-slimstat.js
 /wp-slimstat.min.js
 /wp-statistics-tracker.min.js
@@ -88836,6 +88843,7 @@ _mongo_stats/
 ||haveamint.com^$third-party
 ||hbwrapper.com^$third-party
 ||heapanalytics.com^$third-party
+||heatmap.com^$third-party
 ||heatmap.it^$third-party
 ||heatmap.services^$third-party
 ||hellosherpa.com^$third-party
@@ -93032,6 +93040,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.4u.pl^$third-party
 ||stat.pl^$third-party
 ||tagcdn.com^$third-party
+||trafficscanner.pl^$third-party
 ||volvelle.tech^$third-party
 ||way2traffic.com^$third-party
 ||ad5track.com^$third-party
@@ -116922,6 +116931,7 @@ arketing.indianadunes.com^
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
+@@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 !! amplitude.com/libs
