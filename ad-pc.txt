@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jvj1kWZrzgzuY5RRVbc5Vw
+! Checksum: +PsTvlRIfx1sMZVwA3fFzQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202311010905
-! Last Modified: 2023年11月01日 09:05
+! Version: 202311011418
+! Last Modified: 2023年11月01日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -748,6 +748,7 @@ tieba.baidu.com##.tuijian-wrap
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.opera.com|~admanager.roku.com
 /admanager/*$~object,domain=~blog.google|~konograma.com
 /admgr.
+/admitad.js
 /adModule.
 /ADNet/*
 /adnet2.
@@ -27146,6 +27147,7 @@ browsershots.org#@#.advert_area
 ||dmnprx.com^
 ||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
+||dmrtx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
@@ -67523,6 +67525,9 @@ newduba.cn###jq_youxi
 ||vdggsd001.com^
 ||eejwvwoo.xyz^
 ||vrnrpzy.xyz^
+||zlncvn.xyz^
+||nbycjpo.cn^
+||srlhgo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -84702,7 +84707,7 @@ fqsousou.com,kengso.com#@#.user-share
 /adobe/visitor-
 /adobe/VisitorAPI-
 /adobeAnalytics/*
-/AdobeAnalyticsAndTargetOverwrites.
+/adobeanalyticsandtargetoverwrites.min.
 /adsct?
 /adstat.js
 /adstats.php
@@ -84712,22 +84717,14 @@ fqsousou.com,kengso.com#@#.user-share
 /advstats.js
 /aff_i?offer_id=
 /aff_land?referrer
-/affiliate-track.
-/affiliate-tracker.
-/affiliate.track?
-/affiliate/track?
-/AffiliateClick.
-/affiliateTracking.
-/affiliatetracking/*
-/affilinetRetargeting.
-/afftrack.
-/afftracking.
+/affiliate-tracker.js
+/affiliatetracking.js
 /aftrack.asp
 /aggbug.aspx?
 /ahoy/events
 /ahoy/visits
 /AIT_Analytics.js
-/ajax-hits-counter/*
+/ajax-hits-counter/increment-hits/index.php
 /ajax-track-page-view/*
 /ajax/analytics/*
 /ajax/log?
@@ -84763,6 +84760,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytic-client.
 /analytic/pageview
 /analytics-amplitude-
+/analytics-async-loader.js
 /analytics-cdn.
 /analytics-client-identification/*
 /analytics-collector
@@ -84783,6 +84781,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics-minimal-v4.js
 /analytics-minimal.js
 /analytics-ping.js
+/analytics-prod.js
 /analytics-reporter/*
 /analytics-sdk.
 /analytics-secure.js
@@ -84794,7 +84793,6 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics.ad.
 /analytics.analytics/*
 /analytics.bundled.js
-/analytics.collect.
 /analytics.config.js
 /analytics.do
 /analytics.gif?
@@ -84803,48 +84801,31 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics.prod.$domain=~fifteen.eu
 /analytics.sitecatalyst.js
 /analytics.v1.js
-/analytics/?event
+/analytics/?event=
 /analytics/abtest/*
 /analytics/adtags?
 /analytics/amp/*
-/analytics/analytics.$~xmlhttprequest
+/analytics/analytics.js
+/analytics/analytics.min.js
 /analytics/beacons/*
-/analytics/call-
+/analytics/call-tracking.js
 /analytics/capture/*
 /analytics/click?
 /analytics/collect?
-/analytics/collector.
-/analytics/collector/*
 /analytics/comscore.js
-/analytics/dist/*
+/analytics/dist/analytics.min.js
 /analytics/embed/*
-/analytics/engine/*
 /analytics/event
-/analytics/ga.
-/analytics/ga/*
-/analytics/ga?
-/analytics/geoip/*
-/analytics/inboundAnalytics.
-/analytics/initSession
+/analytics/ga.js
 /analytics/layer
-/analytics/mbox_
 /analytics/metric/*
-/analytics/page_view.
 /analytics/pageview
-/analytics/rt?
-/analytics/script/*
-/analytics/searches
-/analytics/smarttag-
-/analytics/tagx-
-/analytics/timing
-/analytics/track-
-/analytics/track?
-/analytics/track_
-/analytics/tracker.
+/analytics/searches?
+/analytics/track_event/*
+/analytics/tracker.js
 /analytics/trackers?
-/analytics/trackevent
-/analytics/visit/*
-/Analytics/Visitor.
+/analytics/visit.jsp
+/analytics/visit.php
 /analytics?http_referer
 /analytics?token=
 /analytics_events.js
@@ -84855,7 +84836,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics_v2.js
 /analytics_wbc.min.js
 /analytics_www.js
-/AnalyticsDataLayer.
+/AnalyticsDataLayer.min.
 /AnalyticsEvent.js
 /analyticsFooter.js
 /analyticsjs.js
@@ -85300,7 +85281,6 @@ fqsousou.com,kengso.com#@#.user-share
 /d.gif?
 /data_collect.js
 /datacollectionapi-client/index.js
-/datadome/*
 /dataunlocker-prod.js
 /dataunlocker.js
 /datawrapper.gif?
@@ -85499,7 +85479,7 @@ fqsousou.com,kengso.com#@#.user-share
 /fpcookie?
 /fpcount.exe
 /fprnt.min.js
-/fps/check.
+/fps/check.php
 /fptrk.min.js
 /fpv2.js
 /freecgi/count.cgi?
@@ -85599,6 +85579,7 @@ fqsousou.com,kengso.com#@#.user-share
 /get_site_data?requestUUID=
 /getbglog.js
 /getclicky.js
+/getintent.js
 /getlog.gif
 /getstats.js.php
 /gigyaGAIntegration.js
@@ -85752,6 +85733,7 @@ fqsousou.com,kengso.com#@#.user-share
 /in.getclicky.com/*
 /in.gif?url=
 /in.php?referer=
+/inboundAnalytics.min.js
 /include/js/ga-
 /increment_page_counter.jsp
 /index.track?
@@ -85766,6 +85748,7 @@ fqsousou.com,kengso.com#@#.user-share
 /instart.js
 /interaction/beacon
 /intercept/intercept.js
+/IOL.Analytics.Tracking.min.js
 /IPbeacon.min.js
 /ipdvdc.min.js
 /ips-invite.iperceptions.com/*
@@ -85800,7 +85783,8 @@ fqsousou.com,kengso.com#@#.user-share
 /js_tracker.js
 /js_tracker.min.js
 /js_tracking?
-/jscounter.
+/jscounter.js
+/jscounter.php
 /jscripts/analytics.js
 /jserrLog?
 /jslogger.php?ref=
@@ -85896,7 +85880,6 @@ fqsousou.com,kengso.com#@#.user-share
 /log/sentry/*
 /log/server?
 /log/track/*
-/log/ux_analytics^
 /log/views/*
 /log/web?
 /log2.php?
@@ -85968,7 +85951,6 @@ fqsousou.com,kengso.com#@#.user-share
 /logview?referrer=
 /logview_new.js
 /logviewedpage?
-/logViewImpression/*
 /ls.gif?
 /lunametrics-
 /m.gif?
@@ -85982,21 +85964,17 @@ fqsousou.com,kengso.com#@#.user-share
 /matomo.js$domain=~github.com
 /matomo.php
 /matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
-/maxymiser.
-/Maxymiser/*
 /mcookie.aspx
 /mcount.cgi?
 /mcounter/*
 /measure/pixel/*
 /measure/visit/*
 /media-analytics.min.
-/media-analytics/*
-/media_viewed_tracking.
-/medialaanUniversalTracker.
+/medialaanUniversalTracker.js
 /mediametrie.js
 /mediateGA.js
 /megacounter/*
-/mendelstats.
+/mendelstats.js
 /meta-analytics/*
 /meta-tracker/*
 /metatraffic/track.asp?
@@ -86005,7 +85983,6 @@ fqsousou.com,kengso.com#@#.user-share
 /metrica/sp.js
 /metricool.js
 /metrics-backend/*
-/metrics-ga.
 /metrics/bambuser.min.js
 /metrics/event?
 /metrics/ga.js
@@ -86014,7 +85991,6 @@ fqsousou.com,kengso.com#@#.user-share
 /metrics/onload
 /metrics/ping?
 /metrics/rum
-/metrics/stat.
 /metrics/statsd/*
 /metrics/survey/*
 /metrics/track/*
@@ -86033,6 +86009,7 @@ fqsousou.com,kengso.com#@#.user-share
 /mixpanel-init.
 /mixpanel.$domain=~mixpanel.com
 /mixpanel_tracker.
+/mlb-ml-analytics.min.js
 /mlopen_track.
 /mm_track/*
 /mmclient.js
@@ -86928,21 +86905,16 @@ fqsousou.com,kengso.com#@#.user-share
 /track?referer=
 /track?referrer=
 /track_click?
-/track_clicks_
 /track_event.
 /track_framework_metrics?
-/track_general_stat.
+/track_general_stat.php
 /track_js/?
-/track_metric/*
-/track_outbound_
 /track_page_view?
 /track_pageview?
 /track_pixel?
 /track_proxy?
 /track_stat?
-/track_video.php?id=
-/track_views.
-/track_visit.
+/track_visit.js
 /track_visit?
 /track_visitor?
 /trackBatchEvents?
@@ -86953,8 +86925,6 @@ fqsousou.com,kengso.com#@#.user-share
 /tracker.ga.
 /tracker.gif?
 /tracker/?key=
-/tracker/app.
-/tracker/emos2_
 /tracker/event?
 /tracker/imp?
 /tracker_async.js
@@ -86968,7 +86938,7 @@ fqsousou.com,kengso.com#@#.user-share
 /tracking-links.js
 /tracking.jsp?sid=
 /tracking/airdog
-/tracking/common.
+/tracking/common.html
 /tracking/cookies?
 /tracking/digitaldata.js
 /tracking/events/*
@@ -86981,7 +86951,6 @@ fqsousou.com,kengso.com#@#.user-share
 /tracking/log?
 /tracking/networktrackingservlet
 /tracking/open?
-/tracking/pixel.
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /tracking/trackpageview
@@ -87070,6 +87039,7 @@ fqsousou.com,kengso.com#@#.user-share
 /trovit-analytics.js
 /truehits.php?
 /tw-track.js
+/twiga.js
 /tynt.js
 /u.gif?
 /ucount.php?
@@ -87083,14 +87053,10 @@ fqsousou.com,kengso.com#@#.user-share
 /umt.gif?
 /unbxdAnalytics.js
 /UniqueUserVisit?
-/Universal-Federated-Analytics.
-/universal-trackers/*
-/universal-tracking-
 /updatestats.js
 /urchin.gif?
 /urchin.html?
 /urchin.js
-/urchinstats.
 /user-context?referrer=
 /userdata_n?
 /userfingerprinttoken/*$xmlhttprequest
@@ -96949,6 +96915,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||inforotor.net/rotor/
 ||ip.up66.ru^
 ||izhevskinfo.ru/count/
+||k50.ru/tracker/
 ||karelia.info/counter/
 ||kraken.rambler.ru^
 ||kvartirant.ru/counter.php?
@@ -97450,6 +97417,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dropbox.com/jse
 ||dropbox.com/log/
 ||dropbox.com/log_
+||dropbox.com/prompt/log_impression?
 ||drudgereport.com/204.png
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
