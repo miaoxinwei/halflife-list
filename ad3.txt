@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: StKJN8dXaGRoXULQ9TO6tg
+! Checksum: HwGz0aby/LcgjvV0y8f/nQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202311020217
-! Last Modified: 2023年11月02日 02:17
+! Version: 202311020901
+! Last Modified: 2023年11月02日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2170,6 +2170,13 @@ newduba.cn###jq_youxi
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||ynulcpt.cn^
+||nubcdaqa.xyz^
+||cgqwgv.icu^
+||vdggsd002.com^
+||hjnjjcw.xyz^
+||hvpard.xyz^
+||bfbchr.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -11139,6 +11146,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||qy1.ru/data/game/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -21983,7 +21991,8 @@ m.babytree.com##script + a[class]
 /btrack.php?
 /buffermetrics/*
 /bugcounter.php?
-/bundle.tracking.
+/bundle-analytics.js
+/bundle.tracking.js
 /bundle/analytics.
 /bundles/metrics.
 /bunsen/events/*
