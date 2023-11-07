@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PJOUjAmchuFFAHLNbouaDQ
+! Checksum: DbNJAB/FebtrTEqYcL1Nmw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202311071418
-! Last Modified: 2023年11月07日 14:18
+! Version: 202311072026
+! Last Modified: 2023年11月07日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2666,6 +2666,9 @@ newduba.cn###jq_youxi
 ||znwzcmd.cn^
 ||2c0a5.xyz^
 ||azdiqsb.cn^
+||wyiegt.icu^
+||eyjvq.xyz^
+||klwhuci.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -11639,6 +11642,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cool3c.com##.gpt-new
+cool3c.com##.board-sidebar
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -19459,6 +19464,7 @@ wnacg.com##script + div > a > img
 ||hdsrc-a.akamaihd.net^
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
+123pan.com#@#.share-list
 189.cn#@##linkShare
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list
