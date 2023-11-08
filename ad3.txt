@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ujm0E9EoSfdaZvSDd9uwFA
+! Checksum: An6YetD0E7DzkpVYDIa80w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202311080217
-! Last Modified: 2023年11月08日 02:17
+! Version: 202311080902
+! Last Modified: 2023年11月08日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2223,6 +2223,10 @@ newduba.cn###jq_youxi
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||jqtkzuco.xyz^
+||lfhnzbj.xyz^
+||bzbopfh.cn^
+||ndbaxn.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -23442,6 +23446,7 @@ m.babytree.com##script + a[class]
 /rtracker/ofs.rtt.js
 /rudder-analytics.js
 /rudder-analytics.min.js
+/rum-collector/*
 /rum-telemetry/*
 /rum-track?
 /rum.gif?
@@ -24504,6 +24509,7 @@ _WebVitalsReporter_
 /link.coindesk.com/img/*
 /link.divenewsletter.com/img/*$image
 /link.e-mail.*/mo/*$image
+/link.email.usmagazine.com/img/*$image
 /link.morningbrew.com/img/*.gif
 /link.news.*/mo/*$image
 /link.oneplus.com/mo$image
@@ -24524,6 +24530,7 @@ _WebVitalsReporter_
 /newsletter/read?s=$image
 /newslink.reuters.com/img/*$image
 /newtrackingscript.
+/notifications.google.com/g/img/*$image
 /notifications.googleapis.com/email/t/*
 /notifications/beacon/*
 /open.aspx?
@@ -25725,6 +25732,7 @@ _mongo_stats/
 ||ensighten.com^$third-party
 ||enticelabs.com^$third-party
 ||entravision.com^$third-party
+||envoke.com^$third-party
 ||eolcdn.com^$third-party
 ||ep4p.com^$third-party
 ||eperfectdata.com^$third-party
@@ -31157,6 +31165,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmcdn.net/behavior/
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
+||dnnapi.com/analytics/
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
