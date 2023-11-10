@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hLnaevZHcOD7IGsl4CZ80Q
+! Checksum: dg4H7rYDTLexje/urvbvBQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202311100217
-! Last Modified: 2023年11月10日 02:17
+! Version: 202311100902
+! Last Modified: 2023年11月10日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62384,6 +62384,7 @@ cmswire.com##[class^="styles_article__top-ad-wrapper"]
 hancinema.net##[class^="wmls_"]
 torlock.com##[class^="wrn"]
 mydramalist.com##[class^="zrsx_"]
+flatpanelshd.com##[data-aa-adunit]
 dribbble.com##[data-ad-data*="ad_link"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 gamelevate.com##[data-adpath]
@@ -67408,6 +67409,12 @@ newduba.cn###jq_youxi
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||erutxdk.cn^
+||bgdgpbpm.xyz^
+||jppxnhe.xyz^
+||whqgyo.xyz^
+||icwnix.icu^
+||bxbyll.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -92220,6 +92227,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
+||tradetooth.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
@@ -98212,7 +98220,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
-||ubereats.com/_events
 ||ubereats.com/_track
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
