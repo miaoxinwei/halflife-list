@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9ZBRiTvpU1UQkkOPIzIHBQ
+! Checksum: AzPTN+O+ChmKQFwFMU2MoQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202311131418
-! Last Modified: 2023年11月13日 14:18
+! Version: 202311132027
+! Last Modified: 2023年11月13日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2302,6 +2302,7 @@ newduba.cn###jq_youxi
 ||rrfccx.com^
 ||jcbjcb9.cn^
 ||tfczk.xyz^
+||zpvuugw.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -13804,7 +13805,7 @@ epinv.com##.epinv_f
 shulink.com##.er_g
 sinolub.com##.erjlogo > .fl + .fl
 bilibili.com##.eva-banner
-zztt24.com##.event-notice
+zztt11.com,zztt24.com##.event-notice
 2345.com##.event1-hasList
 58.com##.ewmAdNew
 8264.com##.ewmbox
@@ -14017,7 +14018,7 @@ jandan.net##.goods2-list
 kkbox.com##.google-ad-manager
 techbang.com##.google-dfp
 i-part.com.tw##.googleAD160x600
-zztt24.com##.gotoclick
+zztt11.com,zztt24.com##.gotoclick
 cmhello.com##.gpost-above
 cool3c.com##.gpt-new
 iyaxin.com##.gr-ggtag
@@ -14668,7 +14669,7 @@ mamecn.com##.njjGsxzLeft > dl > .cont1
 mamecn.com##.njjGsxzRight
 dyhjw.com##.nn_link
 pornbest.org,pornlulu.com,ptt.sex##.no-gutters
-zztt24.com##.no-mask
+zztt11.com,zztt24.com##.no-mask
 prts.wiki##.nomobile[style*="810px;height:240"]
 zhicheng.com##.normal-banner
 admin5.com##.notice
@@ -53508,6 +53509,7 @@ arketing.indianadunes.com^
 ||sy.amebame.com^
 ||sy.ameblo.jp^
 ||t.syosetu.org^
+||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
@@ -54456,8 +54458,9 @@ arketing.indianadunes.com^
 @@||platform.twitter.com/oct.js$domain=ncsoft.jp
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
+@@||rt.rtoaster.jp^$image,domain=ec-store.net
 @@||rtoaster.jp/Rtoaster.js$domain=peachjohn.co.jp|satofull.jp
-@@||rtoaster.jp^$script,domain=jreastmall.com|lexus.jp|melonbooks.co.jp
+@@||rtoaster.jp^$script,domain=ec-store.net|jreastmall.com|lexus.jp|melonbooks.co.jp
 @@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|bousai.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script

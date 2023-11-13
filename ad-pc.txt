@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x65hhagDtB/EOIuK7Ds6nQ
+! Checksum: GPoCnmfCZ/+HUcAsmMW9Tg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202311131418
-! Last Modified: 2023年11月13日 14:18
+! Version: 202311132027
+! Last Modified: 2023年11月13日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2119,6 +2119,7 @@ tieba.baidu.com##.tuijian-wrap
 ?bannerid=
 ?category=ad&
 ?service=ad&
+?whichAd=freestar&
 ?wppaszoneid=
 ?wpstealthadsjs=
 ?zoneid=*&ab=1$script
@@ -20216,6 +20217,7 @@ browsershots.org#@#.advert_area
 ||acdcdn.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
+||acedtousles.com^
 ||acelacien.com^
 ||acendantoftheq.xyz^
 ||aceporntube.com^
@@ -35111,6 +35113,7 @@ browsershots.org#@#.advert_area
 ||maidendeprivation.com^
 ||maidsiowan.com^
 ||maiglair.net^
+||maihikuh.com^
 ||maijauta.xyz^
 ||maikashu.net^
 ||mailboxdoablebasically.com^
@@ -38905,6 +38908,7 @@ browsershots.org#@#.advert_area
 ||phaithoo.xyz^
 ||phaivais.net^
 ||phalingy.net^
+||phamsacm.net^
 ||phantomattestationzillion.com^
 ||phantomtheft.com^
 ||phardain.xyz^
@@ -41831,6 +41835,7 @@ browsershots.org#@#.advert_area
 ||roxot-panel.com^
 ||roxyaffiliates.com^
 ||royalcactus.com^
+||royallycuprene.com^
 ||rozamimo9za10.com^
 ||rpmsophiashoe.com^
 ||rprinc6etodn9kunjiv.com^
@@ -47533,6 +47538,7 @@ browsershots.org#@#.advert_area
 ||waxingequant.space^
 ||waxpigbaa.com^
 ||waxtamnit.com^
+||waybillbulged.com^
 ||wayfarerspoutpraise.com^
 ||waygatecrowbar.com^
 ||waymarkgentiin.com^
@@ -60150,6 +60156,7 @@ reverso.net##.bottom-horizontal
 photographyreview.com##.bottom-leaderboard
 dappradar.com##.bottom-networks
 codeproject.com##.bottom-promo
+huffpost.com##.bottom-right-sticky-container
 cnbctv18.com##.bottom-sticky
 gamingdeputy.com##.bottom-sticky-offset
 coincodex.com##.bottom3
@@ -67644,6 +67651,7 @@ newduba.cn###jq_youxi
 ||rrfccx.com^
 ||jcbjcb9.cn^
 ||tfczk.xyz^
+||zpvuugw.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -79146,7 +79154,7 @@ epinv.com##.epinv_f
 shulink.com##.er_g
 sinolub.com##.erjlogo > .fl + .fl
 bilibili.com##.eva-banner
-zztt24.com##.event-notice
+zztt11.com,zztt24.com##.event-notice
 2345.com##.event1-hasList
 58.com##.ewmAdNew
 8264.com##.ewmbox
@@ -79359,7 +79367,7 @@ jandan.net##.goods2-list
 kkbox.com##.google-ad-manager
 techbang.com##.google-dfp
 i-part.com.tw##.googleAD160x600
-zztt24.com##.gotoclick
+zztt11.com,zztt24.com##.gotoclick
 cmhello.com##.gpost-above
 cool3c.com##.gpt-new
 iyaxin.com##.gr-ggtag
@@ -80010,7 +80018,7 @@ mamecn.com##.njjGsxzLeft > dl > .cont1
 mamecn.com##.njjGsxzRight
 dyhjw.com##.nn_link
 pornbest.org,pornlulu.com,ptt.sex##.no-gutters
-zztt24.com##.no-mask
+zztt11.com,zztt24.com##.no-mask
 prts.wiki##.nomobile[style*="810px;height:240"]
 zhicheng.com##.normal-banner
 admin5.com##.notice
@@ -116527,6 +116535,7 @@ arketing.indianadunes.com^
 ||sy.amebame.com^
 ||sy.ameblo.jp^
 ||t.syosetu.org^
+||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
@@ -117475,8 +117484,9 @@ arketing.indianadunes.com^
 @@||platform.twitter.com/oct.js$domain=ncsoft.jp
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
+@@||rt.rtoaster.jp^$image,domain=ec-store.net
 @@||rtoaster.jp/Rtoaster.js$domain=peachjohn.co.jp|satofull.jp
-@@||rtoaster.jp^$script,domain=jreastmall.com|lexus.jp|melonbooks.co.jp
+@@||rtoaster.jp^$script,domain=ec-store.net|jreastmall.com|lexus.jp|melonbooks.co.jp
 @@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|bousai.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
