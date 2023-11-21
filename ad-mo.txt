@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yQV3e6Qf0qt2v+GhM/2E+g
+! Checksum: tRlqO4BismuZRME6dbKtVg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202311210218
-! Last Modified: 2023年11月21日 02:18
+! Version: 202311210906
+! Last Modified: 2023年11月21日 09:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63594,7 +63594,6 @@ youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
 youtube.com###merch-shelf
-youtube.com###pla-shelf
 youtube.com###player-ads
 youtube.com###video-masthead
 youtube.com##.ad-showing > .html5-video-container
@@ -67846,6 +67845,16 @@ newduba.cn###jq_youxi
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||hooe.top^
+||rqrvfp.xyz^
+||owkmmo.xyz^
+||llmxt.fun^
+||xfztgxt.com^
+||nyhgjmlg.xyz^
+||apvnzvg.xyz^
+||vrosqolcg.com^
+||tmvebl.xyz^
+||hkljed.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -91803,6 +91812,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^
