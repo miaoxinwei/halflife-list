@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QN6LANvgM+oEEgXfM9sJyw
+! Checksum: 6LRZMhjq2lSVXIsx3Gprjg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202311250902
-! Last Modified: 2023年11月25日 09:02
+! Version: 202311251417
+! Last Modified: 2023年11月25日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -58738,6 +58738,7 @@ onworks.net###adonworksbot
 globimmo.net###adplus-anchor
 192-168-1-1-ip.co,receivesms.co###adresp
 audioreview.com,carlow-nationalist.ie,cellmapper.net,craigclassifiedads.com,dekhobd.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,g.doubleclick.net,ip-address.org,irannewsdaily.com,kildare-nationalist.ie,laois-nationalist.ie,lorempixel.com,photographyreview.com,quiz4fun.com,roscommonherald.ie,waterford-news.ie###ads
+birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com###ads-container-single
 funkypotato.com###ads_header_games
 funkypotato.com###ads_header_home_970px
 lingojam.com###adsense-area-label
@@ -58887,6 +58888,7 @@ battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,me
 northcountrypublicradio.org###business
 music-news.com###buy-tickets
 channel4.com###c4ad-Top
+comicsands.com###c7da91bc-8e44-492f-b7fd-c382c0e55bda
 timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
 allrecipes.com###cal-app
 bitdegree.org###campaign-modal
@@ -61883,7 +61885,7 @@ thecoinrise.com##.pp_ad_block
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
 oneesports.gg##.pr-sm-4
-tasteofhome.com##.pre-article-ad
+birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com##.pre-article-ad
 foxbusiness.com##.pre-content
 sassymamahk.com##.pre_header_widget
 vivo.sx##.preload
@@ -68159,6 +68161,8 @@ newduba.cn###jq_youxi
 ||leidad.xyz^
 ||pvnzrr.xyz^
 ||lemida.xyz^
+||haree.cn^
+||i9klo.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
