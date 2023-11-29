@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3TUGpA281TAECZfA7yucdg
+! Checksum: 29GOAsOGD+l88yl6tVThPQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202311291418
-! Last Modified: 2023年11月29日 14:18
+! Version: 202311292027
+! Last Modified: 2023年11月29日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -48300,6 +48300,7 @@ browsershots.org#@#.advert_area
 ||wretcheddrunkard.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
+||wrfkjw.com^
 ||wrgjbsjxb.xyz^
 ||wriedwite.uno^
 ||wrient.com^
@@ -58809,6 +58810,7 @@ healthshots.com###fitnessToolsAdBot
 thisismoney.co.uk###fiveDealsWidget
 mediafire.ec,point2homes.com,propertyshark.com###fixedban
 cnx-software.com###fixeddbar
+topsporter.net###fl-ai-widget-placement
 vscode.one###flamelab-convo-widget
 nanoreview.net###float-sb-right
 clintonherald.com,ottumwacourier.com,thetimestribune.com###floorboard_block
@@ -59731,6 +59733,7 @@ bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarathisweek.co
 insideottawavalley.com##.adLabelWrapperManual
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
+thestockmarketwatch.com##.adSpotPad
 healthnfitness.net##.adTrack
 sofascore.com##.adUnitBox
 dailyo.in##.adWrapp
@@ -68029,6 +68032,10 @@ newduba.cn###jq_youxi
 ||bavkvoks.xyz^
 ||oouiqi.xyz^
 ||fxkfhbn.xyz^
+||commonwealthproficient.com^
+||rshsk.xyz^
+||bachou.cn^
+||ggrfab.icu^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -77007,6 +77014,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||jubaibaic.com/xx/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -84793,7 +84801,7 @@ theporn.cc##.toolbar-gg
 !#torrentkitty
 ###vpnModal.nordvpn-popup
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torrentkitty.cam|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
@@ -84956,7 +84964,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
-@@/sensorsdata-$domain=zkh.com
+@@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
@@ -117784,6 +117792,7 @@ arketing.indianadunes.com^
 @@||wpfc.ml/b.gif$image,domain=holybooks.com
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
+@@||wwwcache.wral.com/presentation/v3/scripts/providers/analytics/ga.js$~third-party
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
