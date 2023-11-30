@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 51VbpwH87UODhr8hLYq8YA
+! Checksum: g2Iqeqnrbb3p7gjq3Zou6A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202311301418
-! Last Modified: 2023年11月30日 14:18
+! Version: 202311302027
+! Last Modified: 2023年11月30日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -63284,7 +63284,6 @@ bedbathandbeyond.com##div[data-cta="plpSponsoredProductClick"]
 gamingbible.com,unilad.com##div[data-cypress^="sticky-header"]
 analyticsindiamag.com##div[data-elementor-type="header"] > section.elementor-section-boxed
 wayfair.com##div[data-enzyme-id="WssBannerContainer"]
-qwant.com##div[data-monitoring="adsWebSerpOk"]
 opentable.ae,opentable.ca,opentable.co.th,opentable.co.uk,opentable.com,opentable.com.au,opentable.com.mx,opentable.de,opentable.es,opentable.hk,opentable.ie,opentable.it,opentable.jp,opentable.nl,opentable.sg##div[data-promoted="true"]
 scmp.com##div[data-qa="AdSlot-Container"]
 scmp.com##div[data-qa="AppBar-AdSlotContainer"]
@@ -63300,6 +63299,7 @@ ecosia.org##div[data-test-id="mainline-result-ad"]
 investing.com##div[data-test="ad-slot-visible"]
 twitter.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
 twitter.com##div[data-testid="cellInnerDiv"] > div.css-1dbjc4n > div[class="css-1dbjc4n"] > div[class="css-1dbjc4n"][data-testid="placementTracking"]
+qwant.com##div[data-testid="pam.container"]
 qwant.com##div[data-testid="productAdsMicrosoft.container"]
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##div[data-testid^="sponsored-product"]
 chrome-stats.com##div[id*="billboard_responsive"]
@@ -63867,7 +63867,7 @@ atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.c
 autotrader.co.uk#?#li:-abp-has(section[data-testid="trader-seller-listing"]>span[data-testid="FEATURED_LISTING"])
 autotrader.co.uk#?#li:-abp-has(section[data-testid="trader-seller-listing"]>span[data-testid="PROMOTED_LISTING"])
 backpack.tf,backpacktf.com#?#.panel:-abp-contains(createAd)
-qwant.com#?#.result--ext:-abp-has([data-testid="adResult"])
+qwant.com#?#.result__ext:-abp-has([data-testid="adResult"])
 infographicjournal.com#?#.et_pb_widget:-abp-contains(Partners)
 infographicjournal.com#?#.et_pb_module:-abp-contains(Partners)
 infographicjournal.com#?#.et_pb_module:-abp-contains(Partners) + .et_pb_module
@@ -65729,6 +65729,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
+/os2023001.oss-$script
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
@@ -68084,6 +68085,8 @@ newduba.cn###jq_youxi
 ||ameidj.xyz^
 ||fqtljn.xyz^
 ||max211.top^
+||8zkt7.xyz^
+||rt004.top^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -91713,6 +91716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||butterbulb.com^
 ||butterburst.com^
 ||buttonladybug.com^
+||cabledemand.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -92020,6 +92024,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||exchangedetail.com^
 ||excitingtub.com^
 ||exclusivebrass.com^
+||exhibitsneeze.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
@@ -92115,6 +92120,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fuzzyerror.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fvl1f.pw^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
@@ -92284,6 +92290,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lameletters.com^
 ||lamplow.com^
 ||languagelake.com^
+||largebrass.com^
 ||laughablecopper.com^
 ||laughablelizards.com^
 ||laughcloth.com^
@@ -92507,6 +92514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
+||polarismagnet.com^
 ||politegoldfish.com^
 ||politeplanes.com^
 ||politicalporter.com^
@@ -92693,6 +92701,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
 ||scintillatingspace.com^
+||scissorsstatement.com^
 ||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
@@ -92958,6 +92967,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||swordgoose.com^
 ||symbolizebeast.com^
 ||synonymousrule.com^
+||synonymoussticks.com^
 ||synthesizespoon.com^
 ||systemizecoat.com^
 ||talentedsteel.com^
@@ -93036,6 +93046,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||translateoatmeal.com^
 ||trappush.com^
 ||trapteaching.com^
+||traytouch.com^
 ||treadbun.com^
 ||tremendousearthquake.com^
 ||tremendousplastic.com^
@@ -93105,6 +93116,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||voicevegetable.com^
 ||volatileprofit.com^
 ||volatilerainstorm.com^
+||volatilevessel.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
 ||vq1qi.pw^
@@ -98859,6 +98871,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.justpaste.it^
 ||stats.newsweek.com^
 ||stats.pstream.net^
+||stats.qwant.com^
 ||stats.sandberg.world^
 ||stats.searchftps.net^
 ||stats.suenicholls.com^
@@ -118676,6 +118689,8 @@ arketing.indianadunes.com^
 ||tencent.com/developer/api/common/getAds
 ||tencent.com/developer/api/common/getOneAds
 !------------------------Specific element hiding rules------------------------!
+youdao.com##.banner
+cnki.net##.banner-main
 caiyunapp.com##.active-imgContainer
 baidu.com##.player-pause-code
 123pan.com##.ant-carousel
