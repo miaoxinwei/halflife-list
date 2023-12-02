@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9aGDKUZ9bNT2wfebKaZuew
+! Checksum: TZm9/BuPPk3k2RaN3NytcA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312021417
-! Last Modified: 2023年12月02日 14:17
+! Version: 202312022024
+! Last Modified: 2023年12月02日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1336,7 +1336,6 @@ tieba.baidu.com##.tuijian-wrap
 /googleafc.js
 /googleafs.js
 /gpt.js$script,xmlhttprequest
-/gpt.min.js
 /gpt_ads-public.js
 /headerads1.php
 /homepage_ads/*$domain=~swedishbeauty.com
@@ -12592,6 +12591,7 @@ _800x80_
 ##.bg-ad-gray
 ##.bg-ads
 ##.bg-ads-space
+##.bg-grey-ad
 ##.bgAdBlue
 ##.bg_ad
 ##.bg_ads
@@ -59357,6 +59357,7 @@ eurogamer.net,rockpapershotgun.com,vg247.com###sticky_leaderboard
 lethbridgeherald.com###stickybox
 medicinehatnews.com###stickyleaderboard
 sun-sentinel.com###stnWrapperDiv
+westernjournal.com###stnvideo
 rawstory.com###story-top-ad
 healthshots.com###storyBlockOne
 semiconductor-today.com###storyHorAdd
@@ -59824,6 +59825,7 @@ m.economictimes.com,someecards.com,trailspace.com##.adContainer
 etymonline.com##.adContainer--6CVz1
 techspot.com##.adContainerSide2
 anews.com.tr##.adControl
+carsdirect.com##.adFooterWrapper
 bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarathisweek.com,thespec.com##.adLabelWrapper
 insideottawavalley.com##.adLabelWrapperManual
 bramptonguardian.com##.adSlot___3IQ8M
@@ -60637,6 +60639,7 @@ fandomwire.com##.customad
 total-croatia-news.com##.custombanner
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-1-billboard
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-three-native-ad-container
+f150lightningforum.com##.customizedBox
 coincarp.com##.customspon
 citywire.com##.cw-top-advert
 futurecurrencyforecast.com##.cwc-tor-widget
@@ -61644,6 +61647,7 @@ gameworldobserver.com##.only_link_area
 decrypt.co##.opacity-75
 lowtoxlife.com##.openpay-footer
 politicalsignal.com##.os9x6hrd9qngz
+indianexpress.com##.osv-ad-class
 thedigitalfix.com##.ot-widget-banner
 otakuusamagazine.com##.otaku_big_ad
 dictionary.com,thesaurus.com##.otd-item__bottom
@@ -61993,6 +61997,7 @@ elnacional.cat##.row-top-banner
 steamanalyst.com##.row.tpbcontainer
 bikechatforums.com##.row2[style="padding: 5px;"]
 onlineocr.net##.row[style*="text-align:right"]
+jdpower.com##.rrail__ad-wrap
 kickassanime.am##.rs
 freewebarcade.com##.rsads
 gamertweak.com##.rsgvqezdh-container
@@ -62148,6 +62153,7 @@ policyoptions.irpp.org##.single__ad
 deshdoaba.com##.site-branding
 emulatorgames.net##.site-label
 sassyhongkong.com##.site-leaderboard
+jdpower.com##.site-top-ad
 dailycoffeenews.com##.site-top-ad-desktop
 emulatorgames.net##.site-unit-lg
 macys.com##.siteMonetization
@@ -68183,6 +68189,8 @@ newduba.cn###jq_youxi
 ||tunovl.xyz^
 ||ieequd.icu^
 ||latu.cc^
+||qgl27.xyz^
+||jhl1993.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -76257,6 +76265,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
+||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
@@ -77283,7 +77292,6 @@ tingroom.com###play_ggr
 7k7k.com###player-ad
 bljiex.com###player_pause
 jyacht.com###playergg
-tvyb03.com###playlistbtn
 mail.qq.com###plp_ad_container
 image.baidu.com###plz-albums
 image.baidu.com###plz-head-banner
@@ -93739,6 +93747,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
+||cdn-ds.com/analytics/
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.usefathom.com^
 ||cdnjs.work/metrics.js
@@ -94319,6 +94328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gleam.io^$script,third-party
 ||global.ssl.fastly.net/native/
 ||gml-grp.com^*&affid=$subdocument,third-party
+||go.activengage.com^
 ||go.com/capmon/GetDE/?
 ||go.techtarget.com^$image,xmlhttprequest
 ||go.toutapp.com^$third-party
