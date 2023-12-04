@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mkBmtCRw0n6xkUp5qfY2/A
+! Checksum: z9IIiYgevXuMWJWJ3NM5uw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312040905
-! Last Modified: 2023年12月04日 09:05
+! Version: 202312041419
+! Last Modified: 2023年12月04日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60466,7 +60466,7 @@ thisismoney.co.uk##.cnr5
 letras.com##.cnt-space-top
 hollywoodunlocked.com##.cnx-player
 groceries.asda.com##.co-product-dynamic
-180gadgets.com,247media.com.ng,academicful.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dailynewshungary.com,dcenquirer.com,dexdotexe.com,eurweb.com,exeo.app,fandomwire.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,medievalists.net,mpost.io,nationalfile.com,nintendoeverything.com,notalwaysright.com,organicfacts.net,patriotfetch.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkers.com,techpp.com,techrounder.com,techviral.net,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,zerohanger.com##.code-block
+180gadgets.com,247media.com.ng,academicful.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dailynewshungary.com,dcenquirer.com,dexdotexe.com,eurweb.com,exeo.app,fandomwire.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,gameinfinitus.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,journeybytes.com,journeyjunket.com,libertyunlocked.com,linuxfordevices.com,lithub.com,medievalists.net,mpost.io,nationalfile.com,nintendoeverything.com,notalwaysright.com,organicfacts.net,patriotfetch.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkers.com,techpp.com,techrounder.com,techviral.net,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,zerohanger.com##.code-block
 storytohear.com,thefamilybreeze.com,thetravelbreeze.com,theworldreads.com,womensmethod.com##.code-block > center p
 streamtelly.com##.code-block-1
 patriotnewsfeed.com##.code-block-4
@@ -68207,6 +68207,9 @@ newduba.cn###jq_youxi
 ||lutrbr.xyz^
 ||bbrnpj.xyz^
 ||9g659.xyz^
+||xn--gmq238c5fy.com^
+||xn--9kq29i0tjy6b044actm.com^
+||v34s6r.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -71809,7 +71812,8 @@ $websocket,domain=5nj.com|cechi8.com
 /images/sgcrwj*.jpg
 /img/skin/*_bg.$domain=firefox.com.cn|firefoxchina.cn
 /img/skin/tao$domain=firefox.com.cn|firefoxchina.cn
-/jquery.modal.$domain=1909.me|8se.me|litu100.xyz|xchina.co|xchina.fun|xchina.pro
+/jquery.modal.$domain=1909.me|8se.me|litu100.xyz
+||xchina.*/plugins/jquery.modal/
 /mydisplay.$domain=400gb.com|bego.cc|ctfile.com|pipipan.com
 /o.js$domain=nicotv.me|tptoon.com
 /r/video/*$domain=youxi.baidu.com
@@ -76285,6 +76289,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+xchina.biz##.push-top
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -84560,11 +84565,9 @@ fqsousou.com,kengso.com#@#.user-share
 /analyse.js
 /analysis-logger/*
 /analysisTag.js
-/analytic-client.
 /analytic/pageview
 /analytics-amplitude-
 /analytics-async-loader.js
-/analytics-cdn.
 /analytics-client-identification/*
 /analytics-collector
 /analytics-data-collector.js
@@ -84593,8 +84596,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics.*/event?
 /analytics.*/ping/?
 /analytics.*/track
-/analytics.ad.
-/analytics.analytics/*
+/analytics.analytics/analytics.min.js
 /analytics.bundled.js
 /analytics.config.js
 /analytics.do
@@ -86060,18 +86062,15 @@ fqsousou.com,kengso.com#@#.user-share
 /plugins/vdz-google-analytics/*
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
-/pm/pixel.
 /pmc-cxense.js
 /pointeur.gif?
 /pomegranate.js
-/post-tracking/*
 /postcounter.php?
 /postlog?
 /postview.gif?
-/powercount.
-/powr-counter.
 /pp/micro.tag.min.js
-/pphlogger.
+/pphlogger.js
+/pphlogger.php
 /ppms.js
 /pr.php?
 /preparecookies?callback=$domain=~mirapodo.de|~mytoys.de|~yomonda.de
@@ -86120,7 +86119,6 @@ fqsousou.com,kengso.com#@#.user-share
 /pvcount.php
 /pvcounter.cgi
 /pvcounter.js
-/pvcounter/*
 /PvCountUp.action
 /pvevents.gif?
 /pvlog.js
@@ -86143,9 +86141,7 @@ fqsousou.com,kengso.com#@#.user-share
 /qtracker-v3-min.js
 /quant.js
 /quantcast.js
-/quantcast/*
-/quantcast_
-/quantcastjs/*
+/Quantcast/cmp_v2.js
 /quantserve.com/*
 /QuotaService.RecordEvent?
 /r.gif?
@@ -86191,22 +86187,21 @@ fqsousou.com,kengso.com#@#.user-share
 /revinit.js
 /revtracking/*
 /rgea.min.js
-/rich-relevance.
-/RioTracking2.
 /risk_fp_log?
 /riveted.js
 /riveted.min.js
 /rivraddon.js
-/rkrt_tracker-
-/rlvt-track/*
+/rkrt_tracker-viajs.php
 /rm-gtm-google-analytics-for-wordpress/js/gtm-player.js
 /rm.gif?
 /rmntracking.js
 /rntracking.js
-/roi_tracker.
-/roiengine.
-/roitrack.
-/roitracker.
+/roi_tracker.js
+/roi_tracker.min.js
+/roiengine.js
+/roitrack.cgi
+/roitrack.js
+/roitrack.php
 /roitracker2.js
 /rollbar.js
 /rollbar.min.js
@@ -86221,7 +86216,8 @@ fqsousou.com,kengso.com#@#.user-share
 /rpc/preccount?
 /rpFingerprint?
 /rr/t?step=
-/rrweb-record-
+/rrweb-record-pack.js
+/rrweb-record.min.js
 /rt_tag.js
 /rt_tag.ofs.js
 /rt_track.js
@@ -86229,7 +86225,6 @@ fqsousou.com,kengso.com#@#.user-share
 /rtac/gif?
 /rtd.js
 /rtkbeacon.gif?
-/rtm-tracking.
 /rtoaster.js
 /rtracker.min.js
 /rtracker/ofs.rtt.js
@@ -86255,11 +86250,9 @@ fqsousou.com,kengso.com#@#.user-share
 /s.gif?
 /s_code_global_context.js
 /s_trans.gif?
-/s_trans_nc.
 /sa-tracker-
 /sa.gif?
 /safelinkconverter.js
-/sage_tracker.
 /salog.js
 /SAPOWebAnalytics/*
 /satismeter.js
@@ -86277,27 +86270,23 @@ fqsousou.com,kengso.com#@#.user-share
 /scroll-analytics-
 /scroll-track.js
 /scroll-tracker.
-/scroll-tracking.
 /SdaAnalytics.js
 /sdc.js
 /sdc1.js
 /sdc2.js
 /sdctag1.js
 /sdctag2.js
-/sdcTrackingCode.
+/sdcTrackingCode.js
 /sdk/impressions
-/sdp-tagcollector.
 /search-cookie.aspx?$image
-/second-scroll~trackers.
-/secure-stats.
-/securetracker.
+/securetracker.js
 /seed.gif?
 /segment/api/*
 /segment/js/*
 /segmentify.js
 /segmentio.js
 /sendLogs?cid
-/sensor.modern.ncl.
+/sensor.modern.ncl.min.js
 /sensor/statistic?
 /sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
@@ -86305,9 +86294,8 @@ fqsousou.com,kengso.com#@#.user-share
 /sentry-logger.js
 /sentry/bundle.min.js
 /seo.taCo.min.js
-/seostats/*
-/seotracker/*
-/SEOTracking.
+/seostats.php
+/seotracking-v3.js
 /server.php?request=track&output=
 /server/detect.php?
 /service/track?
@@ -87063,6 +87051,7 @@ fqsousou.com,kengso.com#@#.user-share
 /zhugeio.js
 /ztracker.js
 ://a869.
+://analytics-cdn.
 ://analytics.*/collect
 ://analytics.*/event
 ://analytics.*/hits/
@@ -95123,6 +95112,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||searchcompletion.com/BannerHandler.ashx
+||secure-stats.pingdom.com^
 ||secure.ed4.net/GSI/$third-party
 ||secure.ifbyphone.com^$third-party
 ||secure.merchantadvantage.com^
@@ -116366,6 +116356,7 @@ arketing.indianadunes.com^
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
 ||revive-chat.io/js/tracking-min.js
+||rtm-tracking.zozo.jp^
 ||sankei.co.jp/js/analytics/
 ||scinable.net/access?
 ||scis.tbs.co.jp^
