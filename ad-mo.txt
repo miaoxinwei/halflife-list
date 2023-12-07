@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EvM32e0Ekm7csFp4jF8ZlQ
+! Checksum: xVUealXbbPF58l0ZQWlsDA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312070218
-! Last Modified: 2023年12月07日 02:18
+! Version: 202312070905
+! Last Modified: 2023年12月07日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1086,33 +1086,22 @@ pan.baidu.com##.upload-bar.global-clearfix
 /css/adv.
 /cubead.
 /curveball/ads/*
-/custom_ads.
-/customad.
-/customads/*
-/dartad/*
-/dartads.
-/dartfunctions.
-/defaultad.
-/defaultad?
+/customad.js
 /defaults_ads/*
-/defer_ads.
-/deferads.
-/deliverad/*
-/deliverads.
-/deliversds.
+/deliverad/fc.js
 /delivery.ads.
 /delivery.php?zone=
-/delivery/ag.
+/delivery/ag.php
 /delivery/apu.php
-/delivery/avw.
-/delivery/fc.
+/delivery/avw.php
+/delivery/fc.php
 /delivery/lg.php
-/delivery/spc.
+/delivery/spc.php
 /delivery_ads/*
 /dfp.min.js$third-party
 /dfp/head/*
-/dfp_async.
-/dfpNew.
+/dfp_async.js
+/dfpNew.min.js
 /didna_config.js
 /discourse-adplugin-
 /display-ad/*
@@ -63855,7 +63844,7 @@ yahoo.com##li[data-test-locator="stream-related-ad-item"]
 youtube.com###YtKevlarVisibilityIdentifier
 youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###feed-pyv-container
-youtube.com###player-ads
+youtube.com###related > div#player-ads
 youtube.com###ytd-player button.ytp-suggested-action-badge
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
@@ -68354,6 +68343,19 @@ newduba.cn###jq_youxi
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||xrllybr.xyz^
+||qbcmws.xyz^
+||99zns.top^
+||96kso.online^
+||vrnblp.xyz^
+||yddbysa.xyz^
+||isna.top^
+||rfxnff.xyz^
+||iephrenhq.com^
+||nwpcptmm.xyz^
+||maxun066.top^
+||maxun118.top^
+##a[href*=".mhtimes.cn"]
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -117193,7 +117195,7 @@ arketing.indianadunes.com^
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
-@@||stats.sports.bellmedia.ca^$domain=tsn.ca
+@@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||tagcommander.com^*/tc_$script
