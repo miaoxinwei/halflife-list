@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XfOmY98NEfnGQDjFkxs+qA
+! Checksum: sIK/1+saweUlMpon0kKJyg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312102025
-! Last Modified: 2023年12月10日 20:25
+! Version: 202312110216
+! Last Modified: 2023年12月11日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18626,8 +18626,13 @@ _800x80_
 ##.zergpowered
 ##display-ad-component
 ##div[id^="zergnet-widget"]
+##.CarResultsList > div > div.Dp1L[role=tab]
+##.ejnn-results-list-wrap > div > div > div > div > div.YTRJ[role="button"][tabindex="0"] > .yuAt-pres-rounded
+##.ev1_-results-list > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
+##.ev1_-results-list > div > div > div > div[data-resultid$="-sponsored"]
 ##.resultsList > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
 ##.resultsList > div > div > div > div[data-resultid$="-sponsored"]
+##.yPOz-adInner
 dez.ro#@##ad-carousel
 so-net.ne.jp#@##ad-p3
 53.com#@##ad-rotator
@@ -29386,6 +29391,7 @@ browsershots.org#@#.advert_area
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -32896,6 +32902,7 @@ browsershots.org#@#.advert_area
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhiekkjeyyfbj.com^
 ||jhoncj.com^
@@ -36566,6 +36573,7 @@ browsershots.org#@#.advert_area
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -50925,6 +50933,7 @@ browsershots.org#@#.advert_area
 ||bestgames-2022.com^$popup
 ||bestgirls4fuck.com^$popup
 ||bestmoviesflix.xyz^$popup
+||bestplaceforall.com^$popup
 ||bestproducttesters.com^$popup
 ||bestrevenuenetwork.com^$popup
 ||bestvenadvertising.com^$popup
@@ -51214,6 +51223,7 @@ browsershots.org#@#.advert_area
 ||coticoffee.com^$popup
 ||countertrck.com^$popup
 ||countessbridge.com^$popup
+||countvouchers.com^$popup
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
@@ -51634,6 +51644,7 @@ browsershots.org#@#.advert_area
 ||formulacountess.com^$popup
 ||forooqso.tv^$popup
 ||forthdigestive.com^$popup
+||fortyphlosiona.com^$popup
 ||forzubatr.com^$popup
 ||fostereminent.com^$popup
 ||fourwhenstatistics.com^$popup
@@ -53239,6 +53250,7 @@ browsershots.org#@#.advert_area
 ||rtpdn12.com^$popup
 ||rtyznd.com^$popup
 ||rubylife.go2cloud.org^$popup
+||rudderwebmy.com^$popup
 ||rufflycouncil.com^$popup
 ||rulefloor.com^$popup
 ||rummagemason.com^$popup
@@ -53500,6 +53512,7 @@ browsershots.org#@#.advert_area
 ||stimaariraco.info^$popup
 ||stinglackingrent.com^$popup
 ||stoagergu.com^$popup
+||stoaltoa.top^$popup
 ||stoorgel.com^$popup
 ||stop-adblocker.info^$popup
 ||stopadblocker.com^$popup
@@ -54192,6 +54205,7 @@ browsershots.org#@#.advert_area
 ||yourfreshposts.com^$popup
 ||yourperfectdating.life^$popup
 ||yourprivacy.icu^$popup
+||yourtopwords.com^$popup
 ||ysesials.net^$popup
 ||ytgzz.com^$popup
 ||yukclick.me^$popup
@@ -59294,7 +59308,7 @@ chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,ma
 abcya.com##.a-skyscraper
 krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
-androidtrends.com,backthetruckup.com,streamsgeek.com,trendstorys.com##.a-wrap
+androidtrends.com,backthetruckup.com,bingehulu.com,streamsgeek.com,trendstorys.com##.a-wrap
 breitbart.com##.a-wrapper
 cryptfaucet.com##.a1
 getpocket.com##.a1cawpek
@@ -60757,7 +60771,6 @@ nzbindex.com##.inner
 inquirer.com##.inno-ad
 inquirer.com##.inno-ad__ad
 donegaldaily.com##.inpage_banner
-bing.com##.ins_exp.tds
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com##.insert
 nintendolife.com,purexbox.com,pushsquare.com,timeextension.com##.insert-label
 canarymedia.com##.inset-x-0
@@ -63348,6 +63361,7 @@ youtube.com###content > ytd-ad-slot-renderer
 youtube.com###contents.style-scope.ytd-search-pyv-renderer
 youtube.com###items > ytd-ad-slot-renderer
 youtube.com###main > #banner.ytd-merch-shelf-renderer
+youtube.com###masthead-ad > .ytd-rich-grid-renderer
 youtube.com###related > div#player-ads
 youtube.com###scroll-container > #items.ytd-merch-shelf-renderer
 youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
@@ -67075,6 +67089,7 @@ newduba.cn###jq_youxi
 ||awareista.com^
 ||awaw.asia^
 ||ax7fv.space^
+||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
 ||bavkvoks.xyz^
@@ -67105,6 +67120,7 @@ newduba.cn###jq_youxi
 ||boats4.top^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
+||bpdtrfb.xyz^
 ||bplrpf.xyz^
 ||brorzpj.cn^
 ||btfjjwt.xyz^
@@ -67230,6 +67246,7 @@ newduba.cn###jq_youxi
 ||foizico.cn^
 ||fortxfq.cn^
 ||fotaxf.xyz^
+||foxoxn.xyz^
 ||fptdxkm.com^
 ||fqtljn.xyz^
 ||fsgiosi.com^
@@ -67322,6 +67339,7 @@ newduba.cn###jq_youxi
 ||hinm.online^
 ||hitchprivilege.com^
 ||hixutb.xyz^
+||hjdkvt.xyz^
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
 ||hkrytf.xyz^
@@ -67422,6 +67440,7 @@ newduba.cn###jq_youxi
 ||koyuod.xyz^
 ||kqbrgl.icu^
 ||kqvvqv.icu^
+||kqwerp.top^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
@@ -67450,6 +67469,7 @@ newduba.cn###jq_youxi
 ||lkoqtvvajktpjsk.xyz^
 ||lkot.top^
 ||llblwzg.xyz^
+||lleo.top^
 ||llmxt.fun^
 ||llnxdx.xyz^
 ||lmfehr.xyz^
@@ -67518,6 +67538,7 @@ newduba.cn###jq_youxi
 ||negnixa.cn^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
+||nfldgbt.xyz^
 ||njppuaj.cn^
 ||njreka.xyz^
 ||njrnwan.cn^
@@ -67534,8 +67555,10 @@ newduba.cn###jq_youxi
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
+||oafhif.icu^
 ||oapyrzde.xyz^
 ||ocpydszq.xyz^
+||ocryndsu.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -67663,7 +67686,9 @@ newduba.cn###jq_youxi
 ||stylishar.com^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||szbxm.cn^
 ||tae0t.site^
+||tc8ji.website^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
@@ -67711,6 +67736,7 @@ newduba.cn###jq_youxi
 ||uskoie.xyz^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
+||uwerpyh.cn^
 ||uwfxvvm.cn^
 ||uzrxoxd.xyz^
 ||v34s6r.com^
@@ -67774,6 +67800,7 @@ newduba.cn###jq_youxi
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
+||wxsignin.top^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -67865,19 +67892,6 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||bpdtrfb.xyz^
-||aymwiq.xyz^
-||lleo.top^
-||tc8ji.website^
-||ocryndsu.xyz^
-||nfldgbt.xyz^
-||hjdkvt.xyz^
-||oafhif.icu^
-||kqwerp.top^
-||szbxm.cn^
-||foxoxn.xyz^
-||wxsignin.top^
-||uwerpyh.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
