@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HiW3eMMyxreg5+n7YB3eIQ
+! Checksum: xIARNnZy0nFSKpQrr3ReQw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312111419
-! Last Modified: 2023年12月11日 14:19
+! Version: 202312112028
+! Last Modified: 2023年12月11日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1034,7 +1034,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /bottomad.
 /bottomads.
 /box_ad_
-/brainforce.cookies/jquery.ihavecookies.min.js
 /brightcovead.
 /bsa-plugin-pro-
 /bsa-pro-
@@ -50691,6 +50690,7 @@ browsershots.org#@#.advert_area
 ||adxpartner.com^$popup
 ||adxprtz.com^$popup
 ||adzblockersentinel.net^$popup
+||adzerk.net^$popup
 ||adzshield.info^$popup
 ||aeeg5idiuenbi7erger.com^$popup
 ||afcpatrk.com^$popup
@@ -56736,6 +56736,8 @@ browsershots.org#@#.advert_area
 ||aveherald.com/images/banners/
 ||b.cdnst.net/javascript/amazon.js$script,domain=speedtest.net
 ||b.w3techs.com^
+||backgrounds.wetransfer.net$image
+||backgrounds.wetransfer.net/*.mp4$media
 ||bahamaslocal.com/img/banners/
 ||bbci.co.uk/plugins/dfpAdsHTML/
 ||beap.gemini.yahoo.com^
@@ -62221,6 +62223,7 @@ androidpolice.com##.w-pencil-banner
 wsj.com##.w27771
 userscript.zone##.w300
 swimcompetitive.com##.waldo-display-unit
+wetransfer.com##.wallpaper
 goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
 watson.ch##.watson-ad
@@ -63204,6 +63207,7 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 titantv.com##tr.gridRow > td > [id] > div:first-child
 morningagclips.com##ul.logo-nav
 greyhound-data.com##ul.ppts
+backgrounds.wetransfer.net##we-wallpaper
 ndtv.com,ndtv.in##[class^="firework"]
 ndtv.com,ndtv.in##[id^="firework"]
 a-ads.com,ad-maven.com,adcash.com,admitad.com,adskeeper.co.uk,adskeeper.com,adspyglass.com,adstracker.info,adsupply.com,adsupplyads.com,adsupplyads.net,chpadblock.com,exoclick.com,hilltopads.com,join-admaven.com,joinpropeller.com,juicyads.com,luckyads.pro,monetag.com,musk-give.com,myadcash.com,popads.net,propellerads.com,purpleads.io,trafficshop.com,yavli.com##HTML
@@ -63369,6 +63373,7 @@ youtube.com###contents.style-scope.ytd-search-pyv-renderer
 youtube.com###items > ytd-ad-slot-renderer
 youtube.com###main > #banner.ytd-merch-shelf-renderer
 youtube.com###masthead-ad > .ytd-rich-grid-renderer
+youtube.com###panels > [target-id="engagement-panel-ads"]
 youtube.com###related > div#player-ads
 youtube.com###scroll-container > #items.ytd-merch-shelf-renderer
 youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
