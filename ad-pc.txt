@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6+warsxweu9o0uMzG+On0w
+! Checksum: 9v19hfMCPvWL3QPDwzOQRQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312151418
-! Last Modified: 2023年12月15日 14:18
+! Version: 202312152027
+! Last Modified: 2023年12月15日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -19640,6 +19640,7 @@ browsershots.org#@#.advert_area
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
+||6001628d3d.com^
 ||600z.com^
 ||6016799644.com^
 ||6068a17eed25.com^
@@ -24113,6 +24114,7 @@ browsershots.org#@#.advert_area
 ||byeej.com^
 ||byfoongusor.com^
 ||bygliscortor.com^
+||byildmkzjyjx.com^
 ||byluvdiscor.com^
 ||bymnyzbkylvkv.top^
 ||bymyth.com^
@@ -25192,6 +25194,7 @@ browsershots.org#@#.advert_area
 ||cn-rtb.com^
 ||cn846.com^
 ||cndeccsqtmjyh.com^
+||cnfccdxhggrz.com^
 ||cngcpy.com^
 ||cnifypm.com^
 ||cnnected.org^
@@ -26991,6 +26994,7 @@ browsershots.org#@#.advert_area
 ||djmaza.in^
 ||djphnuhkbjf.com^
 ||djqacscl.com^
+||djsdmdbwlpbab.com^
 ||djssdvbo.com^
 ||djxfar6.com^
 ||dk4ywix.com^
@@ -33318,6 +33322,7 @@ browsershots.org#@#.advert_area
 ||jsontdsexit2.com^
 ||jsretra.com^
 ||jssearch.net^
+||jssiiamvbuqqkb.com^
 ||jstatic.org^
 ||jstclphsy.com^
 ||jsukefgwjvbsue.com^
@@ -33765,6 +33770,7 @@ browsershots.org#@#.advert_area
 ||klrnhhzh.com^
 ||klsdee.com^
 ||kluauvass.com^
+||kmeqdnmgdkpn.com^
 ||kmhfsrwqdu.com^
 ||kmkixuha.com^
 ||kmlvdhequlpli.com^
@@ -34613,6 +34619,7 @@ browsershots.org#@#.advert_area
 ||lmekamrykbbjn.top^
 ||lmekamrykbbky.top^
 ||lmjwqbjmkrzyw.top^
+||lmmpjhvli.com^
 ||lmn-pou-win.com^
 ||lmnrorgeummvsqe.com^
 ||lmp3.org^
@@ -39275,6 +39282,7 @@ browsershots.org#@#.advert_area
 ||plkatdmeje.com^
 ||plkoxaypcmzkus.com^
 ||pllah.com^
+||plmhezvbcjcywo.com^
 ||plntxgh.com^
 ||plocap.com^
 ||plodpicture.com^
@@ -39622,6 +39630,7 @@ browsershots.org#@#.advert_area
 ||ppvmhhpxuomjwo.xyz^
 ||pqaz.xyz^
 ||pqnnjjpzarpb.com^
+||pqulqqpmx.com^
 ||pqxbcydpv.xyz^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
@@ -40490,6 +40499,7 @@ browsershots.org#@#.advert_area
 ||qdagihwi.xyz^
 ||qdmil.com^
 ||qdprapwflpvxpyl.com^
+||qdxzpcytii.com^
 ||qe0ckm024b.com^
 ||qebuvi.xyz^
 ||qel-qel-fie.com^
@@ -41594,6 +41604,7 @@ browsershots.org#@#.advert_area
 ||rigill.com^
 ||rigorousoxidenovelty.com^
 ||rigryvusfyu.xyz^
+||rijmfqzckx.com^
 ||rikehemanwho.com^
 ||rileclothingtweak.com^
 ||rilelogicbuy.com^
@@ -48758,6 +48769,7 @@ browsershots.org#@#.advert_area
 ||ybcqozfk.com^
 ||ybmnptiuj.xyz^
 ||ybs2ffs7v.com^
+||ybuduzpe.com^
 ||ybujfcuqya.com^
 ||ybwcvhcnulrgbvy.com^
 ||ybyrudhdnrxcbe.com^
@@ -49177,6 +49189,7 @@ browsershots.org#@#.advert_area
 ||zeypreland.com^
 ||zferral.com^
 ||zfgyvoarqreba.com^
+||zfhuzyw.com^
 ||zfmxscs.com^
 ||zfwlnfalxxmwzb.com^
 ||zfwnbsdawitk.com^
@@ -68400,6 +68413,8 @@ newduba.cn###jq_youxi
 ||qtciam.xyz^
 ||birglucy.xyz^
 ||vjnxpj.xyz^
+||alchemeeten.com^
+||worlderva.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -76479,6 +76494,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||cdn77.org^*.mp4
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -85000,6 +85016,7 @@ fqsousou.com,kengso.com#@#.user-share
 /blank.gif?*%
 /blank.gif?*&
 /blogcounter.js
+/bloomreach.js
 /bluekai.js
 /bluekai.min.js
 /bom/analytics/*
@@ -94370,6 +94387,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||etl.springbot.com^
 ||etoro.com/tradesmonitor/
 ||eu-mobile.events.data.microsoft.com^
+||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
@@ -117185,7 +117203,6 @@ arketing.indianadunes.com^
 @@||ikea.com^*/analyticsEvent.$script,~third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
@@ -117407,6 +117424,8 @@ arketing.indianadunes.com^
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 !! mpsnare.iesnare.com
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
+!! ingest.sentry.io/api/
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 !! ci-mpsnare.iovation.com
 @@||ci-mpsnare.iovation.com/snare.js$domain=equifax.ca
 !! tag.aticdn.net
@@ -117536,7 +117555,6 @@ arketing.indianadunes.com^
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 !---------- Hungarian ----------
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 !---------- Icelandic ----------
 !---------- Italian ----------
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
