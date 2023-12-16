@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IjUQXKaCEtNUCs3Q38s08Q
+! Checksum: DyCp/BD0rg1B1kkW6XsUnA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202312160218
-! Last Modified: 2023年12月16日 02:18
+! Version: 202312160904
+! Last Modified: 2023年12月16日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -470,7 +470,13 @@ cad.youku.com
 ||valipl.cp31.ott.cibntv.net/$media
 !|https://static.youku.com/index/js/ikuAdapterNew.js
 ||sealine.youku.com/yk/*callback=adpagesdk$script
-iqiyi.com##div[data-adzone],#block-V
+iqiyi.com##.black-screen[data-cupid=adblock-blackscreen]
+iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
 apisgame.iqiyi.com
 static.g.iqiyi.com
@@ -479,19 +485,17 @@ static.g.iqiyi.com
 show.ssports.com
 !v.qq.com###player .txp_zt_content
 v.qq.com##.quick_games.quick_item,div.card-wrap
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
-qq.com#@#+js(nowebrtc)
-qq.com##+js(set,RTCPeerConnection,null)
-qq.com##+js(no-xhr-if,/trace\.|\/collect/)
-qq.com##+js(no-fetch-if,/trace\.|beacon\./)
-qq.com##+js(json-prune,ads ad.pause adList.item)
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .adWrap, .iwan-wrapper
+qq.com##+js(json-prune,ad material.video.url)
+!qq.com##+js(no-xhr-if,/trace\.|\/collect/)
+!qq.com##+js(no-fetch-if,/trace\.|beacon\./)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 !qq.com##+js(aopr, Beacon.prototype.fail)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 cm.l.qq.com
 ||l.qq.com/lview?
 ||l.qq.com/livemsg?
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?
+!||mark.l.qq.com/fcgi-bin/get_video_mark_all?
 ||gtimg.com/qqlive/
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
@@ -600,10 +604,6 @@ dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
-wpadmngr.com
-|https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
-||nunuyingyuan.tk/serviceworker.js^$script
-||nunuyy.cf/serviceworker.js^$script
 aqours.today
 chushoushijian.cn
 z4a.net
@@ -3212,6 +3212,16 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kyjwtxei.xyz^
+||f780f.space^
+||awzddev.cn^
+||qznjujv.xyz^
+||hvlitr.xyz^
+||mbfhwag.xyz^
+||trojangfw.xyz^
+||nrfhbd.xyz^
+||cfateu.xyz^
+||acemof.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0KPFeKNNmAgyxIHM6buWQA
+! Checksum: BJEoq45Qh3C7opRFq97RzQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312160218
-! Last Modified: 2023年12月16日 02:18
+! Version: 202312160904
+! Last Modified: 2023年12月16日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -61353,6 +61353,7 @@ color-hex.com##.margin10
 fandom.com##.marketplace
 imgur.com,pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
+augustman.com##.masthead-container
 cloudwards.net##.max-medium
 mayoclinic.org##.mayoad
 racgp.org.au##.mb-1.small
@@ -68323,6 +68324,16 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kyjwtxei.xyz^
+||f780f.space^
+||awzddev.cn^
+||qznjujv.xyz^
+||hvlitr.xyz^
+||mbfhwag.xyz^
+||trojangfw.xyz^
+||nrfhbd.xyz^
+||cfateu.xyz^
+||acemof.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -88863,6 +88874,7 @@ omni.soundestlink.com$image
 ||hiconversion.com^$third-party
 ||hif.to^$third-party
 ||higherengine.com^$third-party
+||highlight.run^$third-party
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
 ||histats.com^$third-party
@@ -93745,9 +93757,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
-||app.posthog.com/e/?compression=
-||app.posthog.com/e/?ip=
-||app.posthog.com/static/array.js
+||app.posthog.com^$script,xmlhttprequest
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -95797,6 +95807,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
 ||utils.global-e.com/set?
+||utt.pm/utm/
 ||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
