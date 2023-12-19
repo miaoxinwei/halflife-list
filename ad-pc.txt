@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9lk8GUTOO29hggTAm6Bqug
+! Checksum: 6XPYVyLEBKmGc6jj03WeGA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312191418
-! Last Modified: 2023年12月19日 14:18
+! Version: 202312192027
+! Last Modified: 2023年12月19日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -68651,6 +68651,9 @@ newduba.cn###jq_youxi
 ||rsvvfx.xyz^
 ||hznaxah.cn^
 ||uuxfznnf.xyz^
+||buxfznnf.xyz^
+||tatyboy.top^
+||sdjbcjsbdjk.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -98647,6 +98650,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strtapewithadblock.xyz/stat/
 ||strtpe.link/stat/
 ||stubhub.com/a/icph
+||suaurl.com/adblock/js/smarttag.js
 ||swarm.video/stats/
 ||szrpr.raen.com^
 ||t.3hentai.net^
@@ -116955,6 +116959,7 @@ arketing.indianadunes.com^
 ||uts.auction.co.kr^
 ||utsssl.auction.co.kr^
 ||wcs.naver.com^
+||weblog.coupang.com^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
 ||ytn.co.kr/_comm/ylog.php?
