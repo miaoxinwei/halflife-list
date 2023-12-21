@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OCie1Joa42e8U50KZqmPFA
+! Checksum: o0i/KZS5CPLLLrlC7IlgXg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312210218
-! Last Modified: 2023年12月21日 02:18
+! Version: 202312210904
+! Last Modified: 2023年12月21日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20957,6 +20957,7 @@ browsershots.org#@#.advert_area
 ||ahscdn.com^
 ||ahstrelgnh.com^
 ||ahtalcruzv.com^
+||ahwbedsd.xyz^
 ||aibsgc.com^
 ||aibwjqpo.xyz^
 ||aidata.io^
@@ -23505,6 +23506,7 @@ browsershots.org#@#.advert_area
 ||bonesinoffensivebook.com^
 ||bonfiresaltymilk.com^
 ||bongacams7.com^
+||bongaucm.xyz^
 ||bongauns.xyz^
 ||bonicus.com^
 ||bonnetiere-infrangible-burthening.xyz^
@@ -30266,6 +30268,7 @@ browsershots.org#@#.advert_area
 ||gipostart-1.co^
 ||gippingrefont.com^
 ||gipsiesthyrsi.com^
+||giqaanwmqwowemt.com^
 ||giraffedestitutegigantic.com^
 ||girdedmays.life^
 ||girdleunfamiliartraffic.com^
@@ -47834,6 +47837,7 @@ browsershots.org#@#.advert_area
 ||waughtsquint.com^
 ||waugique.net^
 ||waunsgraphs.website^
+||wauroufu.net^
 ||waushaup.com^
 ||waushool.com^
 ||waust.at^
@@ -54084,6 +54088,7 @@ browsershots.org#@#.advert_area
 ||smarttopchain.nl^$popup
 ||smentbrads.info^$popup
 ||smg8oo4njst45oene.com^$popup
+||smoulderhangnail.com^$popup
 ||smrt-content.com^$popup
 ||smrtgs.com^$popup
 ||smrtsecure-eml.com^$popup
@@ -68802,6 +68807,14 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||kznizrhd.xyz^
+||auvohoxm.xyz^
+||qusfybj.cn^
+||zfvtswv.xyz^
+||i472x.fun^
+||sagcyq.xyz^
+||fgwerg.top^
+||lppgjf.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -90251,6 +90264,7 @@ omni.soundestlink.com$image
 ||s7target.ru^$third-party
 ||safe-click.net^$third-party
 ||safeanalytics.net^$third-party
+||safevisit.online^$third-party
 ||sageanalyst.net^$third-party
 ||sailthru.com^$third-party
 ||salecycle.com^$third-party
@@ -95149,7 +95163,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jangomail.com^*?UID$third-party
 ||jas.indeednps.com^
 ||javascriptcounter.appspot.com^
-||jerkmate.com^*/tracking-hasoffers-
+||jennifersoft.com^$third-party
 ||jill.fc.yahoo.com^
 ||jly24aw29n5m-a.akamaihd.net^
 ||jobvite.com/analytics.js
@@ -95522,6 +95536,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||patreon.com/api/tracking
 ||payments-amazon.com^*/analytics.js
 ||payments.amazon.com/cs/uedata
+||paypal.com/ptrk/
 ||paypal.com/webapps/mch/cmd/?
 ||paypal.com/xoplatform/logger/api/logger
 ||paypal.com^*/pixel.gif$third-party
@@ -99211,6 +99226,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||auctionzip.com/eKtvxkQ2/init.js
 ||b.px-cdn.net/api/v1/PXrf8vapwA/
 ||bathandbodyworks.com/lsXlyYa5/init.js
+||belk.com/0iiey9LM/init.js
 ||bhphotovideo.com/3D8mkYG1/init.js
 ||bloomberg.com/8FCGYgk4/init.js
 ||booking.com/87sduif98q3rijax
@@ -99273,6 +99289,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||skiphop.com/0F3091f3/init.js
 ||snipesusa.com/6XNN2xkk/init.js
 ||spirit.com/kp4CLSb5/init.js
+||ssense.com/58Asv359/init.js
 ||streeteasy.com/cZdhF737/init.js
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js
