@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mlYlbwcsRbBRWEGxBT+j0A
+! Checksum: FKSkIRlkwKWFxK7RL/l6eQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312210904
-! Last Modified: 2023年12月21日 09:04
+! Version: 202312211418
+! Last Modified: 2023年12月21日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -68927,6 +68927,10 @@ newduba.cn###jq_youxi
 ||sagcyq.xyz^
 ||fgwerg.top^
 ||lppgjf.xyz^
+||uznizrhd.xyz^
+||sagcyq.xyz^
+||bznizrhd.xyz^
+||gkktjf.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -86165,6 +86169,7 @@ fqsousou.com,kengso.com#@#.user-share
 /gweb/analytics/autotrack.js
 /h.gif?
 /hc/activity
+/header-pixels.min.js
 /HeatmapSessionRecording/configs.php
 /HeatmapSessionRecording/tracker.min.js
 /hg?hc=&hb=*&vjs=
@@ -86860,6 +86865,7 @@ fqsousou.com,kengso.com#@#.user-share
 /pxl.gif?
 /pxl.png?
 /pxlctl.gif
+/pxrc.php
 /pxre.php
 /pxtrack.js
 /qlitics.js
@@ -88260,7 +88266,9 @@ omni.soundestlink.com$image
 ||googleoptimize.com^
 ||googletagmanager.com^
 ||gw-dv.vip^
+||hbiq.net^
 ||hdmtools.com^
+||herbgreencolumn.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
@@ -94147,6 +94155,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||affiliates.minglematch.com^
 ||affirm.com/api/v2/cookie_sent
 ||affirm.com/api/v2/session/touch_track
+||afterpay.com^*/v1/event
 ||akamaihd.net/p1lakjen.gif
 ||akamaized.net/cookie_check/
 ||akatracking.esearchvision.com^
@@ -94199,6 +94208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
+||analytics-api.klickly.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-production.hapyak.com^
@@ -95353,6 +95363,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
 ||listen.audiohook.com/*/pixel.png
+||listrak.com/api/Activity/impression
 ||listrakbi.com/activity/
 ||listrakbi.com/api/ActivityEvents/
 ||lit.connatix.com^
@@ -95777,6 +95788,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/heatmap/
 ||qq.com/ping.js?
 ||qq.com/stats?
+||quadpay.com/analytics/
 ||qualifioapp.com/egw/events
 ||qualtrics.com/jfe/$script,third-party
 ||qualtrics.com/sie/$script,third-party
