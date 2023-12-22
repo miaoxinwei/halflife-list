@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 28zbizq0DPUAhrUSCHUSRg
+! Checksum: G3XmcyiI3bCzHu7xXHQ+6g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312220216
-! Last Modified: 2023年12月22日 02:16
+! Version: 202312220903
+! Last Modified: 2023年12月22日 09:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2863,6 +2863,14 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||aokkwzg.cn^
+||gunepszy.xyz^
+||zomcz.cyou^
+||ezeqcy.xyz^
+||qxzlmzt.xyz^
+||kycxhgrp.xyz^
+||lmrhhn.xyz^
+||ghreha.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -32683,6 +32691,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usersonline.org/ping.php?
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
+||usizy.com/external/pageview
 ||utils.global-e.com/set?
 ||utt.pm/utm/
 ||v-h.tv/pixel/
@@ -34813,6 +34822,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcloud.to/log/
 ||mcloud.to/ping/
 ||mcs-va.tiktokv.com^
+||mcs.tiktokv.us^
 ||mcs.us.tiktokv.com^
 ||medium.com/_/batch
 ||medium.com/_/clientele/reports/performance/
@@ -35678,6 +35688,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snipesusa.com/6XNN2xkk/init.js
 ||spirit.com/kp4CLSb5/init.js
 ||ssense.com/58Asv359/init.js
+||stockx.com/16uD0kOF/init.js
 ||streeteasy.com/cZdhF737/init.js
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js
