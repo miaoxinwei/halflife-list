@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4JOb45NzUQksMbOSk/GFTQ
+! Checksum: vvYRbMG0SAWHs3umwOKeLw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312221418
-! Last Modified: 2023年12月22日 14:18
+! Version: 202312222026
+! Last Modified: 2023年12月22日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2874,6 +2874,10 @@ newduba.cn###jq_youxi
 ||1234good.com^
 ||uycxhgrp.xyz^
 ||huryds.top^
+||bycxhgrp.xyz^
+||liujiahao6.cn^
+||xycxhgrp.xyz^
+||tycxhgrp.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -23375,6 +23379,7 @@ m.babytree.com##script + a[class]
 /sp_tracker.js
 /spacer.gif?
 /splunk-logging-v2.js
+/spresso.sdk.tracking.web.js
 /spymonitor.js
 /sr.gif?
 /sranalytics.js
@@ -32250,6 +32255,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||splunkcloud.com/services/collector/
 ||spotpass.com/api/log
 ||spread.ly^*/statistics.php
+||spresso.com/pim/public/events
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
 ||srvmath.com^*/analytics.js
 ||ssa.stepstone.com^
@@ -33800,6 +33806,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||pxl.retaku.net^
 ||recobell.io/rest/logs?
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
