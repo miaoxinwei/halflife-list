@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Txtu3/pD1//+PuXex5btxw
+! Checksum: 3vdptGGXJO8vEs1XpzkJNA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312230217
-! Last Modified: 2023年12月23日 02:17
+! Version: 202312230901
+! Last Modified: 2023年12月23日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8528,6 +8528,7 @@ _800x80_
 ##.ad-new
 ##.ad-new-box
 ##.ad-no-css
+##.ad-no-mobile
 ##.ad-no-notice
 ##.ad-no-style
 ##.ad-noBorderAndMargin
@@ -18246,6 +18247,7 @@ _800x80_
 ##a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img
 ##a[href^="https://promo-bc.com/"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
+##a[href^="https://rdwmct.com/"]
 ##a[href^="https://refpa.top/"]
 ##a[href^="https://refpa4903566.top/"]
 ##a[href^="https://refpazkjixes.top/"]
@@ -26000,6 +26002,7 @@ browsershots.org#@#.advert_area
 ||ctrlaltdel99.com^
 ||ctsau.xyz^
 ||ctsccrxfaqiq.xyz^
+||ctsdwm.com^
 ||ctsjackupspete.com^
 ||ctthatmyeduca.net^
 ||ctubhxbaew.com^
@@ -56139,6 +56142,7 @@ browsershots.org#@#.advert_area
 ||media.netrefer.com^
 ||mediaplex.com/ad/
 ||memesng.com/ads
+||mmin.io/embed/
 ||mmosale.com/baner_images/
 ||mmwebhandler.888.com^
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
@@ -60630,6 +60634,7 @@ theinertia.com##.asc-ad
 asianjournal.com##.asian-widget
 pickmypostcode.com##.aside-right.aside
 goal.com##.aside_ad-rail__cawG6
+decrypt.co##.aspect-video
 theadvocate.com##.asset-breakout-ads
 releasestv.com##.ast-above-header-wrap
 animalcrossingworld.com##.at-sidebar-1
@@ -69063,6 +69068,13 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||cpddgcr.xyz^
+||unxuoag.cn^
+||hsi2i.fun^
+||pkfuxvbk.xyz^
+||twtfdd.xyz^
+||kekmhvbb.xyz^
+||qlcbeg.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -85508,6 +85520,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics/google.js
 /analytics/layer
 /analytics/metric/*
+/analytics/pagestats
 /analytics/pageview
 /analytics/searches?
 /analytics/track_event/*
@@ -89435,6 +89448,7 @@ omni.soundestlink.com$image
 ||flexlinkspro.com^$third-party
 ||flixfacts.co.uk^$third-party
 ||flixsyndication.net^$third-party
+||flockrocket.io^$third-party
 ||flocktory.com^$third-party
 ||fluencymedia.com^$third-party
 ||fluidsurveys.com^$third-party
@@ -94529,6 +94543,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ariane.abtasty.com^
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
+||assets.moneymade.io/js/fp.min.js
 ||assets.yumpu.com/release/*/tracking.js
 ||asterpix.com/tagcloudview/
 ||at.cbsi.com^*/event?
@@ -96107,11 +96122,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sparklit.com/counter/
 ||speedtest.dailymotion.com/latencies.js
 ||speedtrap.shopdirect.com^
+||spindl.link/events
 ||spiral.world/events/
 ||splunkcloud.com/services/collector/
 ||spotpass.com/api/log
 ||spread.ly^*/statistics.php
 ||spresso.com/pim/public/events
+||squarecdn.com/square-marketplace-js/chunk-analytics-vendors.js
+||squarecdn.com/square-marketplace-js/chunk-analytics.js
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
 ||srvmath.com^*/analytics.js
 ||ssa.stepstone.com^
@@ -98160,7 +98178,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||byteoversea.com/monitor_web/
 ||c.fingerprint.com^
 ||c.newyorker.com^
-||c.paypal.com^$script
+||c.paypal.com^$image,script
 ||c.thredup.com^
 ||c.vogue.com^
 ||c.wired.com^
