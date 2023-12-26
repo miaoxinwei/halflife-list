@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8zHYVS2qQWF0QC+7Y4d+kw
+! Checksum: KLsH13Ns8HtYE+t6wzwsRA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202312260217
-! Last Modified: 2023年12月26日 02:17
+! Version: 202312260902
+! Last Modified: 2023年12月26日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -61702,6 +61702,7 @@ bab.la##.info-panel
 gameworldobserver.com##.information-block
 gameworldobserver.com##.information-blocks
 careerindia.com,oneindia.com##.inhouse-content
+asheville.com##.injected-ads
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 forbes.com##.inline-article-ed-placeholder
@@ -62493,6 +62494,7 @@ inchcalculator.com##.results-ad-container-outer
 infobel.com##.results-bottom-banner-container
 infobel.com##.results-middle-banner-container
 infobel.com##.results-top-banner-container
+curseforge.com##.rev-container
 realmscans.to##.rev-src
 utahgunexchange.com##.rev_slider_wrapper
 latimes.com,sandiegouniontribune.com##.revcontent
@@ -62786,7 +62788,7 @@ coinmarketcap.com##.sponsoredMark
 circleid.com##.sponsoredTopicCard
 hannaford.com##.sponsored_product
 meijer.com##.sponsoredproducts
-ar15.com,armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,hotrodhotline.com,jaguarforums.com,pypi.org,thebugle.co.za,waamradio.com,wbal.com,webtorrent.io##.sponsors
+ar15.com,armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,hotrodhotline.com,jaguarforums.com,pypi.org,smashingmagazine.com,thebugle.co.za,waamradio.com,wbal.com,webtorrent.io##.sponsors
 vuejs.org##.sponsors-aside-text
 salixos.org##.sponsors-container
 libhunt.com##.sponsors-list-content
@@ -69104,6 +69106,15 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||xiaobizaizi1.top^
+||kiiepofl.xyz^
+||jazftz.xyz^
+||rjlfolk.xyz^
+||nahgvfhs.xyz^
+||7vnkf.online^
+||daslethv.com^
+||iiwoqm.xyz^
+||lkuygf.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -91837,6 +91848,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||castcream.com^
 ||catalogdiscovery.com^
 ||catschickens.com^
+||cattlecommittee.com^
 ||causecherry.com^
 ||cautiouscamera.com^
 ||cautiouscherries.com^
