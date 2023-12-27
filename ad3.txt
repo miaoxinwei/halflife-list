@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RY8nRN69Czi8ouo192IHcg
+! Checksum: Qq5/pHcHERUlPnDrJxt7Kg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312270217
-! Last Modified: 2023年12月27日 02:17
+! Version: 202312270903
+! Last Modified: 2023年12月27日 09:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2940,6 +2940,13 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||dfg6.top^
+||dbpxivi.xyz^
+||1sk27.fun^
+||koqsxdpx.xyz^
+||jkbdpp.xyz^
+||wqnwdjjc.xyz^
+||uuuzuu.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -24778,6 +24785,7 @@ omni.soundestlink.com$image
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
+||tracking24.net^
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -30041,6 +30049,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pagerankfree.com^$third-party
 ||shinystat.it^$third-party
 ||sibautomation.com^$third-party
+||spearad.video^$third-party
 ||specialstat.com^$third-party
 ||sphostserver.com^$third-party
 ||statistiche-free.com^$third-party
@@ -30499,6 +30508,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ad.mail.ru/*.gif?rnd=$third-party
 ||adbr.io/log?
 ||addtoany.com/menu/transparent.gif
+||ade.googlesyndication.com^
 ||adfox.yandex.ru^
 ||adimo.co/api/tracking/
 ||adlog.com.com^
@@ -33495,6 +33505,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beaconcdn.qq.com^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
+||busuanzi.ibruce.info^$third-party
 ||bzclk.baidu.com^
 ||c.holmesmind.com^
 ||cbsi.com.cn/js/dw.js
@@ -33684,6 +33695,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmpcdn.el-mundo.net^
 ||dmpmetrics.rcsmetrics.it^
 ||eage.it/count2.php?
+||eventsink.api.redbee.live^
 ||evnt.iol.it^
 ||fb_servpub-a.akamaihd.net^
 ||gazzettaobjects.it^*/tracking/
@@ -33716,6 +33728,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quinet.it/counter/
 ||rcsobjects.it/rcs_tracking-service/v1/distro/HTML/trservice.shtml
 ||rd.alice.it^
+||redbee.serverside.ai^$image
 ||sem.triboomedia.it^
 ||sembox.it/js/sembox-tracking.js
 ||stat.acca.it^
