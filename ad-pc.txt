@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vOxs36Cs2AYn7xB0lA3JAA
+! Checksum: r7H9kKZar7hnGojvT5xjpA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312302024
-! Last Modified: 2023年12月30日 20:24
+! Version: 202312310217
+! Last Modified: 2023年12月31日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1141,6 +1141,7 @@ tieba.baidu.com##.tuijian-wrap
 /clickads/*
 /clicksor.$domain=~clicksor.com
 /cms_ads.js
+/code/https-v2.js?uid=
 /code/native.js?h=$script
 /code/pops.js?h=$script
 /code/silent.js?h=$script
@@ -2065,6 +2066,8 @@ tieba.baidu.com##.tuijian-wrap
 ://affiliates2.$third-party
 ://banner.$third-party
 ://banners.$third-party
+://news-*/process.js?id=$third-party
+://news-*/v2-sw.js$third-party
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 =half-page-ad&
 ?ab=1&zoneid=
@@ -19669,6 +19672,7 @@ browsershots.org#@#.advert_area
 ||660cba7db1.com^
 ||669fb3128e4b4.com^
 ||6775afc540.com^
+||68069795d1.com^
 ||68109deb96.com^
 ||6810f7dd2b.com^
 ||684d203fe1.com^
@@ -20843,6 +20847,7 @@ browsershots.org#@#.advert_area
 ||aeeg5idiuenbi7erger.com^
 ||aefeeqdlnh.com^
 ||aeffe3nhrua5hua.com^
+||aegiumks.com^
 ||aejslgc.com^
 ||aembxbxmnuspyr.com^
 ||aeneasclosure.website^
@@ -24538,6 +24543,7 @@ browsershots.org#@#.advert_area
 ||cb675f778b.com^
 ||cba-fed-igh.com^
 ||cbdedibles.site^
+||cbijwves.com^
 ||cbilrirtqyawue.com^
 ||cbltndzavx.com^
 ||cbpslot.com^
@@ -27961,6 +27967,7 @@ browsershots.org#@#.advert_area
 ||eephilru.com^
 ||eepoawhe.xyz^
 ||eepsukso.com^
+||eeptushe.xyz^
 ||eeqzrllnzkbkb.top^
 ||eergaroa.com^
 ||eergithi.com^
@@ -28326,6 +28333,7 @@ browsershots.org#@#.advert_area
 ||enoskees.space^
 ||enoughglide.com^
 ||enoughts.info^
+||enoughturtlecontrol.com^
 ||enqkeynmmnbzb.top^
 ||enquiryinsight.com^
 ||enquirysavagely.com^
@@ -28981,6 +28989,7 @@ browsershots.org#@#.advert_area
 ||faithiqs.com^
 ||faitis.com^
 ||faiverty-station.com^
+||fajukc.com^
 ||fakeerupriser.com^
 ||fakesorange.com^
 ||falcatayamalka.com^
@@ -30712,6 +30721,7 @@ browsershots.org#@#.advert_area
 ||gnojicfj.com^
 ||gnosticwinks.com^
 ||gnqtageoyy.com^
+||gnvpmftcgp.com^
 ||go-rillatrack.com^
 ||go-srv.com^
 ||go.mnaspm.com^
@@ -32962,6 +32972,7 @@ browsershots.org#@#.advert_area
 ||ioredi.com^
 ||iornsfyhueev.com^
 ||iorwe-qmf.com^
+||iovxhfavijyu.com^
 ||ioward.com^
 ||ioxffew.com^
 ||ipales.com^
@@ -33461,6 +33472,7 @@ browsershots.org#@#.advert_area
 ||jjwmlaynwwjlw.top^
 ||jjygptw.com^
 ||jk4lmrf2.de^
+||jkbewmezjawqj.top^
 ||jkdzimao.com^
 ||jkha742.xyz^
 ||jklbilitukyd.xyz^
@@ -35302,6 +35314,7 @@ browsershots.org#@#.advert_area
 ||lvjptld.com^
 ||lvlmhyjzdan.com^
 ||lvnmzhhod.com^
+||lvnnqdgxdlhj.com^
 ||lvntekpejrmtb.com^
 ||lvodomo.info^
 ||lvomenbxbyl.com^
@@ -35335,6 +35348,7 @@ browsershots.org#@#.advert_area
 ||lyemmayrabzew.top^
 ||lyfhkyneq.com^
 ||lygbbkgykzcr.com^
+||lygvtmeaekuv.com^
 ||lyingdownt.xyz^
 ||lyingshayride.com^
 ||lyjegushe.pro^
@@ -36853,6 +36867,7 @@ browsershots.org#@#.advert_area
 ||namol.xyz^
 ||nan46ysangt28eec.com^
 ||nancontrast.com^
+||nandasmile.org^
 ||nandinzouaves.uno^
 ||nandweandthe.org^
 ||naneducate.com^
@@ -37094,16 +37109,29 @@ browsershots.org#@#.advert_area
 ||newprofitcontrol.com^
 ||newrtbbid.com^
 ||news-back.org^
+||news-balica.com^
 ||news-bigefu.com^
+||news-bizowa.com^
+||news-bobeho.com^
+||news-butoto.com^
 ||news-buzz.cc^
+||news-capufu.com^
 ||news-central.org^
+||news-fadubi.com^
+||news-getogo.com^
 ||news-headlines.co^
 ||news-host.net^
+||news-losaji.com^
+||news-mefuba.cc^
 ||news-muheji.com^
+||news-nerahu.cc^
+||news-paxacu.com^
 ||news-place1.xyz^
 ||news-portals1.xyz^
 ||news-rarore.cc^
+||news-rojaxa.com^
 ||news-site1.xyz^
+||news-tamumu.cc^
 ||news-universe1.xyz^
 ||news-weekend1.xyz^
 ||news-xehola.com^
@@ -37934,6 +37962,7 @@ browsershots.org#@#.advert_area
 ||ogskle.com^
 ||ogtgurmzeoj.com^
 ||ogwmubfnjbzyo.com^
+||ogwqkgtboxol.com^
 ||ohaijoub.com^
 ||ohdrgrpfyvughty.xyz^
 ||ohelgbbileii.xyz^
@@ -38407,6 +38436,7 @@ browsershots.org#@#.advert_area
 ||ornery-animal.pro^
 ||oroodsee.xyz^
 ||orpheushooven.com^
+||orpoobj.com^
 ||orqaxjj.com^
 ||orqrdm.com^
 ||orquideassp.com^
@@ -39090,6 +39120,7 @@ browsershots.org#@#.advert_area
 ||pcruwbk.com^
 ||pctlwm.com^
 ||pctsrv.com^
+||pcvlpotybnd.com^
 ||pd-news.com^
 ||pdbqyzi.com^
 ||pdcnxobcv.com^
@@ -41402,6 +41433,7 @@ browsershots.org#@#.advert_area
 ||rcurn.com^
 ||rcvlink.com^
 ||rcvlinks.com^
+||rcvsmbawwqodqt.com^
 ||rcwuzudjcsjmr.com^
 ||rddywd.com^
 ||rderstartirrelea.info^
@@ -46854,6 +46886,7 @@ browsershots.org#@#.advert_area
 ||unanimouslyrejectproperly.com^
 ||unaptsullens.com^
 ||unarbokor.com^
+||unaswpzo.com^
 ||unauthorizedblur.com^
 ||unawakegaleus.com^
 ||unawar.com^
@@ -47920,6 +47953,7 @@ browsershots.org#@#.advert_area
 ||voyageschoolanymore.com^
 ||voynto.com^
 ||vpbceulnfbx.com^
+||vpfudjdi.com^
 ||vpico.com^
 ||vpipi.com^
 ||vpixrlkggv.com^
@@ -48884,6 +48918,7 @@ browsershots.org#@#.advert_area
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
 ||worldviralnewz.com^
+||worldwhoisq.org^
 ||worldwidemailer.com^
 ||worldwideor.info^
 ||worldwideorganiza.xyz^
@@ -56645,6 +56680,7 @@ browsershots.org#@#.advert_area
 ||d1aiciyg0qwvvr.cloudfront.net^
 ||d1appgm50chwbg.cloudfront.net^
 ||d1aqvw7cn4ydzo.cloudfront.net^
+||d1aukpqf83rqhe.cloudfront.net^
 ||d1ayv3a7nyno3a.cloudfront.net^
 ||d1az618or4kzj8.cloudfront.net^
 ||d1aznprfp4xena.cloudfront.net^
@@ -57091,6 +57127,7 @@ browsershots.org#@#.advert_area
 ||d3bfricg2zhkdf.cloudfront.net^
 ||d3c3uihon9kmp.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
+||d3cesrg5igdcgt.cloudfront.net^
 ||d3cl0ipbob7kki.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
@@ -64906,6 +64943,7 @@ fakings.com,nigged.com###banners_footer
 lewdspot.com,mopoga.com###belowGameAdContainerPause
 sexyandfunny.com###best-friends
 pussyspace.com###bhcr
+euroxxx.net###block-15
 hentaiprn.com###block-27
 jav-jp.com###block-29
 toppixxx.com###bottom
@@ -65921,7 +65959,7 @@ pornhub.com,youporngay.com##div[onclick*="bp1.com"]
 hentaistream.com##div[style$="width:100%;height:768px;overflow:hidden;visibility:hidden;"]
 hentai.com##div[style="cursor: pointer;"]
 simpcity.su##div[style="text-align:center;margin-bottom:20px;"]
-aniporn.com,missav.com,missav123.com,missav789.com,redgifs.com##div[style="width: 300px; height: 250px;"]
+abxxx.com,aniporn.com,missav.com,missav123.com,missav789.com,redgifs.com##div[style="width: 300px; height: 250px;"]
 sexbot.com##div[style="width:300px;height:20px;text-align:center;padding-top:30px;"]
 pornpics.network##div[style^="height: 250px;"]
 gay0day.com##div[style^="height:250px;"]
@@ -68395,6 +68433,7 @@ newduba.cn###jq_youxi
 ||bnnfvd.xyz^
 ||boats4.top^
 ||bollenhurkle.com^
+||boplgt.icu^
 ||boqsxdpx.xyz^
 ||bpbfymv.xyz^
 ||bpdtrfb.xyz^
@@ -68402,6 +68441,7 @@ newduba.cn###jq_youxi
 ||bplrpf.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
+||bsvkfwth.xyz^
 ||btfjjwt.xyz^
 ||bthypgm.cn^
 ||btnwxhjv.xyz^
@@ -68729,6 +68769,7 @@ newduba.cn###jq_youxi
 ||jeqxuvv.icu^
 ||jevwdao.cn^
 ||jhl1993.cn^
+||jhpbtp.xyz^
 ||jiangjinmoa.cn^
 ||jiangyahuid.top^
 ||jiangyahuir.top^
@@ -68798,6 +68839,7 @@ newduba.cn###jq_youxi
 ||kreisis.top^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
+||ksvkfwth.xyz^
 ||ktnwxhjv.xyz^
 ||ktvtxir.xyz^
 ||kuxfznnf.xyz^
@@ -68905,6 +68947,7 @@ newduba.cn###jq_youxi
 ||mrthav.xyz^
 ||mryqtym.cn^
 ||mstkvnya.xyz^
+||msvkfwth.xyz^
 ||mtnwxhjv.xyz^
 ||murdyq.com^
 ||muycpg.xyz^
@@ -68980,6 +69023,7 @@ newduba.cn###jq_youxi
 ||orbxiul.xyz^
 ||orssengseen.com^
 ||oryhic.xyz^
+||otbeksf.cn^
 ||ovfvkfc.xyz^
 ||owkmmo.xyz^
 ||owyame.xyz^
@@ -69082,6 +69126,7 @@ newduba.cn###jq_youxi
 ||rrfccx.com^
 ||rshsk.xyz^
 ||rslkhj.xyz^
+||rsvkfwth.xyz^
 ||rsvvfx.xyz^
 ||rt004.top^
 ||rudenx.xyz^
@@ -69100,6 +69145,7 @@ newduba.cn###jq_youxi
 ||sdjbcjsbdjk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
+||sdxzqec.xyz^
 ||serda10.icu^
 ||seutop.icu^
 ||sfqyck.xyz^
@@ -69165,6 +69211,7 @@ newduba.cn###jq_youxi
 ||trdmtx.xyz^
 ||trojangfw.xyz^
 ||trrmkzesvyqrary.com^
+||tsvkfwth.xyz^
 ||ttgjwxp.icu^
 ||ttnwxhjv.xyz^
 ||tunovl.xyz^
@@ -69190,6 +69237,7 @@ newduba.cn###jq_youxi
 ||udsahkln.xyz^
 ||uebipacy.xyz^
 ||uekmhvbb.xyz^
+||ugpibtpk.xyz^
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
@@ -69211,6 +69259,7 @@ newduba.cn###jq_youxi
 ||uphcrjth.xyz^
 ||uqeuxpl.cn^
 ||uskoie.xyz^
+||usvkfwth.xyz^
 ||usxuyr.icu^
 ||utnwxhjv.xyz^
 ||uuishsa.com^
@@ -69258,6 +69307,7 @@ newduba.cn###jq_youxi
 ||vjpgm.space^
 ||vjzjpt.xyz^
 ||vljjtj.xyz^
+||vmr6t.icu^
 ||vozftn.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
@@ -69296,6 +69346,7 @@ newduba.cn###jq_youxi
 ||wwwww.asia^
 ||wwxufo.com^
 ||wxsignin.top^
+||wyfec.cn^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -69336,6 +69387,7 @@ newduba.cn###jq_youxi
 ||xrcembm.cn^
 ||xrllybr.xyz^
 ||xrrhwgj.xyz^
+||xsvkfwth.xyz^
 ||xtnwxhjv.xyz^
 ||xucyufv.icu^
 ||xuyanlong1.cn^
@@ -69406,6 +69458,7 @@ newduba.cn###jq_youxi
 ||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zohdfd.xyz^
 ||zomcz.cyou^
 ||zotcjeig.xyz^
 ||zpvfsrb.xyz^
@@ -69422,19 +69475,6 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||ksvkfwth.xyz^
-||ugpibtpk.xyz^
-||rsvkfwth.xyz^
-||zohdfd.xyz^
-||jhpbtp.xyz^
-||sdxzqec.xyz^
-||wyfec.cn^
-||usvkfwth.xyz^
-||boplgt.icu^
-||bsvkfwth.xyz^
-||otbeksf.cn^
-||xsvkfwth.xyz^
-||tsvkfwth.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
