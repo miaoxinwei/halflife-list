@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JmKTSccQhgla54fx1NlVXA
+! Checksum: yF5wgzzPs3Ieae4JnerHWw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401060904
-! Last Modified: 2024年01月06日 09:04
+! Version: 202401061417
+! Last Modified: 2024年01月06日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3110,6 +3110,9 @@ newduba.cn###jq_youxi
 ||mnvxdkd.xyz^
 ||m8oxd.xyz^
 ||wkzsmj.icu^
+||lcid.top^
+||uogtrmjz.xyz^
+||bogtrmjz.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -33399,6 +33402,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.econa.com^
 ||data.kameleoon.io^
 ||datacomm.ch^*/count.cgi?
+||djuf7jb483wz1.cloudfront.net/p/l.jpg
 ||et.twyn.com^
 ||events.onet.pl^
 ||export.newscube.de^$~subdocument
@@ -33602,6 +33606,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.lqm.io^
 ||tracking.netvigie.com^
 ||trjs.mediafin.be/loader/trmfn-loader.js
+||trk.a-dsp.com^
 ||trk.adbutter.net^
 ||tsphone.biz/pixelvoleur.jpg?
 ||veoxa.com/get_trackingcode.
@@ -36018,6 +36023,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tealiumiq.com^$domain=autobild.de
 ||visualrevenue.com^$domain=autobild.de|spiegel.de
 ||xplosion.de^$domain=spiegel.de
+@@||bam.nr-data.net^$xmlhttprequest,domain=abema.tv
+@@||js-agent.newrelic.com^$script,domain=abema.tv
 !#endif
 !-----------------Individual cname tracking systems-----------------!
 ||0d8is908gby1.www.terraform.com.ar^
