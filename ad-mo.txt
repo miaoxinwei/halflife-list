@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CDOJK1d5jfwfRDSbH/7g6g
+! Checksum: g8yUWKov5M5fzscwFVBv1A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401070216
-! Last Modified: 2024年01月07日 02:16
+! Version: 202401070911
+! Last Modified: 2024年01月07日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -44023,6 +44023,7 @@ browsershots.org#@#.advert_area
 ||smartappsfly.com^
 ||smartdating.top^
 ||smartlnk.com^
+||smartpicrotation.com^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^
@@ -50942,6 +50943,7 @@ browsershots.org#@#.advert_area
 ||cryptoads.space^$third-party
 ||cryptocoinsad.com^$third-party
 ||cryptoecom.care^$third-party
+||cryptotrials.care^$third-party
 ||ctrhub.com^$third-party
 ||ctrip.com^$third-party
 ||ctrmanager.com^$third-party
@@ -51155,6 +51157,7 @@ browsershots.org#@#.advert_area
 ||klakus.com^$third-party
 ||komoona.com^$third-party
 ||kovla.com^$third-party
+||kurzycz.care^$third-party
 ||laim.tv^$third-party
 ||lanistaconcepts.com^$third-party
 ||lcwfab1.com^$third-party
@@ -58549,6 +58552,7 @@ browsershots.org#@#.advert_area
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sharecast.ws/cum.js
 ||sharecast.ws/fufu.js
+||short-wave.info/html/adsense-
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
 ||slickdeals.net/ad-stats/
@@ -59035,6 +59039,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||bigtitslust.com/lap70/
 ||bionestraff.pro/300x250.php
 ||bodsforthemods.com/srennab/
+||bootyheroes.com//static/assets/img/banners/
 ||boysfood.com/d5.html
 ||bravoteens.com/ta/
 ||bravotube.net/cc/
@@ -62778,6 +62783,7 @@ washingtontimes.com##.piano-right-rail-reco
 reelviews.net##.picHolder
 locklab.com##.picwrap
 yopmail.com,yopmail.fr,yopmail.net##.pindexhautctn
+carsized.com##.pl_header_ad
 redgifs.com##.placard-wrapper
 gismeteo.com,meteofor.com,nofilmschool.com##.placeholder
 bucksco.today##.placeholder-block
@@ -63792,7 +63798,7 @@ everydaykoala.com,playjunkie.com##[class*="__adspot-title-container"]
 everydaykoala.com,playjunkie.com##[class*="__adv-block"]
 barandbench.com##[class*="ad-slot"]
 usnews.com##[class*="ad-spacer"]
-beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,insidebitcoins.com,philnews.ph,techreport.com##[class*="clickout-"]
+beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,insidebitcoins.com,philnews.ph,techreport.com##[class*="clickout-"]
 smallseotools.com##[class*="gram"]
 levels.fyi##[class*="submissions-table-promo_promoContainer"]
 alternativeto.net##[class^="AdsenseAd"]
@@ -64338,6 +64344,7 @@ games.dailymail.co.uk,nba.com##div[class^="DisplayAd_"]
 alternativeto.net##div[class^="GamAds_"]
 games.dailymail.co.uk##div[class^="GameTemplate__displayAdTop_"]
 benzinga.com##div[class^="GoogleAdBlock_"]
+allradio.net##div[class^="GoogleAdsenseContainer_"]
 livescore.com##div[class^="HeaderAdsHolder_"]
 games.dailymail.co.uk##div[class^="HomeCategory__adWrapper_"]
 games.dailymail.co.uk##div[class^="HomeTemplate__afterCategoryAd_"]
@@ -65523,6 +65530,7 @@ gottanut.com##.coverUpVid-Dskt
 forced-tube.net,hqasianporn.org##.coverup
 shemale777.com##.covid19
 4tube.com##.cpp
+bootyheroes.com##.cross-promo-bnr
 3movs.com,fapality.com##.cs
 mylust.com##.cs-bnr
 rat.xxx,zbporn.tv##.cs-holder
@@ -66440,7 +66448,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
 @@||photofunia.com/effects/$image,~third-party
 @@||pjtra.com/b/$image,domain=extrarebates.com
-@@||player.aniview.com/script/$script,domain=odysee.com
+@@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
 @@||player.ex.co/player/$script,domain=theautopian.com
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
@@ -69808,6 +69816,12 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||lhzxbp.xyz^
+||kuoizbtl.xyz^
+||ugkpsi.xyz^
+||bhktalt.cn^
+||yfzpxnb.xyz^
+||fjhrq.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -87930,6 +87944,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sessioncam.js
 /sessioncam.min.$script
 /sessioncam.recorder.js
+/SessionHit.aspx?
 /set-cookie.gif?
 /set_cookie.php?
 /set_optimizely_cookie.js
@@ -95298,7 +95313,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aweber.com/form/displays.htm?$image
 ||awesome.section.io^
 ||awswaf.com^*/report
-||awswaf.com^*/telemetry
 ||ax.babe.today^
 ||axislogger.appspot.com^
 ||az693360.vo.msecnd.net^
@@ -128820,7 +128834,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||autocomplete.clearbit.com^$xmlhttprequest,domain=dzone.com
-@@||awswaf.com/*/telemetry$domain=platform.ledn.io
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||azureedge.net^*/analytics/eventtracking.js$script,domain=crimemapping.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
@@ -129011,6 +129024,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
 @@||plex.tv/api/v2/geoip$xmlhttprequest
+@@||plugin.intuitcdn.net/vep-collab-smlk-ui/assets/vendor/glance/cobrowse/
 @@||plugins.matomo.org^$image,~third-party
 @@||postex.com/api/ping?$~third-party
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
