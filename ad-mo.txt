@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4DEH2QHjhjBz13/zhdR0FA
+! Checksum: HLkXCcslQMIw1gO0EujznA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401090906
-! Last Modified: 2024年01月09日 09:06
+! Version: 202401091418
+! Last Modified: 2024年01月09日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50609,6 +50609,7 @@ browsershots.org#@#.advert_area
 ||adport.io^$third-party
 ||adpredictive.com^$third-party
 ||adpushup.com^$third-party
+||adquire.com^$third-party
 ||adqva.com^$third-party
 ||adreactor.com^$third-party
 ||adrecord.com^$third-party
@@ -59899,9 +59900,7 @@ infotel.ca###desktopBannerFooter
 infotel.ca###desktopBannerTop
 eldersweather.com.au###desktop_new_forecast_top_wxh
 pikalytics.com###dex-list-0
-winaero.com###dfsfsdfs-asdasd-2
 flyordie.com###dgad
-winaero.com###diodfoihdfsd
 realclearpolitics.com###distro_right_rail
 tribunnews.com###div-Inside-MediumRectangle
 designtaxi.com###div-center-wrapper
@@ -63761,6 +63760,7 @@ discussingfilm.net,goonhammer.com,joemygod.com,shtfplan.com,thestrongtraveller.c
 wplift.com##.widget_bsa
 techweekmag.com##.widget_codewidget
 4sysops.com,9to5linux.com,backthetruckup.com,catcountry941.com,cnx-software.com,corvetteblogger.com,dailyveracity.com,fastestvpns.com,gamingonphone.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,macsources.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,openloading.com,prepperwebsite.com,quickanswer.blog,sashares.co.za,scienceabc.com,techdows.com,techjuice.pk,thecinemaholic.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com##.widget_custom_html
+winaero.com##.widget_custom_html.textwidget.widget
 domaingang.com##.widget_execphp
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
@@ -69922,6 +69922,8 @@ newduba.cn###jq_youxi
 ||iincon.icu^
 ||segoyg.xyz^
 ||ui8l2.xyz^
+||uzelzfnj.xyz^
+||bzelzfnj.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
