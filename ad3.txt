@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uo9Nu/8tjI36dxY43tqjuQ
+! Checksum: b1h2CZdB8vRV6Vd0Bv89DA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401160906
-! Last Modified: 2024年01月16日 09:06
+! Version: 202401161419
+! Last Modified: 2024年01月16日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3261,6 +3261,9 @@ newduba.cn###jq_youxi
 ||ffawfa.cn^
 ||zghrxn.xyz^
 ||8ovgk.online^
+||gkswas.xyz^
+||mvbvvch.xyz^
+||stq89.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -32538,6 +32541,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ria.ru/counter?
 ||richrelevance.com/rrserver/tracking?
 ||rltd.io/tags/
+||roadster.com/roadster_dealer_analytics
 ||rodale.com/ga/
 ||route.com/collect
 ||routeapp.io/route-analytics/
@@ -34808,7 +34812,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/welcomeback
+||coomer.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -35168,7 +35172,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/welcomeback
+||kemono.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
