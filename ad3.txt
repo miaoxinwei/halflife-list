@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b1h2CZdB8vRV6Vd0Bv89DA
+! Checksum: UGu+ET+xAeU7kBIonF0OVg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401161419
-! Last Modified: 2024年01月16日 14:19
+! Version: 202401162028
+! Last Modified: 2024年01月16日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1772,6 +1772,7 @@ newduba.cn###jq_youxi
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
+##.nav-ads
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
@@ -3264,6 +3265,8 @@ newduba.cn###jq_youxi
 ||gkswas.xyz^
 ||mvbvvch.xyz^
 ||stq89.icu^
+||ipuswrg.cn^
+||krbsumc.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -14706,7 +14709,6 @@ hepuwang.com##.n5_dbhfad > .wapper
 ccoo.cn##.n_adbox
 msn.cn##.nativeadserversidecontentmodule
 dan-teng.top##.nav
-nivod4.tv,nivod5.tv##.nav-ads
 jiemian.com##.nav-next-ad-views
 lenovo.com.cn##.nav_ad1
 lenovo.com.cn##.nav_ad2
@@ -35886,6 +35888,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
 ||web.whatsapp.com/wam
+||webd-assets.cdn4dd.com/s.js$domain=doordash.com
 ||weblog.flyasiana.com^
 ||webmd.com/static/v/c?
 ||weedmaps.com/pixel?
