@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tYl1offAAWFwmJhIQFpKGQ
+! Checksum: Lvoq7QEp1TijNJsOtWDPeg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401191419
-! Last Modified: 2024年01月19日 14:19
+! Version: 202401192027
+! Last Modified: 2024年01月19日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53694,6 +53694,7 @@ browsershots.org#@#.advert_area
 ||granddaughterrepresentationintroduce.com^$popup
 ||grandmotherfoetussadly.com^$popup
 ||grandsonreverendlawn.com^$popup
+||grapseex.com^$popup
 ||gratifiedmatrix.com^$popup
 ||gratinaesc.cfd^$popup
 ||grauglak.com^$popup
@@ -60135,6 +60136,7 @@ soapcalc.net###SidebarLeft
 daringfireball.net###SidebarMartini
 soapcalc.net###SidebarRight
 imcdb.org###SiteLifeSupport
+puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###Skyscraper
 roblox.com###Skyscraper-Abp-Left
 roblox.com###Skyscraper-Abp-Right
 thecourier.com###TCFO_Middle2_300x250
@@ -60360,6 +60362,7 @@ dailydot.com###browsi-topunit
 techpp.com###brxe-ninhwq
 techpp.com###brxe-wtwlmm
 icon-icons.com###bsa-placeholder-search
+puzzle-aquarium.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-skyscrapers.com###btIn
 w3newspapers.com###btmadd
 battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca###bumper-cars
 northcountrypublicradio.org###business
@@ -61162,6 +61165,7 @@ advfn.com##.APS_TOP_BANNER_468_X_60_container
 buzzfeed.com,imgur.io,sevendaysvt.com,tasty.co,tucsonweekly.com##.Ad
 deseret.com##.Ad-space
 thingiverse.com##.AdBanner__adBanner--GpB5d
+topgear.com##.AdContainer-sc-cy9ye3-4
 racingamerica.com##.AdPlacement
 petfinder.com##.AdUnitParagraph-module--adunitContainer--2b7a6
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
@@ -61286,6 +61290,7 @@ slant.co##.SummaryPage-LustreEmbed
 dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
+topgear.com##.TopContainer-sc-cy9ye3-1
 poebuilds.net##.W_tBwY
 britannicaenglish.com##.WordFromSponsor_content_enToar
 this.org##.Wrap-leaderboard
@@ -70653,6 +70658,8 @@ newduba.cn###jq_youxi
 ||l7ghj.xyz^
 ||xwlnhw.com^
 ||stbwhln.cn^
+||m6500.top^
+||rotondelibya.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -90405,6 +90412,7 @@ omni.soundestlink.com$image
 ||analyticschecker.com^$third-party
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
+||analyzee.io^$third-party
 ||analyzz.com^$third-party
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
@@ -130041,7 +130049,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! adobedtm.com/extensions/
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com
 !! OtAutoBlock.js
-@@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com
+@@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
 !! cxense.com/public/widget/
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
 !! cxense.com/cx.cce.js
