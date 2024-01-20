@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EMFo5vRX/Bz8b7Qw6WWoNA
+! Checksum: wOACg3lEvAUv3NqROrw2mA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202401201417
-! Last Modified: 2024年01月20日 14:17
+! Version: 202401202025
+! Last Modified: 2024年01月20日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -20913,6 +20913,7 @@ browsershots.org#@#.advert_area
 ||aeffe3nhrua5hua.com^
 ||aegiumks.com^
 ||aejslgc.com^
+||aekhfdpxcw.com^
 ||aembxbxmnuspyr.com^
 ||aeneasclosure.website^
 ||aerariacongoni.uno^
@@ -30615,6 +30616,7 @@ browsershots.org#@#.advert_area
 ||gempeety.com^
 ||gempoussee.com^
 ||gen-ref.com^
+||genaumsa.net^
 ||genbalar.com^
 ||generalebad.xyz^
 ||generalizebusinessman.com^
@@ -34053,6 +34055,7 @@ browsershots.org#@#.advert_area
 ||jsdelvr.com^
 ||jsfeedadsget.com^
 ||jsfrfeuubna.com^
+||jsftfmegwcyhsed.com^
 ||jsfuz.com^
 ||jsmentry.com^
 ||jsmjmp.com^
@@ -38817,6 +38820,7 @@ browsershots.org#@#.advert_area
 ||ookroulsaurd.com^
 ||ookroush.com^
 ||oolassouwa.com^
+||ooloptou.net^
 ||ooltutoo.net^
 ||oomgnwdmzwnxn.com^
 ||oomsijahail.com^
@@ -59159,6 +59163,8 @@ browsershots.org#@#.advert_area
 ||myabandonware.com/media/img/gog/
 ||myanimelist.net/c/i/images/event/
 ||mybrowseraddon.com/ads/core.js
+||myflixer.is/ajax/banner^
+||myflixer.is/ajax/banners^
 ||myunique.info/wp-includes/js/pop.js
 ||myvidster.com/js/myv_ad_camp2.php
 ||n.gemini.yahoo.com^
@@ -59401,6 +59407,7 @@ browsershots.org#@#.advert_area
 ||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
+||blockchain.info/explorer-gateway/advertisements
 ||brid.tv^$script,domain=67hailhail.com|deepdaledigest.com|forevergeek.com|geordiebootboys.com|hammers.news|hitc.com|molineux.news|nottinghamforest.news|rangersnews.uk|realitytitbit.com|spin.com|tbrfootball.com|thechelseachronicle.com|thefocus.news|thepinknews.com|washingtonexaminer.com
 ||caffeine.tv/embed.js
 ||cdn.ex.co^$third-party
@@ -60885,7 +60892,7 @@ kohls.com###open-drawer
 livestreamfails.com###oranum_livefeed_container_0
 ckk.ai###orquidea-slideup
 electronicproducts.com,powvideo.net,streamplay.to,uxstyle.com###overlay
-dokicloud.one,fmoviefree.net###overlay-center
+dokicloud.one,fmoviefree.net,myflixer.is###overlay-center
 mzzcloud.life,rabbitstream.net###overlay-container
 mp4upload.com###overlayads
 drivevideo.xyz###overlays
@@ -64798,6 +64805,7 @@ noqreport.com##[id^="oqre-"]
 dailydooh.com##[id^="rectdiv"]
 daily-choices.com##[id^="sticky_"]
 wuxiaworld.site##[id^="wuxia-"]
+grabcad.com##[ng-if="model.asense"]
 apkcombo.com##[onclick*="_blank"]
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
 techadvisor.com##[referrerpolicy="unsafe-url"]
@@ -70807,6 +70815,9 @@ newduba.cn###jq_youxi
 ||ypffkbpq.xyz^
 ||hkaiedb.icu^
 ||cpffkbpq.xyz^
+||ryyuvrt.cn^
+||xpffkbpq.xyz^
+||wdadad.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
