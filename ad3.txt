@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 02MapDpcreq9T9ntORrlWA
+! Checksum: MovOu5CrkDFeAJ/bLVEBVQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401210911
-! Last Modified: 2024年01月21日 09:11
+! Version: 202401211418
+! Last Modified: 2024年01月21日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3339,6 +3339,9 @@ newduba.cn###jq_youxi
 ||wsyfsg.xyz^
 ||hdaidj.cn^
 ||ged46.xyz^
+||z3p9f.xyz^
+||zdf3q.xyz^
+||chbheroq.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -34894,7 +34897,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -35254,7 +35256,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
