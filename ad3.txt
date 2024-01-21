@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2O3+1yHHFdxy4Qf4qwAAEw
+! Checksum: 02MapDpcreq9T9ntORrlWA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401210216
-! Last Modified: 2024年01月21日 02:16
+! Version: 202401210911
+! Last Modified: 2024年01月21日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3332,6 +3332,13 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||ehrhrrx.xyz^
+||l0ix1.site^
+||xerqfh.xyz^
+||yhbheroq.xyz^
+||wsyfsg.xyz^
+||hdaidj.cn^
+||ged46.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -11419,6 +11426,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ad.youku.com/vp?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -28964,6 +28972,7 @@ omni.soundestlink.com$image
 ||nappyattack.com^
 ||nappyneck.com^
 ||neatshade.com^
+||nebulousripple.com^
 ||necessarywax.com^
 ||needlessnorth.com^
 ||needyneedle.com^
@@ -44308,7 +44317,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||smetrics.sun.com^
 ||smetrics.suncorp.co.nz^
 ||smetrics.suncorp.com.au^
-||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
+||smetrics.suncorpbank.com.au^
 ||smetrics.sunflowerhealthplan.com^
 ||smetrics.sunglasshut.com^
 ||smetrics.sunlife.ca^
@@ -44458,6 +44467,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||smetrics.us.levi.com^
 ||smetrics.us.playstation.com^
 ||smetrics.vermontcountrystore.com^
+||smetrics.viabcp.com^
 ||smetrics.viega.at^
 ||smetrics.viega.be^
 ||smetrics.viega.com^

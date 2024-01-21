@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h8tUsNC+Uu2V7UasOwjzmw
+! Checksum: gkUyAiCUpc7OfgPhIPeBpw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401210216
-! Last Modified: 2024年01月21日 02:16
+! Version: 202401210911
+! Last Modified: 2024年01月21日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18853,7 +18853,7 @@ seura.fi,www.msn.com#@#.nativead
 dogva.com#@#.node-ad
 bloomberg.com#@#.page-ad
 rottentomatoes.com#@#.page_ad
-player.ex.co,si.com,theautopian.com#@#.pbs__player
+player.ex.co,theautopian.com#@#.pbs__player
 gumtree.com#@#.postad
 komplett.dk,komplett.no,komplett.se,komplettbedrift.no,komplettforetag.se,newegg.com#@#.product-ad
 newegg.com#@#.product-ads
@@ -22266,6 +22266,7 @@ browsershots.org#@#.advert_area
 ||attributedrelease.com^
 ||attunebarberreality.com^
 ||atwola.com^
+||atwursdpal.com^
 ||atzekromchan.com^
 ||au2m8.com^
 ||aubergeswots.com^
@@ -29727,6 +29728,7 @@ browsershots.org#@#.advert_area
 ||flmfcox.com^
 ||flneurtoyed.tech^
 ||flnxcveswar.com^
+||floatingbile.com^
 ||floatingfolly.com^
 ||floccischlump.com^
 ||flockgallies.com^
@@ -30980,6 +30982,7 @@ browsershots.org#@#.advert_area
 ||goashais.com^
 ||goasrv.com^
 ||goatpoxbutters.top^
+||goavoafu.com^
 ||gobacktothefuture.biz^
 ||gobanspagodas.com^
 ||gobbinsantos.store^
@@ -33809,6 +33812,7 @@ browsershots.org#@#.advert_area
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
 ||jlmokzndbiafs.com^
+||jlmprtgl.com^
 ||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
 ||jlufbcef.com^
@@ -38035,6 +38039,7 @@ browsershots.org#@#.advert_area
 ||nuclav.com^
 ||nucleo.online^
 ||nuculetirl.com^
+||nudczusipbu.com^
 ||nudebenzoyl.digital^
 ||nudgedfardel.com^
 ||nudgercoptine.life^
@@ -47244,6 +47249,7 @@ browsershots.org#@#.advert_area
 ||tuwaqtjcood.com^
 ||tuxbpnne.com^
 ||tuxedochard.com^
+||tuxycml.com^
 ||tuxzlhrwejszu.com^
 ||tv1s4d6klh4n.com^
 ||tvbsfmswrjap.com^
@@ -53559,6 +53565,7 @@ browsershots.org#@#.advert_area
 ||flelgwe.site^$popup
 ||flingforyou.com^$popup
 ||flixcontentshop.com^$popup
+||floatingbile.com^$popup
 ||floweryduck.cc^$popup
 ||flowln.com^$popup
 ||flrdra.com^$popup
@@ -56964,6 +56971,7 @@ browsershots.org#@#.advert_area
 ||1082580998.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1117977646.rsc.cdn77.org^
 ||1143895874.rsc.cdn77.org^
 ||1144017219.rsc.cdn77.org^
 ||1145191861.rsc.cdn77.org^
@@ -56976,6 +56984,7 @@ browsershots.org#@#.advert_area
 ||1603463731.rsc.cdn77.org^
 ||1665637157.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1692923857.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1805629149.rsc.cdn77.org^
 ||1885212191.rsc.cdn77.org^
@@ -62901,7 +62910,7 @@ allnurses.com##.ipsSpacer_both
 1tamilblasters.com##.ipsWidget_inner.ipsPad.ipsType_richText > p > a
 alibaba.com##.is-creative
 mydramalist.com##.is-desktop
-athlonsports.com,meidastouch.com,thestreet.com##.is-exco-player
+athlonsports.com,meidastouch.com,si.com,thestreet.com##.is-exco-player
 thestreet.com##.is-video-footer-enabled
 estnn.com##.isDesktop
 speedcheck.org##.isg-container
@@ -67057,7 +67066,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||cdn.adsninja.ca^$domain=xda-developers.com
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bidder.dev/clients/$script,domain=forces.net
-@@||cdn.ex.co^$domain=si.com|theautopian.com
+@@||cdn.ex.co^$domain=theautopian.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||chycor.co.uk/cms/advert_search_thumb.php$image,domain=chycor.co.uk
 @@||clients.plex.tv/api/v2/ads/$~third-party
@@ -67172,7 +67181,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||pjtra.com/b/$image,domain=extrarebates.com
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
-@@||player.ex.co/player/$script,domain=si.com|theautopian.com
+@@||player.ex.co/player/$script,domain=theautopian.com
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party
 @@||pngimg.com/distr/$image,~third-party
@@ -70748,6 +70757,13 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||ehrhrrx.xyz^
+||l0ix1.site^
+||xerqfh.xyz^
+||yhbheroq.xyz^
+||wsyfsg.xyz^
+||hdaidj.cn^
+||ged46.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -78835,6 +78851,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||ad.youku.com/vp?
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -94049,6 +94066,7 @@ omni.soundestlink.com$image
 ||nappyattack.com^
 ||nappyneck.com^
 ||neatshade.com^
+||nebulousripple.com^
 ||necessarywax.com^
 ||needlessnorth.com^
 ||needyneedle.com^
@@ -109393,7 +109411,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||smetrics.sun.com^
 ||smetrics.suncorp.co.nz^
 ||smetrics.suncorp.com.au^
-||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
+||smetrics.suncorpbank.com.au^
 ||smetrics.sunflowerhealthplan.com^
 ||smetrics.sunglasshut.com^
 ||smetrics.sunlife.ca^
@@ -109543,6 +109561,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||smetrics.us.levi.com^
 ||smetrics.us.playstation.com^
 ||smetrics.vermontcountrystore.com^
+||smetrics.viabcp.com^
 ||smetrics.viega.at^
 ||smetrics.viega.be^
 ||smetrics.viega.com^
