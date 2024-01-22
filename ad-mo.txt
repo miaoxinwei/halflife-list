@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: i7KurCNyAPx6Pvw6hlsAhg
+! Checksum: odRBKsq+38PeuTyWfTrFQQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401220909
-! Last Modified: 2024年01月22日 09:09
+! Version: 202401221420
+! Last Modified: 2024年01月22日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18690,6 +18690,7 @@ box10.com#@##prerollAd
 spjai.com#@##related_ads
 eva.vn#@##right_ads
 39.benesse.ne.jp,techeyesonline.com#@##side-ad
+lexicanum.com#@##sidebar-ad
 jansatta.com#@##taboola-below-article-1
 azclick.jp,tubefilter.com#@##topAd
 soundandvision.com,stereophile.com#@##topbannerad
@@ -62072,6 +62073,7 @@ boingboing.net##.boing-leaderboard-below-menu
 boingboing.net##.boing-primis-video-in-article-content
 btcmanager.com##.boo_3oo_6oo
 cmo.com.au##.boombox
+tomsguide.com##.bordeaux-anchored-container
 tomsguide.com##.bordeaux-slot
 everydayrussianlanguage.com##.border
 washingtonpost.com##.border-box.dn-hp-sm-to-mx
@@ -62959,7 +62961,7 @@ allnurses.com##.ipsSpacer_both
 1tamilblasters.com##.ipsWidget_inner.ipsPad.ipsType_richText > p > a
 alibaba.com##.is-creative
 mydramalist.com##.is-desktop
-athlonsports.com,meidastouch.com,si.com,thestreet.com##.is-exco-player
+athlonsports.com,bringmethenews.com,meidastouch.com,si.com,thestreet.com##.is-exco-player
 thestreet.com##.is-video-footer-enabled
 estnn.com##.isDesktop
 speedcheck.org##.isg-container
@@ -67335,18 +67337,22 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||docs.google.com^$generichide
 @@||drive.google.com^$generichide
 @@||dropbox.com^$generichide
+@@||facebook.com^$generichide
 @@||fastmail.com^$generichide
 @@||figma.com^$generichide
 @@||github.com^$generichide
+@@||github.io^$generichide
 @@||gitlab.com^$generichide
 @@||hbomax.com^$generichide
 @@||icloud.com^$generichide
+@@||instagram.com^$generichide
 @@||instapundit.com^$generichide
 @@||jsfiddle.net^$generichide
 @@||mail.google.com^$generichide
 @@||mail.proton.me^$generichide
 @@||material.angular.io^$generichide
 @@||material.io^$generichide
+@@||max.com^$generichide
 @@||mui.com^$generichide
 @@||myaccount.google.com^$generichide
 @@||netflix.com^$generichide
@@ -67358,7 +67364,6 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||paramountplus.com^$generichide
 @@||peacocktv.com^$generichide
 @@||photos.google.com^$generichide
-@@||play.max.com^$generichide
 @@||publicwww.com^$generichide
 @@||reddit.com^$generichide
 @@||slack.com^$generichide
@@ -67366,7 +67371,9 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||stackblitz.com^$generichide
 @@||teams.microsoft.com^$generichide
 @@||tidal.com^$generichide
+@@||tiktok.com^$generichide
 @@||tv.youtube.com^$generichide
+@@||twitch.tv^$generichide
 @@||twitter.com^$generichide
 @@||web.archive.org^$generichide
 @@||www.youtube.com^$generichide
@@ -94137,6 +94144,7 @@ omni.soundestlink.com$image
 ||niftyhospital.com^
 ||niftyjelly.com^
 ||nightwound.com^
+||nocturnalloom.com^
 ||noiselessplough.com^
 ||nonchalantnerve.com^
 ||nondescriptcrowd.com^
@@ -100983,6 +100991,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tiktok.com/web/report?
 ||tiktok.com/whale/
 ||tiktokv.com/monitor_browser/
+||tiktokv.us/monitor_browser/
 ||tilanalytics.timesinternet.in^
 ||time.is/img/nod.png
 ||tms.delta.com/privacy/$image
@@ -101321,6 +101330,7 @@ $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|t
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vidoza.net
 ||anthropologie.com/XgWM9nuH/init.js
 ||apartmenttherapy.com/jAYekY18/init.js
+||arcteryx.com/943r4Fb8/init.js
 ||asda.com/px/PX1UGLZTko/init.js
 ||ashleyfurniture.com/ouqLB4fq/init.js
 ||auctionzip.com/eKtvxkQ2/init.js
@@ -130217,7 +130227,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! adobedtm.com^*_source.min.js
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
 !! adobedtm.com^*-source.min.js
-@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com
 !! adobedtm.com^*/mbox-contents-
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
 !! adobedtm.com/extensions/
