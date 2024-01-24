@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FSmE4V0VZNSGBi6ele0sWg
+! Checksum: e/8n1Bra+qJqzwU4Smr0WA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202401241419
-! Last Modified: 2024年01月24日 14:19
+! Version: 202401242028
+! Last Modified: 2024年01月24日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3825,6 +3825,8 @@ newduba.cn###jq_youxi
 ||befyah.icu^
 ||cprdmnlo.xyz^
 ||tweezesmalanga.com^
+||lyckery.com^
+||xprdmnlo.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -16799,7 +16801,7 @@ weather.com.cn##div[class^="adpos"]
 silver.org.cn##div[class^="ads_"]
 xcar.com.cn##div[class^="adset"]
 hybbs.com##div[class^="adtop"]
-8684.cn,8684.com,iyxdm.com,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.cc,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 ifeng.com##div[class^="adv0"]
 ifeng.com##div[class^="adv1"]
 kumi.cn##div[class^="adz"]
