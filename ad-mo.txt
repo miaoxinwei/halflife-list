@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MUk1U8h2ubmNPvU1HN2CaA
+! Checksum: gqKAuAYB+NAUOIx2aCcAmg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401251419
-! Last Modified: 2024年01月25日 14:19
+! Version: 202401252028
+! Last Modified: 2024年01月25日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62552,6 +62552,7 @@ whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
 geometrydash.io##.RowAdv
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
+staples.com##.SearchRootUX2__bannerAndSkuContainer
 coingape.com##.Sidemads
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 thedailybeast.com##.Sizer
@@ -72051,6 +72052,8 @@ newduba.cn###jq_youxi
 ||nszort.xyz^
 ||chnvgdkw.xyz^
 ||fopksr.icu^
+||ogmjhve.cn^
+||xhnvgdkw.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -97441,6 +97444,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.ostr.io^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
+||analytics.pangle-ads.com^
 ||analytics.piksel.com^
 ||analytics.pinterest.com^$third-party
 ||analytics.pixels.ai^
