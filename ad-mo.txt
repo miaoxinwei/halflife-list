@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m8NZqVdk3C5trBRepUawyg
+! Checksum: KoJkCXou+4xldONDmIzB+Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401261418
-! Last Modified: 2024年01月26日 14:18
+! Version: 202401262024
+! Last Modified: 2024年01月26日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62682,7 +62682,6 @@ realityblurb.com##.Desktop-Sticky
 tweaktown.com##.DesktopRightBA
 thekitchn.com##.DesktopStickyFooter
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
-charismanews.com##.FpFeaturedBoxWrap
 slideshare.net##.FreestarAdContainer_container__Ze7OY
 askapache.com##.GAD
 modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
@@ -66805,6 +66804,7 @@ templateshub.net##.col-lg-4.col-md-6:has(> div.singel-course)
 limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
 tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
 protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
+thesaurus.com##.fHACXxic9xvQeSNITiwH
 pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
 tumblr.com##.ge_yK:has(.hM19_)
 fortune.com##.homepage:has(> div[id^="InStream"])
@@ -72261,6 +72261,7 @@ newduba.cn###jq_youxi
 ||cpkxahje.xyz^
 ||rmxizma.cn^
 ||jyewkb.icu^
+||xpkxahje.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
