@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6B2g41XFNtzgfD7KnDSeXw
+! Checksum: Mxk3QfLmQWpd4JiovlCr8w
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202401290215
-! Last Modified: 2024年01月29日 02:15
+! Version: 202401290902
+! Last Modified: 2024年01月29日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3881,6 +3881,11 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||yhzjidgc.xyz^
+||wkybwa.xyz^
+||nykvdwi.cn^
+||lthmfx.xyz^
+||bgeg1.fun^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -17774,6 +17779,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.tiktok.com^$generichide
+@@||toy-people.com^$generichide
 @@||ads.tiktok.com^$~third-party
 @@||adsense.woso.cn^$~third-party
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
