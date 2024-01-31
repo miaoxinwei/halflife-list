@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PuCuK8ZM1hvn3pjxFEJbEA
+! Checksum: NJbYOJkbpOFzaV6Qv+Ug5Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202401310217
-! Last Modified: 2024年01月31日 02:17
+! Version: 202401310901
+! Last Modified: 2024年01月31日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -502,6 +502,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad/img/*
 /ad/imp?
 /ad/leaderboard.
+/ad/load_ad?
 /ad/player_
 /ad/popup.
 /ad/skin-
@@ -1224,7 +1225,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /images-ad/*
 /images/ad2/*
 /images/ads-$domain=~ads.com
-/images/ads_
 /images/adv/*
 /images/adv_
 /images/adz/*
@@ -1250,13 +1250,8 @@ pan.baidu.com##.upload-bar.global-clearfix
 /inline_ad_
 /inline_ads.
 /InlineAds.
-/inlineads/*
-/inner-ads-
-/inner-ads/*
-/innerads.
-/insertAd.
-/insertads.
-/internAds.
+/insertads.js
+/internAds.css
 /Javascripts/SBA-
 /jquery-ads.
 /jquery.ad.
@@ -1286,19 +1281,10 @@ pan.baidu.com##.upload-bar.global-clearfix
 /layerad-
 /layerad.
 /layerads_
-/layout/ads/*
 /lazy-ads.
-/lazy-ads@
-/lazyad-
-/lazyad.
+/lazyad-loader.js
+/lazyad-loader.min.js
 /lazyload.ads?
-/leader_ad.
-/leaderad.
-/Leaderboard-Ads-
-/leaderboardad.
-/leaderboardads.
-/left-ads.
-/left_ad_
 /left_ads.
 /leftad.
 /leftad_
@@ -1309,23 +1295,16 @@ pan.baidu.com##.upload-bar.global-clearfix
 /lijitads.
 /linkad2.
 /linkads.
-/linkadv.
-/linkadv_
-/liveads.
 /livejasmin.$domain=~livejasmin.com
 /livejasmin2.
 /livejasmin_
 /livejasminpopupunder.
-/load_ad?
-/local-ad.
-/localads.$domain=~localads.cab
+/localads.aspx
 /log_ad?
-/logoads.
+/logoads.jpg
+/logoads.png
 /lserver/*
 /mads.php?
-/main/ad/*
-/main_ad/*
-/mainad.$domain=~mainad.ru
 /maven/am.js
 /mbads?
 /mcad.php
@@ -1350,10 +1329,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /modules/ad_
 /modules/ads/*
 /moneyball/ads/*
-/mpuad.
-/MPUAd/*
+/MPUAdHelper.js
 /mydirtyhobby.$domain=~mydirtyhobby.com|~mydirtyhobby.de|~mydirtyhobby.to
-/mysimpleads/*
+/mysimpleads/mysa_output.php
 /nad_exo.
 /native-ad-
 /native-ads-
@@ -18139,6 +18117,7 @@ _800x80_
 ##a[href^="https://pb-front.com/"]
 ##a[href^="https://pb-imc.com/"]
 ##a[href^="https://pb-track.com/"]
+##a[href^="https://platenssitient.com/"]
 ##a[href^="https://porngames.adult/?SID="]
 ##a[href^="https://porntubemate.com/"]
 ##a[href^="https://prf.hn/click/"][href*="/adref:"] > img
@@ -24389,6 +24368,7 @@ browsershots.org#@#.advert_area
 ||caboclonymphly.com^
 ||cabotsmuskit.com^
 ||cachegorilla.com^
+||cachegorilla.net^
 ||cackssandhog.com^
 ||cacmatch.com^
 ||cacvduyrybba.xyz^
@@ -42035,6 +42015,7 @@ browsershots.org#@#.advert_area
 ||popmyads.com^
 ||popnc.com^
 ||poppysol.com^
+||poprtb.com^
 ||popruexo.com^
 ||popsads.com^
 ||popsads.net^
@@ -46230,6 +46211,7 @@ browsershots.org#@#.advert_area
 ||solemnlypink.com^
 ||solemnvine.com^
 ||solestudious.com^
+||soliads.io^
 ||soliads.net^
 ||solicitorlaptopfooting.com^
 ||solicitorviewer.com^
@@ -51756,6 +51738,7 @@ browsershots.org#@#.advert_area
 ||xmlapiclickredirect10102022.com^
 ||xmlgrab.com^
 ||xmlheartbiddotnet.monster^
+||xmlking.com^
 ||xmllover.com^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
@@ -55947,6 +55930,7 @@ browsershots.org#@#.advert_area
 ||lassampy.com^$popup
 ||last0nef1le.com^$popup
 ||lasubqueries.com^$popup
+||lataniaembosks.com^$popup
 ||latheendsmoo.com^$popup
 ||lavatorydownybasket.com^$popup
 ||lavender64369.com^$popup
@@ -58737,6 +58721,7 @@ browsershots.org#@#.advert_area
 ||1419560424.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
+||1647871863.rsc.cdn77.org^
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -60113,6 +60098,7 @@ browsershots.org#@#.advert_area
 ||bets.to^$popup
 ||bettingpremier.com/direct/$popup
 ||betzone2000.com^$popup
+||blockadstop.info^$popup
 ||brazzers.com/click/$popup
 ||browsekeeper.com^$popup
 ||canyoublockit.com^$popup,third-party
@@ -67185,6 +67171,7 @@ bbc.com###sticky-mpu:has(.dotcom-ad-inner)
 kroger.com##.AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa="featured-product-tag"])
 nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)
 imgur.com##.Grid-column > div[style^="height:"]:has(.AdHomeContainer)
+imgur.com##.Grid-column > div[style^="height:"]:has(.Post-item-external-ad)
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._6y8t:has(a[href="/ads/about/?entry_product=ad_preferences"])
 haveibeenpwned.com##.actionsBar:has(.why1Password)
 forexlive.com##.article-slot__wrapper:has(.article-header__sponsored)
@@ -71086,6 +71073,7 @@ newduba.cn###jq_youxi
 ||17123.net^
 ||1821z.website^
 ||1bctkn.xyz^
+||1cecn.icu^
 ||1cjzfyb.com^
 ||1cpkcnm.com^
 ||1dcbzuv.com^
@@ -71164,6 +71152,7 @@ newduba.cn###jq_youxi
 ||9g659.xyz^
 ||9i8i.com^
 ||9j9zo.cyou^
+||9s64g.icu^
 ||9t51o.icu^
 ||a4bj6.xyz^
 ||a99hz.space^
@@ -71178,6 +71167,7 @@ newduba.cn###jq_youxi
 ||acemof.top^
 ||acsegt86.shop^
 ||actrqdr.cn^
+||adasdz.cn^
 ||adtx2.cn^
 ||aerbgpn.xyz^
 ||aflsj.com^
@@ -71364,6 +71354,7 @@ newduba.cn###jq_youxi
 ||cpkxahje.xyz^
 ||cpmlwhra.xyz^
 ||cprdmnlo.xyz^
+||cpwlctfk.xyz^
 ||cpyjyhny.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -71378,6 +71369,8 @@ newduba.cn###jq_youxi
 ||cxapio.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
+||czresus.cn^
+||d10wv.fun^
 ||dafdfd.cn^
 ||danun.cn^
 ||daslethv.com^
@@ -71703,6 +71696,7 @@ newduba.cn###jq_youxi
 ||iujlwn.icu^
 ||iumboa.xyz^
 ||iuvssgh.cn^
+||iwwmaq.xyz^
 ||jackdd.xyz^
 ||jane1.top^
 ||jane2.top^
@@ -71784,6 +71778,7 @@ newduba.cn###jq_youxi
 ||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
+||kkkaii.cn^
 ||kkmsa.top^
 ||kkosiso.com^
 ||kksjoa.com^
@@ -71844,6 +71839,7 @@ newduba.cn###jq_youxi
 ||lblwhh.xyz^
 ||lcid.top^
 ||lckjqtx.xyz^
+||ldjnbn.xyz^
 ||ldvnehc.xyz^
 ||leidad.xyz^
 ||leizylb.icu^
@@ -72066,6 +72062,7 @@ newduba.cn###jq_youxi
 ||oryhic.xyz^
 ||otbeksf.cn^
 ||otxlhpm.xyz^
+||ovbgeum.cn^
 ||ovfvkfc.xyz^
 ||ovnrmvg.cn^
 ||ovykq.online^
@@ -72096,6 +72093,7 @@ newduba.cn###jq_youxi
 ||pknrnj.xyz^
 ||plnrkgc.xyz^
 ||plotafb.com^
+||pmnct63.shop^
 ||pobrpr.xyz^
 ||poiwer.com^
 ||ppenid.xyz^
@@ -72256,6 +72254,7 @@ newduba.cn###jq_youxi
 ||sunshijc.com^
 ||suzoqz.icu^
 ||svhdbmp.cn^
+||sxtnpzd.xyz^
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
@@ -72516,6 +72515,7 @@ newduba.cn###jq_youxi
 ||wyoaij.icu^
 ||wyohm.xyz^
 ||wzzlnld.xyz^
+||x08jd.top^
 ||x1fyw.icu^
 ||x2y22.fun^
 ||xafuzcxr.xyz^
@@ -72566,6 +72566,7 @@ newduba.cn###jq_youxi
 ||xphcrjth.xyz^
 ||xpkxahje.xyz^
 ||xprdmnlo.xyz^
+||xpwlctfk.xyz^
 ||xpyerxzn.xyz^
 ||xpyjyhny.xyz^
 ||xq2024.com^
@@ -72632,6 +72633,7 @@ newduba.cn###jq_youxi
 ||ypffkbpq.xyz^
 ||ypkxahje.xyz^
 ||yprdmnlo.xyz^
+||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
 ||yqlxwb.icu^
 ||yshlor.icu^
@@ -72663,6 +72665,7 @@ newduba.cn###jq_youxi
 ||zfp32.buzz^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
+||zghsep.icu^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zigyspv.icu^
@@ -72692,22 +72695,13 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||ldjnbn.xyz^
-||kkkaii.cn^
-||ypwlctfk.xyz^
-||d10wv.fun^
-||sxtnpzd.xyz^
-||iwwmaq.xyz^
-||zghsep.icu^
-||x08jd.top^
-||9s64g.icu^
-||1cecn.icu^
-||ovbgeum.cn^
-||cpwlctfk.xyz^
-||pmnct63.shop^
-||czresus.cn^
-||xpwlctfk.xyz^
-||adasdz.cn^
+||dxsjcz.cn^
+||yhsdwjes.xyz^
+||tnllxd.xyz^
+||epxfjcb.xyz^
+||dpe5t.space^
+||uiuaey.xyz^
+||dskjbvzvs.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -83693,7 +83687,6 @@ ifeng.com##.pic950
 down.ali213.net,patch.ali213.net##.picBg
 jiegeng.com##.picBt
 jiegeng.com##.picLf
-ifeng.com##.recommend > .picNews
 dealmoon.com,weibo.com##.pic_ad
 itdog.cn##.pic_gg
 moxing.net##.pic_txt_list
@@ -83819,6 +83812,7 @@ image.baidu.com##.recom
 taobao.com##.recomand-item
 axios-js.com##.recommand
 image.baidu.com,nongjitong.com##.recommend
+ifeng.com##.recommend > .picNews
 csdn.net##.recommend-ad-box
 tool.lu##.recommend-container
 baidu.com##.recommend-goods-card
