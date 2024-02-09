@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ILrKNooR99DI3Q3lYk+gUA
+! Checksum: Q3B5pzDVaYuJaAqda72Aew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402091417
-! Last Modified: 2024年02月09日 14:17
+! Version: 202402092024
+! Last Modified: 2024年02月09日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3603,6 +3603,7 @@ newduba.cn###jq_youxi
 ||88lm04.com^
 ||sltbjrf.cn^
 ||cldxphtg.xyz^
+||xldxphtg.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -33641,6 +33642,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cs.nakanohito.jp^
 ||delivery.satr.jp/event/
 ||docomo.ne.jp/scripts/retargeting/retargeting.js
+||e-nls.com/disp_cnt.php
 ||estore.jp/beacon/
 ||ev.tpocdm.com^
 ||flux-cdn.com/client/ukiuki/flux_wikiwiki_AS_TM_AT.min.js
@@ -34534,6 +34536,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gamivo.com/tcllc?
 ||gc.newsweek.com/front/js/counter.js
 ||gct.americanexpress.com^
+||gemoo-resource.com/js/analytics.js
 ||generalblue.com/js/pages/shared/analytics.min.js
 ||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||geo.brobible.com^
