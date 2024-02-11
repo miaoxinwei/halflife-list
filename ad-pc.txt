@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wvsSMB7DISbvVmd52fBSPg
+! Checksum: /IcGI4cOtyyKAoFtS3WFwg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202402110215
-! Last Modified: 2024年02月11日 02:15
+! Version: 202402110905
+! Last Modified: 2024年02月11日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10333,6 +10333,7 @@ _800x80_
 ##.adplaceholder-top
 ##.adplacement
 ##.adplate-background
+##.adplugg-tag
 ##.adpod
 ##.adpopup
 ##.adpos-300-mobile
@@ -18050,6 +18051,7 @@ _800x80_
 ##a[href^="https://engine.phn.doublepimp.com/"]
 ##a[href^="https://fc.lc/ref/"]
 ##a[href^="https://financeads.net/tc.php?"]
+##a[href^="https://get-link.xyz/"]
 ##a[href^="https://go.cmtaffiliates.com/"]
 ##a[href^="https://go.dmzjmp.com"]
 ##a[href^="https://go.etoro.com/"] > img
@@ -18070,6 +18072,7 @@ _800x80_
 ##a[href^="https://go.xxxiijmp.com"]
 ##a[href^="https://go.xxxijmp.com"]
 ##a[href^="https://go.xxxjmp.com"]
+##a[href^="https://golinks.work/"]
 ##a[href^="https://hot-growngames.life/"]
 ##a[href^="https://hotplaystime.life/"]
 ##a[href^="https://intenseaffiliates.com/redirect/"]
@@ -18090,6 +18093,7 @@ _800x80_
 ##a[href^="https://lead1.pl/"]
 ##a[href^="https://leg.xyz/?track="]
 ##a[href^="https://lijavaxa.com/"]
+##a[href^="https://linkboss.shop/"]
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://losingoldfry.com/"]
@@ -24561,6 +24565,7 @@ browsershots.org#@#.advert_area
 ||carmeleanurous.com^
 ||caroakitab.com^
 ||carpenterexplorerdemolition.com^
+||carpfreshtying.com^
 ||carpi3fnusbetgu5lus.com^
 ||carpincur.com^
 ||carredwithblao.xyz^
@@ -26430,6 +26435,7 @@ browsershots.org#@#.advert_area
 ||cuunpsyhsb.com^
 ||cuyynol.com^
 ||cvastico.com^
+||cvixthukvgac.com^
 ||cvjfmrrgyrqnsnw.xyz^
 ||cvkilmfhorl.com^
 ||cvkvtsjjrs.xyz^
@@ -26840,6 +26846,7 @@ browsershots.org#@#.advert_area
 ||decknetwork.net^
 ||declarationfascinatedrace.com^
 ||declarcercket.org^
+||declareave.com^
 ||declaredjuvenile.com^
 ||declaredpolitics.com^
 ||declarefollowersuspected.com^
@@ -26900,6 +26907,7 @@ browsershots.org#@#.advert_area
 ||defenseneckpresent.com^
 ||defensive-bad.com^
 ||defensiveevidence.pro^
+||deferapproximately.com^
 ||defiancebelow.com^
 ||defiantsniffbitterly.com^
 ||deficiencyluckrapt.com^
@@ -28547,6 +28555,7 @@ browsershots.org#@#.advert_area
 ||efwmpduvgedai.com^
 ||egafopmtv.xyz^
 ||egallsylvate.com^
+||egazedatthe.xyz^
 ||egcqohrksmlmu.xyz^
 ||egczvoopdo.com^
 ||egerssarcel.com^
@@ -35246,6 +35255,7 @@ browsershots.org#@#.advert_area
 ||juniorapplesconsonant.com^
 ||juniorsalloquy.guru^
 ||junipe3rus4virginiana.com^
+||junivmr.com^
 ||junkeach.com^
 ||junkieenthusiasm.com^
 ||junkieswudge.com^
@@ -38533,6 +38543,7 @@ browsershots.org#@#.advert_area
 ||muchotrust.com^
 ||mucinyak.com^
 ||mucmoapa.com^
+||mucopussamkhya.com^
 ||muddiedbubales.com^
 ||muddychronicstuffed.com^
 ||muddytransplantinsert.com^
@@ -43662,6 +43673,7 @@ browsershots.org#@#.advert_area
 ||qvjpjsglmvhcbv.xyz^
 ||qvlczhitbsqpl.com^
 ||qvol.tv^
+||qvtcigr.com^
 ||qwa3ldhn9u0t.com^
 ||qwaapgxfahce.com^
 ||qwbaiftlbfbnt.com^
@@ -44552,6 +44564,7 @@ browsershots.org#@#.advert_area
 ||rgtqgsgwkopgnf.com^
 ||rguxbwbj.xyz^
 ||rgvqcsxqge.com^
+||rhdhdmxeqx.com^
 ||rhendam.com^
 ||rhesusvitrite.com^
 ||rhjcnfypo.com^
@@ -45321,6 +45334,7 @@ browsershots.org#@#.advert_area
 ||sapsixysho.pro^
 ||saptiledispatch.com^
 ||saptorge.com^
+||saracsoxcpa.com^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
 ||sarcineamender.store^
@@ -55401,6 +55415,7 @@ browsershots.org#@#.advert_area
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
+||cpasbien.cloud^$popup
 ||cpayard.com^$popup
 ||cpm20.com^$popup
 ||cpmclktrk.online^$popup
@@ -55636,6 +55651,7 @@ browsershots.org#@#.advert_area
 ||effectdrape.com^$popup
 ||effectivecpmcontent.com^$popup
 ||effectiveperformancenetwork.com^$popup
+||egazedatthe.xyz^$popup
 ||egmyz.com^$popup
 ||egretswamper.com^$popup
 ||eighteenderived.com^$popup
@@ -55889,6 +55905,7 @@ browsershots.org#@#.advert_area
 ||geotrkclknow.com^$popup
 ||germinateensue.com^$popup
 ||get-browseprotection.com^$popup
+||get-link.xyz^$popup
 ||get-me-wow.in^$popup
 ||getalinkandshare.com^$popup
 ||getalltraffic.com^$popup
@@ -56441,6 +56458,7 @@ browsershots.org#@#.advert_area
 ||liliy9aydje10.com^$popup
 ||limitationvolleyballdejected.com^$popup
 ||limoners.com^$popup
+||linkboss.shop^$popup
 ||linkchangesnow.com^$popup
 ||linkmepu.com^$popup
 ||linknotification.com^$popup
@@ -57771,6 +57789,7 @@ browsershots.org#@#.advert_area
 ||taroads.com^$popup
 ||tauphaub.net^$popup
 ||tausoota.xyz^
+||tcare.today^$popup
 ||tchinaprecenta.info^$popup
 ||tczzzlwpss.com^$popup
 ||td563.com^$popup
@@ -61407,6 +61426,7 @@ browsershots.org#@#.advert_area
 ||soundcloud.com/audio-ads?
 ||southfloridagaynews.com/images/banners/
 ||spike-plant.valorbuff.com^
+||sponsors.vuejs.org^
 ||sportlemon24.com/img/301.jpg
 ||sportshub.to/player-source/images/banners/
 ||spox.com/daznpic/
@@ -63193,6 +63213,7 @@ wcny.org###soliloquy-12716
 toumpano.net###sp-feature
 hilltimes.com###sp-mini-box
 toumpano.net###sp-right
+vuejs.org###special-sponsor
 coingape.com###spinbtn
 fastseduction.com###splash
 streetdirectory.com###splash_screen_overlay
@@ -73349,6 +73370,16 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||nhvgrb.xyz^
+||lrxdnyq.cn^
+||ctydsy.xyz^
+||yhlpshi.xyz^
+||ylwrdnrw.xyz^
+||ybf1o.online^
+||huatmp.icu^
+||ggttbe961.shop^
+||ggttmu853.shop^
+||docfj.cyou^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -94459,7 +94490,6 @@ omni.soundestlink.com$image
 ||trackkas.com^$third-party
 ||trackmethod.com^$third-party
 ||trackmytarget.com^$third-party
-||trackmyusers.com^$third-party
 ||trackmyweb.net^$third-party
 ||trackonomics.net^$third-party
 ||trackset.com^$third-party
@@ -94867,7 +94897,6 @@ omni.soundestlink.com$image
 ||mepirtedic.com^$third-party
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
-||mine.torrent.pw^$third-party
 ||minerad.com^
 ||minero-proxy-*.sh^$third-party
 ||minero.cc^$third-party
@@ -95059,7 +95088,6 @@ omni.soundestlink.com$image
 ||averageamusement.com^
 ||awakebird.com^
 ||awarealley.com^
-||awesomeagreement.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
 ||axiomaticanger.com^
@@ -95725,7 +95753,6 @@ omni.soundestlink.com$image
 ||hosenews.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
-||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
@@ -97086,7 +97113,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ranking-links.de^$third-party
 ||redretarget.com^$third-party
 ||refinedads.com^$third-party
-||research.de.com^$third-party
 ||reshin.de^$third-party
 ||retailads.net^$third-party
 ||rightstats.com^$third-party
@@ -97902,7 +97928,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
-||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
@@ -98355,6 +98380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.analyse.lnearn.com^
 ||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
@@ -98776,7 +98802,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geo.gorillanation.com^
 ||geo.mezr.com^
 ||geo.ngtv.io^
-||geo.q5media.net^
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
@@ -100081,7 +100106,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usizy.com/external/pageview
 ||utils.global-e.com/set?
 ||utt.pm/utm/
-||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
 ||validate.onecount.net^$image
@@ -100261,7 +100285,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
-||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
@@ -100525,7 +100548,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cgicounter.onlinehome.de^
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
-||collector.ozeex.com^
 ||com.econa.com^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -101929,7 +101951,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fortune.com/comscore-json/
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
-||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
@@ -102537,7 +102558,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.tildacdn.com^
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
-||stategg.cdngeek.com^
 ||statista.com/data/ptm.gif
 ||statistics.streamdav.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
@@ -102791,7 +102811,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanityfair.com/user-context?referrer
 ||video.mobile.yahoo.com/log|$xmlhttprequest
 ||views.arabnews.com^
-||views.asura.gg^
 ||views.asurascans.com^
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
@@ -103235,7 +103254,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||gvmomuqjv1.swyftx.com^
 ||hht8m6w8mnug.quine.sh^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
-||ipz51x.kvest.ee^
 ||ivrnfvlcgubm.www.cefirates.com^
 ||iwl2d7pa4yx1.www.logology.co^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
@@ -137221,7 +137239,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ss.photospecialist.de^
 ||statistic2.reichelt.de^
 ||statistics.riskommunal.net^
-||statistik.mitmischen.de^
 ||stats.autoscout24.ch^
 ||stats.rocketbeans.tv^
 ||stats.sumikai.com^
@@ -137333,10 +137350,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||easeus.com/default/js/aff_buy_tracking.js
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
-||eum2.caisse-epargne.fr^
 ||events-logs.doctolib.com^
 ||flow.kiloutou.fr^
 ||fourchette-et-bikini.fr/core/modules/statistics/
+||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||hits.porn.fr^
@@ -137382,7 +137399,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||serv.letudiant.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
-||shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
@@ -137433,7 +137449,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||alicdn.com/f/pcdn/i.php?
 ||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
-||analytics.126.net^
 ||analytics.163.com^
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
@@ -137480,6 +137495,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||gentian-frd.hjapi.com^
 ||gia.jd.com^
 ||gk.sina.cn^
+||h5.analytics.126.net^
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
@@ -137499,7 +137515,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||js.ea3w.com/pv.js
 ||kn007.net/snmp.php
 ||le.com/op/
-||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
@@ -137625,7 +137640,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||track.tom.com^
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
-||trackjay.cool3c.com^
 ||trail.53kf.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
@@ -137667,11 +137681,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cc.dalten.cz^
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
-||report.novinky.cz^
 ||stat.super.cz^
 ||statistics.csob.cz^
 ||2dehands.be/px/
-||aa.hwigroup.com^$domain=hardware.info
 ||analytics.rambla.be^
 ||api.rtl.nl/monitoring/
 ||bc34.wijnvoordeel.nl^
@@ -137843,7 +137855,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ppcdn.it/iol/tracklib.3.js
 ||raiplay.it/tracking/
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
-||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
 ||servizi.unionesarda.it/controlli/
 ||smsaffari.it/count_new.php?
@@ -138274,7 +138285,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||wsstats.coches.net^
 ||aftonbladet.se/cnp-assets/glimr-sdk.js
 ||ai.idg.se^
-||analytics.elx.cloud^
 ||ax.idg.se^
 ||blocket.se/js/trafikfonden.js
 ||falkenbergtorget.se/sc.gif?
@@ -138409,6 +138419,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cohesionapps.com/cohesion/$domain=bankrate.com|frontier.com
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||collusion.com/static/newrelic.js$script,~third-party
+@@||commerce.adobe.io^$xmlhttprequest,domain=superbrightleds.com
 @@||community.brave.com/t/$xmlhttprequest
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||console.statsig.com/_next/$~third-party
@@ -138499,6 +138510,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||logging.apache.org^$~third-party
 @@||logo.clearbit.com^$image,third-party
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
+@@||magento-recs-sdk.adobe.net/v2/index.js$script,domain=superbrightleds.com
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||matomo.miraheze.org/matomo.js$script,~third-party
