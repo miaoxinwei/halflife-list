@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UblkvN/7a2gonkdEFwkc9g
+! Checksum: HF97ni7yRNvV1a685YR4eg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402110905
-! Last Modified: 2024年02月11日 09:05
+! Version: 202402111417
+! Last Modified: 2024年02月11日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3631,6 +3631,8 @@ newduba.cn###jq_youxi
 ||ggttbe961.shop^
 ||ggttmu853.shop^
 ||docfj.cyou^
+||hjjshv.xyz^
+||szbzp.cn^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -71071,7 +71073,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it|microsoft.com|rubex.efilecabinet.net
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
-@@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com
+@@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com|jules.com
 @@||kaptcha.com/collect/sdk?$domain=palmettostatearmory.com|wyze.com
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
