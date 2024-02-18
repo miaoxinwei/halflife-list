@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 20So1n+dVpMWYoZW7LOjyg
+! Checksum: I9oMVdXu5h+4n4vx3TknuQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202402180215
-! Last Modified: 2024年02月18日 02:15
+! Version: 202402180905
+! Last Modified: 2024年02月18日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18041,6 +18041,7 @@ _800x80_
 ##a[href^="https://trk.nfl-online-streams.club/"]
 ##a[href^="https://trk.softonixs.xyz/"]
 ##a[href^="https://trk.sportsflix4k.club/"]
+##a[href^="https://turnstileunavailablesite.com/"]
 ##a[href^="https://twinrdsrv.com/"]
 ##a[href^="https://www.adskeeper.com"]
 ##a[href^="https://www.adultempire.com/"][href*="?partner_id="]
@@ -18069,6 +18070,7 @@ _800x80_
 ##a[href^="https://www.sugarinstant.com/?partner_id="]
 ##a[href^="https://www.toprevenuegate.com/"]
 ##a[href^="https://xbet-4.com/"]
+##a[href^="https://zirdough.net/"]
 ##a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"]
 ##ad-shield-ads
 ##ad-slot
@@ -18311,35 +18313,19 @@ _800x80_
 ##.container-content__container-relatedlinks
 ###pubexchange_below_content
 ##.pubexchange_module
-###adv_outbrain_SB_1_sidebar
-###ao-article-outbrain
-###ao-sidebar-outbrain
-###container-outbrain-sticky
 ###js-outbrain-ads-module
-###js-outbrain-rightrail-ads-module
 ###outbrain-wrapper
 ###outbrainAdWrapper
-###outbrain_dual_ad_fs_0_dual
-###outbrain_vertical
-###sponsored-outbrain-1
-##.Cheat__outbrain
 ##.OUTBRAIN[data-widget-id^="FMS_REELD_"]
 ##.adv_outbrain
-##.ht_outbrain
 ##.js-outbrain-container
-##.ob-ad-carousel-layout
-##.ob-hover
-##.ob-p.ob-dynamic-rec-container
-##.ob-strip-layout
+##.ob-dynamic-rec-container
 ##.outBrainWrapper
 ##.outbrain-ad-slot
 ##.outbrain-ad-units
 ##.outbrain-bg
 ##.outbrain-widget
 ##.outbrainAdHeight
-##.outbrain_ad_li
-##.outbrain_dual_ad_whats_class
-##.outbrain_ul_ad_top
 ##.outbrainad
 ##.promoted-outbrain
 ##.responsive-ad-outbrain
@@ -21741,6 +21727,7 @@ browsershots.org#@#.advert_area
 ||army.delivery^
 ||arnautjamdani.com^
 ||arnchealpa.com^
+||arnditluplfa.com^
 ||arnepurxlbsjiih.xyz^
 ||arnimalconeer.com^
 ||arnofourgu.com^
@@ -21857,6 +21844,7 @@ browsershots.org#@#.advert_area
 ||ashionismscol.info^
 ||ashkeyoptical.guru^
 ||ashlarinaugur.com^
+||ashopsoo.net^
 ||ashoreyuripatter.com^
 ||ashoupsu.com^
 ||ashturfchap.com^
@@ -36203,6 +36191,7 @@ browsershots.org#@#.advert_area
 ||lardyirreproachabledeserve.com^
 ||larentisol.com^
 ||largedoubly.com^
+||largeharass.com^
 ||largepeering.com^
 ||larkyabandum.com^
 ||larontale.com^
@@ -37031,6 +37020,7 @@ browsershots.org#@#.advert_area
 ||lp-preview.net^
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
+||lparket.com^
 ||lpawakkabpho.com^
 ||lpeqztx.com^
 ||lpetooopz.com^
@@ -38537,6 +38527,7 @@ browsershots.org#@#.advert_area
 ||mpbpuctr.com^
 ||mpecehfd.xyz^
 ||mpfofpynoououe.xyz^
+||mphhqaw.com^
 ||mpk01.com^
 ||mplayeranyd.info^
 ||mpmant.com^
@@ -42337,6 +42328,7 @@ browsershots.org#@#.advert_area
 ||poligh.com^
 ||polishsimilarlybutcher.com^
 ||politenesscalmantiquarian.com^
+||politesewer.com^
 ||politicallyautograph.com^
 ||politicallypotentgentle.com^
 ||politicalname.com^
@@ -44684,6 +44676,7 @@ browsershots.org#@#.advert_area
 ||rfmjcnramsw.com^
 ||rftodidsrel.com^
 ||rftslb.com^
+||rfxxjpuh.com^
 ||rgbvgxfcp.xyz^
 ||rgbvncnqzlvwr.com^
 ||rgcxmzrmcvbxem.com^
@@ -46070,6 +46063,7 @@ browsershots.org#@#.advert_area
 ||shauhacm.net^
 ||shauhaik.xyz^
 ||shauksug.com^
+||shauladubhe.top^
 ||shaulauhuck.com^
 ||shaumpem.com^
 ||shaumtol.com^
@@ -48581,6 +48575,7 @@ browsershots.org#@#.advert_area
 ||thump-night-stand.com^
 ||thumpdrownthreat.com^
 ||thumpssleys.com^
+||thunderdepthsforger.top^
 ||thunderhead.com^
 ||thunderous-request.pro^
 ||thuphedsaup.com^
@@ -49477,6 +49472,7 @@ browsershots.org#@#.advert_area
 ||turnminimizeinterference.com^
 ||turnreview.com^
 ||turnstilespacious.com^
+||turnstileunavailablesite.com^
 ||turpentinecomics.com^
 ||tuscanyaskant.com^
 ||tuskercampe.life^
@@ -51727,6 +51723,7 @@ browsershots.org#@#.advert_area
 ||whowascryingforthe.com^
 ||whowhipi.net^
 ||whpqvmaxr.xyz^
+||whqxqwy.com^
 ||whreqyvajeer.com^
 ||whsledorking.com^
 ||whuckaip.xyz^
@@ -57388,6 +57385,7 @@ browsershots.org#@#.advert_area
 ||pointlimitedzen.online^$popup
 ||pointroll.com^$popup
 ||poisism.com^$popup
+||politesewer.com^$popup
 ||politicianbusplate.com^$popup
 ||pollingsagacioustopple.com^$popup
 ||pollstover.guru^$popup
@@ -57822,6 +57820,7 @@ browsershots.org#@#.advert_area
 ||shamtick.com^$popup
 ||shapelcounset.xyz^$popup
 ||sharpofferlinks.com^$popup
+||shauladubhe.top^$popup
 ||shbzek.com^$popup
 ||she-want-fuck.com^$popup
 ||sheepforgivedismount.com^$popup
@@ -58142,6 +58141,7 @@ browsershots.org#@#.advert_area
 ||thnqemehtyfe.com^$popup
 ||thofteert.com^$popup
 ||threatotherwise.com^$popup
+||thunderdepthsforger.top^$popup
 ||thunderous-request.pro^$popup
 ||thygrepuwo.pro^$popup
 ||ticalfelixstownru.info^$popup
@@ -58329,6 +58329,7 @@ browsershots.org#@#.advert_area
 ||tuneshave.com^$popup
 ||turnhub.net^$popup
 ||turnnagin.live^$popup
+||turnstileunavailablesite.com^$popup
 ||tutvp.com^$popup
 ||tvas-b.pw^$popup
 ||tweakostensibleinstaller.com^$popup
@@ -58605,6 +58606,7 @@ browsershots.org#@#.advert_area
 ||wifescamara.click^$popup
 ||wigetmedia.com^$popup
 ||wigglewurm.com^$popup
+||wigsynthesis.com^$popup
 ||wildestelf.com^$popup
 ||winbigdrip.life^$popup
 ||windychinese.com^$popup
@@ -61499,6 +61501,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||gamecopyworld.com/js/pp.js
 ||gamecopyworld.eu/ddd/
 ||gamecopyworld.eu/js/pp.js
+||gameflare.com/promo/
 ||gamer.mmohuts.com^
 ||ganjing.world/v1/cdkapi/
 ||ganjingworld.com/pbjsDisplay.js
@@ -62865,6 +62868,8 @@ agar.io###agar-io_300x250
 alchetron.com###alchetronFreeStarVideoAdContainer
 djchuang.com###amazon3
 wtechnews.com###aniBox
+ancient-origins.net###ao-article-outbrain
+ancient-origins.net###ao-sidebar-outbrain
 mybanktracker.com###article-content > .lazyloaded
 timesofmalta.com###article-sponsored
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
@@ -63051,6 +63056,7 @@ wsj.com###coupon-links
 lordz.io###crossPromotion
 croxyproxy.rocks###croxyExtraZapper
 pcwdld.com###ct-popup
+forbes.com###cta-builder
 asmag.com###ctl00_en_footer1_bannerPopUP1_panel_claudebro
 digit.in###cubewrapid
 motortrend.com###curatedNativoAd
@@ -63111,6 +63117,7 @@ asianjournal.com###fancybox-wrap
 thedrinknation.com###fcBanner
 247checkers.com###feature-ad-holder
 perezhilton.com###feature-spot
+forbes.com###featured-partners
 fandom.com###featured-video__player-container
 djxmaza.in,jytechs.in,miuiflash.com,thecubexguide.com###featuredimage
 getyarn.io###filtered-bottom
@@ -63259,6 +63266,7 @@ fakeupdate.net###itemz
 offidocs.com###ja-container-prev
 apkonline.net###ja-container-prev-0
 offidocs.com###ja-container-prev-c
+cnn.com###js-outbrain-rightrail-ads-module
 9gag.com###jsid-ad-container-page_adhesion
 dhakatribune.com###jw-popup
 food52.com###jw_iframe
@@ -63567,6 +63575,7 @@ firmwarefile.com###spon
 progressillinois.com,slitaz.org###sponsor
 meteocentrale.ch###sponsor-info
 newsfirst.lk###sponsored-content-1
+cnn.com###sponsored-outbrain-1
 hiphopkit.com###sponsored-sidebar
 homedepot.com###sponsored-standard-banner-nucleus
 techmeme.com###sponsorposts
@@ -66469,6 +66478,7 @@ dailycoffeenews.com##.sidebar-box
 radiotoday.co.uk##.sidebar-column-secondary > .sidebar
 nfcw.com##.sidebar-display
 thehustle.co##.sidebar-feed-trends
+gameflare.com##.sidebar-game
 lawandcrime.com,mediaite.com##.sidebar-hook
 freshbusinessthinking.com##.sidebar-mpu
 spearswms.com##.sidebar-mpu-1
@@ -72000,6 +72010,13 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yyddkm526.shop^
 ||ztxjutz.xyz^
+||tmjetb.xyz^
+||ogznfgl.cn^
+||qzalsk.xyz^
+||ydybwjpa.xyz^
+||ovjlccs.xyz^
+||1ny3r.icu^
+||jgmywh.icu^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -90950,6 +90967,7 @@ fqsousou.com,kengso.com#@#.user-share
 /rm-gtm-google-analytics-for-wordpress/js/gtm-player.js
 /rm.gif?
 /rmntracking.js
+/rnb/events
 /rntracking.js
 /roi_tracker.js
 /roi_tracker.min.js
@@ -98542,6 +98560,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ws.sharethis.com^$script
 ||wsmcdn.audioeye.com^
 ||wspisp.net/logger.php
+||wstats.slashed.cloud^
 ||wt.viagogo.net^
 ||wtbevents.pricespider.com^
 ||wtr-digital-analytics.ew.r.appspot.com^
@@ -99293,6 +99312,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics00.meride.tv^
 ||analytics2-3-meride-tv.akamaized.net^
 ||analytics2-meride-tv.akamaized.net^
+||api.rivpoint.com/*/event/
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
 ||bemail.it^*/analytics.js
