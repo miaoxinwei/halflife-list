@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KDrnlxZzNpwClJLAvN4Wuw
+! Checksum: 9NX3OPnrUdk133RESvgyXQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402190215
-! Last Modified: 2024年02月19日 02:15
+! Version: 202402190902
+! Last Modified: 2024年02月19日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1872,6 +1872,13 @@ newduba.cn###jq_youxi
 ||tu2024020388.com^
 ||xdybwjpa.xyz^
 ||kksjsa.top^
+||bwlcpr.xyz^
+||uxrdg.cn^
+||yvudqzoa.xyz^
+||clywws.xyz^
+||anjdwmq.xyz^
+||p45m0.icu^
+||hbjolp.xyz^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -17276,7 +17283,6 @@ guailie.com#@#.google-ad
 !#8
 !#91porny.com
 ###playerJsvLayer.jsv-layer
-##.btn-outline-primary[href*=".cc"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 ##.fixed-bottom.jsv.jsv-g1
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
@@ -30722,6 +30728,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||widget.educationdynamics.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
+||widgets.outbrain.com/widgetMonitor/
 ||widgets.sprinklecontent.com/v2/sprinkle.js
 ||widgetserver.com/metrics/
 ||widgetserver.com/t/
@@ -32149,6 +32156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||autotrader.com/pixall/
 ||avitop.com/aviation/hitlist.asp
 ||b629.electronicdesign.com^
+||ba-bamail.com/handlers/stats.ashx
 ||backcountry.com/api/log
 ||baidu.com/static/h.gif
 ||baidu.com^*/mwb2.gif?
