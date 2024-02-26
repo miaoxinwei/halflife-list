@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uoEVumL4H/GQ098/M2cKhg
+! Checksum: Q8taAIatzLWtDi4ZFA/hEA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402260216
-! Last Modified: 2024年02月26日 02:16
+! Version: 202402260903
+! Last Modified: 2024年02月26日 09:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1961,6 +1961,13 @@ newduba.cn###jq_youxi
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
+||qrttfmo.cn^
+##a[href*=".mp388.com/"]
+||qbhzghb.xyz^
+||hozatr.xyz^
+||qrkhwe.xyz^
+||hozatr.xyz^
+||vhvwlb.xyz^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -24735,6 +24742,7 @@ omni.soundestlink.com$image
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
+||trkapi.impact.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^
@@ -30280,6 +30288,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
 ||solutions.invocacdn.com^
+||soundestlink.com/rest/forms/v2/track/
 ||soundestlink.com/REST/forms/v2/track/view?
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sp-wukong-tracker.b-cdn.net^
