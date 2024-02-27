@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AZ7Ux3n9pu5I+bGDVn5eEw
+! Checksum: RnfB5APoue8QJO8j/DFViA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202402270217
-! Last Modified: 2024年02月27日 02:17
+! Version: 202402270900
+! Last Modified: 2024年02月27日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -476,7 +476,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad-choices-
 /ad-choices.
 /ad-engine.js
-/ad-left.js
 /ad-scripts--
 /ad-scroll.js
 /ad-server.$~script
@@ -4772,7 +4771,6 @@ _800x80_
 ###block-google-ads
 ###block-googleads3
 ###block-googleads3-2
-###block-ltadvertising-ltadvertising
 ###block-openads-0
 ###block-openads-1
 ###block-openads-13
@@ -5852,18 +5850,12 @@ _800x80_
 ###leaderboard-bottom-ad
 ###leaderboard.ad
 ###leaderboardAd
-###leaderboardAdArea
-###leaderboardAdArea2
-###leaderboardAdSibling
 ###leaderboardAdTop
 ###leaderboardAds
 ###leaderboardAdvert
 ###leaderboard_728x90
 ###leaderboard_Ad
 ###leaderboard_ad
-###leaderboard_ad_gam
-###leaderboard_ad_main
-###leaderboard_ad_unit
 ###leaderboard_ads
 ###leaderboard_bottom_ad
 ###leaderboard_top_ad
@@ -6160,11 +6152,9 @@ _800x80_
 ###pc-div-gpt-ad_728-3
 ###pencil-ad
 ###pencil-ad-container
-###pencil-alt-banner-ad-wrapper
 ###perm_ad
 ###permads
 ###persistentAd
-###personal-ads-sticky-wrapper
 ###personalization_ads
 ###pgAdWrapper
 ###ph_ad
@@ -6181,9 +6171,6 @@ _800x80_
 ###player_top_ad
 ###playerad
 ###playerads
-###pnAd2
-###pnlLhsNativeAd
-###pnlRhsNativeAd
 ###pop.div_pop
 ###pop_ad
 ###popadwrap
@@ -6224,7 +6211,6 @@ _800x80_
 ###premiumads
 ###prerollAd
 ###preroll_ads
-###preroll_compainion_ad
 ###primis-container
 ###primis_player
 ###print_ads
@@ -6235,14 +6221,8 @@ _800x80_
 ###promoAds
 ###promoFloatAd
 ###promo_ads
-###ps-ad-iframe
-###ps-top-ads-sponsored
-###ps-vertical-ads
-###pub-right-bottom-ads
-###pub-right-top-ads
 ###pub468x60
 ###pub728x90
-###publicGoogleAd
 ###publicidad
 ###publicidadeLREC
 ###pushAd
@@ -6417,7 +6397,6 @@ _800x80_
 ###rtMod_ad
 ###scroll-ad
 ###scroll_ad
-###scrollover-ad-wrap
 ###search-ad
 ###search-ads1
 ###search-google-ads
@@ -6552,7 +6531,6 @@ _800x80_
 ###singleADS3
 ###singleAd
 ###singleAdsContainer
-###single_ad_above_content
 ###singlead
 ###singleads
 ###site-ad-container
@@ -12332,30 +12310,20 @@ _800x80_
 ##.banner_ad_wrapper
 ##.banner_ads
 ##.banner_ads1
-##.banner_ads_300x250
-##.banner_ads_home
-##.banner_ads_home_inner
 ##.banner_reklam
 ##.banner_reklam2
 ##.banner_slot
 ##.bannerad
 ##.bannerad3
-##.banneradbottomholder
 ##.banneradd
 ##.bannerads
 ##.banneradv
 ##.bannerandads
-##.bannergoogle
 ##.bannergroup-ads
-##.banneritem-ads
-##.banneritem_ad
 ##.bannermpu
-##.banners-weekad
 ##.banners_ad
-##.banners_ad_inside
 ##.bannervcms
 ##.bar_ad
-##.barkerAd
 ##.barta-ad
 ##.base-ad-mpu
 ##.base-ad-slot
@@ -12365,15 +12333,9 @@ _800x80_
 ##.baseboard-ad
 ##.bb-ad
 ##.bb-ad-mrec
-##.bb-adv-160x600
-##.bb-adv-300x250
-##.bb-article-sponsor
 ##.bbccom-advert
 ##.bbccom_advert
-##.bbsTopAd
-##.bc-ad__appnexus
 ##.bcom_ad
-##.bd-header-ad
 ##.before-header-ad
 ##.before-injected-ad
 ##.below-ad-border
@@ -12384,9 +12346,6 @@ _800x80_
 ##.below_game_ad
 ##.below_nav_ad_wrap
 ##.below_player_ad
-##.belt-ad
-##.belt_ad
-##.best_project_ad
 ##.bg-ad-gray
 ##.bg-ads
 ##.bg-ads-space
@@ -12399,9 +12358,6 @@ _800x80_
 ##.bgr-ad-leaderboard
 ##.bh-ads
 ##.bh_ad_container
-##.bi-ads-300x250
-##.bi-ads-desktop
-##.bi-advertorial
 ##.bidbarrel-ad
 ##.big-ad
 ##.big-ads
@@ -12412,14 +12368,11 @@ _800x80_
 ##.bigAdContainer
 ##.bigAds
 ##.bigAdvBanner
-##.bigAdvMiddle
-##.bigAdvMiddlea
 ##.bigBoxAdArea
 ##.bigCubeAd
 ##.big_ad
 ##.big_ad2
 ##.big_ads
-##.big_center_ad
 ##.bigad
 ##.bigad1
 ##.bigad2
@@ -12434,25 +12387,16 @@ _800x80_
 ##.bigsponsor
 ##.billboard-ad
 ##.billboard-ad-one
-##.billboard-ad-slot-container
 ##.billboard-ad-space
 ##.billboard-ads
 ##.billboard.ad
-##.billboard300x250
 ##.billboardAd
-##.billboard__ad__full
 ##.billboard__advert
 ##.billboard_ad
-##.billboard_ad_desktop
 ##.billboard_ad_wrap
 ##.billboard_adwrap
-##.bin-ads
 ##.bing-ads-wrapper
 ##.bing-native-ad
-##.biz-ad
-##.biz-ads
-##.biz-list-ad
-##.bizDetailAds
 ##.bl300_ad
 ##.blk_advert
 ##.block--ad
@@ -12462,9 +12406,6 @@ _800x80_
 ##.block--dfp
 ##.block--doubleclick
 ##.block--simpleads
-##.block--vh-dfp
-##.block--vh-dfp-dfp-ad-r1
-##.block--vh-footer-ads
 ##.block-ad
 ##.block-ad-blocktop
 ##.block-ad-entity
@@ -12488,7 +12429,6 @@ _800x80_
 ##.block-ads3
 ##.block-ads_top
 ##.block-adsense
-##.block-adstop-otherpage-728x90
 ##.block-adtech
 ##.block-adv
 ##.block-advert
@@ -12505,20 +12445,13 @@ _800x80_
 ##.block-doubleclick_ads
 ##.block-fusion-ads
 ##.block-google-admanager
-##.block-heremedia-ads
 ##.block-inner-adds
-##.block-itg-ads
-##.block-ltadvertising
-##.block-maniad
-##.block-nyx-ads-ninja
-##.block-nyx-ads-ninja-ad-block
 ##.block-openads
 ##.block-openx
 ##.block-pm_doubleclick
 ##.block-pt-ads
 ##.block-quartz-ads
 ##.block-reklama
-##.block-simple-blockad-320-250-front-2
 ##.block-simpleads
 ##.block-skyscraper-ad
 ##.block-sponsor
@@ -12547,22 +12480,15 @@ _800x80_
 ##.blog-ad
 ##.blog-ad-image
 ##.blog-ads
-##.blog-ads-container
-##.blog-ads-top
 ##.blog-advertisement
-##.blog-view-ads
 ##.blogAd
 ##.blogAdvertisement
-##.blogArtAd
-##.blogBigAd
 ##.blog_ad
 ##.blogads
-##.blue-ad
 ##.bmd_advert
 ##.bn_ads
 ##.bn_advert
 ##.bn_textads
-##.bnr-adbutler
 ##.bnr_ad
 ##.board-layout-ad
 ##.body-ad
@@ -12618,9 +12544,6 @@ _800x80_
 ##.bottom-right-advert
 ##.bottom-side-advertisement
 ##.bottom-slider-ads
-##.bottom-sponsor-img-border
-##.bottom-sponsored-header
-##.bottom2-adv
 ##.bottomAd
 ##.bottomAdBlock
 ##.bottomAdContainer
@@ -12741,56 +12664,28 @@ _800x80_
 ##.br-ad-wrapper
 ##.br-banner-ad
 ##.br-right-rail-ad
-##.branded-sponsored-result
-##.branding-ad-gallery
-##.branding-ad-wrapper
 ##.breadads
 ##.breadcumbad
 ##.break-ads
 ##.breaker-ad
 ##.breakerAd
-##.breakingNewsModuleSponsor
-##.breakthrough-ad
 ##.briefNewsAd
 ##.brn-ads-box
 ##.brn-ads-mobile-container
 ##.brn-ads-sticky-wrapper
 ##.broker-ad
-##.broker-ads
-##.broker-ads-center
-##.broker_box_ad
 ##.browse-ad-container
-##.browse-banner_ad
-##.browse-by-make-ad
-##.browse-inline-ad
-##.browser_boot_ad
 ##.browsi-ad
-##.bs-ad
 ##.bsAdvert
-##.bsa-in-post-ad-125-125
-##.bsaProCarousel
-##.bsaProContainer
-##.bsaProContainerNew
 ##.bsa_ads
-##.bsa_it_ad
 ##.bt_ad
-##.btf-ad-medRect
 ##.btfAds
 ##.btm_ad
 ##.btn-ad
 ##.btn-newad
 ##.btn_ad
-##.budget_ads_1
-##.budget_ads_2
-##.budget_ads_3
-##.budget_ads_bg
-##.bulk-img-ads
-##.bullet-sponsored-links
-##.bullet-sponsored-links-gray
 ##.bump-ad
 ##.bunyad-ad
-##.burstContentAdIndex
-##.businessads
 ##.buttom_ad
 ##.buttom_ad_size
 ##.button-ad
@@ -12811,19 +12706,9 @@ _800x80_
 ##.buysellAds
 ##.buysellAdsSmall
 ##.buzzAd
-##.buzz_ad_block
-##.buzz_ad_wrap
-##.bvi-ads
 ##.bvp-ad
-##.bwm_widget_ad_callout
-##.bww-advertising-ad-container
-##.bx-ads
-##.bx-ads--banner
-##.bx_ad
-##.bx_ad_right
 ##.bxad
 ##.bz-ad
-##.bzads-ic-ad-300-250-600
 ##.c-Ad
 ##.c-Ad--ezoic
 ##.c-Ad--inArticle
@@ -12878,10 +12763,6 @@ _800x80_
 ##.c-gpt-ad
 ##.c-header__ad
 ##.c-header__advert-container
-##.c-inblog_ad
-##.c-main-header__ad
-##.c-news-feed-ads
-##.c-partner-articles
 ##.c-posts__ad
 ##.c-prebid
 ##.c-res-ad
@@ -17011,7 +16892,6 @@ _800x80_
 ##.story-ad
 ##.story-ad-container
 ##.story-ad-right
-##.story-header-ad
 ##.story-inline-advert
 ##.storyAd
 ##.storyAdvert
@@ -33701,6 +33581,7 @@ browsershots.org#@#.advert_area
 ||iecjqkiawvifx.com^
 ||ieicbkjmmqkcmgq.com^
 ||ieiukkwfqhwuvwy.com^
+||ielmzzm.com^
 ||iemufbuvehrjo.xyz^
 ||iendoo.com^
 ||ieoyptnech.com^
@@ -49351,6 +49232,7 @@ browsershots.org#@#.advert_area
 ||toyosbullpen.com^
 ||toysrestrictcue.com^
 ||tozoruaon.com^
+||tozqvor.com^
 ||tozuoi.xyz^
 ||tp1jcgl644jk.com^
 ||tpbsxcsa.com^
@@ -63344,6 +63226,7 @@ thebugle.co.za###adz
 apkonline.net###adzz
 purplepainforums.com,snow-forecast.com###affiliates
 exportfromnigeria.info###affs
+slickdeals.net###afscontainer
 osdn.net###after-download-ad
 scmp.com###after-page-layout-container
 prepostseo.com###after_button_ad_desktop
@@ -64998,7 +64881,7 @@ livecharts.co.uk##.banner_long
 barnstormers.com##.banner_mid
 weatheronline.co.uk##.banner_oben
 barnstormers.com##.banner_rh
-nationaljeweler.com##.banner_wrapper
+nationaljeweler.com,radioyacht.com##.banner_wrapper
 wdwmagic.com##.bannerad_300px
 mamul.am##.bannerb
 gamertweak.com##.bannerdiv
@@ -65173,6 +65056,7 @@ wbur.org##.bp--outer
 wbur.org##.bp--rec
 wbur.org##.bp--responsive
 wbur.org##.bp-label
+slickdeals.net##.bp-p-adBlock
 businessplus.ie##.bp_billboard_single
 petkeen.com##.br-10
 bing.com##.br-poleoffcarousel
@@ -66380,6 +66264,7 @@ joindota.com##.monkey-container
 flickr.com##.moola-search-div.main
 hindustantimes.com##.moreFrom
 apptrigger.com,fansided.com,lastnighton.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,winteriscoming.net##.mosaic-banner
+radioyacht.com##.mpc-carousel__wrapper
 98fm.com,airqualitynews.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,entertainmentdaily.co.uk,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk##.mpu
 news.sky.com##.mpu-1
 edarabia.com##.mpu-300
@@ -68587,6 +68472,7 @@ time.com##.article-small-sidebar > .sticky-container:has(div[id^="ad-"])
 blitz.gg##.aside-content-column:has(.display-ad)
 haveibeenpwned.com##.bodyGradient > :has(.why1Password)
 radioreference.com##.box.gradient:has(a[href*="&Click="])
+slickdeals.net##.bp-p-filterGrid_item:has(.bp-c-label--promoted)
 tvinsider.com#@#.cnx-player-wrapper
 asda.com##.co-item:has(.co-item__sponsored-label)
 theautopian.com##.code-block:has(.htlad-InContent)
@@ -68598,6 +68484,7 @@ tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
 protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
 thesaurus.com##.fHACXxic9xvQeSNITiwH
 pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
+slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 tumblr.com##.ge_yK:has(.hM19_)
 fortune.com##.homepage:has(> div[id^="InStream"])
 qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
@@ -72653,6 +72540,12 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||ctlrarz.xyz^
+||ijvla.cn^
+||cqisam.xyz^
+||ndthdte125.shop^
+||ndthdtr586.shop^
+||3bxe2.cyou^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
