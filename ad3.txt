@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4bH9SCeHARenrtmiJnSOCA
+! Checksum: GcVNGwM+LC2QlGdg3pSZ/Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402290217
-! Last Modified: 2024年02月29日 02:17
+! Version: 202402290900
+! Last Modified: 2024年02月29日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1989,6 +1989,12 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||zsjpi.cn^
+||bugzmn.icu^
+||aourgk.xyz^
+||fvpboxu.xyz^
+||jioed.cyou^
+||xsfajf.xyz^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -27591,7 +27597,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adclear.net^$third-party
 ||adcrowd.com^$third-party
 ||admeira.ch^$third-party
-||adnz.co^$third-party
 ||adquality.ch^$third-party
 ||adtraxx.de^$third-party
 ||adtriba.com^$third-party
@@ -28538,6 +28543,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adfox.yandex.ru^
 ||adimo.co/api/tracking/
 ||adlog.com.com^
+||adnz.co/dmp/publisher.js
+||adnz.co/header.js
 ||adobedc.net/collector/
 ||ads-trk.vidible.tv^
 ||adsolutions.com^$third-party
@@ -69491,7 +69498,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
 @@||googleoptimize.com/optimize.js?$domain=eventim.de
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
-@@||img.adnz.co^$image,domain=finanzen.ch
 @@||kameleoon.eu/images/$domain=welt.de
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||kameleoon.io/geolocation^$domain=welt.de

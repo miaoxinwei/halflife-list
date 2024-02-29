@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0YpmN57V3STOjI9/SQJxzg
+! Checksum: pOjYlHu1P3pDAkM0wNm46Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202402290217
-! Last Modified: 2024年02月29日 02:17
+! Version: 202402290900
+! Last Modified: 2024年02月29日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -29486,6 +29486,7 @@ browsershots.org#@#.advert_area
 ||explodemedicine.com^
 ||exploitdevoid.com^
 ||exploitingenious.com^
+||exploittonlets.com^
 ||exploreannihilationquicker.com^
 ||explorecomparison.com^
 ||explorefast-1.com^
@@ -30625,6 +30626,7 @@ browsershots.org#@#.advert_area
 ||foutoanaugab.com^
 ||foutyoxyaena.website^
 ||fouwiphy.net^
+||fovdvoz.com^
 ||foviyii.com^
 ||foxmeywkh.xyz^
 ||foxpush.io^
@@ -33775,6 +33777,7 @@ browsershots.org#@#.advert_area
 ||ihtckcitkr.com^
 ||ihttscqovzzb.com^
 ||ihzuephjxb.com^
+||iibhytvj.com^
 ||iicheewi.com^
 ||iidohheneuda.com^
 ||iifvcfwiqi.com^
@@ -35030,6 +35033,7 @@ browsershots.org#@#.advert_area
 ||jigsawthirsty.com^
 ||jiiglogwdkcqwou.xyz^
 ||jijhkclur.com^
+||jikbwoozvci.com^
 ||jikclwxavkanym.com^
 ||jikicotho.pro^
 ||jikvcrikdvng.com^
@@ -43019,6 +43023,7 @@ browsershots.org#@#.advert_area
 ||privacycounter.com^
 ||privacysearching.com^
 ||privacywithholdrepose.com^
+||privateapi.click^
 ||privatediamond.pro^
 ||privatedqualizebrui.info^
 ||privateleaflet.com^
@@ -50803,6 +50808,7 @@ browsershots.org#@#.advert_area
 ||varabs.com^
 ||varasbrijkt.com^
 ||varechphugoid.com^
+||variabilityproducing.com^
 ||variableexternal.com^
 ||variablevisualforty.com^
 ||variationaspenjaunty.com^
@@ -50852,6 +50858,7 @@ browsershots.org#@#.advert_area
 ||vbijjrg.com^
 ||vbmfeuvrtnxafy.com^
 ||vbqbtfkon.com^
+||vbrbgki.com^
 ||vbtrax.com^
 ||vbzsjkrnsqewy.com^
 ||vcbydvfouqqyls.com^
@@ -58898,6 +58905,7 @@ browsershots.org#@#.advert_area
 ||valeuceplangka.com^$popup
 ||valuationbothertoo.com^$popup
 ||vanenow.com^$popup
+||variabilityproducing.com^$popup
 ||variationaspenjaunty.com^$popup
 ||vasstycom.com^$popup
 ||vasteeds.net^$popup
@@ -72744,6 +72752,12 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||zsjpi.cn^
+||bugzmn.icu^
+||aourgk.xyz^
+||fvpboxu.xyz^
+||jioed.cyou^
+||xsfajf.xyz^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -96015,7 +96029,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adclear.net^$third-party
 ||adcrowd.com^$third-party
 ||admeira.ch^$third-party
-||adnz.co^$third-party
 ||adquality.ch^$third-party
 ||adtraxx.de^$third-party
 ||adtriba.com^$third-party
@@ -96962,6 +96975,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adfox.yandex.ru^
 ||adimo.co/api/tracking/
 ||adlog.com.com^
+||adnz.co/dmp/publisher.js
+||adnz.co/header.js
 ||adobedc.net/collector/
 ||ads-trk.vidible.tv^
 ||adsolutions.com^$third-party
@@ -137915,7 +137930,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
 @@||googleoptimize.com/optimize.js?$domain=eventim.de
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
-@@||img.adnz.co^$image,domain=finanzen.ch
 @@||kameleoon.eu/images/$domain=welt.de
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||kameleoon.io/geolocation^$domain=welt.de
