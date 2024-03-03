@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +T2Mi+3WMqJ2kpMhY5NiLw
+! Checksum: 9l+AJCO/glcINfrVzCRMIQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403030217
-! Last Modified: 2024年03月03日 02:17
+! Version: 202403030904
+! Last Modified: 2024年03月03日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2029,6 +2029,12 @@ newduba.cn###jq_youxi
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
+||mthhhuq.cn^
+||gsuxyg.xyz^
+||arnhhwo.xyz^
+||7vviw.cyou^
+||lenvvb.xyz^
+||hciwyv.icu^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -23642,6 +23648,7 @@ m.babytree.com##script + a[class]
 /StatV1?
 /stdlog?
 /storeAdvImpression.jsp
+/storefront.google-analytics-4.min.js
 /stp.gif?
 /stracking.js
 /sTrackStats.js
@@ -32342,6 +32349,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
 ||api.privacyguides.net^
+||api.takealot.com^$ping
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -32776,6 +32784,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||health-metrics-api.setapp.com^
 ||healthline.com/api/metrics
 ||heap.drop.com^
+||hellopeter.com/api/consumer-tracking/
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hlogger.heraldcorp.com^
@@ -69306,6 +69315,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com^$domain=mixpanel.com
+@@||my.goabode.com/assets/js/fp2.min.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
