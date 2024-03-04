@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AvWUniFK04g8YehojWD/MA
+! Checksum: Wo5fVGrHEiUvTv2Qudqh8w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202403020859
-! Last Modified: 2024年03月02日 08:59
+! Version: 202403042029
+! Last Modified: 2024年03月04日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -716,7 +716,7 @@ factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contain
 ! #RM-16
 aliexpress.com,aliexpress.us#$#hide-if-contains-visible-text /AD|Annonce|Anuncio|Anzeige/ 'div > div > a[target="_blank"]' 'div[class]'
 ! #RM-66
-newegg.com#$#hide-if-contains-visible-text /Sponsored/ div[class$="at-side"] 'div[class$="menu-box"] span'; hide-if-matches-xpath './/div[@class="row-body-inner"]//div[contains(@class,"menu-box")]/span[contains(text(),"Sponsored")]/ancestor::div[@class][2]';
+newegg.com#$#hide-if-matches-xpath './/div[contains(@class,"menu-box")]/span[contains(text(),"Sponsored")]/ancestor::div[contains(@class,"at-side")]'; hide-if-matches-xpath './/div[@class="row-body-inner"]//div[contains(@class,"menu-box")]/span[contains(text(),"Sponsored")]/ancestor::div[@class][2]';
 newegg.com#$#hide-if-matches-xpath './/a[@class="item-img"][@rel]/following::span[contains(text(),"Sponsored")]/ancestor::div[contains(@class,"item-cell")][starts-with(@id,"item_cell")]'
 ! Popup/Popunder/Clickunder
 123movieshub.tc,123freemovies.net,123movies.ai,123movies.bike,123movies.net,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,adblockeronstreamtape.xyz,animepahe.com,bigtitsxxxfree.com,configspc.com,dood.la,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.wf,dood.ws,doods.pro,doodstream.co,doodstream.com,fastream.to,govid.me,hclips.com,hd-analporn.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.net,porn.com,porndollz.com,pornhat.com,prmovies.bz,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.club,strcloud.link,streamadblockplus.com,streamadblocker.xyz,streamadblockplus.xyz,streamta.pe,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,streamtapeadblock.art,strtape.cloud,strtape.site,strtape.tech,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
@@ -1263,7 +1263,7 @@ sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 naruto-base.su#$#abort-on-property-read njranu
-animekun.ru,doramakun.ru,nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
+animekun.ru,doramakun.ru,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
 dota2.ru#$#abort-on-property-read helpUsImproveSite
@@ -1479,14 +1479,14 @@ ozee.com#$#abort-on-property-read adsRedirectPopups
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement optad;abort-on-property-read pushOnPageGala
 javnong.cc#$#abort-on-property-read Math.round
-viet69.men,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.co,cliphot69.club,doctruyen3qc.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,www.sexdam18.net,hentaivn.ac,phim3.sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.fun,cdnstream.sbs,javtiful.com,tuoi69.red,quatvn.club,tenmientruyengi.net,topxxxhay.com,phim18hd.top,web.sexviet88.day#$#abort-current-inline-script WebAssembly instantiate
+viet69.men,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.co,cliphot69.club,doctruyen3qc.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,www.sexdam18.net,hentaivn.ac,phim5.sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.fun,cdnstream.sbs,javtiful.com,tuoi69.red,quatvn.club,tenmientruyengi.net,topxxxhay.com,phim18hd.top,web.sexviet88.day#$#abort-current-inline-script WebAssembly instantiate
 animevietsub.io#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
 phimgichill.net#$#abort-current-inline-script jQuery popurl
-phimgichill.net,hhhay.tv#$#abort-current-inline-script eval $._Eu
+phimgichill.net,hhhay.tv,hh3dhay.pro#$#abort-current-inline-script eval $._Eu
 gocphimvnn.com,p.thoctv.com#$#abort-current-inline-script document.createElement script
 mephimnhe1.net#$#abort-current-inline-script jQuery popurl
-xemphimhdc.info,motchilluk.com#$#abort-current-inline-script document.addEventListener linksToOpen
+xemphimhdc.info,motchill.ac#$#abort-current-inline-script document.addEventListener linksToOpen
 khoaiphim.com,phimmoinay.tv#$#abort-current-inline-script jQuery click_time
 dualeotruyenme.com,m.blogtruyenmoi.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.net#$#abort-current-inline-script $ PopUnder
