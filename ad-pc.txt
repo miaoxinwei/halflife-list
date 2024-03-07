@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6RAw4lsV8hRaVU1vsJa1BA
+! Checksum: a6IcDhJ7IPBIQ0ngfsi3Mw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202403072025
-! Last Modified: 2024年03月07日 20:25
+! Version: 202403080217
+! Last Modified: 2024年03月08日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1368,6 +1368,7 @@ tieba.baidu.com##.tuijian-wrap
 /li.blogtrottr.com/imp?
 /lijit-ad-
 /lijitads.
+/link?z=$subdocument
 /linkad2.
 /linkads.
 /livejasmin.$domain=~livejasmin.com
@@ -1843,6 +1844,7 @@ tieba.baidu.com##.tuijian-wrap
 /ttj?id=
 /utx?cb=$third-party
 /v1/ads/*
+/v2/a/pop/*
 /v2/a/push/js/*
 /v2/ads/*
 /v3/ads/*
@@ -21658,6 +21660,7 @@ browsershots.org#@#.advert_area
 ||armedtidying.com^
 ||armetsremoved.guru^
 ||armiesinvolve.com^
+||armineambeers.top^
 ||arminius.io^
 ||arminuntor.com^
 ||armisticeexpress.com^
@@ -21853,6 +21856,7 @@ browsershots.org#@#.advert_area
 ||assisteggs.com^
 ||assistspell.com^
 ||assithdisseat.com^
+||assobredrouked.com^
 ||associationstoopedacid.com^
 ||associationwish.com^
 ||assoilrehboc.top^
@@ -24584,6 +24588,7 @@ browsershots.org#@#.advert_area
 ||cb7f35d82c.com^
 ||cba-fed-igh.com^
 ||cba6182add.com^
+||cbd2dd06ba.com^
 ||cbdedibles.site^
 ||cbfdzofxzgbgor.com^
 ||cbfpiqq.com^
@@ -25489,6 +25494,7 @@ browsershots.org#@#.advert_area
 ||cobweblockerdiana.com^
 ||cobwebzincdelicacy.com^
 ||cobworksurview.com^
+||cocaindeictic.com^
 ||cocath.com^
 ||coccalunhele.space^
 ||coccinstuart.com^
@@ -26350,6 +26356,7 @@ browsershots.org#@#.advert_area
 ||curinetuxedos.com^
 ||curledbuffet.com^
 ||curlingtyphon.com^
+||curlsl.info^
 ||curlsomewherespider.com^
 ||curlybottom.com^
 ||curlyhomes.com^
@@ -29054,6 +29061,7 @@ browsershots.org#@#.advert_area
 ||epushclick.com^
 ||eputysolomon.com^
 ||epxmxnhjqknsuql.com^
+||epynkklzkvnvs.com^
 ||eqads.com^
 ||eqcilkii.com^
 ||eqdudaj.com^
@@ -32924,6 +32932,7 @@ browsershots.org#@#.advert_area
 ||higheurest.com^
 ||highjournalistbargain.com^
 ||highlypersevereenrapture.com^
+||highlyrecomemu.info^
 ||highmaidfhr.com^
 ||highnets.com^
 ||highperformancecpm.com^
@@ -35632,6 +35641,7 @@ browsershots.org#@#.advert_area
 ||kcaamcduwwu.com^
 ||kcdn.xyz^
 ||kcigvmdkwda.com^
+||kckullrxagokk.com^
 ||kcnfrqincdlf.xyz^
 ||kcwtugkvnq.xyz^
 ||kdfjabv.com^
@@ -37338,6 +37348,7 @@ browsershots.org#@#.advert_area
 ||lunio.net^
 ||lunyfallace.com^
 ||lunylarynx.uno^
+||luofinality.com^
 ||lupininulster.com^
 ||lupvaqvfeka.com^
 ||lupyjpkuykoc.com^
@@ -45075,6 +45086,7 @@ browsershots.org#@#.advert_area
 ||rhungs.com^
 ||rhvdsplm.com^
 ||rhvsujcakbmdpkh.com^
+||rhwvpab.com^
 ||rhxdsplm.com^
 ||rhymerhaysel.guru^
 ||rhymeryamebas.top^
@@ -47444,6 +47456,7 @@ browsershots.org#@#.advert_area
 ||spotxchange.com^
 ||spoutable.com^
 ||spouttheory.com^
+||sppolexrumj.com^
 ||spratstatters.com^
 ||spreebogbean.com^
 ||sprengaivr.digital^
@@ -49546,6 +49559,7 @@ browsershots.org#@#.advert_area
 ||trafficportsrv.com^
 ||trafficshop.com^
 ||traffictraders.com^
+||traffmgnt.com^
 ||traffmgnt.name^
 ||trafogon.com^
 ||trafyield.com^
@@ -50521,6 +50535,7 @@ browsershots.org#@#.advert_area
 ||upgrownloathly.space^
 ||upgulpinon.com^
 ||uphastod.xyz^
+||uphelmscowed.com^
 ||uphewoab.net^
 ||uphillgrandmaanger.com^
 ||uphilo.com^
@@ -52707,6 +52722,7 @@ browsershots.org#@#.advert_area
 ||wvrgnlvzqmi.com^
 ||wvsrebdogmq.com^
 ||wvtynme.com^
+||wvuvpahnbmnxt.com^
 ||wvvkxni.com^
 ||wvwxjfjjytaf.com^
 ||wvxcdtuhcagistb.xyz^
@@ -53020,6 +53036,7 @@ browsershots.org#@#.advert_area
 ||xszpuvwr7.com^
 ||xtarwjgv.com^
 ||xtdioaawlam.com^
+||xtijeyyeqwjegz.com^
 ||xtlvjnyd.com^
 ||xtnlfgpnml.com^
 ||xtrackme.com^
@@ -72729,6 +72746,7 @@ newduba.cn###jq_youxi
 ##a[href*="/dsf71.cc"]
 ||0940088.com^
 ||0j775d.cn^
+||0uyt5b.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
 ||3bxe2.cyou^
@@ -72756,6 +72774,7 @@ newduba.cn###jq_youxi
 ||bijiangqing.com^
 ||bjswhpy.cn^
 ||blrupz.xyz^
+||blzbjpg.xyz^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bugzmn.icu^
@@ -72764,6 +72783,7 @@ newduba.cn###jq_youxi
 ||bwlcpr.xyz^
 ||bzzxyyh.xyz^
 ||caomeixz7.xyz^
+||cbcvou.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
 ||cdftizu.xyz^
@@ -72774,6 +72794,7 @@ newduba.cn###jq_youxi
 ||cijianggun.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
+||cnifdlaf.top^
 ||cnvmhzt.cn^
 ||costarg.com^
 ||cqisam.xyz^
@@ -72812,6 +72833,7 @@ newduba.cn###jq_youxi
 ||gicjtss.cn^
 ||gsuxyg.xyz^
 ||gvbta.icu^
+||ha723.icu^
 ||halct.cn^
 ||hbjolp.xyz^
 ||hciwyv.icu^
@@ -72824,10 +72846,12 @@ newduba.cn###jq_youxi
 ||hjshal.com^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
+||hrnkdr.xyz^
 ||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||ivbgpax.cn^
+||jflwhf.xyz^
 ||jgblvt.xyz^
 ||jgmywh.icu^
 ||jioed.cyou^
@@ -72889,6 +72913,7 @@ newduba.cn###jq_youxi
 ||rktddv.xyz^
 ||rlw86.cyou^
 ||rnkzhsi.cn^
+||rouqiuqq.cn^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
@@ -72939,6 +72964,7 @@ newduba.cn###jq_youxi
 ||vhvwlb.xyz^
 ||vszzzj.xyz^
 ||vxfdepn.cn^
+||wbubgob.cn^
 ||wbvfj.xyz^
 ||wisealty.com^
 ||wkywrc.cn^
@@ -72952,6 +72978,7 @@ newduba.cn###jq_youxi
 ||xdybwjpa.xyz^
 ||xhfxtqt.xyz^
 ||xklofoz.cn^
+||xklrsj.icu^
 ||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
@@ -72977,15 +73004,6 @@ newduba.cn###jq_youxi
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||jflwhf.xyz^
-||xklrsj.icu^
-||0uyt5b.cn^
-||blzbjpg.xyz^
-||hrnkdr.xyz^
-||cbcvou.xyz^
-||ha723.icu^
-||wbubgob.cn^
-||rouqiuqq.cn^
 ||zhihucloud.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
@@ -88363,17 +88381,17 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
-/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
 ||18-comic.work/media/albums/*?$media
 ||18comic.*/media/albums/*?$media
 !#2
@@ -93242,6 +93260,7 @@ omni.soundestlink.com$image
 ||epsilondelta.co^
 ||eqy.link^
 ||etop.ro^
+||eval.privateapi.click^
 ||everesttech.net^
 ||experianmatch.info^
 ||ezodn.com^
@@ -93389,7 +93408,6 @@ omni.soundestlink.com$image
 ||pixrealm.com^
 ||pjstat.com^
 ||plausiblecdn.co^
-||privateapi.click^
 ||procroanalytics.com^
 ||progmxs.com^
 ||pushvisit.xyz^
