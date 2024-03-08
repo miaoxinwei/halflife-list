@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gQKzrKStcK+ozuNAriyXNQ
+! Checksum: W4Zu+S4jPwjPKNaq+IC3yQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202403081417
-! Last Modified: 2024年03月08日 14:17
+! Version: 202403082025
+! Last Modified: 2024年03月08日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -65030,7 +65030,7 @@ chron.com,expressnews.com,mysanantonio.com,sfgate.com##.b-gray300.md\:bt.md\:bb
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,searchguide.level3.com##.b-links
 kyivpost.com##.b-title
-cyberdaily.au,investordaily.com.au##.b-topLeaderboard
+cyberdaily.au,investordaily.com.au,mortgagebusiness.com.au##.b-topLeaderboard
 bizcommunity.com##.b-topbanner
 ssyoutube.com##.b-widget-left
 maritimeprofessional.com##.b300x250
@@ -65781,6 +65781,7 @@ filmibeat.com##.filmibeat-top-ad
 telugupeople.com##.fineprint
 proprofs.com##.firstadd
 thestranger.com##.fish-butter
+fiskerati.com##.fiskerati-target
 khaleejtimes.com##.fix-billboard-nf
 khaleejtimes.com##.fix-mpu-nf
 vice.com##.fixed-slot
@@ -72897,6 +72898,7 @@ newduba.cn###jq_youxi
 ||lardmoni.com^
 ||skfda5.com^
 ||xxle.cn^
+||cherylssb.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -97988,6 +97990,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
+||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||files.envoke.com^*_nvk_tracking.js
 ||filesonic.com/referral/$third-party
