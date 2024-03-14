@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Kn5OEfZdOgsIafdw0lrdqA
+! Checksum: AyO1wZtdDJy5ps23bJKdCA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403140217
-! Last Modified: 2024年03月14日 02:17
+! Version: 202403140901
+! Last Modified: 2024年03月14日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2160,6 +2160,12 @@ newduba.cn###jq_youxi
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
+||qhodog.xyz^
+||uuvzmba.cn^
+||zwxxcb.icu^
+||mrtxtrq.xyz^
+||wnifdlae.top^
+||pxzrlf.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -32889,6 +32895,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||getpocket.com/t/
 ||getpocket.com/web-client-api/braze
 ||getpocket.com/web-utilities/public/static/te.js
+||gettapeads.com/stat/
 ||gettyimages.*/pulse$ping
 ||gg.vevor.com^
 ||ghacks.net/statics/px.gif
@@ -68339,6 +68346,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||t.7sur7.be^$image
 ||t.blablacar.com^
 ||tc2.hometogo.net^
+||techno-science.net/outils/serviceLoc.php?
 ||telerama.fr/*&ptag=
 ||tracker.mspy.com^
 ||tracking.cdiscount.com^
