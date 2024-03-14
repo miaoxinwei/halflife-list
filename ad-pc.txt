@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o+bRdJsDhUzJ9XRwkiLy/Q
+! Checksum: AbEzC5qRmwTwJoFtEQx9Mg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202403142026
-! Last Modified: 2024年03月14日 20:26
+! Version: 202403150217
+! Last Modified: 2024年03月15日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18016,6 +18016,7 @@ _800x80_
 ##a[href^="https://trk.sportsflix4k.club/"]
 ##a[href^="https://turnstileunavailablesite.com/"]
 ##a[href^="https://twinrdsrv.com/"]
+##a[href^="https://witnessjacket.com/"]
 ##a[href^="https://www.adskeeper.com"]
 ##a[href^="https://www.adultempire.com/"][href*="?partner_id="]
 ##a[href^="https://www.adxsrve.com/"]
@@ -28761,6 +28762,7 @@ browsershots.org#@#.advert_area
 ||egrvkoqigygqk.com^
 ||egxxlvyguirt.com^
 ||egyifdjrbrwyj.com^
+||egykofo.com^
 ||egynvnnlhywq.com^
 ||egyptchwas.com^
 ||egyptianintegration.com^
@@ -30872,6 +30874,7 @@ browsershots.org#@#.advert_area
 ||fqybolmt.com^
 ||fqygyfvmz.com^
 ||fqyxbvuefdlt.com^
+||fqzibqtjwfzp.com^
 ||fragmenteasygoingmass.com^
 ||fragmentexpertisegoods.com^
 ||fragrancepneumoniatinker.com^
@@ -33886,6 +33889,7 @@ browsershots.org#@#.advert_area
 ||ibjdmthqkz.com^
 ||ibonmfvcwb.xyz^
 ||ibortvgbkvpmes.com^
+||ibptutlgoloqy.com^
 ||ibpxnkwstvqcon.com^
 ||ibqjduiipukerj.com^
 ||ibrapush.com^
@@ -35788,6 +35792,7 @@ browsershots.org#@#.advert_area
 ||jweqtiikcx.com^
 ||jwfobgoeobehy.com^
 ||jwjxjuvrnkv.com^
+||jwlfduco.com^
 ||jwnmnnnzrebqa.top^
 ||jwnmnnnzreeyw.top^
 ||jwqtuyjqxvsxy.com^
@@ -42312,6 +42317,7 @@ browsershots.org#@#.advert_area
 ||peppinaegina.com^
 ||peppy2lon1g1stalk.com^
 ||pepserump.life^
+||pepyyzqqgciv.com^
 ||peracy.com^
 ||perceivedagrarian.com^
 ||perceivedundesirable.com^
@@ -42635,6 +42641,7 @@ browsershots.org#@#.advert_area
 ||pickupnationalityinexhaustible.com^
 ||pickuppestsyndrome.com^
 ||pickupracist.com^
+||pickvideolink.com^
 ||picnicnorthernincompetent.com^
 ||picolinfloe.com^
 ||pics-city.space^
@@ -48479,6 +48486,7 @@ browsershots.org#@#.advert_area
 ||stylewhiskerscreepy.com^
 ||stylliyote.com^
 ||styrianauf.com^
+||stzhnfcxx.com^
 ||sualgvoi.com^
 ||sub.empressleak.biz^
 ||sub.xxx-porn-tube.com^
@@ -52140,6 +52148,7 @@ browsershots.org#@#.advert_area
 ||vqglaz.com^
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
+||vqrqnylppo.com^
 ||vqtyargb.com^
 ||vqzbzuhhxhcf.com^
 ||vrasxjrsl.com^
@@ -53015,6 +53024,7 @@ browsershots.org#@#.advert_area
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedworkerplaid.com^
+||witnessjacket.com^
 ||witnessremovalsoccer.com^
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
@@ -54136,6 +54146,7 @@ browsershots.org#@#.advert_area
 ||ysemblyjusting.info^
 ||ysesials.net^
 ||ysnxszyrxdzp.com^
+||yspecjbjmcub.com^
 ||ytbzqtrog.com^
 ||yterxv.com^
 ||ytfotjfrttgyal.com^
@@ -60001,6 +60012,7 @@ browsershots.org#@#.advert_area
 ||withdrawcosmicabundant.com^$popup
 ||withholdstandstill.com^$popup
 ||withmefeyauknaly.com^$popup
+||witnessjacket.com^$popup
 ||wlafx4trk.com^$popup
 ||wnt-s0me-push.net^$popup
 ||woafoame.net^$popup
@@ -63040,6 +63052,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||mobilesyrup.com/RgPSN0siEWzj.js
 ||monkeygamesworld.com/images/banners/
 ||montent.powzers.lol^
+||moonjscdn.info/player8/JWui.js
 ||mp3fiber.com/*ml.jpg
 ||mpgh.net/idsx2/
 ||mrskin.com^$script,third-party,domain=~mrskincdn.com
@@ -92324,7 +92337,7 @@ fqsousou.com,kengso.com#@#.user-share
 /mwTag.js
 /mystats2.px?
 /myTracking.js
-/naLogImpressions?
+/naLogImpressions^
 /natero_analytics.min.js
 /nativendo.js
 /navbar-analytics.js
