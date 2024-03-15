@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QIRFGCrsibO9ff4cdFg8rQ
+! Checksum: OqR22C3xtR2Qp/pkwHYmsQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202403151417
-! Last Modified: 2024年03月15日 14:17
+! Version: 202403152025
+! Last Modified: 2024年03月15日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18539,6 +18539,7 @@ grist.org,ing.dk,version2.dk#@#.advertorial
 stjornartidindi.is#@#.adverttext
 staircase.pl#@#.adwords
 consumerist.com#@#.after-post-ad
+clickorlando.com#@#.anyClipWrapper
 dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
@@ -55155,7 +55156,6 @@ browsershots.org#@#.advert_area
 ||bannersmania.com^$third-party
 ||bannersnack.com^$third-party,domain=~bannersnack.dev
 ||bannersnack.net^$third-party,domain=~bannersnack.dev
-||bannertrack.net^$~script,third-party
 ||bannerweb.com^$third-party
 ||bannieres-a-gogo.com^$third-party
 ||baronsoffers.com^$third-party
@@ -63325,7 +63325,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||purexbox.com/javascript/gn/prebid-
 ||wsj.net/pb/pb.js
 ||fireworkapi1.com^$domain=boldsky.com
-||anyclip.com^$third-party,domain=~dictionary.com|~heute.at|~video.timeout.com
+||anyclip.com^$third-party,domain=~clickorlando.com|~dictionary.com|~heute.at|~video.timeout.com
 ||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
@@ -70431,6 +70431,7 @@ sss.xxx##.fel-item
 tuberel.com##.fel-list
 javfor.tv##.fel-playclose
 hotmovs.com,thegay.com##.fiioed
+homemoviestube.com##.film-item:not(#showpop)
 sexyandfunny.com##.firstblock
 ah-me.com,gaygo.tv##.flirt-block
 asiangaysex.net,gaysex.tv##.float-ck
@@ -94378,7 +94379,6 @@ omni.soundestlink.com$image
 ||adtarget.me^$third-party
 ||adtector.com^$third-party
 ||adtelligence.de^$third-party
-||adtrackers.net^$~script,third-party
 ||adultblogtoplist.com^$third-party
 ||adunity.com^$third-party
 ||advalo.com^$third-party
