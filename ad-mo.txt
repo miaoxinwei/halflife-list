@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: es0sRZ1emZeHnZvka32hKw
+! Checksum: wGS1BV83hIKs6Ij5jFNKPQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202403200217
-! Last Modified: 2024年03月20日 02:17
+! Version: 202403200901
+! Last Modified: 2024年03月20日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -952,6 +952,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ban728.html
 /ban728.php
 /ban728x90.
+/banman/ad.aspx
 /banner-ad-
 /banner-ad.$~script
 /banner-ad/*
@@ -1296,41 +1297,25 @@ pan.baidu.com##.upload-bar.global-clearfix
 /MPUAdHelper.js
 /mydirtyhobby.$domain=~mydirtyhobby.com|~mydirtyhobby.de|~mydirtyhobby.to
 /mysimpleads/mysa_output.php
-/nad_exo.
-/native-ad-
-/native-ads-
-/native_ad/*
 /nativead.
 /nativead/*
-/nativeads.
+/nativeads-v2.js
+/nativeads.js
 /nativeads/*
 /nativebanner/ane-native-banner.js
-/nb/frot_lod.
+/nb/frot_lod.js
 /neverblock/*
 /new/floatadv.js
-/newad.
-/newad?
-/newads.
-/newaff/float
+/ntv.json?key=
 /nugg.min.js
 /Nuggad?
 /nwm-fcn.min.js
 /nwm-pw2.min.js
 /nxst-advertising/dist/htlbid-advertising.min.js
-/oas-config.
-/oas_ad.
-/oas_ad_
-/oas_ads.
-/oascentral.$~object
-/oascentral/*
-/oasconfig/*
-/oiopub-direct/*$~stylesheet
-/oncc-ad.
-/openads.
+/oiopub-direct/js.php
+/oncc-ad.js
+/openads.js
 /openads/*
-/overlay-ad.
-/overlay_ad_
-/overlayads.
 /owa.MessageAdList.
 /p2/ads/*
 /p2ads/*
@@ -1354,7 +1339,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /pagepeel.
 /pagepeel/*
 /pagepeelpro.js
-/parking_caf_
 /partner-ad-
 /Partner_Ad/*
 /partner_ads/*
@@ -1841,13 +1825,14 @@ pan.baidu.com##.upload-bar.global-clearfix
 /wp-content/uploads/useful_banner_manager_banners/*
 /wp-popup-scheduler/*
 /wp-srv/ad/*
-/wp_pro_ad_system/*
-/wpadgu-
+/wp_pro_ad_system/templates/*
+/wpadgu-adblock.js
+/wpadgu-clicks.js
+/wpadgu-frontend.js
 /wpbanners_show.php
-/wppas.
-/wppas/*
-/wppas_
-/wpx-bannerize_
+/wppas.min.css
+/wppas.min.js
+/wpxbz-theme.js
 /wrapper/ads/*
 /www/ad/*
 /www/ad_
@@ -1856,12 +1841,8 @@ pan.baidu.com##.upload-bar.global-clearfix
 /www/deliverx/*
 /www/delivery/*
 /www/js/ad/*
-/wwwad.
-/wwwads.
 /xads.php
-/xadvertisement.
-/xclicks.
-/xpopunder.
+/xpopunder.js
 /xpopup.js
 /yhs/ads?
 /yume_ad_library_
@@ -1885,6 +1866,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 ://banners.$third-party
 ://news-*/process.js?id=$third-party
 ://news-*/v2-sw.js$third-party
+://oascentral.
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
 =half-page-ad&
@@ -1959,11 +1941,6 @@ _bannerads_
 _bottom_ads.
 _bottom_ads_
 _commonAD.
-_companionad.
-_content_ad.
-_custom_ad.
-_custom_ad_
-_externalad.
 _footer_ad_
 _google_ads.
 _gpt_ads.
@@ -1993,7 +1970,6 @@ _small_ad.
 _square_ad.
 _sticky_ad.
 _StickyAd.
-_survey_ad_
 _text_ads.
 _textads.
 _top_ad.
@@ -64281,6 +64257,7 @@ allthetests.com,bom.gov.au,cadenaazul.com,lapoderosa.com###advertising
 offidocs.com###adxx
 thebugle.co.za###adz
 apkonline.net###adzz
+hindustantimes.com###affiliate-shop-now
 purplepainforums.com,snow-forecast.com###affiliates
 exportfromnigeria.info###affs
 slickdeals.net###afscontainer
@@ -73773,6 +73750,13 @@ newduba.cn###jq_youxi
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||sosakk.xyz^
+||mnifdlax.top^
+||urqwzbu.cn^
+||vflorp.xyz^
+||sdfsad562.xyz^
+||xedpzh.xyz^
+||qvnbjjd.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -139034,6 +139018,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||kameleoon.io/ip^$domain=welt.de
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
+@@||rackcdn.com/stf.js$script,domain=20min.ch
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||showheroes.com/publishertag.js$domain=rollingstone.de
