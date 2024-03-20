@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2W62sEPCscdecNCcq6ALGg
+! Checksum: Q2i+PLKw3QK4AK5zE4hYcA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403201417
-! Last Modified: 2024年03月20日 14:17
+! Version: 202403202025
+! Last Modified: 2024年03月20日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2229,6 +2229,7 @@ newduba.cn###jq_youxi
 ||sdfsad562.xyz^
 ||xedpzh.xyz^
 ||qvnbjjd.xyz^
+||dndmygr.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -32765,6 +32766,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cvs.com/tnadstlinj.js
 ||cwt.citywire.info^
 ||d.skk.moe^
+||d401.dollartree.com^
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
@@ -32807,6 +32809,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dls-account.di.atlas.samsung.com^
 ||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
 ||docs.github.com/events
+||dollartree.com/ccstoreui/*/analytics/
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
 ||dot.nonolive.com^
@@ -32892,6 +32895,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
 ||expedia.*/cl/
+||experiences.wyng.com/api/*/event-api/events
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
@@ -33133,6 +33137,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kohls.com/test_rum_nv?
 ||komoot.*/api/t/event
 ||kompass.com/logAdvertisements
+||kroger.com/clickstream/
 ||kudoslabs.gg/track/
 ||l.usaa.com/e/v1/
 ||lastminute.com/ose/processEvent
