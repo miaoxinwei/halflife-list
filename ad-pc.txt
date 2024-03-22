@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Gm5ANoBgW/J5JIJH7+/7YQ
+! Checksum: aX84OrDYxd0II2OzzDo92g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202403220901
-! Last Modified: 2024年03月22日 09:01
+! Version: 202403221417
+! Last Modified: 2024年03月22日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1888,7 +1888,6 @@ tieba.baidu.com##.tuijian-wrap
 /wp-bannerize-
 /wp-bannerize.
 /wp-bannerize/*
-/wp-banners/*$~image
 /wp-content/ads/*
 /wp-content/mbp-banner/*
 /wp-content/plugins/amazon-auto-links/*
@@ -55990,7 +55989,6 @@ browsershots.org#@#.advert_area
 ||statsperformdev.com^$third-party
 ||stocker.bonnint.net^$third-party
 ||stratos.blue^$third-party
-||streamate.com^$third-party
 ||streamdefence.com^$third-party
 ||strikead.com^$third-party
 ||strossle.com^$third-party
@@ -71114,7 +71112,7 @@ youpornzz.com##a[href*="/videoads.php?"]
 pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
-adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,devporn.net,f95zone.to,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,oncam.me,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
+adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,devporn.net,f95zone.to,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,muchohentai.com#,myporn.club,oncam.me,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
 tsmodelstube.com##a[href="https://tsmodelstube.com/a/tangels"]
 bravotube.net##a[href^="/cs/"]
 sexhd.pics##a[href^="/direct/"]
@@ -71151,6 +71149,7 @@ pornlizer.com##a[href^="https://tezfiles.com/store/"]
 allaboutcd.com##a[href^="https://thebreastformstore.com/"]
 thotimg.xyz##a[href^="https://thotsimp.com/"]
 oncam.me##a[href^="https://torguard.net/aff.php"]
+muchohentai.com##a[href^="https://trynectar.ai/"]
 forums.socialmediagirls.com##a[href^="https://viralporn.com/"][href*="?utm_"]
 oncam.me##a[href^="https://www.clickadu.com/?rfd="]
 myreadingmanga.info##a[href^="https://www.dlsite.com/"]
@@ -94418,6 +94417,7 @@ omni.soundestlink.com$image
 ||statisticplatform.com^
 ||statisticsplatform.com^
 ||stats.rip^
+||sturton-lation.com^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -102608,6 +102608,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||massivecams.com/api/metrics
 ||mat6tube.com/stats
 ||mcc-tags.cisco.com^
+||mcs-ie.tiktokw.eu^
 ||mcs-va.tiktokv.com^
 ||mcs.tiktokv.us^
 ||mcs.us.tiktokv.com^
@@ -102781,6 +102782,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
 ||pm.geniusmonkey.com^
+||pog.com^$ping
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poptropica.com/brain/track.php?
@@ -102995,6 +102997,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamadblocker.com/stat/
 ||streamadblocker.store/stat/
 ||streamadblocker.xyz/stat/
+||streamate.com/api/metrics
 ||streamlabs.com/web/data/ping
 ||streamnoads.com/stat/
 ||streamstats.prd.dlive.tv^
@@ -138857,7 +138860,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|login.kroton.com.br
-@@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair.resmed.com
+@@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|injora.com|myair.resmed.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
