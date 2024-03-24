@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: puAaOqF4SpGjIERqCWXSwg
+! Checksum: IAhU0zRHAclYQIDZAr7Sig
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202403240215
-! Last Modified: 2024年03月24日 02:15
+! Version: 202403240907
+! Last Modified: 2024年03月24日 09:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -737,7 +737,7 @@ tieba.baidu.com##.tuijian-wrap
 /adlib.min.js
 /adlog.php
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.line.biz|~admanager.opera.com|~admanager.roku.com|~admanager.sevio.com
-/admanager/*$~object,domain=~admanager.line.biz|~blog.google|~konograma.com|~sevio.com
+/admanager/*$~object,domain=~admanager.line.biz|~blog.google|~sevio.com
 /admgr.
 /admitad.js
 /adModule.
@@ -890,7 +890,7 @@ tieba.baidu.com##.tuijian-wrap
 /adserv.
 /adserve/*
 /adserver-
-/adserver.$~xmlhttprequest,domain=~konograma.com
+/adserver.$~xmlhttprequest
 /adserver1-
 /adserver1.
 /adserver2.
@@ -1611,23 +1611,20 @@ tieba.baidu.com##.tuijian-wrap
 /rightad.
 /rightad/*
 /rightads.$domain=~rightads.co.uk
-/rolloverads/*
 /rotatingad.
 /rotationad.
 /s.ashx?btag
 /sbar.json?key=
 /sc-tagmanager/*
-/script/aclib.js$third-party
+/script/aclib.js
 /script/java.php?$xmlhttprequest
-/script/nasu.js$third-party
-/script/nrsu.js$third-party
-/script/nwsu.js$third-party
+/script/nwsu.js
 /script/wait.php?*=$xmlhttprequest
+/scriptFileV2.js
 /scripts/afc/*
 /scripts/chatur.js
 /sdk/push_web/?zid=
 /searchad.
-/secureads.
 /select_adv?
 /servead/request/*
 /serveads.php
@@ -1637,15 +1634,11 @@ tieba.baidu.com##.tuijian-wrap
 /servlet/view/*
 /set_adcode?
 /sft-prebid.js
-/show-ad.
-/show_ad.
+/show-ad.js
+/show_ad.js
 /show_ad?
-/show_ad_
-/show_ads_
-/showadvert.
-/showadvertising.
 /showban.asp?
-/showbanner.
+/showbanner.js
 /side-ad-
 /side-ad.
 /side-ads-
@@ -74166,6 +74159,13 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||lgtpdt.xyz^
+||rhzvlcu.xyz^
+||yyttmyy.cn^
+||oxkyaq.xyz^
+||tnvnnn.xyz^
+||jtyusia.top^
+||pimg2023.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zailgrae.com^
@@ -82922,6 +82922,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||imgtp.com/2024/03/17/LXqznsUs.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
