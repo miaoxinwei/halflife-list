@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Jm6v4PMY9gv4xfDCMLgboA
+! Checksum: Xdywytl006p9TsGBGd/rmw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202403290902
-! Last Modified: 2024年03月29日 09:02
+! Version: 202403291417
+! Last Modified: 2024年03月29日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2319,6 +2319,10 @@ newduba.cn###jq_youxi
 ||xwvnhe.cn^
 ||elphhrj.xyz^
 ||esqhsm.xyz^
+||hsutav.icu^
+||88lm08.com^
+||6slb0.cyou^
+||beyers.cn^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
@@ -16668,6 +16672,7 @@ che168.com#@#[data-adid]
 bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
+android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
