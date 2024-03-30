@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pvRb4C89YhWcPS0e/nIwFg
+! Checksum: sb4rH9XehC87lkHSb6TSTA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403300859
-! Last Modified: 2024年03月30日 08:59
+! Version: 202403301416
+! Last Modified: 2024年03月30日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2331,6 +2331,7 @@ newduba.cn###jq_youxi
 ||kfpnqug.cn^
 ||qrovwu.xyz^
 ||rofmjd.xyz^
+||qdtzbbh.xyz^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
@@ -2340,6 +2341,12 @@ newduba.cn###jq_youxi
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
+||xylhwdu.com^
+||hfbfbvmjdmxc.com^
+||byuwkbv.top^
+||pseudonym.cn^
+||utxmb.cn^
+||lbyx.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -30361,6 +30368,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdiapi.com/reporter/
+||sdk.51.la^$third-party
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||searchcompletion.com/BannerHandler.ashx
