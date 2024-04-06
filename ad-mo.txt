@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XuMOjwDhgadn458/QOsISg
+! Checksum: gkEf9rgzAhquxZXbe/rzWA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404060901
-! Last Modified: 2024年04月06日 09:01
+! Version: 202404061417
+! Last Modified: 2024年04月06日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1155,11 +1155,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /images/adv/*
 /images/adz/*
 /images2/Ads/*
-/imfloat.
 /img/ad/*
 /img/aff/*
 /img_ad/*
-/impop.
 /in/show/?mid=$third-party
 /include/ad/*
 /include/ad_
@@ -1167,19 +1165,14 @@ pan.baidu.com##.upload-bar.global-clearfix
 /index-ad-
 /index-ad.
 /index_ad/*
-/index_ads.
+/index_ads.js
 /infinity.js.aspx?
 /inhouse_ads/*
-/injectad.
-/inline_ad.
-/inline_ad_
-/inline_ads.
-/InlineAds.
+/inlineads.aspx
 /insertads.js
 /internAds.css
 /Javascripts/SBA-
-/jquery-ads.
-/jquery.ad.
+/jquery.ad.js
 /jquery.adi.js
 /jquery.adx.js
 /jquery.dfp.js
@@ -1203,16 +1196,13 @@ pan.baidu.com##.upload-bar.global-clearfix
 /lazyload.ads?
 /left_ads.js
 /leftad.
-/leftad_
 /leftads.
 /legion-advertising-atlasastro/*
 /li.blogtrottr.com/imp?
 /link?z=$subdocument
-/linkad2.
-/linkads.
+/linkad2.jpg
 /livejasmin.$domain=~livejasmin.com
-/livejasmin2.
-/livejasmin_
+/livejasmin2.jpg
 /livejasminpopupunder.
 /localads.aspx
 /log_ad?
@@ -1346,7 +1336,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /plugins/wp125/*$~stylesheet
 /plugins/wp_actionpop/*
 /plugins_ads_
-/pm_ads/*
 /poll-ad-
 /pop-under.
 /pop_8_2.js
@@ -1360,11 +1349,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /popunder-
 /popunder/*
 /popunder1.
-/popunder1_
 /popunder2.
-/popunder4.
-/popunder5.
-/popunder7.
+/popunder5.js
+/popunder7.min.js
 /popunder?
 /popunder_
 /popunderjs/*
@@ -1393,9 +1380,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /proxyadcall?
 /pub/ad/*
 /pub/ads/*
-/pubad.$domain=~pubad.gov.lk
-/pubads.
-/pubads_
 /public/ad/*
 /public/ads/*
 /public/ads_
@@ -1411,15 +1395,9 @@ pan.baidu.com##.upload-bar.global-clearfix
 /pustrck.js
 /radioAdEmbed.
 /radioAdEmbedGPT.
-/railad.
-/rcom-ads-
-/rcom-ads.
-/rcom-video-ads.
-/rcsad_
-/rdm-ad-
-/RdmAdFeed.
+/railad.jpg
+/RdmAdFeed.js
 /rdrr/renderer.js
-/re-ads-
 /realmedia/ads/*
 /reclama/*
 /redirect/?spot_id=
@@ -1427,11 +1405,10 @@ pan.baidu.com##.upload-bar.global-clearfix
 /reklam.$domain=~github.com|~reklam.com.tr
 /reklam/*$domain=~cloudflare.com|~github.com|~reklam.com.tr
 /reklama/*$domain=~github.com
-/reklama1.
+/reklama1.js
 /reklama2.
 /reklama3.
 /reklama4.
-/reklama5.$domain=~reklama5.mk
 /reklame/*
 /related-ads.
 /relatedads.
@@ -1439,17 +1416,15 @@ pan.baidu.com##.upload-bar.global-clearfix
 /remove_ads.
 /ren.gif?
 /report_ad.js
-/resources/ad.
 /resources/ads/*
-/resources/ads_
 /responsive/ad_
 /responsive_ads.js
 /right-ad-
 /right_ad.
 /right_ad_
 /right_ads.
-/rightad.
-/rightads.$domain=~rightads.co.uk
+/rightad.js
+/rightads.js
 /rotatingad.
 /s.ashx?btag
 /sbar.json?key=
@@ -1702,6 +1677,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 ://promo.$~media,third-party,domain=~myshopify.com|~promo.com|~shopifycloud.com|~slidely.com
 ://pt.*?psid=$third-party
 ://uads.$third-party,xmlhttprequest
+=bT1zdXY1JnI9$third-party,xmlhttprequest
 =half-page-ad&
 ?ab=1&zoneid=
 ?adspot_
@@ -36786,6 +36762,7 @@ browsershots.org#@#.advert_area
 ||ksehinkitw.hair^
 ||kshzlyvbaaa.com^
 ||ksnbiepnvjdi.com^
+||ksnbtmz.com^
 ||kssvsjfhxpzwfd.com^
 ||kstjqjuaw.xyz^
 ||kstvhknmhfppbf.com^
@@ -56821,6 +56798,7 @@ browsershots.org#@#.advert_area
 ||nexeps.com^$third-party
 ||nextclick.pl^$third-party
 ||nextmillennium.io^$third-party
+||nextmillmedia.com^$third-party
 ||nextoptim.com^$third-party
 ||nitmus.com^$third-party
 ||nitropay.com^$third-party
@@ -65454,6 +65432,7 @@ tweaktown.com###DesktopTop
 newser.com###DivStoryAdContainer
 stripes.com###FeatureAd
 esports.gg,howlongagogo.com,neatorama.com###FreeStarVideoAdContainer
+esports.gg###FreeStarVideoAdContainer_VCT
 titantv.com###GridPlayer
 appatic.com,gamescensor.com###HTML2
 fanlesstech.com###HTML2 > .widget-content
@@ -67149,6 +67128,7 @@ pickmypostcode.com##.aside-right.aside
 goal.com##.aside_ad-rail__cawG6
 decrypt.co##.aspect-video
 theadvocate.com##.asset-breakout-ads
+macleans.ca##.assmbly-ad-block
 releasestv.com##.ast-above-header-wrap
 animalcrossingworld.com##.at-sidebar-1
 guidingtech.com##.at1
@@ -75355,6 +75335,13 @@ newduba.cn###jq_youxi
 ||nuhgpx.xyz^
 ||ojvpigx.xyz^
 ||utkauo.xyz^
+||zekzoh.icu^
+||naihyvz.cn^
+||555bbb333bbb.com^
+||adzdgr-wadd2-f1d.com^
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
+||m1170.top^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -104035,6 +104022,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sid.nordstrom.com^
 ||silvergames.com/div/g.php?
 ||simplelogin.io/p/api/event
+||sjc.cloud.optable.co^
 ||skyscanner.*/slipstream/view
 ||slack-edge.com/bv1-10/slack_beacon.
 ||slack.com/beacon/
