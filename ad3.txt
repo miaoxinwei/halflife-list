@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y/7asWqIuffEsMOUa3EHWw
+! Checksum: PKomA0aiIE7Jt9MJ8MIjiQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202404060217
-! Last Modified: 2024年04月06日 02:17
+! Version: 202404060901
+! Last Modified: 2024年04月06日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2416,6 +2416,11 @@ newduba.cn###jq_youxi
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
+||q02orc.cn^
+||enalzlw.top^
+||nuhgpx.xyz^
+||ojvpigx.xyz^
+||utkauo.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
@@ -33238,6 +33243,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
+||oppo.com/api/country
 ||optimizely.com/js/geo.js
 ||optimizely.techtarget.com^
 ||oracle.com/visitorinfo/
@@ -69026,6 +69032,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||stats.tunt.lv^
 ||tanks.lv/top/stats.php
 ||15min.lt/cached/tgif$~third-party
+||g.delfi.lt/g.js
 ||lrytas.lt/counter/
 ||click.vgnett.no^
 ||data.nrk.no^
