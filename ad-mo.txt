@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A8ZLuEnj1jf4Bhhn58xrqA
+! Checksum: gV9uCQzeXoVl3wWCELsOgQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404101418
-! Last Modified: 2024年04月10日 14:18
+! Version: 202404102026
+! Last Modified: 2024年04月10日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -75564,6 +75564,10 @@ newduba.cn###jq_youxi
 ||otmebdr.cn^
 ||unalzlt.top^
 ||lvphbj.xyz^
+||idffhq.cn^
+||szpwf.cn^
+||666bbb222www.com^
+||cowm199.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -95736,6 +95740,7 @@ omni.soundestlink.com$image
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||srmdata-eur.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
@@ -100026,7 +100031,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
-||cmp.datasign.co^
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnnx.io^*/tracker.js
