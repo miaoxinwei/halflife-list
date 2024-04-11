@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6gPujIchuDlRfsX0AP5q7A
+! Checksum: wxEdOyTi4D+BXSUPmMjifg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404111418
-! Last Modified: 2024年04月11日 14:18
+! Version: 202404112026
+! Last Modified: 2024年04月11日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53875,6 +53875,7 @@ browsershots.org#@#.advert_area
 ||weestuch.com^
 ||weethery.com^
 ||weewowshrinky.com^
+||wefoonsaidoo.com^
 ||weftsgeogeny.com^
 ||wegastroky.com^
 ||wegeeraitsou.xyz^
@@ -70891,6 +70892,7 @@ releasestv.com##div[class^="astra-advanced-hook-"]
 onlineradiobox.com##div[class^="banner-"]
 technical.city##div[class^="banner_"]
 historycollection.com##div[class^="cis_add_block"]
+filehorse.com##div[class^="dx-"][class$="-1"]
 astro.com##div[class^="goad"]
 groovypost.com##div[class^="groov-adsense-"]
 imagetopdf.com,pdfkit.com,pdftoimage.com,topdf.com,webpconverter.com##div[class^="ha"]
