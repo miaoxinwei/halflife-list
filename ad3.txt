@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9XK630UR0gfsIfzh84pJgQ
+! Checksum: M3WlsvXAxM7xQCy1L7BOUw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202404140918
-! Last Modified: 2024年04月14日 09:18
+! Version: 202404141554
+! Last Modified: 2024年04月14日 15:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2493,6 +2493,7 @@ newduba.cn###jq_youxi
 ||hyuwkbu.top^
 ||ulktyi.xyz^
 ||qtoidch.icu^
+||szpzk.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -32887,6 +32888,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||error.fc2.com/blog/$image
 ||error.fc2.com/blog3/$script
 ||errorreports.couponcabin.com^
+||espy.boehs.org^
 ||et.nytimes.com^
 ||et.tidal.com^
 ||etsy.com/bcn/beacon
@@ -33100,6 +33102,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imf.org/Assets/IMF/js/SocialScript.js
 ||imgur.com/albumview.gif?
 ||imgur.com/imageview.gif?
+||improve.tempest.com^
 ||indeed.com/cmp/_rpc/flog
 ||indeed.com/m/rpc/frontendlogging
 ||indeed.com/rpc/$~xmlhttprequest
@@ -33781,6 +33784,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||traceparts.com/logs
 ||track-visit.monday.com^
 ||track.americansongwriter.com^
+||track.bestpornsites.tv^
 ||track.dictionary.com^
 ||track.eurogirlsescort.com^
 ||track.kueez.com^
@@ -69617,6 +69621,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
+||fnvma.milanuncios.com^
 ||g.siliconweek.es^
 ||genial.guru/metric-collector
 ||geo.emol.cl^
