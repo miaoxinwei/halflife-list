@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WIcFeX/TCcUnYmKEoMj6LA
+! Checksum: cwkyKU0fydWdVmPWxDg98A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202404162026
-! Last Modified: 2024年04月16日 20:26
+! Version: 202404170216
+! Last Modified: 2024年04月17日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -66816,6 +66816,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 ||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:
 .com./$popup,domain=pornhub.com
 |http*://*?$popup,third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
+||boyfriendtv.com/out/bg-$popup
 ||clicknplay.to/api/$popup
 ||icepbns.com^$popup,domain=iceporn.com
 ||livejasmin.com/pu/$popup
@@ -67931,7 +67932,6 @@ ultrabookreview.com###zzifhome
 ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
 androidauthority.com##.--_-___Yb
-androidauthority.com##.--_-___Zb
 talkingpointsmemo.com##.--span\:12.AdSlot
 bigissue.com##.-ad
 gamejolt.com##.-ad-widget
@@ -68101,6 +68101,7 @@ tumblr.com##.Yc2Sp
 desmoinesregister.com##.ZJBvMP__ZJBvMP
 getpocket.com##.\'syndication-ad\'
 olympics.com##.\-partners
+androidauthority.com##._--_-___kb
 deviantart.com##._15LLi
 motortrend.com##._1Ib8n
 swarajyamag.com##._1eNH8
@@ -71248,6 +71249,7 @@ vsbattles.com##.vsb_ad
 vsbattles.com##.vsb_sticky
 notateslaapp.com##.vtwjhpktrbfmw
 wral.com##.vw3Klj
+horoscopes.astro-seek.com##.vyska-sense
 androidpolice.com##.w-pencil-banner
 wsj.com##.w27771
 userscript.zone##.w300
@@ -76330,6 +76332,7 @@ newduba.cn###jq_youxi
 ||azyuuk.xyz^
 ||b37r5.cyou^
 ||batijian.com^
+||baucraell.com^
 ||bba9603w.com^
 ||bdjfea.cn^
 ||bdtdat652.shop^
@@ -76373,6 +76376,7 @@ newduba.cn###jq_youxi
 ||cdrvkdni.xyz^
 ||cdybwjpa.xyz^
 ||cfrtdmb.xyz^
+||cfugrnc.icu^
 ||chayassa.com^
 ||cherylssb.com^
 ||cijianggun.com^
@@ -76520,6 +76524,7 @@ newduba.cn###jq_youxi
 ||hozatr.xyz^
 ||hptyp.icu^
 ||hrnkdr.xyz^
+||hspdiom.cn^
 ||hsutav.icu^
 ||htyusiu.top^
 ||hubgets.cn^
@@ -76545,6 +76550,7 @@ newduba.cn###jq_youxi
 ||izalflh.cn^
 ||izmiua.xyz^
 ||jbmfldt.cn^
+||jdbeht.xyz^
 ||jedlnn.xyz^
 ||jflwhf.xyz^
 ||jgblvt.xyz^
@@ -76665,6 +76671,7 @@ newduba.cn###jq_youxi
 ||onifdlak.top^
 ||oojjsa.com^
 ||oppnfev.xyz^
+||orbnarb.xyz^
 ||osafsr.xyz^
 ||osisk.com^
 ||ostjpig.cn^
@@ -76760,6 +76767,7 @@ newduba.cn###jq_youxi
 ||shnpetdn185.shop^
 ||shuocyw.cn^
 ||sjaaquj.cn^
+||sjgsgy.xyz^
 ||skdncksklsv.com^
 ||skfda5.com^
 ||slcmvgr.icu^
@@ -76786,6 +76794,7 @@ newduba.cn###jq_youxi
 ||szmpy.cn^
 ||szmwr.cn^
 ||szmyl.cn^
+||szpbh.cn^
 ||szpnz.cn^
 ||szptp.cn^
 ||szpwf.cn^
@@ -76906,6 +76915,7 @@ newduba.cn###jq_youxi
 ||xwvnhe.cn^
 ||xxle.cn^
 ||xylhwdu.com^
+||xzrhvv.xyz^
 ||ybrrvck.xyz^
 ||ycqbgm.xyz^
 ||yddjmpjo.xyz^
@@ -76931,14 +76941,6 @@ newduba.cn###jq_youxi
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
-||hspdiom.cn^
-||sjgsgy.xyz^
-||cfugrnc.icu^
-||jdbeht.xyz^
-||orbnarb.xyz^
-||baucraell.com^
-||xzrhvv.xyz^
-||szpbh.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -92034,19 +92036,19 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
+/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
-/exads-adblock-$image
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
 ||18-comic.work/media/albums/*?$media
 ||18comic.*/media/albums/*?$media
 !#2
@@ -96879,7 +96881,6 @@ omni.soundestlink.com$image
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
-||botsrv2.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
 ||bringmethehats.com^
@@ -140919,7 +140920,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||9game.cn/stat/
 ||a.itsmore.cn^
 ||ac.dun.163.com^
-||ac.dun.163yun.com^
+||ac.dun.163yun.com/v2/collect?
 ||accwww9.53kf.com^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
@@ -144492,7 +144493,7 @@ huya.com##a[href^="https://wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
 www.huya.com##.sidebar-banner
 !www.huya.com##.ab-main
-www.huya.com###public-screen-ab
+www.huya.com##.duya-header-right,#public-screen-ab
 ||business.msstatic.com/advertiser/$image
 ||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
 ||live-cover.msstatic.com/huyalive/*.jpg?$image
