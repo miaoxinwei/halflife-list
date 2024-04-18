@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fpTQzjC3IPA2qgrcixwUsA
+! Checksum: WLR0BQW92eeqmScVUS8+/w
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202404181419
-! Last Modified: 2024年04月18日 14:19
+! Version: 202404182026
+! Last Modified: 2024年04月18日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2984,6 +2984,7 @@ newduba.cn###jq_youxi
 ||vkdgdt.xyz^
 ||rbfxoex.xyz^
 ||gcomwx.icu^
+||szftg.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
@@ -11744,8 +11745,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||xiaoweixiaoshuo.com/ad/
+||excelhome.net/js/banner-
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+boylov.xyz,boylove.cc,boyloves.fun##.div_sticky2
+boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
@@ -17501,6 +17506,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||9zvip.net^$elemhide
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||abchina.com^*ad
+@@||morosedog.gitlab.io^$generichide
 @@||aboluowang.com^$generichide
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
