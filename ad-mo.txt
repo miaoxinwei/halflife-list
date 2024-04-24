@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oXj1AUZwACxWlW24Aq7Mlg
+! Checksum: 8nCyG1jt1L/MBTJlTh6/Vg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202404242031
-! Last Modified: 2024年04月24日 20:31
+! Version: 202404250217
+! Last Modified: 2024年04月25日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -19718,6 +19718,7 @@ browsershots.org#@#.advert_area
 ||adsrv.wtf^
 ||adstarget.net^
 ||adstargets.com^
+||adstean.com^
 ||adstico.io^
 ||adstook.com^
 ||adstracker.info^
@@ -36222,6 +36223,7 @@ browsershots.org#@#.advert_area
 ||jrtqaliyucgpaes.com^
 ||jrvrkzrbkqaoz.top^
 ||jrvrkzrbkqqob.top^
+||jrvrkzrbkqqqj.top^
 ||jryymvudjqlraa.com^
 ||js-check.com^
 ||js.j8jp.com^
@@ -46915,6 +46917,7 @@ browsershots.org#@#.advert_area
 ||rgbvgxfcp.xyz^
 ||rgbvncnqzlvwr.com^
 ||rgcxmzrmcvbxem.com^
+||rgddist.com^
 ||rgentssep.xyz^
 ||rgjlpgkzagf.com^
 ||rglxzqlqcp.com^
@@ -48317,6 +48320,7 @@ browsershots.org#@#.advert_area
 ||serversoursmiling.com^
 ||serverssignshigher.com^
 ||servetag.com^
+||servetean.site^
 ||servetraff.com^
 ||servg1.net^
 ||servicegetbook.net^
@@ -54126,6 +54130,7 @@ browsershots.org#@#.advert_area
 ||vptzqnjwguap.com^
 ||vpumfeghiall.com^
 ||vpwhhtpwhmd.com^
+||vpwyehsh.com^
 ||vqagwoaetsahu.com^
 ||vqcjmtorgexlxpg.xyz^
 ||vqcuzypju.com^
@@ -54823,6 +54828,7 @@ browsershots.org#@#.advert_area
 ||whistlingvowel.com^
 ||whiteaccompanypreach.com^
 ||whitenoisenews.com^
+||whitepark9.com^
 ||whittenchorded.com^
 ||whizduly.com^
 ||whizzerknucks.com^
@@ -58918,6 +58924,7 @@ browsershots.org#@#.advert_area
 ||adspredictiv.com^$popup
 ||adspyglass.com^$popup
 ||adsrv4k.com^$popup
+||adstean.com^$popup
 ||adstracker.info^$popup
 ||adstreampro.com^$popup
 ||adsupply.com^$popup
@@ -60224,6 +60231,7 @@ browsershots.org#@#.advert_area
 ||haveflat.com^$popup
 ||havegrosho.com^$popup
 ||hazoopso.net^$popup
+||hbloveinfo.com^$popup
 ||hdcommunity.online^$popup
 ||headirtlseivi.org^$popup
 ||headlightgranulatedflee.com^$popup
@@ -61784,6 +61792,7 @@ browsershots.org#@#.advert_area
 ||servehub.info^$popup
 ||serverfritterdisability.com^$popup
 ||serversmatrixaggregation.com^$popup
+||servetean.site^$popup
 ||servicetechtracker.com^$popup
 ||serving-passthrough.com^$popup
 ||serving-sys.com^$popup
@@ -61965,6 +61974,7 @@ browsershots.org#@#.advert_area
 ||statsmobi.com^$popup
 ||statueofthe.info^$popup
 ||stawhoph.com^$popup
+||stemboastfulrattle.com^$popup
 ||stenadewy.pro^$popup
 ||sthoutte.com^$popup
 ||stickervillain.com^$popup
@@ -62611,6 +62621,7 @@ browsershots.org#@#.advert_area
 ||whistledprocessedsplit.com^$popup
 ||whistlingbeau.com^$popup
 ||whitenoisenews.com^$popup
+||whitepark9.com^$popup
 ||whodouth.net^$popup
 ||wholedailyjournal.com^$popup
 ||wholefreshposts.com^$popup
@@ -68208,7 +68219,7 @@ coingraph.us,filext.com##.a
 startpage.com##.a-bg
 rumble.com##.a-break
 abcya.com##.a-leader
-chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
+chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
 abcya.com##.a-skyscraper
 krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
@@ -72106,6 +72117,7 @@ aliexpress.com,aliexpress.us##div[data-spm="seoads"]
 ecosia.org##div[data-test-id="mainline-result-ad"]
 debenhams.com##div[data-test-id^="sponsored-product-card"]
 investing.com##div[data-test="ad-slot-visible"]
+symbaloo.com##div[data-test="homepageBanner"]
 alternativeto.net##div[data-testid="adsense-wrapper"]
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##div[data-testid="boosted-product-recommendations"]
 twitter.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
@@ -76459,6 +76471,8 @@ newduba.cn###jq_youxi
 ||88lm09.com^
 ||88lm10.com^
 ||88lm11.com^
+||88lm12.com^
+||88lm13.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
 ||999bb222ww.com^
@@ -76802,6 +76816,7 @@ newduba.cn###jq_youxi
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||meqanhm.icu^
+||miningzhizhong.top^
 ||misjgy.xyz^
 ||mldzwmt.xyz^
 ||mlhtr.cn^
@@ -76863,6 +76878,7 @@ newduba.cn###jq_youxi
 ||oweeiyw.icu^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
+||oyuwkbk.top^
 ||ozhmig.cn^
 ||p04qzl.cn^
 ||p0v2ni.cn^
@@ -76916,6 +76932,7 @@ newduba.cn###jq_youxi
 ||qtyusiy.top^
 ||qusrow.xyz^
 ||qvnbjjd.xyz^
+||qvonje.cn^
 ||qw9cu.cyou^
 ||qyuwkby.top^
 ||qzalsk.xyz^
@@ -76969,6 +76986,7 @@ newduba.cn###jq_youxi
 ||snalzlb.top^
 ||snifdlab.top^
 ||soffersk.com^
+||sogoks.xyz^
 ||sosakk.xyz^
 ||spsfupq.cn^
 ||srwwce.xyz^
@@ -76999,6 +77017,7 @@ newduba.cn###jq_youxi
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||tahznx.xyz^
@@ -77105,6 +77124,7 @@ newduba.cn###jq_youxi
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xedpzh.xyz^
+||xfrahb.xyz^
 ||xgjidt.xyz^
 ||xhbshv.xyz^
 ||xhfxtqt.xyz^
@@ -77138,6 +77158,8 @@ newduba.cn###jq_youxi
 ||ydrvkdni.xyz^
 ||ydwkrbg.cn^
 ||ydybwjpa.xyz^
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
@@ -77145,6 +77167,7 @@ newduba.cn###jq_youxi
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||yvwuesh.icu^
 ||ywhws.cn^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
@@ -77156,16 +77179,6 @@ newduba.cn###jq_youxi
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||xfrahb.xyz^
-||sogoks.xyz^
-||qvonje.cn^
-||yvwuesh.icu^
-||oyuwkbk.top^
-||88lm13.com^
-||88lm12.com^
-||yhdemu368.shop^
-||yhderd69.shop^
-||szpxp.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -91925,20 +91938,20 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
+/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
-/exads-adblock-$image
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##style + div[style="cursor: pointer; position: relative;"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 ||18-comic.work/media/albums/*?$media
 ||18comic.*/media/albums/*?$media
 !#2
