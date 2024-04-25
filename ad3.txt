@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: s+7ZDMN+liFuAOh6qyz58A
+! Checksum: 2XKQM+AsN1NsCMSLNn/baA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202404250905
-! Last Modified: 2024年04月25日 09:05
+! Version: 202404251418
+! Last Modified: 2024年04月25日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2610,6 +2610,8 @@ newduba.cn###jq_youxi
 ||eaezoi.xyz^
 ||lyuwkbl.top^
 ||romiyee.icu^
+||uywoynr.cn^
+||vyrpoe.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -31040,6 +31042,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d1vg5xiq7qffdj.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
+||d1z3r0i09bwium.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
@@ -69107,6 +69110,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
 ||muragon.com/js/normal/gtag-event.js
+||mwed.jp/assets/packs/js/measurements/
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
 ||nhk.or.jp^*/bc.js
 ||nicoad.nicovideo.jp/*/instream/tracking/
