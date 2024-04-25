@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JAXMR7TgaCwkqBn3Ct8jmQ
+! Checksum: OznXFKVPCc0XRL2EHoG4pQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202404250217
-! Last Modified: 2024年04月25日 02:17
+! Version: 202404250905
+! Last Modified: 2024年04月25日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -68717,6 +68717,7 @@ icon-icons.com##.apu-mixed-packs
 chron.com,ctinsider.com,middletownpress.com,mysanantonio.com,seattlepi.com,sfgate.com##.ar16-9
 ajc.com,bostonglobe.com##.arc_ad
 adn.com,businessoffashion.com,irishtimes.com##.arcad-feature
+bloomberglinea.com##.arcad-feature-custom
 1news.co.nz,actionnewsjax.com,boston25news.com,easy93.com,fox23.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsbtv.com,wsoctv.com##.arcad_feature
 theepochtimes.com##.arcanum-widget
 necn.com##.archive-ad__full-width
@@ -73457,6 +73458,7 @@ sunporno.com##.close-invid
 fap-nation.com,fyptt.to,gamegill.com,japaneseasmr.com##.code-block
 tube8.com,tube8.es,tube8.fr##.col-3-lg.col-4-md.col-4
 playvids.com##.col-lg-6.col-xl-4
+taxidrivermovie.com##.col-pfootban
 whoreshub.com##.col-second
 totsantcugat.info##.col-sm-6 > [href="http://totsantcugat.info/wp-content/video.php"]
 hentaiworld.tv##.comments-banners
@@ -73795,6 +73797,7 @@ flyingjizz.com##.sidebar-banner
 pornid.name##.sidebar-holder
 vidxnet.com##.sidebar_banner
 waybig.com##.sidebar_zing
+taxidrivermovie.com##.sidebarban1
 xxxporntalk.com##.sidenav
 myslavegirl.org##.signature
 gayck.com##.simple-adv-spot
@@ -77291,6 +77294,11 @@ newduba.cn###jq_youxi
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
+||fptbdr.xyz^
+||uunfybw.cn^
+||eaezoi.xyz^
+||lyuwkbl.top^
+||romiyee.icu^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -144414,16 +144422,17 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/json/shop/shopInfo
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
+v.qq.com##.video-card-module > .card-wrap
 v.qq.com##.quick_games.quick_item, div.game-switch-ad
-!qq.com##.mod_ad, .txp_ad, .txp_ad_link, .adWrap
 qq.com##+js(json-prune, ads ad material.video)
-!qq.com##+js(no-xhr-if,/trace\.|\/collect/)
-qq.com##+js(no-fetch-if, beacon.)
+v.qq.com##+js(no-fetch-if, /(beacon|trace)\.qq\.com/)
 !qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
 !qq.com##+js(aopr, Beacon.prototype.fail)
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
+iwan-s.video.qq.com
 gdt.qq.com
 cm.l.qq.com
+||mall.video.qq.com/m/activity/h5/$subdocument
 !||l.qq.com/lview?
 ||qq.com/livemsg?
 !||mark.l.qq.com/fcgi-bin/get_video_mark_all?
@@ -144433,11 +144442,6 @@ cm.l.qq.com
 !||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||news.ssp.qq.com/app
-miaozhen.com
-reachmax.cn
-scorecardresearch.com
-tencentmind.com
-xtgreat.com
 bilibili.com##.ad-report, .ad-floor
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
@@ -144511,7 +144515,7 @@ douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
 douyu.com,huya.com##a[href^="https://g.wan."]
 huya.com##a[href^="https://wan."]
 huya.com###hy-ad,#hy-ab,#huya-ab
-www.huya.com##.sidebar-banner
+www.huya.com##.sidebar-banner, a.J_g_resource
 www.huya.com##.duya-header-right,#public-screen-ab
 ||business.msstatic.com/advertiser/$image
 ||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame/$subdocument
