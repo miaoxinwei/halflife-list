@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tCZ5mBi/A/nIdCQ6/oIEWw
+! Checksum: PQbIv5iT1SPxq35kYDV2Qg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202404271419
-! Last Modified: 2024年04月27日 14:19
+! Version: 202404272024
+! Last Modified: 2024年04月27日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -54,7 +54,6 @@ cm.l.qq.com
 ||mall.video.qq.com/m/activity/h5/$subdocument
 !||l.qq.com/lview?
 ||qq.com/livemsg?
-!||mark.l.qq.com/fcgi-bin/get_video_mark_all?
 ||gtimg.com/qqlive/
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
@@ -11048,6 +11047,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zhcw.com##.ycxdZw
+zhcw.com##.yzjggw
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
@@ -18783,12 +18784,12 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com
 @@||libs.baidu.com^$domain=0794.org|12zw.net|1biqu.com|1kans.com|230book.net|23hh.com|23sk.net|23wxx.com|33yq.org|3yt.com|4xiaoshuo.net|52biquge.com|56shuku.info|777zw.net|81book.com|81zw.me|99mk.net|aiwx.info|aixs.la|anshuge.com|baoshuu.com|bequmo.com|bimixsw.com|biqiuge8.cc|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee6.com|biquka.com|biqukt.com|biqutsxs.com|biquzw.info|bodekang.net|bshuku.com|bxwx.live|bxwx.org|damengzhu1.com|gdbzkz.com|gdbzkz.org|hongyeshuzhai.com|ibiquges.com|ibiquges.org|ibiquta.net|ibotaodz.org|imianhuatang.info|ishisetianxia.com|ishubao.org|ivipxs.com|iwurexs.info|ixs.la|jianlaixiaoshuo.com|lewenge.info|liewenn.com|liudatxt.org|paoshu8.com|paoshuzw.com|pksge.com|qianrenge.cc|qishuta.info|qiuyelou.net|qr1234.com|shu008.com|shuhaiwu.com|shumil.co|silukex.com|siluwx.org|sthuojia.org|ttzw.tv|tutengzw.com|u33.cc|wenxuem.com|x23us.me|x81zw.co|xbiquke.com|xdingdian.cc|xiaxs.info|xinxs.la|xquge6.com|xs5200.com|xszww8.net|xuanshu.org|xuessex.com|yqd6.com|yunxs.info|zjsw.org|zzs5.info
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#onemanhua.com
+@@||colamanga.com^$generichide
 $script,third-party,domain=colamanga.com
 @@.com/js/a_d/$domain=colamanga.com
 @@.com/logo/ad.$domain=colamanga.com
 @@||cloudflare.net^$script,domain=colamanga.com
 colamanga.com##iframe[style*="important"]
-colamanga.com#@#.gg_950
 ||colamanga.com/sw.js
 !#Porn
 ###Video-Shunt-Box + .container
@@ -23189,6 +23190,7 @@ m.babytree.com##script + a[class]
 /plog?id
 /plow.lite.js
 /plugins/catman/*
+/plugins/civic-science/js/pixel.js
 /plugins/duracelltomi-google-tag-manager/*
 /plugins/exactmetrics-
 /plugins/nimiq/*$script
@@ -24537,6 +24539,7 @@ omni.soundestlink.com$image
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
+||bouncex.net^
 ||bqstreamer.com^
 ||bringmethehats.com^
 ||briskeagle.io^
@@ -24549,6 +24552,7 @@ omni.soundestlink.com$image
 ||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
+||cdnwidget.com^
 ||ciqtracking.com^
 ||cityrobotflower.com^
 ||ck123.io^
@@ -25288,6 +25292,7 @@ omni.soundestlink.com$image
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
 ||cityadstrack.com^$third-party
+||cityspark.com^$third-party
 ||claritytag.com^$third-party
 ||clarium.io^$third-party
 ||clarivoy.com^$third-party
@@ -25745,6 +25750,7 @@ omni.soundestlink.com$image
 ||getaawp.com^$third-party
 ||getambassador.com^$third-party
 ||getbackstory.com^$third-party
+||getblue.io^$third-party
 ||getblueshift.com^$third-party
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
@@ -29369,7 +29375,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
-||event.getblue.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
@@ -33508,6 +33513,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.y8.com^
 ||t.zulily.com^
 ||t2.hulu.com^
+||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
 ||tags.aljazeera.com^
@@ -33980,6 +33986,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||jimmyjohns.com/Abo2Yc8X/init.js
 ||joann.com/qXTWmr91/init.js
 ||kerastase-usa.com/IZ/PXXiuO7QTJ/init.js
+||kget.com/CvbtpUrj/init.js
 ||kickstarter.com/Uy3R669N/init.js
 ||kiehls.com/IZ/PXG8ATFja1/init.js
 ||kiva.org/r3pNVz1F/init.js
