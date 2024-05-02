@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Hd4fFxMQZTCvDo/UhXZCtQ
+! Checksum: FUai/agORhHpizXLNlZsOg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405020903
-! Last Modified: 2024年05月02日 09:03
+! Version: 202405021419
+! Last Modified: 2024年05月02日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -2370,7 +2370,6 @@ _800x80_
 ###Advertorials
 ###AnchorAd
 ###ArticleContentAd
-###BB1-ad
 ###Banner728x90
 ###BannerAd
 ###BannerAds
@@ -2409,11 +2408,6 @@ _800x80_
 ###HeroAd
 ###HomeAd1
 ###HouseAd
-###IB-ads
-###IC1-ad
-###IC2-ad
-###IC3-ad
-###IC4-ad
 ###IFrameAd
 ###IFrameAd1
 ###IK-ad-area
@@ -2478,7 +2472,6 @@ _800x80_
 ###TopRightRadvertisement
 ###VPNAdvert
 ###WelcomeAd
-###WidgetADVMIDDLE
 ###aad-header-1
 ###aad-header-2
 ###aad-header-3
@@ -6770,12 +6763,7 @@ _800x80_
 ###zeus_top-banner
 ###zone-adsense
 ###zsAdvertisingBanner
-###zztextad
 ##.-advertsSidebar
-##.AD-POST
-##.AD300
-##.AD300Block
-##.AD355125
 ##.AD728
 ##.ADBAR
 ##.ADBnrArea
@@ -6787,7 +6775,6 @@ _800x80_
 ##.ADPod
 ##.ADServer
 ##.ADStyle
-##.ADTextSingle
 ##.ADTop
 ##.ADV-Space
 ##.ADVBig
@@ -6795,16 +6782,11 @@ _800x80_
 ##.ADVParallax
 ##.ADV_Mobile
 ##.AD_2
-##.AD_336_280
-##.AD_Leaderboard
 ##.AD_area
 ##.AD_textinfo
-##.AD_underpost
 ##.ADbox
 ##.ADmid
-##.ADouter_div
 ##.ADwidget
-##.AL-ad-container
 ##.ATF_wrapper
 ##.Ad--970x90
 ##.Ad--Align
@@ -12936,7 +12918,6 @@ _800x80_
 ##.fh_ad_microbuttons
 ##.field-59-companion-ad
 ##.fig-ad-content
-##.firefly-sidebar-ad
 ##.first-article-ad-block
 ##.first-banner-ad
 ##.first-leaderbord-adv
@@ -77362,6 +77343,8 @@ newduba.cn###jq_youxi
 ||vuyibsm.icu^
 ||uoosqk.xyz^
 ||jsxwfb.xyz^
+||eweriow.top^
+||udxhzqg.cn^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
