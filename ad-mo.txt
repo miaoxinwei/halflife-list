@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Zis9S/Lkw8fPesy2Sod+Kw
+! Checksum: 3EXuQgHO/Ch3krW5+3qrrg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405061420
-! Last Modified: 2024年05月06日 14:20
+! Version: 202405062027
+! Last Modified: 2024年05月06日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -7431,7 +7431,6 @@ _800x80_
 ##.ad-bottomLeft
 ##.ad-bottomleader
 ##.ad-bottomline
-##.ad-box
 ##.ad-box-2
 ##.ad-box-300x250
 ##.ad-box-auto
@@ -7444,6 +7443,7 @@ _800x80_
 ##.ad-box1
 ##.ad-box2
 ##.ad-box3
+##.ad-box:not(#ad-banner):not(:empty)
 ##.ad-box_h
 ##.ad-boxamp-wrapper
 ##.ad-boxbottom
@@ -17498,7 +17498,7 @@ job.inshokuten.com#@#.ad-area
 kincho.co.jp,niji-gazo.com#@#.ad-block
 livesexgirlsrooms.com#@#.ad-body
 ikkaku.net#@#.ad-bottom
-job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box
+job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center
 newegg.com#@#.ad-click
@@ -58626,6 +58626,7 @@ browsershots.org#@#.advert_area
 ||b211.xyz^$document,popup
 ||b59c.xyz^$document,popup
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^$document,popup
+||b9f25b.site^$document,popup
 ||bcbe.site^$document,popup
 ||ca3d.site^$document,popup
 ||content-loader.com^$document,popup
@@ -76621,6 +76622,7 @@ newduba.cn###jq_youxi
 ||yxgqgq.xyz^
 ||sxoejoc.icu^
 ||verstug.cn^
+||muntfd62.shop^
 ||uweriot.top^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
@@ -90683,7 +90685,7 @@ bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^=
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 api.so.lianmeng.360.cn,pos.baidu.com##body
 qzwb.com##body > .area[style^="height:60px;"]
-lzcfz2.com##body > .cl.wp
+lzcfz2.com,lzcfz7.xyz##body > .cl.wp
 2cycomic.com,whnyd.com,yemancomic.com##body > a
 bkill.com##body > a:first-child
 ygdy8.cc##body > a[href^="/"]
