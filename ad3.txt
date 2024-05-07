@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4/5yfaCiBwBTtYJ/Zp4k1Q
+! Checksum: 9lUdFRaU7ITMFWm3Iz5SQA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202405070905
-! Last Modified: 2024年05月07日 09:05
+! Version: 202405071419
+! Last Modified: 2024年05月07日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2709,6 +2709,7 @@ newduba.cn###jq_youxi
 ||hqhspv.xyz^
 ||lveodaz.icu^
 ||oweriok.top^
+||pzfqzv.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
@@ -28794,6 +28795,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.firespring.com^
 ||analytics.foresee.com^
 ||analytics.formstack.com^
+||analytics.genial.ly^
 ||analytics.google.com^$third-party
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
@@ -33287,6 +33289,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ovyerus.com/js/script.js
 ||p.ctpost.com/article?
 ||p.hentaiforce.net^
+||p.minds.com^
 ||p.sfx.ms/is/invis.gif
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
