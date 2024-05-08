@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LHWJSVEx1F5dxD/xYgDjNw
+! Checksum: EL6LwQ9mV492RJhRDjsdXw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405081416
-! Last Modified: 2024年05月08日 14:16
+! Version: 202405082028
+! Last Modified: 2024年05月08日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -500,8 +500,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad.html?
 /ad.min.
 /ad/a.aspx?
-/ad/banners/*
-/ad/dfp/*
+/ad/dfp/js/dfp.js
 /ad/err?
 /ad/getban?
 /ad/image/*$image
@@ -710,7 +709,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ads_bottom.js
 /ads_controller.js
 /ads_dfp/resources/*
-/ads_files/*
 /ads_footer.
 /ads_frame.
 /ads_iframe.
@@ -755,7 +753,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adstream.
 /adstream_
 /adswrapper.
-/adsystem/*
 /ads~adsize~
 /adtech;
 /adtext.
@@ -773,7 +770,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adv-scroll.
 /adv-socialbar-scroll.js
 /adv.css?
-/adv/adriver
 /adv/mjx.js
 /adv_2.
 /adv_468.
@@ -813,7 +809,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adwidget_
 /adx2.
 /adx_exo_
-/adz/js/*
+/adz/js/adz.
 /adzones.js
 /aff-ads.
 /aff/ads_
@@ -892,7 +888,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /banner/sponsors.
 /banner_468.
 /banner_ads/*
-/banner_ads_
 /bannerad.
 /bannerad3.js
 /bannerads.
@@ -910,7 +905,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /banners/aff.
 /banners/affil/*
 /banners/affiliate/*
-/banners/affiliates/*
 /banners/ffadult/*
 /bannersAds_
 /bottom-ads.jpg
@@ -977,7 +971,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /doubleclick.min
 /doublepimp2.js
 /drsup-admanager-ajax.js
-/dynamic/ads/*
 /dynamicad?
 /easyazon-
 /ec5bcb7487ff.js
@@ -1079,7 +1072,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /in/show/?mid=$third-party
 /include/ad/*
 /include/ad_
-/includes/ads/*
+/includes/ads/*$script
 /index-ad-
 /index-ad.jpg
 /index-ad.js
@@ -1133,6 +1126,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /mbads?
 /mcad.php
 /media/ads/*$image
+/media/plg_adbutlerads/*
 /media_ads/*
 /mgid.html
 /microad.js
@@ -1221,11 +1215,10 @@ pan.baidu.com##.upload-bar.global-clearfix
 /placeholder-ad-
 /player/ad/*
 /player/ads/*
-/plg_adbutlerads/*
 /plugin/ad/*
 /plugins/ad-invalid-click-protector/*$script
 /plugins/adrotate-pro/*
-/plugins/adrotate/*
+/plugins/adrotate/library/*
 /plugins/ads-
 /plugins/ads/*
 /plugins/adsanity-
@@ -1257,7 +1250,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /popunder5.js
 /popunder7.min.js
 /popunder?
-/popunderjs/*
 /popup-domination/*$~stylesheet
 /popup2.js
 /popup3.js
@@ -1298,7 +1290,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /RdmAdFeed.js
 /rdrr/renderer.js
 /realmedia/ads/*
-/reclama/*
 /redirect/?spot_id=
 /redirect?tid=
 /reklam.$domain=~github.com|~reklam.com.tr
@@ -1357,8 +1348,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /servead/request/*
 /serveads.php
 /service/ads/*
-/service/adv/*
-/servlet/view/*
+/servlet/view/*$script
 /set_adcode?
 /sft-prebid.js
 /show-ad.js
@@ -1397,7 +1387,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /small_ad.
 /smartlinks.epl?
 /soralink.js
-/sp/delivery/*
+/sp/delivery/js.php
 /spacedesc=
 /spc.php
 /spcjs.php
@@ -1425,7 +1415,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /squaread.jpg
 /squaread.js
 /static.ad.
-/static/ad/*
 /static/js/4728ba74bc.js$~third-party
 /sticky_ads.js
 /stickyad.js
@@ -1473,7 +1462,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /video-ads-player.
 /video-js-ads.
 /video.ads.
-/video/ads/*
 /video_ad.
 /video_ad_
 /video_ads.
@@ -1769,7 +1757,7 @@ _widget_ad.
 .prebid-bundle.
 .prebid.$domain=~prebid.org
 /_js/prbd_6.19.0.js
-/ad/postbid_
+/ad/postbid_handler1.0.9.js
 /adn-hb/*
 /ads/prebid_
 /AudienceNetworkPrebid.
@@ -1778,7 +1766,7 @@ _widget_ad.
 /gpt_and_prebid/*
 /pbjsandwich-
 /pbjsandwich.
-/plugins/prebidjs/*
+/plugins/prebidjs/*$script
 /porpoiseant/*
 /prebid-js-
 /prebid-min-
@@ -1847,7 +1835,6 @@ _prebid8.
 /ads-blocking-detector.
 /anti-adblock/*$~stylesheet
 /anti_ab.
-/antiblock_script/*
 /blockblock/blockblock.jquery.js
 /BlockerBanner/*$xmlhttprequest
 /Disable%2BAdblock.
@@ -58580,6 +58567,7 @@ browsershots.org#@#.advert_area
 ||02777e.site^$document,popup
 ||05751c.site^$document,popup
 ||07c225f3.online^$document,popup
+||07e197.site^$document,popup
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup
 ||295c.site^$document,popup
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$document,popup
@@ -77518,6 +77506,7 @@ newduba.cn###jq_youxi
 ||lweriol.top^
 ||nrbqgf.cn^
 ||qmgria.cn^
+||robudpw.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
@@ -105844,6 +105833,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacypolicies.com/track/
 ||prod-events.nykaa.com^
 ||progressive.com/Log/
+||proporn.com/ajax/log/
 ||pulpulyy.club/cdn-cgi/trace
 ||pulsar.ebay.com^
 ||pulse.delta.com^
@@ -130944,7 +130934,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||go.netwitness.com^
 ||go.news.loyaltycompany.com^
 ||go.oilkings.ca^
-||go.oracle.com^
 ||go.paze.com^
 ||go.pearsonvue.com^
 ||go.petrelocation.com^
