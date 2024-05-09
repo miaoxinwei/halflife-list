@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YG/5ralgB+VX0T3Rub/3Zg
+! Checksum: eCnYlXfpgIH4kiCZjMA1hw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202405090905
-! Last Modified: 2024年05月09日 09:05
+! Version: 202405091419
+! Last Modified: 2024年05月09日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -795,7 +795,6 @@ tieba.baidu.com##.tuijian-wrap
 /ads468x60_
 /ads728.
 /ads728x90.
-/ads728x90_
 /ads?apid
 /ads?callback
 /ads?client=
@@ -857,7 +856,6 @@ tieba.baidu.com##.tuijian-wrap
 /adsservice.
 /adstracking.
 /adstream.
-/adstream_
 /adswrapper.
 /ads~adsize~
 /adtech;
@@ -927,8 +925,8 @@ tieba.baidu.com##.tuijian-wrap
 /affads/*
 /affbanner/*
 /affbanners/*
-/affiliate/ad/*
-/affiliate/ads/*
+/affiliate/ad/*$image
+/affiliate/ads/*$image
 /affiliate/banner/*
 /affiliate/banners/*$image
 /affiliateads/*
@@ -988,7 +986,7 @@ tieba.baidu.com##.tuijian-wrap
 /banner.php
 /banner/ad_
 /banner/ads/*
-/banner/affiliate/*
+/banner/affiliate/*$image,subdocument
 /banner/html/zone?zid=
 /banner/sponsors.
 /banner_468.
@@ -1254,7 +1252,7 @@ tieba.baidu.com##.tuijian-wrap
 /nativead.
 /nativeads-v2.js
 /nativeads.js
-/nativeads/*
+/nativeads/script/*
 /nativebanner/ane-native-banner.js
 /nb/frot_lod.js
 /neverblock/*
@@ -1391,7 +1389,7 @@ tieba.baidu.com##.tuijian-wrap
 /railad.jpg
 /RdmAdFeed.js
 /rdrr/renderer.js
-/realmedia/ads/*
+/RealMedia/ads/adstream_
 /redirect/?spot_id=
 /redirect?tid=
 /reklam.$domain=~github.com|~reklam.com.tr
@@ -1551,7 +1549,6 @@ tieba.baidu.com##.tuijian-wrap
 /v3/ads?
 /v5/ads/*
 /v7/ads/*
-/v9/adv/*
 /valnet-header-ads.
 /vast/?zid=
 /velvet_stack_cmp.js
@@ -1578,7 +1575,6 @@ tieba.baidu.com##.tuijian-wrap
 /view_banner.php
 /viewad.asp
 /viewad.php
-/virtuagirl/*
 /virtuagirlhd.
 /web/ads/*
 /web_ads/*
@@ -1630,7 +1626,6 @@ tieba.baidu.com##.tuijian-wrap
 /wpxbz-theme.js
 /wrapper/ads/*
 /www/ad_
-/www/ads/*
 /www/deliver/*
 /www/deliverx/*
 /www/delivery/*
@@ -66951,6 +66946,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|adblockeronstape.me|adblocker
 ||rule34hentai.net^$subdocument,~third-party
 ||rusdosug.com/Fotos/Banners/
 ||scatxxxporn.com/static/images/banners/
+||schoolasiagirls.net/ban/
 ||sdhentai.com/marketing/
 ||see.xxx/pccznwlnrs/
 ||sex-techniques-and-positions.com/banners
@@ -67977,7 +67973,7 @@ inoreader.com###sinner_container
 pocketgamer.com###site-background
 webkinznewz.ganzworld.com###site-description
 dead-frog.com###site_top
-2oceansvibe.com###skin
+2oceansvibe.com,pocketgamer.biz###skin
 ebar.com###skin-left
 ebar.com###skin-right
 namemc.com###skin_wrapper
@@ -70239,7 +70235,7 @@ businessinsider.in##.leaderboard-scrollable-btf-cont
 businessinsider.in##.leaderboard-scrollable-cont
 consequence.net##.leaderboard-sticky
 poe.ninja##.leaderboard-top
-nowthisnews.com,popsugar.com,scout.com,seeker.com,thedodo.com,thrillist.com##.leaderboard-wrap
+cbssports.com,nowthisnews.com,popsugar.com,scout.com,seeker.com,thedodo.com,thrillist.com##.leaderboard-wrap
 weatherpro.com,wordfinder.yourdictionary.com##.leaderboard-wrapper
 6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.leaderboard2
 save.ca##.leaderboardMainWrapper
@@ -71150,6 +71146,7 @@ pinkvilla.com##.skinnerAd
 hltv.org##.skinport
 entrepreneur.com##.sky
 edarabia.com##.sky-600
+cbssports.com##.skybox-top-wrapper
 cheese.com,datpiff.com,gtainside.com##.skyscraper
 plos.org##.skyscraper-container
 newsnow.co.uk##.skyscraper-left
