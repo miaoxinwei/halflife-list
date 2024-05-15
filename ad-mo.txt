@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TLQZLmfDwGLYCMJHtSq6sw
+! Checksum: ZjZpR5OQ7bnZFni+zbrqwQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405150906
-! Last Modified: 2024年05月15日 09:06
+! Version: 202405151419
+! Last Modified: 2024年05月15日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -655,7 +655,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ads/targeted|
 /ads/top-
 /ads/top.
-/ads/tso
 /ads/video/controller.php
 /ads/view.php
 /ads/xtcore.
@@ -846,7 +845,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /bannerad.
 /bannerad3.js
 /bannerads.
-/bannerads/*
+/bannerads/*$~xmlhttprequest,domain=~coldwellbankerhomes.com
 /banners.*/go/page/*
 /banners.*/piclist?
 /banners.cgi?
@@ -1343,7 +1342,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /targetpushad.js
 /theologicalpresentation.com/*
 /tmbi-a9-header-
-/tncms/ads/*
+/tncms/ads/*$script
 /tnt.ads.
 /top-ad.
 /top-ads.
@@ -1435,7 +1434,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /xpopunder.js
 /xpopup.js
 /yhs/ads?
-/yume_ad_library_
 /zcredirect?
 /~cdn/ads/*
 ://a.*/ad-provider.js$third-party
@@ -10520,24 +10518,18 @@ _800x80_
 ##.advBottom
 ##.advBottomHome
 ##.advBox
-##.advImagesbox
 ##.advInt
-##.advLB_PageMiddle
 ##.advLeaderboard
 ##.advRightBig
 ##.advSquare
 ##.advText
-##.advTicker
 ##.advTop
-##.advVideobox
-##.adv_1
 ##.adv_120
 ##.adv_120_600
 ##.adv_120x240
 ##.adv_120x600
 ##.adv_160_600
 ##.adv_160x600
-##.adv_2
 ##.adv_250
 ##.adv_250_250
 ##.adv_300
@@ -10546,25 +10538,17 @@ _800x80_
 ##.adv_300x250
 ##.adv_336_280
 ##.adv_468_60
-##.adv_600
-##.adv_630
 ##.adv_728_90
 ##.adv_728x90
-##.adv_90
-##.adv_PageTop
 ##.adv__box
 ##.adv__leaderboard
 ##.adv__wrapper
 ##.adv_aff
-##.adv_amazon_single
 ##.adv_banner
 ##.adv_banner_hor
 ##.adv_bg
 ##.adv_box
 ##.adv_box_narrow
-##.adv_code
-##.adv_flash
-##.adv_hed
 ##.adv_here
 ##.adv_img
 ##.adv_leaderboard
@@ -10578,8 +10562,6 @@ _800x80_
 ##.adv_message
 ##.adv_msg
 ##.adv_panel
-##.adv_placeholder_300_250
-##.adv_placeholder_300_300
 ##.adv_right
 ##.adv_side1
 ##.adv_side2
@@ -10612,7 +10594,6 @@ _800x80_
 ##.adver-header
 ##.adver-left
 ##.adver-text
-##.adver-wrapper--250
 ##.adverTag
 ##.adverTxt
 ##.adver_bot
@@ -10635,12 +10616,9 @@ _800x80_
 ##.advert-160x600
 ##.advert-300
 ##.advert-300-side
-##.advert-300x100-side
 ##.advert-728
 ##.advert-728-90
 ##.advert-728x90
-##.advert-760
-##.advert-arch-top
 ##.advert-article-bottom
 ##.advert-autosize
 ##.advert-background
@@ -77325,6 +77303,8 @@ newduba.cn###jq_youxi
 ||vfxrpl.xyz^
 ||hgcgnfe.icu^
 ||07dy.cc^
+||nuxwlc.cn^
+||ta20k.xyz^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
@@ -99130,6 +99110,7 @@ omni.soundestlink.com$image
 ||sematext.com^$third-party
 ||sendtraffic.com^$third-party
 ||sensorsdata.cn^$third-party
+||sentinelbi.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry-cdn.top^$third-party
 ||sentry.io^$third-party
