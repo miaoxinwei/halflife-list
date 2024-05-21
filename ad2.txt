@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MRFD14s+oqcevC0LYr2lQg
+! Checksum: 7IFml8d5nBlyK7edsS/iVQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202405210906
-! Last Modified: 2024年05月21日 09:06
+! Version: 202405211420
+! Last Modified: 2024年05月21日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -158,6 +158,7 @@ z4a.net
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
+.land/ad/*.gif
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -1794,6 +1795,8 @@ newduba.cn###jq_youxi
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##span[title="neteasefooter"]
 ##.horizontal-banner
+##.adv-6park
+##.apd-footer
 ##style + .a-loading
 ##style + .need_grid_img
 ##style + .vdgdo
@@ -2819,6 +2822,7 @@ newduba.cn###jq_youxi
 ||jy147a.com^
 ||rayajmp.icu^
 ||ca2686564a.com^
+||dpedrt.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
@@ -11232,6 +11236,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||bcebos.com/24x360x528.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+czys.top#?#.swiper-slide:-abp-has(.coveimg[src*=".gif"])
 raenonx.cc##.main_ads-content + div
 douyin.com#?#.page-recommend-container:-abp-has(span[style^="background"]:-abp-contains(广告))
 cnbeta.com.tw##.article-global
@@ -17014,6 +17019,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||9zvip.net^$elemhide
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||abchina.com^*ad
+@@||mobinovels.com^$generichide
 @@||aboluowang.com^$generichide
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
