@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3QDdSKNUfFGD9ah6E/U6+A
+! Checksum: W6LUhMoO+L6AuusqLU8/nw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202405250219
-! Last Modified: 2024年05月25日 02:19
+! Version: 202405250905
+! Last Modified: 2024年05月25日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -7258,7 +7258,6 @@ _800x80_
 ##.ad-d
 ##.ad-decoration
 ##.ad-defer
-##.ad-description
 ##.ad-desktop
 ##.ad-desktop-in-content
 ##.ad-desktop-legacy
@@ -19160,6 +19159,7 @@ browsershots.org#@#.advert_area
 ||allnesskepped.com^
 ||allocatelacking.com^
 ||allodiafeveret.life^
+||allodsubussu.com^
 ||alloha.tv^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
@@ -34516,6 +34516,7 @@ browsershots.org#@#.advert_area
 ||jajrlsaiboswdab.xyz^
 ||jakescribble.com^
 ||jakeycorkage.digital^
+||jalapamaro.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jalwhftxnl.com^
@@ -51636,6 +51637,7 @@ browsershots.org#@#.advert_area
 ||uabpuwz.com^
 ||uads.cc^
 ||uads.digital^
+||uads.guru^
 ||uads.info^
 ||uads.pw^
 ||uads.space^
@@ -52231,6 +52233,7 @@ browsershots.org#@#.advert_area
 ||upsidecopiedcraft.com^
 ||upsidesheminee.com^
 ||upskittyan.com^
+||upspewsafener.com^
 ||upspinarakor.com^
 ||upstagecarvers.cfd^
 ||upstandhurls.website^
@@ -67295,6 +67298,7 @@ sun-sentinel.com###stnWrapperDiv
 westernjournal.com###stnvideo
 rawstory.com###story-top-ad
 healthshots.com###storyBlockOne
+krunker.io###streamContainer
 web-capture.net###stw_ad
 arenaev.com,gsmarena.com###subHeader
 macrotrends.net###subLeaderboardTag
@@ -67390,6 +67394,8 @@ nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion###top
 investing.com###topBroker
 digitalartsonline.co.uk###topLeaderContainer
 mautofied.com###topLeaderboard
+krunker.io###topLeftAdHolder
+krunker.io###topRightAdHolder
 forum.wordreference.com###topSupp
 walterfootball.com###top_S
 utne.com###top_advertisement
@@ -76116,6 +76122,10 @@ newduba.cn###jq_youxi
 ||23.231.151.252^
 ||cupfox.app^$third-party
 ||wqzmed.cn^
+||jxqdl.cn^
+||ieapak.xyz^
+||piksrie.icu^
+||rbrmhz.xyz^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -104670,6 +104680,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.pgncs.notion.so^
 ||analytics.plex.tv^
 ||analytics.productreview.com.au^
+||analytics.qogita.com^
 ||analytics.realestate.com.au^
 ||analytics.send.cm^
 ||analytics.silktide.com^
@@ -104680,6 +104691,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
+||analyticsapi.qogita.com^
 ||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
