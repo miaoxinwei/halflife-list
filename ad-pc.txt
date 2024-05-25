@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nS9+RPTw3i6diUiTSCGc6g
+! Checksum: 2ocpKTlTWM4kfQFIH+8H5w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202405251419
-! Last Modified: 2024年05月25日 14:19
+! Version: 202405252026
+! Last Modified: 2024年05月25日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9869,6 +9869,7 @@ _800x80_
 ##.ads_middle
 ##.ads_middle-container
 ##.ads_middle_container
+##.ads_mobile_vert
 ##.ads_mpu
 ##.ads_outer
 ##.ads_outline
@@ -16273,7 +16274,6 @@ _800x80_
 ##.ez-sidebar-wall-ad
 ##.ez-video-wrap
 ##.htl-inarticle-container
-##.inline-iframe.article--content-embed
 ##.js-widget-distroscale
 ##.js-widget-send-to-news
 ##.jwPlayer--floatingContainer
@@ -16297,7 +16297,6 @@ _800x80_
 ##.s2nContainer
 ##.send-to-news
 ##.van_vid_carousel
-##.vid-present > .van_vid_carousel__padding
 ##.video--container--aniview
 ##.vidible-wrapper
 ##.wps-player-wrap
@@ -17643,6 +17642,7 @@ browsershots.org#@#.advert_area
 ||a-waiting.com^
 ||a00s.net^
 ||a06bbd98194c252.com^
+||a11d3c1b4d.com^
 ||a11k.com^
 ||a14net.com^
 ||a14refresh.com^
@@ -17833,6 +17833,7 @@ browsershots.org#@#.advert_area
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abqmfewisf.com^
+||abqnupogcwhi.com^
 ||abrasivematch.com^
 ||abrhydona.com^
 ||abridebouch.com^
@@ -20021,6 +20022,7 @@ browsershots.org#@#.advert_area
 ||artisticcount.pro^
 ||artistictastesnly.info^
 ||artistperhapscomfort.com^
+||artistspipe.top^
 ||artlessdeprivationunfriendly.com^
 ||artlessdevote.com^
 ||artonsbewasand.com^
@@ -20666,6 +20668,7 @@ browsershots.org#@#.advert_area
 ||azjmp.com^
 ||azkcqs.com^
 ||azkwwrerlejqv.top^
+||azlmizbvgjfe.com^
 ||azmjosvecyye.com^
 ||azmsmufimw.com^
 ||aznapoz.info^
@@ -22996,6 +22999,7 @@ browsershots.org#@#.advert_area
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
+||caphrizing.com^
 ||capitalistblotbits.com^
 ||capitalistlukewarmdot.com^
 ||capletstyldia.com^
@@ -24433,6 +24437,7 @@ browsershots.org#@#.advert_area
 ||compositereconnectadmiral.com^
 ||composureenfold.com^
 ||comprehendpaying.com^
+||comprehensive3x.fun^
 ||comprehensiveunconsciousblast.com^
 ||compresshumpenvious.com^
 ||compresssavvydetected.com^
@@ -26102,6 +26107,7 @@ browsershots.org#@#.advert_area
 ||dfuaqw.com^
 ||dfvlaoi.com^
 ||dgafgadsgkjg.top^
+||dgamapxs.com^
 ||dggwqknub.com^
 ||dgjyqdkxmxq.com^
 ||dgkajwnbrazepe.com^
@@ -26562,6 +26568,7 @@ browsershots.org#@#.advert_area
 ||dkrely.com^
 ||dkrqyly.com^
 ||dkrxtdnlg.com^
+||dkuekrwiwr.com^
 ||dl-rms.com^
 ||dlazblsihdoi.com^
 ||dle-news.xyz^
@@ -27543,6 +27550,7 @@ browsershots.org#@#.advert_area
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzuahkymbureo.com^
 ||edzwmobmj.com^
 ||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
@@ -33730,6 +33738,7 @@ browsershots.org#@#.advert_area
 ||inaneamenvote.com^
 ||inanityacromia.life^
 ||inanitystorken.com^
+||inappropriate2.fun^
 ||inappropriateoutdoorsconfiguration.com^
 ||inareputaonforha.com^
 ||inasmedia.com^
@@ -36081,6 +36090,7 @@ browsershots.org#@#.advert_area
 ||kxhbyjljkmyp.xyz^
 ||kxhmyeedwkbgrh.xyz^
 ||kxkqqycs.xyz^
+||kxkqxdgp.com^
 ||kxnaaxml.com^
 ||kxnggkh2nj.com^
 ||kxowmbwprnck.com^
@@ -40168,6 +40178,7 @@ browsershots.org#@#.advert_area
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
+||notjdyincro.com^
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notorietynoblemanproposition.com^
@@ -45134,6 +45145,7 @@ browsershots.org#@#.advert_area
 ||rapidshookdecide.com^
 ||rapingdistil.com^
 ||rapolok.com^
+||rappjsps.com^
 ||raptapee.com^
 ||raptingy.net^
 ||raptorserrano.com^
@@ -46455,6 +46467,7 @@ browsershots.org#@#.advert_area
 ||rriodxsmyjk.com^
 ||rrjnjnioxfbqaj.com^
 ||rrmlejvyqebk.top^
+||rrnhilainbjii.com^
 ||rrobbybvvbybj.top^
 ||rrolqae.com^
 ||rronsep.com^
@@ -49362,6 +49375,7 @@ browsershots.org#@#.advert_area
 ||suchbasementdarn.com^
 ||suchcesusar.org^
 ||suchroused.com^
+||suckae.xyz^
 ||suckfaintlybooking.com^
 ||sucocesisfulylyde.info^
 ||sucter.com^
@@ -53691,6 +53705,7 @@ browsershots.org#@#.advert_area
 ||wcjiaclw.com^
 ||wcltbpbnlf.com^
 ||wcmcs.net^
+||wcnhhqqueu.com^
 ||wcnndaazbwmane.com^
 ||wcqtgwsxur.xyz^
 ||wct.link^
@@ -55762,6 +55777,7 @@ browsershots.org#@#.advert_area
 ||zizoxozoox.com^
 ||zizulw.org^
 ||zjbzzmnnkbjzy.top^
+||zjhebfwr.com^
 ||zjlbugpawe.com^
 ||zjmmkjayjjazy.top^
 ||zjo0tjqpm1.com^
@@ -63375,6 +63391,7 @@ browsershots.org#@#.advert_area
 ||t.co^$subdocument,domain=kshow123.tv
 ||taboola.com/vpaid/
 ||tag.regieci.com^
+||tags.profitsence.com^
 ||takefile.link/promo/$third-party
 ||targeting.vdo.ai^
 ||tcadserver.rain-digital.ca^
@@ -63483,6 +63500,7 @@ browsershots.org#@#.advert_area
 ||d11tybz5ul8vel.cloudfront.net^
 ||d11zevc9a5598r.cloudfront.net^
 ||d126kahie2ogx0.cloudfront.net^
+||d127s3e8wcl3q6.cloudfront.net^
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
 ||d12t7h1bsbq1cs.cloudfront.net^
@@ -65142,7 +65160,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||idrive.com/include/images/idrive-120240.png
 ||ientent.stre4mplay.one^
 ||ientent.streampiay.fun^
-||igg-games.com/maven/
 ||ih1.fileforums.com^
 ||ii.apl305.me/js/pop.js
 ||illicium.web.money^$subdocument
@@ -68077,6 +68094,7 @@ groovyhistory.com,lifebuzz.com,toocool2betrue.com,videogameschronicle.com##.adwr
 animesuge.to,aniwave.to##.adx
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 revolver.news##.af-slim-promo
+promocodie.com##.afc-container
 real-fix.com##.afc_popup
 fandom.com##.aff-unit__wrapper
 f1i.com##.affiche
@@ -68087,6 +68105,7 @@ thebeet.com##.affiliate-disclaimer
 express.co.uk##.affiliate-widget
 usatoday.com##.affiliate-widget-wrapper
 topsmerch.com##.affix-placeholder
+promocodie.com##.afs-wrapper
 domainnamewire.com##.after-header
 insidemydream.com##.afxshop
 venea.net##.ag_banner
@@ -76180,6 +76199,10 @@ newduba.cn###jq_youxi
 ||ieapak.xyz^
 ||piksrie.icu^
 ||rbrmhz.xyz^
+||aogk88.asia^
+||ksylied.top^
+||cai75tp.com^
+||enviousinevitable.com^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -81011,6 +81034,7 @@ newduba.cn###jq_youxi
 !long-term
 ##a[href*=".xacg.info/"]
 ##button[onclick*=".xacg.info/"]
+||d3d7a0q05k6bvz.cloudfront.net^
 ||06789.xyz^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
@@ -85646,8 +85670,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||aiboav.vip/wp-content/uploads/*/3aaa-
 ||aiboav.vip/wp-content/uploads/ad/
 ||aiboav.vip/wp-content/uploads/uu-chat/*.gif
+||diamiu.com/wp-content/uploads/1200-200.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+element-plus.org##.page-content-main-a
 939394.xyz##body > table:first-child img
 vsping.com##.ad_01
 939394.xyz##.j_m_ad
@@ -99155,6 +99181,7 @@ omni.soundestlink.com$image
 ||speed-trap.com^$third-party
 ||speedcurve.com^$third-party
 ||speedhq.net^$third-party
+||speetals.com^$third-party
 ||splitbee.io^$third-party
 ||splittag.com^$third-party
 ||splyt.com^$third-party
@@ -106370,6 +106397,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||middletownpress.com/413gkwMT/init.js
 ||mrt.com/413gkwMT/init.js
 ||mysanantonio.com/413gkwMT/init.js
+||ncadvertiser.com/413gkwMT/init.js
 ||newsnationnow.com/yZuPxxW0/init.js
 ||newstimes.com/413gkwMT/init.js
 ||nhregister.com/413gkwMT/init.js
