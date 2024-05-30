@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3F7ZSggHWA02C9a1z8q81w
+! Checksum: dH0YiZOC0Wx9oCDef6OLkg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202405301420
-! Last Modified: 2024年05月30日 14:20
+! Version: 202405302028
+! Last Modified: 2024年05月30日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15701,7 +15701,6 @@ _800x80_
 ##a[href^="https://ad.kubiccomps.icu/"]
 ##a[href^="https://ad.zanox.com/ppc/"] > img
 ##a[href^="https://adclick.g.doubleclick.net/"]
-##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.betfair.com/redirect.aspx?"]
 ##a[href^="https://ads.leovegas.com/"]
 ##a[href^="https://ads.planetwin365affiliate.com/"]
@@ -16582,6 +16581,7 @@ browsershots.org#@#.advert_area
 ||0b0db57b5f.com^
 ||0b73f85f92.com^
 ||0b7741a902.com^
+||0b85c2f9bb.com^
 ||0c6dd161e9.com^
 ||0cdn.xyz^
 ||0cf.io^
@@ -20063,6 +20063,7 @@ browsershots.org#@#.advert_area
 ||atris.xyz^
 ||atrociouspsychiatricparliamentary.com^
 ||atrocityfingernail.com^
+||atropaimitant.top^
 ||atsabwhkox.com^
 ||atservineor.com^
 ||atshcaogrlhi.com^
@@ -23916,6 +23917,7 @@ browsershots.org#@#.advert_area
 ||cmlwaup.com^
 ||cmmcqcvwc.com^
 ||cmnepalslma.com^
+||cmoa.pro^
 ||cmpgfltxv.xyz^
 ||cmpgns.net^
 ||cmpsywu.com^
@@ -27938,6 +27940,7 @@ browsershots.org#@#.advert_area
 ||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopleshouldt.info^
+||eopleshouldthink.info^
 ||eopogliguemvf.com^
 ||eopudxnabotrlsx.com^
 ||eoqctcsvskqlz.com^
@@ -29365,6 +29368,7 @@ browsershots.org#@#.advert_area
 ||flavorylenvoi.com^
 ||flavourdinerinadmissible.com^
 ||flavourforgave.com^
+||flaw.cloud^
 ||flawenormouslyattractive.com^
 ||flawerosion.com^
 ||flaweyesight.com^
@@ -32444,6 +32448,7 @@ browsershots.org#@#.advert_area
 ||hjiwoazeigefn.com^
 ||hjklq.com^
 ||hjmjmywncskyt.com^
+||hjmnfdab.com^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
 ||hjrvsw.info^
@@ -39029,6 +39034,7 @@ browsershots.org#@#.advert_area
 ||mwikpepfiw.com^
 ||mwirawdrexp.com^
 ||mwjkteucypb.com^
+||mwkusgotlzu.com^
 ||mwmqtisxndbjdr.com^
 ||mwmxyurgupy.com^
 ||mworkhovdimin.info^
@@ -41266,6 +41272,7 @@ browsershots.org#@#.advert_area
 ||orthronsmatter.com^
 ||ortontotlejohn.com^
 ||orxbqsvibjxqvai.com^
+||osageafresh.com^
 ||osangauh.net^
 ||osarmapa.net^
 ||osaunsot.net^
@@ -49134,6 +49141,7 @@ browsershots.org#@#.advert_area
 ||styingjareed.guru^
 ||styletrackstable.com^
 ||stylewhiskerscreepy.com^
+||stylish-airport.com^
 ||styrianauf.com^
 ||stzhnfcxx.com^
 ||suaedaormer.top^
@@ -51735,6 +51743,7 @@ browsershots.org#@#.advert_area
 ||umedadelempanyi.info^
 ||umekana.ru^
 ||umentrandings.xyz^
+||umescomymanda.info^
 ||umexalim.com^
 ||umfsyvnufa.com^
 ||umhlnkbj.xyz^
@@ -53683,6 +53692,7 @@ browsershots.org#@#.advert_area
 ||werxebpnl.com^
 ||weshsofoij.xyz^
 ||wesicuros.com^
+||wesmallproclaim.com^
 ||wesmuqjisx.com^
 ||westerdayeol.site^
 ||westernhungryadditions.com^
@@ -55676,6 +55686,7 @@ browsershots.org#@#.advert_area
 ||zokbywpncgqrq.com^
 ||zombiharshen.top^
 ||zonealta.com^
+||zontgohjw.com^
 ||zonupiza.com^
 ||zonureflakier.uno^
 ||zoocheeh.net^
@@ -57768,6 +57779,7 @@ browsershots.org#@#.advert_area
 ||ca9246.xyz^$document,popup
 ||caa2c4.xyz^$document,popup
 ||ce357c.xyz^$document,popup
+||cfb98a.xyz^$document,popup
 ||content-loader.com^$document,popup
 ||css-load.com^$document,popup
 ||d84bc26d.site^$document,popup
@@ -64853,6 +64865,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||content.powzerz.lol^
 ||coolcast2.com/z-
 ||coolors.co/ajax/get-ads
+||corsproxy.io^$domain=manga1001.win
 ||corvetteblogger.com/images/banners/
 ||covertarget.com^*_*.php
 ||creatives.livejasmin.com^
@@ -67757,6 +67770,7 @@ anews.com.tr##.adControl
 carsdirect.com##.adFooterWrapper
 bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarafallsreview.ca,niagarathisweek.com,thepeterboroughexaminer.com,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.adLabelWrapper
 bramptonguardian.com,insideottawavalley.com,niagarafallsreview.ca,thepeterboroughexaminer.com,therecord.com,thestar.com,wellandtribune.ca##.adLabelWrapperManual
+coloradotimesrecorder.com##.adSidebar
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__HdaBg
 thestockmarketwatch.com##.adSpotPad
@@ -68048,6 +68062,7 @@ thelocal.at,thelocal.ch,thelocal.de,thelocal.es,thelocal.fr,thelocal.it,thelocal
 thehindu.com##.article-ad
 crn.com##.article-cards-ad
 coindesk.com##.article-com-wrapper
+kmbc.com,wlky.com##.article-content--body-wrapper-side-floater
 lrt.lt##.article-content__inline-block
 firstforwomen.com##.article-content__sponsored_tout_ad___1iSJm
 eonline.com##.article-detail__right-rail--topad
