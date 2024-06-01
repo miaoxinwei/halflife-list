@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Zyg8kR3NVskHyALxgYf7TQ
+! Checksum: n4kjZkMTcNbS3+HCP3G9IA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202406011419
-! Last Modified: 2024年06月01日 14:19
+! Version: 202406012027
+! Last Modified: 2024年06月01日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -704,6 +704,7 @@ tieba.baidu.com##.tuijian-wrap
 /adplugin.
 /adpopup.js
 /adpopup.php
+/adrecover.js
 /adright.$domain=~adright.com
 /adriver.$~script,domain=~adriver.co
 /adriver_$~object
@@ -21244,6 +21245,7 @@ browsershots.org#@#.advert_area
 ||bhnhejwj.com^
 ||bhnjwmega.com^
 ||bhnmkauncgr.com^
+||bhohazozps.com^
 ||bhozjskhzfdkh.com^
 ||bhqfnuq.com^
 ||bhuoeykefbnfgc.com^
@@ -24054,6 +24056,7 @@ browsershots.org#@#.advert_area
 ||combinationpalmwhiskers.com^
 ||combinedexterior.com^
 ||combineencouragingutmost.com^
+||combinestronger.com^
 ||combitly.com^
 ||combotag.com^
 ||combustibleaccuracy.com^
@@ -24424,6 +24427,7 @@ browsershots.org#@#.advert_area
 ||coonceder.space^
 ||cooperativechuckledhunter.com^
 ||cooperativepassenger.com^
+||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
 ||coosync.com^
@@ -27405,6 +27409,7 @@ browsershots.org#@#.advert_area
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
 ||efwmpduvgedai.com^
+||egalitysarking.com^
 ||egallsylvate.com^
 ||egazedatthe.xyz^
 ||egbesnfzdfg.com^
@@ -27697,6 +27702,7 @@ browsershots.org#@#.advert_area
 ||enclearmooch.com^
 ||enclforlane.com^
 ||enclosedsponge.com^
+||enclosedswoopbarnacle.com^
 ||encloseprecious.com^
 ||encodehelped.com^
 ||encodeinflected.com^
@@ -29561,6 +29567,7 @@ browsershots.org#@#.advert_area
 ||footcomefully.com^
 ||foothoupaufa.com^
 ||footnote.com^
+||footprintsfurnish.com^
 ||footprintssoda.com^
 ||footprintswarming.com^
 ||footstepnoneappetite.com^
@@ -45185,6 +45192,7 @@ browsershots.org#@#.advert_area
 ||reconstructshutdown.com^
 ||record.guts.com^
 ||record.rizk.com^
+||recordedthereby.com^
 ||recordercrush.com^
 ||recordervesttasting.com^
 ||recordingadventurouswildest.com^
@@ -49241,6 +49249,7 @@ browsershots.org#@#.advert_area
 ||sumids.com^
 ||summaryjustlybouquet.com^
 ||summaryvalued.com^
+||summer-notifications.com^
 ||summerboycottrot.com^
 ||summercovert.com^
 ||summingricracs.uno^
@@ -57774,6 +57783,7 @@ browsershots.org#@#.advert_area
 ||f090.site^$document,popup
 ||f2f8.xyz^$document,popup
 ||f6176563.site^$document,popup
+||f8a070.xyz^$document,popup
 ||f97ae142.online^$document,popup
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^$document,popup
 ||fbfec2.xyz^$document,popup
@@ -69418,6 +69428,7 @@ standard.co.uk##.kcdphh
 tekno.kompas.com##.kcm
 kdnuggets.com##.kdnug-med-rectangle-ros
 goldprice.org##.kenbi
+physicsworld.com##.key-suppliers
 trustedreviews.com##.keystone-deal
 trustedreviews.com##.keystone-single-widget
 gamertweak.com##.kfzyntmcd-caption
@@ -69486,7 +69497,7 @@ howstuffworks.com##.leaderboard-banner
 poe.ninja##.leaderboard-bottom
 chess.com##.leaderboard-btf-ad-wrapper
 mxdwn.com##.leaderboard-bucket
-arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,news957.com##.leaderboard-container
+apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,news957.com##.leaderboard-container
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder-desktop
 bluesnews.com##.leaderboard-gutter
@@ -69717,6 +69728,7 @@ radioyacht.com##.mpc-carousel__wrapper
 98fm.com,airqualitynews.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,entertainmentdaily.co.uk,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk##.mpu
 news.sky.com##.mpu-1
 edarabia.com##.mpu-300
+physicsworld.com##.mpu-300x250
 arabiaweather.com##.mpu-card
 dailymail.co.uk##.mpu_puff_wrapper
 mapquest.com##.mq-bizLocs-container
@@ -72271,6 +72283,7 @@ gearjunkie.com##.video-jwplayer
 bolavip.com##.video-player-placeholder
 benzinga.com##.video-player-wrapper
 consequence.net##.video_container
+bigthink.com##.wrapper-connatixPlayspace
 offidocs.com##[id^="ja-container-prev"]
 hollywoodreporter.com##[id^="jwplayer"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
@@ -76179,6 +76192,8 @@ newduba.cn###jq_youxi
 ||zqgixxp.icu^
 ||dssdfsf.cn^
 ||cpgou.cn^
+||af9dc9.xyz^
+||goole20.shop^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -99252,6 +99267,7 @@ omni.soundestlink.com$image
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
+||sweetgum.io^$third-party
 ||swetrix.org^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
