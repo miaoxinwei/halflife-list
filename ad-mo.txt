@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nu6ZijsNaRrzaJ2Q5zyubQ
+! Checksum: AMwAA0DT/GvbGUE8ztA1dg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202406032030
-! Last Modified: 2024年06月03日 20:30
+! Version: 202406040221
+! Last Modified: 2024年06月04日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -836,7 +836,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /banner-affiliate-
 /banner.asp?$third-party
 /banner.cgi?
-/banner.php
+/banner.php$domain=~research.hchs.hc.edu.tw
 /banner/affiliate/*$image,subdocument
 /banner/html/zone?zid=
 /banner/sponsors.
@@ -34972,6 +34972,7 @@ browsershots.org#@#.advert_area
 ||kmmtxfwntcnyd.com^
 ||kmnkiuqfo.com^
 ||kmodukuleqasfo.info^
+||kmrilock.com^
 ||kmyaklgcik.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
@@ -47520,6 +47521,7 @@ browsershots.org#@#.advert_area
 ||soundingthunder.com^
 ||soupevents.com^
 ||soupteep.xyz^
+||soupteewhish.com^
 ||souptightswarfare.com^
 ||souraivo.xyz^
 ||sourcebloodless.com^
