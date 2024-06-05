@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DpGy6Qt51Gb6hm0RmYru+Q
+! Checksum: +bY+3i7Rqc6T1+vAKAccNw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202406052029
-! Last Modified: 2024年06月05日 20:29
+! Version: 202406060219
+! Last Modified: 2024年06月06日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25255,6 +25255,7 @@ browsershots.org#@#.advert_area
 ||delightful-page.pro^
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
+||deliman.net^
 ||deline-sunction.com^
 ||deliquencydeliquencyeyesight.com^
 ||deliquencydeliquencygangenemies.com^
@@ -74679,10 +74680,6 @@ newduba.cn###jq_youxi
 ###tripadvisor-ad
 ###undertd.undertd
 ###videoADPIC
-###vodplay-ad-hf2
-###vodplay-ad-hf2-m
-###vodplay-ad-hf3
-###vodplay-ad-hf3-m
 ###widget-quan
 ###wp > .V-videoFloat
 ###wrapper > .topad
@@ -75252,6 +75249,9 @@ newduba.cn###jq_youxi
 ##dl#listwoBox
 ##img#GGADIMG
 ##img#adv1
+###ad_hf_out2
+###ad_hf_out4
+###ad_hf_out5
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
 ##img[onclick*=".qq.com/doc/"]
@@ -75320,6 +75320,7 @@ newduba.cn###jq_youxi
 ||zthxobgk.icu^
 ||vfphbh.xyz^
 ||dljzcl.cn^
+||binga01.shop^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
