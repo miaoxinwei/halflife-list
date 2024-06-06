@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +bY+3i7Rqc6T1+vAKAccNw
+! Checksum: khNzXNGmVZFg1F0Vjer1RQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202406060219
-! Last Modified: 2024年06月06日 02:19
+! Version: 202406060907
+! Last Modified: 2024年06月06日 09:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -66621,6 +66621,7 @@ topgear.com##.AdContainer-sc-cy9ye3-4
 racingamerica.com##.AdPlacement
 petfinder.com##.AdUnitParagraph-module--adunitContainer--2b7a6
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
+barrons.com##.AdWrapper-sc-9rx3gf-0
 complex.com##.AdWrapper__AdPlaceholderContainer-sc-15idjh1-0
 earth.com##.AdZone_adZone__2w4TC
 thescore.com##.Ad__container--2fhQb
@@ -69021,6 +69022,7 @@ boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,mykhel.com,na
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,mykhel.com,nativeplanet.com,oneindia.com##.oiad
 gizbot.com##.oiadv
 hamodia.com##.oiomainlisting
+thehackernews.com##.okfix
 forums.somethingawful.com##.oma_pal
 etonline.com##.omni-skybox-plus-stick-placeholder
 oneindia.com##.one-ad
@@ -69425,8 +69427,6 @@ bleepingcomputer.com##.s-ou-wrap
 hope1032.com.au##.s-supported-by
 japantoday.com##.s10r
 nodejs.libhunt.com##.saashub-ad
-thehackernews.com##.sadbar2
-thehackernews.com##.sadfix
 steamladder.com##.salad
 salife.com.au##.salife-slot
 sherbrookerecord.com##.sam-pro-container
@@ -75321,6 +75321,13 @@ newduba.cn###jq_youxi
 ||vfphbh.xyz^
 ||dljzcl.cn^
 ||binga01.shop^
+||cbcgqs.xyz^
+||tsdfxv.xyz^
+||ancxeftgyu.top^
+||ifjslio.top^
+||qrmozsc.icu^
+||jtezxmpb.xyz^
+||nlxgjwye.icu^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
