@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7UwbH0OXCuT0odZgnWJ3qw
+! Checksum: NndXJttMEzOx5pX1Y+09Sg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202406070910
-! Last Modified: 2024年06月07日 09:10
+! Version: 202406071422
+! Last Modified: 2024年06月07日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -71377,6 +71377,7 @@ skyscanner.com,skyscanner.net##div > a:has(div[class^="DefaultBanner_sponsorship
 inverse.com##div > p + div:has(amp-ad)
 bailagentnetwork.com##div.box-bottom:has(a[rel="noopener nofollow"])
 outlook.live.com##div.customScrollBar > div > div[id][class]:has(img[src$="/images/ads-olk-icon.png"])
+flightradar24.com##div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)
 costco.ca##div.product:has(.criteo-sponsored)
 thebay.com##div.product:has(div.citrus-sponsored)
 meijer.com##div.slick-slide:has(.product-tile__sponsored)
@@ -71531,6 +71532,7 @@ forums.whathifi.com###jwplayer-container-div
 mentalfloss.com###mm-player-placeholder-large-screen
 bossip.com,hiphopwired.com,madamenoire.com###player-wrapper
 bar-planb.com,hakibavuong.com###player_dev
+flightradar24.com###primisAdContainer
 realclearpolitics.com###realclear_jwplayer_container
 uproxx.com###upx-mm-player-wrap
 newseveryday.com###vplayer_large
@@ -73628,7 +73630,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||ladsp.com/script-sf/$script,domain=str.toyokeizai.net
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||lostpod.space/static/streaming-playlists/$xhr,domain=videos.john-livingston.fr
+@@||lostpod.space/static/streaming-playlists/$domain=videos.john-livingston.fr
 @@||mail.bg/mail/index/getads/$xmlhttprequest
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
@@ -100777,6 +100779,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/sendwebpush-analytics
 ||cloudfunctions.net/vanalytics
+||cloudmetrics.xenforo.com^
 ||cltgtstor001.blob.core.windows.net^
 ||clustrmaps.com/counter/$third-party
 ||cmail19.com/t/$image,third-party
