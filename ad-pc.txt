@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n9Rcz0beqYlg2XIaJGkw+g
+! Checksum: Q6KnI7Sc9IXxGzYiZ0KI7w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202406072030
-! Last Modified: 2024年06月07日 20:30
+! Version: 202406080221
+! Last Modified: 2024年06月08日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -23167,6 +23167,7 @@ browsershots.org#@#.advert_area
 ||chettikmacrli.com^
 ||chevetoelike.com^
 ||chevyrailly.top^
+||cheweemtaig.com^
 ||chewersobolary.com^
 ||chewremittanceprovidence.com^
 ||chewsrompedhemp.com^
@@ -48751,6 +48752,7 @@ browsershots.org#@#.advert_area
 ||svptpcjefg.com^
 ||svrkdkopdsdj.com^
 ||svtlgjmqyzmwz.com^
+||svwhhiiyihcwh.com^
 ||svyksa.info^
 ||sw2block.com^
 ||swaggydestroy.com^
@@ -53139,6 +53141,7 @@ browsershots.org#@#.advert_area
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
@@ -54524,6 +54527,7 @@ browsershots.org#@#.advert_area
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
 ||yr9n47004g.com^
+||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
@@ -57024,6 +57028,7 @@ browsershots.org#@#.advert_area
 ||072551.xyz^$document,popup
 ||07c225f3.online^$document,popup
 ||07e197.site^$document,popup
+||0ae00c7c.xyz^$document,popup
 ||1116c5.xyz^$document,popup
 ||11c7a3.xyz^$document,popup
 ||1350c3.xyz^$document,popup
@@ -59714,6 +59719,7 @@ browsershots.org#@#.advert_area
 ||oodrampi.com^$popup
 ||oodsotso.com^$popup
 ||oopatet.com^$popup
+||oopsiksaicki.com^$popup
 ||oosonechead.org^$popup
 ||openadserving.com^$popup
 ||openerkey.com^$popup
@@ -64684,7 +64690,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 @@||lshstream.xyz/hls/$xmlhttprequest
 @@||msubload.com/sub/$xmlhttprequest
 /^https?:\/\/.*(com|net|top|xyz)\/(bundle|warning|style|bootstrap|brand|reset|jquery-ui|styles|error|logo|index|favicon|star|header)\.(png|css)\?[A-Za-z0-9]{30,}.*/$third-party
-/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space|uno|cfd)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~127.0.0.1|~bitrix24.life|~ccc.ac|~jacksonchen666.com|~lemmy.world|~localhost|~mempool.space|~scribble.ninja|~scribble.website|~spacepub.space|~traineast.co.uk
+/^https?:\/\/[0-9a-z]{5,}\.(digital|website|life|guru|space|uno|cfd)\/[a-z0-9]{6,}\//$script,third-party,xmlhttprequest,domain=~127.0.0.1|~bitrix24.life|~ccc.ac|~jacksonchen666.com|~lemmy.world|~localhost|~lostpod.space|~mempool.space|~scribble.ninja|~scribble.website|~spacepub.space|~traineast.co.uk
 /^https?:\/\/cdn\.[0-9a-z]{3,6}\.xyz\/[a-z0-9]{8,}\.js$/$script,third-party
 ||frameperfect.speedrun.com^
 ||junkrat-tire.overbuff.com^
@@ -75433,6 +75439,7 @@ newduba.cn###jq_youxi
 ||hntkgpd.cn^
 ||itjgwn.xyz^
 ||anbkzt.xyz^
+||uaiosio.top^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
