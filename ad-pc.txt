@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9kRgWKkRJeAdjq+DR8BzyQ
+! Checksum: 2bf46wkBwh0pnE0zDlVxNg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202406100910
-! Last Modified: 2024年06月10日 09:10
+! Version: 202406101423
+! Last Modified: 2024年06月10日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -64650,6 +64650,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||startpage.com/sp/cdn/*/TotalAdBlockAdultWidget.js
 ||startpage.com/sp/Tgz1k/adsense/
 ||static.fastpic.org^$subdocument
+||static.getmodsapk.com/cloudflare/ads-images/
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||steamanalyst.com/steeem/delivery/
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
@@ -65759,6 +65760,7 @@ usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 nextdoor.com,sptfy.be###ad
 touchdownwire.usatoday.com###ad--home-well-wrapper
 lasvegassun.com###ad-colB-
+getmodsapk.com###ad-container
 retrostic.com,sickchirpse.com,thetimes.co.uk###ad-header
 livescore.com###ad-holder-gad-news-article-item
 healthbenefitstimes.com###ad-image-below
@@ -67843,6 +67845,7 @@ stuff.tv##.c-ad--leftpageskin
 stuff.tv##.c-ad--mpu-bottom
 stuff.tv##.c-ad--mpu-top
 stuff.tv##.c-ad--rightpageskin
+theglobeandmail.com##.c-ad-sticky
 globalnews.ca##.c-adChoices
 zdnet.com##.c-adDisplay_container_incontent-all-top
 legit.ng,tuko.co.ke##.c-adv
@@ -70719,6 +70722,7 @@ upload.ee##[href^="https://www.upload.ee/click.php"]
 gametracker.com##[href^="https://www.vultr.com/"]
 wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
 cars.com##[id$="-sponsored"]
+breakingnews.ie##[id$="0_pweumum7"]
 homedepot.com##[id*="sponsored"]
 producebluebook.com##[id^="BBS"]
 ldoceonline.com##[id^="ad_contentslot"]
