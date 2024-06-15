@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bh23b/7VtYZlJ/uIAYW9RQ
+! Checksum: PNtiZwlrttRxG19HenCF+w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202406150221
-! Last Modified: 2024年06月15日 02:21
+! Version: 202406150908
+! Last Modified: 2024年06月15日 09:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,14 @@ newduba.cn###jq_youxi
 ||liuhui111.top^
 ||hwnojj.xyz^
 ||daslkdlqk.top^
+||sowx.cn^
+||hevctt.xyz^
+||osanyc.xyz^
+||ofjslik.top^
+||faaqgje.icu^
+||pwxlbsie.icu^
+||bbqoa.top^
+||fogolakda.top^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
@@ -11523,6 +11531,9 @@ yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
 21yq.com###AD1
+yesky.com##.main_left_advertisement
+yesky.com##.rightGg
+bole90.com###xy_toast_ad
 itavcn.com###ADE
 sina.com.cn###AD_Background_Wall_BG
 sina.com.cn###AD_Background_Wall_BG_Link
@@ -69144,6 +69155,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||clubic.com/tview
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
+||datalayer.orange.fr^
 ||dd.leboncoin.fr^
 ||developpez.com/public/js/log.js
 ||donnons.org/log.js
