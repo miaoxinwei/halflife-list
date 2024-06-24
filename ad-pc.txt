@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gSisAgaqHLOY9HJsl0LUNg
+! Checksum: gomKiIa4d5vWOrlBc4JrVQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202406240910
-! Last Modified: 2024年06月24日 09:10
+! Version: 202406241421
+! Last Modified: 2024年06月24日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -595,7 +595,7 @@ tieba.baidu.com##.tuijian-wrap
 /ad-125.
 /ad-468-
 /ad-bottom.
-/ad-choices-
+/ad-choices-$image
 /ad-choices.
 /ad-engine.js
 /ad-scripts--$script
@@ -747,7 +747,6 @@ tieba.baidu.com##.tuijian-wrap
 /ads/outbrain?
 /ads/popout.
 /ads/popup.
-/ads/preroll-
 /ads/rectangle_$subdocument
 /ads/revgen.
 /ads/serve?
@@ -903,7 +902,6 @@ tieba.baidu.com##.tuijian-wrap
 /amp4ads-host-v0.js
 /ane-popup-banner.js
 /ane-popup.js
-/ane-preroll/preroll.js
 /annonse.
 /annonser.
 /api-ads.
@@ -1222,7 +1220,7 @@ tieba.baidu.com##.tuijian-wrap
 /pioneersuspectedjury.com/*
 /pix/ads/*$image
 /pixel/puclc?
-/pixel/pure
+/pixel/pure$third-party
 /pixel/purs?
 /pixel/purst?
 /pixel/sbe?
@@ -1234,16 +1232,15 @@ tieba.baidu.com##.tuijian-wrap
 /plugins/adrotate/*$script
 /plugins/ads-
 /plugins/ads/*$~xmlhttprequest
-/plugins/adsanity-
+/plugins/adsanity-$script,stylesheet
 /plugins/advanced-ads/*$domain=~wordpress.org
 /plugins/ane-banners-entre-links/*
-/plugins/ane-preroll-
+/plugins/ane-preroll$~xmlhttprequest
 /plugins/cactus-ads/*$script,stylesheet
 /plugins/cpx-advert/*$script
 /plugins/dx-ads/*$script
 /plugins/meks-easy-ads-widget/*$stylesheet
 /plugins/mts-wp-in-post-ads/*$script,stylesheet
-/plugins/page-cornr-
 /plugins/popunderpro/*$script
 /plugins/ultimate-popunder/*$~stylesheet
 /plugins/wp-moreads/*$~stylesheet
@@ -1480,7 +1477,7 @@ tieba.baidu.com##.tuijian-wrap
 /wp-auto-affiliate-links/*
 /wp-bannerize-$script,stylesheet
 /wp-bannerize.$script,stylesheet
-/wp-bannerize/*
+/wp-bannerize/*$script,stylesheet
 /wp-content/ads/*$~xmlhttprequest
 /wp-content/mbp-banner/*$image
 /wp-content/plugins/amazon-auto-links/*$script,stylesheet
@@ -1490,11 +1487,11 @@ tieba.baidu.com##.tuijian-wrap
 /wp-content/plugins/bhcb/lock.js
 /wp-content/plugins/bookingcom-banner-creator/*
 /wp-content/plugins/bookingcom-text2links/*
-/wp-content/plugins/fasterim-optin/*
+/wp-content/plugins/fasterim-optin/*$~xmlhttprequest
 /wp-content/plugins/m-wp-popup/*$~stylesheet
 /wp-content/plugins/platinumpopup/*$script,stylesheet
-/wp-content/plugins/popad/*
-/wp-content/plugins/the-moneytizer/*
+/wp-content/plugins/popad/*$script,stylesheet
+/wp-content/plugins/the-moneytizer/*$script
 /wp-content/plugins/thirstyaffiliates/*
 /wp-content/plugins/useful-banner-manager/*
 /wp-content/plugins/wp-ad-guru/*$script,stylesheet
@@ -1730,7 +1727,6 @@ _widget_ad.
 .prebid.$domain=~prebid.org
 /_js/prbd_6.19.0.js
 /ad/postbid_handler1.0.9.js
-/adn-hb/*
 /AudienceNetworkPrebid.
 /gpt-prebid.js
 /pbjsandwich.
@@ -1779,7 +1775,6 @@ _prebid8.
 /ad-blocking-advisor/*$script,stylesheet
 /ad-blocking-alert/*$stylesheet
 /adb_detector.
-/adblock-alerter/*
 /adblock-detect.
 /adblock-detector.
 /adblock-message.
@@ -66521,6 +66516,7 @@ games2jolly.com###leaderboard_area_home
 planetminecraft.com###leaderboard_atf
 canadianbusiness.com,macleans.ca,vidio.com,yardbarker.com###leaderboard_container
 spoonuniversity.com###leaderboard_fixed
+sportsnet.ca###leaderboard_master
 belgie.fm,danmark.fm,deutschland.fm,espana.fm,italia.fm,nederland.fm###leaderboardbg
 eel.surf7.net.my###left
 news9live.com###left_before_story
@@ -66842,6 +66838,7 @@ sun-sentinel.com###stnWrapperDiv
 westernjournal.com###stnvideo
 rawstory.com###story-top-ad
 healthshots.com###storyBlockOne
+suffolknewsherald.com###story_one_by_one_group
 krunker.io###streamContainer
 web-capture.net###stw_ad
 arenaev.com,gsmarena.com###subHeader
@@ -67068,6 +67065,7 @@ newspointapp.com##.Ad_wrapper
 greatandhra.com##.AdinHedare
 jagranjosh.com##.Ads
 coingape.com##.AdsMid
+sportsnet.ca##.Ads_card-wrapper__KyXLu
 iogames.onl##.Adv
 yandex.com##.AdvOffers
 airportinfo.live,audiokarma.org,audizine.com##.AdvallyTag
@@ -67323,6 +67321,7 @@ mobilesyrup.com##.ad-goes-here
 andscape.com##.ad-incontent-wrapper
 dailyuptea.com##.ad-info
 downloads.digitaltrends.com##.ad-kargo
+apksum.com##.ad-left
 citynews.ca##.ad-load
 mariopartylegacy.com##.ad-long
 olympics.com##.ad-margin-big
@@ -69716,6 +69715,7 @@ actionnetwork.com##.promotion-table
 throwawaymail.com##.promotion_row
 bostonreview.net##.promotop
 insauga.com##.proper-content-dynamic
+highspeedinternet.com##.provider-ads
 football365.com,planetf1.com,planetrugby.com##.ps-block-a
 kathmandupost.com##.pt-0
 gsmarena.com##.pt-10
@@ -72450,6 +72450,7 @@ badjojo.com###rightcol
 onlyporn.tube,porntop.com###s-suggesters
 homemade.xxx###scrollhere
 sexyandfunny.com###sexy-links
+spankbang.com###shorts-frame
 javtiful.com###showerm
 3movs.com###side_col_video_view
 fc2covid.com###sidebar > .widget_block
@@ -102200,6 +102201,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lucid.mjhassoc.com^
 ||luminate.com/track/
 ||lycos.com/hb.js
+||m.clear.link/cpr/external/track
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
