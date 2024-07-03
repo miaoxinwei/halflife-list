@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hnrMQ8jQwSacLt17kDacdA
+! Checksum: ROs6afC5S1Dv3u6CeN4L9g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202407032030
-! Last Modified: 2024年07月03日 20:30
+! Version: 202407040220
+! Last Modified: 2024年07月04日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -18519,6 +18519,7 @@ browsershots.org#@#.advert_area
 ||ajillionmax.com^
 ||ajivikatend.digital^
 ||ajiwqmnh.com^
+||ajjawcxpao.com^
 ||ajjhtetv87.com^
 ||ajjkmoyjlbjj.top^
 ||ajjwuunaxq.com^
@@ -42609,6 +42610,7 @@ browsershots.org#@#.advert_area
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
 ||ptaupsom.com^
+||ptautsortoa.com^
 ||ptauxofi.net^
 ||ptawe.com^
 ||ptawehex.net^
@@ -53516,6 +53518,7 @@ browsershots.org#@#.advert_area
 ||ykgkxcount.com^
 ||ykmvnhue.com^
 ||ykopnlrbb.com^
+||ykpebdshcqefqm.com^
 ||ykqalsm.com^
 ||ykraeij.com^
 ||ykrwopdxkw.com^
@@ -56152,6 +56155,7 @@ browsershots.org#@#.advert_area
 ||156fd4.xyz^$document,popup
 ||1a1fb6.xyz^$document,popup
 ||1dd6e9ba.xyz^$document,popup
+||1f6a725b.xyz^$document,popup
 ||20519a.xyz^$document,popup
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup
 ||22dd31.xyz^$document,popup
@@ -103369,6 +103373,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||smart-bdash.com/tracking-script/
 ||snva.jp/api/bcon/basic?
 ||snva.jp/javascripts/reco/
+||sp-trk.com^$third-party
 ||speee-ad.akamaized.net^
 ||spnx.jp/spnx-logger.js
 ||stats.streamhub.io^
