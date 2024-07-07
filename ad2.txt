@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TQOwuYOoZtdC32S3MHwRig
+! Checksum: 7hwcJaX1LOZaBFZuvtNiNw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202407071421
-! Last Modified: 2024年07月07日 14:21
+! Version: 202407072027
+! Last Modified: 2024年07月07日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1819,6 +1819,7 @@ newduba.cn###jq_youxi
 ##style + .a-loading
 ##style + .need_grid_img
 ##style + .vdgdo
+###play[style="padding: 10px;"] > a[href="/0705.html"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 ##td[id^="td_"] > a[href^="/htmm/"]
 ##vg-pause-d
@@ -1836,6 +1837,10 @@ newduba.cn###jq_youxi
 ||23.231.151.252^
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||tupian9999.com^
+||xxxx88xxxx.com^
+||xxxx96xxxx.com^
+||bdfjw.cn^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -11759,6 +11764,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 baidu.com##.result-op[tpl="vmp_strengthen_brand"]
+iqiyi.com##a[href^="https://ads.game.iqiyi.com"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
