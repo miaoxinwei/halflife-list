@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HoQWmjdABb+ZCW2fWMgjQg
+! Checksum: K50mfOc41KnQpbGZl7MoNg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202407100911
-! Last Modified: 2024年07月10日 09:11
+! Version: 202407101421
+! Last Modified: 2024年07月10日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15859,6 +15859,8 @@ _800x80_
 ##topadblock
 ##zeus-ad
 ###sellwild-loader
+##.ad_1tdq7q5
+##.style_k8mr7b-o_O-style_uhlm2
 ##.aspace-300x169
 ##.aspace-300x250
 ###hgiks-middle
@@ -15910,6 +15912,7 @@ _800x80_
 ###jwplayer-container-div
 ###jwplayer_contextual_player_div
 ###kargo-player
+###mm-player-placeholder-large-screen
 ###mplayer-embed
 ###primis-holder
 ###primis_intext
@@ -65655,7 +65658,6 @@ bleedingcool.com###middle_medium_rectangle
 jezebel.com,pastemagazine.com###middle_rectangle
 thefastmode.com###middlebanneropenet
 cyberdaily.au###mm-azk560023-zone
-dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
 mmorpg.com###mmorpg_desktop_list_3
 si.com###mmvid
@@ -66375,7 +66377,7 @@ romsmania.games##.aawp
 ncomputers.org,servertest.online##.ab
 freedownloadmanager.org##.ab1
 freedownloadmanager.org##.ab320
-convertingcolors.com,slickdeals.net,whitecoatinvestor.com##.abc
+slickdeals.net,whitecoatinvestor.com##.abc
 britannica.com,merriam-webster.com##.abl
 imgbb.com##.abnr
 rankedboost.com##.above-article-section
@@ -66496,7 +66498,6 @@ sofascore.com##.adUnitBox
 dailyo.in##.adWrapp
 romper.com##.adWrapper
 barrons.com##.adWrapperTopLead
-mentalfloss.com##.ad_1tdq7q5
 m.thewire.in##.ad_20
 digiday.com##.ad_960
 food.com##.ad__ad
@@ -66968,6 +66969,7 @@ flatpanelshd.com##.bannerdiv_twopage
 arcadebomb.com##.bannerext
 2merkato.com,2mfm.org,aps.dz,armyrecognition.com,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,forums.limesurvey.org,i-programmer.info,killerdirectory.com,pamplinmedia.com,radiolumiere.org,rapidtvnews.com,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
 saigoneer.com##.bannergroup-main
+convertingcolors.com##.bannerhead_desktop
 asianmirror.lk,catholicregister.org,crown.co.za,marengo-uniontimes.com,nikktech.com##.banneritem
 mir.az##.bannerreklam
 domainnamewire.com,i24news.tv,marinetechnologynews.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,paste.pm,pasteheaven.com,petapixel.com,radiopaedia.org,rapidtvnews.com,telesurtv.net,travelpulse.com##.banners
@@ -67228,6 +67230,7 @@ mangarockteam.com,nitroscans.com##.c-top-second-sidebar
 freecomiconline.me,lordmanga.com,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 softarchive.is##.c-un-link
 stuff.tv##.c-video-ad__container
+convertingcolors.com##.c30
 canada411.ca##.c411TopBanner
 techonthenet.com##.c79ee2c9
 sussexexpress.co.uk##.cIffkq
@@ -69763,7 +69766,6 @@ northernvirginiamag.com##.website-header__ad--leaderboard
 probuilds.net##.welcome-bnr
 taskcoach.org##.well
 gearlive.com##.wellvert
-pcguide.com##.wepc-takeover
 cpu-monkey.com,cpu-panda.com,gpu-monkey.com##.werb
 best-faucets.com,transfermarkt.co.uk,transfermarkt.com##.werbung
 transfermarkt.co.uk##.werbung-skyscraper
@@ -71129,7 +71131,6 @@ ginx.tv###ginx-floatingvod-containerspacer
 gunsandammo.com###inline-player
 pubs.rsc.org###journal-info > .text--centered
 forums.whathifi.com###jwplayer-container-div
-mentalfloss.com###mm-player-placeholder-large-screen
 ispreview.co.uk###mobile-takeover-slot-8
 bossip.com,hiphopwired.com,madamenoire.com###player-wrapper
 bar-planb.com,hakibavuong.com###player_dev
@@ -71176,8 +71177,6 @@ swimswam.com##.polls-461
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
 kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
-swimsuit.si.com##.style_hfl21i-o_O-style_uhlm2
-mentalfloss.com##.style_k8mr7b-o_O-style_uhlm2
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 petapixel.com##.video-aspect-wrapper
 gearjunkie.com##.video-jwplayer
