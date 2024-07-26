@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: p65khtJezQRpRqc19vt1fA
+! Checksum: Mc+4C7LYyFft8YM36NbNJg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202407260911
-! Last Modified: 2024年07月26日 09:11
+! Version: 202407261422
+! Last Modified: 2024年07月26日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10148,6 +10148,7 @@ _800x80_
 ##.adthrive-placeholder-content
 ##.adthrive-placeholder-header
 ##.adthrive-placeholder-static-sidebar
+##.adthrive-sidebar
 ##.adthrive-video-player
 ##.adthrive_custom_ad
 ##.adtile
@@ -64630,7 +64631,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||purexbox.com/javascript/gn/prebid-
 ||wsj.net/pb/pb.js
 ||fireworkapi1.com^$domain=boldsky.com
-||anyclip.com^$third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~dictionary.com|~heute.at|~ksat.com|~news4jax.com|~video.timeout.com|~wsls.com
+||anyclip.com^$third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~dictionary.com|~heute.at|~ksat.com|~news4jax.com|~therealdeal.com|~video.timeout.com|~wsls.com
 ||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
@@ -75710,6 +75711,7 @@ newduba.cn###jq_youxi
 ||ketlwsd.top^
 ||dy10000.net^
 ||hbbynt.xyz^
+||cwerilxf.top^
 ||kwgqaqf.icu^
 ||uicdns.xyz^
 ||qzsvwo.xyz^
@@ -79931,7 +79933,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 !----------------------Specific advert blocking filters-----------------------!
 $image,third-party,domain=lady1.top
 $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
-$script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.net
+$script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
 .194007.com/4058.gif
@@ -99871,6 +99873,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyticssec.overwolf.com^
 ||ancestrycdn.com/tao/at/
 ||anyclip.com/getuids?
+||anyclip.com/v1/lre-events?
 ||ao-freegeoip.herokuapp.com^
 ||aol.com/ping?
 ||aolcdn.com/js/mg2.js
@@ -101982,6 +101985,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uid.mediacorp.sg^
 ||uim.tifbs.net^
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
+||unifyintent.com/analytics/
 ||units.knotch.it^
 ||unpkg.com/web-vitals?
 ||uptime.com/static/rum/$third-party
@@ -103773,6 +103777,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||copilot-telemetry.githubusercontent.com^
+||count.darkreader.app^
 ||count.rin.ru^
 ||counter.darkreader.app^
 ||coursehero.com/v1/data-tracking
@@ -104719,6 +104724,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strtapewithadblock.xyz/stat/
 ||strtpe.link/stat/
 ||stubhub.com/a/icph
+||stytch.com/sdk/v1/events
 ||suaurl.com/adblock/js/smarttag.js
 ||support.github.com/_event
 ||support.github.com/_stats
@@ -104794,6 +104800,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
+||telemetry.stytch.com^
 ||telemetry.tradingview.com^
 ||tellerreport.com/react/pixel
 ||terabox.app/api/analytics?
