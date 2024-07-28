@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GrljgsFIzWoTKmUfIzmQzA
+! Checksum: 5ENPZYrMPWtEQxiX5BsygQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202407282028
-! Last Modified: 2024年07月28日 20:28
+! Version: 202407290221
+! Last Modified: 2024年07月29日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -16714,6 +16714,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||95306.cn/public/images/ad/
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
+@@||softblog.tw^$generichide
 @@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
