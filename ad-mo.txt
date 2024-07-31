@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DWb9c/KoD92YMquoPd7Ezw
+! Checksum: jmgcp8E9JZl/CeaP6OT0UA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202407312031
-! Last Modified: 2024年07月31日 20:31
+! Version: 202408010220
+! Last Modified: 2024年08月01日 02:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -39918,6 +39918,7 @@ browsershots.org#@#.advert_area
 ||ojomrgmhbbpkpz.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
+||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojtarsdukk.com^
 ||ojtatygrl.xyz^
@@ -55304,6 +55305,7 @@ browsershots.org#@#.advert_area
 ||offergate-software6.com^$document
 ||offernow24.com^$document
 ||offwardtendry.top^$document
+||ojrq.net^$document
 ||omgt3.com^$document
 ||omguk.com^$document
 ||onclickperformance.com^$document
@@ -56961,6 +56963,7 @@ browsershots.org#@#.advert_area
 ||d8b0a5.xyz^$document,popup
 ||d980ed.xyz^$document,popup
 ||da28c69e.xyz^$document,popup
+||dcad1d97.xyz^$document,popup
 ||dd2270.xyz^$document,popup
 ||de214f.xyz^$document,popup
 ||e076.xyz^$document,popup
@@ -59526,6 +59529,7 @@ browsershots.org#@#.advert_area
 ||ogtrk.net^$popup
 ||ohrdsplu.com^$popup
 ||ointmentfloatingsaucepan.com^$popup
+||ojrq.net^$popup
 ||okayfreemanknot.com^$popup
 ||okueroskynt.com^$popup
 ||ologeysurincon.com^$popup
@@ -63449,6 +63453,7 @@ browsershots.org#@#.advert_area
 ||adrotator.se^$popup
 ||ads.planetwin365affiliate.com^$popup,third-party
 ||adserving.unibet.com^$popup
+||affiliates.abebooks.comh^$popup,third-party
 ||affiliates.fantasticbet.com^$popup
 ||amazing-dating.com^$popup
 ||americascardroom.eu/ads/$popup,third-party
@@ -71578,6 +71583,7 @@ popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
 popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
 avclub.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 fortune.com##[class]:has(> #Leaderboard0)
+skyscanner.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
 svgrepo.com##[class^="style_native"]:has([href*="buysellads.com"])
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
@@ -73320,6 +73326,7 @@ twiman.net##div[class*="my-"][class*="px\]"]
 xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi##div[class*="promoMessageBanner-"]
 camsoda.com##div[class^="AdsRight-"]
 ovacovid.com##div[class^="Banner-"]
+cam4.com,cam4.eu##div[class^="SponsoredAds_"]
 hentaicovid.com##div[class^="banner-"]
 xporno.tv##div[class^="block_ads_"]
 hpjav.top##div[class^="happy-"]
@@ -73379,6 +73386,7 @@ xxxcomics.org##video
 tube8.es,tube8.fr,youporngay.com##video[autoplay]
 porndoe.com,redtube.com##video[autoplay][src*="blob:" i]
 porndoe.com,redtube.com##video[autoplay][src*="data:" i]
+cam4.*##div[class^="SponsoredAds_"]
 porn-w.org##.align-items-center.list-row:has(.col:empty)
 picsporn.net##.box:has(> .dip-exms)
 porngames.com##.contentbox:has(a[href="javascript:void(0);"])
@@ -75765,6 +75773,7 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||script302.top^
 ||sgwsss.xyz^
 ||uqcktxp.icu^
 ||vhzivz.xyz^
@@ -97542,7 +97551,6 @@ omni.soundestlink.com$image
 ||ogt.jp^$third-party
 ||ohayoo.io^$third-party
 ||ohmystats.com^$third-party
-||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
 ||ometria.com^$third-party
