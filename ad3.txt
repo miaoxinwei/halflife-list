@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: G+XJ0zC9uYaDLlcqn+ySuA
+! Checksum: eTLdjQh5FEq3WQ0lgooNog
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202408010918
-! Last Modified: 2024年08月01日 09:18
+! Version: 202408012031
+! Last Modified: 2024年08月01日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -27253,7 +27253,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
 ||simility.com^$third-party
-||spideraf.com^$third-party
 !-----------------International third-party tracking domains-----------------!
 ||123-counter.de^$third-party
 ||193.197.158.209^$third-party,domain=~statistik.lubw.baden-wuerttemberg.de.ip
@@ -30531,6 +30530,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uhit.eu/id/$third-party
 ||uid.mediacorp.sg^
 ||uim.tifbs.net^
+||umami.aigenerations.net^
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||unifyintent.com/analytics/
 ||units.knotch.it^

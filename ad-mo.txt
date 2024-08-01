@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IVrWNR7Ly2hpGhiz2ZPDtg
+! Checksum: QCNr5xjQYcJWkMku2vPajw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408011422
-! Last Modified: 2024年08月01日 14:22
+! Version: 202408012031
+! Last Modified: 2024年08月01日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -15778,7 +15778,7 @@ _800x80_
 ##ins.adsbygoogle[data-ad-slot]
 ###mgb-container > #mgb
 ###kt_player > a[target="_blank"]
-###kt_player > div[style="position: absolute; inset: 0px; z-index: 170;"]
+###kt_player > div[style$="display: block;"][style*="inset: 0px;"]
 ###slashboxes > .deals-rail
 ##.scroll-fixable.rail-right > .deals-rail
 ##.click-track.partner
@@ -56989,6 +56989,7 @@ browsershots.org#@#.advert_area
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^$document,popup
 ||e1ce13d5.xyz^$document,popup
 ||e75d10b9.live^$document,popup
+||ea6c0ac4.xyz^$document,popup
 ||ec44.site^$document,popup
 ||f090.site^$document,popup
 ||f2f8.xyz^$document,popup
@@ -64958,6 +64959,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||anysex.com/*/js|
 ||anysex.com/*/script|
 ||anysex.com^$subdocument,~third-party
+||api.adultdeepfakes.cam/banners
 ||asg.faperoni.com^
 ||atube.xxx/static/js/abb.js
 ||aucdn.net^$media,domain=clgt.one
@@ -64977,7 +64979,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||bigcock.one/worker.js
 ||bigdick.tube/tpnxa/
 ||bigtitsgallery.net/qbztdpxulhkoicd.php
-||bigtitslust.com/lap70/
+||bigtitslust.com/lap70/s/s/suo.php
 ||bionestraff.pro/300x250.php
 ||bodsforthemods.com/srennab/
 ||bootyheroes.com//static/assets/img/banners/
@@ -66322,6 +66324,7 @@ demap.info###pcad
 shine.cn###pdfModal
 investopedia.com###performance-marketing_1-0
 premierguitar.com###pg_leaderboard
+tutorialspoint.com###pg_top_ads
 radiocaroline.co.uk###photographsforeverDiv
 accuradio.com###pl_leaderboard
 giantfreakinrobot.com###playwire-homepage-takeover-leaderboard
@@ -70350,7 +70353,7 @@ cryptonews.net##.vert-public
 mmegi.bw##.vertical-banner
 radiocity.in##.vertical-big-add
 radiocity.in##.vertical-small-add
-hashrate.no##.verticalAdContainer
+hashrate.no,thelancet.com##.verticalAdContainer
 packaginginsights.com##.verticlblk
 forbes.com##.vestpocket
 mirror.co.uk##.vf3-conversations-list__promo
@@ -71746,6 +71749,7 @@ oneindia.com###taboola-mid-article-thumbnails
 the-independent.com###taboola-mid-article-thumbnails-ii
 independent.co.uk,the-independent.com###taboola-mid-article-thumbnails-iii
 lifeandstylemag.com###taboola-right-rail-thumbnails
+nbsnews.com##.TaboolaFeed
 ndtv.com##.TpGnAd_ad-cn
 hindustantimes.com##.ht_taboola
 financialexpress.com##.ie-network-taboola
@@ -72535,7 +72539,7 @@ dofap.com##.b_videobot
 justpicsplease.com,xfantasy.su##.ba
 dominationworld.com,femdomzzz.com##.ban-tezf
 pornburst.xxx##.bann3rss
-18teensex.tv,3movs.xxx,amamilf.com,amateurelders.com,analpornpix.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,grannarium.com,happysex.ch,hiddenhomemade.com,imagezog.com,its.porn,kawaiihentai.com,legalporn4k.com,lyama.net,maturator.com,milffox.com,oldgf.com,oldies.name,paradisehill.cc,player3x.xyz,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vidxnet.com,vikiporn.com,vjav.com,wankerson.com,watchhentaivideo.com,waybig.com,xanalsex.com,xbabe.com,xcum.com,xgrannypics.com,xnudepics.com,xpornophotos.com,xpornopics.com,xpornpix.com,xpussypics.com,xwifepics.com,xxxpornpix.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
+18teensex.tv,3movs.xxx,adultdeepfakes.com,amamilf.com,amateurelders.com,analpornpix.com,babesmachine.com,chaturbate.com,fboomporn.com,freepornpicss.com,gramateurs.com,grannarium.com,happysex.ch,hiddenhomemade.com,imagezog.com,its.porn,kawaiihentai.com,legalporn4k.com,lyama.net,maturator.com,milffox.com,oldgf.com,oldies.name,paradisehill.cc,player3x.xyz,playporngames.com,playsexgames.xxx,playvids.com,porngames.com,private.com,submittedgf.com,teenextrem.com,video.laxd.com,vidxnet.com,vikiporn.com,vjav.com,wankerson.com,watchhentaivideo.com,waybig.com,xanalsex.com,xbabe.com,xcum.com,xgrannypics.com,xnudepics.com,xpornophotos.com,xpornopics.com,xpornpix.com,xpussypics.com,xwifepics.com,xxxpornpix.com,youcanfaptothis.com,yourdailygirls.com,youx.xxx##.banner
 highporn.net##.banner-a
 javfor.tv##.banner-c
 ero-anime.website##.banner-container
@@ -98875,7 +98879,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
 ||simility.com^$third-party
-||spideraf.com^$third-party
 !-----------------International third-party tracking domains-----------------!
 ||123-counter.de^$third-party
 ||193.197.158.209^$third-party,domain=~statistik.lubw.baden-wuerttemberg.de.ip
@@ -102153,6 +102156,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uhit.eu/id/$third-party
 ||uid.mediacorp.sg^
 ||uim.tifbs.net^
+||umami.aigenerations.net^
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||unifyintent.com/analytics/
 ||units.knotch.it^
