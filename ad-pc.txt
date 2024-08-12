@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Tq4zznrXiGeJGvQTZDPIA
+! Checksum: Klnf0QsqNaslO84Ant2dNw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202408120222
-! Last Modified: 2024年08月12日 02:22
+! Version: 202408120915
+! Last Modified: 2024年08月12日 09:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -69631,7 +69631,6 @@ nhl.com##.nhl-c-editorial-list__mrec
 nhl.com##.nhl-l-section-bg__adv
 hulkshare.com##.nhsBotBan
 afterdawn.com##.ni_box
-hltv.org##.night-only
 bizasialive.com##.nipl-sticky-footer-banner
 bizasialive.com##.nipl-top-sony-banr
 bizasialive.com##.nipl_add_banners_inner
@@ -76256,6 +76255,9 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||weagehn.icu^
+||eqygki.xyz^
+||shbzjgs.cn^
 ||11dyw.com^
 ||irutvnco.top^
 ||diskaa.com^
@@ -93467,6 +93469,7 @@ fqsousou.com,kengso.com#@#.user-share
 /api/cmp_tracker|
 /api/drpStats
 /api/event-rfkj/*
+/api/internal/pixel?
 /api/ipv4check?
 /api/log-visit
 /api/metrics/collect
@@ -93922,6 +93925,7 @@ fqsousou.com,kengso.com#@#.user-share
 /ecg-js-ga-tracking/index.
 /ecom/status.jsp?
 /edAnalyticsWrapper.js
+/edapi/event?
 /edata.js
 /edmonds.js
 /efxanalytics.js
@@ -96718,6 +96722,7 @@ omni.soundestlink.com$image
 ||adregain.ru^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
+||adsave.co^$third-party
 ||adsensedetective.com^$third-party
 ||adsmatcher.com^$third-party
 ||adsrvr.org^$third-party
@@ -98461,6 +98466,7 @@ omni.soundestlink.com$image
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
 ||scaledb.com^$third-party
+||scannary.com^$third-party
 ||scarf.sh^$third-party
 ||sciencerevenue.com^$third-party
 ||scorecardresearch.com^$third-party
@@ -98769,6 +98775,7 @@ omni.soundestlink.com$image
 ||top100bloggers.com^$third-party
 ||top100webshops.com^$third-party
 ||top10sportsites.com^$third-party
+||topacad.com^$third-party
 ||topblogarea.com^$third-party
 ||topblogging.com^$third-party
 ||topdepo.com^$third-party
@@ -102338,6 +102345,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statscollector.sd-rtn.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
+||stg.truvidplayer.com/*/v.php?st=
 ||stileproject.com/vhtk/
 ||storage.googleapis.com/afs-prod/tags
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
@@ -104433,6 +104441,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||chatroll.com/t.gif
 ||chewy.com/api/event/
 ||chickadvisor.com/js/detect.min.js
+||chronicle.medal.tv^
 ||cidrap.umn.edu/core/modules/statistics
 ||cisco.com/c/dam/cdc/j/at.js
 ||cl.canva.com^
