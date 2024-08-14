@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PDTB32jLN/pnndoZPgB80w
+! Checksum: UDJibKOgeCN4YF4wW3oxPQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408140913
-! Last Modified: 2024年08月14日 09:13
+! Version: 202408141422
+! Last Modified: 2024年08月14日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -378,7 +378,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 -popunder.
 -publicidad.
 -right-ad.
--side-ad.
 -sidebar-ad.
 -sponsor-ad.
 -sticky-ad-
@@ -44451,6 +44450,7 @@ browsershots.org#@#.advert_area
 ||settledchagrinpass.com^
 ||settlepineapple.com^
 ||settrogens.com^
+||setupad.net^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
 ||seullocogimmous.com^
@@ -54539,6 +54539,7 @@ browsershots.org#@#.advert_area
 ||188.42.84.162^
 ||188.42.84.21^
 ||188.42.84.23^
+||194.26.232.61^
 ||203.195.121.0^
 ||203.195.121.103^
 ||203.195.121.119^
@@ -73208,6 +73209,9 @@ newduba.cn###jq_youxi
 ||vzdkngmf.icu^
 ||iqgessh.icu^
 ||5891344.xn--j1amh^
+||shbzkgs.cn^
+||srutvncb.top^
+||uumnxiet.top^
 ||weagehn.icu^
 ||eqygki.xyz^
 ||shbzjgs.cn^
@@ -81943,6 +81947,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||pfkgl.top/images/*.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+wenxuecity.com##DIV[class^="Inarticle_"]
 18183.com##.ad1
 supercloudsms.com##.container > div > a[id]
 tmioe.com##.singlegg
