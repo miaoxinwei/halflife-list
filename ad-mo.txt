@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ar0i3NbjO3ueFPPRQaF08g
+! Checksum: Fv2ZlcUEzlcx8NRjVz+E3w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408151423
-! Last Modified: 2024年08月15日 14:23
+! Version: 202408152031
+! Last Modified: 2024年08月15日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -28184,6 +28184,7 @@ browsershots.org#@#.advert_area
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotsanrantan.com^
 ||flounderhomemade.com^
@@ -30315,6 +30316,7 @@ browsershots.org#@#.advert_area
 ||halftimestarring.com^
 ||halfwayscratchcoupon.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallucinatecompute.com^
 ||hallucinatediploma.com^
 ||hallucinatepromise.com^
@@ -39392,6 +39394,7 @@ browsershots.org#@#.advert_area
 ||panisicelectre.top^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -43160,6 +43163,7 @@ browsershots.org#@#.advert_area
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -44976,6 +44980,7 @@ browsershots.org#@#.advert_area
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -52222,6 +52227,7 @@ browsershots.org#@#.advert_area
 ||zougreek.com^
 ||zoukooso.com^
 ||zouloafi.net^
+||zoustara.net^
 ||zoutubephaid.com^
 ||zoutufoostou.com^
 ||zouzougri.net^
@@ -62054,7 +62060,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~marmiton.org|~melty.fr|~nextplz.fr
 ||sportrecs.com/redirect/embed/
 ||startpage.com/sp/PsVHP/
-||tldw.me^$third-party
 ||ultimedia.com/js/common/smart.js$script,third-party
 ||vidazoo.com/basev/$script,third-party
 ||video-streaming.ezoic.com^
@@ -64171,6 +64176,7 @@ seattletimes.com##.H0FqVZjh86HAsl61ps5e
 naturalnews.com##.HALFBYEISCRJ
 metservice.com##.Header
 planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
+news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 games.washingtonpost.com##.HomeCategory__ads___aFdrmx_3
 mope.io##.Home__home-ad-wrapper
 semiconductor-today.com##.Horiba-banner
@@ -65226,6 +65232,7 @@ speakerdeck.com##.carbon-container
 buzzfeed.com##.card--article-ad
 u.today##.card--something-md
 nrl.com##.card-content__sponsor
+thepointsguy.com##.cardWidget
 devdiscourse.com##.carousel
 eetimes.com##.carousel-ad-wrapper
 faroutmagazine.co.uk,hitc.com##.carpet-border
@@ -73217,6 +73224,8 @@ newduba.cn###jq_youxi
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -88896,7 +88905,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cfff.net^$third-party
 ||chnci.com^$third-party
 ||chong-wu.net^
-||chunyuqiufeng.com^
+||chunyuqiufeng.com^$third-party
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^
