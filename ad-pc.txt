@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1pNGYYIvTfA/l4nYivNorg
+! Checksum: NdiF7ArvSFbQU9ur4fJ+9g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202408181421
-! Last Modified: 2024年08月18日 14:21
+! Version: 202408182031
+! Last Modified: 2024年08月18日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -62053,6 +62053,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||store-api.mumuglobal.com^
 ||strcloud.club/mainstream
+||streamingsites.com/images/adverticement/
 ||streamoupload.*/api/spots/$script
 ||streams.tv/js/slidingbanner.js
 ||streamsport.pro/hd/popup.php
@@ -64027,6 +64028,7 @@ newsfirst.lk###sponsored-content-1
 cnn.com###sponsored-outbrain-1
 hiphopkit.com###sponsored-sidebar
 homedepot.com###sponsored-standard-banner-nucleus
+philstar.com###sponsored_posts
 techmeme.com###sponsorposts
 fastseduction.com,geekwire.com,landreport.com,vuejs.org,whenitdrops.com###sponsors
 colourlovers.com###sponsors-links
@@ -64302,7 +64304,7 @@ yandex.com##.AdvOffers
 airportinfo.live,audiokarma.org,audizine.com##.AdvallyTag
 tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
 iogames.onl##.Advc
-tvnz.co.nz##.Advert
+tvnz.co.nz,world-nuclear-news.org##.Advert
 suffolknews.co.uk##.Advertisement
 thesouthafrican.com##.Advertisement__AdsContainer-sc-4s7fst-0
 phoenixnewtimes.com##.AirBillboard
@@ -65417,6 +65419,7 @@ thecable.ng##.cableads_mid
 encycarpedia.com##.cac
 strategie-bourse.com##.cadre_encadre_pub
 cafonline.com##.caf-o-sponsors-nav
+merriam-webster.com##.cafemedia-ad-slot-top
 clutchpoints.com##.cafemedia-clutchpoints-header
 challonge.com##.cake-unit
 calculat.io##.calc67-container
@@ -67006,6 +67009,7 @@ bramptonguardian.com,guelphmercury.com,insideottawavalley.com,thestar.com##.pola
 autoexpress.co.uk##.polaris__below-header-ad-wrapper
 autoexpress.co.uk,carbuyer.co.uk,evo.co.uk##.polaris__partnership-block
 bigissue.com##.polaris__simple-grid--full
+epmonthly.com##.polis-target
 compoundsemiconductor.net##.popular__section-newsx
 wethegeek.com##.popup-dialog
 welovemanga.one##.popup-wrap
