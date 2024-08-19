@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VZwo6UmZLy0+fDFu1TP4Dg
+! Checksum: QjTpvoa/T5O2tplQbuzXSA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202408190914
-! Last Modified: 2024年08月19日 09:14
+! Version: 202408191423
+! Last Modified: 2024年08月19日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1855,6 +1855,9 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||xmlgzr.xyz^
 ||swarku.xyz^
+||iaindu.cn^
+||dqlrfmwp.icu^
+||cewrutf.top^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
@@ -71137,6 +71140,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
+@@||browser-intake-datadoghq.com^$domain=pluto.tv
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
