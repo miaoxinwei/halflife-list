@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +RH5y6rH7qCq/lRhAQ4Ffg
+! Checksum: lPa9qptBulSWSEYQb9YqbA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408202031
-! Last Modified: 2024年08月20日 20:31
+! Version: 202408210221
+! Last Modified: 2024年08月21日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -9175,6 +9175,7 @@ _800x80_
 ##.adroot
 ##.adrotate-sponsor
 ##.adrotate-widget
+##.adrotate_ads_row
 ##.adrotate_top_banner
 ##.adrotate_widget
 ##.adrotate_widgets
