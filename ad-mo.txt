@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Um1bxdv/wjlQjX9uxUd+5g
+! Checksum: +RH5y6rH7qCq/lRhAQ4Ffg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408201423
-! Last Modified: 2024年08月20日 14:23
+! Version: 202408202031
+! Last Modified: 2024年08月20日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -61716,6 +61716,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||files.im/images/bbnr/
 ||filext.com/tools/fileviewerplus_b1/
 ||filmibeat.com/images/betindia.jpg
+||filmkuzu.com/pops$script
 ||finish.addurl.biz/webroot/ads/adsterra/
 ||finviz.com/gfx/banner_
 ||fishki.net/code?
@@ -69532,6 +69533,7 @@ gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
 justthenews.com,movieweb.com,screenrant.com,thegamer.com##.video
 petapixel.com##.video-aspect-wrapper
+fodors.com##.video-inline
 gearjunkie.com##.video-jwplayer
 bolavip.com##.video-player-placeholder
 benzinga.com##.video-player-wrapper
@@ -73482,6 +73484,8 @@ newduba.cn###jq_youxi
 ||hewrutu.top^
 ||jyjrbz.xyz^
 ||kjxhd.cn^
+||doujs08.shop^
+||baijs08.shop^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
