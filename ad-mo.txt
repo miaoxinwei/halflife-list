@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QYXzP1vtxcNBLFTsKYARZw
+! Checksum: KhQ1xfH9OGZaj7NkUjTwHQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408230913
-! Last Modified: 2024年08月23日 09:13
+! Version: 202408231422
+! Last Modified: 2024年08月23日 14:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63933,6 +63933,7 @@ forums.golfwrx.com###pb-slot-top
 demap.info###pcad
 shine.cn###pdfModal
 investopedia.com###performance-marketing_1-0
+webnovelworld.org###pfvidad
 premierguitar.com###pg_leaderboard
 tutorialspoint.com###pg_top_ads
 radiocaroline.co.uk###photographsforeverDiv
@@ -66930,6 +66931,7 @@ golfdigest.com##.o-ArticleRecirc
 drivencarguide.co.nz##.o-adunit
 lawandcrime.com,mediaite.com##.o-promo-unit
 afkgaming.com##.o-yqC
+webnovelworld.org##.oQryfqWK
 comicbook.com##.oas
 sentres.com##.oax_ad_leaderboard
 comiko.net##.ob-widget-items-container
@@ -67248,7 +67250,7 @@ dappradar.com##.rankings-ad-row
 rappler.com##.rappler-ad-container
 benzinga.com##.raptive-ad-placement
 wdwmagic.com##.raptive-custom-sidebar1
-atlantablackstar.com,finurah.com##.raptive-ddm-header
+atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
 epicdope.com##.raptive-placeholder-header
 gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
@@ -68895,7 +68897,7 @@ greatandhra.com##div[class^="add"]
 ndtv.com##div[class^="add_"]
 ntdeals.net,psdeals.net,xbdeals.net##div[class^="ads-"]
 dnaindia.com##div[class^="ads-box"]
-unilad.com##div[class^="advert-placeholder_"]
+tyla.com,unilad.com##div[class^="advert-placeholder_"]
 365scores.com##div[class^="all-scores-container_ad_placeholder_"]
 247solitaire.com,247spades.com##div[class^="aspace-"]
 stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
@@ -69604,6 +69606,7 @@ picrew.me##.play-Imagemaker_Footer
 sciencetimes.com##.player
 bossip.com##.player-wrapper-inner
 swimswam.com##.polls-461
+iheart.com##.provider-stn
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
 kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
@@ -73561,6 +73564,7 @@ newduba.cn###jq_youxi
 ||tehxzz.xyz^
 ||wfsmya.xyz^
 ||eacdf119.cn^
+||kewrutd.top^
 ||pwfqjp.xyz^
 ||weacdf211.cn^
 ||tufzdj.xyz^
@@ -140642,6 +140646,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
+@@||filme.imyfone.com/assets/js/gatrack.js$~third-party
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||forum.djicdn.com/static/js/sensorsdata.min.js$script,domain=forum.dji.com
 @@||friendbuy.com^$domain=butcherbox.com
