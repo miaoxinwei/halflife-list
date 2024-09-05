@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CBijWh44W+3eFXSeHf3TaQ
+! Checksum: 6H81VbRfHnTHQhRSXB+Cvw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202409052033
-! Last Modified: 2024年09月05日 20:33
+! Version: 202409060221
+! Last Modified: 2024年09月06日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -417,19 +417,19 @@ pan.baidu.com##.upload-bar.global-clearfix
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/api/posts?token=$third-party
 .com/sc/*?n=$script,third-party
-.com/script/a.js
-.com/script/asset.js
-.com/script/cdn.js
-.com/script/compatibility.js
-.com/script/document.js
+.com/script/a.js$third-party
+.com/script/asset.js$third-party
+.com/script/cdn.js$third-party
+.com/script/compatibility.js$third-party
+.com/script/document.js$third-party
 .com/script/file.js$third-party
-.com/script/foundation.js
-.com/script/frustration.js
-.com/script/image.js
-.com/script/mui.js
+.com/script/foundation.js$third-party
+.com/script/frustration.js$third-party
+.com/script/image.js$third-party
+.com/script/mui.js$third-party
 .com/script/script.js$third-party
 .com/script/utils.js$third-party
-.com/script/xbox.js
+.com/script/xbox.js$third-party
 .com/ss/ad/
 .com/watch.*.js?key=
 .cz/adv/
@@ -453,7 +453,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 .org/ad/$domain=~ylilauta.org
 .org/ads/
 .org/pops.js
-.org/script/compatibility.js
+.org/script/compatibility.js$third-party
 .ph/ads/
 .php/ad/
 .php/ads/
@@ -505,11 +505,12 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ad/popup.
 /ad300.jpg
 /ad300.js
-/ad300.png
+/ad300.png$image
+/ad728.png$image
 /ad?count=
 /ad?pos_
 /ad?type=
-/ad_728.jpg
+/ad_728.jpg$image
 /ad_728.js
 /ad_banner/*$image,domain=~ccf.com.cn
 /ad_bottom.jpg$image
@@ -555,7 +556,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adcount.js
 /adcount.php
 /addons/ads.
-/addyn/3.0/*
 /addyn|*;adtech;
 /addyn|*|adtech;
 /adengine.js
@@ -589,8 +589,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adright.$domain=~adright.com
 /adriver.$~script,domain=~adriver.co
 /adriver_$~object
-/ads-250.
-/ads-300.
+/ads-250.$image
 /ads-async.
 /ads-common.$image,script
 /ads-front.min.js
@@ -607,7 +606,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ads.jsp
 /ads.pl?
 /ads/!rotator/*
-/ads/300.
+/ads/300.$subdocument
 /ads/acctid=
 /ads/banners/*$image
 /ads/cbr.
@@ -659,15 +658,15 @@ pan.baidu.com##.upload-bar.global-clearfix
 /ads?zone_id=
 /ads_300.
 /ads_banners/*$image
-/ads_bg.
+/ads_bg.$image
 /ads_bottom.js
 /ads_controller.js
 /ads_footer.
 /ads_frame.
-/ads_iframe.
+/ads_iframe.$subdocument
 /ads_image/*$image
 /ads_images/*$image,domain=~wildlifeauctions.co.za
-/adsAPI.js
+/adsAPI.js$script
 /adsbanner-$image
 /adsbanner.
 /adsbanner/*$image
@@ -859,7 +858,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /css/adv.
 /curveball/ads/*$image
 /data-file_123.js
-/deliverad/fc.js
+/deliverad/fc.js$script
 /delivery.ads.
 /delivery.php?zone=
 /delivery/ag.php
@@ -881,7 +880,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /dynamicad?
 /ec5bcb7487ff.js
 /embed_ad.php
-/erobanner.js
 /exitpop.js
 /exitpopunder.js
 /exitpopup.js
@@ -985,7 +983,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /jsAds-1.4.min.js
 /jshexi.hj?lb=
 /jspopunder.js
-/jspopunder.min.js
+/jspopunder.min.js$script
 /keyade.js
 /layerad.js
 /lazyad-loader.js
@@ -1058,7 +1056,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /pageear/*$script
 /pagepeel.
 /pagepeelpro.js
-/partnerad.
 /partnerads/js/setcookie.js
 /partneradwidget.
 /partnerbanner.$domain=~toltech.cn
@@ -1103,7 +1100,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /pop_ads.js
 /popin-min.js
 /popu.js
-/popunder.min.js
 /popunder1.js$script
 /popunder2.js
 /popunder5.js
@@ -1121,7 +1117,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /prebid-video.js
 /prehead/ads_detect.js
 /prerollad.
-/prerollads.
 /prism_ad/*$script
 /processing/impressions.asp?
 /production/ad-$script
@@ -1136,7 +1131,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /publicidad.$~object,~stylesheet
 /publicidad/*$~xmlhttprequest
 /publicidad_$~stylesheet
-/publicidade.
+/publicidade.$~xmlhttprequest
 /publicidade/*$~xmlhttprequest
 /publicidades/*$~xmlhttprequest
 /puff_ad?
@@ -1177,29 +1172,29 @@ pan.baidu.com##.upload-bar.global-clearfix
 /SBA-WP-13.js
 /sbar.json?key=
 /sc-tagmanager/*$script
-/script/aclib.js
-/script/antd.js
+/script/aclib.js$third-party
+/script/antd.js$third-party
 /script/app_settings.js$third-party
-/script/atg.js
-/script/atga.js
-/script/g0D.js
-/script/g0dL0vesads.js
-/script/intrf.js
-/script/ippg.js
+/script/atg.js$third-party
+/script/atga.js$third-party
+/script/g0D.js$third-party
+/script/g0dL0vesads.js$third-party
+/script/intrf.js$third-party
+/script/ippg.js$third-party
 /script/java.php?$xmlhttprequest
-/script/jeSus.js
-/script/liB1.js
-/script/liB2.js
-/script/naN.js
-/script/native_render.js
-/script/native_server.js
-/script/npa2.min.js
+/script/jeSus.js$third-party
+/script/liB1.js$third-party
+/script/liB2.js$third-party
+/script/naN.js$third-party
+/script/native_render.js$third-party
+/script/native_server.js$third-party
+/script/npa2.min.js$third-party
 /script/nwsu.js$third-party
-/script/suv4r.js
-/script/thankYou.js
-/script/uBlock.js
+/script/suv4r.js$third-party
+/script/thankYou.js$third-party
+/script/uBlock.js$third-party
 /script/wait.php?*=$xmlhttprequest
-/script/xxAG1.js
+/script/xxAG1.js$third-party
 /scripts/chatur.js
 /sdk/push_web/?zid=
 /select_adv?
@@ -1239,7 +1234,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /sp/delivery/js.php
 /spacedesc=
 /spc.php
-/spcjs.php
+/spcjs.php$script
 /specialctrl.js
 /sponsor-ad$image
 /sponsor-banner.jpg
@@ -1306,7 +1301,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /videoad/*$script
 /videoads/*$~xmlhttprequest
 /videojs.ads-
-/videojs.sda.js
+/videojs.sda.js$script
 /view/ad/*$subdocument
 /view_banner.php
 /viewad.asp
@@ -1319,7 +1314,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /webads.js
 /webads/*$image,domain=~cccc.edu|~meatingplace.com
 /webadverts/ads.pl?
-/weborama.js
 /welcome_ad.js
 /widget-advert?
 /wordpress-ads-plug-in/*$script,stylesheet
@@ -1351,7 +1345,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /wpadgu-adblock.js
 /wpadgu-clicks.js
 /wpadgu-frontend.js
-/wpbanners_show.php
+/wpbanners_show.php$script
 /wppas.min.css
 /wppas.min.js
 /wpxbz-theme.js
@@ -1492,10 +1486,10 @@ _widget_ad.
 /plugins/ad-ace/assets/js/coupons.js
 /plugins/ad-ace/assets/js/slot-slideup.js
 /plugins/ad-ace/includes/shoppable-images/*
-/Ads/bid300a.aspx
-/Ads/bid300b.aspx
-/Ads/bid300c.aspx
-/Ads/bid728.aspx
+/Ads/bid300a.aspx$subdocument
+/Ads/bid300b.aspx$subdocument
+/Ads/bid300c.aspx$subdocument
+/Ads/bid728.aspx$subdocument
 /e/cm?$subdocument
 /e/ir?$image,script
 /in/track?data=
@@ -1627,7 +1621,7 @@ _prebid8.
 /adblock_detect.
 /adblock_detector.
 /adblock_detector2.
-/adblock_logger.
+/adblock_logger.$script
 /adblockdetect.
 /adblockdetection.
 /adBlockDetector/*$script
@@ -16799,6 +16793,7 @@ browsershots.org#@#.advert_area
 ||303marketplace.com^
 ||305421ba72.com^
 ||3071caa5ff.com^
+||307ea19306.com^
 ||307i6i7do.de^
 ||308d13be14.com^
 ||30986g8ab.de^
@@ -19092,6 +19087,7 @@ browsershots.org#@#.advert_area
 ||aneegroned.net^
 ||anemenzemkwkm.top^
 ||anemenznnkaka.top^
+||anentsyshrug.com^
 ||aneorwd.com^
 ||anetpkxx.com^
 ||anewgallondevious.com^
@@ -20016,6 +20012,7 @@ browsershots.org#@#.advert_area
 ||aversionmast.com^
 ||aversionwives.com^
 ||aversionworkingthankful.com^
+||avfqvyuqsdph.com^
 ||avgive3431.fun^
 ||avglfookdjuj.com^
 ||avhduwvirosl.com^
@@ -20580,6 +20577,7 @@ browsershots.org#@#.advert_area
 ||bbywwimafntyjbm.com^
 ||bc16fd1a7f.com^
 ||bc84617c73.com^
+||bcaakxxuf.com^
 ||bcae944449.com^
 ||bcaquzxajka.com^
 ||bcd8072b72.com^
@@ -21372,6 +21370,7 @@ browsershots.org#@#.advert_area
 ||bnrslks.com^
 ||bnserving.com^
 ||bnster.com^
+||bnwmyguuzvk.com^
 ||bnxiorj2a.com^
 ||bnxydwdgr.com^
 ||bo2ffe45ss4gie.com^
@@ -22325,8 +22324,10 @@ browsershots.org#@#.advert_area
 ||captiveimpossibleimport.com^
 ||captivityhandleicicle.com^
 ||captureleaderdigestion.com^
+||capturescaldsomewhat.com^
 ||capwilyunseen.com^
 ||car-bidpush.net^
+||carackirish.shop^
 ||caraganaarborescenspendula.com^
 ||caravancomplimentenabled.com^
 ||carbonads.com^
@@ -25131,6 +25132,7 @@ browsershots.org#@#.advert_area
 ||dfkoqeunyv.com^
 ||dfnetwork.link^
 ||dfpstitialtag.com^
+||dfptcslvqbn.com^
 ||dfsdkkka.com^
 ||dftjcofe.com^
 ||dfuaqw.com^
@@ -26005,6 +26007,7 @@ browsershots.org#@#.advert_area
 ||dthechildren.org^
 ||dtheharityhild.info^
 ||dthepeoplewhoc.org^
+||dthipkts.com^
 ||dtkhbsictxpu.com^
 ||dtkmflxaqwobno.com^
 ||dtmpub.com^
@@ -27074,6 +27077,7 @@ browsershots.org#@#.advert_area
 ||eryondistain.com^
 ||erysilenitmanb.com^
 ||esaidees.com^
+||esasaimpi.net^
 ||esathyasesume.info^
 ||esbeginnyweakel.org^
 ||esbmzyady.com^
@@ -27544,6 +27548,7 @@ browsershots.org#@#.advert_area
 ||f8e36bb73c.com^
 ||f95nkry2nf8o.com^
 ||fa77756437.com^
+||faabaytsrygcbvs.com^
 ||fabricwaffleswomb.com^
 ||fabriczigzagpercentage.com^
 ||fabrkrup.com^
@@ -27739,6 +27744,7 @@ browsershots.org#@#.advert_area
 ||fb99ef9239.com^
 ||fbcdn2.com^
 ||fbebmgbiou.com^
+||fbfedemjbpungf.com^
 ||fbffdfproxwqi.com^
 ||fbgdc.com^
 ||fbgwruetfgbhp.com^
@@ -30418,6 +30424,7 @@ browsershots.org#@#.advert_area
 ||haithalaneroid.com^
 ||haithoaz.net^
 ||haitingshospi.info^
+||haixomz.xyz^
 ||hajoopteg.com^
 ||haksaigho.com^
 ||halbertduffed.top^
@@ -31258,6 +31265,7 @@ browsershots.org#@#.advert_area
 ||hostingcloud.racing^
 ||hosupshunk.com^
 ||hot4k.org^
+||hotbqzlchps.com^
 ||hotdeskbabes.pro^
 ||hotegotisticalturbulent.com^
 ||hotgvibe.com^
@@ -32646,6 +32654,7 @@ browsershots.org#@#.advert_area
 ||itineraryupper.com^
 ||itlitleoan.com^
 ||itmamoswineer.com^
+||itnhosioqb.com^
 ||itnijtcvjb.xyz^
 ||itnuzleafan.com^
 ||itpatratr.com^
@@ -42776,6 +42785,7 @@ browsershots.org#@#.advert_area
 ||reclaimantennajolt.com^
 ||reclearsaulge.com^
 ||reclod.com^
+||recmwgis.com^
 ||recognisepeaceful.com^
 ||recognisetorchfreeway.com^
 ||recollectionchicken.com^
@@ -43376,6 +43386,7 @@ browsershots.org#@#.advert_area
 ||rhombosdupe.top^
 ||rhouseoyopers.info^
 ||rhpjzjqhgz.com^
+||rhrim.com^
 ||rhsorga.com^
 ||rhtysfkaqle.com^
 ||rhubarbmasterpiece.com^
@@ -45024,6 +45035,7 @@ browsershots.org#@#.advert_area
 ||showdoyoukno.info^
 ||showedinburgh.com^
 ||showedprovisional.com^
+||showjav11.fun^
 ||showkhussak.com^
 ||showmebars.com^
 ||showndistort.com^
@@ -45621,6 +45633,7 @@ browsershots.org#@#.advert_area
 ||solfafrate.top^
 ||soliads.io^
 ||soliads.net^
+||soliads.online^
 ||solicitorlaptopfooting.com^
 ||solicitorquite.com^
 ||solicitorviewer.com^
@@ -46869,6 +46882,7 @@ browsershots.org#@#.advert_area
 ||syenergyflexibil.com^
 ||syeniteexodoi.com^
 ||syetmpdktjeor.com^
+||syfroecxkn.com^
 ||syinga.com^
 ||syiwgwsqwngrdw.xyz^
 ||sykfmgu.com^
@@ -50258,6 +50272,7 @@ browsershots.org#@#.advert_area
 ||vwedfijcm.xyz^
 ||vwegihahkos.com^
 ||vwhnfwdbf.com^
+||vwhwspngk.com^
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
 ||vwpttkoh.xyz^
@@ -51715,6 +51730,7 @@ browsershots.org#@#.advert_area
 ||xml-api.online^
 ||xml-clickurl.com^
 ||xmladserver.com^
+||xmlap.com^
 ||xmlapiclickredirect.com^
 ||xmlapiclickredirect10102022.com^
 ||xmlgrab.com^
@@ -52260,6 +52276,7 @@ browsershots.org#@#.advert_area
 ||yuhliqltbtv.com^
 ||yuhqeim.com^
 ||yuhuads.com^
+||yuintbradshed.com^
 ||yukkedrodmen.top^
 ||yukonearshot.com^
 ||yukpxxp.com^
@@ -52771,6 +52788,7 @@ browsershots.org#@#.advert_area
 ||zzkzklrjlkbao.top^
 ||zzqolojyqkamj.top^
 ||zztsxepxumxoyw.com^
+||zzwuouqz.com^
 ||zzyjpmh.com^
 ||zzzjvqzkmqjlo.top^
 ||zzzjvqzkmqjyb.top^
@@ -54784,6 +54802,7 @@ browsershots.org#@#.advert_area
 ||googleadsserving.cn^
 ||googlevads-cn.com^
 ||00701059.xyz^$document,popup
+||00771944.xyz^$document,popup
 ||00857731.xyz^$document,popup
 ||01045395.xyz^$document,popup
 ||02777e.site^$document,popup
@@ -59794,12 +59813,14 @@ browsershots.org#@#.advert_area
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
+||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1588341617.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1918837748.rsc.cdn77.org^
 ||1wnurc.com^
 ||26216.stunserver.net/a8.js
 ||360playvid.com^$third-party
@@ -59917,6 +59938,7 @@ browsershots.org#@#.advert_area
 ||bunkrr.su/lazyhungrilyheadlicks.js
 ||c.bannerflow.net^
 ||c.bigcomics.bid^
+||c.kkraw.com^
 ||c2shb.pubgw.yahoo.com^
 ||caffeine.tv/embed/$third-party
 ||campaigns.williamhill.com^
@@ -61528,6 +61550,7 @@ browsershots.org#@#.advert_area
 ||creative.tklivechat.com^
 ||creative.usasexcams.com^
 ||crumpet.xxxpornhd.pro^
+||cuckoldland.com/CuckoldLand728-X-90-2.gif
 ||dagobert33.xyz^
 ||ddfcash.com^$third-party
 ||deliver.ptgncdn.com^
@@ -61683,6 +61706,7 @@ browsershots.org#@#.advert_area
 ||sleepgalleries.com/recips/$third-party
 ||smartmovies.net/promo_$third-party
 ||smpop.icfcdn.com^$third-party
+||smyw.org/popunder.min.js
 ||smyw.org/smyw_anima_1.gif
 ||snrcash.com/profilerotator/$third-party
 ||st.ipornia.com^$third-party
@@ -68904,7 +68928,6 @@ tenforums.com##[style="height:280px;"]
 kingmodapk.net##[style="height:300px"]
 geekzone.co.nz##[style="height:90px"]
 cycleexif.com,thespoken.cc##[style="margin-bottom: 25px;"]
-kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
 realitytvworld.com##[style="margin: 5px 0px 5px; display: inline-block; text-align: center; height: 250;"]
 gpfans.com##[style="margin:10px auto 10px auto; text-align:center; width:100%; overflow:hidden; min-height: 250px;"]
 scamrate.com##[style="max-width: 728px;"]
@@ -68921,7 +68944,6 @@ himovies.sx##[style="text-align: center; margin-bottom: 20px; margin-top: 20px;"
 analyticsinsight.net##[style="text-align: center;"]
 kreationnext.com##[style="text-align:center"]
 forum.nasaspaceflight.com##[style="text-align:center; margin-bottom:30px;"]
-kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="width: 300px; margin: 0px auto;"]
 deviantart.com##[style="width: 308px; height: 316px;"]
 waifu2x.net##[style="width: 90%;height:120px"]
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
@@ -73885,6 +73907,7 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
 ||cosouy.xyz^
@@ -88691,7 +88714,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||aobi.100bt.com/play/ad/ad*.swf
 @@||api.ads.tvb.com^
 @@||apk.tw^*/ads.js$script,~third-party
-@@||apkpure.com^$generichide
 @@||app-advertise.zhihuishu.com^
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.
