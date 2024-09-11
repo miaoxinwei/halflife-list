@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ej52el6olhgh/bi2L3ajhg
+! Checksum: qcfMyRhnj8pXzMrv8vC7og
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202409110223
-! Last Modified: 2024年09月11日 02:23
+! Version: 202409110917
+! Last Modified: 2024年09月11日 09:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -771,7 +771,6 @@ tieba.baidu.com##.tuijian-wrap
 /adserv.$script
 /adserve/*$script
 /adserver.$~stylesheet,~xmlhttprequest
-/adserver2.
 /adserver3.$image,script
 /adserver?
 /adsforwp-front.min.css
@@ -849,7 +848,6 @@ tieba.baidu.com##.tuijian-wrap
 /amp4ads-host-v0.js$script
 /ane-popup-1/ane-popup.js$script
 /ane-popup-banner.js$script
-/annonse.
 /annonser.
 /api.ads.$domain=~ads.instacart.com|~www.ads.com
 /api/ad.$script
@@ -886,7 +884,7 @@ tieba.baidu.com##.tuijian-wrap
 /banners/468$image
 /banners/728$image
 /banners/ads-$~xmlhttprequest
-/banners/ads.
+/banners/ads.$~xmlhttprequest
 /banners/adv/*$~xmlhttprequest
 /banners/aff.
 /banners/affil/*$image
@@ -958,7 +956,7 @@ tieba.baidu.com##.tuijian-wrap
 /external_ad?
 /external_ads.
 /fel456.js$script
-/fgh1ijKl.js
+/fgh1ijKl.js$script
 /flashad.asp$subdocument
 /flashad.js
 /flashads.$domain=~flashads.co.id
@@ -1037,7 +1035,6 @@ tieba.baidu.com##.tuijian-wrap
 /js.ng/channel_
 /js.ng/pagepos=
 /js3caf.js
-/jsad.php
 /jsAds-1.4.min.js$script
 /jshexi.hj?lb=
 /jspopunder.js$script
@@ -1071,7 +1068,7 @@ tieba.baidu.com##.tuijian-wrap
 /module/ads/*$~xmlhttprequest
 /modules/ad/*$~xmlhttprequest
 /modules/ads/*$~xmlhttprequest
-/MPUAdHelper.js
+/MPUAdHelper.js$script
 /mysimpleads/mysa_output.php$script
 /native/ts-master.$subdocument
 /nativeads-v2.js
@@ -1144,7 +1141,7 @@ tieba.baidu.com##.tuijian-wrap
 /plugins/wp125/*$~stylesheet
 /pop_8_2.js
 /pop_ads.js
-/popin-min.js
+/popin-min.js$script
 /popu.js
 /popunder1.js$script
 /popunder2.js
@@ -1259,14 +1256,13 @@ tieba.baidu.com##.tuijian-wrap
 /size=*/random=*/viewid=
 /skin/ad/*$image,script
 /skin/adv/*$~xmlhttprequest
-/skyadright.
 /skyscraperad.
 /slide_in_ads_close.gif$image
 /slider_ad.js$script
 /sliderad.js$script
 /small_ad.$image,domain=~eh-ic.com
 /smartlinks.epl?
-/sp/delivery/js.php
+/sp/delivery/*$script
 /spacedesc=
 /spc.php?$script
 /spcjs.php$script
@@ -1591,7 +1587,7 @@ _widget_ad.
 .prebid-bundle.
 .prebid.$domain=~prebid.org
 /ad/postbid_handler1.0.9.js
-/gpt-prebid.js
+/gpt-prebid.js$script
 /pbjsandwichdirecta9-$script
 /plugins/prebidjs/*$script
 /porpoiseant/*$script
@@ -15515,6 +15511,7 @@ _800x80_
 ##a[href^="https://datewhisper.life/"]
 ##a[href^="https://disobediencecalculatormaiden.com/"]
 ##a[href^="https://dl-protect.net/"]
+##a[href^="https://drumskilxoa.click/"]
 ##a[href^="https://eergortu.net/"]
 ##a[href^="https://engine.blueistheneworanges.com/"]
 ##a[href^="https://engine.flixtrial.com/"]
@@ -20130,6 +20127,7 @@ browsershots.org#@#.advert_area
 ||awistats.com^
 ||awkbkkqmeewkw.top^
 ||awkiktwfvhqiwb.com^
+||awkkkpktq.com^
 ||awkwardpurfles.com^
 ||awkwardsuperstition.com^
 ||awldcupu.com^
@@ -22132,6 +22130,7 @@ browsershots.org#@#.advert_area
 ||byeej.com^
 ||byfoongusor.com^
 ||bygliscortor.com^
+||bygoneudderpension.com^
 ||bygsworlowe.info^
 ||byhoppipan.com^
 ||byildmkzjyjx.com^
@@ -22560,6 +22559,7 @@ browsershots.org#@#.advert_area
 ||cdn.optmn.cloud^
 ||cdn.sdtraff.com^
 ||cdn12359286.ahacdn.me^
+||cdn2-1.net^
 ||cdn28786515.ahacdn.me^
 ||cdn2cdn.me^
 ||cdn2reference.com^
@@ -22709,6 +22709,7 @@ browsershots.org#@#.advert_area
 ||cftpolished5.top^
 ||cfusionsys.com^
 ||cgbaybqywso.com^
+||cgcobmihb.com^
 ||cgeckmydirect.biz^
 ||cgsjaulupnd.com^
 ||cgupialoensa.com^
@@ -25994,6 +25995,7 @@ browsershots.org#@#.advert_area
 ||drummerconvention.com^
 ||drummercorruptprime.com^
 ||drummercrouchdelegate.com^
+||drumskilxoa.click^
 ||drumusherhat.com^
 ||drunkardashamethicket.com^
 ||drunkarddecentmeals.com^
@@ -26574,6 +26576,7 @@ browsershots.org#@#.advert_area
 ||efptjivneg.com^
 ||efrnedmiralpenb.info^
 ||efumesok.xyz^
+||efvccdamzlvhl.com^
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
 ||egalitysarking.com^
@@ -29501,6 +29504,7 @@ browsershots.org#@#.advert_area
 ||gixeedsute.net^
 ||gixiluros.com^
 ||gjffrtfkhf.xyz^
+||gjgtcnhlypqsv.com^
 ||gjhksxthokyjlm.com^
 ||gjigle.com^
 ||gjjvjbe.com^
@@ -32432,6 +32436,7 @@ browsershots.org#@#.advert_area
 ||interdfp.com^
 ||interestalonginsensitive.com^
 ||interestededit.com^
+||interestingpracticable.com^
 ||interestmoments.com^
 ||interestsubsidereason.com^
 ||interfacemotleyharden.com^
@@ -33000,6 +33005,7 @@ browsershots.org#@#.advert_area
 ||jeczxxq.com^
 ||jedotsad.xyz^
 ||jedrixurykpjl.com^
+||jeefaiwochuh.net^
 ||jeehathu.com^
 ||jeejeetauz.com^
 ||jeejujou.net^
@@ -33112,6 +33118,7 @@ browsershots.org#@#.advert_area
 ||jhneyyawsibo.com^
 ||jhoncj.com^
 ||jhrfemourkojc.com^
+||jhsnshueyt.click^
 ||jhulubwidas.com^
 ||jhwo.info^
 ||jicamadoless.com^
@@ -35732,6 +35739,7 @@ browsershots.org#@#.advert_area
 ||mapakrogngi.com^
 ||mapamnni.com^
 ||mapbovdpdy.com^
+||mapeeree.xyz^
 ||maper.info^
 ||maplecurriculum.com^
 ||maquiags.com^
@@ -36597,6 +36605,7 @@ browsershots.org#@#.advert_area
 ||modifymaintenance.com^
 ||modifywilliamgravy.com^
 ||modiolitorah.top^
+||modoodeul.com^
 ||modoro360.com^
 ||modulecooper.com^
 ||moduledescendantlos.com^
@@ -39417,6 +39426,7 @@ browsershots.org#@#.advert_area
 ||ovibospeseta.com^
 ||ovjrqycdrwqh.com^
 ||ovkamwvdof.com^
+||ovkcuzujnl.com^
 ||ovqds.com^
 ||ovsdnhpigmtd.xyz^
 ||ovsgalzea.com^
@@ -40489,6 +40499,7 @@ browsershots.org#@#.advert_area
 ||pitcherprobable.com^
 ||piteevoo.com^
 ||pitonlocmna.com^
+||pitsampy.net^
 ||pitshopsat.com^
 ||pitteddilemma.top^
 ||pitycultural.com^
@@ -42530,7 +42541,6 @@ browsershots.org#@#.advert_area
 ||racticalwhich.com^
 ||ractors291wicklay.com^
 ||racunn.com^
-||racygirlq.com^
 ||radarconsultation.com^
 ||radarwitch.com^
 ||radeant.com^
@@ -53175,6 +53185,7 @@ browsershots.org#@#.advert_area
 ||downlon.com^$document
 ||dreamteamaffiliates.com^$document
 ||drsmediaexchange.com^$document
+||drumskilxoa.click^$document
 ||dsp5stero.com^$document
 ||dutydynamo.co^$document
 ||earlinessone.xyz^$document
@@ -53259,6 +53270,7 @@ browsershots.org#@#.advert_area
 ||jaclottens.live^$document
 ||jeroud.com^$document
 ||jggegj-rtbix.top^$document
+||jhsnshueyt.click^$document
 ||jlodgings.com^$document
 ||js-check.com^$document
 ||junmediadirect1.com^$document
@@ -53301,6 +53313,7 @@ browsershots.org#@#.advert_area
 ||mndlvr.com^$document
 ||moadworld.com^$document
 ||mobiletracking.ru^$document
+||modoodeul.com^$document
 ||moralitylameinviting.com^$document
 ||mouthdistance.bond^$document
 ||myjack-potscore.life^$document
@@ -55003,6 +55016,7 @@ browsershots.org#@#.advert_area
 ||70b927c8.live^$document,popup
 ||72075223.xyz^$document,popup
 ||72560514.xyz^$document,popup
+||72716408.xyz^$document,popup
 ||74142961.xyz^$document,popup
 ||75690049.xyz^$document,popup
 ||7608d5.xyz^$document,popup
@@ -56304,6 +56318,7 @@ browsershots.org#@#.advert_area
 ||dribbleads.com^$popup
 ||droppalpateraft.com^$popup
 ||drsmediaexchange.com^$popup
+||drumskilxoa.click^$popup
 ||dsp.wtf^$popup
 ||dsp5stero.com^$popup
 ||dspultra.com^$popup
@@ -57036,6 +57051,7 @@ browsershots.org#@#.advert_area
 ||jfjle4g5l.com^$popup
 ||jfkc5pwa.world^$popup
 ||jggegj-rtbix.top^$popup
+||jhsnshueyt.click^$popup
 ||jillbuildertuck.com^$popup
 ||jjcwq.site^$popup
 ||jlodgings.com^$popup
@@ -57382,6 +57398,7 @@ browsershots.org#@#.advert_area
 ||mobsuitem.com^$popup
 ||modescrips.info^$popup
 ||modificationdispatch.com^$popup
+||modoodeul.com^$popup
 ||moilizoi.com^$popup
 ||moksoxos.com^$popup
 ||moleconcern.com^$popup
@@ -59933,17 +59950,21 @@ browsershots.org#@#.advert_area
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1136707664.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||123-stream.org^
 ||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1450691516.rsc.cdn77.org^
+||1510557931.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
+||1560738516.rsc.cdn77.org^
 ||1588341617.rsc.cdn77.org^
 ||1607162747.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1693418686.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
 ||1wnurc.com^
@@ -61547,6 +61568,7 @@ browsershots.org#@#.advert_area
 ||record.affiliatelounge.com^$popup
 ||redir.tradedoubler.com/projectr/$popup
 ||refpamjeql.top^$popup
+||romancezone.one^$popup
 ||securitypatch.life^$popup
 ||serve.prestigecasino.com^$popup
 ||serve.williamhillcasino.com^$popup
@@ -70129,7 +70151,7 @@ the-express.com##.stn-video-container
 si.com##.style_hfl21i-o_O-style_uhlm2
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
-justthenews.com,movieweb.com,screenrant.com,thegamer.com##.video
+justthenews.com,movieweb.com,thegamer.com##.video
 petapixel.com##.video-aspect-wrapper
 bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
 fodors.com##.video-inline
@@ -72214,7 +72236,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 !! g.doubleclick.net/pagead/managed/js/gpt/
 @@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|ictnews.org|journaldequebec.com|mediaite.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
 !! pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=battlecats-db.com|cpu-world.com|game.anymanager.io|games.wkb.jp|html5.gamedistribution.com|knowfacts.info|lacoste.com|megagames.com|megaleech.us|newson.us|real-sports.jp|slideplayer.com|sudokugame.org|tampermonkey.net|teemo.gg|thefreedictionary.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=allb.game-db.tw|battlecats-db.com|cpu-world.com|game.anymanager.io|games.wkb.jp|html5.gamedistribution.com|knowfacts.info|lacoste.com|megagames.com|megaleech.us|newson.us|real-sports.jp|slideplayer.com|sudokugame.org|tampermonkey.net|teemo.gg|thefreedictionary.com
 !! pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=battlecats-db.com|game.anymanager.io|games.wkb.jp|sudokugame.org
 !! pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_
@@ -74106,6 +74128,12 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||wiwlqc.xyz^
+||baigamp.icu^
+||bnhorn.xyz^
+||gvvedashb6.fun^
+||uqykeq.xyz^
+||vxcvd67.fun^
 ||595image.com^
 ||73336zubo25326.com^
 ||bapa215.top^
