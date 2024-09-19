@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NVKvaVs7YcH13EKuORnUig
+! Checksum: 8VnKPl9kPxIsQSeMB5SjZA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409190223
-! Last Modified: 2024年09月19日 02:23
+! Version: 202409190919
+! Last Modified: 2024年09月19日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1782,6 +1782,7 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
+##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##.ads_topBanner
 ##div#xinxi
 ##div[bannerlist]
@@ -1856,9 +1857,18 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||csdcfvgf4.fun^
+||megydyk.icu^
+||quyuancn.com^$third-party
+||szapaqi.cn^
+||zjsnhl.xyz^
 ||dscds111.fun^
 ||qrwcss.xyz^
 ||tkiteri.top^
+||cdunwi.xyz^
+||sfesdef6.fun^
+||pcxnrd.xyz^
+||wlkukrv.icu^
 ||jy08.shop^
 ||fq06.shop^
 ||qkitery.top^
@@ -71016,6 +71026,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||forum.djicdn.com/static/js/sensorsdata.min.js$script,domain=forum.dji.com
 @@||friendbuy.com^$domain=butcherbox.com
+@@||ganyancanavari.com/js/fingerprint2.min.js$~third-party
 @@||geoip-db.com/jsonp/$script,third-party
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||getflywheel.com/addons/google-analytics/$~third-party
