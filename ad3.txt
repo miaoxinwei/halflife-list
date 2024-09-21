@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JLvZ2PfE3QkvsAmv/BRW2A
+! Checksum: MTOIezBo/dKGpAdKECI5+w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409211422
-! Last Modified: 2024年09月21日 14:22
+! Version: 202409212031
+! Last Modified: 2024年09月21日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1857,6 +1857,8 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||jy09.shop^
+||vcdfsf99.fun^
 ||cosmo100.top^
 ||agufoi.xyz^
 ||sdss99.fun^
@@ -10375,6 +10377,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 /cuid/*$domain=colamanga.com
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
+cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
 wenxuecity.com##.rightbannerw
 yeeyi.com##.js_handle_right
 raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
@@ -26101,6 +26105,7 @@ omni.soundestlink.com$image
 ||remind.me^$third-party
 ||renderbetter.net^$third-party
 ||repixel.co^$third-party
+||replaybird.com^$third-party
 ||report-uri.com^$third-party
 ||report-uri.io^$third-party
 ||requestmetrics.com^$third-party
@@ -29278,6 +29283,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||levelaccess.net/analytics/
+||lh.bigcrunch.com^
 ||lhinsights.com/collect?
 ||libcdnjs.com/api/event
 ||libs.platform.californiatimes.com/meteringjs/
@@ -31379,6 +31385,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a.flux.jp/analytics.collect.v1.CollectService/Collect
 ||a.o2u.jp^
 ||ac.prism-world.jp.net^
+||acclog001.shop-pro.jp^
+||acclog002.shop-pro.jp^
 ||ad.daum.net^
 ||affiliate.rakuten.co.jp^$script,third-party
 ||analytics-beacon.p.uliza.jp^
@@ -31386,9 +31394,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.liveact.cri-mw.jp^
 ||analytics.livesense.marketing^
 ||analytics.partcommunity.com^
+||analytics.spearly.com^
 ||analyzer51.fc2.com^
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
+||appront.net/click.js
 ||asumi.shinobi.jp^
 ||b.karte.io^
 ||b.sli-spark.com^
@@ -31499,6 +31509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||targeting.focas.jp^
+||tetori-colorme.com/share/js/tracking.js
 ||tm.msgs.jp^
 ||tr.c-tag.net^
 ||tr.dec-connect.decsuite.com^
@@ -70495,6 +70506,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||nicoad.nicovideo.jp/*/instream/tracking/
 ||nicolive.cdn.nimg.jp/relive/sp/browser-logs.
 ||nicolive.cdn.nimg.jp/relive/sp/trackingService.
+||nicovideo.jp/analyze/
 ||nicovideo.jp/api/counter/
 ||nikkei.com/.resources/tracking/
 ||nvapi.nicovideo.jp/v1/bandit-machine/
