@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HI+lJybB69d8du6ukAUsLA
+! Checksum: tT/gv8S1yVEdgWSNi8bTWw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202409230920
-! Last Modified: 2024年09月23日 09:20
+! Version: 202409231426
+! Last Modified: 2024年09月23日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -61623,6 +61623,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||mafvertizing.crazygames.com^
 ||mail-ads.google.com^
 ||mail.aol.com/d/gemini_api/?adCount=
+||majorgeeks.com/mg/slide/mg-slide.js
 ||manga1000.top/hjshds.js
 ||manga1001.top/gdh/dd.js
 ||manga18.me/usd2023/usd_frontend.js
@@ -73466,6 +73467,7 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||jwatera.top^
 ||muwqiga.icu^
 ||swad332.fun^
 ||ajockk.xyz^
@@ -82004,6 +82006,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 /mpc/*$domain=52xkdy.com|fydy8.com
 ||ads.yeeyi.com^
 /cuid/*$domain=colamanga.com
+||tsdm39.com/img01/MP3/GG/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 hdhive.online#?#.mt-4:-abp-has(>.text-lg)
