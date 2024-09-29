@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dJTGw+vwfedD+rhKfp0kCg
+! Checksum: bsza+jStzB3UdWXKJCE9zw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409291423
-! Last Modified: 2024年09月29日 14:23
+! Version: 202409292032
+! Last Modified: 2024年09月29日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1867,6 +1867,7 @@ newduba.cn###jq_youxi
 ||itqwesk.icu^
 ||heryt111.fun^
 ||roxwusak.icu^
+||jeryt111.fun^
 ||cfdvd779.fun^
 ||dajs001.shop^
 ||kfocken.icu^
@@ -22708,6 +22709,7 @@ m.babytree.com##script + a[class]
 /pixy.gif?
 /planetstat.php
 /plausible.js$domain=~plausible.io
+/plausible.manual.js
 /plausible.outbound-links.js$domain=~plausible.io
 /player-test-impression?
 /player/stats.php?
@@ -29595,6 +29597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtvnservices.com/aria/uuid.html
 ||mtvnservices.com/measurements/
 ||mtvnservices.com/metrics/
+||multiup.us/cdn-cgi/trace
 ||munchkin.marketo.net^
 ||murdoog.com^*/Pixel/$image
 ||museter.com/track.php?
@@ -31371,6 +31374,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wee.dk/modules/$third-party
 ||adcalls.nl^$third-party
 ||adult-trade.nl/lo/track.php
+||amazonaws.com/prod/v1/track$domain=ixxi.com
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
@@ -31395,6 +31399,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.rbi-nl.com^
 ||tags.hilabel.nl^
 ||tr.mediafin.be^
+||trjs2.mediafin.be^
 ||trkr.shoppingminds.net^
 ||ugent.be/js/log.js
 ||almamedia.fi^*/scroll-monitor.min.js
@@ -33287,6 +33292,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamta.site/stat/
 ||streamtape.cc/stat/
 ||streamtape.com/stat/
+||streamtape.net/stat/
 ||streamtape.to/stat/
 ||streamtape.xyz/stat/
 ||streamtapeadblock.art/stat/
@@ -69786,6 +69792,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||events.limango.com^
 ||fc.vodafone.de^
 ||fotocommunity.de/track/
+||fpoe.at/tracker/
 ||froglytics.eventfrog.ch^
 ||gegenstimme.tv/tracker/
 ||geoip.finanzen.net^
@@ -70607,6 +70614,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fspark-ap.com/ft/analytics_log
 ||g123.jp/stats?
 ||game-i.daa.jp/skin/analytics.php
+||game8.jp/logs^
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||gtm.diamond.jp^
@@ -70672,6 +70680,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sy.amebame.com^
 ||sy.ameblo.jp^
 ||t.syosetu.org^
+||tanweb.net/wordpress/?rest_route=/sng/v1/page-count
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||temp.twicomi.com^
 ||tower.jp/bundle/beacon
