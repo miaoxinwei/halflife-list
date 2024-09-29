@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JYlHmKqUdFxVv9xhtk+zbA
+! Checksum: flxVdHpe03Aj4zrS/habOA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202409290221
-! Last Modified: 2024年09月29日 02:21
+! Version: 202409290927
+! Last Modified: 2024年09月29日 09:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -73538,6 +73538,7 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
+###kp-mid-sport.fed-back-whits
 ##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##.ads_topBanner
 ##div#xinxi
@@ -73613,6 +73614,13 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||ayebsc.xyz^
+||enokouv.icu^
+||cdszgg.xyz^
+||yzldy.info^
+||teryt111.fun^
+||itqwesk.icu^
+||heryt111.fun^
 ||cfdvd779.fun^
 ||dajs001.shop^
 ||kfocken.icu^
@@ -140749,7 +140757,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||researchintel.com^*/feedback.asp$xmlhttprequest,domain=intel.com
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
-@@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
+@@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com|spirithalloween.com
 @@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com
 @@||sc.youmaker.com/site/article/count?
