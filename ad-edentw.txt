@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q4X82Lgz8kGCKz9CNPP0lg
+! Checksum: vEiEVFnstXMhcQ38s2HE1g
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202409280920
-! Last Modified: 2024年09月28日 09:20
+! Version: 202409302037
+! Last Modified: 2024年09月30日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1594,6 +1594,7 @@ dzen.ru,lena-miro.ru,levik.blog,livejournal.com,olegmakarenko.ru,periskop.su,sha
 dzen.ru#$#override-property-read Object.prototype.adFoxParameters null
 gencit.info#$#abort-on-property-read Radish
 bb.lv#$#abort-on-property-read adjustBackground false
+forums.rusmedserv.com#$#abort-on-property-read atob
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,f1ua.org.ua,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
 ! Popup/popunder/clickunder
@@ -1743,18 +1744,18 @@ www.iosviet.com#$#override-property-read timer 0
 saigon24.net#$#abort-current-inline-script document.getElementById myModal
 cliphot69.baby#$#override-property-read a_vid 0
 ! Popup/Popunder/Clickunder
-fembed.com,femax20.com,m.blogtruyenvn.org,viettoons.tv,vinaurl.net,animet3.net,anh.moe,maclife.io,javfc2.net,hoctot.hocmai.vn,motchilltv.my,cdn2.blueskychilling.online,ohaha79xxx.site,fastscansz.com,herotruyen.com#$#abort-on-property-read open
+fembed.com,femax20.com,m.blogtruyenvn.org,viettoons.tv,vinaurl.net,animet3.net,anh.moe,maclife.io,xemphimjav.com,hoctot.hocmai.vn,motchilltv.my,cdn2.blueskychilling.online,ohaha79xxx.site,fastscansz.com,herotruyen.com#$#abort-on-property-read open
 tvhay.top#$#abort-current-inline-script JSON.parse atob
 truyen2u.net#$#abort-current-inline-script eval
 thienhatruyen3.com#$#abort-current-inline-script $ pc-popup-2
 sexphimhd.net,www.gvnvh.net#$#abort-current-inline-script Math
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.ch,sex.sieudamtv.biz,ephimchill.com,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.tv,www.khophim88s.com,nhentaivn.online,mv.dailyphimz.com,mv.phimbathu.one#$#abort-on-property-read document.cookie
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.ch,sieudamtv.biz,ephimchill.com,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.tv,www.khophim88s.com,nhentaivn.online,mv.dailyphimz.com,mv.phimbathu.one#$#abort-on-property-read document.cookie
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
 truyentuan.xyz#$#abort-current-inline-script $ btpop
-xoilacg.cc#$#abort-on-property-read adsRedirectPopups
+xoilacl.cc#$#abort-on-property-read adsRedirectPopups
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad;abort-on-property-read pushOnPageGala
 javnong.cc#$#abort-on-property-read Math.round
@@ -1775,7 +1776,7 @@ animehay.cam#$#abort-current-inline-script document.addEventListener window.open
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
 vailonxx.vip,phimlongtieng.com,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
 tctruyen.cc,abtruyenmoi.com#$#abort-current-inline-script $ popup
-nettruyenfx.com,viet69.rip#$#abort-current-inline-script Promise break;case
+truyengpt.com,viet69.rip#$#abort-current-inline-script Promise break;case
 holyfilm.org#$#abort-current-inline-script window.addEventListener window.open
 www.nettruyenupp.com#$#abort-on-property-read sp
 phimtho.net#$#abort-current-inline-script $ p0pUpRandom
