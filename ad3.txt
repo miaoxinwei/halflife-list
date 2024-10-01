@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zRoQJGZH2g3jvTp/PmX/ZA
+! Checksum: M9FVb1b8JcBblkxBux4+ew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202410011426
-! Last Modified: 2024年10月01日 14:26
+! Version: 202410012036
+! Last Modified: 2024年10月01日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1859,6 +1859,7 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||zeryt111.fun^
 ||tuxpfiok.icu^
 ||ieryt111.fun^
 ||cwwgqu.xyz^
@@ -10494,6 +10495,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||tsdm39.com/img01/MP3/GG/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ysgc.fun,ysgc.tv##.swiper-slide > a[target="_blank"]
+ysgc.fun,ysgc.tv##.myui-panel_bd > div > a[target="_blank"]
 msn.cn##gaming-discover-strip
 msn.cn##casual-games-carousel-card
 msn.cn##.game-advertise-container
@@ -31651,6 +31654,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sync.shinobi.jp^
 ||sysmon.kakaku.com^
 ||t.adlpo.com^
+||t.blog.livedoor.jp^
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
@@ -70642,6 +70646,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||img.syosetu.org/js/c_
 ||j1.ax.xrea.com^
 ||k-crm.jp/tracking.js
+||kojima.net/excludes/KPC/js/kjm_gtm.js
 ||korewaeroi.com/fukugan_$subdocument
 ||link.tv-asahi.co.jp/tver/cookiesync?
 ||ln.ameba.jp^
