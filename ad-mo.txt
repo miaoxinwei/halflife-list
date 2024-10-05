@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: h0PDVTgdfKWOsDEH8+2SoQ
+! Checksum: IfjaXaH/6opfGjpY3gtKLg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202410050223
-! Last Modified: 2024年10月05日 02:23
+! Version: 202410050919
+! Last Modified: 2024年10月05日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63450,6 +63450,7 @@ comicsheatingup.net###custom_html-5
 colombiareports.com,filmschoolrejects.com,hongkongfp.com,phoneia.com,sarkarideals.com,weatherboy.com###custom_html-6
 medievalists.net###custom_html-7
 theteche.com###custom_html-8
+wsj.com###cx-deloitte-insight
 dailycaller.com###dailycaller_incontent_2
 dailycaller.com###dailycaller_incontent_3
 dailycaller.com###dailycaller_incontent_4
@@ -68228,7 +68229,7 @@ kiryuu.id##.wp-image-465340
 thecricketlounge.com##.wp-image-88221
 weisradio.com##.wp-image-931153
 appuals.com##.wp-timed-p-content
-bevmalta.org,chromoscience.com,conandaily.com,hawaiireporter.com,michaelsavage.com##.wpa
+bevmalta.org,chromoscience.com,conandaily.com,gamersocialclub.ca,hawaiireporter.com,michaelsavage.com##.wpa
 techyv.com##.wpb_raw_code
 premiumtimesng.com##.wpb_raw_code > .wpb_wrapper
 ukutabs.com##.wpb_raw_html
@@ -69309,6 +69310,7 @@ barandbench.com##.ad-wrapper-module__adContainer__iD4aI
 slickdeals.net##.announcementBar:has(.sponsorContent)
 nation.africa##.article-collection-teaser:has(.sponsored-label)
 thesun.co.uk##.article-sidebar .widget-sticky:has([class*="ad_widget"])
+historic-uk.com##.article-sidebar:has-text(Advertisement)
 forexlive.com##.article-slot__wrapper:has(.article-header__sponsored)
 time.com##.article-small-sidebar > .sticky-container:has(div[id^="ad-"])
 blitz.gg##.aside-content-column:has(.display-ad)
@@ -73598,6 +73600,7 @@ newduba.cn###jq_youxi
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
+##.xzad-list
 ##a[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
@@ -73702,6 +73705,14 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||yfoega.xyz^
+||chooncv.icu^
+||mvcngm.xyz^
+||eaqgsw.xyz^
+||pakaujf.icu^
+||ntpnfyga.icu^
+||prtfpl.xyz^
+||absalomcsa.com^
 ||sjezce.xyz^
 ||twurseri.top^
 ||d2tf0.icu^
@@ -103327,6 +103338,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
 ||idstatus.sky.com^
+||img2021.navyfederal.org^
 ||imgs.signifyd.com^
 ||mfasa.chase.com/auth/js/jpmc_bb_check.js
 ||olacontent.schwab.com^$script
@@ -140774,8 +140786,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||community.brave.com/t/$xmlhttprequest
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||console.statsig.com/_next/$~third-party
-@@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
-@@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||coremetrics.com*/eluminate.js
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html$xmlhttprequest
