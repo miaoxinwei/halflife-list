@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rjcwrnaCRAIqfVbqr0+h3w
+! Checksum: 7MMN71uAjmlws0uz/nYX5g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202410071426
-! Last Modified: 2024年10月07日 14:26
+! Version: 202410072036
+! Last Modified: 2024年10月07日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54584,6 +54584,7 @@ browsershots.org#@#.advert_area
 ||10753990.xyz^$document,popup
 ||11152646.xyz^$document,popup
 ||1116c5.xyz^$document,popup
+||11778562.xyz^$document,popup
 ||11c7a3.xyz^$document,popup
 ||1350c3.xyz^$document,popup
 ||14202444.xyz^$document,popup
@@ -61640,6 +61641,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||assets.presearch.com/backgrounds/
 ||atoplay.com/js/rtads.js
 ||atptour.com^*/sponsors/
+||attr-shift.dotabuff.com^
 ||audiotag.info/images/banner_
 ||aurn.com/wp-content/banners/
 ||aveherald.com/images/banners/
@@ -69620,6 +69622,7 @@ healthyrex.com##div.textwidget:has(a[rel="nofollow sponsored"])
 bestbuy.ca##div.x-productListItem:has([class^="sponsoredProduct"])
 timesnownews.com,zoomtventertainment.com##div:has(> .bggrayAd)
 newsfirst.lk##div:has(> [class*="hide_ad"])
+fandomwire.com##div:has(> [data-openweb-ad])
 doordash.com##div:has(> a[data-anchor-id="SponsoredStoreCard"])
 skyscanner.com,skyscanner.net##div:has(> a[data-testid="inline-brand-banner"])
 wolt.com##div:has(> div > div > div > div > div > p:has-text(Sponsored))
@@ -73865,6 +73868,7 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||oaiqksi.top^
 ||edadmy.xyz^
 ||kgymoc.xyz^
 ||xlxehr.xyz^
@@ -82582,6 +82586,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+wenxuecity.com##div[id*="gg_"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
@@ -83241,12 +83246,9 @@ xiazaizhijia.com###gg_2
 324324.cn###gg_468_60
 324324.cn###gg_728_90
 miniie.com,tisai.com###gg_content
-wenxuecity.com###gg_multitext
-wenxuecity.com###gg_rightside
 kukuw.com###gg_rl
 7654.com###gg_top
 shouji56.com###gg_top_banner
-wenxuecity.com###gg_viewBottom
 baidu.com###ggbtm
 wenku.baidu.com###ggbtm-ads
 huya.com###ggcomment
