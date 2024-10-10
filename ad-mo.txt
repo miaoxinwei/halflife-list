@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KMjZYooC58XjFPh1TlSetw
+! Checksum: 8LG1Ux4zPdtIk3Eso9LXLg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202410101425
-! Last Modified: 2024年10月10日 14:25
+! Version: 202410102034
+! Last Modified: 2024年10月10日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62308,6 +62308,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||geo.dailymotion.com/libs/player/$script,domain=mb.com.ph|philstarlife.com
 ||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~omelete.com.br
 ||gpv.ex.co^$third-party
+||imgix.video^
 ||innovid.com/media/encoded/*.mp4$rewrite=abp-resource:blank-mp4,domain=ktla.com
 ||interestingengineering.com/partial/connatix_desktop.html
 ||jwpcdn.com^$script,domain=bgr.com|decider.com|dexerto.com
@@ -71905,6 +71906,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||centro.co.il^$generichide
 @@||coinmarketcap.com/static/addetect/$script,~third-party
 @@||dlh.net^$script,subdocument,domain=dlh.net
+@@||dragontea.ink^$generichide
 @@||exponential.com^*/tags.js$domain=yellowbridge.com
 @@||games.pch.com^$generichide
 @@||maxstream.video^$generichide
@@ -102962,6 +102964,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||samsung.com/us/web/internal/logger
 ||sapi.tremendous.com^
 ||sapphire-api.target.com^
+||scholar.google.com^$ping
 ||sciencechannel.com/events/
 ||scloud.online/stat/
 ||scoot.co.uk/ajax/log_
@@ -141119,6 +141122,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
 @@||nintendolife.com/themes/base/javascript/fingerprint.js$~third-party
+@@||noaa.maps.arcgis.com/apps/instant/*/AppMeasurement.js$~third-party
 @@||nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||noodid.ee/chordQuiz/$~third-party
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
