@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4v9331k1D6e7wZuhrrpuZg
+! Checksum: IZcoNM0iI8VcRl2Xz9FhgA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202410120223
-! Last Modified: 2024年10月12日 02:23
+! Version: 202410120918
+! Last Modified: 2024年10月12日 09:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1866,6 +1866,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||sbovgy.xyz^
+||myqmgm.xyz^
+||sgsosi.xyz^
+||rnwenpn.icu^
+||vjharl.xyz^
 ||amsbce.xyz^
 ||ygipjqf.icu^
 ||gpqkeq.xyz^
@@ -24265,6 +24270,7 @@ omni.soundestlink.com$image
 ||apharponloun.com^
 ||apxl.io^
 ||as3.io^
+||aseads.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
@@ -71438,6 +71444,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||lacoste.com^*/click-analytics.js$~third-party
+@@||lamycosphere.com/cdn/shop/*/assets/pixel.gif$image,~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
 @@||leanplum.com^$domain=arkadium.com
