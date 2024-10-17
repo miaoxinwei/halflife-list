@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Yfg3VJdDPmgW3/2ZHifQhQ
+! Checksum: OyBZYFdyzMOLpaUdJxBBMQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202410170921
-! Last Modified: 2024年10月17日 09:21
+! Version: 202410171425
+! Last Modified: 2024年10月17日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -67556,7 +67556,7 @@ douglas.*##.swiper-slide:has(button[data-testid="sponsored-button"])
 douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
 laredoute.*###hp-sponsored-banner
 lazada.*##.pdp-block__product-ads
-pinterest.*##[data-grid-item]:has([data-test-pin-id] [data-test-id^="one-tap-desktop"] > a[href^="http"][rel="nofollow"])
+pinterest.*##div[data-grid-item]:has([data-test-pin-id] [data-test-id^="one-tap-desktop"] > a[href^="http"][rel="nofollow"]):not(body > div)
 pricespy.*##.AdPlacementMarginTop-sc-0-3
 pricespy.*##.AdPlacementMarginTop-sc-15ga2eg-3
 pricespy.*##.AdPlacementWrapper-sc-0-3
