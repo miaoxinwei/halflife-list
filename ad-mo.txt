@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TxtYqu2SxSj2jK/oRBV3uQ
+! Checksum: guJMaxDOkizyCC5n3Ng3mQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202410181425
-! Last Modified: 2024年10月18日 14:25
+! Version: 202410182034
+! Last Modified: 2024年10月18日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63581,6 +63581,7 @@ bbc.com##li[class*="-ListItem"]:has(div.dotcom-ad)
 yandex.com##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.com##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yahoo.com##li[class="first"]:has([data-ylk*="affiliate_link"])
+zillow.com##li[class^="ListItem-"]:has(#nav-ad-container)
 dictionary.com,thesaurus.com##main div[class]:has(> [data-type="ad-vertical"])
 rome2rio.com#?#div[aria-labelledby="schedules-header"] > div > div:-abp-contains(Ad)
 windowsreport.com##section.hide-mbl:has(a[href^="https://out.reflectormedia.com/"])
@@ -67791,6 +67792,8 @@ newduba.cn###jq_youxi
 ||bmougwx.icu^
 ||magioe.xyz^
 ||wuresde.top^
+||ytroytj33.fun^
+||bld.mobi^
 ||cggyyi.xyz^
 ||qdoeki.xyz^
 ||etroytj33.fun^
@@ -88882,7 +88885,6 @@ omni.soundestlink.com$image
 ||dcmn.com^$third-party
 ||ddm.io^$third-party
 ||deadlinefunnel.com^$third-party
-||debugbear.com^$third-party
 ||decdna.net^$third-party
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
@@ -92422,6 +92424,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-channels-pixel.ex.co^
 ||cdn-ds.com/analytics/
 ||cdn.clkmc.com/cmc.js
+||cdn.debugbear.com^$third-party
 ||cdn.one.store/xdomain_cookie.html
 ||cdn.ravm.tv^
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
@@ -92673,6 +92676,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dash.getsitecontrol.com^
 ||dashboard.nowdialogue.com/api/events/
 ||data.circulate.com^
+||data.debugbear.com^$third-party
 ||data.digitalks.az^
 ||data.eetech.com^
 ||data.embeddables.com^
