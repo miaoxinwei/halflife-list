@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nP6aKYrwfM5wp9D11AKjBA
+! Checksum: yClgyqPMQnhL+clAF7hKZQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202410261423
-! Last Modified: 2024年10月26日 14:23
+! Version: 202410262032
+! Last Modified: 2024年10月26日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -48417,6 +48417,7 @@ browsershots.org#@#.advert_area
 ||openbook.net^$third-party
 ||opt-intelligence.com^$third-party
 ||optiads.org^$third-party
+||optimads.info^$third-party
 ||optinmonster.com^$third-party
 ||oriel.io^$third-party
 ||osiaffiliate.com^$third-party
@@ -48859,6 +48860,7 @@ browsershots.org#@#.advert_area
 ||30937261.xyz^$document,popup
 ||32472254.xyz^$document,popup
 ||33848102.xyz^$document,popup
+||33862684.xyz^$document,popup
 ||34475780.xyz^$document,popup
 ||36833185.xyz^$document,popup
 ||37066957.xyz^$document,popup
@@ -57345,7 +57347,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
 ||thegay.com^$script,domain=thegay.com
 $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com
-$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=coomer.su
+$csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=coomer.su|thumbs.pro
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval',domain=gayforfans.com,~third-party
 ||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:
 .com./$popup,domain=pornhub.com
@@ -67875,7 +67877,6 @@ newduba.cn###jq_youxi
 ##.player-info > .recommend-two.recommend-list
 ##.player-news > .news-list
 ##.player-rm > a[href*="/ad.html?url="]
-##.player-rm > a[target="_blank"]
 ##.player-rm-float
 ##.player-tt-rm.rm-list
 ##.player-tt-rmm
@@ -68165,6 +68166,7 @@ newduba.cn###jq_youxi
 ||xxqmtod.icu^
 ||qouvxliy.top^
 ||ov8ct.icu^
+||fca6f.icu^
 ||sgozmks.icu^
 ||omheth.com^
 ||allkmbr.icu^
@@ -92654,6 +92656,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.collarity.com/cws/*http
 ||api.country.is^$third-party
 ||api.iris.tv/update
+||api.june.so^
 ||api.sardine.ai/assets/loader.min.js$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
@@ -93962,6 +93965,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||organicfruitapps.com/analytics/
 ||orts.wixawin.com^$third-party
 ||osano.com/js/?action_name=
+||otg.mblycdn.com/bundles/cmp.js
 ||outbrain.com/nanoWidget/externals/cookie/
 ||outbrain.com/widgetOBUserSync/
 ||outbrain.com^$third-party
