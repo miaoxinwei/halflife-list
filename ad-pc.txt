@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lo5d9o9VBCdE1wuj4Wl6NA
+! Checksum: TVjNZ9wM8v6JX85WE/txiA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202410280924
-! Last Modified: 2024年10月28日 09:24
+! Version: 202410281426
+! Last Modified: 2024年10月28日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -58203,6 +58203,7 @@ jigzone.com###jz
 ceoexpress.com###kalamazooDiv
 msguides.com###kknbnpcv
 kohls.com###kmnsponsoredbrand-sponsored_top-anchor
+karryon.com.au###ko-ads-takeover
 kvraudio.com###kvr300600
 freeads.co.uk###l_sk1
 inc42.com###large_leaderboard_desktop-0
@@ -59320,6 +59321,7 @@ gameshub.com##.ads-slot
 batimes.com.ar##.ads-space
 lowfuelmotorsport.com##.ads-stats
 wallpapers.com##.ads-unit-fts
+karryon.com.au##.ads-wrap
 ndtv.com##.ads-wrp
 bestcrazygames.com##.ads160600
 m.mouthshut.com##.adsBoxRpt2
@@ -61053,6 +61055,7 @@ khmertimeskh.com##.khmer-content_28
 ytfreedownloader.com##.kl-before-header
 kiryuu.id##.kln
 wantedinafrica.com##.kn-widget-banner
+karryon.com.au##.ko-ads-wrapper
 kvraudio.com##.kvrblockdynamic
 businessinsider.com##.l-ad
 legit.ng,tuko.co.ke##.l-adv-branding__top
@@ -68320,6 +68323,7 @@ newduba.cn###jq_youxi
 ||jowkkzx.icu^
 ||obwnaon.icu^
 ||zrtlvtsy.xyz^
+||96696612.top^
 ||qnqtgyq.icu^
 ||sjluuom.icu^
 ||8gra3.icu^
