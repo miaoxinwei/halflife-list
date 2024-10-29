@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nu7lLBaxDvWL1eWtZt1XNA
+! Checksum: fd2axgxAVKFHau1owTRp0Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202410291426
-! Last Modified: 2024年10月29日 14:26
+! Version: 202410292036
+! Last Modified: 2024年10月29日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -61157,6 +61157,7 @@ pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
 augustman.com##.masthead-container
 cloudwards.net##.max-medium
+buzzheavier.com##.max-w-\[60rem\] > p.mt-5.text-center.text-lg
 spin.com##.max-w-\[970px\]
 mayoclinic.org##.mayoad
 racgp.org.au##.mb-1.small
