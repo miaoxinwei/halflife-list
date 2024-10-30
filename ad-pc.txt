@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HYm/MOV9hobhuUILzXq9jg
+! Checksum: MkD8Fpg2z8V5A7vdRjTCvg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202410300922
-! Last Modified: 2024年10月30日 09:22
+! Version: 202410301438
+! Last Modified: 2024年10月30日 14:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -25005,6 +25005,7 @@ browsershots.org#@#.advert_area
 ||ehpvvxyp.com^
 ||ehpxmsqghx.xyz^
 ||ehqdzqi.com^
+||ehrmanoda.com^
 ||ehrydnmdoe.com^
 ||eicbgbnbvjf.com^
 ||eidoscruster.com^
@@ -30677,6 +30678,7 @@ browsershots.org#@#.advert_area
 ||judruwough.com^
 ||jugerfowells.com^
 ||juggleeducationfirearm.com^
+||juglarunioid.com^
 ||jugnepha.xyz^
 ||jugsmithecology.com^
 ||juhece.uno^
@@ -64006,6 +64008,7 @@ vpforums.org##.ipsSideBlock.clearfix:has-text(Affiliates)
 qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
 yovizag.com##.jeg_column:has(> .jeg_wrapper > .jeg_ad)
 motortrend.com##.justify-center:has(.nativo-news)
+fortune.com##.jzcxNo
 chewy.com##.kib-carousel-item:has(.kib-product-sponsor)
 yahoo.com##.leading-3:has-text(Advertisement)
 content.dictionary.com##.lp-code:has(> [class$="Ad"])
@@ -64082,6 +64085,7 @@ cargurus.com##[data-cg-ft="car-blade"]:has([data-eyebrow^="FEATURED"])
 cargurus.com##[data-cg-ft="car-blade-link"]:has([data-cg-ft="srp-listing-blade-sponsored"])
 wayfair.com##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
 avxhm.se##[data-localize]:has(a[href^="https://canv.ai/"])
+motor1.com##[data-m1-ad-label]
 giantfood.com,giantfoodstores.com,martinsfoods.com##[data-product-id]:has(.flag_label--sponsored)
 petco.com##[data-testid="product-buy-box"]:has([class*="SponsoredText"])
 kayak.com##[role="button"]:has([class*="ad-marking"])
@@ -68383,6 +68387,8 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||whrwlxg.icu^
 ||bdawrsi.icu^
+||houbliu.top^
+||6ft8a.icu^
 ||mzpecui.icu^
 ||chmueyv.icu^
 ||kemmars.com^
@@ -77314,6 +77320,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 .sinaimg.cn/large/008qC0LFgy1hutqvck5ufj30qe02i74t.
 ||zzzyk.com/js/
 ||huo720.com/files/vidhub.
+||69shuba.cx^*/shu.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 element-plus.org##.page-sidebar-row
