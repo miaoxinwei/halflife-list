@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Gz5CzkN7vKWm6YD06irGzQ
+! Checksum: 9Ndg3vCHGB55h5PYaDCU4Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411010935
-! Last Modified: 2024年11月01日 09:35
+! Version: 202411011427
+! Last Modified: 2024年11月01日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59088,7 +59088,7 @@ bolnews.com##.adspadding
 downzen.com##.adt
 makemytrip.com##.adtech-desktop
 cosmopolitan.in,indiatodayne.in,miamitodaynews.com##.adtext
-gcaptain.com,mp1st.com##.adthrive
+gcaptain.com,mp1st.com,unofficialnetworks.com##.adthrive
 wdwmagic.com##.adthrive-homepage-header
 wdwmagic.com##.adthrive-homepage-in_content_1
 quadraphonicquad.com##.adthrive-placeholder-header
@@ -60960,7 +60960,7 @@ augustman.com##.masthead-container
 cloudwards.net##.max-medium
 buzzheavier.com##.max-w-\[60rem\] > p.mt-5.text-center.text-lg
 spin.com##.max-w-\[970px\]
-mayoclinic.org##.mayoad
+mayoclinic.org##.mayoad > .policy
 racgp.org.au##.mb-1.small
 wccftech.com##.mb-11
 coinlean.com##.mb-3
@@ -68079,6 +68079,8 @@ newduba.cn###jq_youxi
 ||ctlacnh.icu^
 ||xggcyef.icu^
 ||g4y7uuk.com^
+||pmwofrq.icu^
+||soublib.top^
 ||qkgllif.icu^
 ||extopae.icu^
 ||yj2nf.icu^
