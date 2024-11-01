@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yias7M3OkBR1DW9fe71PlA
+! Checksum: Gz5CzkN7vKWm6YD06irGzQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411010224
-! Last Modified: 2024年11月01日 02:24
+! Version: 202411010935
+! Last Modified: 2024年11月01日 09:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -16128,6 +16128,7 @@ ads.google.com,youtube.com#@#.video-ads
 javynow.com#@#.videos-ad
 elnuevoherald.com,sacbee.com#@#.wps-player-wrap
 gumtree.com.au,s.tabelog.com#@#[data-ad-name]
+mebelcheap.ru#@#[data-adblockkey]
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
@@ -57797,6 +57798,7 @@ colourlovers.com###ga-below-header
 9bis.net###gad
 gaiaonline.com###gaiaonline_leaderboard_atf
 cheatcodes.com###game_details_ad
+rd.com###gch-prearticle-container
 geekwire.com###geekwork
 investing.com###generalOverlay
 thecountersignal.com###geo-header-ad-1
@@ -58146,6 +58148,7 @@ frequence-radio.com###pub_listing_top
 elevationmap.net###publift_home_billboard
 fxsforexsrbijaforum.com###pun-announcement
 sparknotes.com###pwDeskLbAtf
+lambgoat.com###pwDeskLbAtf-container
 onmsft.com###pwDeskSkyBtf1
 d4builds.gg###pwParentContainer
 thefastmode.com###quick_survey
@@ -59207,6 +59210,7 @@ closerweekly.com,intouchweekly.com,lifeandstylemag.com,usmagazine.com##.ami-vide
 faroutmagazine.co.uk##.amp-next-page-separator
 cyberciti.biz##.amp-wp-4ed0dd1
 thepostemail.com##.amp-wp-b194b9a
+archpaper.com##.an-ads
 letras.com##.an-pub
 adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.anchor-wrapper
 streetdirectory.com##.anchor_bottom
@@ -60072,6 +60076,7 @@ capitalfm.com,radiox.co.uk,smoothradio.com##.download
 zeroupload.com##.download-page a[rel="noopener"] > img
 thepiratebay3.to##.download_buutoon
 thesun.co.uk##.dpa-slot
+radiopaedia.org##.drive-banner
 dola.com##.ds-brand
 dola.com##.ds-display-ad
 cryptonews.com##.dslot
@@ -60174,6 +60179,7 @@ btcmanager.com##.f_man_728
 infoq.com##.f_spbox_top_1
 infoq.com##.f_spbox_top_2
 freeads.co.uk##.fa_box_m
+evite.com##.fabric-free-banner-ad__wrapper
 tvtropes.org##.fad
 slideshare.net##.fallback-ad-container
 tokyvideo.com##.fan--related-videos.fan
@@ -60217,7 +60223,7 @@ newser.com##.fiavur2
 filecrypt.cc##.filItheadbIockgueue3
 filecrypt.cc,filecrypt.co##.filItheadbIockqueue3
 telugupeople.com##.fineprint
-zeenews.india.com##.first-ad
+bestlifeonline.com,zeenews.india.com##.first-ad
 proprofs.com##.firstadd
 thestranger.com##.fish-butter
 fiskerati.com##.fiskerati-target
@@ -60518,7 +60524,7 @@ collegedunia.com##.headerslot
 darkreader.org##.heading
 phonearena.com##.heading-deal
 autoplius.lt##.headtop
-cubdomain.com##.hello-bar
+247wallst.com,cubdomain.com##.hello-bar
 onlinevideoconverter.pro##.helper-widget
 lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 farminglife.com,newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
@@ -60591,7 +60597,7 @@ avclub.com,splinter.com##.htlad-above_logo
 avclub.com,splinter.com##.htlad-bottom_rectangle
 destructoid.com##.htlad-destructoidcom_leaderboard_atf
 avclub.com,splinter.com##.htlad-middle_rectangle
-avclub.com##.htlad-sidebar_rectangle
+avclub.com,jezebel.com,pastemagazine.com,splinter.com##.htlad-sidebar_rectangle
 avclub.com,splinter.com##.htlad-top_rectangle
 wtop.com##.hubb-at-rad-header
 huddle.today##.huddle-big-box-placement
@@ -60946,6 +60952,7 @@ get.pixelexperience.org##.mantine-arewlw
 whatsgabycooking.com##.manual-adthrive-sidebar
 linkvertise.com##.margin-bottom-class-20
 color-hex.com##.margin10
+theadvocate.com##.marketing-breakout
 fandom.com##.marketplace
 pushsquare.com,songlyrics.com##.masthead
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner
@@ -61376,6 +61383,7 @@ yopmail.com,yopmail.fr,yopmail.net##.pindexhautctn
 carsized.com##.pl_header_ad
 redgifs.com##.placard-wrapper
 gismeteo.com,meteofor.com,nofilmschool.com##.placeholder
+bestlifeonline.com##.placeholder-a-block
 bucksco.today##.placeholder-block
 theoldie.co.uk##.placeholder-wrapper
 sundayworld.co.za##.placeholderPlug
@@ -62375,6 +62383,7 @@ mobafire.com##.venatus-responsive-ad
 theloadout.com##.venatus_ad
 fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox6now.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,ktvu.com,q13fox.com,wogx.com##.vendor-unit
 cryptonews.net##.vert-public
+avclub.com,jezebel.com##.vertical-ad-spacer
 mmegi.bw##.vertical-banner
 radiocity.in##.vertical-big-add
 radiocity.in##.vertical-small-add
@@ -62383,7 +62392,6 @@ packaginginsights.com##.verticlblk
 forbes.com##.vestpocket
 mirror.co.uk##.vf3-conversations-list__promo
 videogameschronicle.com##.vgc-productsblock
-bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 express.co.uk##.viafoura-standalone-mpu
 vice.com##.vice-ad__container
 victoriabuzz.com##.victo-billboard-desktop
@@ -64013,6 +64021,7 @@ washingtonexaminer.com##.bridtv
 gizmodo.com.au,kotaku.com.au,lifehacker.com.au,pedestrian.tv##.brightcove-video-container
 cnet.com,zdnet.com##.c-avStickyVideo
 stuff.tv##.c-squirrel-embed
+rd.com##.cnx-inline-player-wrapper
 mb.com.ph##.code-block
 techwalla.com##.component-article-section-jwplayer-wrapper
 livestrong.com##.component-article-section-votd
@@ -64054,6 +64063,7 @@ kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
 the-express.com##.stn-video-container
 si.com##.style_hfl21i-o_O-style_uhlm2
+bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
 carbuzz.com,justthenews.com##.video
@@ -66050,6 +66060,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||stackblitz.com^$generichide
 @@||teams.live.com^$generichide
 @@||teams.microsoft.com^$generichide
+@@||testufo.com^$generichide
 @@||tidal.com^$generichide
 @@||tiktok.com^$generichide
 @@||tv.youtube.com^$generichide
@@ -68064,6 +68075,10 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||graesol.com^
+||ctlacnh.icu^
+||xggcyef.icu^
+||g4y7uuk.com^
 ||qkgllif.icu^
 ||extopae.icu^
 ||yj2nf.icu^
@@ -77011,6 +77026,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||69shuba.cx^*/shu.js
 ||jinnanyq.com/js/zmjw.
 ||huiagun.com/template/common.js
+||imgdb.cn/item/66a73333d9c307b7e9dbb6ef.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 dk95.com##.advs
@@ -97455,6 +97471,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soundcloud.com^$ping
 ||source.chromium.org/v1/logging
 ||sourcesync.io/analytics
+||southwest.com/api/logging/v1/logging/
+||southwest.com/di/swadc/beacon/
 ||sp.cargurus.co.uk^
 ||sp.ecosia.org^
 ||sp.pcoptimum.ca^
@@ -135599,6 +135617,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||onenote.com^*/aria-web-telemetry
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
+@@||openfpcdn.io/botd/v1$script,domain=collinsdictionary.com
 @@||optimove.net^$domain=app.touchnote.com
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
 @@||outbrain.com/outbrain.js$domain=cnn.com
