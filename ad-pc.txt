@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iAlnuBJTgA/nDrTTEFIqvw
+! Checksum: hEitpyI2Tj5UBwnlQEG93w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411031425
-! Last Modified: 2024年11月03日 14:25
+! Version: 202411032032
+! Last Modified: 2024年11月03日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -56866,6 +56866,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||bodsforthemods.com/srennab/
 ||bootyheroes.com//static/assets/img/banners/
 ||boyfriend.show/widgets/Spot
+||boyfriendtv.com/ads/
 ||boyfriendtv.com/bftv/b/
 ||boyfriendtv.com/bftv/www/js/*.min.js?url=
 ||boysfood.com/d5.html
@@ -60665,6 +60666,7 @@ revolt.tv##.header-banner-wrapper
 mercurynews.com,nssmag.com##.header-banners
 amazonadviser.com,apptrigger.com,fansided.com,hiddenremote.com,lastnighton.com,lawlessrepublic.com,mlsmultiplex.com,netflixlife.com,playingfor90.com,stormininnorman.com,winteriscoming.net##.header-billboard
 lyricsmode.com##.header-block
+historiccity.com##.header-block-1
 worldpress.org##.header-bnr
 kveller.com##.header-bottom
 counterpunch.org##.header-center
@@ -64629,6 +64631,7 @@ xpaja.net###advertisement
 milffox.com###advertising
 instantfap.com###af
 pervclips.com###after-adv
+cockdude.com###after-boxes-ver2
 str8ongay.com###alfa_promo_parent
 sunporno.com###atop
 literotica.com###b-top
@@ -65693,6 +65696,7 @@ pornlib.com##a[href*="/linkout/"]
 mansurfer.com##a[href*="/out/"]
 avgle.com##a[href*="/redirect"]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
+cockdude.com##a[href*="/tsyndicate.com/"]
 youpornzz.com##a[href*="/videoads.php?"]
 pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
@@ -65723,6 +65727,7 @@ sexhd.pics##a[href^="https://go.stripchat.com/"]
 imgsen.com##a[href^="https://hardcoreincest.net/"]
 adultgamesworld.com##a[href^="https://joystick.tv/t/?t="]
 yaoimangaonline.com##a[href^="https://l.hyenadata.com/"]
+gayforfans.com##a[href^="https://landing.mennetwork.com/"]
 trannygem.com##a[href^="https://landing.transangelsnetwork.com/"]
 datingpornstar.com##a[href^="https://mylinks.fan/"]
 mrdeepfakes.com##a[href^="https://pages.faceplay.fun/ds/index-page?utm_"]
@@ -77227,6 +77232,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||imgdb.cn/item/66a73333d9c307b7e9dbb6ef.jpg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+happymh.com##a[href*=".taobao.com"]
 dk95.com##.advs
 element-plus.org##.page-sidebar-row
 cnblogs.com###blog_c1
