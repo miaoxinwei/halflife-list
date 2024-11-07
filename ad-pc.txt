@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: G48htv/5M2dlYHmmvgkK8w
+! Checksum: VUg4sSOGpNR9Z1FzYD6G+A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411072034
-! Last Modified: 2024年11月07日 20:34
+! Version: 202411080223
+! Last Modified: 2024年11月08日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -21320,6 +21320,7 @@ browsershots.org#@#.advert_area
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdojukbtib.com^
 ||cdoqjxlnegnhm.com^
 ||cdosagebreakfast.com^
 ||cdotrvjaiupk.com^
@@ -26640,6 +26641,7 @@ browsershots.org#@#.advert_area
 ||gleeglis.net^
 ||gleegloo.net^
 ||gleejoad.net^
+||gleeltukaweetho.xyz^
 ||gleemsomto.com^
 ||gleemsub.com^
 ||gleetchisurvey.top^
@@ -32628,6 +32630,7 @@ browsershots.org#@#.advert_area
 ||nizarstream.xyz^
 ||nizvimq.com^
 ||njekohrpid.com^
+||njmhklddv.xyz^
 ||njpaqnkhaxpwg.xyz^
 ||nkewdzp.com^
 ||nkfinsdg.com^
@@ -35767,6 +35770,7 @@ browsershots.org#@#.advert_area
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
+||pudraugraurd.net^
 ||puerty.com^
 ||puffingtiffs.com^
 ||pugdisguise.com^
@@ -36050,6 +36054,7 @@ browsershots.org#@#.advert_area
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
 ||qglinlrtdfc.com^
+||qgwjydxo.com^
 ||qgxbluhsgad.com^
 ||qhcmspgkoaixup.com^
 ||qhdtlgthqqovcw.xyz^
@@ -36080,6 +36085,7 @@ browsershots.org#@#.advert_area
 ||qksrv1.com^
 ||qksz.net^
 ||qkyliljavzci.com^
+||qkyojtlabrhy.com^
 ||qlfqkjluvz.com^
 ||qlnkt.com^
 ||qmaacxajsovk.com^
@@ -41898,6 +41904,7 @@ browsershots.org#@#.advert_area
 ||vcsjbnzmgjs.com^
 ||vctcajeme.tech^
 ||vcxzp.com^
+||vcynnyujt.com^
 ||vczypss.com^
 ||vdbaa.com^
 ||vddf0.club^
@@ -65490,6 +65497,7 @@ newduba.cn###jq_youxi
 ||ipyhf.icu^
 ||cruhut.com^
 ||scoldak.com^
+||dkasffredf.xyz^
 ||stragmik.com^
 ||yxrmbjw.icu^
 ||gnyuhzd.icu^
@@ -74489,8 +74497,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||huaban.com^*/ads
 ||ibaotu.com/revision/js/ad/
 ||51miz.com/index.php?m=Ad&
+||wxc.cc/scripts/gg.
+||xmcdn.com/storages/97b8-customerservice/E7/5E/GKwRIJILApO8AALGLwMrioMa.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+nodeloc.com###wghtml
+tvbs.com.tw##div[data-testid="ad-container"]
 iduba.com,newduba.cn##.m_nav_top
 bilibili.com##.adcard-content
 happymh.com##a[href*=".taobao.com"]
@@ -75199,7 +75211,7 @@ javhope.com###havhope
 chaidu.com,kdslife.com###hb
 macd.cn###hbad
 coolaler.com###hd
-jr22.xyz###hd + .wp
+jr31.xyz###hd + .wp
 gdmm.com###hd > .wp > .module
 hackhw.com,ithome.com###hd_float
 ithome.com###hd_float1
@@ -79198,7 +79210,7 @@ szjjzs.com##a[href^="/pic/tiao/"]
 chinacsbs.com##a[href^="/plus/view.php?aid="]
 96weixin.com##a[href^="/show/ads/"]
 fx112.com##a[href^="/union."]
-jr22.xyz##a[href^="ad."]
+jr31.xyz##a[href^="ad."]
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
 yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
@@ -83512,7 +83524,6 @@ fqsousou.com,kengso.com#@#.user-share
 /events/tracking
 /events/view-form-open
 /events/view?
-/events?data=
 /events?rpId=
 /eventsBeacon?
 /eventtracker.js
@@ -93675,6 +93686,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.turk.pro^$third-party
 ||c.keltis.com^
 ||collector.wawlabs.com^
+||daioncdn.net/events?
 ||hulyagedikci.com/vhit.php?
 ||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||izinal.com/log
@@ -131520,7 +131532,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/api2/$ping,xmlhttprequest
-||computerbase.de/nlylev
+||computerbase.de/blvlevblvlev
 ||cp.finanzfrage.net/stats
 ||cpx.golem.de^
 ||cpxl.golem.de^
