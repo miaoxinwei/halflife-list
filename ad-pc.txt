@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9T0d6DWhiHZCF7h2VD5idg
+! Checksum: sxWMgRVU0EHr8j+xHDKGZw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411090223
-! Last Modified: 2024年11月09日 02:23
+! Version: 202411090918
+! Last Modified: 2024年11月09日 09:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18828,6 +18828,7 @@ browsershots.org#@#.advert_area
 ||archedmagnifylegislation.com^
 ||archerpointy.com^
 ||archiewinningsneaking.com^
+||architectmalicemossy.com^
 ||architecturecultivated.com^
 ||architectureholes.com^
 ||arcost54ujkaphylosuvaursi.com^
@@ -27025,6 +27026,7 @@ browsershots.org#@#.advert_area
 ||graphnitriot.com^
 ||grapseex.com^
 ||grapselu.com^
+||graptaupsi.net^
 ||grartoag.xyz^
 ||grasshusk.com^
 ||grasutie.net^
@@ -27236,6 +27238,7 @@ browsershots.org#@#.advert_area
 ||guardedrook.cc^
 ||guardedtabletsgates.com^
 ||guardiandigitalcomparison.co.uk^
+||guardiannostrils.com^
 ||guardsslate.com^
 ||guchihyfa.pro^
 ||gudohuxy.uno^
@@ -29932,6 +29935,7 @@ browsershots.org#@#.advert_area
 ||kotzzdwl.com^
 ||kouceeptait.com^
 ||koucerie.com^
+||kouphouwhajee.net^
 ||koushauwhie.xyz^
 ||kousjcignye.com^
 ||koutobey.net^
@@ -33135,6 +33139,7 @@ browsershots.org#@#.advert_area
 ||oblivionthreatjeopardy.com^
 ||obnoxiouspatrolassault.com^
 ||obouckie.com^
+||obr3.space^
 ||obrom.xyz^
 ||obscenityaccordinglyrest.com^
 ||obscenityimplacable.com^
@@ -33204,6 +33209,7 @@ browsershots.org#@#.advert_area
 ||odologyelicit.com^
 ||odourcowspeculation.com^
 ||odpgponumrw.com^
+||odqciqdazjuk.com^
 ||oehgk.com^
 ||oelwojattkd.xyz^
 ||oestpq.com^
@@ -34361,6 +34367,7 @@ browsershots.org#@#.advert_area
 ||pclk.name^
 ||pcmclks.com^
 ||pcpqqnlvw.xyz^
+||pcqze.tech^
 ||pctlwm.com^
 ||pctsrv.com^
 ||pctv.xyz^
@@ -38766,6 +38773,7 @@ browsershots.org#@#.advert_area
 ||snappedtesting.com^
 ||snappffgxtwwpvt.com^
 ||snarlaptly.com^
+||snarlsfuzzes.com^
 ||sneaknonstopattribute.com^
 ||snebbubbled.com^
 ||sneernodaccommodating.com^
@@ -41268,6 +41276,7 @@ browsershots.org#@#.advert_area
 ||txzaazmdhtw.com^
 ||tyburnpenalty.com^
 ||tychon.bid^
+||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||tyhwheveeshngi.xyz^
 ||tyhyorvhscdbx.xyz^
@@ -42333,6 +42342,7 @@ browsershots.org#@#.advert_area
 ||vizoredcheerly.com^
 ||vizpwsh.com^
 ||vjdciu.com^
+||vjlyljbjjmley.top^
 ||vjugz.com^
 ||vkeagmfz.com^
 ||vkgtrack.com^
@@ -43501,6 +43511,7 @@ browsershots.org#@#.advert_area
 ||xjfqqyrcz.com^
 ||xjincmbrulchml.xyz^
 ||xjkhaow.com^
+||xjlqybkll.com^
 ||xjrwxfdphc.com^
 ||xjsx.lol^
 ||xjupijxdt.xyz^
@@ -65557,6 +65568,7 @@ newduba.cn###jq_youxi
 ##style + .need_grid_img
 ##.player-rm > a[href*=".umtrack.com"]
 ##style + .vdgdo
+##.relative > div > img[sizes="100vh"][width="0"]
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ###banner_links.banner-container
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -65579,6 +65591,15 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||avxonsp.icu^
+||58shuz.com^
+||trimmoits.com^
+||dn4qoz.com^
+||grirqaks.com^
+||xn--swt207gl1hzc.net^
+||68yscw.com^
+||tqanmatx.icu^
+||kxygsjv.icu^
 ||dhukul.com^
 ||reisyxy.icu^
 ||yrarhzuq.xyz^
@@ -73999,8 +74020,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||synacast.com^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||sysin.org/img/promotion-
-||szaction.cc/public/*/plugins/
-||szaction.cc/public/1/assets/js/custom/tt.
+||51jiajiao.top/public/*/plugins/
+||51jiajiao.top/public/1/assets/js/custom/tt.
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szgpmy.com/js/
