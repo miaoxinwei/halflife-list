@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: meF039Uc3P6ROjpW9m6JCg
+! Checksum: D5tpknjh7az9OPfhFcuzSQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411091422
-! Last Modified: 2024年11月09日 14:22
+! Version: 202411092031
+! Last Modified: 2024年11月09日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -65605,6 +65605,7 @@ newduba.cn###jq_youxi
 ||kxygsjv.icu^
 ||41grk.icu^
 ||eddcc.icu^
+||feittoill.com^
 ||dhukul.com^
 ||reisyxy.icu^
 ||yrarhzuq.xyz^
@@ -91819,6 +91820,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||salescs.com/liveagent/scripts/track.js
 ||salesforce.com/sfga.js
 ||salesloft.com/sl.js
+||salesmartly.com/client/log/
+||salesmartly.com/client/station/log?
 ||sascdn.com/mh_audience/
 ||sawpf.com/1.0.js$third-party
 ||saymedia.com/latest/tetrapak.js
@@ -93999,6 +94002,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.ffm.to/sl/e/$image
 ||api.invideo.io/v3/send_analytics_event
 ||api.narrativ.com/favicon.ico
+||api.samsungfind.com/log-collector
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
 ||api.tsc.ca/Tracking/v1/events/
@@ -94263,6 +94267,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domaintools.com/buffer.pgif?
 ||dominos.co.uk/qRgAwS/
 ||dotesports.com/sp.js
+||downdetector.com/cdn-cgi/trace
 ||dp.shoprunner.com^
 ||dribbble.com/client_app/events
 ||dribbble.com/client_app/screenshot_boost_ad_events
