@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PLo1WAUYJP4mDs1ozDQ/kA
+! Checksum: DwOrfHKJ2lkTR9x0RHrR7g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411110221
-! Last Modified: 2024年11月11日 02:21
+! Version: 202411110921
+! Last Modified: 2024年11月11日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -19347,6 +19347,7 @@ browsershots.org#@#.advert_area
 ||avloan3431.fun^
 ||avmonk3431.fun^
 ||avocetdentary.shop^
+||avocetriches.com^
 ||avoihyfziwbn.com^
 ||avorgy3431.fun^
 ||avouchamazeddownload.com^
@@ -22703,6 +22704,7 @@ browsershots.org#@#.advert_area
 ||csfgbmwsxjgibf.com^
 ||cshbglcfcmirnm.xyz^
 ||cskcnipgkq.club^
+||csldbxey.com^
 ||csqtsjm.com^
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
@@ -23511,6 +23513,7 @@ browsershots.org#@#.advert_area
 ||dimnaamebous.com^
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
+||dimpledplan.pro^
 ||dimpoaghoorg.net^
 ||dimpuxoh.net^
 ||dinecogitateaffections.com^
@@ -25590,6 +25593,7 @@ browsershots.org#@#.advert_area
 ||findsjoyous.com^
 ||findslofty.com^
 ||findsrecollection.com^
+||fine-click.pro^
 ||fine-wealth.pro^
 ||finedintersection.com^
 ||finednothue.com^
@@ -27462,6 +27466,7 @@ browsershots.org#@#.advert_area
 ||happydate.today^
 ||happypavilion.com^
 ||hapticswasher.com^
+||haqafzlur.com^
 ||harassinganticipation.com^
 ||harassingindustrioushearing.com^
 ||harassmentgrowl.com^
@@ -38217,6 +38222,7 @@ browsershots.org#@#.advert_area
 ||seullocogimmous.com^
 ||sev4ifmxa.com^
 ||seveelumus.com^
+||sevenbuzz.com^
 ||sevenedgesteve.com^
 ||sevenerraticpulse.com^
 ||severalmefa.org^
@@ -39242,6 +39248,7 @@ browsershots.org#@#.advert_area
 ||staixemo.com^
 ||stalerestaurant.com^
 ||stalkerlagunes.shop^
+||stallionshootimmigrant.com^
 ||stallionsmile.com^
 ||stallsmalnutrition.com^
 ||staltoumoaze.com^
@@ -39973,6 +39980,7 @@ browsershots.org#@#.advert_area
 ||tagmai.xyz^
 ||tagoutlookignoring.com^
 ||tagroors.com^
+||tahrsli.com^
 ||tahwox.com^
 ||taicheetee.com^
 ||taidainy.net^
@@ -49633,6 +49641,7 @@ browsershots.org#@#.advert_area
 ||seteamsobtantion.com^$popup
 ||setlitescmode-4.online^$popup
 ||seullocogimmous.com^$popup
+||sevenbuzz.com^$popup
 ||sex-and-flirt.com^$popup
 ||sexfamilysim.net^$popup
 ||sexpieasure.com^$popup
@@ -61658,6 +61667,7 @@ hollywoodreporter.com##[id^="jwplayer"]
 ukrinform.de,ukrinform.es,ukrinform.fr,ukrinform.jp,ukrinform.net,ukrinform.pl,ukrinform.ua##[style^="min-height: 280px;"]
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
+balls.ie##div[style="min-height: 170px;"]
 burnerapp.com##.exit__overlay
 booking.com##.js_sr_persuation_msg
 booking.com##.sr-motivate-messages
@@ -65660,6 +65670,10 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||ccobksxz.icu^
+||utbyvyl.icu^
+||dchdmhf.cn^
+||sopqvhe.cn^
 ||kdzgrvn.icu^
 ||shestieh.com^
 ||jwhjqjfl.icu^
