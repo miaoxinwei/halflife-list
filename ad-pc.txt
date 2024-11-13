@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: E0fN7Y0JquhuZngOtgSQ7w
+! Checksum: +pB0JFruFWG+HT6pYaaZEQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411130920
-! Last Modified: 2024年11月13日 09:20
+! Version: 202411131425
+! Last Modified: 2024年11月13日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2055,26 +2055,15 @@ _800x80_
 ###IK-ad-area
 ###IK-ad-block
 ###IM_AD
-###LargeRectangleAd
 ###LayoutBottomAdBox
 ###LayoutHomeAdBoxBottom
-###LeaderboardAdvertising
 ###LeftAd
 ###LeftAd1
 ###MPUAdSpace
 ###MPUadvertising
-###MPUadvertisingDetail
 ###MainAd
-###MediumRectangleAD
-###MidPageAds
-###MiddleRightRadvertisement
-###Mpu_Bottom
-###Mpu_Top
-###MyAdsId3
 ###NR-Ads
-###PaneAdvertisingContainer
 ###PromotionAdBox
-###RadAdSkyscraper
 ###RightAd
 ###RightAdBlock
 ###RightAdSpace
@@ -2090,7 +2079,6 @@ _800x80_
 ###SponsorsAds
 ###StickyBannerAd
 ###Top-ad
-###Top1AdWrapper
 ###TopADs
 ###TopAd
 ###TopAd0
@@ -58184,6 +58172,7 @@ gocomics.com##.gc-deck--is-ad
 gocomics.com##.gc-top-advertising
 letsdopuzzles.com##.gda-home-box
 kansascity.com,rotowire.com##.gdcg-oplist
+verdict.co.uk##.gdm-company-profile-unit
 just-food.com##.gdm-company-profile-unit__container
 naval-technology.com##.gdm-recommended-reports
 gearpatrol.com##.gearpatrol-ad
@@ -61916,6 +61905,7 @@ kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
 the-express.com##.stn-video-container
 si.com##.style_hfl21i-o_O-style_uhlm2
+thegrio.com##.tpd-featured-video
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
@@ -65948,6 +65938,11 @@ newduba.cn###jq_youxi
 ||gheqien.com^
 ||mjbidlg.icu^
 ||locpikbb.icu^
+##a[href*=".huibo222.com/"]
+##a[href*=".moo8923.net"]
+||chupl.icu^
+||cweisif.top^
+||y0mwy.icu^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
