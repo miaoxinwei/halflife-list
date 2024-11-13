@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0nSyGZPHYGWnxpp/EtUR6A
+! Checksum: idymtx9CwLqPboEDwHixAQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411130223
-! Last Modified: 2024年11月13日 02:23
+! Version: 202411130920
+! Last Modified: 2024年11月13日 09:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -63545,6 +63545,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||dodo.ac/np/images/$image,domain=nookipedia.com
 @@||doodcdn.co^$domain=dood.la|dood.pm|dood.to|dood.ws
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com
+@@||doubleclick.net/|$xmlhttprequest,domain=tvnz.co.nz
 @@||edmodo.com/ads$~third-party,xmlhttprequest
 @@||einthusan.tv/prebid.js$script,~third-party
 @@||embed.ex.co^$xmlhttprequest,domain=espncricinfo.com
@@ -65832,6 +65833,9 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||stunkrins.com^
 ||rjwpwod.icu^
+||gheqien.com^
+||mjbidlg.icu^
+||locpikbb.icu^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
