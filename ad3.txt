@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yKGNSh6mNXAyXm5ZE3Io+w
+! Checksum: BduWZG5xvBf8HZ+5+CJUSQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202411191426
-! Last Modified: 2024年11月19日 14:26
+! Version: 202411192037
+! Last Modified: 2024年11月19日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1881,6 +1881,7 @@ newduba.cn###jq_youxi
 ||thacreks.com^
 ||snnmgdt.icu^
 ||4t6u.icu^
+||scihuns.com^
 ||yrccils0spqnkc3.xyz^
 ||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
@@ -33547,6 +33548,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||notion.so/api/v*/teV1
 ||novanthealth.org/v1/tagular/beam
 ||novelcool.com/files/js/yh_tj.js
+||npa.thetimes.com/stats
 ||nr-data.noelleeming.co.nz^
 ||nr.noelleeming.co.nz^
 ||ntvid.online/cdn-cgi/trace
@@ -33578,6 +33580,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p.sfx.ms/is/invis.gif
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
+||pac.thetimes.com^
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||pardot.com/pd.js
