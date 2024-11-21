@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1aYdJrLLWT115xZQK5bD0Q
+! Checksum: 7ze52YGhdxssyigHWp2YNg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411210225
-! Last Modified: 2024年11月21日 02:25
+! Version: 202411211426
+! Last Modified: 2024年11月21日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -699,7 +699,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /amp4ads-host-v0.js$script
 /ane-popup-1/ane-popup.js$script
 /ane-popup-banner.js$script
-/api.ads.$domain=~ads.instacart.com|~www.ads.com
+/api.ads.$script,domain=~ads.instacart.com|~www.ads.com
 /api/ad.$script
 /api/ads?
 /api/users?token=$subdocument,third-party
@@ -51817,6 +51817,7 @@ browsershots.org#@#.advert_area
 ||mnuu.nu^$subdocument
 ||monetize-static.viralize.tv^
 ||mps.nbcuni.com/fetch/ext/
+||mweb-hb.presage.io^
 ||mydirtyhobby.com^$third-party,domain=~my-dirty-hobby.com|~mydirtyhobby.de
 ||myfinance.com^$subdocument,third-party
 ||namecheap.com/graphics/linkus/
@@ -53748,6 +53749,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||flippback.com/tag/js/flipptag.js$domain=idsnews.com
 ||fontent.powzers.lol^
 ||fontent.powzerz.lol^
+||fontsquirrel.com/ajaxactions/get_ads^
 ||footballtradedirectory.com/images/pictures/banner/
 ||forabodiesonly.com/mopar/sidebarbanners/
 ||fordforums.com.au/logos/
@@ -56735,11 +56737,13 @@ dailyuptea.com##.ad-info
 downloads.digitaltrends.com##.ad-kargo
 kenyans.co.ke##.ad-kenyans
 kenyans.co.ke##.ad-kenyans-wrapper
+cbc.ca##.ad-landing
 heise.de##.ad-ldb-container
 revolvermag.com##.ad-leaderboard-head
 apksum.com##.ad-left
 radiopaedia.org##.ad-link-grey
 citynews.ca##.ad-load
+cbc.ca##.ad-load-more
 mariopartylegacy.com##.ad-long
 olympics.com##.ad-margin-big
 pixiv.net##.ad-mobile-anchor
@@ -59260,6 +59264,7 @@ thegatewaypundit.com,westernjournal.com,wnd.com##.persistent-footer
 apkmb.com##.personalizadas
 proxfree.com##.pflrgAds
 post-gazette.com##.pg-mobile-adhesionbanner
+fontsquirrel.com##.pgAdWrapper
 post-gazette.com##.pgevoke-flexbanner-innerwrapper
 post-gazette.com##.pgevoke-superpromo-innerwrapper
 online.pubhtml5.com##.ph5---banner---container
@@ -60918,6 +60923,7 @@ elitepvpers.com##[width="966"]
 presearch.com##[x-data*="kwrdAdFirst"]
 mobiforge.com##a > img[alt="Ad"]
 eztv.tf,eztv.yt##a > img[alt="Anonymous Download"]
+designtaxi.com##a.a-click[target="_blank"]
 cript.to##a.btn[target="_blank"][href^="https://cript.to/"]
 infowars.com##a.css-1yw960t
 darkreader.org##a.logo-link[target="_blank"]
@@ -61520,6 +61526,13 @@ pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-2
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-3
 walmart.*##[data-testid="carousel-ad"]
+wayfair.*##.CompareSimilarItemsCarousel-item:has(a[href*="&sponsoredid="])
+wayfair.*##.MediaNativePlacement-wrapper-link
+wayfair.*##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
+wayfair.*##a[data-enzyme-id="WssBannerContainer"]
+wayfair.*##div[data-enzyme-id="WssBannerContainer"]
+wayfair.*##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
+wayfair.*##div[data-node-id^="SponsoredListingCollectionItem"]
 yandex.*##._view_advertisement
 yandex.*##.business-card-title-view__advert
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
@@ -61557,6 +61570,8 @@ forexlive.com##.article-slot__wrapper:has(.article-header__sponsored)
 time.com##.article-small-sidebar > .sticky-container:has(div[id^="ad-"])
 blitz.gg##.aside-content-column:has(.display-ad)
 olympics.com##.b2p-list__item:has(> .adv-fluid)
+bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
+bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 loblaws.ca##.block-wrapper:has([data-track-product-component="carousel||rmp_sponsored"])
 haveibeenpwned.com##.bodyGradient > :has(.why1Password)
@@ -61597,6 +61612,7 @@ bestbuy.com##.generic-morpher:has(.spns-label)
 canberratimes.com.au##.h-\[50px\]
 fortune.com##.homepage:has(> div[id^="InStream"])
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
+dollargeneral.com##.image__desktop-container:has([data-track-image*="|P&G|Gain|"])
 vpforums.org##.ipsSideBlock.clearfix:has-text(Affiliates)
 1tamilmv.tax##.ipsWidget:has([href*="RajbetImage"])
 qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
@@ -62366,7 +62382,6 @@ twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promoc
 vofomovies.info#?#a13:-abp-contains( Ad)
 walmart.ca,walmart.com#?#div > div[io-id]:-abp-contains(Sponsored)
 walmart.*#?#div > div[io-id]:-abp-contains(Sponsored)
-wayfair.*#?#div[data-hb-id="Grid.Item"]:-abp-has(div.FeaturedProductFlag:-abp-contains(Sponsored))
 euronews.com###o-site-hr__leaderboard-wallpaper.u-show-for-xlarge {remove:true;}
 virtuagirlgirls.com###DynamicBackgroundWrapper
 porndr.com###PD-Under-player
@@ -63417,6 +63432,7 @@ clubsarajay.com##[href^="https://landing.milfed.com/"]
 javgg.net##[href^="https://onlyfans.com/action/trial/"]
 sankakucomplex.com##[href^="https://s.zlink3.com/d.php"]
 freebdsmxxx.org##[href^="https://t.me/joinchat/"]
+bestthots.com,leakedzone.com##[href^="https://v6.realxxx.com/"]
 porngames.club##[href^="https://www.familyporngames.games/"]
 porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 koreanstreamer.xyz##[href^="https://www.saltycams.com"]
@@ -66018,7 +66034,14 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||aoao11211iis.top^
 ||nois5gj.xyz^
+||qhestrad.com^
+||vkbxaixl.icu^
+||daiitmk.cn^
+||syfgtby.cn^
+||hweizau.top^
+||1jok.icu^
 ||ilzies.com^
 ||cdlekgr.icu^
 ||cxvyk.com^
@@ -82920,7 +82943,7 @@ _rony.js$script,third-party
 ||lalabaos1*.top/$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
-.aoao111*iis.top/$script,third-party
+.aoao11*iis.top/$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 !#Novels
@@ -86556,6 +86579,7 @@ omni.soundestlink.com$image
 ||g11885060100.co^
 ||g12083144435.co^
 ||g12281228770.co^
+||g1386590346.co^
 ||g1584674682.co^
 ||g1584674684.co^
 ||g1782759015.co^
@@ -89705,6 +89729,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hung.ch^$third-party
 ||iivt.com^$third-party
 ||imcht.net^$third-party
+||imcounter.com^$third-party
 ||ingenioustech.biz^$third-party
 ||intelliad.de^$third-party
 ||interaktiv-net.de^$third-party
@@ -92751,6 +92776,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
 ||tracker.softcube.com^
@@ -96006,6 +96032,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.ca/api/landing-page/beacon-logger
 ||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
 ||wapn1.flosports.tv^
+||watchadsontape.com/stat/
 ||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js

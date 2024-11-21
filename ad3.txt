@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HpvaHPvtR97vqjHb7k3uXA
+! Checksum: 4KU6HpKFllmw5VvKknREMw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202411210225
-! Last Modified: 2024年11月21日 02:25
+! Version: 202411211426
+! Last Modified: 2024年11月21日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1877,7 +1877,14 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||aoao11211iis.top^
 ||nois5gj.xyz^
+||qhestrad.com^
+||vkbxaixl.icu^
+||daiitmk.cn^
+||syfgtby.cn^
+||hweizau.top^
+||1jok.icu^
 ||ilzies.com^
 ||cdlekgr.icu^
 ||cxvyk.com^
@@ -18779,7 +18786,7 @@ _rony.js$script,third-party
 ||lalabaos1*.top/$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
-.aoao111*iis.top/$script,third-party
+.aoao11*iis.top/$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 !#Novels
@@ -24754,6 +24761,7 @@ omni.soundestlink.com$image
 ||g11885060100.co^
 ||g12083144435.co^
 ||g12281228770.co^
+||g1386590346.co^
 ||g1584674682.co^
 ||g1584674684.co^
 ||g1782759015.co^
@@ -27903,6 +27911,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hung.ch^$third-party
 ||iivt.com^$third-party
 ||imcht.net^$third-party
+||imcounter.com^$third-party
 ||ingenioustech.biz^$third-party
 ||intelliad.de^$third-party
 ||interaktiv-net.de^$third-party
@@ -30949,6 +30958,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
+||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
 ||tracker.softcube.com^
@@ -34204,6 +34214,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.ca/api/landing-page/beacon-logger
 ||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
 ||wapn1.flosports.tv^
+||watchadsontape.com/stat/
 ||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
