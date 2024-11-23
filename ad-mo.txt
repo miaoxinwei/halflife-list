@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z7rogdRF2JFwt3v2mthrhQ
+! Checksum: yg3wxjJhogwjWYctw0fKEg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411232034
-! Last Modified: 2024年11月23日 20:34
+! Version: 202411240222
+! Last Modified: 2024年11月24日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -801,7 +801,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /fgh1ijKl.js$script
 /flashad.asp$subdocument
 /flashad.js$script
-/fleshlight.$domain=~fleshlight.com|~fleshlight.zendesk.com
 /float_ad.js$script
 /floatads.$script
 /floating-ad-rotator-$script,stylesheet
@@ -19927,6 +19926,7 @@ browsershots.org#@#.advert_area
 ||besteasyclick.com^
 ||bestevermotorie.com^
 ||bestexp1.com^
+||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestladymeet.life^
 ||bestloans.tips^
@@ -25100,6 +25100,7 @@ browsershots.org#@#.advert_area
 ||exposureawelessawelessladle.com^
 ||expressalike.com^
 ||expressingblossomjudicious.com^
+||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
 ||expulsionfluffysea.com^
@@ -34957,6 +34958,7 @@ browsershots.org#@#.advert_area
 ||pinttalewag.com^
 ||pioneercomparatively.com^
 ||pioneerusual.com^
+||piotyo.xyz^
 ||piouscheers.com^
 ||piouspoemgoodnight.com^
 ||pip-pip-pop.com^
@@ -44053,6 +44055,7 @@ browsershots.org#@#.advert_area
 ||yaxgszv.com^
 ||yazuda.xyz^
 ||ybhyziittfg.com^
+||ybnksajy.com^
 ||ybriifs.com^
 ||ybs2ffs7v.com^
 ||ybtkzjm.com^
@@ -44344,6 +44347,7 @@ browsershots.org#@#.advert_area
 ||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zcaadfl.com^
+||zcaappcthktx.com^
 ||zchtpzu.com^
 ||zcode12.me^
 ||zcode7.me^
@@ -57034,6 +57038,7 @@ radaris.com##.adsense-responsive-bottom
 temporary-phone-number.com##.adsense-top-728
 101soundboards.com##.adsense_matched_content
 awesomeopensource.com##.adsense_uas
+libble.eu##.adserver-container
 bolnews.com##.adsheading
 nepallivetoday.com##.adsimage
 search.b1.org##.adslabel
@@ -66100,6 +66105,8 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||xevaix.com^
 ||sweizab.top^
+||eweizaw.top^
+||dt0j.icu^
 ||oqipegjz.icu^
 ||izuts.com^
 ||jweizaa.top^
