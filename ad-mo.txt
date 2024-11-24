@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yg3wxjJhogwjWYctw0fKEg
+! Checksum: Kri/e6ZEr+s7pWONR9LPvQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202411240222
-! Last Modified: 2024年11月24日 02:22
+! Version: 202411240937
+! Last Modified: 2024年11月24日 09:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -66103,6 +66103,8 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||lipheak.com^
+||xcwdcynb.icu^
 ||xevaix.com^
 ||sweizab.top^
 ||eweizaw.top^
@@ -75261,6 +75263,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
 !------------------------Specific element hiding rules------------------------!
+cn.bing.com##.b_algo:has(p[class^="b_lineclamp2 b_algoSlug "])
 szxx.com.cn###A0
 131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 appinn.com##a[href*=".houdeyun.cn"]
@@ -90926,6 +90929,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||assets.yumpu.com/release/*/tracking.js
 ||assistant.watson.appdomain.cloud/analytics/
 ||asterpix.com/tagcloudview/
+||at.cbsi.com/lib/api/client-info
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
 ||atgsvcs.com/js/atgsvcs.js
