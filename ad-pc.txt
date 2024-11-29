@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: U1z7i1+BT2IjSBLYrq8YgQ
+! Checksum: ypDcTZ6zZSvJZyX56Od4zw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202411290225
-! Last Modified: 2024年11月29日 02:25
+! Version: 202411290926
+! Last Modified: 2024年11月29日 09:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15131,6 +15131,7 @@ _800x80_
 ##.yahooad
 ##.yahooads
 ##.yan-sponsored
+##.ympb_target
 ##.zeus-ad
 ##.zeusAdWrapper
 ##.zeusAd__container
@@ -16156,6 +16157,7 @@ gizmodo.jp#@#.l-ad
 vukajlija.com#@#.large-advert
 realgfporn.com#@#.large-right-ad
 atea.com,ateadirect.com,knowyourmobile.com,nlk.org.np#@#.logo-ad
+insideevs.com#@#.m1-header-ad
 doda.jp,tubefilter.com#@#.mainAd
 austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 thespruce.com#@#.mntl-leaderboard-spacer
@@ -20889,6 +20891,7 @@ browsershots.org#@#.advert_area
 ||caistireew.net^
 ||caitoasece.com^
 ||caiwauchegee.net^
+||caizaipt.net^
 ||caizutoh.xyz^
 ||cakangautchus.net^
 ||calamitydisc.com^
@@ -20983,6 +20986,7 @@ browsershots.org#@#.advert_area
 ||caraganaarborescenspendula.com^
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
+||caravanremarried.com^
 ||caravelvirent.com^
 ||carbonads.com^
 ||carcflma.de^
@@ -22549,6 +22553,7 @@ browsershots.org#@#.advert_area
 ||culmedpasses.cam^
 ||cultergoy.com^
 ||culturalcollectvending.com^
+||cumbersomeduty.pro^
 ||cumbersomesteedominous.com^
 ||cunealfume.shop^
 ||cupboardbangingcaptain.com^
@@ -26778,6 +26783,7 @@ browsershots.org#@#.advert_area
 ||greecewizards.com^
 ||greedcocoatouchy.com^
 ||greedrum.net^
+||greedyfire.com^
 ||greeftougivy.com^
 ||greekmankind.com^
 ||greekroo.xyz^
@@ -27847,6 +27853,7 @@ browsershots.org#@#.advert_area
 ||humremjobvipfun.com^
 ||humro.site^
 ||humsoolt.net^
+||hunchbackconebelfry.com^
 ||hunchbackrussiancalculated.com^
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
@@ -30573,6 +30580,7 @@ browsershots.org#@#.advert_area
 ||lxkzcss.xyz^
 ||lxlpoydodf.com^
 ||lxnkuie.com^
+||lxqjy-obtr.love^
 ||lxstat.com^
 ||lycheenews.com^
 ||lycopuscris.com^
@@ -32606,6 +32614,7 @@ browsershots.org#@#.advert_area
 ||nzfhloo.com^
 ||nzme-ads.co.nz^
 ||nzuebfy.com^
+||o-jmzsoafs.global^
 ||o-mvlwdxr.icu^
 ||o-oo.ooo^
 ||o18.click^
@@ -32828,6 +32837,7 @@ browsershots.org#@#.advert_area
 ||ofnkswddtp.xyz^
 ||ofphanpytor.com^
 ||ofqopmnpia.com^
+||ofredirect.com^
 ||ofseedotom.com^
 ||ofslakotha.com^
 ||ofsnoveran.com^
@@ -38992,6 +39002,7 @@ browsershots.org#@#.advert_area
 ||studiedabbey.com^
 ||studious-beer.com^
 ||studiouspassword.com^
+||stuffedbeforehand.com^
 ||stuffedprofessional.com^
 ||stuffinglimefuzzy.com^
 ||stuffintolerableillicit.com^
@@ -48242,6 +48253,7 @@ browsershots.org#@#.advert_area
 ||offshuppetchan.com^$popup
 ||ofglicoron.net^$popup
 ||ofphanpytor.com^$popup
+||ofredirect.com^$popup
 ||ofseedotom.com^$popup
 ||oftheseveryh.org^$popup
 ||oghqvffmnt.com^$popup
@@ -49075,6 +49087,7 @@ browsershots.org#@#.advert_area
 ||strungcourthouse.com^$popup
 ||stt6.cfd^$popup
 ||studiocustomers.com^$popup
+||stuffedbeforehand.com^$popup
 ||stughoamoono.net^$popup
 ||stunserver.net^$popup
 ||stvbiopr.net^$popup
@@ -53368,7 +53381,7 @@ $webrtc,domain=ack.net|allthetests.com|azvideo.net|champion.gg|clicknupload.link
 $websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|imagefap.com|keepvid.com|megaup.net|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|powvideo.net|roadracerunner.com|shorte.st|tribune.com.pk|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=script-src 'self' data: 'unsafe-inline' 'unsafe-hashes' 'unsafe-eval' pic1.mangapicgallery.com www.google.com,domain=mangago.me
-$csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|coinfaucet.eu|crictime.com|crictime.is|doodcdn.com|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|kinox.to|lewd.ninja|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.direct|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|wearesaudis.net|yazilir.com
+$csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|coinfaucet.eu|crictime.com|crictime.is|doodcdn.com|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|lewd.ninja|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.direct|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|wearesaudis.net|yazilir.com
 ||bodysize.org^$csp=child-src *
 ||convertfiles.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
@@ -56365,7 +56378,7 @@ hellenicshippingnews.com##.bigbanner
 advocate.com##.bigbox_top_ad-wrap
 scienceabc.com##.bigincontentad
 snokido.com##.bigsquare
-9gag.com,aerotime.aero,blackpoolgazette.co.uk,bundesliga.com,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,talksport.com,techforbrains.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
+9gag.com,aerotime.aero,blackpoolgazette.co.uk,bundesliga.com,dev.to,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,talksport.com,techforbrains.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
 nypost.com,pagesix.com##.billboard-overlay
 electronicproducts.com##.billboard-wrap
 weatherpro.com##.billboard-wrapper
@@ -57804,6 +57817,7 @@ scamrate.com##.m-t-3
 tech.hindustantimes.com##.m-to-add
 thestreet.com##.m-video-unit
 thegatewaypundit.com##.m0z4dhxja2
+insideevs.com##.m1-apb
 motor1.com##.m1_largeMPU
 poebuilds.net##.m6lHKI
 net-load.com##.m7s-81.m7s
@@ -60656,7 +60670,7 @@ rustlabs.com##.sub-info-block:has(#banner)
 scamwarners.com##.subheader:has(> ins.adsbygoogle)
 thesun.co.uk##.sun-grid-container:has([class*="ad_widget"])
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk##.swiper-slide:has(button[data-testid="sponsored-button"])
-independent.co.uk,standard.co.uk##.teads:has(.third-party-ad)
+independent.co.uk,standard.co.uk,the-independent.com##.teads:has(.third-party-ad)
 nex-software.com##.toolinfo:has(a[href$="/reimage"])
 canberratimes.com.au##.top-20
 twitter.com,x.com##.tweet:has(.promo)
@@ -60675,11 +60689,12 @@ momondo.com##[class*="mod-pres-default"]:has(div[class*="ad-badge"])
 petco.com##[class*="rmn-banner"]:has([class*="SponsoredText"])
 popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
 popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
+independent.co.uk,standard.co.uk,the-independent.com##[class] > :has(> [data-mpu])
 avclub.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 fortune.com##[class]:has(> #Leaderboard0)
 jalopnik.com,kotaku.com,theroot.com##[class]:has(> .related-stories-inset-video)
 polygon.com,vox.com##[class]:has(> [data-concert])
-independent.co.uk,standard.co.uk##[class]:has(> [data-mpu])
+independent.co.uk,standard.co.uk,the-independent.com##[class]:has(> [data-mpu])
 thrillist.com##[class^="Container__GridRow-sc-"]:has(> .concert-ad)
 skyscanner.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
@@ -65036,6 +65051,8 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||igabcgnh.icu^
+||saizih.com^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
