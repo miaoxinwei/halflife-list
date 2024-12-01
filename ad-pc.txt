@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: szcS/Z2aFPvd5Fp99v6G8Q
+! Checksum: 7LiPpIpvfwetcUwEdMWm6A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202412011426
-! Last Modified: 2024年12月01日 14:26
+! Version: 202412012035
+! Last Modified: 2024年12月01日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -57515,6 +57515,7 @@ di.fm##.gpt-slot
 travelsupermarket.com##.gptAdUnit__Wrapper-sc-f3ta69-0
 kijiji.ca##.gqNGFh
 beforeitsnews.com##.gquuuu5a
+cnx-software.com##.gradian
 searchenginereports.net##.grammarly-overall
 balls.ie##.gray-ad-title
 greatandhra.com##.great_andhra_logo_panel > div.center-align
@@ -59607,7 +59608,7 @@ gsmserver.com##.widget_banner-container_three-horizontal
 discussingfilm.net,goonhammer.com,joemygod.com,shtfplan.com,thestrongtraveller.com,usmagazine.com##.widget_block
 wplift.com##.widget_bsa
 techweekmag.com##.widget_codewidget
-4sysops.com,9to5linux.com,activistpost.com,arcadepunks.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,discover.is,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,spokesman-recorder.com,survivopedia.com,techdows.com,techforbrains.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
+4sysops.com,9to5linux.com,activistpost.com,arcadepunks.com,backthetruckup.com,catcountry941.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,discover.is,fastestvpns.com,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,iwatchsouthparks.com,macsources.com,manhuatop.org,mediachomp.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,rugbylad.ie,sashares.co.za,scienceabc.com,scienceandliteracy.org,spokesman-recorder.com,survivopedia.com,techdows.com,techforbrains.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,wabetainfo.com##.widget_custom_html
 insidehpc.com##.widget_download_manager_widget
 domaingang.com##.widget_execphp
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
@@ -59757,6 +59758,7 @@ shoprite.com##[class^="CitrusBannerXContainer"]
 bloomberg.com##[class^="FullWidthAd_"]
 genius.com##[class^="InnerSectionAd__"]
 genius.com##[class^="InreadContainer__"]
+zerohedge.com##[class^="PromoButton"]
 uploader.link##[class^="ads"]
 weather.us##[class^="dkpw"]
 dallasnews.com##[class^="dmnc_features-ads-"]
@@ -65297,6 +65299,8 @@ newduba.cn###jq_youxi
 ||edamcsw.top^
 ||e8d7.icu^
 ||aoao12011iis.top^
+||a2wx.icu^
+||caaqot.com^
 ||ruqaks.com^
 ||bmhtwefv.icu^
 ||olkoins.com^
@@ -85762,6 +85766,8 @@ _WebVitalsReporter_
 /znsrc.com/c/*$image
 ://2ip.*/member_photo/$third-party
 ://cl.melonbooks.co.jp/c/$image
+://click.revolut.com/q/$image
+://e.email.*/open?$image
 ://email.*/e/o/
 ://email.*/o/$image
 ://parcel-api.delivery-status.*/open/$image
