@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SPHffIXaMdQCePsmHpTX0g
+! Checksum: er/cejl1z55yWct1Z/Pbog
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202412030226
-! Last Modified: 2024年12月03日 02:26
+! Version: 202412030936
+! Last Modified: 2024年12月03日 09:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1881,6 +1881,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||vokzqgjp.icu^
+||sokars.com^
+||grerzieds.com^
+||c4uy.icu^
+||k5uj.icu^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
@@ -11113,7 +11118,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 !------------------------Specific element hiding rules------------------------!
 b0d8a0f6.com##DIV[id^="content_"]
 cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
-cn.bing.com#?#.b_algo:-abp-has(p[class^="b_lineclamp2 b_algoSlug "])
+cn.bing.com#?#.b_algo:-abp-has(.cico.siteicon.rms_img[src*="bing.com/th?id=O"])
 szxx.com.cn###A0
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好 物))
 131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
