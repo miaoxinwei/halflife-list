@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l097hNbepWZlG5orEOAquw
+! Checksum: K1321U/ZzbTHxW83s4KpzQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202412052038
-! Last Modified: 2024年12月05日 20:38
+! Version: 202412060225
+! Last Modified: 2024年12月06日 02:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -22483,6 +22483,7 @@ browsershots.org#@#.advert_area
 ||cudgeletc.com^
 ||cudgelsupportiveobstacle.com^
 ||cudjgcnwoo-s.icu^
+||cue-oxvpqbt.space^
 ||cuefootingrosy.com^
 ||cueistratting.com^
 ||cuesingle.com^
@@ -25966,6 +25967,7 @@ browsershots.org#@#.advert_area
 ||gafmajosxog.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gagheroinintact.com^
 ||gaghygienetheir.com^
 ||gagxsbnbu.xyz^
 ||gaibjhicxrkng.xyz^
@@ -28239,6 +28241,7 @@ browsershots.org#@#.advert_area
 ||imvjcds.com^
 ||imyanmarads.com^
 ||in-appadvertising.com^
+||in-bdcvlj.love^
 ||in-page-push.com^
 ||in-page-push.net^
 ||inabsolor.com^
@@ -47515,6 +47518,7 @@ browsershots.org#@#.advert_area
 ||g33ktr4ck.com^$popup
 ||gadlt.nl^$popup
 ||gadssystems.com^$popup
+||gagheroinintact.com^$popup
 ||galaxypush.com^$popup
 ||galotop1.com^$popup
 ||gamdom.com/?utm_source=$popup
@@ -52308,6 +52312,7 @@ browsershots.org#@#.advert_area
 ||promo.pixelsee.app^$popup
 ||protected-redirect.click^$popup
 ||quantumadblocker.com^$popup
+||random-affiliate.atimaze.com^$popup
 ||record.affiliatelounge.com^$popup
 ||redir.tradedoubler.com/projectr/$popup
 ||refpamjeql.top^$popup
@@ -65331,6 +65336,9 @@ newduba.cn###jq_youxi
 ||mdamcsx.top^
 ||m6d.icu^
 ||4i1.icu^
+||q8q.icu^
+||inphais.com^
+||cjimtyf.top^
 ||vokzqgjp.icu^
 ||sokars.com^
 ||grerzieds.com^
@@ -74582,7 +74590,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
 !------------------------Specific element hiding rules------------------------!
-b0d8a0f6.com##DIV[id^="content_"]
+b0d8a0f6.com##div[id^="content_"]
 bing.com#?#.b_algo:-abp-has(.tpmeta:not(.tpmeta:-abp-has(.b_attribution)))
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
