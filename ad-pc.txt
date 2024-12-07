@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yq7B93Qm/G1j21WtBoCDzQ
+! Checksum: eL1X3xD0WaiwnwQW1Tlsxg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202412071425
-! Last Modified: 2024年12月07日 14:25
+! Version: 202412072034
+! Last Modified: 2024年12月07日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -65514,6 +65514,10 @@ newduba.cn###jq_youxi
 ||f7j.icu^
 ||jjimtya.top^
 ||4sq.icu^
+||shaorgs.cn^
+||krinkred.com^
+||zikeke7.com^
+||vh8.icu^
 ||khengrull.com^
 ||ugajiwft.icu^
 ||hjimtyu.top^
@@ -74783,7 +74787,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
 !------------------------Specific element hiding rules------------------------!
-bing.com#?#.b_algo:-abp-has(.tpmeta:not(.tpmeta:-abp-has(.b_attribution)))
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
 bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
@@ -85169,7 +85172,7 @@ fqsousou.com,kengso.com#@#.user-share
 /t/event?
 /t?referer=
 /t?tcid=
-/taboola-header.js
+/taboola-header.js$script
 /taboola.js
 /taboola/loader.js
 /taboolaHead.js
@@ -86133,6 +86136,7 @@ omni.soundestlink.com$image
 ||cloudwp.io^
 ||clrt.ai^
 ||cnna.io^
+||cnstrc.com^
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
