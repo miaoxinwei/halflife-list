@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8DkaEXzZWaETKxbkASccIw
+! Checksum: KNj5K/BBJyNCMGAtMyCrCQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202412112038
-! Last Modified: 2024年12月11日 20:38
+! Version: 202412120227
+! Last Modified: 2024年12月12日 02:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -563,7 +563,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adrecover-new.js$script
 /adrecover.js$script
 /adright.$domain=~adright.com
-/adriver.$~script,domain=~adriver.co
 /ads-250.$image
 /ads-async.$script
 /ads-common.$image,script
@@ -786,7 +785,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /exitpopup.js$script
 /exitsplash.php$script
 /exoads/*$script
-/exoclick.$~script,domain=~exoclick.bamboohr.co.uk|~exoclick.kayako.com
+/exoclick.$~script,~xmlhttprequest,domain=~exoclick.bamboohr.co.uk|~exoclick.kayako.com
 /exonb/*$script
 /exonob/*$script
 /exports/tour/*$third-party
@@ -16654,6 +16653,7 @@ browsershots.org#@#.advert_area
 ||6179b859b8.com^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||63912b9175.com^
 ||639c909d45.com^
@@ -29864,6 +29864,7 @@ browsershots.org#@#.advert_area
 ||lamplynx.com^
 ||lamppostharmoniousunaware.com^
 ||lampshademirror.com^
+||lamrissmyol.com^
 ||lanceforthwith.com^
 ||landelcut.com^
 ||landitmounttheworld.com^
@@ -65522,6 +65523,8 @@ newduba.cn###jq_youxi
 ||ojimtyk.top^
 ||tteferty33.fun^
 ||suzalsln.com^
+||a7c.icu^
+||ljimtyl.top^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
