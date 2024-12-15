@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: P6KW+1b533oBL12KR7c35w
+! Checksum: R4Hxou69auljXNurEL22IQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202412150942
-! Last Modified: 2024年12月15日 09:42
+! Version: 202412151425
+! Last Modified: 2024年12月15日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -63,12 +63,11 @@ news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 ||res.ab.qq.com/tab/$script
 ||v.qq.com/cache/wuji/object^$script
 bilibili.com##.ad-report, .ad-floor
-bilibili.com##.container.is-version8 > .feed-card:has(>div:only-child), .container.is-version8 > .bili-video-card:has(>div:only-child)
+!此规则有效但导致页面加载慢 bilibili.com##.container.is-version8 > .feed-card:has(>div:only-child), .container.is-version8 > .bili-video-card:has(>div:only-child)
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
-||hdslb.com/bfs/sycp/creative_img/$image
-cm.bilibili.com
+||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
