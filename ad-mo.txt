@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SP3IcMO7NfBHJN4194dWxg
+! Checksum: QoHQZAS5eB3o7qbHX2ETGA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202412200224
-! Last Modified: 2024年12月20日 02:24
+! Version: 202412200922
+! Last Modified: 2024年12月20日 09:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25127,6 +25127,7 @@ browsershots.org#@#.advert_area
 ||fastnativead.com^
 ||fatalityplatinumthing.com^
 ||fatalityreel.com^
+||fatalshould.com^
 ||fatchilli.media^
 ||fatenoticemayhem.com^
 ||fatheemt.com^
@@ -55437,6 +55438,7 @@ epicload.com###popconlkr
 safetydetectives.com###popup
 bankinfosecurity.com###popup-interstitial-full-page
 chaseyoursport.com###popup1
+ducky.bio###popupOverlay
 quickmeme.com###post[style="display: block;min-height: 290px; padding:0px;"]
 ultrabookreview.com###postadsside
 ultrabookreview.com###postzzif
@@ -57545,6 +57547,7 @@ softarchive.is##.feature-usnt
 mumbrella.com.au##.featureBanner
 eagle1065.com##.featureRotator
 news24.com##.featured-category
+cnn.com##.featured-product__card
 apexcharts.com,ar12gaming.com##.featured-sponsor
 eetimes.com##.featured-techpaper-box
 thenationonlineng.net##.featured__advert__desktop_res
@@ -58811,6 +58814,7 @@ setlist.fm##.prmtnTop
 computerweekly.com##.pro-downloads-home
 kompass.com##.prodListBanner
 ecosia.org##.product-ads-carousel
+cnn.com##.product-offer-card-container_related-products
 skinstore.com##.productSponsoredAdsWrapper
 letsgodigital.org##.product__wrapper
 nymag.com##.products-package
@@ -58944,6 +58948,7 @@ anisearch.com##.rect_sidebar
 zerohedge.com##.rectangle
 zerohedge.com##.rectangle-large
 knowyourmeme.com##.rectangle-unit-wrapper
+twz.com##.recurrent-inline-leaderboard
 redferret.net##.redfads
 arras.io##.referral
 al-monitor.com##.region--after-content
@@ -62209,7 +62214,7 @@ str8ongay.com##.aside-itempage-col
 ad69.com##.aside-section
 sexvid.pro##.aside_thumbs
 hd21.com##.aside_video
-fapnfuck.com,onlyppv.com,thotcity.su,xmateur.com##.asside-link
+babepump.com,fapnfuck.com,fuqster.com,onlyppv.com,sexpester.com,thotcity.su,w1mp.com,w4nkr.com,xmateur.com##.asside-link
 veev.to##.avb-active
 avn.com##.avn-article-tower
 mrskin.com##.az
@@ -62526,7 +62531,7 @@ missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:hidden
 videosdemadurasx.com##.link
 xxxvogue.net##.link-adv
 escortnews.eu,topescort.com##.link-buttons-container
-fapnfuck.com##.link-offer
+babepump.com,fapnfuck.com,fuqster.com,sexpester.com,w1mp.com,w4nkr.com##.link-offer
 boyfriendtv.com##.live-cam-popunder
 spankbang.com##.live-rotate
 alloldpics.com,sexygirlspics.com##.live-spot
@@ -62729,7 +62734,7 @@ nakedpornpics.com##.sponsor-wrapper
 4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.sponsorbig
 fux.com,pornerbros.com,porntube.com,tubedupe.com##.sponsored
 hoes.tube##.sponsorsmall
-3movs.com,3movs.xxx,bravotube.net,camvideos.tv,cluset.com,deviants.com,dixyporn.com,fapnfuck.com,hello.porn,javcab.com,katestube.com,pornicom.com,sleazyneasy.com,videocelebs.net,vikiporn.com,vjav.com##.spot
+3movs.com,3movs.xxx,babepump.com,bravotube.net,camvideos.tv,cluset.com,deviants.com,dixyporn.com,fapnfuck.com,fuqster.com,hello.porn,javcab.com,katestube.com,pornicom.com,sexpester.com,sleazyneasy.com,videocelebs.net,vikiporn.com,vjav.com,w1mp.com,w4nkr.com##.spot
 pornicom.com##.spot-after
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 bleachmyeyes.com##.spot-box
@@ -65573,6 +65578,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||grmzwc.icu^
+||ppio12200ios.top^
+||ondraits.com^
+||lhxolz.icu^
+||tdzqoewz.icu^
 ||threkuth.com^
 ||nrbwzh.icu^
 ||32n.icu^
@@ -81606,6 +81616,7 @@ $image,third-party,domain=258zw.com
 :6607/qy/$script,third-party
 _rony.js$script,third-party
 ||lalabaos1*.top/$script,third-party
+||ppio1*ios.top/$script,third-party
 ||ao1*kas.top/$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
