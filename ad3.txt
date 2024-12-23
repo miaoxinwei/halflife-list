@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sHBZ6n8Bvu9mRv2yDL9nNg
+! Checksum: I5MEx/51FdQdOOsf9ATsbw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202412231426
-! Last Modified: 2024年12月23日 14:26
+! Version: 202412232035
+! Last Modified: 2024年12月23日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,7 @@ newduba.cn###jq_youxi
 ||ndlwtl.icu^
 ||swilmib.top^
 ||nx8.icu^
+||irgidshiv.com^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
@@ -10220,6 +10221,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||cdncg.com^*/kangmey
 ||twkan.com/js/otherad
 ||element-plus.org/images/sponsors/
+||httpcn.com^*950-120
 !------------------------Specific element hiding rules------------------------!
 85po.com##.asside-link
 52asus.com###AsusMall-contain
@@ -10511,7 +10513,7 @@ csdn.net###asideCustom36733263
 csdn.net###asideCustom65392991
 baidu.com###asideLeft
 baidu.com###asideRight
-assbbs.com###ass_adv
+assbbs.com##div[id^="ass_adv"]
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###attention-game-wraper_dialog
 vjmedia.com.hk###author-spotlight + .clear + div
 androiddevtools.cn###auto-scroll-ad-box
@@ -71022,6 +71024,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
+@@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.perfops.net/rom3/rom3.min.js$domain=cdnperf.com
 @@||cdn.segment.com/analytics-next/
