@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X0TuUQ8masjHv5MLE42lmA
+! Checksum: /BJt6kLQV0/kuUNcjYLRhQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202412291423
-! Last Modified: 2024年12月29日 14:23
+! Version: 202412292032
+! Last Modified: 2024年12月29日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1428,7 +1428,7 @@ _atblockdetector/
 -160x600.
 -160x600_
 -300-250.
--300x250-$~xmlhttprequest
+-300x250-$image
 -300x250_
 -300x600.
 -460x68.
@@ -60163,6 +60163,8 @@ livejournal.com##[style$="width: 300px;"]
 circleid.com##[style*="300px;"]
 circleid.com##[style*="995px;"]
 news.abs-cbn.com##[style*="background-color: rgb(236, 237, 239)"]
+tetris.com##[style*="min-width: 300px;"]
+tetris.com##[style*="min-width: 728px;"]
 coolors.co##[style*="position:absolute;top:20px;"]
 4anime.gg,apkmody.io,bollyflix.nexus,bravoporn.com,dramacool.sr,gogoanime.co.in,gogoanime.run,harimanga.com,hdmovie2.rest,himovies.to,hurawatch.cc,instamod.co,leercapitulo.com,linksly.co,mangadna.com,manhwadesu.bio,messitv.net,miraculous.to,movies-watch.com.pk,moviesmod.zip,nkiri.com,prmovies.dog,putlockers.li,sockshare.ac,ssoap2day.to,sukidesuost.info,tamilyogi.bike,waploaded.com,watchomovies.net,y-2mate.com,yomovies.team,ytmp3.cc,yts-subs.com##[style*="width: 100% !important;"]
 news.abs-cbn.com##[style*="width:100%;min-height:300px;"]
@@ -65407,6 +65409,8 @@ newduba.cn###jq_youxi
 ||vjzvgvgz.icu^
 ||3xl.icu^
 ||iclimio.top^
+||ljjhfw34.fun^
+||scrugokl.com^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
@@ -79478,6 +79482,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
+@@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||am730.com.hk^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -132267,6 +132272,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
+@@||cdn.listrakbi.com^$script,domain=mackenzie-childs.com
 @@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.perfops.net/rom3/rom3.min.js$domain=cdnperf.com

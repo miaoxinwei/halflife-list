@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Xv0CW/xYF2BI/wOv7kqHpA
+! Checksum: A21/w6qfiu3i4EeZMKTBhA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202412291423
-! Last Modified: 2024年12月29日 14:23
+! Version: 202412292032
+! Last Modified: 2024年12月29日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1892,6 +1892,8 @@ newduba.cn###jq_youxi
 ||vjzvgvgz.icu^
 ||3xl.icu^
 ||iclimio.top^
+||ljjhfw34.fun^
+||scrugokl.com^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
@@ -15963,6 +15965,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
+@@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||am730.com.hk^$generichide
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -71093,6 +71096,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
+@@||cdn.listrakbi.com^$script,domain=mackenzie-childs.com
 @@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.perfops.net/rom3/rom3.min.js$domain=cdnperf.com
