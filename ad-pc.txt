@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LtxkcF5+Kci8ye2yzDv17g
+! Checksum: uBmZ/kGemtCKPL5O/CyIsw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202501030224
-! Last Modified: 2025年01月03日 02:24
+! Version: 202501030921
+! Last Modified: 2025年01月03日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15902,6 +15902,7 @@ sdf-event.sakura.ne.jp#@##ad_1
 sdf-event.sakura.ne.jp#@##ad_2
 sdf-event.sakura.ne.jp#@##ad_3
 sdf-event.sakura.ne.jp#@##ad_4
+mediafire.com#@##ad_banner
 drc1bk94f7rq8.cloudfront.net#@##ad_link
 streetinsider.com#@##ad_space
 adtunes.com#@##ad_thread_first_post_content
@@ -15988,7 +15989,7 @@ hdfcbank.com#@#.adLink
 seznam.cz#@#.adMiddle
 aggeliestanea.gr,infotel.ca#@#.adResult
 macys.com,news24.jp#@#.adText
-clien.net#@#.ad_banner
+clien.net,mediafire.com#@#.ad_banner
 interior-hirade.co.jp#@#.ad_bg
 sozai-good.com#@#.ad_block
 panarmenian.net#@#.ad_body
@@ -19763,6 +19764,7 @@ browsershots.org#@#.advert_area
 ||bekrookodilechan.com^
 ||belamicash.com^
 ||belatedsafety.pro^
+||belatedwricht.com^
 ||belavoplay.com^
 ||beleafwens.shop^
 ||belengougha.com^
@@ -21003,6 +21005,7 @@ browsershots.org#@#.advert_area
 ||caravancomplimentenabled.com^
 ||caravanfried.com^
 ||caravanremarried.com^
+||caravelvirent.com^
 ||carbonads.com^
 ||carcflma.de^
 ||careersletbacks.com^
@@ -23241,6 +23244,7 @@ browsershots.org#@#.advert_area
 ||detour.click^
 ||deturbcordies.com^
 ||devastatedshorthandpleasantly.com^
+||devcre.site^
 ||developmentbulletinglorious.com^
 ||developmentgoat.com^
 ||devgottia.github.io^
@@ -23660,6 +23664,7 @@ browsershots.org#@#.advert_area
 ||dolehum.com^
 ||dolemeasuringscratched.com^
 ||doleyorpinc.website^
+||dolils.click^
 ||dollarade.com^
 ||dolohen.com^
 ||dolphinabberantleaflet.com^
@@ -25641,6 +25646,7 @@ browsershots.org#@#.advert_area
 ||foaglaid.xyz^
 ||foagrucheedauza.net^
 ||foakiwhazoja.com^
+||foaloocasho.net^
 ||foalwoollenwolves.com^
 ||foamingemda.top^
 ||foapsovi.net^
@@ -26765,6 +26771,7 @@ browsershots.org#@#.advert_area
 ||gooods4you.com^
 ||goosebomb.com^
 ||goosierappetit.com^
+||goothoozuptut.net^
 ||goourl.me^
 ||gophykopta.com^
 ||goplayhere.com^
@@ -28191,6 +28198,7 @@ browsershots.org#@#.advert_area
 ||ihavenewdomain.xyz^
 ||ihdcnwbcmw.com^
 ||ihhqwaurke.com^
+||ihiptootchouds.xyz^
 ||ihkybtde.com^
 ||ihnhnpz.com^
 ||ihoolrun.net^
@@ -28971,6 +28979,7 @@ browsershots.org#@#.advert_area
 ||janzmuarcst.com^
 ||japanbros.com^
 ||japegr.click^
+||japootchust.net^
 ||japw.cloud^
 ||jaqxaqoxwhce.com^
 ||jareechargu.xyz^
@@ -30971,6 +30980,7 @@ browsershots.org#@#.advert_area
 ||malurusoenone.top^
 ||mamaunweft.click^
 ||mamblubamblua.com^
+||mamimp.click^
 ||mammaclassesofficer.com^
 ||mammaldealbustle.com^
 ||mammalsidewaysthankful.com^
@@ -32176,6 +32186,7 @@ browsershots.org#@#.advert_area
 ||naupsakiwhy.com^
 ||naupseko.com^
 ||nauthait.com^
+||nautijutheest.net^
 ||nauwheer.net^
 ||nauzaphoay.net^
 ||navaidaosmic.top^
@@ -33575,6 +33586,7 @@ browsershots.org#@#.advert_area
 ||oscohkajcjz.com^
 ||osdmuxzag.com^
 ||osekwacuoxt.xyz^
+||oselamousey.com^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
 ||osgsijvkoap.com^
@@ -33699,6 +33711,7 @@ browsershots.org#@#.advert_area
 ||outcrycaseate.com^
 ||outdilateinterrupt.com^
 ||outelectrodean.com^
+||outfeatjamshid.com^
 ||outflednailbin.com^
 ||outfoxnapalms.com^
 ||outgratingknack.com^
@@ -36558,6 +36571,7 @@ browsershots.org#@#.advert_area
 ||registercherryheadquarter.com^
 ||registration423.fun^
 ||regiveshollas.shop^
+||reglazepatriae.com^
 ||regnicmow.xyz^
 ||regretfactor.com^
 ||regretuneasy.com^
@@ -36934,6 +36948,7 @@ browsershots.org#@#.advert_area
 ||richwebmedia.com^
 ||rickerrotal.com^
 ||riddleloud.com^
+||ridgerkimono.com^
 ||ridiculousegoismaspirin.com^
 ||ridikoptil.net^
 ||ridingdisguisessuffix.com^
@@ -39394,6 +39409,7 @@ browsershots.org#@#.advert_area
 ||subjectamazement.com^
 ||subjectedburglar.com^
 ||subjectscooter.com^
+||subjectsfaintly.com^
 ||subjectslisted.com^
 ||submarinefortressacceptable.com^
 ||submarinestooped.com^
@@ -40339,6 +40355,7 @@ browsershots.org#@#.advert_area
 ||timeforagreement.com^
 ||timelymongol.com^
 ||timeone.pro^
+||timersbedbug.com^
 ||timesroadmapwed.com^
 ||timetableitemvariables.com^
 ||timetoagree.com^
@@ -42068,6 +42085,7 @@ browsershots.org#@#.advert_area
 ||virtuousescape.pro^
 ||visariomedia.com^
 ||viscountquality.com^
+||viscusumgang.shop^
 ||visfirst.com^
 ||visiads.com^
 ||visibilitycrochetreflected.com^
@@ -42954,6 +42972,7 @@ browsershots.org#@#.advert_area
 ||woaniphud.com^
 ||woapheer.com^
 ||woapimaugu.net^
+||woareejoaley.net^
 ||wocwibkfutrj.com^
 ||woefifty.com^
 ||woespoke.com^
@@ -43423,6 +43442,7 @@ browsershots.org#@#.advert_area
 ||xylomavivat.com^
 ||xyooepktyy.xyz^
 ||xysgfqnara.xyz^
+||xyxz.site^
 ||xyz0k4gfs.xyz^
 ||xzezapozghp.com^
 ||xzqpz.com^
@@ -43447,6 +43467,7 @@ browsershots.org#@#.advert_area
 ||yarningbursal.com^
 ||yashi.com^
 ||yauperstote.top^
+||yauponbotone.com^
 ||yausbprxfft.xyz^
 ||yavaflocker.shop^
 ||yavli.com^
@@ -45544,6 +45565,7 @@ browsershots.org#@#.advert_area
 ||journeymv.com^$third-party
 ||jubna.com^$third-party
 ||juicyads.com^$script,third-party
+||juicyads.com^$third-party
 ||kaprila.com^$third-party
 ||kargo.com^$third-party
 ||kiosked.com^$third-party
@@ -49749,6 +49771,7 @@ browsershots.org#@#.advert_area
 ||stvbiopr.net^$popup
 ||stvkr.com^$popup
 ||stvwell.online^$popup
+||subjectsfaintly.com^$popup
 ||suddenvampire.com^$popup
 ||suddslife.com^$popup
 ||suggest-recipes.com^$popup
@@ -52186,6 +52209,7 @@ browsershots.org#@#.advert_area
 ||d2ywv53s25fi6c.cloudfront.net^
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zbpgxs57sg1k.cloudfront.net^
+||d2zbrsgwxpxcye.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d2zf5gu5e5mp87.cloudfront.net^
 ||d2zh7okxrw0ix.cloudfront.net^
@@ -54911,6 +54935,7 @@ dict.leo.org###adv-drectangle2
 dict.leo.org###adv-sitebar
 leo.org###adv-wbanner
 linuxblog.io###advads_ad_widget-3
+agma.io###advertDialog1
 radioonline.fm###advertise_center
 steamcardexchange.net###advertisement
 lifenews.com###advertisement-top
@@ -63857,7 +63882,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||yimg.com/dy/ads/native.js$script,domain=animedao.to
 @@||tab.gladly.io/newtab/|$document,subdocument
 !! imasdk.googleapis.com/js/sdkloader/ima3.js
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|distro.tv|doubtnut.com|einthusan.tv|embed.comicbook.com|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|ktla.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|popculture.com|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|autokult.pl|bbc.com|blastingnews.com|bloomberg.co.jp|bloomberg.com|bsfuji.tv|cbc.ca|cbsnews.com|cbssports.com|chicagotribune.com|clickorlando.com|cnet.com|crunchyroll.com|delish.com|distro.tv|doubtnut.com|einthusan.tv|embed.comicbook.com|etonline.com|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamebox.gesoten.com|gamepix.com|gameplayneo.com|games.usatoday.com|gbnews.com|geo.dailymotion.com|givemesport.com|goodmorningamerica.com|goodstream.uno|gospodari.com|howstuffworks.com|humix.com|ignboards.com|iheart.com|insideedition.com|irctc.co.in|klix.ba|ktla.com|lemino.docomo.ne.jp|locipo.jp|maharashtratimes.com|maxpreps.com|metacritic.com|minigame.aeriagames.jp|missoulian.com|myspace.com|nettavisen.no|paralympic.org|paramountplus.com|player.abacast.net|player.amperwave.net|player.earthtv.com|player.performgroup.com|plex.tv|pointmall.rakuten.co.jp|popculture.com|realmadrid.com|rte.ie|rumble.com|s.yimg.jp|scrippsdigital.com|sonyliv.com|southpark.lat|southparkstudios.com|spiele.heise.de|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tdn.com|thecw.com|truvid.com|tubitv.com|tunein.com|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|tvp.pl|univtec.com|video.tv-tokyo.co.jp|vlive.tv|watch.nba.com|wbal.com|weather.com|webdunia.com|wellgames.com|worldsurfleague.com|wowbiz.ro|wsj.com|wtk.pl|zdnet.com|zeebiz.com
 !! https://adssettings.google.com/anonymous?hl=en
 @@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net
 !! imasdk.googleapis.com/js/sdkloader/ima3_dai.js
@@ -65809,6 +65834,10 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||rhndvagz.icu^
+||okpp01030.xyz^
+||cuvedyqs.com^
+||jthotb.icu^
 ||qhatarsl.com^
 ||towmfs.com^
 ||lqlwjr.icu^
@@ -84165,6 +84194,7 @@ fqsousou.com,kengso.com#@#.user-share
 /tailtarget.js
 /talpa-analytics-pro/*
 /tatari-shopify/tracker-snippet-latest.min.js
+/tbl_nw_web_logs?
 /tc_analytics.js
 /tc_analytics.min.js
 /tc_imp.gif?
@@ -87648,7 +87678,6 @@ omni.soundestlink.com$image
 ||travelrobotflower.com^$third-party
 ||traversedlp.com^$third-party
 ||trbas.com^$third-party
-||treasuredata.com^$third-party
 ||trendcounter.com^$third-party
 ||trendemon.com^$third-party
 ||trialfire.com^$third-party
@@ -89733,6 +89762,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
 ||collection.e-satisfaction.com^
+||collector-1.ex.co^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
 ||collector.api.video^
@@ -93709,6 +93739,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hellopeter.com/api/consumer-tracking/
+||hexed.it/js/error-reporting.
+||hexed.it/js/startup-error.
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hlogger.heraldcorp.com^
@@ -132175,7 +132207,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
-@@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com|summitracing.com|tumi.com
@@ -132717,7 +132748,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||c-web.cedyna.co.jp/customer/img/spacer.gif?$~third-party
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
-@@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
@@ -132739,7 +132769,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||guinnessworldrecords.jp/ezais/analytics$~third-party
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||howtonote.jp/google-analytics/$image,~third-party
-@@||in.treasuredata.com/js/*api_key$script,domain=retty.me
 @@||js.appboycdn.com/web-sdk/$domain=kfc.co.jp
 @@||justmyshop.com/gate/criteo/product-id.js$~third-party
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
@@ -132767,7 +132796,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||toweroffantasy-global.com/events/accounttransfer/public/js/fingerprint.js$~third-party
 @@||townwork.net/js/AppMeasurement.js$~third-party
-@@||treasuredata.com^$script,domain=skincare-univ.com
 @@||twitter.com/oct.js$domain=jp.square-enix.com
 @@||type.jp/common/js/clicktag.js
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
