@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XGmBZVU/X96fsTkhxA4PQw
+! Checksum: tktNYL4/Yo0bhKfJnrHGfQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202501040224
-! Last Modified: 2025年01月04日 02:24
+! Version: 202501040920
+! Last Modified: 2025年01月04日 09:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -65868,6 +65868,11 @@ newduba.cn###jq_youxi
 ||drandoxo.com^
 ||h5r.icu^
 ||bclimiv.top^
+||katoleiy.com^
+||okpp01040.xyz^
+||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
@@ -94877,6 +94882,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citibank.com.sg/jso/js/fp.js
 ||citibank.com.sg/tmx/
 ||clear.wallapop.com^
+||content.canadiantire.ca^
 ||content22.bmo.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
@@ -132263,6 +132269,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/visitor-api.html$xmlhttprequest
 @@||cqcounter.com^$domain=cqcounter.com
 @@||crimemapping.com/cdn/*/analytics/eventtracking.js$~third-party
+@@||criteo.com/delivery/$domain=canadiantire.ca
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
