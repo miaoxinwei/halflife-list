@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EEAQOXFDC2/HHo04r3OydQ
+! Checksum: hMvZVyES5383i5fBwLRWow
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202501102035
-! Last Modified: 2025年01月10日 20:35
+! Version: 202501110224
+! Last Modified: 2025年01月11日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1886,6 +1886,7 @@ newduba.cn###jq_youxi
 ||nyhdv.com^
 ||osdxx.com^
 ||bhegilut.com^
+||s83.fun^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^
@@ -9608,6 +9609,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xcar.com.cn/dsp/ad
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
+||xchina.*/plugins/sweetAlert2/
 ||xcmfu.com/cp.
 ||xdcad.net/source/plugin/disad/disad.js
 ||xdf.cn/v4/js/leyus/
@@ -27374,6 +27376,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mystat-in.net^$third-party
 ||mytopf.com^$third-party
 ||netlog.ru^$third-party
+||octotracking.com^$third-party
 ||opentracking.ru^$third-party
 ||otclick-adv.ru^$third-party
 ||pladform.ru^$third-party
