@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gq0GXdFjHGNfaaBK2BOSAQ
+! Checksum: yIZZCwnpvsYZEsdDACGkkw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202501122032
-! Last Modified: 2025年01月12日 20:32
+! Version: 202501130222
+! Last Modified: 2025年01月13日 02:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -65858,6 +65858,8 @@ newduba.cn###jq_youxi
 ||eisnaisv.com^
 ||puhmtt.icu^
 ||cdomsif.top^
+||ok5.fun^
+||drauvea.com^
 ||riscats.com^
 ||jebrhb.icu^
 ||bc4.fun^
@@ -88754,6 +88756,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||whoseesyou.com^$third-party
 ||accaii.com^$third-party
 ||accesstrade.net^$third-party
+||actiontracking.jp^$third-party
 ||ad-fam.com^$third-party
 ||ad-track.jp^$third-party
 ||ad2iction.com^$third-party
@@ -89578,6 +89581,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||byteoversea.com/monitor_browser/
 ||bzpics.com/jslib/st.js?
 ||c-date.com/pixel/
+||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
 ||c.imedia.cz^
