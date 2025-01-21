@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4u3y57cp4lEuRY87EPn9sQ
+! Checksum: tR/7V54apdMvOr2MTCY1lA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202501210222
-! Last Modified: 2025年01月21日 02:22
+! Version: 202501210919
+! Last Modified: 2025年01月21日 09:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -10708,6 +10708,7 @@ _800x80_
 ##.banner-adverts
 ##.banner-asd__title
 ##.banner-buysellads
+##.banner-img > .pbl
 ##.banner-sponsorship
 ##.banner-top-ads
 ##.banner120x600
@@ -57041,6 +57042,7 @@ scmp.com##.article--sponsor
 thelocal.at,thelocal.ch,thelocal.de,thelocal.es,thelocal.fr,thelocal.it,thelocal.no##.article--sponsored
 thehindu.com##.article-ad
 19thnews.org##.article-ad-default-top
+phys.org##.article-banner
 worldsoccertalk.com##.article-banner-desktop
 wishesh.com##.article-body-banner
 manilatimes.net##.article-body-content > .fixed-gray-color
@@ -66107,6 +66109,10 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 ||y0o.fun^
+||icokamio.top^
+||thrumulr.com^
+||01210sop.xyz^
+||icokamio.top^
 ||hp7.fun^
 ||tuvrutsnf.com^
 ||rpfuvj.icu^
@@ -132619,6 +132625,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||ikea.com^*/analyticsEvent.$script,~third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
+@@||intuitcdn.net/libs/*/track-star.min.js$script,domain=turbotax.intuit.com
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||ipinfo.io/json$domain=ptube.pipio.site|queye.co
