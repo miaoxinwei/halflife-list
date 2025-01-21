@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qCZ1iBBFMqoWdl1ZfSjBCA
+! Checksum: o2a8pcm0XDP0hIM5dbzcfw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202501211424
-! Last Modified: 2025年01月21日 14:24
+! Version: 202501212035
+! Last Modified: 2025年01月21日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -61967,6 +61967,7 @@ express.co.uk,the-express.com###ovp-primis
 blackamericaweb.com,bossip.com,cassiuslife.com,charlieintel.com,dexerto.com,hiphopwired.com,madamenoire.com,newsone.com,tvone.tv###player-wrapper
 bar-planb.com###player_dev
 essentiallysports.com###player_stn-player__Dybik
+techlicious.com###primis-incontent-desktop
 charlieintel.com,dexerto.com###primis-player
 flightradar24.com###primisAdContainer
 freethesaurus.com###qk1
@@ -66113,6 +66114,11 @@ newduba.cn###jq_youxi
 ||thrumulr.com^
 ||01210sop.xyz^
 ||icokamio.top^
+||qhihoins.com^
+||uv4.fun^
+||01211sop.xyz^
+||jcokamia.top^
+||pa6.fun^
 ||hp7.fun^
 ||tuvrutsnf.com^
 ||rpfuvj.icu^
