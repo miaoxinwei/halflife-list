@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V86yCKyM0FyZmeoMnepW4g
+! Checksum: tT9Zo8C+90shNw2qZWlktQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202501262030
-! Last Modified: 2025年01月26日 20:30
+! Version: 202501270221
+! Last Modified: 2025年01月27日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53692,6 +53692,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||fishki.net/code?
 ||flippback.com/tag/js/flipptag.js$domain=idsnews.com
 ||fontsquirrel.com/ajaxactions/get_ads^
+||fontsquirrel.com^*/advertisements/
 ||footballtradedirectory.com/images/pictures/banner/
 ||forabodiesonly.com/mopar/sidebarbanners/
 ||fordforums.com.au/logos/
@@ -66203,6 +66204,7 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||xxsmad5.com^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
@@ -74375,7 +74377,7 @@ appinn.com##a[href*=".houdeyun.cn"]
 fitacg.com##a[href*="ifift.com"]
 cnys.tv###player_pause
 twkan.com##.txtcenter
-element-plus.org##div[class^="page-sidebar-"]
+element-plus.org##div[class*="-sidebar-"]
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 sehuatang.net##DIV[class^="show-text"]
 ghxi.com##.widget_html_ad + div[style]
@@ -93871,6 +93873,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||cookpad.com/*/activity_logs
+||coomer.su/api/v1/creators
 ||copilot-telemetry.githubusercontent.com^
 ||count.darkreader.app^
 ||count.rin.ru^
@@ -94317,6 +94320,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||kemono.su/api/v1/creators
 ||kgoma.com/v1/stat/
 ||khanacademy.org/api/internal/_analytics/
 ||kinesis.us-east-1.analytics.edmentum.com^
