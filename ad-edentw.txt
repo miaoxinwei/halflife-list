@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lEixgtobde1cRoL8gD0ubw
+! Checksum: YIhAfwBfG5e0tIfL1UkzGQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202501250223
-! Last Modified: 2025年01月25日 02:23
+! Version: 202501272035
+! Last Modified: 2025年01月27日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1344,6 +1344,7 @@ tirexo.day#$#debug; abort-on-property-read window.open
 ||tirexo.day^$csp=script-src 'self'
 wawacity.*,zone-telechargement.*#$#abort-current-inline-script JSON.stringify
 oxtorrent.*#$#abort-on-property-read window.open
+extreme-down.*#$#abort-on-property-read decodeURIComponent
 ! *** abp-filters-anti-cv:german.txt ***
 ! #CV-761
 ! #CV-691
@@ -1820,14 +1821,14 @@ saigon24.net#$#abort-current-inline-script document.getElementById myModal
 cliphot69.pics#$#override-property-read a_vid 0
 vaoroi14.live#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
 ! Popup/Popunder/Clickunder
-fembed.com,survey-smiles.com,m.blogtruyenvn.org,viettoons.tv,vinaurl.net,animet5.site,anh.moe,maclife.io,xemphimjav.com,hoctot.hocmai.vn,motchilltv.name,cdn2.blueskychilling.online,ohaha79xxx.site,fastscans7.net,herotruyen.com,player.phimapi.com#$#abort-on-property-read open
+fembed.com,survey-smiles.com,m.blogtruyenvn.org,viettoons.tv,vinaurl.net,anime1.site,anh.moe,maclife.io,xemphimjav.com,hoctot.hocmai.vn,motchilltv.name,cdn2.blueskychilling.online,ohaha79xxx.site,fastscans7.net,herotruyen.com,player.phimapi.com#$#abort-on-property-read open
 tvhay.top#$#abort-current-inline-script JSON.parse atob
 truyen247.pro#$#abort-current-inline-script eval
 thienhatruyen3.com#$#abort-current-inline-script $ pc-popup-2
 sexphimhd.net,www.gvnvh.net#$#abort-current-inline-script Math
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.ing,sieudamsex.net,phimchill.life,ophimhdvn3.net,thuvienhd.xyz,xemtivi.tvhayhd.tv,www.khophim88s.com,nhentaivn.online,mv.dailyphimz.com,mv.phimbathu.one,sexhihiz.tv#$#abort-on-property-read document.cookie
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.ing,sieudamsex.net,phimchill.life,ophimhdvn3.net,thuvienhd.xyz,tv.tvhayhd.org,www.khophim88s.com,nhentaivn.online,mv.dailyphimz.com,mv.phimbathu.one,sexhihiz.tv#$#abort-on-property-read document.cookie
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
 truyentuan.wordpress.com#$#abort-current-inline-script $ btpop
@@ -1852,7 +1853,7 @@ animehay.red#$#abort-current-inline-script document.addEventListener window.open
 audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
 vailonxx.co,www.phimdinhcao.org,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
 tctruyen.cc,abtruyenmoi.com#$#abort-current-inline-script $ popup
-truyenqq8.com,viet69.cfd#$#abort-current-inline-script Promise break;case
+truyenqqtet.com,viet69.cfd#$#abort-current-inline-script Promise break;case
 holyfilm.org#$#abort-current-inline-script window.addEventListener window.open
 www.nettruyenupp.com#$#abort-on-property-read sp
 phimtho.net#$#abort-current-inline-script $ p0pUpRandom
@@ -1896,7 +1897,7 @@ mediamarkt.de#@#.sc-72448dee-1.bLECT:-abp-contains(Gesponsert)
 ! *** abp-filters-anti-cv:distribution/abp-filters-partners.txt ***
 ! Filters to be used by distribution partners
 ! #CV-782
-www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1010' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1020' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-start-from:1030' '-stop-on-video-end:true'; race stop;
+www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1005' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1010' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-start-from:1015' '-stop-on-video-end:true'; race stop;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
 m.youtube.com#$#override-property-read ytInitialPlayerResponse.playerAds undefined;
