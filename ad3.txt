@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1DNnbWFb2NiPHLN/EOBlVQ
+! Checksum: ShP87g39oYAIpxHbgjOz6A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202501302034
-! Last Modified: 2025年01月30日 20:34
+! Version: 202502010111
+! Last Modified: 2025年02月01日 01:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1877,10 +1877,18 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||begoihuh.com^
+||rmtxdn.icu^
+||pw2.fun^
+||lwtupzua.icu^
+||drustren.com^
+||1qv.fun^
 ||bodhalqg.com^
 ||xedlxeuz.icu^
 ||twxftd.icu^
 ||k42.fun^
+||am0.fun^
+||strilqoill.com^
 ||v4p.fun^
 ||addalzq.com^
 ||6qo.fun^
@@ -17743,6 +17751,8 @@ _rony.js$script,third-party
 /\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]domsi[a-z].top\//$script,third-party
 .okpp1*.xyz/$script,third-party
+.fun/TA390hz2.js
+.fun/by389.js
 .xxaks*sspao.xyz/$script,third-party
 .as01*kkp.xyz/$script,third-party
 .012*sop.xyz/$script,third-party
