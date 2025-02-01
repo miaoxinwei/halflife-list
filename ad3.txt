@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: S6b9Zs11+OdsVPiusdIaew
+! Checksum: ebB03G9m98j6pVWaNZ9ZfQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502011423
-! Last Modified: 2025年02月01日 14:23
+! Version: 202502012030
+! Last Modified: 2025年02月01日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1880,6 +1880,7 @@ newduba.cn###jq_youxi
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
+||iedullkg.com^
 ||begoihuh.com^
 ||rmtxdn.icu^
 ||pw2.fun^
@@ -23467,6 +23468,7 @@ _WebVitalsReporter_
 .zalando.com/images/probe.png
 .zippingcare.com/beacon/$image
 /1x1_usermatch.gif?
+/?s=from_notification_service&u=$image
 /ap.lijit.com/*
 /atlas-trk.prd.msg.ss-inf.net/*$image
 /beacon.krxd.net/*
@@ -69725,7 +69727,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
-||hoyoverse.com/dora/biz/mihoyo-h5log/
+||hoyoverse.com/dora/biz/*-h5log/
 ||huaxiang.eastmoney.com^
 ||hujiang.com/v2/log
 ||i-cable.com/ci/tracking/
