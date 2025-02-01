@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X2L37KCQ4gBNoYPiBU3eww
+! Checksum: 70qb6Gm8iZ5fpaUYu1f5pw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502012030
-! Last Modified: 2025年02月01日 20:30
+! Version: 202502020221
+! Last Modified: 2025年02月02日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -46469,7 +46469,9 @@ browsershots.org#@#.advert_area
 ||05420795.xyz^
 ||05454674.xyz^
 ||05751c.site^
+||06969451.xyz^
 ||072551.xyz^
+||07327127.xyz^
 ||07421283.xyz^
 ||076f66b2.live^
 ||07e197.site^
@@ -46483,6 +46485,7 @@ browsershots.org#@#.advert_area
 ||10523745.xyz^
 ||10614305.xyz^
 ||10753990.xyz^
+||11006451.xyz^
 ||11152646.xyz^
 ||1116c5.xyz^
 ||11778562.xyz^
@@ -46529,6 +46532,7 @@ browsershots.org#@#.advert_area
 ||33848102.xyz^
 ||33862684.xyz^
 ||34475780.xyz^
+||35452888.xyz^
 ||36833185.xyz^
 ||37066957.xyz^
 ||38167473.xyz^
@@ -84642,6 +84646,7 @@ fqsousou.com,kengso.com#@#.user-share
 /sentry-browser.min.js
 /sentry-browser.tracing.es5.min.js
 /sentry-logger.js
+/sentry-tracing.min.js
 /sentry/bundle.min.js
 /seo.taCo.min.js
 /seo/pageStat/*
@@ -131906,6 +131911,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
+||hoyoverse.com/device-fp/
 ||hoyoverse.com/dora/biz/*-h5log/
 ||huaxiang.eastmoney.com^
 ||hujiang.com/v2/log

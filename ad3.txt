@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ebB03G9m98j6pVWaNZ9ZfQ
+! Checksum: YvXMumxBDf/wpn5TVCD06w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502012030
-! Last Modified: 2025年02月01日 20:30
+! Version: 202502020221
+! Last Modified: 2025年02月02日 02:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22463,6 +22463,7 @@ m.babytree.com##script + a[class]
 /sentry-browser.min.js
 /sentry-browser.tracing.es5.min.js
 /sentry-logger.js
+/sentry-tracing.min.js
 /sentry/bundle.min.js
 /seo.taCo.min.js
 /seo/pageStat/*
@@ -69727,6 +69728,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
+||hoyoverse.com/device-fp/
 ||hoyoverse.com/dora/biz/*-h5log/
 ||huaxiang.eastmoney.com^
 ||hujiang.com/v2/log
