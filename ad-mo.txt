@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CqRWuC2UX15fuTyKcbwn2A
+! Checksum: x0GE0FGh6VKwKjh9QExF6A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502021422
-! Last Modified: 2025年02月02日 14:22
+! Version: 202502022030
+! Last Modified: 2025年02月02日 20:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53765,6 +53765,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||cnx-software.com/wp-content/uploads/*/Rockchip-RK3588S-8K-SBC-with-WIFI-6.webp
 ||cnx-software.com/wp-content/uploads/*/UGOOS-2024-TV-box-remote-control.webp
 ||cnx-software.com/wp-content/uploads/*/Youyeetoo-RK3568-RK3588S-SBC-Intel-X1-SBC-December-2024.webp
+||coincarp.com/script/position_name.js
 ||coincheck.com/images/affiliates/
 ||coingolive.com/assets/img/partners/
 ||computeralliance.com.au/ws/PartsWS.asmx/GetAdvertisingLeft
@@ -66417,6 +66418,7 @@ newduba.cn###jq_youxi
 ||feronyv.com^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
+||gumnus.com^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
@@ -84547,6 +84549,7 @@ fqsousou.com,kengso.com#@#.user-share
 /referrer_tracking.js
 /reftracker.js
 /renderTimingPixel.
+/report_ga_events/*
 /report_visit.php
 /reportData/nm.gif?
 /reporting/metrics
@@ -94094,6 +94097,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.vivatube.com^
 ||cnt.xhamster.com^
 ||codecademy.com/analytics/
+||coincarp.com/cdn-cgi/trace
+||coincarp.com/script/events.js
 ||coincheckup.com/report_events/
 ||coincodex.com/cdn-cgi/trace
 ||cointelegraph.com/pixel?
@@ -131946,6 +131951,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||kn007.net/snmp.php
 ||l.web.huya.com^
 ||le.com/op/
+||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
