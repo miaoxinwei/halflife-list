@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aX8DQJG4E9htOoAYRyYOpQ
+! Checksum: WBLyFqayea1iOxHsWerXfQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502040919
-! Last Modified: 2025年02月04日 09:19
+! Version: 202502041425
+! Last Modified: 2025年02月04日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -491,7 +491,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /adocean.js$script
 /adpartner.min.js$script
 /adplayer.$script,domain=~adplayer.pro
-/adpopup.js$script
 /adrecover-new.js$script
 /adrecover.js$script
 /adright.$~xmlhttprequest,domain=~aaahaltontaxi.ca|~adright.com
@@ -772,6 +771,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 /jquery.openxtag.js$script
 /jquery.popunder.js$script
 /js/ad_common.js$script
+/js/adpopup.js$script
 /js/advRotator.js$script
 /js/dfp.js$script
 /jsAds-1.4.min.js$script
@@ -55133,6 +55133,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||stream-69.com/code/script/
 ||striptube.net/images/
 ||striptube.net/te9e85dc6853.js
+||sunporno.com/api/cams/get-spot-js-full-content/
 ||sunporno.com/api/spots/
 ||sunporno.com/blb.php
 ||sunporno.com/sunstatic/frms/
@@ -63284,6 +63285,7 @@ upornia.com,upornia.tube##.eveeecsvsecwvscceee
 eromanga-show.com,hentai-one.com,hentaipaw.com##.external
 lewdzone.com##.f8rpo
 escortnews.eu,topescort.com##.fBanners
+vjav.com##.fah-btn
 porngem.com##.featured-b
 sss.xxx##.fel-item
 tuberel.com##.fel-list
@@ -66478,6 +66480,7 @@ newduba.cn###jq_youxi
 ||tciqgx.xyz^
 ||crolerl.com^
 ||vxpnld.icu^
+||dzzdspiu.icu^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
 ||gumnus.com^
@@ -74063,8 +74066,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||synacast.com^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||sysin.org/img/promotion-
-||suidodo.com/public/*/plugins/
-||suidodo.com/public/1/assets/js/custom/tt.
+||szaction.cc/public/*/plugins/
+||szaction.cc/public/*/assets/js/custom/tt.
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szgpmy.com/js/
@@ -85852,7 +85855,7 @@ _WebVitalsReporter_
 /znsrc.com/c/*$image
 ://2ip.*/member_photo/$third-party
 ://cl.melonbooks.co.jp/c/$image
-://e.email.*/open?$image
+://e.*/open?$image
 ://email.*/e/o/
 ://email.*/o/$image
 ://links.paypal.*/eos/$image
@@ -133357,7 +133360,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! browser.sentry-cdn.com
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 !! ||assets.adobedtm.com/extensions/*/AppMeasurement.min.js
-@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=medscape.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
+@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|subwy.com|tatamotors.com|usanetwork.com
+!! ||assets.adobedtm.com/extensions/*/AppMeasurement* (general)
+||assets.adobedtm.com/extensions/*/AppMeasurement$script,domain=medscape.com
 !! adobedtm.com^*/satelliteLib-
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com
 !! adobedtm.com^*-libraryCode_source.min.js
