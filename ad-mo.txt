@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0OJoYZCPNZuyvVXy68F2OQ
+! Checksum: ODUhpF/oFyvnbyvPy0AmIw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502050920
-! Last Modified: 2025年02月05日 09:20
+! Version: 202502051424
+! Last Modified: 2025年02月05日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -53685,6 +53685,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||1337x.*/images/x28.jpg
 ||1337x.*/images/x2x8.jpg
 ||1337x.to/js/vpn.js
+||18adultgames.com/wp-content/litespeed/js/aa3f90c531904167b7dd98e25ff48b2b.js
 ||2024tv.ru/lib.js
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
@@ -55518,6 +55519,7 @@ prepostseo.com###after_button_ad_desktop
 plagiarismchecker.co###afterbox
 agar.io###agar-io_300x250
 1000logos.net###ai_widget-4
+klz9.com###aigirlfriendad
 alchetron.com###alchetronFreeStarVideoAdContainer
 myandroid.org###amazon-icon
 djchuang.com###amazon3
@@ -56075,6 +56077,7 @@ nitrome.com###left_skyscraper_shadow
 kitco.com###left_square
 liverpoolfc.com###lfc_ads_article_pos_one
 liverpoolfc.com###lfc_ads_home_pos_one
+jestful.net###list-imga > center
 closerweekly.com,intouchweekly.com,lifeandstylemag.com###listProductWidgetData
 slidesgo.com###list_ads1
 slidesgo.com###list_ads2
@@ -56554,7 +56557,6 @@ radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.co
 deccanherald.com###topbar > .hide-desktop + div
 armenpress.am###topbnnr
 coinlean.com###topcontainer
-adultgamesworld.com###topmenu > .tt
 worldtimebuddy.com###toprek
 privacywall.org###topse
 semiconductor-today.com###topsection
@@ -61085,6 +61087,7 @@ scribd.vpdfs.com##[href^="https://accounts.binance.com"]
 windows-noob.com##[href^="https://adaptiva.com/"]
 open.spotify.com##[href^="https://adclick.g.doubleclick.net/"]
 topfiveforex.com##[href^="https://affiliate.iqoption.com/"]
+getcomics.org##[href^="https://aichattings.com/"]
 brighteon.com##[href^="https://ams.brighteon.com/"]
 lilymanga.com,orschlurch.net,photorumors.com,shenisha.substack.com##[href^="https://amzn.to/"]
 fmovies24.to##[href^="https://anix.to/"]
@@ -61430,7 +61433,6 @@ linkedin.com##article[data-is-sponsored]
 xing.com##article[data-qa="disco-updates-video-ad"]
 xing.com##article[data-qa="disco-updates-website-ad"]
 greatist.com##aside
-adultgamesworld.com##aside .xoxo
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 vezod.com##av-adv-slot
@@ -61915,6 +61917,8 @@ windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="haw
 cars.com###branded-canvas-click-wrapper:has(> #native-ad-html)
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se###headerTopBar ~ div > div:has(div#RAD_D_station_top)
 gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
+klz9.com###list-imga center:has(> a[id^="adLink"])
+klz9.com###list-imga center:has(a[href^="https://olimposcans.com/"])
 aleteia.org###root > div[class]:has(> .adslot)
 scribd.com###sidebar > div:has(> div > [data-e2e^="dismissible-ad-header"])
 bbc.com###sticky-mpu:has(.dotcom-ad-inner)
@@ -63728,6 +63732,7 @@ babesmachine.com##.tradepic
 babesandstars.com##.traders
 gayporno.fm##.traffic
 proporn.com##.trailerspots
+adultgamesworld.com##.tt
 sexjav.tv##.twocolumns > aside
 sexhd.pics##.tx
 boysfood.com##.txt-a-onpage
@@ -66504,6 +66509,8 @@ newduba.cn###jq_youxi
 ||is02050qqp.xyz^
 ||is02041qqp.xyz^
 ||qhaccid.com^
+||tnlixn.icu^
+||u7y.pw^
 ||hdinmau.top^
 ||shaenphiks.com^
 ||feronyv.com^
@@ -82402,6 +82409,8 @@ _rony.js$script,third-party
 .okpp1*.xyz/$script,third-party
 .fun/TA390hz2.js
 .fun/by389.js
+.pw/TA390hz2.js
+.pw/by389.js
 .xxaks*sspao.xyz/$script,third-party
 .as0*kkp.xyz/$script,third-party
 .012*sop.xyz/$script,third-party
