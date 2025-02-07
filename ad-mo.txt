@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NgYckHbcQ0gx5xUD4XsNsg
+! Checksum: A60lriCDVTHNxdQV+uHJow
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502070226
-! Last Modified: 2025年02月07日 02:26
+! Version: 202502070921
+! Last Modified: 2025年02月07日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55726,7 +55726,6 @@ bleedingcool.com###bottom_medium_rectangle
 numista.com###bottom_pub_container
 numista.com###bottompub_container
 atomic-robo.com###bottomspace
-flashscore.com,livescore.in###box-over-content-a
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###box_2_300x600
 planetminecraft.com###box_300btf
 bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation.com,theleafsnation.com###box_3_300x600
@@ -57821,7 +57820,6 @@ kiz10.com##.box-topads-x2
 fctables.com##.box-width > .hidden-xs
 cubdomain.com##.box.mb-2.mh-300px.text-center
 wahm.com##.box2
-flashscore.co.za##.boxOverContent--a
 tribunnews.com##.box__reserved
 flipline.com##.box_grey
 flipline.com##.box_grey_bl
@@ -58231,7 +58229,6 @@ news18.com##.desktopadh
 coingape.com##.desktopds
 news18.com##.desktopflex
 ancient-origins.net##.desktops
-flashscore.co.za,flashscore.com,livescore.in,soccer24.com##.detailLeaderboard
 giphy.com##.device-desktop
 floridapolitics.com##.dfad
 avclub.com,gadgetsnow.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
@@ -59484,7 +59481,6 @@ officedepot.com##.od-search-piq-banner-ads__lower-leaderboard
 gizmodo.com##.od-wrapper
 livescores.biz##.odds-market
 worldsoccertalk.com##.odds-slider-widget
-flashscore.co.za##.oddsPlacement
 kijiji.ca##.ofGHb
 guelphmercury.com##.offcanvas-inner > .tncms-region
 softexia.com##.offer
@@ -61935,6 +61931,8 @@ douglas.*##.product-grid-column:has([data-testid="sponsored-button"])
 douglas.*##.swiper-slide:has(button[data-testid="sponsored-button"])
 douglas.*##[data-testid="product-overview-content-slot"]:has(.criteo-teaser-gold__sponsored)
 douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
+flashscore.*,livescore.*,soccer24.com###box-over-content-a
+flashscore.*,livescore.*,soccer24.com##.zone
 laredoute.*###hp-sponsored-banner
 lazada.*##.pdp-block__product-ads
 manomano.*##a[href^="/"][href*="?product_id="][title]:has(span > .svg_tamagoshi)
@@ -66561,6 +66559,9 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||xtdvvp.icu^
+||vbllxaaj.icu^
+||apk02070oo.xyz^
 ||fagrirtn.com^
 ||rqhajf.icu^
 ||trellq.com^
@@ -82480,6 +82481,7 @@ _rony.js$script,third-party
 .is0*qqp.xyz/$script,third-party
 .as0*kkp.xyz/$script,third-party
 .012*sop.xyz/$script,third-party
+.apk0*oo.xyz/$script,third-party
 .okpp0*.xyz/$script,third-party
 .com:1*/static/lbsite/*/*.js?v=$script,third-party
 .com:2*/static/lbsite/*/*.js?v=$script,third-party
@@ -133161,7 +133163,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|login.kroton.com.br
-@@||cloudflare.com/cdn-cgi/trace$domain=d1milano.com|infyspringboard.onwingspan.com|injora.com|kiichin.com|myair.resmed.com|twgtea.com
+@@||cloudflare.com/cdn-cgi/trace$domain=d1milano.com|gingerfulhair.com|infyspringboard.onwingspan.com|injora.com|kiichin.com|myair.resmed.com|twgtea.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
