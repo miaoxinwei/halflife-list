@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nmQ7/sKKSe92q3zXV1ppvg
+! Checksum: imuzHQGcyNK+gt/ChIrUxw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502081422
-! Last Modified: 2025年02月08日 14:22
+! Version: 202502082031
+! Last Modified: 2025年02月08日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1882,6 +1882,9 @@ newduba.cn###jq_youxi
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
+||ddc888.com^
+||draktash.com^
+||bildrat.com^
 ||xtdvvp.icu^
 ||vbllxaaj.icu^
 ||apk02070oo.xyz^
@@ -70882,7 +70885,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
-@@||fast.fonts.net/jsapi/core/mt.js$script,domain=bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov
+@@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
 @@||fdi.fiduciarydecisions.com/v/app/components/*/Analytics.js$script,~third-party
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
