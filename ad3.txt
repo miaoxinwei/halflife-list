@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gZbL+TVchIlSohnsI2kIBw
+! Checksum: DLD33ZPsASa4iEBNn0uZ3Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502090221
-! Last Modified: 2025年02月09日 02:21
+! Version: 202502090924
+! Last Modified: 2025年02月09日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1879,6 +1879,8 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||tmvirr.icu^
+||udinmat.top^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
@@ -22334,7 +22336,7 @@ m.babytree.com##script + a[class]
 /publisher:getClientId?key=
 /publishertag.js
 /publitas-stats.js
-/pubstats.$domain=~pubstats.dev
+/pubstats.$domain=~pub.dev|~pubstats.dev
 /pubtag.js
 /pulsario.js
 /push-analytics.js
