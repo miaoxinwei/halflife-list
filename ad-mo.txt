@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IEmXQIrITS1SqzdLtBb9Dw
+! Checksum: TPAJVovbl6q6i6xHhVyF/g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502090924
-! Last Modified: 2025年02月09日 09:24
+! Version: 202502091423
+! Last Modified: 2025年02月09日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -84582,6 +84582,7 @@ fqsousou.com,kengso.com#@#.user-share
 /outbrainAd.
 /outLoging.js
 /outLoging2.js
+/oval_web_analytics_latest.js
 /owa.Analytics.m.js
 /owa.tracker-combined-min.js
 /oxAnalytics.js
