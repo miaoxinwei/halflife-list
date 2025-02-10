@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9S/MtB1cMNef3/0SqGNY/A
+! Checksum: Tl07nCDJ3Rla9SlC6Hxq3w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502100221
-! Last Modified: 2025年02月10日 02:21
+! Version: 202502100922
+! Last Modified: 2025年02月10日 09:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -64657,6 +64657,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||slack.com^$generichide
 @@||sourcegraph.com^$generichide
 @@||stackblitz.com^$generichide
+@@||tailscale.com^$generichide
 @@||teams.live.com^$generichide
 @@||teams.microsoft.com^$generichide
 @@||testufo.com^$generichide
@@ -66692,6 +66693,8 @@ newduba.cn###jq_youxi
 ||ldinmal.top^
 ||brornaeq.com^
 ##a[href*="/dk35.cc"]
+||strakuty.com^
+||zcrddj.icu^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
