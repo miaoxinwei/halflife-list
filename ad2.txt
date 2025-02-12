@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: no+uV5hRmmQgDJQcUGw+1Q
+! Checksum: lL9m2CqMvMQrTbztNQCnNw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202502121425
-! Last Modified: 2025年02月12日 14:25
+! Version: 202502122035
+! Last Modified: 2025年02月12日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -88,16 +88,16 @@ sobot.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 ||video.da.mgtv.com/$media
 ||da.mgtv.com/mediafiles/wiad_creative/$image
-!ad-survey.com
+ad-survey.com
 miaozhen.com
 @@||js.tv.itc.cn/gg.seed.js
 reke.at.sohu.com
-||aty.sohu.com/
-||go.sohu.com/
+aty.sohu.com
+go.sohu.com
 ||tv.sohu.com/upload/csad/admaster/$image
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 17173.com###vjs-ad-on-pause
-||log1.17173.com/
+log1.17173.com
 ||17173.com/batch_show?ads=
 ||17173.com/if/$script,subdocument
 le.com##+js(set, isAdLoaded, true)
@@ -1879,6 +1879,7 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||strelgrell.com^
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
