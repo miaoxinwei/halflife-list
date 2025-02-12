@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ATrkvPkHe3wJpsCHqbrb9A
+! Checksum: 9JsV93g6fLdagM7wDOFtaQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502120223
-! Last Modified: 2025年02月12日 02:23
+! Version: 202502120921
+! Last Modified: 2025年02月12日 09:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -31098,6 +31098,7 @@ browsershots.org#@#.advert_area
 ||masculineillness.com^
 ||masklink.org^
 ||masonopen.com^
+||masonrycruor.shop^
 ||masqueradeentrustveneering.com^
 ||masqueradethousand.com^
 ||massacreintentionalmemorize.com^
@@ -48878,6 +48879,7 @@ browsershots.org#@#.advert_area
 ||maquiags.com^$popup
 ||marti-cqh.com^$popup
 ||masklink.org^$popup
+||masonrycruor.shop^$popup
 ||massacreintentionalmemorize.com^$popup
 ||matchjunkie.com^$popup
 ||matildawu.online^$popup
@@ -62255,6 +62257,7 @@ booking.com##.sr-motivate-messages
 yahoo.com###Horizon-ad
 yahoo.com###Lead-0-Ad-Proxy
 yahoo.com###adsStream
+mail.yahoo.com###commerce_card_group_container:has([data-test-id*="affiliate"])
 yahoo.com###defaultLREC
 finance.yahoo.com###mrt-node-Lead-0-Ad
 sports.yahoo.com###mrt-node-Lead-1-Ad
@@ -66306,6 +66309,9 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||traukvan.com^
+||20wx.com^
+||vitqzd.icu^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^
@@ -80018,7 +80024,6 @@ yyets.click#?#.MuiBadge-root:-abp-has(>a[href*="/maomao.cloud/"])
 zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
 ||mydrivers.com/img/2005/202112011849.png
 !---------------------------------CSS Whitelist-------------------------------!
-on.cc#@##CONTENTAD
 the-sun.on.cc#@##ContentAd1
 hubei.gov.cn#@##ad-side
 hkcards.com#@##ad-slot
@@ -131661,6 +131666,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tracking.zaertlicheladies.de^
 ||tracking.zierlicheladies.de^
 ||tracksrv.zdf.de^
+||tutti.ch/api/v10/clientmetrics/report-metric
 ||ui-portal.de/pos-cdn/tracklib/
 ||united.web.de/confirm?
 ||united.web.de/event?
