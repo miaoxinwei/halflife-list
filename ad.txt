@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IbfqSKt/h+H5QdXHo35CDQ
+! Checksum: 8UXACwkSh2vw481zRAN3Cg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202502132035
-! Last Modified: 2025年02月13日 20:35
+! Version: 202502140225
+! Last Modified: 2025年02月14日 02:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -470,6 +470,7 @@ iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
 iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
 t7z.cupid.iqiyi.com
 ||static.iqiyi.com/js/common/mars_v.js^$script
 ||video.iqiyi.com/ws$websocket
@@ -2327,6 +2328,8 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 ||saddarue.com^
+||scinmab.top^
+||stroveiks.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
