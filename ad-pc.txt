@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kGnzaCmpVVjfTbhJY6itQg
+! Checksum: LqrnehzZjRSzEmffZ+uyiQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202502130921
-! Last Modified: 2025年02月13日 09:21
+! Version: 202502131424
+! Last Modified: 2025年02月13日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -58492,7 +58492,7 @@ cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 ghacks.net##.ghacks-ad
 ghacks.net##.ghacks_ad_code
 mql5.com##.giyamx4tr
-stcatharinesstandard.ca,thestar.com##.globalHeaderBillboard
+niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.globalHeaderBillboard
 goodmenproject.com##.gmp-instream-wrap
 militaryleak.com##.gmr-floatbanner
 givemesport.com##.gms-ad
@@ -60611,6 +60611,7 @@ wbal.com##.wbal-banner
 technclub.com##.wbyqkx-container
 wccftech.com##.wccf_video_tag
 searchencrypt.com##.web-result.unloaded.sr
+swisscows.com##.web-results > .a8r-web-page
 northernvirginiamag.com##.website-header__ad--leaderboard
 probuilds.net##.welcome-bnr
 taskcoach.org##.well
@@ -62331,6 +62332,7 @@ indy100.com##.addressed_cls
 androidheadlines.com,gcaptain.com,mp1st.com,thedebrief.org,unofficialnetworks.com##.adthrive
 muscleandfitness.com##.ami-video-placeholder
 telegraph.co.uk##.article-betting-unit-container
+niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.article-pe-video-wrapper
 financemagnates.com##.article-sidebar__video-banner
 ibtimes.com,latintimes.com,sciencetimes.com##.article-videoplayer
 people.com##.article__broad-video
@@ -66490,6 +66492,10 @@ newduba.cn###jq_youxi
 ||uhi02130uik.xyz^
 ||uhi02121uik.xyz^
 ||bypllv.icu^
+||bhelzun.com^
+||fafvvt.icu^
+||gukviels.com^
+||kcinmad.top^
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
@@ -82365,6 +82371,7 @@ _rony.js$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
 ||aoao1*iis.top/$script,third-party
 ||gmso1*oka.top/$script,third-party
+/\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
