@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gXo8+TyhtpI0pfUI4ELCiQ
+! Checksum: 0WJIaMH3S8wezDgO2fp7/Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502141424
-! Last Modified: 2025年02月14日 14:24
+! Version: 202502142034
+! Last Modified: 2025年02月14日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -54839,6 +54839,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||marine.xhamster3.com^
 ||mature-chicks.com/floral-truth-c224/
 ||matureworld.ws/images/banners/
+||mediax.dscgirls.live/p/live/vast$xmlhttprequest,domain=indiansexstories2.net
 ||megatube.xxx/atrm/
 ||milffox.com/ai/
 ||milfnut.net/assets/jquery/$script
@@ -58740,6 +58741,7 @@ kijiji.ca##.jOwRwk
 ticketmaster.com##.jTNWic
 ticketmaster.com##.jUIMbR
 jambase.com##.jb-homev3-sense-sidebar-wrap
+techstory.in##.jeg_blocklink
 psypost.org##.jeg_midbar
 sabcnews.com##.jeg_topbar
 distractify.com##.jhPEsL
@@ -66386,6 +66388,9 @@ newduba.cn###jq_youxi
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
+||qhunetsq.com^
+||wbe4.cn^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
@@ -86396,6 +86401,7 @@ omni.soundestlink.com$image
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
+||applicationinsights.io^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -92705,7 +92711,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||secure.trust-guard.com^$third-party
 ||securitymetrics.com^$third-party
 ||shield.sitelock.com^$third-party
-||shopperapproved.com^$third-party
 ||siteintercept.allegiancetech.com^
 ||smart-widget-assets.ekomiapps.de^$third-party
 ||trust-provider.com^*/trustlogo.js$third-party

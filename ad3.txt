@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7UO+JNGh3qzZXQGJ6Uqu+Q
+! Checksum: +5+Zjm4zfJNfblvdzSZgug
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502141424
-! Last Modified: 2025年02月14日 14:24
+! Version: 202502142034
+! Last Modified: 2025年02月14日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1886,6 +1886,9 @@ newduba.cn###jq_youxi
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
+||qhunetsq.com^
+||wbe4.cn^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
@@ -24237,6 +24240,7 @@ omni.soundestlink.com$image
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
 ||appdynamics.com^$third-party
+||applicationinsights.io^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -30546,7 +30550,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||secure.trust-guard.com^$third-party
 ||securitymetrics.com^$third-party
 ||shield.sitelock.com^$third-party
-||shopperapproved.com^$third-party
 ||siteintercept.allegiancetech.com^
 ||smart-widget-assets.ekomiapps.de^$third-party
 ||trust-provider.com^*/trustlogo.js$third-party
