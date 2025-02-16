@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nm3bqKCmNUKg2f5mYrYmWw
+! Checksum: evccIslSsCfCO4x26S+URw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502160934
-! Last Modified: 2025年02月16日 09:34
+! Version: 202502162034
+! Last Modified: 2025年02月16日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -69,6 +69,7 @@ bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
 ||api.bilibili.com/x/web-show/res/locs?$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
 ||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
+||hdslb.com/bfs/seed/jinkela/short/user-fingerprint/$script
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 ||aixifan.com/static/*/appGuide/
 cctv.com###bgAd_div
@@ -1884,6 +1885,7 @@ newduba.cn###jq_youxi
 ||grarnuns.com^
 ||hwtadf.icu^
 ||8xly.cn^
+||crektels.com^
 ||sholxorw.com^
 ||xehyjx.icu^
 ||jgxirv.icu^
@@ -31864,6 +31866,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||booking.com/navigation_times
 ||booking.com/sendlayoutevents
 ||boomerang.dell.com^
+||box.com/data/ptm.gif/
 ||box.com/index.php?rm=box_gen204_batch_record
 ||brightside.me/metric-collector
 ||browse-privately.net/event/
@@ -71401,6 +71404,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||moneypartners.co.jp/web/*/fingerprint.js$~third-party
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
+@@||onesignal.com/api/v1/sync/$domain=oshibuta.com
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||rt.rtoaster.jp^$image,domain=ec-store.net
