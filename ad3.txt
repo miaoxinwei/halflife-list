@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2TidBWxnk6dnY1LhMS9hug
+! Checksum: AaE/5Sr764sJtT5o8kuxag
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202502210225
-! Last Modified: 2025年02月21日 02:25
+! Version: 202502210922
+! Last Modified: 2025年02月21日 09:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -165,6 +165,7 @@ z4a.net
 .xyz/z/*/code.js$script,third-party
 -*-*-*-*.as^$script,third-party
 .xyz:*?x=$script,third-party
+.xyz:*?c=$script,third-party
 -*-*-*-*.panda^$script,third-party
 .tv/gg/
 /webAdvert.php?ad_name=
@@ -1881,6 +1882,13 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||fttxhcua.icu^
+||crazodsxx.com^
+||kcinvdd.top^
+||xxsmad6.com^
+||bjtlzv.icu^
+||nljyjt.icu^
+||fngmeat.top^
 ||stildell.com^
 ||dtntnl.icu^
 ||hvddxj.icu^
@@ -9812,6 +9820,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||52xkdy.com/pmc/
 ||dfcfw.com/download/D25411840164398846730_w690h389.
 ||178.com/misc/self/*_ads
+||xlmp4.cc/js/wcount.js
 !------------------------Specific element hiding rules------------------------!
 178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
 eastmoney.com##div[style^="position: fixed; z-index:"]
