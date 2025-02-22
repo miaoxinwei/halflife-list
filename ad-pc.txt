@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lXJc4IZ4a8EHXtjnXj/h2g
+! Checksum: HInfci8E0wWkkxqKcN0lSw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202502221424
-! Last Modified: 2025年02月22日 14:24
+! Version: 202502222031
+! Last Modified: 2025年02月22日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1304,6 +1304,7 @@ _reklama_$domain=~youtube.com
 .prebid.$domain=~prebid.org
 /ad/postbid_handler1.$script
 /ads_prebid_async.js$script
+/dist/adsPrebid.js$script
 /gpt-prebid.js$script
 /pbjsandwichdirecta9-$script
 /plugins/prebidjs/*$script
@@ -58277,6 +58278,7 @@ nationalheraldindia.com##.styles-m__dfp__3T0-C
 streamingsites.com##.styles_adverticementBlock__FINvH
 streamingsites.com##.styles_backdrop__8uFQ4
 egamersworld.com##.styles_bb__hb10X
+politico.com##.styles_container__zuzL0
 producthunt.com##.styles_item__hNPI1
 egamersworld.com##.styles_sidebar__m6yLy
 troypoint.com##.su-box
@@ -64552,6 +64554,8 @@ newduba.cn###jq_youxi
 ||8y3j.cn^
 ||wcinvde.top^
 ||dbigboq.top^
+||heemphaers.com^
+||hlzncxmu.icu^
 ||fttxhcua.icu^
 ||crazodsxx.com^
 ||kcinvdd.top^
