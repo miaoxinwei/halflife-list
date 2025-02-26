@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Jz9JjaVea1NiFyazxEu+A
+! Checksum: +34rbPotMXq8iO/nNcGwnQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202502260923
-! Last Modified: 2025年02月26日 09:23
+! Version: 202502261426
+! Last Modified: 2025年02月26日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -44407,6 +44407,7 @@ browsershots.org#@#.advert_area
 ||nster.net^$third-party
 ||ntent.com^$third-party
 ||numbers.md^$third-party
+||o.socoms.net^$third-party
 ||objects.tremormedia.com^$~object,third-party
 ||oboxads.com^$third-party
 ||oceanwebcraft.com^$third-party
@@ -51765,6 +51766,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||2merkato.com/images/banners/
 ||2oceansvibe.com/?custom=takeover
 ||4f.to/spns/
+||5j386s9.sbs/js/dnsads.js
 ||a.1film.to^
 ||abcnews.com/assets/js/adCallOverride.js
 ||aboutmyarea.co.uk/images/imgstore/
@@ -52585,7 +52587,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||playwire.com/bolt/js/$script,third-party
 ||poptok.com^$third-party
 ||rumble.com^$domain=tiphero.com
-||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr
+||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~gamekult.com|~jeanmarcmorandini.com|~lesnumeriques.com|~marmiton.org|~melty.fr|~nextplz.fr|~the-race.com
 ||sportrecs.com/redirect/embed/
 ||ultimedia.com/js/common/smart.js$script,third-party
 ||vidazoo.com/basev/$script,third-party
@@ -59603,6 +59605,7 @@ liverpoolway.co.uk##div[align="center"] > a[href]
 informer.com##div[align="center"][style="margin:10px"]
 yandex.com##div[aria-label="Ad"]
 lifehacker.com##div[aria-label="Products List"]
+imginn.com##div[class$="-money"]
 azuremagazine.com##div[class$="azoa"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
@@ -61499,6 +61502,7 @@ risextube.com##.floating
 hentaiworld.tv##.floating-banner
 xgroovy.com##.fluid-b
 yourlust.com##.fluid_html_on_pause
+some.porn##.fluid_html_on_pause_container
 xgroovy.com##.fluid_next_video_left
 xgroovy.com##.fluid_next_video_right
 stileproject.com##.fluid_nonLinear_bottom
@@ -62966,6 +62970,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@/api/models?$domain=tik.porn
 @@/api/v2/models-online?$domain=tik.porn
+@@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||exosrv.com/video-slider.js$domain=xfreehd.com
 @@||gaynetwork.co.uk/Images/ads/bg/$image,~third-party
@@ -64702,6 +64707,7 @@ newduba.cn###jq_youxi
 ||zlzgfj.icu^
 ||lnptph.icu^
 ||pisb.cn^
+||dyyygyg.top^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
@@ -64710,6 +64716,7 @@ newduba.cn###jq_youxi
 ||znlvhnej.icu^
 ||okwjmii.top^
 ||onjncgq.top^
+||o02260aokk.com^
 ||o02251aokk.com^
 ||pheidheat.com^
 ||thampheth.com^
@@ -80353,6 +80360,7 @@ _rony.js$script,third-party
 .fun/by389.js
 .pw/TA390hz2.js
 .pw/by389.js
+.o0*aokk.com/iis.$script,third-party
 .uhi*uik.xyz/$script,third-party
 .xxaks*sspao.xyz/$script,third-party
 .is0*qqp.xyz/$script,third-party
