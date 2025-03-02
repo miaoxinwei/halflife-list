@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7KA3BifQswztVw95BccU4A
+! Checksum: /0KZ827FIw3sJqtIVL85Jg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503022032
-! Last Modified: 2025年03月02日 20:32
+! Version: 202503030223
+! Last Modified: 2025年03月03日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1570,6 +1570,7 @@ _800x80_
 /api/users?token=$popup
 /click?adv=$popup
 /gtm.js?$popup
+/jump/next.php?$popup
 /links/popad$popup
 /out?zoneId=$popup
 /pop-imp/*$popup
@@ -16646,6 +16647,7 @@ browsershots.org#@#.advert_area
 ||9bbbabcb26.com^
 ||9bf9309f6f.com^
 ||9cbj41a5.de^
+||9cd4abb9e0.com^
 ||9cd76b4462bb.com^
 ||9d2cca15e4.com^
 ||9d603009eb.com^
@@ -22205,6 +22207,7 @@ browsershots.org#@#.advert_area
 ||cwuaxtqahvk.com^
 ||cxeiymnwjyyi.xyz^
 ||cxornpyay.com^
+||cxuapz.xyz^
 ||cyamidfenbank.life^
 ||cyan92010.com^
 ||cyathosaloesol.top^
@@ -23547,6 +23550,7 @@ browsershots.org#@#.advert_area
 ||dywuhp-unbnf.love^
 ||dyywcxfftue.com^
 ||dz4ad.com^
+||dzdmvnegsov.com^
 ||dzhjmp.com^
 ||dzienkudrow.com^
 ||dzigzdbqkc.com^
@@ -26746,6 +26750,7 @@ browsershots.org#@#.advert_area
 ||hardabbuy.live^
 ||hardcoretrayversion.com^
 ||harderjuniormisty.com^
+||hardnessanything.com^
 ||hardnesscorkimmature.com^
 ||hardynylon.com^
 ||hareeditoriallinked.com^
@@ -32637,6 +32642,7 @@ browsershots.org#@#.advert_area
 ||onlyyourbiglove.com^
 ||onmanectrictor.com^
 ||onmantineer.com^
+||onmoxskatoxx.com^
 ||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onraltstor.com^
@@ -37409,6 +37415,7 @@ browsershots.org#@#.advert_area
 ||sickbedjibboom.com^
 ||sicklybates.com^
 ||sicklypercussivecoordinate.com^
+||sicksarrish.top^
 ||sicouthautso.net^
 ||sidanarchy.net^
 ||sidderbows.com^
@@ -40203,6 +40210,7 @@ browsershots.org#@#.advert_area
 ||tzaho.com^
 ||tzaqkp.com^
 ||tzegilo.com^
+||tzhrmcnidxqwrb.com^
 ||tzvpn.site^
 ||tzzvvohntnlvan.com^
 ||u-oxmzhuo.tech^
@@ -40905,6 +40913,7 @@ browsershots.org#@#.advert_area
 ||vegetationartcocoa.com^
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
+||veideasandcome.org^
 ||veilsuccessfully.com^
 ||veincartrigeforceful.com^
 ||veinourdreams.com^
@@ -44053,6 +44062,7 @@ browsershots.org#@#.advert_area
 ||adrocket.com^$third-party
 ||adroll.com^$third-party
 ||adrsp.net^$third-party
+||ads-bitcoin.com^$third-party
 ||ads-pixiv.net^$third-party
 ||ads.cc^$third-party
 ||ads01.com^$third-party
@@ -45176,6 +45186,7 @@ browsershots.org#@#.advert_area
 ||48a16802.site^
 ||49333767.xyz^
 ||49706204.xyz^
+||49709796.xyz^
 ||49766251.xyz^
 ||4afa45f1.xyz^
 ||53469662.xyz^
@@ -45197,6 +45208,7 @@ browsershots.org#@#.advert_area
 ||65894140.xyz^
 ||70b927c8.live^
 ||72075223.xyz^
+||72123581.xyz^
 ||72356275.xyz^
 ||72560514.xyz^
 ||72716408.xyz^
@@ -55434,7 +55446,7 @@ ip-address.org##.ad-5-300
 geotastic.net##.ad-970x250
 birdwatchingdaily.com##.ad-advertisement-vertical
 buzzfeed.com##.ad-awareness
-britannica.com,courthousenews.com,diabetesjournals.org,imgmak.com,infobel.com,kuioo.com,linkedin.com,pilot007.org,radiotimes.com,soundguys.com,topperlearning.com##.ad-banner
+britannica.com,courthousenews.com,diabetesjournals.org,imgmak.com,infobel.com,kuioo.com,linkedin.com,mangagun.net,nicomanga.com,pilot007.org,radiotimes.com,rawinu.com,soundguys.com,topperlearning.com,weloma.art,welovemanga.one##.ad-banner
 radiopaedia.org##.ad-banner-desktop-row
 home-designing.com,inc.com,trustpilot.com##.ad-block
 fangoria.com##.ad-block--300x250
@@ -57139,6 +57151,7 @@ techradar.com##.hawk-main-editorialized
 tomsguide.com##.hawk-master-widget-hawk-main-wrapper
 windowscentral.com##.hawk-master-widget-hawk-wrapper
 techradar.com##.hawk-merchant-link-widget-container
+techradar.com##.hawk-nest
 linuxblog.io##.hayden-inpost_bottom
 linuxblog.io##.hayden-inpost_end
 linuxblog.io##.hayden-inpost_top
@@ -62025,6 +62038,7 @@ eurogirlsescort.com##.js-stt-click > picture
 freeones.com##.js-track-event
 ts-tube.net##.js-uvb-spot
 porndig.com##.js_footer_partner_container_wrapper
+pornhub.com##.js_promoItem
 hnntube.com##.jumbotron
 senzuri.tube##.jw-reset.jw-atitle
 xxxymovies.com##.kt_imgrc
@@ -65136,6 +65150,7 @@ newduba.cn###jq_youxi
 ||wumd.cn^
 ||gmwqpgq.top^
 ||aillaeuyn.com^
+||pjwk.cn^
 ||eelkeageg.com^
 ||kczq.cn^
 ||zcnmjb.icu^
@@ -73154,6 +73169,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kmeiju.cc/kangeqiu.
 ||dzbhdm.com/wp-content/uploads/2021/10/c278390aead8a2f7caea15eb42b36314.
 ||i8tq.com/adImg/
+||csgola.com/Public/img/lala/1.jpg
 !------------------------Specific element hiding rules------------------------!
 weather.com.cn##.guanggao
 178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
@@ -89060,6 +89076,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contactatonce.com/VisitorContext.aspx?
 ||container.pepperjam.com^$third-party
 ||content.cpcache.com^*/js/ga.js
+||content.kaspersky-labs.com/public/analytics-scripts/analytical_functions.js
 ||contentdriver.com/api/impression
 ||contently.com/xdomain/
 ||contentpass.net/stats?$third-party
