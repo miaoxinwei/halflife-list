@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z0T49NXdgEW+pUagDXBqlg
+! Checksum: d5juKqwIOg24ffG4NSlPnQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503051426
-! Last Modified: 2025年03月05日 14:26
+! Version: 202503052036
+! Last Modified: 2025年03月05日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -27375,6 +27375,7 @@ browsershots.org#@#.advert_area
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjbylofyso.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrtennaarn.com^
@@ -28793,6 +28794,7 @@ browsershots.org#@#.advert_area
 ||justrelevant.com^
 ||justservingfiles.net^
 ||jutyledu.pro^
+||juvjimicwbauuw.com^
 ||juzaugleed.com^
 ||juztjtsxbojdj.com^
 ||jvcjnmd.com^
@@ -32823,6 +32825,7 @@ browsershots.org#@#.advert_area
 ||optyruntchan.com^
 ||optzsrv.com^
 ||opvanillishan.com^
+||opzvalfafh.com^
 ||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqejupqb.xyz^
@@ -36258,6 +36261,7 @@ browsershots.org#@#.advert_area
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkksbrkwdqbop.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -37633,6 +37637,7 @@ browsershots.org#@#.advert_area
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skewserer.com^
+||skgpzivadwdte.buzz^
 ||skhmjezzj.com^
 ||skibbybester.top^
 ||skidgleambrand.com^
@@ -39123,6 +39128,7 @@ browsershots.org#@#.advert_area
 ||tediousgorgefirst.com^
 ||tedtaxi.com^
 ||tedtug.com^
+||teedastoowu.net^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
@@ -41133,6 +41139,7 @@ browsershots.org#@#.advert_area
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
+||vihbuposxci.com^
 ||vihub.ru^
 ||viibest.com^
 ||viibmmqc.com^
@@ -62840,6 +62847,21 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(data:)
 redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com#?#:-abp-properties(image/)
 otomi-games.com##.clean-grid-grid-post:has(> [id^="otomi-"] + .clean-grid-grid-post-details-full) {remove:true;}
+classic.gamcore.com###center > .flashes > .wide:has(> a[href][rel])
+69games.xxx###footer
+gamcore.com###preloader_2
+69games.xxx###right
+69games.xxx,gamcore.com###tvnotice
+gamcore.com##.add_game.d-none
+gamcore.com##.item:has(> [href^="/games/fuckyou/"])
+gamcore.com##.row > .d-md-block
+69games.xxx##[class^="leaderboard"]
+gamcore.com##[href*="/ads/"]
+69games.xxx##[id*="tvadbody"]
+classic.gamcore.com##[id]:has(> .warningbox)
+69games.xxx##[id^="center"] .I:has(> [class=""][href])
+69games.xxx,porcore.com##body > [id][style^="position: fixed; top: 0px;"]
+gamcore.com##li.d-md-block > a[rel]
 !-----------------------Allowlists to fix broken sites------------------------!
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|zdnet.com
 @@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
@@ -65261,6 +65283,7 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||hbxmdf.icu^
 ||ojmv.cn^
+||rvgtaai.top^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
@@ -78588,7 +78611,6 @@ zdface.com#@#.top-ad
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 tangdoucdn.com#@#.video-ad
 i-cable.com#@#.video_ad
-bilinovel.com#@#.ads_box
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 brandsales.58.com#@#div[id^="ad_"]
@@ -78596,7 +78618,6 @@ brandsales.58.com#@#div[id^="ad_"]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
-@@||bilinovel.com^$generichide
 @@||linetv.tw^$generichide
 @@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||am730.com.hk^$generichide
@@ -79139,7 +79160,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||blog.6ziz.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -132553,6 +132574,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fc.3dmgame.com^
 ||caiyunapp.com/lingoCloud/banner/home-bottom-banner.
 ||linovelib.com/modules/article/scripts/tip_
+||bilinovel.com/scripts/m7lk48m5hgztxn.
 !------------------------Specific element hiding rules------------------------!
 flowus.cn##footer .swiper
 bilibili.com#?#.is-rcmd:-abp-has(>div:not(div:-abp-has(div)))
@@ -133646,6 +133668,7 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
+||aizhantj.com^
 ||lzp.plus^
 ||wujiupic.com^
 ||video.qq.com/checktime?
