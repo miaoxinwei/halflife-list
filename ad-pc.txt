@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y8FYwM5KIJS7YpIL4WHeXw
+! Checksum: v3bZ7zOGl+clwbiCxCBcww
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503050924
-! Last Modified: 2025年03月05日 09:24
+! Version: 202503051426
+! Last Modified: 2025年03月05日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -25506,6 +25506,7 @@ browsershots.org#@#.advert_area
 ||friendshipposterity.com^
 ||friendsoulscombination.com^
 ||frighten3452.fun^
+||frillyearth.com^
 ||fringecompetenceranger.com^
 ||fringeforkgrade.com^
 ||fringesdurocs.com^
@@ -59600,7 +59601,7 @@ gamezop.com##[class*="_ad_container"]
 cointelegraph.com,doodle.com##[class*="ad-slot"]
 bmwblog.com##[class*="bmwbl-300x250"]
 bmwblog.com##[class*="bmwbl-300x600"]
-bitcoinist.com,captainaltcoin.com,cryptonews.com,cryptonewsz.com,cryptopotato.com,insidebitcoins.com,news.bitcoin.com,newsbtc.com,philnews.ph,watcher.guru##[class*="clickout-"]
+bitcoinist.com,captainaltcoin.com,coinpaprika.com,cryptonews.com,cryptonewsz.com,cryptopotato.com,insidebitcoins.com,news.bitcoin.com,newsbtc.com,philnews.ph,watcher.guru##[class*="clickout-"]
 manabadi.co.in##[class*="dsc-banner"]
 startribune.com##[class*="htlad-"]
 fullmatch.info##[class*="wp-image"]
@@ -67849,7 +67850,6 @@ newduba.cn###jq_youxi
 ||ipsoazr.icu^
 ||iptuy.cn^
 ||irtliso.top^
-||is686.com^$third-party
 ||ismuwcm.icu^
 ||isylieo.top^
 ||iteyi.xyz^
