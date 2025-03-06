@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: P3bvFY4EKhJdAkkD0RbMTg
+! Checksum: KKbWhEv8Gv5nHryv5ZuPug
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503060226
-! Last Modified: 2025年03月06日 02:26
+! Version: 202503060925
+! Last Modified: 2025年03月06日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -61560,6 +61560,7 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-ad-card"]
 checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
+property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
 shopee.sg#?#div[class="N_YeYe"]:has(> .shopee_ic:-abp-contains(Ad))
 shopee.sg#?#div[class="oMSmr0"]:has(> .shopee_ic:-abp-contains(Ad))
 perplexity.ai#?#.py-sm.group:-abp-contains(Sponsored)
@@ -62667,7 +62668,7 @@ bustyporn.com##.widget-friends
 rpclip.com##.widget-item-wrap
 interviews.adultdvdtalk.com##.widget_adt_performer_buy_links_widget
 hentaiprn.com,whipp3d.com##.widget_block
-arcjav.com,hotcelebshome.com,jav.guru,javcrave.com,pussycatxx.com##.widget_custom_html
+arcjav.com,freeadultcomix.com,hotcelebshome.com,jav.guru,javcrave.com,pussycatxx.com##.widget_custom_html
 gifsauce.com##.widget_live
 hentaiblue.com,pornifyme.com##.widget_text
 xhamster.com##.wio-p
@@ -63302,6 +63303,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@://localhost:$generichide
 @@||accounts.google.com^$generichide
 @@||ads.microsoft.com^$generichide
+@@||adsmanager.facebook.com^$generichide
 @@||apple.com^$generichide
 @@||atlassian.net^$generichide
 @@||bitbucket.org^$generichide
@@ -65417,6 +65419,9 @@ newduba.cn###jq_youxi
 ||rvgtaai.top^
 ||vwvj.cn^
 ||fpfhtr.icu^
+||frthpp.icu^
+||ixtu.cn^
+||gjinuqg.top^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
@@ -131636,6 +131641,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||m1tm.insideevs.com/gtm.js$~third-party
 @@||magento-recs-sdk.adobe.net/v2/index.js$script,domain=superbrightleds.com
+@@||main.govpilot.com/jet/js/newrelic.js$~third-party
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maps.arcgis.com/apps/*/AppMeasurement.js$~third-party
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
