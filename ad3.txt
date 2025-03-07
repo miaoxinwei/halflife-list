@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LwzGwC0U81D8Xz5E3NAAEw
+! Checksum: W6Dc82GSrGLaub/rvk+OOg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202503071426
-! Last Modified: 2025年03月07日 14:26
+! Version: 202503072035
+! Last Modified: 2025年03月07日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -11,13 +11,11 @@
 !
 ! 乘风 视频广告过滤规则
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
-atm.youku.com
 cad.youku.com
 @@||log.mmstat.com/eg.js^$script
-||cibntv.net/youku/$media
-||valipl.cp31.ott.cibntv.net/$media
 ||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
-||alicdn.com/awsc/et/
+||alicdn.com/awsc/et/$script
+||g.alicdn.com/htmlVodP2P/$script
 iqiyi.com##a[href^="https://ads."]
 iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
 iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
@@ -1884,6 +1882,7 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||thustilpn.com^
 ||hbxmdf.icu^
 ||dupzbh.icu^
 ||jixurt.icu^
@@ -9636,6 +9635,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||csgola.com/Public/img/lala/1.jpg
 ||adasset.flixfiend.top^
 !------------------------Specific element hiding rules------------------------!
+mydrivers.com##.baidu_left
 weather.com.cn##.guanggao
 178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
 eastmoney.com##div[style^="position: fixed; z-index:"]
