@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2ofugg3Bad/sqJQSOxniEA
+! Checksum: 30XJnRfqAOwScZVWCRQJ9Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202503102038
-! Last Modified: 2025年03月10日 20:38
+! Version: 202503110224
+! Last Modified: 2025年03月11日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23106,6 +23106,7 @@ _WebVitalsReporter_
 /MailIsRead?$image
 /maillist.*/t/*$image
 /maling.roidusat.com/t/*$image
+/marketing.wrightentgroup.com/t/*$image
 /media.sailthru.com/5ik/1k4/9/*.gif
 /newsletter/log/*$image
 /newsletter/read?s=$image
@@ -31849,7 +31850,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||google.com/async/ddllog
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
-||google.com/log?
+||google.com/log^$domain=~meet.google.com
 ||google.com/pagead/1p-conversion/
 ||grabify.link/api/js
 ||grgnsht.nzxt.com^
@@ -32275,7 +32276,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plausible.omgapi.org^
 ||plausible.safing.io^
 ||plausible.tubemagic.com^
-||play.google.com/log
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
 ||playvideohd.com/cdn-cgi/trace
