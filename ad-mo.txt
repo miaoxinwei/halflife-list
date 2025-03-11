@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BcLPMbRF+413DyMkmEigGA
+! Checksum: sErRYYdRIhHPLGcnKWR+zg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503112037
-! Last Modified: 2025年03月11日 20:37
+! Version: 202503120226
+! Last Modified: 2025年03月12日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20355,6 +20355,7 @@ browsershots.org#@#.advert_area
 ||c26817682b.com^
 ||c26b742fa3.com^
 ||c2dbb597b0.com^
+||c2ec494150.8681b70da0.com^
 ||c3759f7e8a.com^
 ||c3j7rk-rtbix.top^
 ||c43a3cd8f99413891.com^
@@ -23410,6 +23411,7 @@ browsershots.org#@#.advert_area
 ||dungeonisosculptor.com^
 ||dunsathelia.click^
 ||duo-zlhbjsld.buzz^
+||duomoscrinkum.shop^
 ||duplicateallycomics.com^
 ||duplicateankle.com^
 ||duplicatepokeheavy.com^
@@ -25794,6 +25796,7 @@ browsershots.org#@#.advert_area
 ||gjigle.com^
 ||gjnqoutbxohdb.site^
 ||gjonfartyb.com^
+||gjpalpvgek.com^
 ||gjwos.org^
 ||gk79a2oup.com^
 ||gkaosmmuso.com^
@@ -29232,6 +29235,7 @@ browsershots.org#@#.advert_area
 ||lauhoosh.net^
 ||laukaivi.net^
 ||laulme.info^
+||lauloajaiph.net^
 ||launch1266.fun^
 ||launchbit.com^
 ||laundrydesert.com^
@@ -30173,6 +30177,7 @@ browsershots.org#@#.advert_area
 ||malljazz.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||maloowordorgaux.com^
 ||malowbowohefle.info^
 ||maltcontaining.com^
 ||malthaeurite.com^
@@ -32071,6 +32076,7 @@ browsershots.org#@#.advert_area
 ||obeyfreelanceloan.com^
 ||obeyingdecrier.shop^
 ||obeysatman.com^
+||obflgjaytofk.com^
 ||obhggjchjkpb.xyz^
 ||obiexcised.top^
 ||objectionportedseaside.com^
@@ -32740,6 +32746,7 @@ browsershots.org#@#.advert_area
 ||oubeliketh.info^
 ||oubsooceen.net^
 ||ouchruse.com^
+||oudeemeewhaims.com^
 ||oudseroa.com^
 ||oudseshifaijib.net^
 ||oudsutch.com^
@@ -33677,6 +33684,7 @@ browsershots.org#@#.advert_area
 ||pitysuffix.com^
 ||piuyt.com^
 ||pivotrunner.com^
+||pivotsforints.com^
 ||pivxkeppgtc.life^
 ||pixazza.com^
 ||pixelhere.com^
@@ -51694,6 +51702,7 @@ browsershots.org#@#.advert_area
 ||smyw.org/popunder.min.js
 ||smyw.org/smyw_anima_1.gif
 ||snrcash.com/profilerotator/$third-party
+||soonpubplatform.online^*/vast?
 ||st.ipornia.com^$third-party
 ||static.twincdn.com/special/license.packed
 ||static.twincdn.com/special/script.packed
@@ -60268,6 +60277,7 @@ playpilot.com##.search-preview .side:has(> .provider)
 tempest.com##.search-result-item:has(.search-result-item__title--ad)
 yandex.com##.search-snippet-view:has(span.search-advert-badge__advert)
 shipt.com##.searchPageStaticBanner:has([href*="/shop/featured-promotions"])
+dribbble.com##.service-result:has([data-promoted-badge])
 troyhunt.com##.sidebar-featured:has(a[href^="https://pluralsight.pxf.io/"])
 insidehpc.com##.sidebar-sponsored-content
 bitcointalk.org##.signature:has(a[href]:not([href*="bitcointalk.org"]))
@@ -60315,6 +60325,7 @@ standard.co.uk##[class]:has(> [data-fluid-zoneid])
 independent.co.uk,standard.co.uk,the-independent.com##[class]:has(> [data-mpu])
 nytimes.com##[class]:has(> [id="ad-top"])
 thrillist.com##[class^="Container__GridRow-sc-"]:has(> .concert-ad)
+cargurus.com##[class^="_tileFrame_"]:has([data-cg-ft$="-sponsored"])
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
 svgrepo.com##[class^="style_native"]:has([href*="buysellads.com"])
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
@@ -83757,6 +83768,7 @@ _WebVitalsReporter_
 /t.yesware.com/t/*$image
 /T/OFC4/*$image
 /tp.mkt.vorwerk.com/r/*$image
+/track.email.$image
 /track.interestingfacts.com/?xol=
 /track.octanemail.in/sapi/*$image
 /track.sp.actionkit.com/*
