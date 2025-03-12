@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qrPmKQxUvr4RHUxU3Zpomw
+! Checksum: juuJMEoqN4HQ7iUtLUC6xg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503120226
-! Last Modified: 2025年03月12日 02:26
+! Version: 202503120924
+! Last Modified: 2025年03月12日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -60235,6 +60235,7 @@ walmart.*##a[href*=".criteo.com/"]
 walmart.*##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
 walmart.*##div[data-automation^="HookLogicCarouses"]
 walmart.*##div[data-testid^="sba-container"]
+walmart.*##div[id*="SponsoredProductCarousel"]
 wayfair.*##.CompareSimilarItemsCarousel-item:has(a[href*="&sponsoredid="])
 wayfair.*##.MediaNativePlacement-wrapper-link
 wayfair.*##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
@@ -61094,6 +61095,8 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-ad-card"]
 checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
+sainsburys.co.uk#?#section[class="ln-o-section ln-u-hard-bottom ln-u-margin-top*2"]:-abp-contains(Sponsored) + section[class="ln-o-section ln-u-hard-bottom ln-u-margin-top*2"]
+sainsburys.co.uk#?#section header[data-test="c006-container-wrapper"]:-abp-contains(Sponsored)
 fiverr.com#?#.gig-card-layout:-abp-contains(Ad by)
 temu.com#?#.EKDT7a3v:-abp-contains(AD)
 property24.com#?#.p24_tileContainer:-abp-contains(Sponsored)
@@ -64953,6 +64956,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||hxnpxh.icu^
+||ecatqefal.com^
+||jjfufv.icu^
+||scesqoikq.com^
+||oajv.cn^
 ||dtjcvd.icu^
 ||vragridsn.com^
 ||tpkv.cn^
