@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: juuJMEoqN4HQ7iUtLUC6xg
+! Checksum: rDznPd7jTtsf82g9wYeL1w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503120924
-! Last Modified: 2025年03月12日 09:24
+! Version: 202503121426
+! Last Modified: 2025年03月12日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -54935,7 +54935,6 @@ complex.com##.AdWrapper__AdPlaceholderContainer-sc-15idjh1-0
 earth.com##.AdZone_adZone__2w4TC
 thescore.com##.Ad__container--MeQWT
 interestingengineering.com##.Ad_adContainer__XNCwI
-charlieintel.com,dexerto.com##.Ad_ad__SqDQA
 interestingengineering.com##.Ad_ad__hm0Ut
 newspointapp.com##.Ad_wrapper
 aleteia.org##.Ad_wrapper__B_hxA
@@ -56600,7 +56599,7 @@ appuals.com##.expu-protipeop
 appuals.com##.expu-protipmiddle_2
 thepostemail.com##.external
 pixabay.com##.external-media
-dexerto.com##.external\:bg-custom-ad-background
+charlieintel.com,dexerto.com##.external\:bg-custom-ad-background
 yourbittorrent.com##.extneed
 navajotimes.com##.extra-hp-skyscraper
 textcompare.org##.ez-sidebar-wall
@@ -57500,11 +57499,13 @@ extremetech.com##.min-h-24
 copyprogramming.com,imagecolorpicker.com##.min-h-250
 gizmodo.com##.min-h-\[1000px\]
 op.gg,thenewdaily.com.au##.min-h-\[100px\]
+charlieintel.com,dexerto.com##.min-h-\[114px\]
 axios.com##.min-h-\[200px\]
 blanktext.co##.min-h-\[230px\]
 blanktext.co,finbold.com,gizmodo.com,op.gg,radio.net##.min-h-\[250px\]
 radiome.*##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
 uwufufu.com##.min-h-\[253px\]
+charlieintel.com,dexerto.com##.min-h-\[278px\]
 instavideosave.net,thenewdaily.com.au##.min-h-\[280px\]
 uwufufu.com##.min-h-\[300px\]
 op.gg##.min-h-\[50px\]
@@ -59186,6 +59187,7 @@ dribbble.com##[data-ad-data*="ad_link"]
 usnews.com##[data-ad-props]
 petco.com##[data-ad-source]
 androidauthority.com##[data-ad-type]
+charlieintel.com,dexerto.com##[data-ad-unit-id]
 gamelevate.com##[data-adpath]
 coingecko.com##[data-ads-target="banner"]
 timesofindia.indiatimes.com##[data-aff-type]
@@ -64961,6 +64963,8 @@ newduba.cn###jq_youxi
 ||jjfufv.icu^
 ||scesqoikq.com^
 ||oajv.cn^
+||cigoqcq.top^
+||sbqg7jylmzsym.top^
 ||dtjcvd.icu^
 ||vragridsn.com^
 ||tpkv.cn^
@@ -131337,6 +131341,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||simpleanalyticsexternal.com^$script,domain=inleo.io
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
+@@||snowplow.swm.digital^$domain=7plus.com.au
 @@||sohotheatre.com^*/PageView.js$~third-party
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||sophos.com^*/tracking/gainjectmin.js$script,domain=community.sophos.com
