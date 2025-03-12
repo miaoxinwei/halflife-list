@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tgGxnLZz1sJwZqw/LVTVGQ
+! Checksum: ICm6c52Fri2kw0ty/nwmiw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202503122037
-! Last Modified: 2025年03月12日 20:37
+! Version: 202503130226
+! Last Modified: 2025年03月13日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1039,7 +1039,7 @@ onworks.net#$#override-property-read rewarded 0;
 readcomiconline.li#$#abort-on-iframe-property-read localStorage
 vidsrc.*#$#abort-current-inline-script EventTarget.prototype.addEventListener delete; abort-current-inline-script JSON.parse break;case $.;
 swatchseries.is,watchseriestv.*,coflix.*#$#abort-current-inline-script String.fromCharCode 2147483647
-magasavor.net,rmaxfinishseveral.com,uqload.*#$#abort-on-property-write window.open; abort-current-inline-script EventTarget.prototype.addEventListener delete window;
+magasavor.net,moviesjoy.*,rmaxfinishseveral.com,uqload.*#$#abort-on-property-write window.open; abort-current-inline-script EventTarget.prototype.addEventListener delete window;
 ! MISC
 airsoftmilsimnews.com#$#abort-on-property-read td_ad_background_click_target
 baytorrent.eu.org,europixhd.com,europixhd.net,file-up.org,force-download.com,force-download.es,force-download.net,gledajonline.net,hdeuropix.io,loadsubs.net,novom.ru,pirateproxy.earth,pirateproxy.live,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay10.org,topeuropix.net,tpb.party,uploadproper.com,uploadproper.net#$#abort-on-property-read atob
@@ -1889,7 +1889,7 @@ p.thoctv.com#$#abort-current-inline-script document.createElement script
 motchill.ad#$#abort-current-inline-script document.addEventListener linksToOpen
 phimmoinay.tv#$#abort-current-inline-script jQuery click_time
 dualeotruyenbotz.com,m.blogtruyenmoi.com#$#abort-current-inline-script document.addEventListener popunder
-lxmanga.art#$#abort-current-inline-script $ PopUnder
+lxmanga.wiki#$#abort-current-inline-script $ PopUnder
 truyen35.shop#$#abort-current-inline-script jQuery click_ads
 www.toptruyentv.pro#$#abort-current-inline-script Promise instance
 animehay.guru#$#abort-current-inline-script document.addEventListener window.open
