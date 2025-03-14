@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bYci8u6ZmbbLXALCJr2WSw
+! Checksum: JllY/vU/7KXXlF+EPZEp8w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503140226
-! Last Modified: 2025年03月14日 02:26
+! Version: 202503140924
+! Last Modified: 2025年03月14日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15358,7 +15358,7 @@ _800x80_
 ##.ads_container:not(.text-ad)
 ##.sidebar-ad:not(.adsbygoogle)
 ##iframe[scrolling="no"][sandbox*="allow-popups allow-modals"][style^="width: 100%; height: 100%; border: none;"]
-###target.pk-page-ready #pk-status-message
+###pk-status-message
 ###sellwild-loader
 ##.ad_1tdq7q5
 ##.style_k8mr7b-o_O-style_uhlm2
@@ -28721,6 +28721,7 @@ browsershots.org#@#.advert_area
 ||junkyadexchange.com^
 ||junmediadirect.com^
 ||junmediadirect1.com^
+||juoykjbernjrs.com^
 ||jupabwmocgqxeo.com^
 ||jurantsepinine.shop^
 ||jurgeeph.net^
@@ -32883,6 +32884,7 @@ browsershots.org#@#.advert_area
 ||otoadom.com^
 ||otofthesefa.org^
 ||otomacotelugu.com^
+||otoyueuprumok.icu^
 ||otrwaram.com^
 ||otterwoodlandobedient.com^
 ||otvjsfmh.tech^
@@ -40718,6 +40720,7 @@ browsershots.org#@#.advert_area
 ||veepteecejoushe.net^
 ||veepteero.com^
 ||veeqlly.com^
+||veezljzkrjakz.top^
 ||veezudeedou.net^
 ||vegetablesparrotplus.com^
 ||vegetationadmirable.com^
@@ -41595,6 +41598,7 @@ browsershots.org#@#.advert_area
 ||whitenoisenews.com^
 ||whitepark9.com^
 ||whitepinaforesho.org^
+||whizzerrapiner.com^
 ||whoansodroas.net^
 ||whoarguwaghu.net^
 ||whoawoansoo.com^
@@ -65034,6 +65038,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||lmeurbnjs.com^
+||xielloltv.com^
+||lqfctb.icu^
+||fpxhdx.icu^
+||xbfk.cn^
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^
