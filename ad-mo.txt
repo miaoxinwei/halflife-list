@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YsjN/VF5dZBM8gLj4aPzLQ
+! Checksum: e+UP1fG7pyuuP+PBSMIHBg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503160938
-! Last Modified: 2025年03月16日 09:38
+! Version: 202503161424
+! Last Modified: 2025年03月16日 14:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -52358,7 +52358,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||livescore.az/images/banners
 ||lordchannel.com/adcash/
 ||lowfuelmotorsport.com/assets/img/partners/$image
-||ltn.hitomi.la/zncVMEzbV/
 ||lw.musictarget.com^
 ||lycos.com/catman/
 ||machineseeker.com/data/ofni/
@@ -52808,7 +52807,7 @@ $script,third-party,xmlhttprequest,domain=up-4ever.net
 @@||ajax.googleapis.com^$script,domain=up-4ever.net
 @@||connect.facebook.net^$script,domain=up-4ever.net
 @@||up4ever.download^$domain=up-4ever.net
-$script,third-party,domain=hitomi.la|rule34hentai.net
+$script,third-party,domain=rule34hentai.net
 @@||ajax.googleapis.com^$script,domain=rule34hentai.net
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||fluidplayer.com^$script,domain=rule34hentai.net
@@ -65000,6 +64999,7 @@ newduba.cn###jq_youxi
 ||mstmsbz.com^
 ||hwxprd.icu^
 ||nrqrbwi.top^
+||cfwlvmg.top^
 ||mvxh.cn^
 ||lftcph.icu^
 ||ak03150hou.com^
