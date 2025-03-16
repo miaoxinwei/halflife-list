@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8naI8c0b4HnTsuRJ+M8rgg
+! Checksum: Pf6fdY/AuarANKvGmDAYpA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202503162033
-! Last Modified: 2025年03月16日 20:33
+! Version: 202503170224
+! Last Modified: 2025年03月17日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,7 @@ newduba.cn###jq_youxi
 ||nrqrbwi.top^
 ||cfwlvmg.top^
 ||kodwaqepr.com^
+||ajua.cn^
 ||mvxh.cn^
 ||lftcph.icu^
 ||ak03150hou.com^
@@ -5756,7 +5757,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||51ztzj.com/res/web/img/pic/inshow.jpg
 ||520call.me/ad/ad_
 ||520cc.tw/AD/
-||520click.com/ad.$domain=~video.520cc.cc
+||520click.com/ad.$domain=~video.520cc.cc|~surirt.com
 ||520xingyun.com/images/188*.gif
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
@@ -28841,6 +28842,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nvidia.partners/telemetry/
 ||nwr.static.mmcdn.com^
 ||o.aolcdn.com/js/mg1.js
+||o9tt6h08li.execute-api.eu-west-1.amazonaws.com^
 ||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
 ||obseu.netgreencolumn.com^
@@ -31377,6 +31379,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
+||api-visitor-analytics.intercom.com^
 ||api.audio.com/analytics/event
 ||api.channel.io/*/events
 ||api.doodle.com/data-layer/track
