@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SQMjbXz3zabZzSgwvThixw
+! Checksum: YsjN/VF5dZBM8gLj4aPzLQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503160223
-! Last Modified: 2025年03月16日 02:23
+! Version: 202503160938
+! Last Modified: 2025年03月16日 09:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -57833,6 +57833,7 @@ globalwaterintel.com##.partner-content-carousel
 nrl.com##.partner-groups
 dzone.com##.partner-resources-block
 nationtalk.ca##.partner-slides
+cross.bet##.partnerLink
 sparknotes.com##.partner__pw__header
 artasiapacific.com##.partner_container
 motachashma.com,ordertracker.com##.partnerbanner
@@ -59179,6 +59180,7 @@ startribune.com##[class*="htlad-"]
 fullmatch.info##[class*="wp-image"]
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.lt,douglas.lv,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk,nocibe.fr##[class="cms-criteo"]
 m.economictimes.com##[class="wdt-taboola"]
+topgear.com##[class^="AdContainer"]
 jagranjosh.com##[class^="Ad_"]
 shoprite.com##[class^="CitrusBannerXContainer"]
 bloomberg.com##[class^="FullWidthAd_"]
@@ -64989,8 +64991,15 @@ newduba.cn###jq_youxi
 ||51tongji.trafficmanager.net^
 ||trafficmanager.net/o.js
 ||67.21.92.*.gif
+.z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||uoqc.cn^
+||xaiqrania.com^
+||jipxzz.icu^
+||mstmsbz.com^
+||hwxprd.icu^
+||nrqrbwi.top^
 ||mvxh.cn^
 ||lftcph.icu^
 ||ak03150hou.com^
