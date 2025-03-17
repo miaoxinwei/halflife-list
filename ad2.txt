@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V6ObFWu/6dJSdz5TOWx5tQ
+! Checksum: lBiGVrPPLezYV/YN3Qh1lw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202503171427
-! Last Modified: 2025年03月17日 14:27
+! Version: 202503172038
+! Last Modified: 2025年03月17日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -166,6 +166,7 @@ z4a.net
 .xyz:*?c=$script,third-party
 -*-*-*-*.panda^$script,third-party
 .tv/gg/
+.top/api.php?mod=ad&
 /webAdvert.php?ad_name=
 /js/adv-slide-toggle.
 -1316632262.cos.
@@ -1890,6 +1891,11 @@ newduba.cn###jq_youxi
 ||tmdqlk.top^
 ||bkox.cn^
 ||amyapad.top^
+||political-effort.com^
+||tubingacater.com^
+||chorninsm.com^
+||phuustikd.com^
+||togmoxwnw.com^
 ||uoqc.cn^
 ||xaiqrania.com^
 ||jipxzz.icu^
@@ -9711,6 +9717,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||adasset.flixfiend.top^
 ||2345.com/guess/v1/adList
 !------------------------Specific element hiding rules------------------------!
+fhxy-a.top##.sd_recpic
 2345.com##.search-right-swiper-news
 2345.com##._isFirstAd
 2345.com##.part-banner > .part-ppt
