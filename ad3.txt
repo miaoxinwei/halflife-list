@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UoBuEhF6E7HkSlgW/sQTLg
+! Checksum: hHWdnORQY0dJwkZWmPcXpg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202503182038
-! Last Modified: 2025年03月18日 20:38
+! Version: 202503190226
+! Last Modified: 2025年03月19日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -9726,7 +9726,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||csgola.com/Public/img/lala/1.jpg
 ||adasset.flixfiend.top^
 ||2345.com/guess/v1/adList
+||ttdm.me/upload/files/sss/
 !------------------------Specific element hiding rules------------------------!
+ttdm.me##.dds_w
 fhxy-a.top##.sd_recpic
 2345.com##.search-right-swiper-news
 2345.com##._isFirstAd
@@ -23097,6 +23099,7 @@ _WebVitalsReporter_
 .smartrmail.co/o/$image
 .smtp.net/o/$image
 .southwest.com/r/$image
+.sp1-brevo.net/mk/op/$image
 .sparkpostmail.com/q/$image
 .sparkpostmail2.com/q/$image
 .spmailtechnol.com/q/$image
