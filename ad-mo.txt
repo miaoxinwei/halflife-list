@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2AfV+gtsYNrK5BmxfICO/g
+! Checksum: uoS72te0m9yvPvLrepPBuw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503192037
-! Last Modified: 2025年03月19日 20:37
+! Version: 202503200226
+! Last Modified: 2025年03月20日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1109,7 +1109,9 @@ _reklama_$domain=~youtube.com
 ?bd=ppd&r=$document
 /ad-shield/e/*$script,third-party
 ://www.*.xyz/contents/*/-1/$script,subdocument,third-party,xmlhttprequest
+://www.*.xyz/contents/*/a/$subdocument,third-party
 ://www.*.xyz/contents/*?h=$script,third-party
+://www.*.xyz/script/*.com.js|$script,third-party
 wss://www.*.xyz/ws^$third-party
 .com/ed/java.js$script
 /ed/fol457.$script
@@ -19520,6 +19522,7 @@ browsershots.org#@#.advert_area
 ||bewoobaton.com^
 ||bewperspiths.top^
 ||beyanmaan.com^
+||beylicbesmile.com^
 ||beyourxfriend.com^
 ||bf-ad.net^
 ||bfast.com^
@@ -19548,6 +19551,7 @@ browsershots.org#@#.advert_area
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
 ||biaxalstiles.com^
+||bibbysilkmen.com^
 ||bibitheedseck.net^
 ||biblecollation.com^
 ||biblesausage.com^
@@ -19835,6 +19839,7 @@ browsershots.org#@#.advert_area
 ||bobgames-prolister.com^
 ||bobpiety.com^
 ||bobqucc.com^
+||bockouphourgait.net^
 ||bodegaseikon.shop^
 ||bodieshomicidal.com^
 ||bodilypotatoesappear.com^
@@ -21566,6 +21571,7 @@ browsershots.org#@#.advert_area
 ||comurbate.com^
 ||comymandars.info^
 ||conative.network^
+||concavobegan.shop^
 ||concealedcredulous.com^
 ||concealmentmimic.com^
 ||concedederaserskyline.com^
@@ -24240,6 +24246,7 @@ browsershots.org#@#.advert_area
 ||ethelbrimtoe.com^
 ||ethelvampirecasket.com^
 ||etherart.online^
+||etherolasqueal.com^
 ||ethicbecamecarbonate.com^
 ||ethicel.com^
 ||ethichats.com^
@@ -24613,6 +24620,7 @@ browsershots.org#@#.advert_area
 ||farfeljabots.top^
 ||fargwyn.com^
 ||farmmandatehaggard.com^
+||farmyengrail.top^
 ||farteniuson.com^
 ||fartmoda.com^
 ||fascespro.com^
@@ -27143,6 +27151,7 @@ browsershots.org#@#.advert_area
 ||hoaxviableadherence.com^
 ||hobbiesshame.online^
 ||hobbleobey.com^
+||hobitsaffined.com^
 ||hockeycomposure.com^
 ||hockeyhavoc.com^
 ||hockeysacredbond.com^
@@ -34757,6 +34766,7 @@ browsershots.org#@#.advert_area
 ||ptbrdg.com^
 ||ptcdwm.com^
 ||pteekauksaupt.net^
+||pteemsoansouthe.net^
 ||pteemsolrirgegi.com^
 ||pteemteethu.net^
 ||pteeptamparg.xyz^
@@ -35950,6 +35960,7 @@ browsershots.org#@#.advert_area
 ||reticencecarefully.com^
 ||reticencevaliddecoction.com^
 ||retimedtactor.shop^
+||retinaspealer.com^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retiringspamformed.com^
@@ -41569,6 +41580,7 @@ browsershots.org#@#.advert_area
 ||welllwrite.com^
 ||wellmov.com^
 ||wellpdy.com^
+||wellworn-lead.com^
 ||welved.com^
 ||wembybuw.xyz^
 ||wemmyoolakan.shop^
@@ -42104,6 +42116,7 @@ browsershots.org#@#.advert_area
 ||wuczmaorkqaz.com^
 ||wudr.net^
 ||wuefmls.com^
+||wuftaustee.net^
 ||wugoughurtaitsu.net^
 ||wugroansaghadry.com^
 ||wumufama.com^
@@ -45148,6 +45161,7 @@ browsershots.org#@#.advert_area
 ||79180284.xyz^
 ||79391192.xyz^
 ||79582961.xyz^
+||79870085.xyz^
 ||79893962.xyz^
 ||7fc8.site^
 ||80133082.xyz^
@@ -50484,6 +50498,7 @@ browsershots.org#@#.advert_area
 ||tech426.com/pub/
 ||textlinks.com/images/banners/
 ||thefreesite.com/nov99bannov.gif
+||thelotter-affiliates.com^$third-party
 ||themespixel.net/banners/
 ||thscore.fun/mn/
 ||ti.tradetracker.net^
