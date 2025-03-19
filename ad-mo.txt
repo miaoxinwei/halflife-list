@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RSiqYqz/NOMLZa3qA8R1Jw
+! Checksum: 2AfV+gtsYNrK5BmxfICO/g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503191427
-! Last Modified: 2025年03月19日 14:27
+! Version: 202503192037
+! Last Modified: 2025年03月19日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -43847,6 +43847,7 @@ browsershots.org#@#.advert_area
 ||adfinity.pro^$third-party
 ||adfinix.com^$third-party
 ||adforgames.com^$third-party
+||adforge.io^$third-party
 ||adfrika.com^$third-party
 ||adgage.es^$third-party
 ||adgatemedia.com^$third-party
@@ -55244,6 +55245,7 @@ inverness-courier.co.uk,johnogroat-journal.co.uk,stamfordmercury.co.uk##.MPU
 abergavennychronicle.com,tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
 engadget.com##.Mih\(90px\)
 medievalists.net##.Mnet_TopLeft_970x250
+wired.com##.MobileProductCardOuter-kMqsSf
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
 metservice.com##.Mrec-min-height
 boardgameoracle.com##.MuiContainer-root > .jss232
@@ -65202,6 +65204,8 @@ newduba.cn###jq_youxi
 ||xrlzhk.top^
 ||nogogey.top^
 ||otfy.cn^
+||iyof.cn^
+||vinoinqih.com^
 ||fbhkxt.icu^
 ||lppfnf.icu^
 ||shedranfd.com^
@@ -90881,6 +90885,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.babe.today^
 ||x.disq.us^
 ||x.weather.com^
+||xeno.media-lab.ai/events
 ||xp2023-pix.s3.amazonaws.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yahoo.com/sync/casale/
@@ -92824,6 +92829,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||firebaselogging.googleapis.com^
 ||fishki.net/counter/
 ||fiverr.com/api/v1/activities
+||flagr.worldstarhiphop.com/api/v1/evaluation
 ||flaticon.com/_ga?
 ||flipboard.com/api/v2/reporting
 ||flipboard.com/usage?
