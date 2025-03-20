@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AsWyqjfz48lbb7iI14guZg
+! Checksum: Ml1Xra9dobaLyIrltJe4+g
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202503202036
-! Last Modified: 2025年03月20日 20:36
+! Version: 202503210226
+! Last Modified: 2025年03月21日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -917,6 +917,7 @@ manomano.*#$#hide-if-matches-xpath './/span[translate(text(), "​", "") = "Spon
 manomano.*#$#hide-if-matches-xpath './/span[.="Sponsorisé" or .="Patrocinado" or .="Sponsorizzato" or .="Sponsored" or .="Gesponsert"]/ancestor::div[@data-testid="parent-middle-banner"]'
 manomano.*#$#hide-if-matches-xpath './/div[@data-testid="banner-spr-label"]/span[.="Sponsorisé" or .="Sponsored" or .="Gesponsert" or .="Sponsorizzato" or .="Patrocinado"]/ancestor::div[@data-testid="parent-middle-banner"]'; hide-if-contains-visible-text /Sponsorisé|Sponsored|Sponsorizzato|Gesponsert|Patrocinado/ 'div[class] div[data-testid$="banner"]' 'div[data-testid$="sponsoredLabel"] span';
 manomano.*#$#hide-if-matches-xpath '//div[./a[@data-testid="sprbrd-logo-link"]]//span[translate(text(), "​", "") = "Sponsorisé" or translate(text(), "​", "") = "Sponsored" or translate(text(), "​", "") = "Gesponsert" or translate(text(), "​", "") = "Patrocinado" or translate(text(), "​", "") = "Sponsorizzato"]/ancestor::button[@data-testid="info-label"]/parent::div/ancestor::div[@data-testid="sprbrd-products"]/parent::div[1]/parent::div[1]'; hide-if-matches-xpath '//div//span[translate(text(), "​", "") = "Sponsorisé" or translate(text(), "​", "") = "Sponsored" or translate(text(), "​", "") = "Gesponsert" or translate(text(), "​", "") = "Patrocinado" or translate(text(), "​", "") = "Sponsorizzato"]/ancestor::button[@data-testid="info-label"]/parent::div/parent::div[1]/parent::div';
+manomano.*#$#hide-if-matches-xpath '//div[./a[@data-testid="sprbrd-logo-link"]]//span[translate(text(), "​", "") = "Sponsorisé" or translate(text(), "​", "") = "Sponsored" or translate(text(), "​", "") = "Gesponsert" or translate(text(), "​", "") = "Patrocinado" or translate(text(), "​", "") = "Sponsorizzato"]/ancestor::button/parent::div/parent::div[1]/parent::div/ancestor::div[contains(@class,"block")][1]'
 ! TP
 manomano.*#$#hide-if-matches-xpath './/span[@role][@data-testid="popoverTriggersponsoredLabel"]/ancestor-or-self::div[@data-testid="sprbrd-banner"]'
 !HP
@@ -940,6 +941,8 @@ newegg.com##div[class*="-sponsored"]
 ! #RM-180
 ! HP & SA
 knuspr.de#$#hide-if-matches-xpath '//span[contains(., "Sponsored") or contains(., "Gesponsert")]/ancestor::a[@aria-label]/ancestor::*[ (self::div[count(ancestor::div) = 8] and not(./div[contains(@data-test, "product")])) or (self::div[count(ancestor::div) = 7] and ./div[contains(@data-test, "product")]) ]'
+! SB
+knuspr.de#$#hide-if-matches-xpath '//span[contains(., "Sponsored") or contains(., "Gesponsert")]/ancestor::a[@aria-label]/ancestor::div[@data-test][@class][1]'
 ! Popup/Popunder/Clickunder
 123movieshub.tc,123freemovies.net,0123movies.*,123movies.*,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,adblockeronstreamtape.xyz,animepahe.com,bigtitsxxxfree.com,configspc.com,dood.*,doods.*,dooodster.*,doodstream.*,fastream.to,govid.me,hclips.com,hd-analporn.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.net,porn.com,porndollz.com,pornhat.com,prmovies.bz,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblockplus.com,streamadblocker.xyz,streamadblockplus.xyz,streamta.pe,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
 latinblog.tv,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,adblockeronstreamtape.xyz,baytorrent.eu.org,dood.*,doods.*,dooodster.*,doodstream.*,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblockplus.com,streamadblocker.xyz,streamadblockplus.xyz,streamtape.*,strtapeadblock.me,streamta.pe,strtape.*,adblockstrtape.link,tapewithadblock.org,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.*#$#abort-on-property-write _pop
@@ -1042,7 +1045,7 @@ mixdrop.*#$#override-property-read MDCore.adblock 0; abort-current-inline-script
 skidrowreloaded.*,vidsrc.*#$#abort-on-property-read runPop; abort-current-inline-script open; abort-on-property-read Math.floor
 videzz.net#$#override-property-read isAdBlockDetected false; abort-on-property-read window.open
 animixplay.*aniwatch.*,moviesjoy.*,movieshdwatch.*,tapeadvertisement.com#$#abort-on-property-read window.open; abort-current-inline-script document.documentElement break;case $.
-sflix.*,sflix2.*#$#abort-current-inline-script parseInt break;case $.; abort-current-inline-script appendChild iframe
+sflix.*,sflix2.*#$#abort-current-inline-script parseInt break;case $.; abort-current-inline-script appendChild iframe; abort-on-iframe-property-read Math.random;
 aniwave.*,wallpaperflare.com#$#abort-current-inline-script document.write; abort-on-property-read window.open;
 tvsportslive.*#$#abort-current-inline-script document.createElement /script/; hide-if-matches-xpath './/div[@class][contains(@style, "pointer-events: none;")]/self::div[1]';
 datanodes.to##body > form[method="POST"][target="_blank"] {remove:true;}
@@ -1234,7 +1237,7 @@ kickassanime.*,streamwish.*#$#hide-if-matches-xpath './/div[contains(@class, "jw
 hianime.to#$#hide-if-matches-xpath './/a[contains(@href,"1flix.to")]/img[@alt="1flix"][@style]/ancestor::div[@style]'
 hdtodayz.*,moviesjoy.*#$#hide-if-matches-xpath './/img[contains(@style,"width: 100%")]/parent::a[@href][@target]/ancestor::div[@id][contains(@style,"20px")]'
 2kmoviehd.to,hdtodayz.*##div[style*="position: fixed; inset: 0px; pointer-events: auto;"]
-awafim.tv,movies2watch.tv,sflix.*,uqload.*#$#prevent-listener break;case $.
+awafim.tv,movies2watch.tv,sflix2.*,sflix.*,uqload.*#$#prevent-listener break;case $.
 player.fm#$#hide-if-contains-visible-text /SPONSORED|SPONSORERET|GESPENSERT|PATROCINADO|SPONSORISÉ|DISPONSORI|DITAJA|SPONSOR|SPONSORIZZATO|SZPONZORÁLT|SPONSOROWANY|SPONSORIZAT|ΕΠΙΧΟΡΗΓΟΎΜΕΝΟ|РЕКЛАМА|РЕКЛАМА/ 'div[data-style]' 'div.sponsored-content p.subtitle'
 aniwatchtv.*#$#hide-if-matches-xpath './/a[@href][@target="_blank"]/img[@alt][@style]/ancestor::div[contains(@style," text-align")]'
 redtube.*,pornhub.*,tube8.*,youporn.com#$#hide-if-matches-xpath './/div[contains(text(),"TrafficJunky")]/parent::div[@style]/ancestor::div[@class][@style]/parent::*[not(self::body) and not(self::div[@class])][1]'
@@ -1258,6 +1261,7 @@ evrimagaci.org#$#hide-if-matches-xpath './/div[@class="empower-ad"]/parent::div[
 neoseeker.com#$#hide-if-matches-xpath './/div[contains(@style,"text-align:center;")]/div[@style]/small/ancestor-or-self::div[contains(@style,"text-align:center;")]'
 yts.*#$#abort-on-property-read window.__adFormats;
 web.netmovies.*#$#hide-if-matches-xpath './/iframe[@style="width: 100% !important; height: 100% !important; margin: 0px; padding: 0px; border: none; outline: none; box-sizing: border-box; position: fixed; color-scheme: none; inset: 0px; overflow: hidden; z-index: 2147483646; display: block !important;"]/ancestor-or-self::iframe[1]'
+megacloud.*#$#hide-if-matches-xpath './/div[@id="megacloud-player"]//a[@id="closeBanner"][@style]'
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
