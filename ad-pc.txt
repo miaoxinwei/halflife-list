@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: t8RT8syApNQzMU3p2zIwEw
+! Checksum: t6HfEEMoKNB3e6hMPPIxJw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202503221424
-! Last Modified: 2025年03月22日 14:24
+! Version: 202503222033
+! Last Modified: 2025年03月22日 20:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -63628,6 +63628,22 @@ gamcore.com##li.d-md-block > a[rel]
 @@||gaynetwork.co.uk/Images/ads/bg/$image,~third-party
 @@||inporn.com/*/embed.js$script,~third-party
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
+@@||megaxh.com^$script,~third-party
+@@||xhaccess.com^$script,~third-party
+@@||xhamster.com^$script,~third-party
+@@||xhamster.desi^$script,~third-party
+@@||xhamster1.desi^$script,~third-party
+@@||xhamster3.com^$script,~third-party
+@@||xhbig.com^$script,~third-party
+@@||xhbranch5.com^$script,~third-party
+@@||xhchannel.com^$script,~third-party
+@@||xhmoon5.com^$script,~third-party
+@@||xhofficial.com^$script,~third-party
+@@||xhspot.com^$script,~third-party
+@@||xhtotal.com^$script,~third-party
+@@||xhvid.com^$script,~third-party
+@@||xhwide2.com^$script,~third-party
+@@||xhwide5.com^$script,~third-party
 @@://xhamster.$script,~third-party
 @@||gaybeeg.info^$generichide
 @@||milfzr.com^$generichide
@@ -65363,6 +65379,9 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||stemedntm.com^
 ||r5twojylmzsym.top^
+||avkd.cn^
+||yxqmryq.top^
+||eldaridpr.com^
 ||feernhuhe.com^
 ||vhje.cn^
 ||bptnzp.top^
@@ -93851,6 +93870,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.wayfair.com^
 ||t.y8.com^
 ||t2.hulu.com^
+||t3.chat/api/event
+||t3.chat/js/xt/script.js
 ||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
