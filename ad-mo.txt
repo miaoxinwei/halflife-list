@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NmvwgsFngqfVuJ6ipC8iAQ
+! Checksum: Z11KuDcIdm1AJVox4pz7aQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503222033
-! Last Modified: 2025年03月22日 20:33
+! Version: 202503230223
+! Last Modified: 2025年03月23日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1090,7 +1090,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 ?ab=1&zoneid=
 ?adspot_$domain=~sponichi.co.jp
 ?advertiser_id=$domain=~ads.pinterest.com
-?bannerid=
 ?cs=*&abt=0&red=1&sm=$third-party
 ?service=ad&
 ?usid=*&utid=
@@ -16384,6 +16383,7 @@ browsershots.org#@#.advert_area
 ||44fc128918.com^
 ||452tapgn.de^
 ||453130fa9e.com^
+||459b6951ca.com^
 ||45cb7b8453.com^
 ||45f2a90583.com^
 ||460e19ebd6.com^
@@ -18335,6 +18335,7 @@ browsershots.org#@#.advert_area
 ||aq30me9nw.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqcutwom.xyz^
+||aqgyncebdxmpw.icu^
 ||aqhz.xyz^
 ||aqjbfed.com^
 ||aqkkoalfpz.com^
@@ -19285,6 +19286,7 @@ browsershots.org#@#.advert_area
 ||becominggunpowderpalette.com^
 ||becorsolaom.com^
 ||becrustleom.com^
+||bedaoibe.com^
 ||bedaslonej.com^
 ||bedaslonejul.cc^
 ||beddermidlegs.shop^
@@ -27471,6 +27473,7 @@ browsershots.org#@#.advert_area
 ||hxaubnrfgxke.xyz^
 ||hxlkiufngwbcxri.com^
 ||hxoewq.com^
+||hxxkalmsovxvcp.com^
 ||hycantyoubelik.com^
 ||hycantyoubeliketh.com^
 ||hydraulzonure.com^
@@ -30402,6 +30405,7 @@ browsershots.org#@#.advert_area
 ||manualquiet.com^
 ||manureinforms.com^
 ||manureoddly.com^
+||maoeoa.xyz^
 ||mapamnni.com^
 ||mapeeree.xyz^
 ||maper.info^
@@ -33883,6 +33887,7 @@ browsershots.org#@#.advert_area
 ||piqueendogen.com^
 ||piroquealcmene.com^
 ||pirtecho.net^
+||pisachafibular.top^
 ||pisehiation.shop^
 ||pisgahserve.com^
 ||pishespied.top^
@@ -45216,6 +45221,7 @@ browsershots.org#@#.advert_area
 ||91301246.xyz^
 ||92790388.xyz^
 ||9354ee72.xyz^
+||94444717.xyz^
 ||94597672.xyz^
 ||95597529.xyz^
 ||97496b9d.xyz^
@@ -52802,6 +52808,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||spys.one/fpe.png
 ||srilankamirror.com/images/banners/
 ||srware.net/iron/assets/img/av/
+||ssl-images-amazon.com/images/S/apesafeframe/ape/sf/$script
 ||star-history.com/assets/sponsors/
 ||startpage.com/sp/adsense/
 ||static.ad.libimseti.cz^
@@ -57516,6 +57523,7 @@ kiryuu.id##.kln
 wantedinafrica.com##.kn-widget-banner
 karryon.com.au##.ko-ads-wrapper
 kvraudio.com##.kvrblockdynamic
+read.amazon.*##.kw-ads-ftue-container
 businessinsider.com##.l-ad
 legit.ng,tuko.co.ke##.l-adv-branding__top
 pdc.tv##.l-featured-bottom
@@ -61500,6 +61508,7 @@ yelp.*#?#main[class^="searchResultsContainer"] li h2:-abp-contains(Sponsored)
 walmart.*#?#div > div[io-id]:-abp-contains(Sponsored)
 walmart.*#?#div[role="group"]:-abp-has(div:-abp-contains(/Sponsored|Commandité/))
 euronews.com###o-site-hr__leaderboard-wallpaper.u-show-for-xlarge {remove:true;}
+read.amazon.*###readerChromeOverlayBottom.readerChromeOverlayBottom-banner-desktop {bottom: 0 !important;}
 dailystar.co.uk##[data-testid="commercial-above-header-box-1"] {remove:true;}
 virtuagirlgirls.com###DynamicBackgroundWrapper
 porndr.com###PD-Under-player
@@ -62459,7 +62468,6 @@ ooxxx.com##.video-ntv-wrapper
 pornhdtube.tv,recordbate.com##.video-overlay
 hotmovs.tube##.video-page > .block_label > div
 thegay.com##.video-page__content > .right
-xhtab2.com##.video-page__layout-ad
 senzuri.tube##.video-page__watchfull-special
 pornhd.com##.video-player-overlay
 peachurbate.com##.video-right-banner
@@ -62649,7 +62657,7 @@ imx.to##a[href^="https://camonster.com/"]
 f95zone.to,imagetwist.com##a[href^="https://candy.ai/"]
 hog.tv##a[href^="https://clickaine.com"]
 spankbang.com##a[href^="https://deliver.ptgncdn.com/"]
-seexh.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhchannel2.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtab4.com,xhtotal.com,xhtree.com,xhwide2.com,xhwide5.com##a[href^="https://flirtify.com/"]
+seexh.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhtree.com,xhwide2.com,xhwide5.com##a[href^="https://flirtify.com/"]
 hitbdsm.com##a[href^="https://go.rabbitsreviews.com/"]
 instantfap.com##a[href^="https://go.redgifcams.com/"]
 sexhd.pics##a[href^="https://go.stripchat.com/"]
@@ -65270,6 +65278,7 @@ newduba.cn###jq_youxi
 ||avkd.cn^
 ||yxqmryq.top^
 ||eldaridpr.com^
+||oelj.cn^
 ||feernhuhe.com^
 ||vhje.cn^
 ||bptnzp.top^
@@ -93500,6 +93509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ras.yahoo.com^
 ||rbc.ua/enghits/
 ||react-admin-telemetry.marmelab.com^
+||read.amazon.*/uploadMetrics/
 ||realitytvworld.com/images/pixel.gif
 ||rec.banggood.com^
 ||reddit.com/static/pixel.png$image
