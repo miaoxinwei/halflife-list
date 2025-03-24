@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3NYlFNOzf2f89lzbBeG4RA
+! Checksum: Hzis8mWIn0PdhkbdvDddzw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503240937
-! Last Modified: 2025年03月24日 09:37
+! Version: 202503241427
+! Last Modified: 2025年03月24日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -55283,6 +55283,7 @@ tutiempo.net##.ContBannerTop
 dappradar.com##.Container--bottomBanners
 songmeanings.com##.Container_ATFR_300
 songmeanings.com##.Container_ATF_970
+emarketer.com##.ContentRightAd
 swarajyamag.com##.CrIrA
 ulta.com##.CriteoProductRail
 calcalistech.com##.Ctech_general_banner
@@ -55778,6 +55779,7 @@ jpeg-optimizer.com##.ads_A1_warp
 jpeg-optimizer.com##.ads_A2_warp
 kbb.com##.ads__container
 kbb.com##.ads__container-kbbLockedAd
+indiatodaygaming.com##.ads__container_rhs
 metro.co.uk##.ads__index__adWrapper--cz7QL
 vccircle.com##.ads_ads__qsWIu
 collegedunia.com##.ads_body_ad_code_container
@@ -56281,6 +56283,7 @@ simkl.com##.blockplacecente
 wowhead.com##.blocks
 mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
+blackview.hk##.blog-ad-banner
 plainenglish.io##.blog-banner-container
 failory.com##.blog-column-ad
 oxygen.com,syfy.com##.blog-post-section__zergnet
@@ -58999,6 +59002,7 @@ teslaoracle.com##.tdi_48
 coinedition.com##.tdi_59
 ghpage.com##.tdi_63
 depressionforums.org##.tdi_66
+carboncredits.com##.tdi_72
 coinedition.com##.tdi_95
 coinedition.com##.tdm-inline-image-wrap
 lankanewsweb.net##.tdm_block_inline_image
@@ -59988,6 +59992,7 @@ xbox-hq.com##a[href^="banners.php?"]
 iamdisappoint.com,shitbrix.com,tattoofailure.com##a[href^="http://goo.gl/"]
 notbanksyforum.com##a[href^="http://l-13.org/"]
 wjbc.com##a[href^="http://sweetdeals.com/bloomington/deals"]
+amazingfoodmadeeasy.com##a[href^="http://www.amazon.com/gp/product"]
 notbanksyforum.com##a[href^="http://www.ebay.co.uk/usr/heartresearchuk_shop/"]
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 2x4u.de##a[href^="http://www.myfreecams.com/?baf="]
@@ -65322,6 +65327,8 @@ newduba.cn###jq_youxi
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
+||dtdqpc.top^
+||lsyaicl.icu^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
@@ -81521,6 +81528,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics-secure.js
 /analytics-tracker/*
 /analytics-tracking.js
+/analytics-worker.iife.js
 /analytics.*/event?
 /analytics.*/ping/?
 /analytics.*/track
@@ -86598,6 +86606,7 @@ omni.soundestlink.com$image
 ||rtox.net^$third-party
 ||rtrk.co.nz^$third-party
 ||rtrk.com^$third-party
+||rttrk.com^$third-party
 ||ru4.com^$third-party
 ||rudderlabs.com^$third-party
 ||rumanalytics.com^$third-party
@@ -93203,6 +93212,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||k.qwant.com^
 ||kaggle.com/api/i/diagnostics.MetricsService
 ||kansascity.com/nyb-zsooli/
+||kape.dataplane.rudderstack.com^
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
