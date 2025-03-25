@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CTnpGEHDlktu4BFhpkXFCA
+! Checksum: SecNJrjo34CQbXrf8n0tNA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503250935
-! Last Modified: 2025年03月25日 09:35
+! Version: 202503251427
+! Last Modified: 2025年03月25日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60193,7 +60193,6 @@ azuremagazine.com##div[class$="azoa"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
 pcgamer.com,techcrunch.com,tomsguide.com,tomshardware.com##div[class*="ad-unit"]
 aajtakcampus.in##div[class*="ads_ads_container__"]
-decrypt.day##div[class*="content"] center.w-full
 dallasnews.com##div[class*="features-ads"]
 gamingbible.com,ladbible.com,unilad.co.uk,unilad.com##div[class*="margin-Advert"]
 thefiscaltimes.com##div[class*="pane-dfp-"]
@@ -65397,6 +65396,9 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 ||phorralut.com^
+||pqav.cn^
+||fsjfnp.top^
+||jgapcsi.icu^
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
