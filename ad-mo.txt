@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: A5WHkH22X1aerf5lU+Kl6Q
+! Checksum: ciwPWkQtqfriYiUf35sB1A
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503260927
-! Last Modified: 2025年03月26日 09:27
+! Version: 202503261426
+! Last Modified: 2025年03月26日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60707,7 +60707,7 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##._6
 haveibeenpwned.com##.actionsBar:has(.why1Password)
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
 slickdeals.net##.announcementBar:has(.sponsorContent)
-mydramalist.com##.app-body > div[class]:has(> div.is-desktop-ads)
+mydramalist.com##.app-body > div:has(> div[class*="is-desktop-ads-"])
 thedailywtf.com##.article-body > div:has-text([Advertisement])
 nation.africa##.article-collection-teaser:has(.sponsored-label)
 thesun.co.uk##.article-sidebar .widget-sticky:has([class*="ad_widget"])
@@ -65424,6 +65424,7 @@ newduba.cn###jq_youxi
 ||dhaaralzz.com^
 ||gqoi.cn^
 ||drlzlc.top^
+||yugjwgg.icu^
 ||phorralut.com^
 ||pqav.cn^
 ||fsjfnp.top^
@@ -78922,6 +78923,7 @@ brandsales.58.com#@#div[id^="ad_"]
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 !---------------------------------URL Whitelist-------------------------------!
 @@.adserver.$domain=litv.tv
+@@||jinritemai.com^$generichide
 @@||linetv.tw^$generichide
 @@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||am730.com.hk^$generichide
