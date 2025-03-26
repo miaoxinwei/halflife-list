@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7cEDnPAj+3oUuzXGaud6tA
+! Checksum: PL8D2WFqtMEIJ1FHcqi9Iw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202503260226
-! Last Modified: 2025年03月26日 02:26
+! Version: 202503260927
+! Last Modified: 2025年03月26日 09:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1884,6 +1884,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||dhaaralzz.com^
+||gqoi.cn^
+||drlzlc.top^
 ||phorralut.com^
 ||pqav.cn^
 ||fsjfnp.top^
@@ -70816,6 +70819,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
 @@||tinypass.com^*/logAutoMicroConversion?$domain=chicago.suntimes.com
+@@||tm.regions.com/tags.js$~third-party
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
