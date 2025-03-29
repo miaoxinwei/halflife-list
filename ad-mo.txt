@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6o3k/5tNm85bzSnI4pIFSQ
+! Checksum: My6YDh9HZSC2VVM2N1W2Sg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202503292034
-! Last Modified: 2025年03月29日 20:34
+! Version: 202503300223
+! Last Modified: 2025年03月30日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -50730,7 +50730,7 @@ browsershots.org#@#.advert_area
 !----------------------Specific advert blocking filters-----------------------!
 /assets/bn/movie.jpg$image,domain=vidstream.pro
 /pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
-/resolver/api/resolve/v3/config/?$xmlhttprequest,domain=msn.com
+/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=weather&$domain=msn.com
 asgg.php$domain=ghostbin.me|paste.fo
 ||0xtracker.com/assets/advertising/
 ||123.manga1001.top^
@@ -59917,6 +59917,7 @@ bing.com##.b_ad
 bing.com##.b_adBottom
 bing.com##.b_adLastChild
 bing.com##.b_adPATitleBlock
+bing.com##.b_algo:has(> .b_title > h2 > .b_ads1line)
 bing.com##.b_spa_adblock
 bing.com##.mapsTextAds
 bing.com##.mma_il
@@ -63846,6 +63847,7 @@ newduba.cn###jq_youxi
 ||uivc.cn^
 ||jovcbp.top^
 ||beqnnobwt.com^
+||ksro.cn^
 ||eildralfl.com^
 ||liqw.cn^
 ||hptidc.top^
@@ -87017,6 +87019,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
 ||realist.gen.tr^$third-party
+||sayac.net.tr^$third-party
 ||sayyac.com^$third-party
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
