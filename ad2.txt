@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NZuy9M7HJTQh8KXJT5cwug
+! Checksum: q15X+WEWMWrESQ2TMxO3RA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202503300941
-! Last Modified: 2025年03月30日 09:41
+! Version: 202503302034
+! Last Modified: 2025年03月30日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -165,6 +165,7 @@ z4a.net
 .xyz:*?x=$script,third-party
 .xyz:*?c=$script,third-party
 -*-*-*-*.panda^$script,third-party
+/haijiao3/*/popup.
 .tv/gg/
 .top/api.php?mod=ad&
 /webAdvert.php?ad_name=
@@ -1887,6 +1888,7 @@ newduba.cn###jq_youxi
 ||lubrzh.top^
 ||hrwbeqv.icu^
 ||vqle.cn^
+||hevepyrmt.com^
 ||giphaudoq.com^
 ||jdqmhay.icu^
 ||uivc.cn^
@@ -9806,6 +9808,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||2345.com/guess/v1/adList
 ||ttdm.me/upload/files/sss/
 !------------------------Specific element hiding rules------------------------!
+oibdgtxw.com#?#.xqbj-list-rows:-abp-has(img[z-image-loader-url*=".gif"])
 ttdm.me##.dds_w
 jin10.com##.tradinghero
 jin10.com##.quoted-price__pro
