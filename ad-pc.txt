@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vpIX8sm5PF1SC9u5VuIBxw
+! Checksum: g0MbC8F3QwlIhjhLwWyzZg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504012039
-! Last Modified: 2025年04月01日 20:39
+! Version: 202504020226
+! Last Modified: 2025年04月02日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -475,6 +475,7 @@ tieba.baidu.com##.tuijian-wrap
 .ashx?AdID=
 .aspx?adid=
 .az/adv/$~xmlhttprequest
+.biz/?te=$third-party
 .br/ads/$~xmlhttprequest
 .ca/ads/$~xmlhttprequest
 .cfm?ad=
@@ -1029,6 +1030,7 @@ tieba.baidu.com##.tuijian-wrap
 /resources/ads/*$~xmlhttprequest
 /responsive/ad_$subdocument
 /responsive_ads.js$script
+/revopush_v2.js
 /right_ads.$~xmlhttprequest
 /rightad.js$script
 /s.ashx?btag$script
@@ -1225,9 +1227,9 @@ _reklama_$domain=~youtube.com
 ||online.*/promoredirect?key=
 ?bd=ppd&r=$document
 /ad-shield/e/*$script,third-party
-://www.*.xyz/contents/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.xyz/contents/*/a/$subdocument,third-party
-://www.*.xyz/contents/*?h=$script,third-party
+://www.*.xyz/content/*/-1/$script,subdocument,third-party,xmlhttprequest
+://www.*.xyz/content/*/a/$subdocument,third-party
+://www.*.xyz/content/*?h=$script,third-party
 ://www.*.xyz/script/*.com.js|$script,third-party
 wss://www.*.xyz/ws^$third-party
 .com/ed/java.js$script
@@ -6295,7 +6297,6 @@ _800x80_
 ##._ads
 ##._ads-full
 ##._ap_adrecover_ad
-##._ap_apex_ad
 ##._articleAdvert
 ##._bannerAds
 ##._bottom_ad_wrapper
@@ -22017,6 +22018,7 @@ browsershots.org#@#.advert_area
 ||cryptomcw.com^
 ||cryptonewsdom.care^
 ||cryptotyc.care^
+||cs15.biz^
 ||cschyogh.com^
 ||csdf4dn.pro^
 ||cseuegsbjb.com^
@@ -22028,6 +22030,7 @@ browsershots.org#@#.advert_area
 ||csqtsjm.com^
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
+||ct11.biz^
 ||ctasnet.com^
 ||ctcdwm.com^
 ||cteakmwtivr.com^
@@ -23165,6 +23168,7 @@ browsershots.org#@#.advert_area
 ||dqxifbm.com^
 ||dr0.biz^
 ||dr22.biz^
+||dr5.biz^
 ||dr6.biz^
 ||dr7.biz^
 ||drabimprovement.com^
@@ -27958,6 +27962,7 @@ browsershots.org#@#.advert_area
 ||jacwkbauzs.com^
 ||jadcenter.com^
 ||jaded-spell.pro^
+||jads.cc^
 ||jads.co^
 ||jaggedshoebruised.com^
 ||jaggedunaccustomeddime.com^
@@ -28607,6 +28612,7 @@ browsershots.org#@#.advert_area
 ||kityour.com^
 ||kiwhopoardeg.net^
 ||kixestalsie.net^
+||kiyala.uno^
 ||kiynew.com^
 ||kizohilsoa.net^
 ||kjebrhygakkbehl.com^
@@ -30935,6 +30941,7 @@ browsershots.org#@#.advert_area
 ||nachodusking.com^
 ||nacontent.pro^
 ||nadajotum.com^
+||nadese.xyz^
 ||nadruphoordy.xyz^
 ||nads.io^
 ||naehqgcanrh.xyz^
@@ -33029,6 +33036,7 @@ browsershots.org#@#.advert_area
 ||persona3.tech^
 ||personalityhamlet.com^
 ||personantaeus.top^
+||personaserver.com^
 ||perspectiveunderstandingslammed.com^
 ||persuadecowardenviable.com^
 ||persuadepointed.com^
@@ -35868,6 +35876,9 @@ browsershots.org#@#.advert_area
 ||s-adzone.com^
 ||s0-greate.net^
 ||s0cool.net^
+||s17a.biz^
+||s18a.biz^
+||s19a.biz^
 ||s1cta.com^
 ||s1m4nohq.de^
 ||s1t2uuenhsfs.com^
@@ -38307,6 +38318,7 @@ browsershots.org#@#.advert_area
 ||thawpublicationplunged.com^
 ||thduyzmbtrb.com^
 ||thdwaterverya.info^
+||the-myscontactonlines.com^
 ||the-ozone-project.com^
 ||thead.cat^
 ||theadgateway.com^
@@ -39697,6 +39709,7 @@ browsershots.org#@#.advert_area
 ||uruftio.com^
 ||uruswan.com^
 ||urvgwij.com^
+||us01.biz^
 ||us4post.com^
 ||usaballs.fun^
 ||usainoad.net^
@@ -53090,7 +53103,6 @@ hindustantimes.com###affiliate-shop-now
 purplepainforums.com,snow-forecast.com###affiliates
 exportfromnigeria.info###affs
 slickdeals.net###afscontainer
-osdn.net###after-download-ad
 scmp.com###after-page-layout-container
 prepostseo.com###after_button_ad_desktop
 plagiarismchecker.co###afterbox
@@ -54447,7 +54459,6 @@ gadgets360.com##.__wdgt_rhs_kpc
 gadgets360.com##._ad
 makeitmeme.com##._adContainer_f810z_1
 timeout.com##._ad_1elek_1
-sitepoint.com##._ap_apex_ad-container
 vscode.one##._flamelab-ad
 tampafp.com##._ning_outer
 filerox.com##._ozxowqadvert
@@ -64348,6 +64359,8 @@ newduba.cn###jq_youxi
 ||lsjarh.top^
 ||duyhlct.icu^
 ||wqrv.cn^
+||dephriezm.com^
+||uu09cjylmzsym.top^
 ||yasorlbeu.com^
 ||jtdltu.top^
 ||xsti.cn^
