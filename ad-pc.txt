@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dgmV4yRtyDEhvDTO17O3Ag
+! Checksum: 5YvQ3/nWQ3RRKM3p475H3A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504021427
-! Last Modified: 2025年04月02日 14:27
+! Version: 202504022039
+! Last Modified: 2025年04月02日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14976,6 +14976,7 @@ _800x80_
 ##[data-testid="prism-ad-wrapper"]
 ##[data-type="ad-vertical"]
 ##[data-wpas-zoneid]
+##[href$="/sexdating.php"]
 ##[href="//sexcams.plus/"]
 ##[href="https://jdrucker.com/gold"] > img
 ##[href="https://masstortfinancing.com"] img
@@ -16085,6 +16086,7 @@ browsershots.org#@#.advert_area
 ||029519cbdc.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
+||039858f297.com^
 ||03b5f525af.com^
 ||04-f-bmf.com^
 ||044da016b3.com^
@@ -16618,6 +16620,7 @@ browsershots.org#@#.advert_area
 ||63voy9ciyi14.com^
 ||64580df84b.com^
 ||6570131a3f.com^
+||65a16dd098.com^
 ||65wenv5f.xyz^
 ||6657e4f5c2.com^
 ||666777888abc.com^
@@ -17884,6 +17887,7 @@ browsershots.org#@#.advert_area
 ||ajestigie.com^
 ||ajillionmax.com^
 ||ajjawcxpao.com^
+||ajjcpertu.com^
 ||ajjkmozrljer.top^
 ||ajkzd9h.com^
 ||ajoosheg.com^
@@ -31121,6 +31125,7 @@ browsershots.org#@#.advert_area
 ||neighborhood268.fun^
 ||neighrewarn.click^
 ||neitherpennylack.com^
+||neladyhe.com^
 ||nelhon.com^
 ||nellads.com^
 ||nellmeeten.com^
@@ -31823,6 +31828,7 @@ browsershots.org#@#.advert_area
 ||odpgponumrw.com^
 ||odqciqdazjuk.com^
 ||odvrjedubvedqs.com^
+||oebxwlmq.com^
 ||oedipalchuppah.shop^
 ||oehgk.com^
 ||oelwojattkd.xyz^
@@ -33866,6 +33872,7 @@ browsershots.org#@#.advert_area
 ||privilegest.com^
 ||prizefrenzy.top^
 ||prizegrantedrevision.com^
+||prizeking.pro^
 ||prizel.com^
 ||prksism.com^
 ||prmtracking3.com^
@@ -34114,6 +34121,7 @@ browsershots.org#@#.advert_area
 ||psubaghardo.net^
 ||psuftoum.com^
 ||psumainy.xyz^
+||psumpupsauket.com^
 ||psunseewhu.com^
 ||psuphuns.net^
 ||psurdoak.com^
@@ -34506,6 +34514,7 @@ browsershots.org#@#.advert_area
 ||qibqiwczoojw.com^
 ||qidmhohammat.com^
 ||qidnujocmf.com^
+||qijpoaplprskvo.com^
 ||qimnubohcapb.com^
 ||qingolor.com^
 ||qinvaris.com^
@@ -39439,6 +39448,7 @@ browsershots.org#@#.advert_area
 ||umwoibvsbnhrh.xyz^
 ||unacceptableperfection.com^
 ||unaces.com^
+||unactkiosk.com^
 ||unamplespalax.com^
 ||unanimousbrashtrauma.com^
 ||unarbokor.com^
@@ -39907,6 +39917,7 @@ browsershots.org#@#.advert_area
 ||vatcertaininject.com^
 ||vaticmons.digital^
 ||vaufekonaub.net^
+||vauglistesou.net^
 ||vaugroar.com^
 ||vaukoloon.net^
 ||vauloops.net^
@@ -40001,6 +40012,7 @@ browsershots.org#@#.advert_area
 ||venulaeriggite.com^
 ||venusfritter.com^
 ||verbdruggedcommiserate.com^
+||verbsponsor.com^
 ||verbwarilyclotted.com^
 ||verchokberain.top^
 ||verda-mun.com^
@@ -40207,6 +40219,7 @@ browsershots.org#@#.advert_area
 ||viurl.fun^
 ||vivaxhouvari.shop^
 ||viwjsp.info^
+||vizierspavan.com^
 ||vizoalygrenn.com^
 ||vizoredcheerly.com^
 ||vjdciu.com^
@@ -42001,6 +42014,7 @@ browsershots.org#@#.advert_area
 ||zyblzreyykzme.top^
 ||zybrdr.com^
 ||zyf03k.xyz^
+||zygoticroud.shop^
 ||zyiis.net^
 ||zykkjyaokkjlo.top^
 ||zylytavo.com^
@@ -47185,6 +47199,7 @@ browsershots.org#@#.advert_area
 ||psotudev.com^$popup
 ||pssy.xyz^$popup
 ||psubaghardo.net^$popup
+||psumpupsauket.com^$popup
 ||ptailadsol.net^$popup
 ||ptaupsom.com^$popup
 ||ptavutchain.com^$popup
@@ -64369,6 +64384,8 @@ newduba.cn###jq_youxi
 ||dhorzivnn.com^
 ||nrlupu.top^
 ||biabfqq.icu^
+||chitshuqh.com^
+||oieo.cn^
 ||caxhuuzto.com^
 ||so04010koaq.com^
 ||lsjarh.top^
@@ -72306,6 +72323,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||adasset.flixfiend.top^
 ||2345.com/guess/v1/adList
 ||ttdm.me/upload/files/sss/
+||chinaz.com/statics/images/tuan
 !------------------------Specific element hiding rules------------------------!
 oibdgtxw.com#?#.xqbj-list-rows:-abp-has(img[z-image-loader-url*=".gif"])
 ttdm.me##.dds_w
@@ -81044,7 +81062,7 @@ fqsousou.com,kengso.com#@#.user-share
 /core-tracking.js
 /coretracking.php?
 /count.cfm?
-/count.do?
+/count.do?$domain=~its.busan.go.kr
 /count.exe?
 /count.fcg?
 /count.fcgi?
@@ -88088,7 +88106,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clevertap-prod.com^$third-party
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
-||click4assistance.co.uk/PageHit/
+||click4assistance.co.uk/HeartBeat
 ||clickdimensions.com/ts.js
 ||clickiocdn.com/clickiotag_log/
 ||clickiocdn.com/consent/log/
