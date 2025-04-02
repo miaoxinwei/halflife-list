@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: a7+QUpR4VD+FZaX/PNo3uA
+! Checksum: e6A13lRW9tynbUQAdtFSIQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202504020936
-! Last Modified: 2025年04月02日 09:36
+! Version: 202504021427
+! Last Modified: 2025年04月02日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -84224,7 +84224,6 @@ omni.soundestlink.com$image
 ||clearbitjs.com^$third-party
 ||clevi.com^$third-party
 ||click-url.com^$third-party
-||click4assistance.co.uk^$third-party
 ||clickable.net^$third-party
 ||clickaider.com^$third-party
 ||clickalyzer.com^$third-party
@@ -87977,6 +87976,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clevertap-prod.com^$third-party
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
+||click4assistance.co.uk/PageHit/
 ||clickdimensions.com/ts.js
 ||clickiocdn.com/clickiotag_log/
 ||clickiocdn.com/consent/log/
