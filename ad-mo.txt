@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mG8TZH/5tFhbTNU3M7JzSQ
+! Checksum: TZE4bENVSyaorrlVwo339Q
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202504030227
-! Last Modified: 2025年04月03日 02:27
+! Version: 202504030935
+! Last Modified: 2025年04月03日 09:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -15016,6 +15016,7 @@ _800x80_
 ##a[href^="https://claring-loccelkin.com/"]
 ##a[href^="https://click.candyoffers.com/"]
 ##a[href^="https://click.dtiserv2.com/"]
+##a[href^="https://click.ggpickaff.com/"]
 ##a[href^="https://click.hoolig.app/"]
 ##a[href^="https://click.linksynergy.com/fs-bin/"] > img
 ##a[href^="https://clickadilla.com/"]
@@ -21777,6 +21778,7 @@ browsershots.org#@#.advert_area
 ||cpmtree.com^
 ||cpng.lol^
 ||cpngiubbcnq.love^
+||cppopmfbsoohj.top^
 ||cpqgyga.com^
 ||cpuim.com^
 ||cpvadvertise.com^
@@ -30857,6 +30859,7 @@ browsershots.org#@#.advert_area
 ||mythpointsatheism.com^
 ||mytiris.com^
 ||myurphoftafzx.space^
+||myuyxesrktrmz.life^
 ||mywondertrip.com^
 ||mzicucalbw.com^
 ||mzidpylu.com^
@@ -31506,6 +31509,7 @@ browsershots.org#@#.advert_area
 ||nubseech.com^
 ||nucleinkafirs.top^
 ||nucleo.online^
+||nucormaxtnil.com^
 ||nudapp.com^
 ||nudebenzoyl.digital^
 ||nudesgirlsx.com^
@@ -31982,6 +31986,7 @@ browsershots.org#@#.advert_area
 ||omzal.com^
 ||omzoroarkan.com^
 ||omzylhvhwp.com^
+||on1nzbp3.com^
 ||onad.eu^
 ||onads.com^
 ||onameketathar.com^
@@ -33203,6 +33208,7 @@ browsershots.org#@#.advert_area
 ||pincersnap.com^
 ||pineappleconsideringpreference.com^
 ||ping-traffic.info^
+||pingergauss.com^
 ||pinguinmildews.shop^
 ||pinionsmamry.top^
 ||pinitoloutbeam.shop^
@@ -41824,6 +41830,7 @@ browsershots.org#@#.advert_area
 ||zipinaccurateoffering.com^
 ||zipitnow.cfd^
 ||zippercontinual.com^
+||zipperszebecs.com^
 ||zirdough.net^
 ||zireemilsoude.net^
 ||zirkiterocklay.com^
@@ -46816,6 +46823,7 @@ browsershots.org#@#.advert_area
 ||omgt5.com^$popup
 ||omklefkior.com^$popup
 ||omzal.com^$popup
+||on1nzbp3.com^$popup
 ||onad.eu^$popup
 ||onatallcolumn.com^$popup
 ||oncesets.com^$popup
@@ -64335,6 +64343,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||dreiquksz.com^
+||so04030koaq.com^
+||pqnonh.top^
 ||dhorzivnn.com^
 ||nrlupu.top^
 ||biabfqq.icu^
@@ -79932,6 +79943,7 @@ _rony.js$script,third-party
 .012*sop.xyz/$script,third-party
 .apk0*oo.xyz/$script,third-party
 .okpp0*.xyz/$script,third-party
+.so0*koaq.com/$script,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
