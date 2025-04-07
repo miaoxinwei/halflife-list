@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v9fDmryqp4F6NJ2lcAhGJA
+! Checksum: wYfPk9SPwv3//r5SJ1f2RQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504072039
-! Last Modified: 2025年04月07日 20:39
+! Version: 202504080226
+! Last Modified: 2025年04月08日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1892,6 +1892,7 @@ newduba.cn###jq_youxi
 ||mevedyru.com^
 ||ifej.cn^
 ||ttdgbh.top^
+||einzeaxop.com^
 ||stigzeal.com^
 ||lfflvh.icu^
 ||rubmdu.top^
@@ -9660,7 +9661,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||178.com/misc/self/*_ads
 ||xlmp4.cc/js/wcount.js
 .sinaimg.cn/large/008qC0LFgy1hyp0pc9jz3g30jg01otpp.
-||kmeiju.cc/kangeqiu.
 ||dzbhdm.com/wp-content/uploads/2021/10/c278390aead8a2f7caea15eb42b36314.
 ||i8tq.com/adImg/
 ||csgola.com/Public/img/lala/1.jpg
@@ -9669,8 +9669,14 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||ttdm.me/upload/files/sss/
 ||chinaz.com/statics/images/tuan
 ||ad.parkvv.com^
+||adasset.ethersaga.online^
+||5dm.link/html/20240*.gif
 ||bing.com/AdsFetch?
+||sojson.com/ui/images/upyun
 !------------------------Specific element hiding rules------------------------!
+sojson.com##.a-d-img
+hcbbs.com##.pcbanner
+yalishi.com##.ad
 uiadmin.net##.jump-linker
 6parknews.com##div[class^="InContent_"]
 zzbaike.com#?#.ceo-margin-bottom:-abp-has(img[width="340"])
@@ -9725,7 +9731,7 @@ appinn.com##a[href*=".houdeyun.cn"]
 fitacg.com##a[href*="ifift.com"]
 cnys.tv###player_pause
 twkan.com##.txtcenter
-element-plus.org##div[class*="-panel-"]
+element-plus.org##.doc-content-side
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 sehuatang.net##DIV[class^="show-text"]
 ghxi.com##.widget_html_ad + div[style]
@@ -14011,7 +14017,7 @@ ikjzd.com##.wv-right-content > .imgTop-right
 taoguba.com.cn##.wz_ad
 55188.com##.wz_text
 eyy5.cn##.wzgg
-tmioe.com##.hfggimg
+tmioe.com##.ekxhn
 tmioe.com##a[href*=".zps.im"]
 sohu.com##.x-adv-band-panel
 sohu.com##.x-adv-flogo-panel
@@ -70975,6 +70981,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||public.fbot.me/events/$domain=casper.com
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
 @@||qm.redbullracing.com/gtm.js$~third-party
+@@||qm.wrc.com/gtm.js$~third-party
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||reactandshare.com^$domain=maanmittauslaitos.fi
 @@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party
