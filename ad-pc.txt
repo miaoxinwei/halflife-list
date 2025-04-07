@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dm8PltRhiiRTOQdOUOS+ww
+! Checksum: CIUZ1lvHiQJzxmEWi1VhWg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504070938
-! Last Modified: 2025年04月07日 09:38
+! Version: 202504071428
+! Last Modified: 2025年04月07日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15424,6 +15424,8 @@ _800x80_
 ##.gnt_x
 ##.gnt_x__lbl
 ##.gnt_xmst
+##.mntl-block.article__broad-video
+##.mntl-jwplayer-broad.article__broad-video--jw
 ##.mntl-jwplayer-broad.article__broad-video-jw
 ##.row-list.banniere
 ##.row-list.native
@@ -60024,6 +60026,7 @@ cargurus.com##div[data-cg-ft="car-blade"]:has(div[data-cg-ft="sponsored-listing-
 abcnews.go.com##div[data-container="band"]:has(> div > div[data-box-type="fitt-adbox-thinbannerhome"])
 rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
 cruisecritic.co.uk##div[data-sentry-component="CruiseCard"]:has(a[rel="sponsored"])
+mail.aol.com##div[data-test-id="virtual-list"] > ul[role="list"][aria-label] > li[style]:has(a[href^="https://api.taboola.com/"][href*="/yahoo-aol-mail/"])
 priceline.com##div[data-testid="HTL_NEW_LISTING_CARD_RESP"]:has(a[aria-label*=" Promoted"])
 twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
