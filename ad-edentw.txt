@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rZ3Xl/jNcfp2BtA/jVr20w
+! Checksum: 6FC9HVR/9q9TkvdkPW4vyw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202504050226
-! Last Modified: 2025年04月05日 02:26
+! Version: 202504072039
+! Last Modified: 2025年04月07日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1336,7 +1336,7 @@ cdiscount.com#$#hide-if-contains /Sponsorisé/ 'div[class="o-block"]' 'div[class
 ! PP
 cdiscount.com#$#hide-if-matches-xpath './/article[contains(@class,"sponsored")]//ancestor::div[@id][@class="c-fp__cell--side"]'
 ! PL
-cdiscount.com#$#hide-if-matches-xpath './/input[contains(@name,"Sponsored")]/ancestor::*[(self::article[contains(@class,"c-productCard")] and parent::li) or (self::form and ancestor::div[contains(@class,"prdtBlocInline")])]/ancestor::li[1]'
+cdiscount.com#$#hide-if-matches-xpath './/input[contains(@name,"Sponsored")]/ancestor::*[(self::article[contains(@class,"c-productCard")] and parent::li) or (self::form and ancestor::div[contains(@class,"prdtBlocInline")])]/ancestor::li[1]'; hide-if-canvas-contains Sponsorisé; hide-if-contains-and-matches-style '' 'li , div.l-fp-row' 'li custom-mentions , custom-mentions ^^sh^^ canvas' /./ 'background-image: repeating';
 ! MISC
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
@@ -1730,7 +1730,7 @@ cosplay-porn.one#$#abort-on-property-read biads
 mag.relax.by#$#abort-on-property-read Object.prototype.branding_url
 conversion.im#$#abort-current-inline-script $ mainContainer
 freescreens.ru,imgbase.ru,imgclick.ru,payforpic.ru,picclick.ru,picforall.ru#$#abort-current-inline-script JSON.parse
-tapochek.net#$#abort-current-inline-script XMLHttpRequest
+tapochek.net#$#prevent-listener click 'String.fromCharCode'
 rutor.org#$#abort-on-property-read Light.Popup
 bez-smenki.ru#$#abort-current-inline-script $ showPopupextra
 partnerkin.com#$#override-property-read Object.prototype.autoPopups undefined
@@ -1890,7 +1890,7 @@ aluminiuminsider.com#$#abort-on-property-read adsRedirectPopups
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad;abort-on-property-read pushOnPageGala
 javnong.cc#$#abort-on-property-read Math.round
-viet69.gl,truyengihotnay.com,dualeotruyenbotx.com,yurineko.my,xemsex.cam,phimsexhay669.pro,cliphot69.homes,doctruyen3qui5.pro,ihentai.men,animehay.li,hentaivc.com,streamvl.top,www.buomtv.xyz,truyenvn.ac,javtiful.com,quatvn.love,tenmientruyengi.net,top1phimsex.com,phim18hd.cam,jav.sexviet88.link,demo.14412882.com,sextv18.pro,ungtycomicsvip.org,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.love#$#abort-current-inline-script WebAssembly instantiate
+viet69.gl,truyengihotnay.com,dualeotruyenbotx.com,yurineko.my,xemsex.tube,phimsexhay669.pro,cliphot69.homes,doctruyen3qui5.pro,ihentai.men,animehay.li,hentaivc.com,streamvl.top,www.buomtv.xyz,truyenvn.ac,javtiful.com,quatvn.love,tenmientruyengi.net,top1phimsex.com,phim18hd.cam,jav.sexviet88.link,demo.14412882.com,sextv18.pro,ungtycomicsvip.org,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.love#$#abort-current-inline-script WebAssembly instantiate
 phimtuoitho.site#$#abort-current-inline-script document.documentElement break;case
 www.phimdinhcao.online,www.motchill72.com,www.motchill72.com,xnhau.fm,teamlanhlung3.shop#$#abort-on-property-read localStorage
 phimgichill.net#$#abort-current-inline-script jQuery popurl
