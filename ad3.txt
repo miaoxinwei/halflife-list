@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VqQa2SYqV9vEI9CButVVBw
+! Checksum: soDhgMin2XbKicTgP4yphA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504110224
-! Last Modified: 2025年04月11日 02:24
+! Version: 202504110936
+! Last Modified: 2025年04月11日 09:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||ruvgbv.icu^
+||chugveasoy.com^
+||sfile.top^
+||zqifmyt.icu^
+||xwtylm.top^
+||jmif.cn^
 ||tezlpl.icu^
 ||duuddots.com^
 ||mjik.cn^
@@ -21682,6 +21688,7 @@ m.babytree.com##script + a[class]
 /opinionlab.js
 /optiextension.dll?$script
 /optimizelyjs/*
+/orichipixel.min.js
 /ot_e404.gif?
 /OtAutoBlock.js
 /ouibounce.min.js
@@ -29600,6 +29607,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
 ||tracker.nocodelytics.com^
+||tracker.personizely.net^
 ||tracker.prod.ams3.k8s.hyperia.sk^
 ||tracker.services.vaix.ai^
 ||tracker.smartframe.io^
@@ -31219,6 +31227,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
+||track.livasoft.com.tr^
 ||traffic.wdc.center^
 ||web.tv/analytics/
 ||informers.sinoptik.ua^
@@ -36211,7 +36220,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||acc.marketing.adobedxcusteng.com^
 ||access.hikaritv.net^
 ||acemetrics.aaa.com^
-||acs.woolworths.com.au^
 ||activity.newlook.com^
 ||adb-analytics.live-now.com^
 ||adb-secured.kijk.nl^
