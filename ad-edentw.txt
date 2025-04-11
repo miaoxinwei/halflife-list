@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QaXLdcamLCi/YGtVdUUSXw
+! Checksum: Hg6uiZ2jzUn1aDXHt4px3w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202504112038
-! Last Modified: 2025年04月11日 20:38
+! Version: 202504120226
+! Last Modified: 2025年04月12日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -563,11 +563,12 @@ woolworths.com.au#$#hide-if-contains-visible-text /\s*Promoted\s*/ 'div>wc-produ
 ||html-load.com^$domain=convertcase.net|manta.com|wfmz.com|golf-live.at|eurointegration.com.ua
 convertcase.net,manta.com,wfmz.com,golf-live.at,eurointegration.com.ua#$#abort-current-inline-script Symbol error-report.com
 winfuture.de#$#override-property-read Node.prototype.appendChild noopFunc; override-property-read Blob noopFunc;
+sourceforge.net#$#override-property-read Object.getOwnPropertyDescriptor noopFunc; override-property-read Blob noopFunc
 ! RM-42
 tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[id^="list-content"]>li 'div>div>span'
 ! RM-114
 ! sp
-target.com#$#hide-if-matches-xpath './/p[text()="Sponsored"]/parent::div[@class]/ancestor::div[contains(@data-test,"ProductCardWrapper")][1]'
+target.com#$#hide-if-contains-visible-text /Sponsored/ 'div[data-test*="ProductCardWrapper"]' 'a[aria-labelledby][data-test="product-body"] p[data-test="sponsoredText"]'
 ! #RM-75
 ! sp
 bol.com#?#ul[class][data-test="products"] li:-abp-has(span:-abp-contains(/Gesponsord|Sponsorisé/))
