@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XBpCu+oZl6Qy+d2pQ7mMyg
+! Checksum: EqHuuQWKiceFdR3lxRcJ1Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504130224
-! Last Modified: 2025年04月13日 02:24
+! Version: 202504131055
+! Last Modified: 2025年04月13日 10:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,8 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||wvcnmte.top^
+||tvcnmti.top^
 ||showkkkp.top^
 ||pxrbnf.icu^
 ||irkp.cn^
@@ -1898,6 +1900,10 @@ newduba.cn###jq_youxi
 ||okeaxgugq.com^
 ||kvqp.cn^
 ||mvcnmtx.top^
+||ifethbrzb.com^
+||nnntxx.icu^
+||okvt.cn^
+||bubmhm.top^
 ||ruvgbv.icu^
 ||chugveasoy.com^
 ||sfile.top^
@@ -20185,6 +20191,7 @@ m.babytree.com##script + a[class]
 .jp/static/js/track.js
 .net/l.gif?
 .no/app/aas/a
+.outbound-links.pageview-props.revenue.tagged-events.js
 .pageview-props.js
 .php?action=browse&
 .php?action_name=
@@ -27165,6 +27172,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||airlogs.ru^$third-party
 ||announcement.ru^$third-party
 ||apkonline.ru^$third-party
+||apptracer.ru^$third-party
 ||audsp.com^$third-party
 ||avsplow.com^$third-party
 ||ban.su^$third-party
@@ -27642,6 +27650,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appspot.com/stats?
 ||appspot.com/take?
 ||appspot.com/track-analytics-event
+||aramuz.net/frontapi/*/analyticsEvent?
 ||arc.pub/clavis/training/events
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
@@ -27741,6 +27750,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||betano.de^*?btag=$subdocument,third-party
 ||bhphotovideo.com/imp/
+||bi-metrics.aramuz.net^
 ||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||birdsend.co/assets/static/js/pixel/
@@ -30364,6 +30374,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trck.bdi-services.de^
 ||trck.spoteffects.net^
 ||trecker.aklamio.com^
+||tw.reppublika.com^
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||united-infos.net/event?
 ||veeseo.com^*/url.gif?
