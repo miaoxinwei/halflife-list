@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hYpL5JQF6su9Ga/uxaNJbQ
+! Checksum: 290oXU4Y71OSntmpZofk4g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504142039
-! Last Modified: 2025年04月14日 20:39
+! Version: 202504150227
+! Last Modified: 2025年04月15日 02:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -23382,6 +23382,7 @@ browsershots.org#@#.advert_area
 ||dsb68d.com^
 ||dseveralmefarketi.com^
 ||dsfvmx.click^
+||dsldtohkgc.com^
 ||dsnextgen.com^
 ||dsp.wtf^
 ||dsp5stero.com^
@@ -26436,6 +26437,7 @@ browsershots.org#@#.advert_area
 ||gxdzfyg.com^
 ||gxeebcponhv.com^
 ||gxfh59u4.xyz^
+||gxiacapeptyos.club^
 ||gxnfz.com^
 ||gxordgtvjr.com^
 ||gxpomhvalxwuh.com^
@@ -28332,6 +28334,7 @@ browsershots.org#@#.advert_area
 ||jobeyeball.com^
 ||jobfilletfortitude.com^
 ||jobfukectivetr.com^
+||jobmkewkzwrkb.top^
 ||jobsyndicate.com^
 ||jocauzee.net^
 ||jocmiglenedsupi.com^
@@ -28803,6 +28806,7 @@ browsershots.org#@#.advert_area
 ||kmtendationfore.org^
 ||kmupo.one^
 ||kmyunderthf.info^
+||knackedphoned.com^
 ||knbobfcgrbm.xyz^
 ||kncecafvdeu.info^
 ||kndaspiratiotyuk.com^
@@ -28938,6 +28942,7 @@ browsershots.org#@#.advert_area
 ||kubicadza.xyz^
 ||kubicserves.icu^
 ||kueezrtb.com^
+||kufturtewaist.com^
 ||kugmisawqo.com^
 ||kuhxhoanlf.com^
 ||kujbxpbphyca.com^
@@ -30411,6 +30416,7 @@ browsershots.org#@#.advert_area
 ||messenger-notify.xyz^
 ||messengeridentifiers.com^
 ||messengerreinsomething.com^
+||messrsmaiidae.top^
 ||messsomehow.com^
 ||messyadvance.com^
 ||mestreqa.com^
@@ -38537,6 +38543,7 @@ browsershots.org#@#.advert_area
 ||thickshortwage.com^
 ||thickspaghetti.com^
 ||thickstatements.com^
+||thidraimistah.com^
 ||thiefperpetrate.com^
 ||thiftossebi.net^
 ||thighleopard.com^
@@ -64056,6 +64063,9 @@ newduba.cn###jq_youxi
 ||ztdbfz.top^
 ||ovcnmtk.top^
 ||qvcnmty.top^
+||vrevvaids.com^
+||lvcnmtl.top^
+||ixlv.cn^
 ||wvcnmte.top^
 ||tvcnmti.top^
 ||uvcnmtt.top^
@@ -79579,6 +79589,7 @@ _vwisbjs?
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||djdedu.net/static/*.gif
+/static/2biqu/twgdh.js
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $csp=script-src 'self' * 'unsafe-inline',domain=1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 !#Novels
