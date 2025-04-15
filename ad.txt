@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4Az4rUxcxAk1A0C54vExlg
+! Checksum: X2acOs6YHlC9Lt73BFmOpA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202504151428
-! Last Modified: 2025年04月15日 14:28
+! Version: 202504152039
+! Last Modified: 2025年04月15日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2340,6 +2340,7 @@ newduba.cn###jq_youxi
 ||pekr.cn^
 ||bhdnti.top^
 ||bvcnmtv.top^
+||iiyurraeoh.com^
 ||ergiekszra.com^
 ||txvq.cn^
 ||tqjojh.icu^
@@ -6339,7 +6340,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
 ||6vhao.tv/d/
-||6yso.com/wp-content/uploads/*-300-x-
 ||70.86.24.120:8060/
 ||70822.com/agfile/
 ||7160.com/js/tiaozhuanquanju.js
@@ -10187,6 +10187,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 !------------------------Specific element hiding rules------------------------!
 sojson.com##.a-d-img
+sixyin.com##.widget_custom_html
 baidu.com##a[class*="fengchaoContainer"]
 hcbbs.com##.pcbanner
 yalishi.com##.ad
