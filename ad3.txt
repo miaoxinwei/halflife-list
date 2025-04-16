@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: n2y+kpV6B7Yf8oNYQAvkJQ
+! Checksum: s6MNCPi5srBAIU8V3qmKew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504160939
-! Last Modified: 2025年04月16日 09:39
+! Version: 202504161428
+! Last Modified: 2025年04月16日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1894,6 +1894,10 @@ newduba.cn###jq_youxi
 ||wucnmte.top^
 ||dgjhrv.top^
 ||nl2cq0jr.xyz^
+||cwcnmtf.top^
+||qucnmty.top^
+||hwcnmtu.top^
+||throxul.com^
 ||thricrulnf.com^
 ||rtfgvz.icu^
 ||pekr.cn^
@@ -20269,6 +20273,7 @@ m.babytree.com##script + a[class]
 /__utm.gif
 /__utm.js
 /__wsm.gif
+/_assets/oply/public/*
 /_blazor/*$ping
 /_ga?send&
 /_ga?sponsor_pixel=
@@ -27689,6 +27694,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
 ||assets.apollo.io/micro/website-tracker/
+||assets.hearstapps.com/commerce/release/affiliate-bundle.
 ||assets.moneymade.io/js/fp.min.js
 ||assets.yumpu.com/release/*/tracking.js
 ||assistant.watson.appdomain.cloud/analytics/
@@ -28954,6 +28960,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||openpanel.dev/op1.js
 ||openxcdn.net^$third-party
 ||opinary.com/v1/events
+||oply.hearstapps.com^
 ||optimeeze.appspot.com^
 ||optmn.cloud/hb/
 ||ora.tv/j/ora_evttracking.js
@@ -29121,6 +29128,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||public.fbot.me/track/
 ||publicbroadcasting.net/analytics/
+||pulse.ecmapps.com^
 ||pulse.shopflo.com^
 ||purevideo.com^*/pvshim.gif?
 ||pushly.com/pushly-event-tracker
