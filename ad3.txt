@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O1QlmxefI7qFe99IgigqtQ
+! Checksum: vkHyFu6h7vpM6hdA6a4fUQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504180226
-! Last Modified: 2025年04月18日 02:26
+! Version: 202504180936
+! Last Modified: 2025年04月18日 09:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||afvrolvial.com^
+||jcfbgdbd.top^
+||wigk.cn^
+||henqnv.top^
 ||ewdk.cn^
 ||fflbpi.top^
 ||hbeafcac.top^
@@ -17457,6 +17461,7 @@ _vwisbjs?
 .cc/js/dj1*.js
 .cc/js/dj2*.js
 /js/pfad*.js
+wss://*.top/|
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $csp=script-src 'self' * 'unsafe-inline',domain=1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 !#Novels
@@ -23496,6 +23501,7 @@ omni.soundestlink.com$image
 ||gw-dv.vip^
 ||hbiq.net^
 ||hdmtools.com^
+||heap-api.com^
 ||herbgreencolumn.com^
 ||hirsung.de^
 ||hs-analytics.net^
@@ -23669,6 +23675,7 @@ omni.soundestlink.com$image
 ||test.vast^
 ||testingmetriksbre.ru^
 ||thefontzone.com^
+||tjk-njk.com^
 ||tkrconnector.com^
 ||tncid.app^
 ||track-selectmedia.com^
@@ -25880,6 +25887,7 @@ omni.soundestlink.com$image
 ||traceworks.com^$third-party
 ||track-re01.com^$third-party
 ||track-web.net^$third-party
+||trackadshub.com^$third-party
 ||trackalyzer.com^$third-party
 ||trackcb.com^$third-party
 ||trackcmp.net^$third-party
@@ -28147,6 +28155,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
+||data.replo.app^
 ||data.tm-awx.com/smile-web-v2/
 ||data.tm-awx.com/smile-web.min.js
 ||data.wiris.cloud/telemetry/
@@ -32823,6 +32832,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tc.geniusmonkey.com^
 ||tccd.douglas.
 ||td.airdroid.com^
+||tealium-proxy.libertex.org^
 ||telegraph.prd.api.max.com^
 ||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
@@ -33087,6 +33097,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
 ||xnxx.com/picserror/
+||xnxx.tv/picserror/
 ||xp.apple.com/config/*/report/
 ||xp.apple.com/report/
 ||xvideos.com/picserror/
@@ -33182,6 +33193,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 /^https?:\/\/www\.kroger\.com\/content\/{20,}/$script,xmlhttprequest,domain=kroger.com
 ||127.0.0.1^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|kleinanzeigen.de|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
 ||cfa.fidelity.com^
+||check3.tiaa.org^
 ||citi.com^*/fp.js
 ||citibank.com.ph/JSO/js/fp.js
 ||citibank.com.ph/tmx/js/
