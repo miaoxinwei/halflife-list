@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PwTqbU/5ijMLhdAJGljgrQ
+! Checksum: w3kGwxcsWmHomZFGQH6+1A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504181427
-! Last Modified: 2025年04月18日 14:27
+! Version: 202504182037
+! Last Modified: 2025年04月18日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -14299,11 +14299,6 @@ _800x80_
 ##.tcf-ad
 ##.td-a-ad
 ##.td-a-rec
-##.td-a-rec-id-custom_ad_1
-##.td-a-rec-id-custom_ad_2
-##.td-a-rec-id-custom_ad_3
-##.td-a-rec-id-custom_ad_4
-##.td-a-rec-id-custom_ad_5
 ##.td-ad
 ##.td-ad-m
 ##.td-ad-p
@@ -25500,6 +25495,7 @@ browsershots.org#@#.advert_area
 ||ganismpro.com^
 ||gannett.gcion.com^
 ||gantotireofhisl.com^
+||gaoledisatide.top^
 ||gapchanging.com^
 ||gapersinglesa.com^
 ||gapgrewarea.com^
@@ -25794,6 +25790,7 @@ browsershots.org#@#.advert_area
 ||gizmispfoj.com^
 ||gizokraijaw.net^
 ||gjigle.com^
+||gjjaefsketwgi.tech^
 ||gjnqoutbxohdb.site^
 ||gjonfartyb.com^
 ||gjpalpvgek.com^
@@ -26426,6 +26423,7 @@ browsershots.org#@#.advert_area
 ||guvnumnm.com^
 ||guvwolr.com^
 ||guxidrookr.com^
+||guxoonauftautch.net^
 ||guyerlaton.top^
 ||guypane.com^
 ||guzdhs26.xyz^
@@ -29981,6 +29979,7 @@ browsershots.org#@#.advert_area
 ||machmayhavedesc.org^
 ||machogodynamis.com^
 ||macro.adnami.io^
+||maculesrevisit.com^
 ||madadsmedia.com^
 ||madbridalmomentum.com^
 ||madcpms.com^
@@ -31749,6 +31748,7 @@ browsershots.org#@#.advert_area
 ||ntrftrksec.com^
 ||ntshp.space^
 ||ntsiwoulukdlik.com^
+||ntsnaeutglamx.rocks^
 ||ntswithde.autos^
 ||ntuplay.xyz^
 ||ntuulavmbjdgo.love^
@@ -33975,6 +33975,7 @@ browsershots.org#@#.advert_area
 ||poucooptee.net^
 ||poudrinnamaste.com^
 ||poufaini.com^
+||pouffstoast.shop^
 ||pounceintention.com^
 ||poundswarden.com^
 ||pounti.com^
@@ -34780,6 +34781,7 @@ browsershots.org#@#.advert_area
 ||qiaoxz.xyz^
 ||qibkkioqqw.com^
 ||qibqiwczoojw.com^
+||qibrhyfizc.com^
 ||qidmhohammat.com^
 ||qidnujocmf.com^
 ||qijpoaplprskvo.com^
@@ -38822,6 +38824,7 @@ browsershots.org#@#.advert_area
 ||tirepoliticsspeedometer.com^
 ||tiresomemarkstwelve.com^
 ||tiresomereluctantlydistinctly.com^
+||tissocadut.com^
 ||tissualfrosted.top^
 ||tissueinstitution.com^
 ||titanads1.com^
@@ -41404,6 +41407,7 @@ browsershots.org#@#.advert_area
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
+||wylmzwklkljwr.top^
 ||wylmzwklklyaz.top^
 ||wylmzwklklywm.top^
 ||wymymep.com^
@@ -55603,7 +55607,9 @@ tiermaker.com##.desktop-sticky
 buzzfeed.com,buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
 hanime.tv##.desktop.htvad
 randomarchive.com##.desktop[style="text-align:center"]
+yeggi.com##.desktop_content_ad
 australiangolfdigest.com.au##.desktop_header
+yeggi.com##.desktop_header_ad
 inquirer.net##.desktop_smdc-FT-survey
 cyclingstage.com,news18.com,techforbrains.com##.desktopad
 news18.com##.desktopadh
@@ -57807,8 +57813,6 @@ igg-games.com##.taxonomy-description
 bookriot.com##.tbr-promo
 tennis.com##.tc-video-player-iframe
 ghpage.com,schengen.news##.td-a-ad
-zycrypto.com##.td-a-rec-id-content_bottom
-zycrypto.com##.td-a-rec-id-custom_ad_2
 thediplomat.com##.td-ad-container--labeled
 unlockboot.com##.td-ads-home
 techgenyz.com##.td-adspot-title
@@ -64213,6 +64217,7 @@ newduba.cn###jq_youxi
 ||henqnv.top^
 ||lucnmtl.top^
 ||jwcnmta.top^
+||hkralgriks.com^
 ||ewdk.cn^
 ||fflbpi.top^
 ||hbeafcac.top^
@@ -85572,6 +85577,7 @@ omni.soundestlink.com$image
 ||sendtraffic.com^$third-party
 ||sensorsdata.cn^$third-party
 ||sentinelbi.com^$third-party
+||sentinelpro.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry-cdn.top^$third-party
 ||sentry.io^$third-party
