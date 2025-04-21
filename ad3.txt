@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bbMqOuHaDPD1ps2g0Cw5wQ
+! Checksum: AknT1mZE1Wse60kE6NGwFg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504212038
-! Last Modified: 2025年04月21日 20:38
+! Version: 202504220226
+! Last Modified: 2025年04月22日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,9 @@ newduba.cn###jq_youxi
 ||jibtdn.top^
 ||kucnwtd.top^
 ||ewcnmtw.top^
+||sucnwtb.top^
+||vnwu.cn^
+||faamhel.com^
 ||nbragzui.com^
 ||bvzc.cn^
 ||hjvzfa.top^
@@ -9796,6 +9799,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||55kp.app/aini.
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||douyin.com/aweme/v1/web/solution/resource/list/*_banner&
+||aizhan.com/images/img/apicn.
 !------------------------Specific element hiding rules------------------------!
 sojson.com##.a-d-img
 sixyin.com##.widget_custom_html
@@ -11986,7 +11990,6 @@ anywlan.com##.bscekvofc_o
 qqxiazai.com##.bt_abtn2
 bt.cn,lotour.com##.btad
 163.com##.btm-ad
-aizhan.com##.btn
 ifenpaidy.com##.btn-copy + .btn
 xitongzhijia.net##.btn-dl_swift
 firefox.com.cn,firefoxchina.cn##.btn-email-show + p
@@ -23128,6 +23131,7 @@ _WebVitalsReporter_
 .flipboard.com/usage?
 .getblueshift.com/q/
 .getsendmail.com/p/$image
+.gif?mpe=*&mpn=
 .gif?stat=open
 .goodwell18.com/track/
 .google-analytics.com/
@@ -30939,6 +30943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clipkit.co/clipkit_assets/beacon-
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
+||cnt.mail.netbk.co.jp^$image
 ||codemarketing.cloud/rest/
 ||collector.t-idr.com^
 ||cookie.sync.usonar.jp^
@@ -69722,6 +69727,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||api.tacotax.fr/v2/amplitude_trackers
 ||at.pagesjaunes.fr^
 ||batiactu.com/cap_
+||bellesdemeures.com/Content/dist/js/libs/thor.js
 ||bmly.impots.gouv.fr^
 ||boingtv.fr/track_view
 ||cdtm.cdiscount.com^
