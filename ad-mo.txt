@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nsXFsr9b+oyBhTHBF5RhUw
+! Checksum: i53YlCWV8HqA33E4S9nBYQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202504220938
-! Last Modified: 2025年04月22日 09:38
+! Version: 202504221428
+! Last Modified: 2025年04月22日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -1112,6 +1112,8 @@ _reklama_$domain=~youtube.com
 ||cacheserve.*/promodisplay/
 ||cacheserve.*/promodisplay?
 ||online.*/promoredirect?key=
+/render-ad.php?ad_id=
+/render-sidebar-ad.php?ad_id=
 ?bd=ppd&r=$document
 /ad-shield/e/*$script,third-party
 ://www.*.xyz/content/*/-1/$script,subdocument,third-party,xmlhttprequest
@@ -51941,8 +51943,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||thedailysheeple.com/images/banners/
 ||thedailysheeple.com/wp-content/plugins/tds-ads-plugin/assets/js/campaign.js
 ||thefinancialexpress.com.bd/images/rocket-250-250.png
-||thegearpage.net/board/render-ad.php
-||thegearpage.net/board/render-sidebar-ad.php
 ||theindependentbd.com/assets/images/banner/
 ||thephuketnews.com/photo/banner/
 ||theplatform.kiwi/ads/
@@ -64398,6 +64398,7 @@ newduba.cn###jq_youxi
 ##script + #rbbox
 ##.adpvc
 ##.adpwc
+##.ec-tutu
 ##.pop.pop-bottom
 ##script + .header_rmb
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
@@ -64454,6 +64455,8 @@ newduba.cn###jq_youxi
 ||grimoiksep.com^
 ||iutq.cn^
 ||lhdnba.top^
+||eucnwtw.top^
+||wwcnmte.top^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^
@@ -72366,6 +72369,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||douyin.com/aweme/v1/web/solution/resource/list/*_banner&
 ||aizhan.com/images/img/apicn.
+||xfvod.pro/images/ad/
 !------------------------Specific element hiding rules------------------------!
 sojson.com##.a-d-img
 sixyin.com##.widget_custom_html
