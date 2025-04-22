@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: AknT1mZE1Wse60kE6NGwFg
+! Checksum: VLPawPqAN+uy6kmx8vFMZw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504220226
-! Last Modified: 2025年04月22日 02:26
+! Version: 202504220938
+! Last Modified: 2025年04月22日 09:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||grimoiksep.com^
+||iutq.cn^
+||lhdnba.top^
 ||hgreils.com^
 ||lvqo.cn^
 ||jibtdn.top^
@@ -28282,6 +28285,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||egmontpublishing.dk/tracking/
 ||elpais.com/t.gif
 ||emarketeer.com/tracker/
+||enc-90128738.b-cdn.net^
 ||endorsal.io/check/
 ||ensighten.com/error/e.php?
 ||epimg.net/js/gdt/
@@ -32125,6 +32129,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hn-ping*.hashnode.com^
 ||homedepot.ca/mr/thd-ca-prod.js
 ||hoo.be/api/hoobe/analytics
+||hostinger.com/api-proxy/api/sentry/
 ||hotels.com/api/bucketing/v1/evaluateExperimentsAndLog
 ||hotels.com/cl/data/omgpixel.json?
 ||hotpads.com/node/api/comscore
