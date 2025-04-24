@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CypYEqMjV1Ct5f7/wu3DIA
+! Checksum: jbkSTYDiG1wX0OEiKduVnw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504240228
-! Last Modified: 2025年04月24日 02:28
+! Version: 202504240938
+! Last Modified: 2025年04月24日 09:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1889,6 +1889,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||thaincoth.com^
+||etbh.cn^
+||pflwta.top^
 ||leirerspfz.com^
 ||ifje.cn^
 ||ngjcvn.top^
@@ -23572,6 +23575,7 @@ omni.soundestlink.com$image
 ||godiciardstia.com^
 ||googleoptimize.com^
 ||googletagmanager.com^
+||gotoda.co^
 ||gsitrix.com^
 ||gw-dv.vip^
 ||hbiq.net^
@@ -23831,6 +23835,7 @@ omni.soundestlink.com$image
 ||3dlivestats.com^$third-party
 ||3dstats.com^$third-party
 ||40nuggets.com^$third-party
+||4mythtracker.xyz^$third-party
 ||4oney.com^$third-party
 ||55labs.com^$third-party
 ||6sc.co^$third-party
@@ -27519,6 +27524,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
 ||4taps.me/analytics/
 ||51network.com^$third-party
+||682a5845.b-cdn.net^
 ||99widgets.com/counters/
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||a.emea01.idio.episerver.net^
@@ -27912,6 +27918,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||blogblog.com/tracker/
 ||bmrg.reflected.net^
 ||bobparsons.com/image.aspx?
+||boei.help/pageview/
 ||bolt.com/v1/log?
 ||bonfire.spklw.com^
 ||booking.com/pxpixel.html
@@ -28431,6 +28438,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
+||fgip.rosehosting.com^
 ||filament-stats.herokuapp.com^
 ||files.envoke.com^*_nvk_tracking.js
 ||filesonic.com/referral/$third-party
@@ -28637,6 +28645,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||iadvize.com/collector/
 ||ibmcloud.com/collector/
 ||icbdr.com/images/pixel.gif
+||icontact.com/icp/core/signup/tracking.gif?
 ||id.a-mx.com^
 ||id.google.*/verify/
 ||id.verticalhealth.net/script.js?partnerid=
@@ -28945,6 +28954,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mon.domdog.io^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
+||monitor.fraudblocker.com^
 ||monitoring.iraiser.eu^
 ||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
@@ -29201,6 +29211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pm.boostintegrated.com^
 ||pmi.flowplayer.com^
 ||pn.ybp.yahoo.com/ab/secure/true/imp/
+||ponos.zeronaught.com^
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
@@ -29288,6 +29299,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rampjs-cdn.system1.com^
 ||rapidspike.com/performance/
 ||rapidspike.com/static/js/timingpcg.min.js
+||raven.adeptmind.ai^
 ||raygun.io/events?
 ||rbl.ms/res/users/tracking/
 ||reach-id.orbit.tm-awx.com^
@@ -29546,6 +29558,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
+||stats.vodlix.com^
 ||stats.webs.com^
 ||stats.webstarts.com^$third-party
 ||stats.wp.com^
@@ -30548,6 +30561,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||01net.com/track/
 ||abs.proxistore.com^
 ||affiliation.planethoster.info^$third-party
+||analytics.ekonsilio.io^
 ||analytics.freespee.com^
 ||analytics.valiuz.com^
 ||at.360.audion.fm^
@@ -32912,6 +32926,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tapewithadblock.com/stat/
 ||tapewithadblock.org/stat/
 ||target-us.samsung.com^
+||target.com/api/beacon/
 ||target.com/consumers/v1/ingest/web/eventstream?
 ||target.com/consumers/v1/ttms/events?
 ||target.com/rum_analytics/
@@ -33020,6 +33035,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.shopstyle.com^
 ||tracking.unrealengine.com^
 ||trackr.vivenu.com^
+||tradingview-widget.com/static/bundles/embed/snowplow-embed-widget-tracker.$script
 ||tradingview.com/ping
 ||trck.coomeet.com^
 ||trckng.dainese.com^
@@ -69774,7 +69790,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
 ||datalayer.orange.fr^
+||dd.bellesdemeures.com^
 ||dd.leboncoin.fr^
+||dd.seloger-bureaux-commerces.com^
+||dd.seloger.com^
+||dd.selogerneuf.com^
 ||decathlon.net/content/tracker.v2.prod.min.js
 ||developpez.com/public/js/log.js
 ||donnons.org/log.js
@@ -69790,6 +69810,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
+||groupe-seloger.com/tracking-data/
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
 ||horairesdouverture24.fr/ar.js
@@ -69878,6 +69899,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||res.paruvendu.fr^
 ||rts.ch^*/boreas_b01.js
 ||s5.charliehebdo.fr^
+||seloger.com/cdp-bff/analytics
 ||serv.letudiant.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
@@ -70341,6 +70363,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||as.payback.it^
 ||automobile.it/fb/
 ||avvenire.it/content/js/track.es5.min.js?
+||ayo.arredoitaliano.it^
 ||bachecaannunci.it/statins3.php?
 ||bnamic.com/referrer/
 ||c-date.it/tracking?
@@ -70666,9 +70689,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mklik.gazeta.pl^
 ||nasza-klasa.pl^*/pp_gemius
 ||p.gazeta.pl^
+||pb.siepomaga.pl^
 ||pixel.wp.pl^
 ||rek.www.wp.pl^
 ||savecart.pl/d/
+||sentry.siepomaga.pl^
 ||squid.gazeta.pl/bdtrck/
 ||ss.woodupp.pl^
 ||stats.teledyski.info^
@@ -70885,6 +70910,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||t13.cl/hit/
+||targetone-callback.chedraui.com.mx^
 ||taringa.net/ajax/track-visit.php
 ||terra.com.mx/js/metricspar_
 ||terra.com.mx^*/metrics_begin.js
