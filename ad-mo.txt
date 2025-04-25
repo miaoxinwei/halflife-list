@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pN4PN4gRRypVkBsnFjp+tg
+! Checksum: mX8tBVHdIYlorpKcrt4yrA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202504250939
-! Last Modified: 2025年04月25日 09:39
+! Version: 202504251428
+! Last Modified: 2025年04月25日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -60857,7 +60857,7 @@ gamesradar.com##.in-article
 bringmethenews.com,mensjournal.com,thestreet.com##.is-fallback-player
 gmanetwork.com##.ivs-placeholder
 evoke.ie##.jw-player-video-widget
-anandtech.com##.jwplayer
+anandtech.com,sciencefocus.com##.jwplayer
 gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 space.com##.jwplayer__wrapper
 southernliving.com##.karma-sticky-rail
@@ -65094,6 +65094,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||hvrunsqqy.com^
+||nlnlrn.top^
+||ohqp.cn^
+||lucnwtl.top^
+||uwcnmtt.top^
+||tljrvn.icu^
 ||thaincoth.com^
 ||etbh.cn^
 ||pflwta.top^
