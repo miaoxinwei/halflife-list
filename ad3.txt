@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5JW9YlTPVgMTgyxW0wBPtQ
+! Checksum: mmmWBU1TgpNXrpTx9/xSRA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504262035
-! Last Modified: 2025年04月26日 20:35
+! Version: 202504270224
+! Last Modified: 2025年04月27日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1897,6 +1897,7 @@ newduba.cn###jq_youxi
 ||owcnmtk.top^
 ||cnwuamf.top^
 ||dheilgorsy.com^
+||hnwuamu.top^
 ||hvrunsqqy.com^
 ||nlnlrn.top^
 ||ohqp.cn^
@@ -9853,6 +9854,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||douyin.com/aweme/v1/web/solution/resource/list/*_banner&
 ||aizhan.com/images/img/apicn.
 ||xfvod.pro/images/ad/
+||hupu.com^*/interfaceAd/
 !------------------------Specific element hiding rules------------------------!
 sojson.com##.a-d-img
 sixyin.com##.widget_custom_html
@@ -20609,6 +20611,7 @@ m.babytree.com##script + a[class]
 /api-insights/log?
 /api/0/stats
 /api/adplogger/*
+/api/adtracking$xmlhttprequest
 /api/async.php?t=user&m=pagehits&
 /api/bfb_write_log
 /api/click/*?c=
@@ -21158,6 +21161,7 @@ m.babytree.com##script + a[class]
 /eventtracking/*
 /evercookie.js
 /evercookie/swfobject-2.2.min.js
+/evercookie_get.js
 /evergage.js
 /evergage.min.js
 /evt.gif?
@@ -22238,6 +22242,7 @@ m.babytree.com##script + a[class]
 /scmetrics.*/b/ss/*
 /screencount?vcid=
 /scribd_events?
+/script.tagged-events.js
 /script.tagged-events.outbound-links.js
 /script/pixel.js
 /scriptAnalytics.js
@@ -22431,6 +22436,7 @@ m.babytree.com##script + a[class]
 /stats/events$xmlhttprequest
 /stats/footer.js
 /stats/ga.js
+/stats/header.js
 /stats/impression
 /stats/log.pl
 /stats/Logger?
@@ -22905,6 +22911,7 @@ m.babytree.com##script + a[class]
 /webmnr.min.js
 /webmonitor/collect/badjs.json
 /webmr.js
+/webruntime/log/metrics$ping
 /webstat.js
 /WebStat2.asmx
 /webstatistics.php?
@@ -23464,6 +23471,7 @@ omni.soundestlink.com$image
 ||apxl.io^
 ||as3.io^
 ||aseads.com^
+||astarsbuilding.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
@@ -23811,6 +23819,7 @@ omni.soundestlink.com$image
 ||tw.cx^
 ||ugdturner.com^
 ||uidapi.com^
+||uimarketpro.com^
 ||uqd.io^
 ||ustat.info^
 ||venture-365-inspired.com^
@@ -30146,6 +30155,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yarpp.org/pixels/
 ||yellow.ai/api/plugin/analytics?
 ||yellow.ai/integrations/analytics/
+||yepnews.eu/event.html
 ||yext.com/plpixel?
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/cx/vzm/cs.js
@@ -30159,6 +30169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zapcdn.space/zapret.js
 ||zendesk.com/frontendevents/$xmlhttprequest
 ||zengenti.com/tags/
+||zi-scripts.com/zi-tag.js
 ||ziffdavisb2b.com^*/tracker.js
 ||zineone.com^*/event
 ||zip.co/analytics
@@ -30870,6 +30881,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contentreveal.net/event/events.js
 ||ct.beslist.nl^
 ||dmtgo.upc.biz^
+||falco.studio/api/track
 ||go.planetnine.com^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
@@ -32273,6 +32285,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||inews.co.uk/rta2/
 ||infinityscans.net/api/collect
 ||info.com/pingback
+||info.onwd.com^
 ||infoq.com/metrics/
 ||informer.com/ajax/article_log.php
 ||ingest.coincodex.com^
@@ -32691,6 +32704,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ranker.com/api/tracking/comscore
 ||rankhit.china.com^
 ||ras.yahoo.com^
+||raw.vidyard.com^
 ||rbc.ua/enghits/
 ||react-admin-telemetry.marmelab.com^
 ||read.amazon.*/uploadMetrics/
@@ -33121,6 +33135,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||twitter.com/i/csp_report?
 ||twitter.com/i/jot
 ||twitter.com^*/log.json
+||two.cm.com^
 ||tyler-brown.com/api/stats?
 ||typepad.com/t/stats?
 ||ua.financialexpress.com/api/capture
@@ -33165,6 +33180,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanityfair.com/user-context?referrer
 ||vf.startpage.com^
 ||video.mobile.yahoo.com/log|$xmlhttprequest
+||vidyard.com/api/metrics
 ||views.arabnews.com^
 ||views.asurascans.com^
 ||vimeo.com/ablincoln/
@@ -70269,6 +70285,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||statistics.csob.cz^
 ||2dehands.be/px/
 ||analytics.rambla.be^
+||api.beleggersbelangen.nl//api/statistics/
 ||api.rtl.nl/monitoring/
 ||azerty.nl/ambannerslider/analytic/
 ||bc34.wijnvoordeel.nl^
@@ -70276,6 +70293,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||businessinsider.nl^*/tr.php
 ||c.vrt.be^
 ||coolblue.nl/monitoring/
+||cpt.postnl.be^
+||cpt.postnl.nl^
 ||e428.tio.nl^
 ||events.reclamefolder.nl^
 ||expert.nl/daix.js
@@ -70283,9 +70302,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||filmvandaag.nl/pl/js/script.js
 ||folderz.nl/clickstream/
 ||infonu.nl/t.php?
+||inzicht.cz.nl^
 ||kieskeurig.nl/collect
 ||kieskeurig.nl/track-
 ||klik.nrc.nl/ping?
+||localfocuswidgets.net/stats/
 ||log.rabobank.nl^
 ||marktplaats.nl/add_counter_image.
 ||marktplaats.nl/metrics/
@@ -70303,6 +70324,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||pipeline.lc.nl^$~script
 ||pipeline.rd.nl^$~script
 ||r.kleertjes.com^
+||raf.postnl.be^
+||raf.postnl.nl^
 ||rtl.nl/system/track/
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
@@ -70731,6 +70754,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
 ||collect.state.centrum24.pl^
+||cs.bankmillennium.pl^
 ||dot.wp.pl^$script
 ||entryhit.wp.pl^
 ||euro.com.pl/log-customer-visit
@@ -70758,6 +70782,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||click.afiliados.uol.com.br^
 ||click.uol.com.br^
 ||csplog.kwai-pro.com^
+||data-events.uniplaces.com^
 ||dejavu.mercadolivre.com.br^
 ||dn.pt/tag/
 ||dna.uol.com.br^
@@ -70787,6 +70812,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sdk-analytics-web.cloud.itau.com.br^
 ||sinonimos.com.br/hits.php
 ||standvirtual.com^$ping
+||stats.uniplaces.com^
 ||strapi.clickjogos.com.br^
 ||sympla.com.br/api/event-bff/tracking/
 ||tags.globo.com^
@@ -70798,6 +70824,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tracker.publico.pt^
 ||uai.com.br^*/analytics.js
 ||udr.uol.com.br^
+||uni7.uniplaces.com^
 ||unleash.livepix.gg^
 ||uol.com.br/stats?
 ||agrointel.ro/ga.js
