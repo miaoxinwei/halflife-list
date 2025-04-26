@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: J67+O7t19zSksI8IranuAA
+! Checksum: 8APiNOxU4SxJ90PzMo8N4w
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202504260227
-! Last Modified: 2025年04月26日 02:27
+! Version: 202504260935
+! Last Modified: 2025年04月26日 09:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -20422,6 +20422,7 @@ browsershots.org#@#.advert_area
 ||buckwheatchipwrinkle.com^
 ||buddyassetstupid.com^
 ||buddyguests.com^
+||budfduwa.xyz^
 ||budgepenitent.com^
 ||budgetastond.shop^
 ||budsminepatent.com^
@@ -21210,6 +21211,7 @@ browsershots.org#@#.advert_area
 ||chiverlogical.shop^
 ||chivoagrie.net^
 ||chiwaiwhor.xyz^
+||chixainongoan.net^
 ||chl7rysobc3ol6xla.com^
 ||chloredenpia.shop^
 ||chmnebon.top^
@@ -21973,6 +21975,7 @@ browsershots.org#@#.advert_area
 ||coonandeg.xyz^
 ||coonouptiphu.xyz^
 ||coonsapodema.top^
+||coopsigrirou.net^
 ||coopsoaglipoul.net^
 ||coordinatereopen.com^
 ||coosync.com^
@@ -23480,6 +23483,7 @@ browsershots.org#@#.advert_area
 ||dpseympatijgpaw.com^
 ||dpstack.com^
 ||dptwwmktgta.com^
+||dpuanrrmuz.com^
 ||dpuopxowjops.com^
 ||dpuppers.com^
 ||dqeaa.com^
@@ -25867,6 +25871,7 @@ browsershots.org#@#.advert_area
 ||geckad.com^
 ||geckibou.com^
 ||gecksnabbie.shop^
+||gecodbchclick.xyz^
 ||geedoovu.net^
 ||geegleshoaph.com^
 ||geejetag.com^
@@ -33084,6 +33089,7 @@ browsershots.org#@#.advert_area
 ||oqmvcexkaaq.com^
 ||oqpahlskaqal.com^
 ||oqpfalkz.com^
+||oqpgzeopstk.com^
 ||oqrtuvguhl.com^
 ||oqrvraab.com^
 ||oqrzuvarwgm.com^
@@ -37385,6 +37391,7 @@ browsershots.org#@#.advert_area
 ||sgrawwa.com^
 ||sh0w-me-h0w.net^
 ||sh0w-me-how.com^
+||shabsignul.net^
 ||shackapple.com^
 ||shadeapologies.com^
 ||shaderadioactivepoisonous.com^
@@ -38051,6 +38058,7 @@ browsershots.org#@#.advert_area
 ||sonalrecomefu.info^
 ||songbagoozes.com^
 ||songcorrespondence.com^
+||songslunger.com^
 ||songtopbrand.com^
 ||sonnerie.net^
 ||sonnyadvertise.com^
@@ -39929,6 +39937,7 @@ browsershots.org#@#.advert_area
 ||transientblobexaltation.com^
 ||transistorizedbirleanimal.com^
 ||transitionfrenchdowny.com^
+||translatebonus.net^
 ||translatingimport.com^
 ||translationbuddy.com^
 ||transmission423.fun^
@@ -41090,6 +41099,7 @@ browsershots.org#@#.advert_area
 ||vhabwaoh.com^
 ||vhacakzwegu.com^
 ||vhbhundyietwwc.com^
+||vhdloveixqgt.com^
 ||vhducnso.com^
 ||vhinyvcsxcga.com^
 ||vhjhmsvosxius.click^
@@ -48270,6 +48280,7 @@ browsershots.org#@#.advert_area
 ||sexfamilysim.net^$popup
 ||sexpieasure.com^$popup
 ||sexyepc.com^$popup
+||shabsignul.net^$popup
 ||shakingtacklingunpeeled.com^$popup
 ||sharpofferlinks.com^$popup
 ||shaugacakro.net^$popup
@@ -58098,6 +58109,7 @@ getyarn.io##.pt3p > div
 1980-games.com,coleka.com,flash-mp3-player.net,gameslol.net,theportugalnews.com,tolonews.com##.pub
 starsinsider.com##.pub-container
 yabiladi.com##.pub2
+helis.com##.pub23_all
 gameslol.net##.pubGside
 gameslol.net,yabiladi.com##.pub_header
 devhints.io##.pubbox
@@ -58982,6 +58994,7 @@ tetris.com##.vAxContainer-R
 zillow.com##.vPTHT
 osuskins.net##.vad-container
 lasvegassun.com##.varWrapper
+helis.com##.vbar23
 tech.co##.vc_col-sm-4
 salaamedia.com##.vc_custom_1527667859885
 salaamedia.com##.vc_custom_1527841947209
@@ -60400,6 +60413,7 @@ klz9.com###list-imga center:has(> a[id^="adLink"])
 klz9.com###list-imga center:has(a[href^="https://olimposcans.com/"])
 noon.com###modules-renderer:has([class*="sponsored"])
 indeed.com###mosaic-provider-jobcards li:has(.sponsoredJob)
+noon.com###noon-modules:has([class*="AdBrandVideo"])
 wsj.com###other-buckets > div > div:has(> .uds-ad-container)
 aleteia.org###root > div[class]:has(> .adslot)
 etsy.com###search-results li:has([id^="ad-listing-title-"])
@@ -60566,6 +60580,7 @@ dotesports.com##.wp-block-gamurs-article-tile:has-text(Sponsored)
 popculture.com##.wp-block-savage-platform-raptive-ad
 bestbuy.ca##.x-productListItem:has([data-automation="sponsoredProductLabel"])
 mapquest.co.uk##.z-10.justify-center:has-text(Advertisement)
+sameday.costco.com##[aria-label="Product"]:has(sp-tag)
 freshdirect.com##[class*="ProductsGrid_grid_item"]:has([data-testid="marketing tag"])
 petco.com##[class*="atapult-styled"]:has([data-ad-source])
 livejournal.com##[class*="categories"] + div[class]:has(> [class*="-commercial"])
@@ -65166,6 +65181,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||vrosqutsgh.com^
+||rgme.cn^
+||zofmhx.icu^
+||pktfla.top^
 ||hvrunsqqy.com^
 ||nlnlrn.top^
 ||ohqp.cn^
@@ -81318,6 +81337,7 @@ fqsousou.com,kengso.com#@#.user-share
 /__wsm.gif
 /_assets/oply/public/*
 /_blazor/*$ping
+/_events/api/setEvent$xmlhttprequest
 /_ga?send&
 /_ga?sponsor_pixel=
 /_gz/counter.php?
@@ -81504,6 +81524,7 @@ fqsousou.com,kengso.com#@#.user-share
 /analytics/visit?
 /analytics?http_referer
 /analytics?token=
+/analytics?ver=*&referrer=
 /analytics_cookie.js
 /analytics_events.js
 /analytics_js/client.js
@@ -81931,6 +81952,7 @@ fqsousou.com,kengso.com#@#.user-share
 /csi?v=3&s=
 /csp_204?
 /csp_log?
+/cst-tag-monitor-2nd-gen?
 /cta-loaded.js
 /ctr_tracking.php?
 /custom-analytics.js
@@ -83053,6 +83075,7 @@ fqsousou.com,kengso.com#@#.user-share
 /rainbow/master-js
 /RcAnalyticsEvents.js
 /rcAnalyticsLib.js
+/rd-js-integration.min.js
 /readReceipt/notify/?img=$image
 /readthedocs-analytics.js
 /realtimeapi/impression?
@@ -83859,6 +83882,7 @@ fqsousou.com,kengso.com#@#.user-share
 /wp-content/plugins/wp-clickmap/clickmap.js
 /wp-content/tracker.js
 /wp-js/analytics.js
+/wp-json/burst/v1/track/*
 /wp-json/iawp/*
 /wp-monero-miner-class.js
 /wp-monero-miner-util.min.js
@@ -84427,6 +84451,7 @@ omni.soundestlink.com$image
 ||confiant-integrations.net^
 ||convead.io^
 ||convertlink.com^
+||counter247.live^
 ||cpx.to^
 ||crwdcntrl.net^
 ||cvlb.dev^
@@ -85076,6 +85101,7 @@ omni.soundestlink.com$image
 ||bignutty.xyz^$third-party
 ||bigreal.org^$third-party
 ||bigtracker.com^$third-party
+||billygrace.com^$third-party
 ||bionicclick.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
@@ -85554,6 +85580,7 @@ omni.soundestlink.com$image
 ||flx1.com^$third-party
 ||flxpxl.com^$third-party
 ||flyingpt.com^$third-party
+||fml-x.com^$third-party
 ||fndrsp.net^$third-party
 ||followercounter.com^$third-party
 ||footprintdns.com^$third-party
@@ -91208,6 +91235,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dljnjom9md7c.cloudfront.net/02/zara.js
+||dmxhgf4zuwdvu.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dniyppubkuut7.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
@@ -91501,6 +91529,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trck.spoteffects.net^
 ||trecker.aklamio.com^
 ||tw.reppublika.com^
+||umami.askrella.de^
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||united-infos.net/event?
 ||veeseo.com^*/url.gif?
@@ -92155,7 +92184,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
 ||feature-flag-edge.live.clickbus.net^
+||gke.econodata.com.br^
 ||hitserver.ibope.com.br^
+||housecrm.com.br/track/
 ||jsuol.com/rm/clicklogger_
 ||leadster.com.br/api/chatbot/events
 ||linximpulse.net/impulse/
@@ -92165,11 +92196,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||netdeal.com.br/open/event/
 ||neurotrack.neurolake.io^
 ||pageviews.tray.com.br^
+||pixel.leadlovers.app^
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||statig.com.br/pub/setCookie.js?
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
+||sycamore.com.br/pixel/
 ||tags.cmp.tail.digital^
 ||terra.com.br/metrics/
 ||tiktok.tray.com.br^
@@ -93273,6 +93306,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lightstep.medium.systems^*/reports
 ||link.kogan.com^
 ||link2.strawberrynet.com^$image
+||linkedin.com/apfc/collect$xmlhttprequest
 ||linkedin.com/collect/
 ||linkedin.com/li/track$xmlhttprequest
 ||linkedin.com/litms/utag/
@@ -93690,6 +93724,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||siberiantimes.com/counter/
 ||sid.nordstrom.com^
 ||sided.co/analytics/
+||siemens.com/c2_analytics.js
 ||silvergames.com/div/g.php?
 ||simplelogin.io/p/api/event
 ||sjc.cloud.optable.co^
@@ -130258,6 +130293,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
 ||moviepilot.de/assets/autotrack-
+||msboul.gruenwelt.de^
 ||mtb-news.de/metric/
 ||muenchener-stadtplan.com/t.gif
 ||mydirtyhobby.de/tracker
@@ -131216,6 +131252,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sat.sanoma.fi^
 ||sliponline.nl/tracker/
 ||sst.babypark.nl^
+||sst.vrijopnaam.nl^
 ||statistiek.rijksoverheid.nl^
 ||stats.fd.nl^
 ||t.ad.nl^$image
@@ -131689,13 +131726,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||olx.com.br^*/lurker.
 ||poder360.com.br/_tracker
 ||r7.com/comscore/
-||rumolog.com/wp-json/burst/v1/track/
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
 ||sdk-analytics-web.cloud.itau.com.br^
 ||sinonimos.com.br/hits.php
 ||standvirtual.com^$ping
 ||strapi.clickjogos.com.br^
+||sympla.com.br/api/event-bff/tracking/
 ||tags.globo.com^
 ||terra.com.br^*/metrics.js
 ||track.exame.com^
