@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /qC1qBX94SDhLb2LSe3WKw
+! Checksum: XGKSYtxjCS8g52a8AAEyxQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202504272035
-! Last Modified: 2025年04月27日 20:35
+! Version: 202504280224
+! Last Modified: 2025年04月28日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1896,6 +1896,8 @@ newduba.cn###jq_youxi
 ||lwcnmtl.top^
 ||itoqals.com^
 ||jxtcbriz.icu^
+||wmol.cn^
+||jnwuama.top^
 ||jia6983.xyz^
 ||rjvzjn.top^
 ||vrosqutsgh.com^
@@ -20635,6 +20637,7 @@ m.babytree.com##script + a[class]
 /api/log-visit
 /api/metrics/collect
 /api/metrics/event
+/api/metrics|$xmlhttprequest
 /api/pageactivity
 /api/pageview/*$ping
 /api/pageview?
@@ -22817,6 +22820,7 @@ m.babytree.com##script + a[class]
 /uutils.fcg?
 /v.gif?
 /v1/adn/visit|
+/v1/log/web-vitals$xmlhttprequest
 /v1/pixel.js
 /v1/pixel?
 /v1/stats/track
@@ -23030,6 +23034,7 @@ m.babytree.com##script + a[class]
 /zhugeio.js
 /ztracker.js
 ://a869.$~image
+://analytics-beacon.
 ://analytics-cdn.
 ://analytics.*/collect
 ://analytics.*/event
@@ -23816,6 +23821,7 @@ omni.soundestlink.com$image
 ||track-selectmedia.com^
 ||trackclicks.info^
 ||tracking24.net^
+||trakle01.online^
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -32522,6 +32528,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mstm.motorsport.com^
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
+||myfreecams.com/php/tracking.php?
 ||mylocal.co.uk/api/trpc/analytics.
 ||myspace.com/beacon/
 ||na.groupondata.com^
@@ -33286,6 +33293,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xhamsterlive.com/pixel/
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
+||xmetrics.camsoda.com^
 ||xnxx.com/picserror/
 ||xnxx.tv/picserror/
 ||xp.apple.com/config/*/report/
@@ -70867,6 +70875,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||affilate.hh.ru^
 ||agroserver.ru/ct/
 ||analytics.carambatv.ru^
+||api-metric.gosweb.gosuslugi.ru^
 ||api.litres.ru/tracker/
 ||auto.ru/-/ajax/$~xmlhttprequest
 ||auto.ru/cookiesync/
