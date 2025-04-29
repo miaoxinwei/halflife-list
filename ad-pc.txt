@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: u8H6lsvujs3lbNNMsm9S/A
+! Checksum: jquF+gkNb08nr1jsRZRCdw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202504290940
-! Last Modified: 2025年04月29日 09:40
+! Version: 202504291428
+! Last Modified: 2025年04月29日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15040,7 +15040,6 @@ _800x80_
 ##a[href*="//jjgirls.com/sex/Chaturbate"]
 ##a[href*="/jump/next.php?r="]
 ##a[href^=" https://www.friendlyduck.com/AF_"]
-##a[href^=""https://best-experience-cool.com/"]
 ##a[href^="//ejitsirdosha.net/"]
 ##a[href^="//go.eabids.com/"]
 ##a[href^="//s.st1net.com/splash.php"]
@@ -15114,6 +15113,7 @@ _800x80_
 ##a[href^="https://banners.livepartners.com/"]
 ##a[href^="https://bc.game/"]
 ##a[href^="https://believessway.com/"]
+##a[href^="https://best-experience-cool.com/"]
 ##a[href^="https://black77854.com/"]
 ##a[href^="https://bngprm.com/"]
 ##a[href^="https://bngpt.com/"]
@@ -52937,6 +52937,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sbfull.com/js/mainpc.js
 ||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
+||scores24.live/o/offers?
 ||scrolller.com/scrolller/affiliates/
 ||search.brave.com/api/ads/
 ||search.brave.com/serp/v1/static/serp-js/paid/
@@ -65569,6 +65570,8 @@ newduba.cn###jq_youxi
 ||cautols.com^
 ||exoh.cn^
 ||rhdifs.top^
+||enwuamw.top^
+||mwcnmtx.top^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
