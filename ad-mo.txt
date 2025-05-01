@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bLs2mQLWFI2+JICCyifyhA
+! Checksum: X5OZc3blcC7wELvyF1Dv+g
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202505010947
-! Last Modified: 2025年05月01日 09:47
+! Version: 202505011429
+! Last Modified: 2025年05月01日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -52911,6 +52911,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sharecast.ws/cum.js
 ||sharecast.ws/fufu.js
+||shield.knowt.com^
 ||short-wave.info/html/adsense-
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
@@ -53068,6 +53069,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||yellowpages.com.lb/uploaded/banners/
 ||yimg.com/rq/darla/$domain=yahoo.com
 ||ynet.co.il/gpt/
+||youswear.com/ads/
 ||youtube.com/pagead/
 ||youtube.com/youtubei/v1/player/ad_break
 ||ytconvert.me/pop.js
@@ -65551,6 +65553,9 @@ newduba.cn###jq_youxi
 ||uaqe.cn^
 ||okpl05010ai.com^
 ||vmlrxs.top^
+||unwuamt.top^
+||qqosk05010llo.com^
+||qqosk05011llo.com^
 ||qsoc.cn^
 ||wwok04300kl.com^
 ||oia04300klq.com^
@@ -87468,6 +87473,7 @@ omni.soundestlink.com$image
 ||unalytics.top^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
+||unusual.ai^$third-party
 ||upapi.net^$third-party
 ||uplift-platform.com^$third-party
 ||upscore.com^$third-party
@@ -89737,7 +89743,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
 ||edge-hls.doppiocdn.com/ping
-||edge.adobedc.net^
 ||edge.bredg.com^$third-party
 ||edrone.me/trace?
 ||edw.edmunds.com/edw/edw1x1.gif

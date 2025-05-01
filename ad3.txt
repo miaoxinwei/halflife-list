@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tKUnDzP0r3WqzvRp9coBAA
+! Checksum: BHx8NVFbvrLsQLZOH3u9Uw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505010947
-! Last Modified: 2025年05月01日 09:47
+! Version: 202505011429
+! Last Modified: 2025年05月01日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,9 @@ newduba.cn###jq_youxi
 ||uaqe.cn^
 ||okpl05010ai.com^
 ||vmlrxs.top^
+||unwuamt.top^
+||qqosk05010llo.com^
+||qqosk05011llo.com^
 ||qsoc.cn^
 ||wwok04300kl.com^
 ||oia04300klq.com^
@@ -26156,6 +26159,7 @@ omni.soundestlink.com$image
 ||unalytics.top^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
+||unusual.ai^$third-party
 ||upapi.net^$third-party
 ||uplift-platform.com^$third-party
 ||upscore.com^$third-party
@@ -28425,7 +28429,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
 ||edge-hls.doppiocdn.com/ping
-||edge.adobedc.net^
 ||edge.bredg.com^$third-party
 ||edrone.me/trace?
 ||edw.edmunds.com/edw/edw1x1.gif
