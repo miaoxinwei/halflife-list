@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: k1A45fUdsZtWuz4LksomLg
+! Checksum: L1dNHL2v1sJ1s4IisNaYwA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202505030937
-! Last Modified: 2025年05月03日 09:37
+! Version: 202505031426
+! Last Modified: 2025年05月03日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -55952,6 +55952,7 @@ valetmag.com##.ad-full_span_homepage-container
 valetmag.com##.ad-full_span_section-container
 mobilesyrup.com##.ad-goes-here
 business-standard.com##.ad-height-desktop
+roadtovr.com##.ad-height-sidebar
 carsauce.com##.ad-holder
 wago.io##.ad-in-search
 symbl.cc##.ad-incontent-rectangle
@@ -58941,6 +58942,7 @@ voxelmatters.com##.rss-ads-orizontal
 rswebsols.com##.rsws_banner_sidebar
 mykhel.com##.rt-top-ad
 nextofwindows.com##.rtsidebar-cm
+roadtovr.com##.rtvr_under_feature_ad
 run247.com##.run24-300x250-in-post
 run247.com##.run24-content
 freewebarcade.com##.rxads
@@ -59936,7 +59938,7 @@ newspointapp.com##[ctn-style]
 flatpanelshd.com##[data-aa-adunit]
 dribbble.com##[data-ad-data*="ad_link"]
 usnews.com##[data-ad-props]
-androidauthority.com##[data-ad-type]
+androidauthority.com,soundguys.com##[data-ad-type]
 charlieintel.com,dexerto.com##[data-ad-unit-id]
 gamelevate.com##[data-adpath]
 coingecko.com##[data-ads-target="banner"]
@@ -65836,6 +65838,8 @@ newduba.cn###jq_youxi
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
 ||zktats.top^
+||jnwucna.top^
+||qqosk05031llo.com^
 ||vldp.cn^
 ||ghgietuthz.com^
 ||qqosk05020llo.com^
@@ -93782,6 +93786,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs.hotstar.com^
 ||logs.naukri.com^
 ||logs.netflix.com^
+||logx-experimentation.iherb.com^
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
