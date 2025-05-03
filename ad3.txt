@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cRA5DFVtVHdhUn4nDg4E2w
+! Checksum: VmcSuSwY4uLRMyLUhnbScQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505032036
-! Last Modified: 2025年05月03日 20:36
+! Version: 202505040225
+! Last Modified: 2025年05月04日 02:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,7 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 ||ebroktean.com^
+||ffxe.cn^
 ||okpl05030ai.com^
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
@@ -29545,6 +29546,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tr.outbrain.com^
 ||tr.snapchat.com^
 ||tr.standardadmin.org^
+||tr.thecontentserver.com^
 ||tr.vitals.co^
 ||tr.webantenna.info^
 ||tra.scds.pmdstatic.net/sourcepoint/
@@ -31749,6 +31751,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||drop.com/statBeacon
 ||dropbox.com/2/client_metrics
 ||dropbox.com/2/pap_event_logging
+||dropbox.com/2/udcl/log_timing
 ||dropbox.com/alternate_
 ||dropbox.com/jse
 ||dropbox.com/log/
