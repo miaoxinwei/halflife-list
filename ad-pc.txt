@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Z38WwMaWHlrHL88sDsJLgw
+! Checksum: VgSPQh7UwFJJrYHD+bjRfA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202505040948
-! Last Modified: 2025年05月04日 09:48
+! Version: 202505041426
+! Last Modified: 2025年05月04日 14:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15847,6 +15847,9 @@ hulu.com#@#.ad-root
 gov.uk,honor.com#@#.ad-section
 wiki.fextralife.com#@#.ad-sidebar
 wegotads.co.za#@#.ad-source
+gqjapan.jp#@#.ad-stickyhero
+gqjapan.jp#@#.ad-stickyhero--standard
+gqjapan.jp#@#.ad-stickyhero-enable-mobile
 alliedwindow.com,isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 job.inshokuten.com#@#.ad-title
 gov.uk,videosalon.jp#@#.ad-widget
@@ -65880,6 +65883,8 @@ newduba.cn###jq_youxi
 ||croqoltdp.com^
 ||okpl05040ai.com^
 ||xjvunf.top^
+||knwucnd.top^
+||qqosk05041llo.com^
 ||okpl05030ai.com^
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
@@ -81221,6 +81226,7 @@ _rony.js$script,third-party
 .okpp0*.xyz/$script,third-party
 .so0*koaq.com/$script,third-party
 .hh0*aoik.com/$script,third-party
+.qqo*llo.com/$script,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
@@ -94627,7 +94633,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanityfair.com/user-context?referrer
 ||vf.startpage.com^
 ||video.mobile.yahoo.com/log|$xmlhttprequest
-||vidlink.pro/script.js
 ||vidsrc.icu/js/script-custom.js
 ||vidyard.com/api/metrics
 ||views.arabnews.com^
