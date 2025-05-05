@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VAl3gxoZuNzm+ANMlJNZgg
+! Checksum: hVfK/kCtVdnaqF+Rht+c7A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505052040
-! Last Modified: 2025年05月05日 20:40
+! Version: 202505060224
+! Last Modified: 2025年05月06日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22985,6 +22985,7 @@ _WebVitalsReporter_
 .keap-link016.com/$image
 .kijiji.ca/r/
 .klclick.com/$image
+.klclick1.com/$image
 .lassuranceretraite.fr/mk/op/$image
 .list-manage.com/track/
 .mail.odysee.com/o/$image
@@ -31592,6 +31593,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
 ||camgirls.casa/p.php
+||cammodels.com/api/metrics
 ||campsaver.com/nelmio-js-logger/
 ||canstockphoto.com/server.php?rqst=track
 ||canva.com/_ajax/ae/createBatch
@@ -71651,7 +71653,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !---------- Norwegian ----------
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
-@@||k5a.io^$domain=itavisen.no
+@@||k5a.io^$~ping,domain=itavisen.no
 @@||komplett.no/gtm.js$script,~third-party
 !---------- Polish ----------
 @@||gemius.pl/gstream.js
