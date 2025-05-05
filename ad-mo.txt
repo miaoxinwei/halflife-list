@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MwvoFfq4kNqXSBCu3hlxnA
+! Checksum: lS1OPvPRm0PWGkrMKPBXDg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202505051429
-! Last Modified: 2025年05月05日 14:29
+! Version: 202505052040
+! Last Modified: 2025年05月05日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -15213,6 +15213,7 @@ _800x80_
 ##display-ad-component
 ##display-ads
 ##div[aria-label="Ads"]
+##div[class$="-adlabel"]
 ##div[class^="Adstyled__AdWrapper-"]
 ##div[data-ad-placeholder]
 ##div[data-ad-region]
@@ -16764,6 +16765,7 @@ browsershots.org#@#.advert_area
 ||a67c5c438d.com^
 ||a700fb9c8d.com^
 ||a717b6d31e.com^
+||a760b56379.com^
 ||a85d43cd02.com^
 ||a8e8c59504.com^
 ||a91e9c75f8.com^
@@ -17870,8 +17872,10 @@ browsershots.org#@#.advert_area
 ||aj2627.bid^
 ||aj2635.bid^
 ||ajestigie.com^
+||ajgmwovakdur.com^
 ||ajihfvjgn.com^
 ||ajillionmax.com^
+||ajjac.club^
 ||ajjawcxpao.com^
 ||ajjbacpfuog.com^
 ||ajjcpertu.com^
@@ -20164,6 +20168,7 @@ browsershots.org#@#.advert_area
 ||bookadil.com^
 ||bookbannershop.com^
 ||bookeryboutre.com^
+||bookinglamentinstance.com^
 ||bookmakers.click^
 ||bookmsg.com^
 ||bookpostponemoreover.com^
@@ -21283,6 +21288,7 @@ browsershots.org#@#.advert_area
 ||chinagranddad.com^
 ||chinaslauras.com^
 ||chiningpassen.shop^
+||chiolxkuzji.com^
 ||chioursorspolia.com^
 ||chipheeshimseg.net^
 ||chipleader.com^
@@ -21829,6 +21835,7 @@ browsershots.org#@#.advert_area
 ||communicatedsuitcompartment.com^
 ||communication3x.fun^
 ||comoideludes.shop^
+||companionsignal.com^
 ||comparativelyoccursdeclaration.com^
 ||compareddiagram.com^
 ||comparedsilas.com^
@@ -24220,6 +24227,7 @@ browsershots.org#@#.advert_area
 ||elasticalsdebatic.org^
 ||elasticstuffyhideous.com^
 ||elatedynast.com^
+||elationsandindee.com^
 ||elaydark.com^
 ||eldestcontribution.com^
 ||eleavers.com^
@@ -25391,6 +25399,7 @@ browsershots.org#@#.advert_area
 ||flopexemplaratlas.com^
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
+||floretprimers.top^
 ||florinsqrs.top^
 ||floroonwhun.com^
 ||flossdiversebates.com^
@@ -26571,6 +26580,7 @@ browsershots.org#@#.advert_area
 ||goilquccyl.com^
 ||goingkinch.com^
 ||goingtoothachemagician.com^
+||gojbtiqarctsc.life^
 ||golanconcludedrecognize.com^
 ||gold2762.com^
 ||goldangblowze.top^
@@ -28327,6 +28337,7 @@ browsershots.org#@#.advert_area
 ||infiledeplant.top^
 ||infindiasernment.com^
 ||infinitypixel.online^
+||infirmaryabundance.com^
 ||inflameemanent.cam^
 ||inflationbreedinghoax.com^
 ||inflationhumanity.com^
@@ -28930,6 +28941,7 @@ browsershots.org#@#.advert_area
 ||jgqaainj.buzz^
 ||jgubbpypmlxbk.one^
 ||jgxavkopotthxj.xyz^
+||jhbinbjs.com^
 ||jhbjkqqykibyt.buzz^
 ||jhiihllo.com^
 ||jhkfd.com^
@@ -31086,6 +31098,7 @@ browsershots.org#@#.advert_area
 ||mbidpsh.com^
 ||mbidtg.com^
 ||mbjrkm2.com^
+||mbqropkxu.com^
 ||mbreviewer.com^
 ||mbreviews.info^
 ||mbsspads.com^
@@ -31306,6 +31319,7 @@ browsershots.org#@#.advert_area
 ||mezcalumlaut.com^
 ||mezzounmerge.shop^
 ||mfadsrvr.com^
+||mfbvgcjkqpxup.xyz^
 ||mfceqvxjdownjm.xyz^
 ||mfcewkrob.com^
 ||mfeqckmfw.com^
@@ -35780,6 +35794,7 @@ browsershots.org#@#.advert_area
 ||qfjherc.com^
 ||qgerr.com^
 ||qgevavwyafjf.com^
+||qgevvstbzix.com^
 ||qglinlrtdfc.com^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
@@ -37908,6 +37923,7 @@ browsershots.org#@#.advert_area
 ||shepherdalmightyretaliate.com^
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
+||shespokheha.org^
 ||shetchoultoocha.net^
 ||shewaityou.net^
 ||shewingcudeigh.shop^
@@ -38289,6 +38305,7 @@ browsershots.org#@#.advert_area
 ||sluptie.top^
 ||slurpsbeets.com^
 ||slushdevastating.com^
+||slushhelmetmirth.com^
 ||slushimplementedsystems.com^
 ||slutymilf.net^
 ||slwrozacmq.com^
@@ -38550,6 +38567,7 @@ browsershots.org#@#.advert_area
 ||sourne.com^
 ||soutenugiantly.top^
 ||southeestais.net^
+||southflannelclassic.com^
 ||southmailboxdeduct.com^
 ||southsturdy.com^
 ||souvamoo.net^
@@ -54614,7 +54632,6 @@ allnewspipeline.com###content > [href]
 outputter.io###content > section.html
 fextralife.com###content-add-a
 blastingnews.com###content-banner-dx1-p1
-zerohedge.com###content-pack
 classicreload.com###content-top
 kbb.com###contentFor_kbbAdsSimplifiedNativeAd
 lineageos18.com###contentLocker
@@ -57977,7 +57994,7 @@ howstuffworks.com##.leaderboard-banner
 poe.ninja##.leaderboard-bottom
 chess.com##.leaderboard-btf-ad-wrapper
 mxdwn.com##.leaderboard-bucket
-apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,golfdigest.com,news957.com##.leaderboard-container
+apnews.com,arabiaweather.com,atlasobscura.com,forum.audiogon.com,gamesindustry.biz,golfdigest.com,news957.com,zerohedge.com##.leaderboard-container
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder
 huffingtonpost.co.uk,huffpost.com##.leaderboard-flex-placeholder-desktop
 bluesnews.com##.leaderboard-gutter
@@ -58196,7 +58213,6 @@ phpbb.com##.mini-panel:not(.sections)
 kitco.com##.mining-banner-container
 ar15.com##.minis
 247sports.com##.minutely-wrapper
-zerohedge.com##.mixed-in-content
 revolutionsoccer.net##.mls-o-adv-container
 mmegi.bw##.mmegi-web-banner
 inhabitat.com##.mn-wrapper
@@ -58758,7 +58774,6 @@ slashgear.com##.recommended-heading
 forestriverforums.com##.recommended-stories
 last.fm##.recs-feed-item--ad
 anisearch.com##.rect_sidebar
-zerohedge.com##.rectangle
 zerohedge.com##.rectangle-large
 knowyourmeme.com##.rectangle-unit-wrapper
 taskandpurpose.com,twz.com##.recurrent-inline-leaderboard
@@ -60520,7 +60535,6 @@ breastcancer.org,emojipedia.org##div[class^="AdContainer"]
 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,walesworld.com,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="AdLoadingText"]
 pricespy.co.nz,pricespy.co.uk##div[class^="AdPlacement"]
 usnews.com##div[class^="Ad__Container-"]
-zerohedge.com##div[class^="AdvertisingSlot_"]
 sportinglife.com##div[class^="Article__FlashTalkingWrapper-"]
 barrons.com##div[class^="BarronsTheme--adWrapper"]
 someecards.com##div[class^="BaseAdSlot_adContainer_"]
@@ -60548,7 +60562,6 @@ dsearch.com##div[class^="PreAd_"]
 games.dailymail.co.uk##div[class^="RightRail__displayAdRight_"]
 genius.com##div[class^="SidebarAd_"]
 3addedminutes.com,anguscountyworld.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,blackpoolgazette.co.uk,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,chad.co.uk,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,falkirkherald.co.uk,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,lep.co.uk,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,lutontoday.co.uk,manchesterworld.uk,meltontimes.co.uk,miltonkeynes.co.uk,newcastleworld.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,peterboroughtoday.co.uk,portsmouth.co.uk,rotherhamadvertiser.co.uk,scotsman.com,shieldsgazette.com,stornowaygazette.co.uk,sunderlandecho.com,surreyworld.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,totallysnookered.com,wakefieldexpress.co.uk,walesworld.com,warwickshireworld.com,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk##div[class^="SidebarAds_"]
-zerohedge.com##div[class^="SponsoredPost_"]
 chloeting.com##div[class^="StickyFooterAds__Wrapper"]
 newyorker.com##div[class^="StickyHeroAdWrapper-"]
 scotsman.com##div[class^="TopBanner"]
@@ -61476,6 +61489,7 @@ factinate.com###factinateVidazoo
 ispreview.co.uk###footer-slot-3
 ginx.tv###ginx-floatingvod-containerspacer
 ibtimes.com,latintimes.com###ibt-video
+zerohedge.com###in-content-video
 gunsandammo.com###inline-player
 pubs.rsc.org###journal-info > .text--centered
 forums.whathifi.com###jwplayer-container-div
@@ -61520,7 +61534,9 @@ bmwblog.com##.bmwbl-video-in-content
 tennisworldusa.org##.box_adv_primis
 pedestrian.tv##.brightcove-video-container
 military.com##.brightcove-video-wrapper
+cnet.com##.c-avLazyStickyVideo
 cnet.com,zdnet.com##.c-avStickyVideo
+cnet.com##.c-shortcodeVideo_wrap
 stuff.tv##.c-squirrel-embed
 cartoonbrew.com##.cb-ad
 rd.com,tasteofhome.com##.cnx-inline-player-wrapper
@@ -61554,7 +61570,6 @@ gearjunkie.com##.ldm_ad
 thespun.com##.m-video-player
 ispreview.co.uk##.midarticle-slot-10
 insideevs.com##.minutely_video_wrap
-zerohedge.com##.mixed-unit-ac
 lifewire.com##.mntl-jwplayer-broad
 respawnfirst.com##.mv-ad-box
 bestrecipes.com.au,delicious.com.au,taste.com.au##.news-video
@@ -65809,6 +65824,7 @@ newduba.cn###jq_youxi
 ||qiwqaagnaell.com^
 ||zibjls.top^
 ||snwucnb.top^
+||wlberlaiw.com^
 ||bebx.cn^
 ||qqosk05040llo.com^
 ||ebroktean.com^
