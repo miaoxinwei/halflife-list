@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W7/2INhid4wsNOnrgcMWpg
+! Checksum: Wqgy5sCmF1ZIKdHw/V5+CA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505050225
-! Last Modified: 2025年05月05日 02:25
+! Version: 202505050944
+! Last Modified: 2025年05月05日 09:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||yqqv.cn^
+||zxiws.cn^
+||qiwqaagnaell.com^
+||zibjls.top^
 ||bebx.cn^
 ||qqosk05040llo.com^
 ||ebroktean.com^
@@ -23513,6 +23517,7 @@ omni.soundestlink.com$image
 ||sitecounter.site^
 ||sitedataprocessing.com^
 ||sjpf.io^
+||skcrtxr.com^
 ||smartmetrics.co.uk^
 ||snptrk.com^
 ||soapfighters.com^
@@ -24513,6 +24518,7 @@ omni.soundestlink.com$image
 ||globase.com^$third-party
 ||globel.co.uk^$third-party
 ||globetrackr.com^$third-party
+||glove.fit^$third-party
 ||gnpge.com^$third-party
 ||goadservices.com^$third-party
 ||goatcounter.com^$third-party
@@ -30435,6 +30441,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||high-cdn.com/log.php?
 ||houston.advgo.net^
 ||humanoid.fr/register-impression?
+||hzcdn.io/bff/static/vendor/sourcepoint-lib/
 ||i-services.net^*/compteur.php?
 ||img-static.com/CERISE.gif?
 ||ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws^
@@ -31150,6 +31157,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||penza-online.ru^*/userstats.pl?
 ||pinnacle.com/ru/?btag=
 ||piper.amocrm.ru^
+||pixel-storage.konnektu.ru^
 ||prime.rambler.ru^$~script
 ||programmatica.com^$third-party
 ||promworld.ru^*/counter.php?
@@ -31620,6 +31628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||click.aliexpress.com^$image
 ||click.nudevista.com^
 ||clickindia.com/cimem/ad-post-ajax.php?FormName=browsingHistory
+||clickins.slixa.com^
 ||client-log.box.com^
 ||client-metrics.chess.com^
 ||cloudflare.com/_cf/analytics.js
@@ -31808,6 +31817,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||effect.habr.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
+||ei.monday.com^
 ||eighten-bloc-party.thebrowser.company/script.js
 ||ejlytics.editorji.com^
 ||el.quizlet.com^
@@ -32585,6 +32595,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||search.ch/audit/
 ||searchenginejournal.com/xcs0MhRsfxHG.js
 ||searchiq.co/api/tr?
+||secretbenefits.com/js/script.js
 ||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
 ||service.techzine.eu^
@@ -69143,6 +69154,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cpxl.golem.de^
 ||d.rp-online.de^
 ||dasoertliche.de/js/liwAnalytics.js
+||data.openerotik.com^
 ||data.sportdeutschland.tv^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
@@ -69802,7 +69814,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
-||sta.extreme-down.
 ||sta.wawacity.
 ||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
@@ -69810,6 +69821,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
 ||stt.wawacity.onl^
+||stw.extreme-down.
 ||surace-jujitsu.fr/outils/compteur_php/
 ||t.7sur7.be^$image
 ||t.blablacar.com^
@@ -70688,6 +70700,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||auto.ru/cookiesync/
 ||avito.ru/stat/
 ||babyblog.ru/pixel?
+||booster.osnova.io^
 ||c.sibnet.ru^
 ||clck.dzen.ru^
 ||consultant.ru/js/counter.js
@@ -71637,6 +71650,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !---------- Norwegian ----------
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||k5a.io^$domain=itavisen.no
 @@||komplett.no/gtm.js$script,~third-party
 !---------- Polish ----------
 @@||gemius.pl/gstream.js
