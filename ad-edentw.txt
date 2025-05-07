@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d1ieJGrCC2QiyPyIHukUsg
+! Checksum: HYSRF7JTMpZ9NX8zh0QH1w
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202505072041
-! Last Modified: 2025年05月07日 20:41
+! Version: 202505080227
+! Last Modified: 2025年05月08日 02:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -575,6 +575,7 @@ tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[id^="list-content"]>li 
 ! RM-114
 ! sp
 target.com#$#hide-if-contains-visible-text /Sponsored/ 'div[data-test*="ProductCardWrapper"]' 'p[data-test="sponsoredText"]'
+target.com#$#hide-if-contains /Sponsored/ 'li[class]' 'div[style] div[data-test="sponsoredText"]'
 ! #RM-75
 ! sp
 bol.com#?#ul[class][data-test="products"] li:-abp-has(span:-abp-contains(/Gesponsord|Sponsorisé/))
@@ -597,6 +598,9 @@ tripadvisor.com##[data-sponsored]
 tripadvisor.com,tripadvisor.com.br,tripadvisor.ca,tripadvisor.com.mx,tripadvisor.com.ar,tripadvisor.cl,tripadvisor.co,tripadvisor.com.ve,tripadvisor.co.uk,tripadvisor.it,tripadvisor.es,tripadvisor.de,tripadvisor.fr,tripadvisor.se,tripadvisor.nl,tripadvisor.com.tr,tripadvisor.dk,tripadvisor.at,tripadvisor.com.gr,no.tripadvisor.com,tripadvisor.pt,tripadvisor.ru,tripadvisor.ch,tripadvisor.be,tripadvisor.jp,cn.tripadvisor.com,tripadvisor.in,tripadvisor.com.my,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.co.id,tripadvisor.co.kr,th.tripadvisor.com,tripadvisor.com.tw,tripadvisor.com.hk,tripadvisor.co.za,ar.tripadvisor.com,tripadvisor.com.eg,tripadvisor.co.il#$#hide-if-matches-xpath '././/span[contains(.,"Patrocinado") or contains(.,"Annonce") or contains(.,"Sponsored") or contains (.,"Sponsorizzato") or contains(., "Gesponsert") or contains(.,"Sponsrad") or contains(.,"Gesponsord") or contains(.,"Sponsorlu") or contains(.,"Sponsoreret") or contains(.,"Χορηγία") or contains(.,"Sponset") or contains(.,"Реклама") or contains(.,"スポンサー提供") or contains(.,"赞助商") or contains(.,"Bersponsor") or contains(.,"스폰서") or contains(.,"สปอนเซอร์") or contains(.,"贊助商") or contains(.,"贊助") or contains(.,"مدعوم") or contains(.,"מודעה")]/ancestor::header/ancestor-or-self::div[2]'
 tripadvisor.com#$#hide-if-matches-xpath './/ul[li/picture]/parent::div/following::span[text()="Sponsored"]/ancestor::div[.//picture and .//a[contains(@href, "Restaurant_Review")]/following::ul/li][1]/parent::div/ancestor-or-self::span[1]'
 tripadvisor.com#$#hide-if-matches-xpath '//span[text()="Sponsored"]/parent::div/parent::div/parent::div[.//a[contains(@href, "Restaurant_Review")]]/parent::div/parent::div[.//button[contains(@data-automation, "trips-save-button")]]'
+tripadvisor.com#$#hide-if-matches-xpath './/div[count(.//div) >= 5]//div[not(*[not(self::span)] or count(span) > 1)]/span[text()="Sponsored"]/ancestor::div[count(.//a[@target]) >= 1 and count(.//a[@href]) >= 2 and string-length(@class) > 10][1]'
+! HL
+tripadvisor.com#$#hide-if-matches-xpath './/div[count(.//div) >= 5]//div[not(*[not(self::span)] or count(span) > 1)]/span[text()="Sponsored"]/ancestor::div[count(.//a[@target]) >= 1 and count(.//a[@href]) >= 2 and string-length(@class) > 10][1]/ancestor-or-self::li[1]'
 ! #RM-85
 ! #RM-78
 ! SP & BA
@@ -1551,8 +1555,8 @@ www.wp.pl#$#hide-if-matches-xpath './/span[contains(text(),"Okazje")]/parent::di
 o2.pl##div[class$="cevoIl"]
 money.pl#$#simulate-mouse-event 'xpath(.//div[@class]//div[contains(text(),"REKLAMA")]/following-sibling::div[contains(text(),"Przejdź teraz")])$delay=0'
 ! RM-115
-! sp
-olx.pl#$#hide-if-matches-xpath './/div[.="Wyróżnione"]/parent::div/ancestor::div[@data-testid="l-card"]'
+! sp (.pt|.pl|.ro|.*)
+olx.*#?#div:-abp-has(> div:-abp-has(> div:-abp-has(> a div:-abp-has(> div:-abp-properties(/content: "Wyróżnione";|"TOP";|"ТОП";|"PROMOVAT";|"Промотирана обява";/)))))
 ! hp
 olx.pl#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Ogłoszenia promowane")]/parent::div'
 ! MISC
@@ -1565,9 +1569,9 @@ gierkionline.pl#$#hide-if-matches-xpath './/div[@id]//div[contains(text(),"Rekla
 filmy69.pl#$#abort-current-inline-script document.querySelectorAll popMagic
 ! *** abp-filters-anti-cv:portuguese.txt ***
 ! RM-115
-! sp
-olx.pt#$#hide-if-matches-xpath './/div[.="TOP"]/parent::div/ancestor::div[@data-testid="l-card"]'
 ! hp
+olx.pt#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Destaques no OLX")]/parent::div'
+olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE" or .="Destaque" or .="Impulsionado"]/ancestor::section[1]'; hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/parent::div[contains(@class,"olx-carousel")]';
 olx.com.br#$#hide-if-matches-xpath '//h2[text()="Anúncios patrocinados"]/ancestor-or-self::section[contains(@class,"PremiumGallery_home-premium-gallery")]'
 olx.com.br###advertising-top-banner
 ! pp & ph
@@ -1609,8 +1613,6 @@ filmehd.to#$#hide-if-matches-xpath './/a[@title]/img[@src][@alt][@style]/ancesto
 /js/dnsads.js?*^$domain=filmehd.to
 filmehd.to##iframe[src][style]
 ! RM-115
-! sp
-olx.ro#$#hide-if-matches-xpath './/div[.="PROMOVAT"]/parent::div/ancestor::div[@data-testid="l-card"]'
 ! hp
 olx.ro#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "Anunturi promovate")]/parent::div'
 ! *** abp-filters-anti-cv:russian.txt ***
@@ -1762,7 +1764,7 @@ bez-smenki.ru#$#abort-current-inline-script $ showPopupextra
 partnerkin.com#$#override-property-read Object.prototype.autoPopups undefined
 comedy-radio.ru,radioromantika.ru,veseloeradio.ru#$#abort-on-property-read yaContextCb
 tornado.3dn.ru#$#abort-on-property-read wrapper.addEventListener
-kinoblin.ru,serialai.ru#$#prevent-listener mousedown pop.doEvent
+kinoblin.ru,pornoakt.info,serialai.ru#$#prevent-listener mousedown pop.doEvent
 agronews.ua#$#prevent-listener DOMContentLoaded 'adId'
 bzrus.pro#$#prevent-listener new 'window.location'; prevent-listener userpause 'Math.random'
 sex-studentki.gold,seks-studentki.pro#$#prevent-listener DOMContentLoaded click_time
@@ -1799,8 +1801,6 @@ agroreview.com#$#abort-current-inline-script encodeURIComponent rcBuf; abort-cur
 ! CV-1364
 eurointegration.com.ua,pravda.com.ua#$#abort-on-property-read as_retry
 ! RM-115
-! sp
-olx.*#$#hide-if-matches-xpath './/div[.="ТОП" or .="Промотирана обява"]/parent::div/ancestor::div[@data-testid="l-card"]'
 ! hp
 olx.*#$#hide-if-matches-xpath '//a[contains(@href,"promoted")]/parent::div/ancestor-or-self::div[@data-testid="l-card"]/preceding::h2[contains(., "VIP-объявления") or contains(., "VIP-оголошення")]/parent::div'
 ! *** abp-filters-anti-cv:spanish.txt ***
@@ -1987,7 +1987,7 @@ mail.ru#@#[href^="https://dzen.ru"]
 ! *** abp-filters-anti-cv:distribution/abp-filters-partners.txt ***
 ! Filters to be used by distribution partners
 ! #CV-782
-www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1003' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1005' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-start-from:1010' '-stop-on-video-end:true'; race stop;
+www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.5'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.8'; race stop;
 www.youtube.com,youtube-nocookie.com#$#array-override push 'AD_PLACEMENT' '' 'value.kind'
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
