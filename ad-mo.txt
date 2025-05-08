@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Pp+cvpYFQYQR5OR5f8/iHA
+! Checksum: oUthj6yWDAjpMB7H7zjGgA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202505080941
-! Last Modified: 2025年05月08日 09:41
+! Version: 202505081429
+! Last Modified: 2025年05月08日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -59324,7 +59324,6 @@ gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
 klz9.com###list-imga center:has(> a[id^="adLink"])
 klz9.com###list-imga center:has(a[href^="https://olimposcans.com/"])
 noon.com###modules-renderer:has([class*="sponsored"])
-indeed.com###mosaic-provider-jobcards li:has(.sponsoredJob)
 noon.com###noon-modules:has([class*="AdBrandVideo"])
 wsj.com###other-buckets > div > div:has(> .uds-ad-container)
 momondo.com###resultWrapper [role="group"]:has(> [class*="-adInner"])
@@ -93180,6 +93179,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||svc2.sc.com^
 ||tm-eps.neutrino.nu^
 ||tmetrix.my.chick-fil-a.com^
+||tmx.bestbuy.com^
 ||tmx.td.com^
 ||u47.pnc.com^
 ||w-profiling.cibc.com^$script
