@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /L3mMlZYYm1cTc4zzX5g+w
+! Checksum: BybNRjnsdigDdRfwE4JRaw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505102035
-! Last Modified: 2025年05月10日 20:35
+! Version: 202505110224
+! Last Modified: 2025年05月11日 02:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,7 @@ newduba.cn###jq_youxi
 ||qpqp05101oki.com^
 ||qcogiellq.com^
 ||hur05101kns.com^
+||xklv.cn^
 ||jguhqbe.top^
 ||fadjqqe.top^
 ||bcpxll.icu^
@@ -20177,6 +20178,7 @@ m.babytree.com##script + a[class]
 /_i?type=event&
 /_lib/ga.js
 /_owa.gif?
+/_servix/webid.aspx?$script
 /_sess/script.js
 /_stat/log/*
 /_stat/log_
@@ -26861,8 +26863,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dotmetrics.net^$third-party
 ||xclaimwords.net^$third-party
 ||affilbox.cz^$third-party
+||affiliateport.eu^$third-party
 ||analights.com^$third-party
 ||itop.cz^$third-party
+||leady.com^$third-party
 ||lookit.cz^$third-party
 ||monkeytracker.cz^$third-party
 ||navrcholu.cz^$third-party
@@ -26870,6 +26874,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||performax.cz^$third-party
 ||pocitadlo.cz^$third-party
 ||programmatic.cz^$third-party
+||retargeted.co^$third-party
 ||semnicneposilejte.cz^$third-party
 ||smartselling.cz^$third-party
 ||agillic.eu^$third-party
@@ -27727,6 +27732,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||azureedge.net/javascripts/Tracking.
+||azureedge.net/sdrive/zero-tracking.js
 ||azureedge.net/track
 ||azureedge.net^*/fnix.js
 ||azurewebsites.net/api/views?
@@ -30718,6 +30724,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wlog.kuaishou.com^
 ||yigouw.com/c.js
 ||tracking.vid4u.org^
+||1gr.cz/log/
 ||a.centrum.cz^
 ||bisko.mall.tv^
 ||c.seznam.cz^
@@ -30729,6 +30736,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||i.imedia.cz^
 ||log.cpex.cz^
 ||log.idnes.cz^
+||m.1gr.cz^
 ||mer.stdout.cz^
 ||pixel.biano.cz^
 ||pixel.cpex.cz^
@@ -70236,6 +70244,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||jutarnji.hr/template/js/eph_analytics.js
 ||cc.dalten.cz^
 ||jslog.post.cz^
+||logapi.alza.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||sa.kolik.cz^
 ||seznam.cz^$ping
