@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VZW7ioZwjIjWFX7pbXvXSw
+! Checksum: M0A1hFDpuYhPbAvNONP/0w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505100937
-! Last Modified: 2025年05月10日 09:37
+! Version: 202505101425
+! Last Modified: 2025年05月10日 14:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,9 @@ newduba.cn###jq_youxi
 ||sdwrghcv.top^
 ||wubizigeng.com^
 ||fktaxk.top^
+||mppanittie.com^
+||unwucnt.top^
+||qpqp05101oki.com^
 ||jguhqbe.top^
 ||fadjqqe.top^
 ||bcpxll.icu^
@@ -17285,6 +17288,7 @@ _rony.js$script,third-party
 .qqo*llo.com/$script,third-party
 .okp*ai.com/$script,third-party
 .qsko0*mas.com/$script,third-party
+.qpqp0*oki.com/$script,third-party
 .uuso0*qhs.xyz/$script,third-party
 .fun/nd389.js
 .fun/In390hG2.js
@@ -29105,6 +29109,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pm.boostintegrated.com^
 ||pmi.flowplayer.com^
 ||pn.ybp.yahoo.com/ab/secure/true/imp/
+||polarbyte.com/scripts/latest/reach/pb-reach.iife.min.js
+||polarbyte.com/scripts/latest/survey/pb-survey.iife.min.js
 ||ponos.zeronaught.com^
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
@@ -30788,6 +30794,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-tracker-library.mediaownerscloud.com^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
+||metrics.find.gr^
 ||stats-real-clients.zentech.gr^
 ||tag.weezmo.com^
 ||walla.co.il/stats/
@@ -71124,7 +71131,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
 @@||cdn.perfops.net/rom3/rom3.min.js$domain=cdnperf.com
 @@||cdn.segment.com/analytics-next/
-@@||cdn.segment.com/analytics.js/$script,domain=abstractapi.com|app.cryptotrader.tax|app.joinhandshake.com|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com|swatches.interiordefine.com
+@@||cdn.segment.com/analytics.js/$script,domain=abstractapi.com|accounts-bc.com|app.cryptotrader.tax|app.joinhandshake.com|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com|swatches.interiordefine.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
