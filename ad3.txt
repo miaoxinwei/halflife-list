@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: wKPvEYK/mgeceebHukvsmQ
+! Checksum: e8OtaxKM5UCN+MRK/+JPcg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505120945
-! Last Modified: 2025年05月12日 09:45
+! Version: 202505121430
+! Last Modified: 2025年05月12日 14:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1895,6 +1895,7 @@ newduba.cn###jq_youxi
 ||iiwk.cn^
 ||mos05111o9i.com^
 ||mos05110o9i.com^
+||kklq05121p0i.com^
 ||kklq05120p0i.com^
 ||kklq05111p0i.com^
 ||stgxau.icu^
@@ -17311,6 +17312,7 @@ _rony.js$script,third-party
 .mos0*o9i.com/$script,third-party
 .qpqp0*oki.com/$script,third-party
 .uuso0*qhs.xyz/$script,third-party
+.kklq0*p0i.com/$script,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
@@ -70789,7 +70791,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||csplog.kwai-pro.com^
 ||data-events.uniplaces.com^
 ||dejavu.mercadolivre.com.br^
-||dn.pt/tag/
+||dn.pt/qlitics.js
+||dn.pt/scooby/api/v1/log/
 ||dna.uol.com.br^
 ||eduplay.rnp.br/collector/
 ||estrelaapps.com/collect
