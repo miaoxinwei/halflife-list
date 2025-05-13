@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3MrGfAqB5CBtKZ36h+bPVw
+! Checksum: 3yK0qhXE+lDsW7CLcPrWrw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505122041
-! Last Modified: 2025年05月12日 20:41
+! Version: 202505131429
+! Last Modified: 2025年05月13日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1883,6 +1883,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||upufkg.icu^
+||bycrovalb.com^
+||hur05130kns.com^
+||weod.cn^
+||hodynx.top^
 ||wmykyw.icu^
 ||mos05120o9i.com^
 ||pjcqzm.cn^
@@ -17319,6 +17324,7 @@ _rony.js$script,third-party
 .qpqp0*oki.com/$script,third-party
 .uuso0*qhs.xyz/$script,third-party
 .kklq0*p0i.com/$script,third-party
+.hur0*kns.com/$script,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
@@ -22212,6 +22218,7 @@ m.babytree.com##script + a[class]
 /stat/event?
 /stat/fe?
 /stat/rt/js?
+/stat/stat.php?type=
 /stat2.aspx?
 /stat2.js
 /stat?event=
@@ -22232,6 +22239,7 @@ m.babytree.com##script + a[class]
 /statcounter.js
 /statcountex/count.asp?
 /statistic/pixel?
+/statistiche/stat.php$xmlhttprequest
 /statistics.js?$third-party
 /statistics/pixel/*
 /statistics/visit?id=
@@ -25712,6 +25720,7 @@ omni.soundestlink.com$image
 ||springmetrics.com^$third-party
 ||sptag.com^$third-party
 ||sptag1.com^$third-party
+||spur.us^$third-party
 ||spylog.com^$third-party
 ||spylog.ru^$third-party
 ||spywords.com^$third-party
@@ -29892,6 +29901,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||twitter.com/oct.js
 ||twitter.com/scribe/
 ||typeform.com/*/insights/events^
+||tzm.px-cloud.net^
 ||uaas.yandex.ru^
 ||uadblocker.com/pixel1.php?$third-party
 ||ubm.docu.info^
@@ -30910,6 +30920,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plug.it^*/iol_evnt_
 ||plug.it^*/track_
 ||plug.it^*/tracking_
+||rbdata.boostymark.com^
 ||rcsobjects.it/rcs_tracking-service/v1/distro/HTML/trservice.shtml
 ||rd.alice.it^
 ||redbee.serverside.ai^$image
@@ -31650,6 +31661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||autotrader.com/*/pep?pixallId
 ||autotrader.com/pixall/
 ||avitop.com/aviation/hitlist.asp
+||b2c-unleash-proxy.fresha.com^
 ||b629.electronicdesign.com^
 ||ba-bamail.com/handlers/stats.ashx
 ||backcountry.com/api/log
@@ -68557,7 +68569,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||onelink.taptalk.io^
 ||open-test.wynk.in^
 ||open.ailo.app^
-||open.airtelxstream.in^
 ||open.anghami.com^
 ||open.bitcoinmagazine.app^
 ||open.catchapp.mobi^
