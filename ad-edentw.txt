@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Yy1hB5QkzUlWDbA8bI2r8g
+! Checksum: qg8hdnqleMSq59Ls48ELFg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202505140228
-! Last Modified: 2025年05月14日 02:28
+! Version: 202505140941
+! Last Modified: 2025年05月14日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1680,7 +1680,7 @@ ibrarian.net#$#abort-on-property-read adsRedirectPopups
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad;abort-on-property-read pushOnPageGala
 javnong.cc#$#abort-on-property-read Math.round
-viet69.sb,truyengihotnay.com,dualeotruyenm.com,yurineko.my,heo69.tv,phimsexhay669.pro,cliphot69.cool,doctruyen3qui9.pro,ihentai.city,animehay.bid,hentaivc.net,streamvl.top,buomtv.blog,truyenvn.ad,javtiful.com,quatvn.love,tenmientruyengi.net,vn13phimsexhay.com,phim18hdxx.com,vn1.sexviet88.xyz,demo.14412882.com,sextv18.pro,ungtycomicsvip.org,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.me#$#abort-current-inline-script WebAssembly instantiate
+viet69.sb,truyengihotnay.com,dualeotruyenm.com,yurineko.my,heo69.tv,phimsexhay669.pro,cliphot69.cool,doctruyen3qui9.pro,ihentai.city,animehay.bid,hentaivc.net,streamvl.top,buomtv.blog,truyenvn.ad,javtiful.com,quatvn.love,tenmientruyengi.net,vn14phimsexhay.com,phim18hdxx.com,vn1.sexviet88.xyz,demo.14412882.com,sextv18.pro,ungtycomicsvip.org,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.me#$#abort-current-inline-script WebAssembly instantiate
 www.phimdinhcao.online,www.motchill72.com,www.motchill72.com,xnhau.im,teamlanhlung7.shop,xemphimjav.us#$#abort-on-property-read localStorage
 phimgichill.net#$#abort-current-inline-script jQuery popurl
 phimgichill.net,hh3dhay.life,tram3d.net,animevietsub.lol#$#abort-current-inline-script eval $._Eu
@@ -1751,7 +1751,6 @@ mail.ru#@#[href*="https://dzen.ru"]
 ! Filters to be used by distribution partners
 ! #CV-782
 www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.5'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.8'; race stop;
-www.youtube.com,youtube-nocookie.com#$#array-override forEach 'AD_PLACEMENT_' '' 'value.kind';
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
 m.youtube.com#$#override-property-read ytInitialPlayerResponse.playerAds undefined;
@@ -1780,15 +1779,19 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||amyrinbitume.com^
 ||ankolisiloam.com^
 ||argyllshumuses.com^
+||arisingwinze.com^
 ||ashlingzanyish.com^
+||awolhalling.com^
 ||beldameearwort.shop^
 ||beylicbesmile.com^
 ||birddomlaz.com^
 ||bivinyltarve.com^
+||bnbagnut.com^
 ||boodybasalt.com^
 ||booksylatron.com^
 ||borelmazatec.com^
 ||botakissed.com^
+||brazilprocyon.com^
 ||broosnighed.com^
 ||bubblessudsman.com^
 ||burdenmapwise.com^
@@ -1796,19 +1799,25 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||chambulwacs.com^
 ||chatterfretten.com^
 ||corylussunroof.com^
+||cuinageaquilid.com^
+||didspack.com^
 ||dinkiersenhora.com^
+||drammerxylinid.com^
 ||eejestonsou.net^
 ||eidersrettory.com^
 ||evertsmiggles.com^
 ||fabricforrel.com^
 ||feretraconcion.com^
 ||foodycallat.com^
+||fordedcostaea.com^
 ||fumeuseaudibly.com^
 ||gaggedtetrode.com^
+||geishastending.com^
 ||girnalnemean.com^
 ||glebyoidioid.com^
 ||gooddemands.com^
 ||greeterstaniel.com^
+||gutwortdishpan.top^
 ||hexingteeting.com^
 ||hidlinsboart.com^
 ||hoocaumakopaibu.com^
@@ -1820,6 +1829,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||isthmaluncoyly.com^
 ||januaryverby.com^
 ||johannatailor.com^
+||kaksafoopee.com^
 ||lamplitvolvell.top^
 ||lazuliempall.com^
 ||lettenfluoric.com^
@@ -1829,14 +1839,18 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||loungedcabrie.com^
 ||lunularcense.com^
 ||maculesrevisit.com^
+||mahubraces.com^
 ||maraywreath.com^
 ||mesodepointed.com^
+||morsalurluch.com^
 ||mudejartitoism.com^
 ||murathernias.com^
+||odzcakey.com^
 ||ostlerscil.com^
 ||otomacotelugu.com^
 ||platedmanlily.com^
 ||potentymoa.com^
+||preyfultarried.com^
 ||redrootacuter.com^
 ||rhaphaecelts.com^
 ||richardghain.com^
@@ -1845,16 +1859,19 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||sabsbonos.com^
 ||sansaradivulse.com^
 ||socagercornet.com^
+||softenpiscine.com^
 ||stoachdarts.com^
 ||stulmunshent.com^
 ||tammycooly.com^
 ||tampurunrig.com^
 ||thummingnats.com^
+||unmeetbookies.com^
 ||versinehopper.com^
 ||virgosclavis.com^
 ||whizzerrapiner.com^
 ||widdermixtec.com^
 ||yamanaisleepry.com^
+||yarningbursal.com^
 ||yocksniacins.com^
 ! *** abp-filters-anti-cv:3rd-party/cloudfront.txt ***
 ! AakList (Anti-Adblock Killer)
