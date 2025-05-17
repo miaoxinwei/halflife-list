@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: y/WAA24iVLZ9b3oeElOHMA
+! Checksum: 3vz5EFtCUqEskhjZVtM8bw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202505170227
-! Last Modified: 2025年05月17日 02:27
+! Version: 202505170939
+! Last Modified: 2025年05月17日 09:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -21812,6 +21812,7 @@ browsershots.org#@#.advert_area
 ||cortilepartes.shop^
 ||cortonrestis.top^
 ||corveseiren.com^
+||corylussunroof.com^
 ||cosechice.shop^
 ||cosedluteo.com^
 ||cosignpresentlyarrangement.com^
@@ -24180,6 +24181,7 @@ browsershots.org#@#.advert_area
 ||europe-discounts.com^
 ||europeanivanprestigious.com^
 ||euros4click.de^
+||eurosexcuses.com^
 ||eurse.com^
 ||euskarawordman.shop^
 ||eusvnhgypltw.life^
@@ -25953,6 +25955,7 @@ browsershots.org#@#.advert_area
 ||goaserv.com^
 ||goasrv.com^
 ||goatauthut.xyz^
+||goathaga.top^
 ||goatmod.xyz^
 ||goatsnulls.com^
 ||goazooviwhail.net^
@@ -26372,6 +26375,7 @@ browsershots.org#@#.advert_area
 ||gutockeewhargo.net^
 ||gutrnesak.com^
 ||gutwn.info^
+||gutwortdishpan.top^
 ||guvmcalwio.com^
 ||guvmmaolnk.com^
 ||guvnumnm.com^
@@ -28400,6 +28404,7 @@ browsershots.org#@#.advert_area
 ||jravekvyeyybj.top^
 ||jrbbavbvqmbzl.top^
 ||jrfngdrodrdop.icu^
+||jriaqfqtufu.com^
 ||jriortnf.com^
 ||jrolyrlabybmz.top^
 ||jrolyrlabykmb.top^
@@ -30473,6 +30478,7 @@ browsershots.org#@#.advert_area
 ||metoacrype.com^
 ||metothepointa.com^
 ||metredesculic.com^
+||metrepeaches.com^
 ||metrica-yandex.com^
 ||metrics.io^
 ||metricswpsh.com^
@@ -31462,6 +31468,7 @@ browsershots.org#@#.advert_area
 ||ngegas.files.im^
 ||ngfruitiesmatc.info^
 ||ngfycrwwd.com^
+||nggbpptthpm.com^
 ||nghlsfshnptix.tech^
 ||ngjgnidajyls.xyz^
 ||ngjwlvrfbwlvm.xyz^
@@ -31715,6 +31722,7 @@ browsershots.org#@#.advert_area
 ||npetropicalnorma.com^
 ||npetropicalnormati.org^
 ||npiqpynunahs.com^
+||npjoofigcsiqcep.com^
 ||npkkpknlwaslhtp.xyz^
 ||npoguqzuc.com^
 ||npohfiolcotk.com^
@@ -35912,6 +35920,7 @@ browsershots.org#@#.advert_area
 ||rrmlejvyqwzk.top^
 ||rrobbybmkwewq.top^
 ||rrqhieeaf.com^
+||rruxvlycnmeko.xyz^
 ||rruyfnxmoq.com^
 ||rrxoysq.art^
 ||rs-stripe.com^
@@ -37806,6 +37815,7 @@ browsershots.org#@#.advert_area
 ||stvwell.online^
 ||stylesbatty.top^
 ||styletrackstable.com^
+||stylf.com^
 ||stylish-airport.com^
 ||stylish-knife.com^
 ||styshowuwhe.pro^
@@ -41987,6 +41997,7 @@ browsershots.org#@#.advert_area
 ||zorango.com^
 ||zordaustewhoh.com^
 ||zorduwaidroom.net^
+||zorsophulroo.com^
 ||zougreek.com^
 ||zouloafi.net^
 ||zounokawewoaru.com^
@@ -45810,6 +45821,7 @@ browsershots.org#@#.advert_area
 ||goaffmy.com^$popup
 ||goapoachowoovol.net^$popup
 ||goaserv.com^$popup
+||goathaga.top^$popup
 ||godkc.com^$popup
 ||godpvqnszo.com^$popup
 ||gold2762.com^$popup
@@ -46389,6 +46401,7 @@ browsershots.org#@#.advert_area
 ||messagereceiver.com^$popup
 ||messenger-notify.xyz^$popup
 ||meteorclashbailey.com^$popup
+||metrepeaches.com^$popup
 ||metrica-yandex.com^$popup
 ||mevarabon.com^$popup
 ||mghkpg.com^$popup
@@ -62242,7 +62255,6 @@ gamcore.com##li.d-md-block > a[rel]
 @@||smallseotools.com^$generichide
 @@||sonichits.com^$generichide
 @@||soranews24.com^$generichide
-@@||spiegel.de^$generichide
 @@||thefreedictionary.com^$generichide
 @@||tlc.com^$generichide
 @@||yibada.com^$generichide
@@ -92940,6 +92952,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.habr.com^
+||stats.hexa.watch^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
@@ -131512,7 +131525,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||simcotools.app/assets/adsense-*.js$~third-party
 @@||simpleanalyticsexternal.com^$script,domain=inleo.io
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
-@@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||snowplow.swm.digital^$domain=7plus.com.au
 @@||sohotheatre.com^*/PageView.js$~third-party
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
