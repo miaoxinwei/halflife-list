@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M8zxYTXB7Knriq44fc6Oqw
+! Checksum: roGYKlGisb8xd27eWpECAA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202505190225
-! Last Modified: 2025年05月19日 02:25
+! Version: 202505190947
+! Last Modified: 2025年05月19日 09:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2332,6 +2332,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||xdea.cn^
+||ldrerirbuaou.com^
+||rwbqll.top^
 ||niu05180jd.top^
 ||n0ocxl4w5g.top^
 ||afce.cn^
@@ -17821,27 +17824,26 @@ _rony.js$script,third-party
 .fun/by389.js
 .pw/TA390hz2.js
 .pw/by389.js
-.o0*aokk.com/iis.$script,third-party
-.uhi*uik.xyz/$script,third-party
-.xxaks*sspao.xyz/$script,third-party
-.is0*qqp.xyz/$script,third-party
-.as0*kkp.xyz/$script,third-party
-.012*sop.xyz/$script,third-party
-.apk0*oo.xyz/$script,third-party
-.okpp0*.xyz/$script,third-party
-.so0*koaq.com/$script,third-party
-.hh0*aoik.com/$script,third-party
-.qqo*llo.com/$script,third-party
-.okp*ai.com/$script,third-party
-.qsko0*mas.com/$script,third-party
-.mos0*o9i.com/$script,third-party
-.qpqp0*oki.com/$script,third-party
-.uuso0*qhs.xyz/$script,third-party
-^kklq0*p0i.com/$script,third-party
-^ouqo0*luj.com/$script,third-party
-.hur0*kns.com/$script,third-party
-^ouqo0*luj.com/$script,third-party
-^niu0*jd.top/$script,third-party
+.o0*aokk.com/iis.$script,xmlhttprequest,third-party
+.uhi*uik.xyz/$script,xmlhttprequest,third-party
+.xxaks*sspao.xyz/$script,xmlhttprequest,third-party
+.is0*qqp.xyz/$script,xmlhttprequest,third-party
+.as0*kkp.xyz/$script,xmlhttprequest,third-party
+.012*sop.xyz/$script,xmlhttprequest,third-party
+.apk0*oo.xyz/$script,xmlhttprequest,third-party
+.okpp0*.xyz/$script,xmlhttprequest,third-party
+.so0*koaq.com/$script,xmlhttprequest,third-party
+.hh0*aoik.com/$script,xmlhttprequest,third-party
+.qqo*llo.com/$script,xmlhttprequest,third-party
+.okp*ai.com/$script,xmlhttprequest,third-party
+.qsko0*mas.com/$script,xmlhttprequest,third-party
+.mos0*o9i.com/$script,xmlhttprequest,third-party
+.qpqp0*oki.com/$script,xmlhttprequest,third-party
+.uuso0*qhs.xyz/$script,xmlhttprequest,third-party
+^kklq0*p0i.com/$script,xmlhttprequest,third-party
+^ouqo0*luj.com/$script,xmlhttprequest,third-party
+.hur0*kns.com/$script,xmlhttprequest,third-party
+^niu0*jd.top/$script,xmlhttprequest,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
@@ -17888,6 +17890,10 @@ ykxs.cc##a[href^="javascript"]
 /js/pfad*.js
 wss://*.top/|
 wss://*.*.top/$third-party
+##body > .app + #htmlContenthtml
+##.app > .app_tj
+##body > .zdhf
+##body > .dbfh
 ##body > div[style$=";background: #000;opacity:0.01;"]
 /static/idingdian/idd.
 /themes/default/wap/images/douyin.gif
@@ -17896,9 +17902,6 @@ wss://*.*.top/$third-party
 ||wanmeisxs.cc/js/m.
 ||biqugie.com/js/wap.
 ||fushuba123.top/statics/js/wap.js
-4hrz.net,1ingatlan.net,product44.com,softtechsolution.org,xianguke.net,xiexinde.net,tetservices.net##.dbfh
-4hrz.net,1ingatlan.net,product44.com,softtechsolution.org,xianguke.net,xiexinde.net,tetservices.net##.app
-4hrz.net,1ingatlan.net,product44.com,softtechsolution.org,xianguke.net,xiexinde.net,tetservices.net###htmlContenthtml
 /pa.dajiahao*.top/
 ||bdcde.com/js/x*.js
 ||bdcde.com/js/s*.js
