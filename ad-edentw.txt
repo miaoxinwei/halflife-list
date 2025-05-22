@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PCo5q/zf9VgEkQfhjgNG0g
+! Checksum: oXU3DmXwQPfpiWYuFYwmHQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202505222041
-! Last Modified: 2025年05月22日 20:41
+! Version: 202505230228
+! Last Modified: 2025年05月23日 02:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1468,7 +1468,6 @@ l2top.ru#$#abort-current-inline-script $ cleanAndEval
 rsload.net#$#abort-current-inline-script window.addEventListener load
 musify.club#$#abort-on-property-read get_ya_browser
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
-cq.ru#$#prevent-listener DOMContentLoaded 'banners'
 ||cq.ru^$xmlhttprequest,header=cq-cache-bypassed
 shanson320.ru#$#abort-current-inline-script document.createElement atob
 coderlessons.com,facenews.ua,fixx.one,its-kids.ru,molitvy.guru,nizhny.ru,pro100hobbi.ru,publy.ru,samelectric.ru,svadba.expert,tehnobzor.ru,vibir.ru,100popugaev.ru#$#abort-on-property-read XMLHttpRequest
@@ -1958,7 +1957,7 @@ knuspr.de#$#hide-if-matches-xpath '//span[contains(., "Sponsored") or contains(.
 staples.com#$#hide-if-matches-xpath './/img[@alt="Sponsored Products"]/parent::picture/ancestor::div[@class][string-length(@class) < 16][1]'
 ! #RM-194
 ! SP
-fiverr.com#$#hide-if-matches-xpath './/div[contains(@class, "gig-card-layout")]//span/div[@class="bmo8dz1" and string-length(@class) = 7]/ancestor-or-self::div[@class="gig-card-layout"][1]'
+fiverr.com#$#hide-if-contains-and-matches-style '' 'div.gig-card-layout' 'span>div' /./ /PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTgiIGZpbGw9Im5vb/
 ! #RM-146
 ! ba
 mundi.com.br#$#hide-if-contains-visible-text /Anúncio/ 'div[role][tabindex^="0"]' 'div[class]>div'
@@ -2021,12 +2020,14 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||ankolisiloam.com^
 ||argyllshumuses.com^
 ||arisingwinze.com^
+||asbfala.com^
 ||ashlingzanyish.com^
 ||aveuglediking.com^
 ||awolhalling.com^
 ||balanicextreat.com^
 ||begumsbandi.com^
 ||beldameearwort.shop^
+||bermudaprimero.com^
 ||beylicbesmile.com^
 ||birddomlaz.com^
 ||bivinyltarve.com^
@@ -2040,6 +2041,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||bubblessudsman.com^
 ||burdenmapwise.com^
 ||burleskspoiler.com^
+||calyxesdefames.com^
 ||cawneyligge.com^
 ||chambulwacs.com^
 ||chatterfretten.com^
@@ -2058,6 +2060,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||filumbehest.com^
 ||foodycallat.com^
 ||fordedcostaea.com^
+||freaksgreed.com^
 ||fumeuseaudibly.com^
 ||gaggedtetrode.com^
 ||geishastending.com^
@@ -2069,9 +2072,11 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||greeterstaniel.com^
 ||groadamsoux.com^
 ||gutwortdishpan.top^
+||heistedsignon.com^
 ||hexingteeting.com^
 ||hidlinsboart.com^
 ||hoocaumakopaibu.com^
+||hoodlumbragget.com^
 ||hoopersnonpoet.com^
 ||hottedholster.com^
 ||hydrasploughs.com^
@@ -2080,9 +2085,11 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||ignoresfahlerz.com^
 ||isthmaluncoyly.com^
 ||januaryverby.com^
+||jgtjw.com^
 ||johannatailor.com^
 ||kaksafoopee.com^
 ||lamplitvolvell.top^
+||lawscrax.com^
 ||lazuliempall.com^
 ||lettenfluoric.com^
 ||liftjoinant.com^
@@ -2105,6 +2112,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||ostlerscil.com^
 ||otomacotelugu.com^
 ||platedmanlily.com^
+||poculalienly.com^
 ||potentymoa.com^
 ||preyfultarried.com^
 ||redrootacuter.com^
@@ -2115,9 +2123,11 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||rootcaptawed.com^
 ||sabsbonos.com^
 ||sansaradivulse.com^
+||sauwaistaugleet.net^
 ||schizypdq.com^
 ||socagercornet.com^
 ||softenpiscine.com^
+||spacemancreativedom.net^
 ||stoachdarts.com^
 ||stuffedclipse.com^
 ||stulmunshent.com^
@@ -2129,6 +2139,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||thripeldesi.com^
 ||thummingnats.com^
 ||tubingacater.com^
+||uncotorture.com^
 ||ungreeninwrit.com^
 ||unmeetbookies.com^
 ||versinehopper.com^
