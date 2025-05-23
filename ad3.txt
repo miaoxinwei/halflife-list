@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0jXfwJEVym2lE3fEEjnmag
+! Checksum: PD6MQpT2SypZaVn6Q7i9DA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505230228
-! Last Modified: 2025年05月23日 02:28
+! Version: 202505230942
+! Last Modified: 2025年05月23日 09:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1884,6 +1884,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||cdjst7i1v.com^
+||9oru1vh0w.com^
+||uwxez.com^
+||ytqvuq.icu^
+||tbunkrolo.com^
+||haitang77.com^
+||evkc.cn^
+||zcdfnl.top^
 ||xg8mbvu3x8.com^
 ||lzov.cn^
 ||opicrutuk.com^
@@ -23623,6 +23631,7 @@ omni.soundestlink.com$image
 ||hsadspixel.net^
 ||hsleadflows.net^
 ||htplayground.com^
+||hzstats.com^
 ||i218435.net^
 ||ia-dmp.com^
 ||iconmediapixel.com^
@@ -26202,7 +26211,6 @@ omni.soundestlink.com$image
 ||wc4.net^$image,third-party
 ||wdsvc.net^$third-party
 ||we-stats.com^$third-party
-||web-boosting.net^$third-party
 ||web-counter.net^$third-party
 ||web-stat.com^$third-party
 ||web-stat.fr^$third-party
@@ -29662,6 +29670,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
+||stats.sender.net^
 ||stats.senty.com.au^
 ||stats.shopify.com^
 ||stats.slashed.cloud^
@@ -30801,6 +30810,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zebestof.com^$third-party
 ||minsk-in.net/counter.php?
 ||aff*.kolektiva.net^
+||freshatl.azurewebsites.net^
 -logging.nextmedia.com^
 ||120.132.57.41/pjk/pag/ys.php
 ||163.com/sn.gif?
@@ -69526,6 +69536,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||herz-fuer-tiere.de^*/ad.gif?
 ||herz-fuer-tiere.de^*/sunshine.gif?
 ||hokuspokus.tarnkappe.info^
+||holidaycheck.*/svc/ubt/v1/events
 ||homegate.ch/g/collect?
 ||inside-channels.ch/proxy/engine/api/v1/auth/ping/
 ||inside-it.ch/proxy/engine/api/v1/auth/ping/
