@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: C7uGOFekXi85GHpdXdAIrg
+! Checksum: Mg3Ugqn5hR/+8AZ5oOM+6A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505260945
-! Last Modified: 2025年05月26日 09:45
+! Version: 202505261430
+! Last Modified: 2025年05月26日 14:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1892,6 +1892,8 @@ newduba.cn###jq_youxi
 ||fghggng.com^
 ||fznidd.top^
 ||vjml.cn^
+||jcquhetqcp.com^
+||bgf05261lko.com^
 ||2lzg9mqzw.com^
 ||uziisk.icu^
 ||m8zgls6zt.com^
@@ -70895,6 +70897,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||g123.jp/stats?
 ||game-i.daa.jp/skin/analytics.php
 ||game8.jp/logs^
+||gigafile.nu/add_count_fab_jx.php
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||gtm.diamond.jp^
@@ -71591,7 +71594,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
 @@||join.southerncross.co.nz/quote/_assets/js/sx/app/helpers/gtm.js
 @@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com|live.griiip.com
-@@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.com
+@@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com|jules.com
