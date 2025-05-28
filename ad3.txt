@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: H1LJyUhMRdP/lyuXhI1SbA
+! Checksum: n16xWlb2/bqRm16ePNuz3g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202505272042
-! Last Modified: 2025年05月27日 20:42
+! Version: 202505280943
+! Last Modified: 2025年05月28日 09:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1884,6 +1884,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||iaxmmw9fbx.com^
+||bgf05280lko.com^
+||n72bn5s7uu.top^
+||wigqae.icu^
+||lvsm.cn^
+||rpvqhicca.com^
+||q5sn40kmp2.com^
 ||3kfvgobkw.com^
 ||wy12cewh4.com^
 ||bgf05270lko.com^
@@ -14776,7 +14783,13 @@ msn.com##div[data--adqjyluqt]
 baidu.com##div[data-ad]
 uc.cn##div[data-ad_url^="http"]
 sina.cn##div[data-adid]
-yahoo.com##div[data-content="廣告"]
+yahoo.com##div[data-content="廣告"]:not(#sda-MAST-iframe)
+yahoo.com##.taboola-ad-item-wrapper
+yahoo.com##.stream-responsive-ad-item
+yahoo.com###sda-top-center-iframe
+yahoo.com###sda-top-right-iframe
+yahoo.com###sda-mid-right-iframe
+yahoo.com###sda-mid-right-2-iframe
 wealwomen.com##div[data-cptid]
 cqmmgo.com##div[data-id*="_adv_"]
 freejavbt.com##div[data-selector*="ai-insert-"]
