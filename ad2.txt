@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LzAis5hV9eZE4pcj/1Cf6g
+! Checksum: fLAvkEI/uPQJl0ViXfskMQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202505310940
-! Last Modified: 2025年05月31日 09:40
+! Version: 202505311427
+! Last Modified: 2025年05月31日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1886,6 +1886,7 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||7x9i88rvn.com^
 ||jkn05310loi.com^
+||jkn05311loi.com^
 ||mc5e9p8qx.com^
 ||yeuviq.icu^
 ||riht.cn^
@@ -1894,6 +1895,8 @@ newduba.cn###jq_youxi
 ||cockersbehint.com^
 ||aldusmiskals.com^
 ||lbjupq.top^
+||w9uwz5966.com^
+||0a0atz2sh.top^
 ||f9gv87zoq2.com^
 ||aoydwg.icu^
 ||3exfu7vaxu.com^
@@ -17539,6 +17542,7 @@ _rony.js$script,third-party
 .hur0*kns.com/$script,xmlhttprequest,third-party
 ^niu0*jd.top/$script,xmlhttprequest,third-party
 .bgf0*lko.com/$script,xmlhttprequest,third-party
+.jkn0*loi.com/$script,xmlhttprequest,third-party
 .fun/nd389.js
 .fun/In390hG2.js
 .pw/nd389.js
