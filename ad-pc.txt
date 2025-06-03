@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9xC/yIW2xcADGorp6mDlkw
+! Checksum: UDVl0FQ7IugzfEtVpKh+6g
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202506030944
-! Last Modified: 2025年06月03日 09:44
+! Version: 202506031431
+! Last Modified: 2025年06月03日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -22401,6 +22401,7 @@ browsershots.org#@#.advert_area
 ||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
+||cryptobuffet.care^
 ||cryptojimmy.care^
 ||cryptomaster.care^
 ||cryptomcw.com^
@@ -58851,6 +58852,7 @@ bernama.com##a[class^="banner_photo_"]
 probuilds.net##a[class^="dl-blitz-"]
 trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 mallorca.com##a[data-ad]
+sourceforge.net##a[data-label="avastjune"]
 iconfinder.com##a[data-tracking^="iStock"]
 sashares.co.za##a[data-wpel-link="external"]
 pinterest.at,pinterest.ca,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.au,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt##a[href*="&epik="]
@@ -64407,6 +64409,8 @@ newduba.cn###jq_youxi
 ||dypozx.icu^
 ||wmktew.icu^
 ||nftxfd.top^
+||u5eguuk2n.com^
+||ok5xe6r7o.top^
 ||lj0hx1sboy.com^
 ||nplvdodbja.com^
 ||yjoyse.icu^
