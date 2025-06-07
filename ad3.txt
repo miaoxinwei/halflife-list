@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: i9tdW+He4WjUIugZKb2yrg
+! Checksum: TYUIIyFksdq5IROpYL6PDA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506072037
-! Last Modified: 2025年06月07日 20:37
+! Version: 202506080226
+! Last Modified: 2025年06月08日 02:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1898,6 +1898,7 @@ newduba.cn###jq_youxi
 ||uggrianvo.com^
 ||wpeo.cn^
 ||dtauda3232.top^
+||icjl.cn^
 ||1qfxm8hgqd.com^
 ||yiybmi.icu^
 ||uroz44gxhx.com^
@@ -23010,6 +23011,7 @@ m.babytree.com##script + a[class]
 ://collector.*/event
 ://data.*/v1/interact?
 ://datacollector.*/event
+://dwh-prod.*/de.npg/
 ://elqtrk.
 ://fallback.*/collector
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
