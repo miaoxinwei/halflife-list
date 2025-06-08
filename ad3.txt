@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 56R5LrYZmZls0DtWnb/+yA
+! Checksum: l2W+3s5a6DpgcECjE3om9g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506081428
-! Last Modified: 2025年06月08日 14:28
+! Version: 202506082037
+! Last Modified: 2025年06月08日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1896,6 +1896,8 @@ newduba.cn###jq_youxi
 ||bj5iodzgyi.com^
 ||thljnv.top^
 ||xupd.cn^
+||lfhthokieryf.com^
+||papaw818.com^
 ||afno.cn^
 ||nmg02g56z.com^
 ||7dgk5h1lk.com^
@@ -32681,6 +32683,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msn.com/collect/
 ||msn.com/OneCollector/
 ||mstm.motorsport.com^
+||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
 ||myfreecams.com/php/tracking.php?
@@ -71889,6 +71892,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||app.clarity.so^$~third-party
 @@||cbsi.map.fastly.net^
 @@||content.ingbank.pl^
+@@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
