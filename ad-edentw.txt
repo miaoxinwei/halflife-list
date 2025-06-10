@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NwE/6dTpSmDFx0uW6n6f0Q
+! Checksum: OJIGcwutZIKjLVbR9asTNQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202506100229
-! Last Modified: 2025年06月10日 02:29
+! Version: 202506100946
+! Last Modified: 2025年06月10日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -936,9 +936,8 @@ upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
 kickassanime.io##.ka-ax-wrp.mb-3
 imagefap.com#$#abort-on-property-read popCookie
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#hide-if-matches-xpath '//aside/*[position() > 1]/descendant-or-self::a[@href and ((starts-with(@href, "https://igg-games.com/") and contains(@href, "flix")) or substring(@href, string-length(@href) - 3) = ".php" or (contains(@href, "/gameadult/") and substring(@href, string-length(@href) - 3) = ".php") or (starts-with(@href, "https://pcgamestorrents.") and contains(@href, "/cuskilo")))]/img/ancestor::div[1]';
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#hide-if-matches-xpath '//div[contains(@class, "uk-margin-medium") or (@style="display: flex; justify-content: center")]/*[position() <= 2][.//img[starts-with(@src, "https://igg-games.com/wp-content/uploads/") or contains(@src, "https://pcgamestorrents.") ]]';
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#abort-on-property-write advanced_ads_ready; prevent-listener DOMContentLoaded; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement; abort-on-property-read window.open; abort-current-inline-script document.documentElement break;case $.
+igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#hide-if-matches-xpath './/img[starts-with(@src, "/wp-content/uploads/")]/ancestor-or-self::a[starts-with(@href,"/offernf?offer=")]/parent::div[1]';
+igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#abort-on-property-write advanced_ads_ready; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement; abort-on-property-read window.open; abort-current-inline-script document.documentElement break;case $.
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
@@ -2037,7 +2036,9 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||amyrinbitume.com^
 ||ankolisiloam.com^
 ||annussleys.com^
+||argonjugate.com^
 ||argyllshumuses.com^
+||ariososlepage.com^
 ||arisingwinze.com^
 ||armsfulpageant.top^
 ||asbfala.com^
@@ -2060,12 +2061,15 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||burdenmapwise.com^
 ||bututpoopsie.com^
 ||calyxesdefames.com^
+||causeyexonian.com^
 ||cawneyligge.com^
 ||chambulwacs.com^
 ||chatterfretten.com^
 ||cuinageaquilid.com^
+||dampshorral.com^
 ||didesthanger.com^
 ||didspack.com^
+||dingebeek.com^
 ||dinkiersenhora.com^
 ||dirgesimious.com^
 ||discepttaked.com^
@@ -2113,6 +2117,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||maculesrevisit.com^
 ||mahubraces.com^
 ||maraywreath.com^
+||maydaciting.com^
 ||mesodepointed.com^
 ||methylstewed.com^
 ||milseycurly.com^
@@ -2126,7 +2131,11 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||onlinehentai.tv^
 ||ostlerscil.com^
 ||otomacotelugu.com^
+||ousiademark.com^
+||oxyacidalogia.com^
+||pelitecontg.top^
 ||platedmanlily.com^
+||plumbicwooler.com^
 ||poculalienly.com^
 ||potentymoa.com^
 ||preyfultarried.com^
@@ -2140,6 +2149,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||sansaradivulse.com^
 ||saughanisoin.shop^
 ||schizypdq.com^
+||scrivencaccias.com^
 ||snarkalit.com^
 ||socagercornet.com^
 ||spacemancreativedom.net^
@@ -2147,6 +2157,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||stoachdarts.com^
 ||stuffedclipse.com^
 ||stulmunshent.com^
+||suffarilbf.com^
 ||synochaauca.com^
 ||tacksnocks.top^
 ||taffykhirka.com^
@@ -2189,6 +2200,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ! Example: https://df.fingudotlet.com/rnbPxfaHQHbZl2Xvd/ewQng
 /^https:\/\/(?:[a-z]{2}\.)?[a-z]{7,14}\.com\/[a-z](?=[a-z]*[0-9A-Z])[0-9A-Za-z]{10,27}\/[A-Za-z]{5}$/$match-case,script,third-party,domain=cineby.app
 ! *** abp-filters-anti-cv:3rd-party/cloudfront.txt ***
+||d2vptth0euqbxm.cloudfront.net^
 ! AakList (Anti-Adblock Killer)
 ! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
 ! ----- Generic ----- !
