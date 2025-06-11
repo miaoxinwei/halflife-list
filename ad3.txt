@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8OZLRLDawz1rQv01awLAeg
+! Checksum: VtoKQdwZEM3S04zOor2A1Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506110229
-! Last Modified: 2025年06月11日 02:29
+! Version: 202506110945
+! Last Modified: 2025年06月11日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||jikklfexh.com^
+||nrephihe.com^
+||4rcajmf0m.com^
+||exowsw.icu^
+||ocmr.cn^
+||s7fpxh6fz.com^
+||truell55.top^
+||zttebe.top^
 ||yhsbgm.icu^
 ||5azvpjx8xj.com^
 ||7o2l520r0a.com^
@@ -32079,6 +32087,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
+||contentpass.net/error-tunnel
+||contentpass.net/stats
 ||cookpad.com/*/activity_logs
 ||copilot-telemetry.githubusercontent.com^
 ||count.all.biz^
@@ -70208,6 +70218,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||email.nautiljon.com/oo/$image
 ||europe1.fr/assets/europe1/estat.
 ||events-logs.doctolib.com^
+||events.verifymy.io^
 ||flow.kiloutou.fr^
 ||fourchette-et-bikini.fr/core/modules/statistics/
 ||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
