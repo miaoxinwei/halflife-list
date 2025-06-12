@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Rn57aL35Em22+ZTJPdg0wg
+! Checksum: kL6pwkAs/WCn3yIdMCIR0Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506112042
-! Last Modified: 2025年06月11日 20:42
+! Version: 202506120944
+! Last Modified: 2025年06月12日 09:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,16 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||c21x8nmdak.com^
+||hvmdu6macy.com^
+||yui06120shga.com^
+||vxrdwo.cn^
+||cakoeg.icu^
+||y9ppy0icw1.com^
+||vbjm.cn^
+||bmelkellv.com^
+||river49xx.org^
+||xsvyvr.top^
 ||jikklfexh.com^
 ||nrephihe.com^
 ||4rcajmf0m.com^
@@ -20746,6 +20756,7 @@ m.babytree.com##script + a[class]
 /bineos.min.js
 /bing-bat.js
 /bingimpression?
+/bitmovinanalytics.min.js
 /bitrix/spread.php?
 /bizo.js
 /bk-coretag.js
@@ -21673,6 +21684,7 @@ m.babytree.com##script + a[class]
 /log_beacon.js
 /log_e.php?id=
 /log_h.jsp
+/log_js_error$ping
 /log_stats.php?
 /log_view.php
 /LogAction?
@@ -27748,6 +27760,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
+||analytics-tracker.thescore.com^
 ||analytics.30m.com^
 ||analytics.adobe.io^
 ||analytics.agoda.com^
