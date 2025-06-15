@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EfPbNUFo7/OMaz5MtNaipQ
+! Checksum: D6lg2xC3EAOOIORvQla7ew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506150225
-! Last Modified: 2025年06月15日 02:25
+! Version: 202506150954
+! Last Modified: 2025年06月15日 09:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||6jyi7mzae.com^
+||fc09u3zfm.com^
+||eilgrairyi.com^
+||dpjbpj.top^
+||odz12g5ag.com^
+||cduy.cn^
+||ewywma.icu^
+||lidrhb.icu^
 ||ueuwvgco19.com^
 ||onxuegm38t.com^
 ||gtcbai.icu^
@@ -23717,6 +23725,7 @@ omni.soundestlink.com$image
 ||gw-dv.vip^
 ||hbiq.net^
 ||hdmtools.com^
+||healthroundprince.com^
 ||heap-api.com^
 ||herbgreencolumn.com^
 ||hirsung.de^
@@ -29587,6 +29596,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||run.app/data.log
 ||run.app/events-receiver/get-web-event
 ||run.app/metrics/
+||run.app/track.js
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
