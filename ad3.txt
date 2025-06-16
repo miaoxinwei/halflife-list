@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bki+UApij9Sm040E3UdYQw
+! Checksum: csXCbNGyvbymGjHyNBGw2A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506160226
-! Last Modified: 2025年06月16日 02:26
+! Version: 202506160948
+! Last Modified: 2025年06月16日 09:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||wyjqa6pbuc.com^
+||eiphirnutdd.com^
+||qidw.cn^
+||jyzmtl.icu^
+||tcwouq1gmw.com^
+||g8hi6r3odr.com^
+||cmuryk.icu^
+||dykyvy.cn^
+||fvlqjw.top^
 ||6jyi7mzae.com^
 ||fc09u3zfm.com^
 ||eilgrairyi.com^
@@ -22768,6 +22777,7 @@ m.babytree.com##script + a[class]
 /tracking_pixel
 /tracking_unitary/*
 /trackingApi?type=
+/trackingClient.bundle.js
 /trackingCode-
 /trackingCode.js
 /trackingcookies.
@@ -70779,6 +70789,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tracking.gaslicht.com^
 ||tracking.voordeeluitjes.nl^
 ||tvgids.nl/collect
+||tweakers.net/ajax/clicks/
 ||tweakers.nl/track/
 ||two.tio.nl^
 ||txrx.bol.com^
