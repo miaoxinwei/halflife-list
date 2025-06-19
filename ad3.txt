@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pAioLKGyRnq/fB9Cx8/LQA
+! Checksum: DVrTufkvEfb/x/aGAagPww
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506190229
-! Last Modified: 2025年06月19日 02:29
+! Version: 202506190946
+! Last Modified: 2025年06月19日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||3pefw1lz4.com^
+||vl3rw9roj.com^
+||moa06190ju.com^
+||eiszgw.icu^
+||luxrbx.icu^
+||ndatzo.cn^
+||musthroom9.top^
+||2r69dkb1a.com^
 ||mq54k4yxpt.com^
 ||gsweum.icu^
 ||l5pzbzfnjm.com^
@@ -29810,6 +29818,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.fomo.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
+||stats.indianpornempire.com^
 ||stats.inergizedigitalmedia.com^
 ||stats.itweb.co.za^
 ||stats.kaltura.com^
@@ -72368,6 +72377,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
+@@||static-cdn.hotjar.com^$script,domain=mercadopublico.cl
+@@||static.hotjar.com/c/hotjar-$script,domain=mercadopublico.cl
 !---------- Swedish ----------
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||picsearch.com/js/comscore.js$domain=dn.se
