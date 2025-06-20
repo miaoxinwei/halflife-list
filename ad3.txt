@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nfpCg+gPa9eahw6Imq9z4A
+! Checksum: u5j3ydb00JxR8tLfipvTQg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506200228
-! Last Modified: 2025年06月20日 02:28
+! Version: 202506200945
+! Last Modified: 2025年06月20日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -145,8 +145,8 @@ jads.co
 |https://tellme.pw/go/jav$popup
 btsow.pics##a[href^="https://tellme.pw/go/jav"]
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agefans.la
-||dd-static.jd.com^$image,domain=subaibaiys.com
+||toutiaoimg.com/origin/$image,domain=agedm.me
+||dd-static.jd.com^$image,domain=subaibai.com
 !dandanzan.me,nunuyy5.com##+js(set,webkitRTCPeerConnection,null)
 dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
 yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
@@ -1887,6 +1887,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||1k8j786ks5.com^
+||moa06200ju.com^
+||fo1ykm6ph1.com^
+||clorso.icu^
+||kk3fefl2b3.com^
+||honkellnl.com^
+||potatosa6.com^
+||jxtmnp.icu^
+||jrbnxw.top^
 ||moa06191ju.com^
 ||owchaavetonb.com^
 ||0w58wpq55.com^
