@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: B4HGFXg3OGBCMk898XPnGA
+! Checksum: qToiKKI2lCH/fnDORupurQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506210228
-! Last Modified: 2025年06月21日 02:28
+! Version: 202506210943
+! Last Modified: 2025年06月21日 09:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||gcsh3bxck.com^
+||moa06210ju.com^
+||iokmey.icu^
+||paphzz.icu^
+||wio06210j7.com^
+||lqdcvj.top^
 ||1k8j786ks5.com^
 ||moa06200ju.com^
 ||fo1ykm6ph1.com^
@@ -23831,6 +23837,7 @@ omni.soundestlink.com$image
 ||jams.wiki^
 ||jcpclick.com^
 ||jubbie.de^
+||kit22.com^
 ||klarinsights.net^
 ||krxd.net^
 ||kspotson.de^
@@ -26060,6 +26067,8 @@ omni.soundestlink.com$image
 ||srmdata-us.com^$third-party
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
+||stape.io^$third-party
+||stapecdn.com^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
 ||stat.re^$third-party
@@ -27374,6 +27383,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aspservice.jp^$third-party
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
+||bownow.jp^$third-party
 ||canem-auris.com^$third-party
 ||caprofitx.com^$third-party
 ||catsys.jp^$third-party
@@ -29707,6 +29717,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scribol.com/traffix/widget_tracker/
 ||script-api.kinja.com/script?
 ||scripts.psyma.com^
+||scripts.stay22.com/letmeallez.js
 ||scripts.swifteq.com/hc_events.js
 ||sd-tagging.azurefd.net^
 ||sdiapi.com/reporter/
@@ -31473,6 +31484,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tr.c-tag.net^
 ||tr.dec-connect.decsuite.com^
 ||tr.slvrbullet.com^
+||trace.bluemonkey.jp^
 ||track.list-finder.jp^
 ||track.span-smt.jp^
 ||track.thebase.in^
