@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yRbmKzM3MVbzaNzDids4CA
+! Checksum: JKsRdAoZvHpV7CwWvrLiDA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506231432
-! Last Modified: 2025年06月23日 14:32
+! Version: 202506232044
+! Last Modified: 2025年06月23日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -145,7 +145,7 @@ jads.co
 |https://tellme.pw/go/jav$popup
 btsow.pics##a[href^="https://tellme.pw/go/jav"]
 ||cdn.aiqingyu1314.com/age/statics/js/notice.js^$script
-||toutiaoimg.com/origin/$image,domain=agedm.me
+||toutiaoimg.com/origin/137370002e7fbe11b296a$image
 ||dd-static.jd.com^$image,domain=subaibai.com
 !dandanzan.me,nunuyy5.com##+js(set,webkitRTCPeerConnection,null)
 dandanzan.*,nnyy.in,nunuyy5.com##video:style(max-height:100%!important)
