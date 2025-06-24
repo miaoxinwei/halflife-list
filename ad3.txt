@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JKsRdAoZvHpV7CwWvrLiDA
+! Checksum: gpQHKpx5TLtAWO0BXlcuBQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506232044
-! Last Modified: 2025年06月23日 20:44
+! Version: 202506240946
+! Last Modified: 2025年06月24日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,18 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||criitpoy.com^
+||ec18fgdpv3.com^
+||yfminw.cn^
+||kxyumk.icu^
+||q06g.com^
+||djfp97jp7v.com^
+||ewbs.cn^
+||rjdmhl.icu^
+||gherkinly.top^
+||henneanooqh.com^
+||yry62x1vwl.com^
+||nunflw.top^
 ||67u36vmzm.com^
 ||jwjwtw.top^
 ||moa06230ju.com^
@@ -1907,10 +1919,8 @@ newduba.cn###jq_youxi
 ||rthrondrae.com^
 ||aubergineq8.top^
 ||nqlzlr.icu^
-||jwjwtw.top^
 ||moa06221ju.com^
 ||wpuzzcudultv.com^
-||kai5741.xyz^
 ||4kxczstxil.com^
 ||gcsh3bxck.com^
 ||moa06210ju.com^
@@ -33279,7 +33289,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.photospecialist.co.uk^
 ||sst.bwt.com^
 ||sst.shopware.com^
-||sstats.adobe.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
@@ -71678,6 +71687,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||addthis.com/js/*/addthis_widget.js$script,domain=stagecoachbus.com
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
+@@||adobe.com.ssl.d1.sc.omtrdc.net^$xmlhttprequest,domain=www.adobe.com
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/launch-$script,xmlhttprequest
