@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wc/P7wu1/hCnt2ParaSU/w
+! Checksum: vS4LByvMkMqqi5UgHNC6PQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506242043
-! Last Modified: 2025年06月24日 20:43
+! Version: 202506250946
+! Last Modified: 2025年06月25日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1887,6 +1887,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||anhj4arn4.com^
+||eqieg6yn5.com^
+||u5smvk9bg.com^
+||iaumyc.icu^
+||engq.cn^
+||bheirqrol.com^
+||salsifyua22.com^
+||pmzhtd.icu^
+||pttzjo.top^
 ||criitpoy.com^
 ||ec18fgdpv3.com^
 ||yfminw.cn^
@@ -31821,6 +31830,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.lasegunda.ecn.cl^
 ||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
+||bitmovin.com/analytics/web/2/bitmovinanalytics.min.js$domain=mxplus.tv
 ||bpt.webedia-group.com^
 ||citiservi.es/adstrack?
 ||collector-videoplayer.5centscdn.net^
@@ -71573,6 +71583,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
+||eternalmangas.com/api/track-visit
 ||fnvma.milanuncios.com^
 ||g.siliconweek.es^
 ||gateway.melia.com/tracking
@@ -71839,6 +71850,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||globalatlanticannuity.com/assets/embed/gtm.js$script,~third-party
 @@||glookup.info/api/json/$domain=grabify.link
 @@||gnar.grammarly.com/events$xmlhttprequest,domain=account.grammarly.com
+@@||go-mpulse.net^$domain=costcobusinessdelivery.com
 @@||groupbycloud.com/gb-tracker-client-3.min.js
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||gsuite.tools/js/gtag.js$script,~third-party
@@ -71989,6 +72001,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||sephora.com/js/ufe/isomorphic/thirdparty/VisitorAPI.js$~third-party
 @@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||services.chipotle.com/__imp_apg__/$~third-party
+@@||shared.learnosity.com/vendor/rollbar.min.js$domain=cdn.i-ready.com
 @@||sharethis.com/button/buttons.js$domain=bristan.com
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
@@ -72347,6 +72360,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
 @@||f-tra.com^$script,domain=pokemoncenter-online.com
+@@||friday.kodansha.co.jp/scripts/taboola.js$script,~third-party
 @@||gamerch.com/s3-assets/library/js/fingerprint2.min.js?$script,~third-party
 @@||geolocation-db.com/json/$domain=admanager.line.biz
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
