@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zpv8BEQi0IB6UIG0fSzhrA
+! Checksum: UjVlIKKqDL5Hm+zYaINCqg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506262042
-! Last Modified: 2025年06月26日 20:42
+! Version: 202506270946
+! Last Modified: 2025年06月27日 09:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,16 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||m8ryjf38a.com^
+||fajdhuhdh.com^
+||mbg06270pg.com^
+||etwzue.icu^
+||rbkidelmug.com^
+||xve4ww01l.com^
+||mnru.cn^
+||azaleada1.top^
+||lfbupf.icu^
+||prbibo.top^
 ||a8h4zhbmxi.com^
 ||3ryin2uj0x.com^
 ||mbg06260pg.com^
@@ -23333,6 +23343,13 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+/_static/deliver.js?nonce=$script,~third-party
+/javascripts/browserfp.min.js?templateId=
+/munin/a/ls?t=$xmlhttprequest
+/munin/a/tr/browserjs?domain=
+/sk-park.php?pid=
+/sxp/i/*$script,third-party
+/tc_imp.gif?
 /ng.gif?
 /ajax/bz?_
 .com/vtrack
@@ -24127,6 +24144,12 @@ omni.soundestlink.com$image
 ||zononi.com^
 ||zqtk.net^
 ||ztsrv.com^
+||rsra-ph.cdn-fileserver.com^
+||rsra.cdn-fileserver.com^
+||rsras-ph.cdn-fileserver.com^
+||rsras.cdn-fileserver.com^
+||sra-px.cdn-fileserver.com^
+||youseasky.com^
 ||0emm.com^$third-party
 ||103bees.com^$third-party
 ||105app.com^$third-party
