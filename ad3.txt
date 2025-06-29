@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: svwRKb5ks0Bc5swLC+DrLw
+! Checksum: 624azWurT9h9bOtmdkeUgQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202506282038
-! Last Modified: 2025年06月28日 20:38
+! Version: 202506290955
+! Last Modified: 2025年06月29日 09:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||bqxyns0hv.com^
+||m7xssfiit.com^
+||izopsg.icu^
+||vkxn.cn^
+||daffodilo44.com^
+||dgxjxeuzm.com^
+||plthnh.icu^
+||twjrxo.top^
 ||1l27pkxp5w.com^
 ||kwsugo.icu^
 ||hl4pvqgbyt.com^
@@ -21336,6 +21344,7 @@ m.babytree.com##script + a[class]
 /eta/events?
 /eta/guid?
 /eumcollector/beacons/*
+/ev.gif?_rand=
 /eva-analytics.min.js
 /event-log?
 /event-tracking.js
@@ -21690,6 +21699,7 @@ m.babytree.com##script + a[class]
 /image.ng/*
 /images/tingyun.js$script
 /iMAWebCookie.js
+/img.gif?_rand=
 /img?eid=
 /imgcount.cgi?
 /imgcount.php?
