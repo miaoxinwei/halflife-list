@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Y3BD+KRv/vVfBWznrvUhrA
+! Checksum: TYJggWu2YY+6o3Tw1zDLaw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202506301432
-! Last Modified: 2025年06月30日 14:32
+! Version: 202506302042
+! Last Modified: 2025年06月30日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1243,7 +1243,7 @@ _reklama_$domain=~youtube.com
 /anymanagerrecover.js
 ://loader.*.com/loader.min.js|$script,~third-party
 ://www.*.com/content/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.com/content/*/a/$subdocument,third-party,domain=~com|~edu|~gov|~net|~org
+://www.*.com/content/*/a/$subdocument,third-party,domain=~edu|~gov
 ://www.*.com/script/*.com.js|$script,third-party
 ://www.*.com/script/*.org.js|$script,third-party
 ://www.*.xyz/content/*/-1/$script,subdocument,third-party,xmlhttprequest
@@ -20136,6 +20136,7 @@ browsershots.org#@#.advert_area
 ||blurbreimbursetrombone.com^
 ||blursverism.com^
 ||blwviknoqfpij.online^
+||blxddjwomsump.store^
 ||bmabtauwjtopf.site^
 ||bmcdn1.com^
 ||bmcdn2.com^
@@ -23954,6 +23955,7 @@ browsershots.org#@#.advert_area
 ||ealiukzemydreamsa.com^
 ||eallywasnothyca.com^
 ||eanff.com^
+||eanjuliw.com^
 ||eanlingtumfie.com^
 ||eanresultancet.com^
 ||earbossysavvy.com^
@@ -24309,6 +24311,7 @@ browsershots.org#@#.advert_area
 ||emailon.top^
 ||emancytal.com^
 ||emban.site^
+||embankmalates.top^
 ||embankmentbrand.com^
 ||embarkvision.top^
 ||embarrassment2.fun^
@@ -24463,6 +24466,7 @@ browsershots.org#@#.advert_area
 ||envious-low.com^
 ||enviousinevitable.com^
 ||environmental3x.fun^
+||enwgkdbgbzwil.online^
 ||enwoveveneer.com^
 ||eobrndvhdrf.com^
 ||eocxfdzi.com^
@@ -24686,6 +24690,7 @@ browsershots.org#@#.advert_area
 ||evokeinexpedientfastened.com^
 ||evouxoup.com^
 ||evsw-zfdmag.one^
+||evujxxeb.com^
 ||evushuco.com^
 ||evzhzppj5kel.com^
 ||evzrqgvsgngmg.world^
@@ -25976,6 +25981,7 @@ browsershots.org#@#.advert_area
 ||gapgrewarea.com^
 ||gappoison.com^
 ||gaptooju.net^
+||gaqjhqjowwygp.site^
 ||gaquxe8.site^
 ||garbagebanquetintercept.com^
 ||garbageshallotsnowiness.com^
@@ -26484,6 +26490,7 @@ browsershots.org#@#.advert_area
 ||gobletauxiliary.com^
 ||gobmodfoe.com^
 ||gobreadthpopcorn.com^
+||gocolow.com^
 ||godforsakensubordinatewiped.com^
 ||godfreyapocarp.top^
 ||godkc.com^
@@ -26811,6 +26818,7 @@ browsershots.org#@#.advert_area
 ||gtbbgjo.art^
 ||gtbdhr.com^
 ||gtghsgrneexou.website^
+||gthduwvnqrq.com^
 ||gthecoastand.org^
 ||gthin.site^
 ||gtjlmypr.com^
@@ -26912,6 +26920,7 @@ browsershots.org#@#.advert_area
 ||gwyghgefh.com^
 ||gx101.com^
 ||gxdzfyg.com^
+||gxetowrzlnqbf.online^
 ||gxfh59u4.xyz^
 ||gxggdemkoaf.com^
 ||gxhlfbjcubhf.com^
@@ -28709,6 +28718,7 @@ browsershots.org#@#.advert_area
 ||jads.cc^
 ||jads.co^
 ||jadtottuleret.org^
+||jaforvsuneysw.website^
 ||jagerstaposa.shop^
 ||jaggedshoebruised.com^
 ||jaggyaffine.top^
@@ -28901,6 +28911,7 @@ browsershots.org#@#.advert_area
 ||jhomifwcybu.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhu8u9.pro^
+||jhxfplpawtdxv.space^
 ||jiakihtkynvks.today^
 ||jibbahazara.top^
 ||jicamadoless.com^
@@ -28955,6 +28966,7 @@ browsershots.org#@#.advert_area
 ||jk4lmrf2.de^
 ||jkajyrkqaoyjl.top^
 ||jkbewmebyqkoq.top^
+||jkbewmebyqkqw.top^
 ||jkeitifzyuxde.online^
 ||jkha742.xyz^
 ||jklpy.com^
@@ -28974,6 +28986,7 @@ browsershots.org#@#.advert_area
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlvoidsvcfs.com^
+||jmicdumecufvo.site^
 ||jmjuivzcp.com^
 ||jmnktmmkiitir.site^
 ||jmpmedia.club^
@@ -29084,6 +29097,7 @@ browsershots.org#@#.advert_area
 ||jqueryserver.com^
 ||jqxbtyknlsjtjjp.com^
 ||jqyxtzjtoctnj.top^
+||jqzlkmlzbaqak.top^
 ||jqztewfle.com^
 ||jramb.site^
 ||jravekvyeyrbw.top^
@@ -29113,6 +29127,7 @@ browsershots.org#@#.advert_area
 ||jrvrkzrjrmoyy.top^
 ||jrvvpbggu.com^
 ||jrxccqmxg.com^
+||jrxgcthoussjz.store^
 ||jrzrqi0au.com^
 ||js-check.com^
 ||js.manga1000.top^
@@ -29218,6 +29233,7 @@ browsershots.org#@#.advert_area
 ||justpremium.com^
 ||justservingfiles.net^
 ||juvjimicwbauuw.com^
+||juxpdnekqdmka.space^
 ||juywkhbpmswmq.website^
 ||juzaugleed.com^
 ||jvcjnmd.com^
@@ -29609,6 +29625,7 @@ browsershots.org#@#.advert_area
 ||kmfkiwghhe.xyz^
 ||kmhmmhmj.com^
 ||kmjveezxebpqs.website^
+||kmlnllmoajnwa.top^
 ||kmmrukqrphix.com^
 ||kmodukuleqasfo.info^
 ||kmrstdqeptom.com^
@@ -29832,6 +29849,7 @@ browsershots.org#@#.advert_area
 ||kvbojuxkwvcfk.global^
 ||kveyasqwqppaoki.com^
 ||kvfaevkeloxrr.com^
+||kvibsqutr.com^
 ||kvozsayiewspf.rocks^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
@@ -30528,6 +30546,7 @@ browsershots.org#@#.advert_area
 ||loftyeliteseparate.com^
 ||logicdate.com^
 ||logicschort.com^
+||logilycathop.shop^
 ||loginlockssignal.com^
 ||logriamorels.shop^
 ||loijtoottuleringv.info^
@@ -31011,6 +31030,7 @@ browsershots.org#@#.advert_area
 ||maleenhancement.top^
 ||maleliteral.com^
 ||malelocated.com^
+||malgrsememe.top^
 ||malikabusers.top^
 ||maljuggu.com^
 ||malletdetour.com^
@@ -31419,6 +31439,7 @@ browsershots.org#@#.advert_area
 ||mfrgfuaq.com^
 ||mfuodmpu.com^
 ||mfuotcojjowsa.website^
+||mfwdigbir.com^
 ||mfyavsmiha.com^
 ||mfyktikuvq.com^
 ||mfylalov.com^
@@ -31860,6 +31881,7 @@ browsershots.org#@#.advert_area
 ||moviesprofit.com^
 ||mowcawdetour.com^
 ||mowcoordinateegypt.com^
+||moxhqysntmgkv.store^
 ||moxothove.pro^
 ||mozgvya.com^
 ||mozoo.com^
@@ -32899,6 +32921,7 @@ browsershots.org#@#.advert_area
 ||nyquazhpvouya.website^
 ||nythathaveresul.org^
 ||nythingamglad.com^
+||nytkpwlrqtswcdh.com^
 ||nytrng.com^
 ||nyvzocirybwts.website^
 ||nzedgbyp.com^
@@ -33250,6 +33273,7 @@ browsershots.org#@#.advert_area
 ||ojkaqzrcy.com^
 ||ojkduzbm.com^
 ||ojkfmoackqp.com^
+||ojkopkorzlce.com^
 ||ojoooaogovqbn.top^
 ||ojrq.net^
 ||ojsxtysilofk.com^
@@ -34284,6 +34308,7 @@ browsershots.org#@#.advert_area
 ||pearlysweepoverface.com^
 ||peartengrousy.top^
 ||peasacknowledged.com^
+||peasantratio.com^
 ||peasbishopgive.com^
 ||pecantinglytripod.com^
 ||pecialukizeias.info^
@@ -35169,6 +35194,7 @@ browsershots.org#@#.advert_area
 ||professionalbusinesstoday.xyz^
 ||professionallygravitationbackwards.com^
 ||professionalsly.com^
+||professionaltrafficmonitor.com^
 ||professorrevealingoctopus.com^
 ||profitablearticle.pro^
 ||profitablecpmgate.com^
@@ -35749,6 +35775,7 @@ browsershots.org#@#.advert_area
 ||qfoufvpyqcgjue.com^
 ||qfqdbkxmovpli.xyz^
 ||qfwwhelkdjaeu.buzz^
+||qgdgcbtfuxgra.store^
 ||qgerr.com^
 ||qgevavwyafjf.com^
 ||qghnxwkybpo.xyz^
@@ -35771,6 +35798,7 @@ browsershots.org#@#.advert_area
 ||qhwyoat.com^
 ||qhyahomlcloih.com^
 ||qiaoxz.xyz^
+||qibiamaqtdu.xyz^
 ||qibkkioqqw.com^
 ||qibqiwczoojw.com^
 ||qibrhyfizc.com^
@@ -35817,6 +35845,7 @@ browsershots.org#@#.advert_area
 ||qljqpnbsbggh.com^
 ||qlsafdvwwmlw.com^
 ||qlsaqtqd.tattoo^
+||qlsejdfqiqsvq.space^
 ||qlyywnxpk.com^
 ||qmaarqazxcki.com^
 ||qmahepzo.one^
@@ -36698,6 +36727,7 @@ browsershots.org#@#.advert_area
 ||rfity.com^
 ||rftslb.com^
 ||rganizationsuch.com^
+||rgatxxblwvt.com^
 ||rgavvimsecmbo.life^
 ||rgbnqmz.com^
 ||rgddist.com^
@@ -39942,6 +39972,7 @@ browsershots.org#@#.advert_area
 ||toffeebigot.com^
 ||toffiesinsecta.top^
 ||toforebhut.top^
+||togefaeuxdrbvq.xyz^
 ||togemantedious.top^
 ||togenron.com^
 ||togerspas.com^
@@ -40030,6 +40061,7 @@ browsershots.org#@#.advert_area
 ||toptrendyinc.com^
 ||topworkredbay.shop^
 ||toquetbircher.com^
+||tordiondisnew.shop^
 ||torebureaucracytrade.com^
 ||torejogging.com^
 ||torhydona.com^
@@ -40245,6 +40277,7 @@ browsershots.org#@#.advert_area
 ||trijetsables.shop^
 ||trikerboughs.com^
 ||trimpur.com^
+||trinityhootch.shop^
 ||trioecsdespeed.top^
 ||tripl3a.com^
 ||tripledeliveryinstance.com^
@@ -41059,6 +41092,7 @@ browsershots.org#@#.advert_area
 ||uxgopmreteyrybb.com^
 ||uxmyqylrghrlmor.com^
 ||uxnrnsfybjmxgw.com^
+||uxwinyafloqfy.store^
 ||uxzqnsss.com^
 ||uydyqlnebqlwe.global^
 ||uyiteasacomsys.info^
@@ -42183,6 +42217,7 @@ browsershots.org#@#.advert_area
 ||wmeqoborqbkjw.top^
 ||wmeqoborqboyv.top^
 ||wmgtr.com^
+||wmlollmkvjoev.top^
 ||wmlollmkvybzm.top^
 ||wmmrbwiyztgeg.top^
 ||wmnfqywhoauuo.website^
@@ -58660,6 +58695,7 @@ the-tls.co.uk##.tls-single-articles__ad-slot-container
 themighty.com##.tm-ads
 trademe.co.nz##.tm-display-ad__wrapper
 trademe.co.nz##.tm-display-sponsored-listing__cards-flex
+thenewstack.io##.tns-sponsor-note
 thenewstack.io##.tns-sponsors-rss
 nybooks.com##.toast-cta
 spy.com##.todays-top-deals-widget
@@ -65210,6 +65246,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||dn6ik9809m.com^
+||nbpczr.icu^
+||rl1vypwyd2.com^
+||gpkheq.icu^
+||zorkraith.com^
+||vvllrb.top^
+||ekzf.cn^
+||dogwoode09.top^
 ||bqxyns0hv.com^
 ||m7xssfiit.com^
 ||izopsg.icu^
@@ -73356,6 +73400,7 @@ meijutt.*/js/pcjs/
 ||komiic.com/ads/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+gx.cn###html-box-AD
 twword.com##.gadBlock
 mydrivers.com##.jdong1div_double
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好  物))
