@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: l8R8DDaD8wM8zTmqtfya+A
+! Checksum: F69JLUym9PHmQ52qOqR98A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507051428
-! Last Modified: 2025年07月05日 14:28
+! Version: 202507052038
+! Last Modified: 2025年07月05日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,8 @@ newduba.cn###jq_youxi
 ||u10nte4ba.com^
 ||fiu07051kl.com^
 ||qdwhru8p2.com^
+||pisauc.cn^
+||djhfkcfrdxv.com^
 ||q83v5haaz.com^
 ||vhaugmotn.com^
 ||x1c9gze9i.com^
@@ -72022,7 +72024,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||join.southerncross.co.nz/quote/_assets/js/sx/app/helpers/gtm.js
 @@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com|live.griiip.com
 @@||js.datadome.co/tags.js$script,domain=monster.ca|sso.garena.com|thefork.at|thefork.be|thefork.ch|thefork.co.uk|thefork.com|thefork.de|thefork.es|thefork.fr|thefork.it|thefork.nl|thefork.pt|thefork.se
-@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|bolt.new|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com|jules.com
 @@||kaptcha.com/collect/sdk?$domain=palmettostatearmory.com|wyze.com
