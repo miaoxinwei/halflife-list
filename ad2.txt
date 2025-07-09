@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4nE+S4WbYVAFglsEa2NQow
+! Checksum: JXjui0G1fbFTc47EP5NRgA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202507090230
-! Last Modified: 2025年07月09日 02:30
+! Version: 202507090948
+! Last Modified: 2025年07月09日 09:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1889,6 +1889,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||fiu07090kl.com^
+||eh6xjr8p0.com^
+||1ykbpp1jx.com^
+||ofincm.icu^
+||oexk.cn^
+||violetop33.top^
 ||hgk0mu8irw.com^
 ||fuq3sve1gj.com^
 ||fiu07080kl.com^
@@ -10124,10 +10130,12 @@ meijutt.*/js/pcjs/
 ||yximgs.com/bs2/adcarsku/*.gif
 ||waipian*.com/statics/recommend/
 ||taozi.icu/asfile/m/js/guding.
+||gtimg.cn/music/photo_new/T053XD001001BZyX50UcRRk.
 ||komiic.com/ads/
 ||v2ex.com/pro/emitter
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+manhuapica.com##a[href^="/ad/"]
 nodeseek.com##.promotation-item
 gx.cn###html-box-AD
 twword.com##.gadBlock
