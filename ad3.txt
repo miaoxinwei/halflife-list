@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bDxfPt7jGqxQ7lRhdJB30Q
+! Checksum: aY0D955b6TzN5Vn4+zGaRA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507121429
-! Last Modified: 2025年07月12日 14:29
+! Version: 202507122039
+! Last Modified: 2025年07月12日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -28806,6 +28806,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||custom.search.yahoo.co.jp/images/window/*.gif
 ||customerlobby.com/ctrack-
 ||customers.edgetag.io^
+||customers.xray-superpixel.com^
 ||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
 ||d.rcmd.jp^$image
@@ -29017,6 +29018,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||factors.ai/sdk/event/
 ||fairfax.com.au/js/track/
 ||fallback.attntags.com^
+||fallback.emtag.net^
 ||faphouse.com/api/collector/
 ||fast.fonts.net/jsapi/core/mt.js
 ||fast.wistia.net/assets/external/googleAds.js
@@ -31778,6 +31780,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sweet-candy.jp/c.php?$third-party
 ||sync.shinobi.jp^
 ||sysmon.kakaku.com^
+||t.adclr.jp^
 ||t.adlpo.com^
 ||t.blog.livedoor.jp^
 ||t.felmat.net^$third-party
