@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Jsif0Gp/fD47Rp0duETWSg
+! Checksum: 5KlJ68nzvlD4YjbnUP2smA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507160951
-! Last Modified: 2025年07月16日 09:51
+! Version: 202507162046
+! Last Modified: 2025年07月16日 20:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1889,6 +1889,8 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||f3k194f9i7.com^
+||huo07161hy.com^
 ||ijyj.cn^
 ||i5q1t8vj9.com^
 ||huo07150hy.com^
@@ -30679,6 +30681,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||veeseo.com/tracking/
 ||ventunotech.com/beacon/
 ||vercel-vitals.axiom.co^
+||viafoura.co/eventfeed?site_uuid=
 ||vid.media.cm/m.js
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
@@ -33325,6 +33328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ohm-dot-hackster-io.appspot.com^
 ||oklink.com/jsstat/
 ||okx.com/jsstat/sb?
+||oneroof.co.nz/*/record-log/
 ||online-umwandeln.de/analytics.js
 ||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
