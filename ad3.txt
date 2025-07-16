@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VtHcMvPZ+u0M6EitvPjI7A
+! Checksum: Jsif0Gp/fD47Rp0duETWSg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507152046
-! Last Modified: 2025年07月15日 20:46
+! Version: 202507160951
+! Last Modified: 2025年07月16日 09:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1894,6 +1894,19 @@ newduba.cn###jq_youxi
 ||huo07150hy.com^
 ||0z3zbnbkv.com^
 ||kxkask.icu^
+||rjpvnl.icu^
+||enjoyup29.top^
+||ulatammyspb.com^
+||g8ygkqhm9p.com^
+||huo07160hy.com^
+||zkraktak.com^
+||qaqvec.icu^
+||e0qmla61cb.com^
+||fou2684.xyz^
+||familly56.top^
+||xmvqzd.icu^
+||lvqg.cn^
+||oxpgm.cn^
 ||huo07140hy.com^
 ||ehox67pahs.com^
 ||fb2newr2nm.com^
@@ -71887,6 +71900,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
+||eternalmangas.com/api/analytics/
 ||eternalmangas.com/api/track-visit
 ||fnvma.milanuncios.com^
 ||g.siliconweek.es^
