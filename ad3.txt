@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: r0PDVmtyD/daaxX3u1u4Ug
+! Checksum: e/TG9TBCgIUew9aY9MPyCg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507201430
-! Last Modified: 2025年07月20日 14:30
+! Version: 202507210229
+! Last Modified: 2025年07月21日 02:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22734,6 +22734,7 @@ m.babytree.com##script + a[class]
 /scripts/click.js.php
 /scripts/clickjs.php
 /scripts/hbx.js
+/scripts/sdk/everflow.js
 /scripts/statistics/*
 /scripts/track_visit.php?
 /scripts/xiti/*
@@ -24037,6 +24038,7 @@ omni.soundestlink.com$image
 ||cafirebreather.com^
 ||catsunrunjam.com^
 ||cbdatatracker.com^
+||cdjbf8trk.com^
 ||cdnhst.xyz^
 ||cdnlogs.org^
 ||cdnwidget.com^
@@ -24234,6 +24236,7 @@ omni.soundestlink.com$image
 ||mitself.net^
 ||ml-sys.xyz^
 ||mm-api.agency^
+||mnbvpo8trk.com^
 ||mobildev.in^
 ||monicaatron.com^
 ||mors22.com^
@@ -28428,6 +28431,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.posthog.com/static/array.js
 ||app.posthog.com/static/recorder-v2.js
 ||app.revenuehero.io/logs/ingest
+||app.trytada.com/addImpression
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -32885,6 +32889,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fc2.com/counter_img.php?
 ||fd.ivoclar.com^
 ||fdt.kraken.com^
+||feedbackws.icloud.com/reportStats
 ||feedly.com/mxpnl/
 ||femetrics.grammarly.io^
 ||feross.org/views
@@ -33046,6 +33051,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
 ||idiva.com/analytics_
+||idmsa.apple.com/appleauth/jslog
 ||ifunny.co/api/$ping
 ||iguazu.doordash.com^
 ||ih.newegg.com^
