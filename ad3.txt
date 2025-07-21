@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e/TG9TBCgIUew9aY9MPyCg
+! Checksum: Tn7pL2PKeFFMcbCH6ImLtw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507210229
-! Last Modified: 2025年07月21日 02:29
+! Version: 202507210958
+! Last Modified: 2025年07月21日 09:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1889,6 +1889,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||q3rlg1flo.com^
+||auy07210km.com^
+||jcbj62b2t.com^
+||opwqkq.icu^
 ||insidemo75.com^
 ||qxdx2x6kn6.com^
 ||auy07200km.com^
@@ -23541,7 +23545,7 @@ m.babytree.com##script + a[class]
 ://dwh-prod.*/de.npg/
 ://elqtrk.
 ://fallback.*/collector
-://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.care|~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtrack.*/dye
 ://insights-collector.
 ://internal-matomo.
@@ -28819,6 +28823,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
 ||consensu.org/geoip
+||consent.trustarc.com/analytics?
 ||consentmanager.net/delivery/info/$third-party
 ||console.uxlens.com^
 ||constellation.networknmedia.com/cdn-cgi/trace
@@ -33191,6 +33196,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||livejournal.com/ljcounter/
 ||livejournal.com/log?
 ||liveperson.net/hc/*/?visitor=
+||lizard.donald.cat^
 ||lms.roblox.com^
 ||lnkd.in/li/track
 ||load.tm.all3dp.com/rqlevydw.js
@@ -33513,6 +33519,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||r.3hentai.net^
 ||r.apkpure.net^
 ||r.bbci.co.uk^
+||rabbit.donald.cat^
 ||raenonx.cc/api/tag
 ||raenonx.cc/g/usage/
 ||raindrop.io/pb/api/event
@@ -71840,6 +71847,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fb.ru/stat/
 ||fontanka.ru/api/metrics/
 ||fotostrana.ru/start/
+||ga.finam.ru^
 ||goya.rutube.ru^$~image
 ||hh.ru/analytics^
 ||hh.ru/stat?
