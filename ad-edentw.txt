@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zfLao7zuFznMpbMeE5BGQg
+! Checksum: McHkIik+lY6KRNt2mFYzLw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202507212047
-! Last Modified: 2025年07月21日 20:47
+! Version: 202507220952
+! Last Modified: 2025年07月22日 09:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1827,7 +1827,7 @@ ebay.*#$#hide-if-contains /.+/ 'div[id^="placement"][style]' 'div[id^="placement
 ebay.*#$#hide-if-contains-visible-text /(S*p*o*n*s*o*r*e*d|A*n*z*e*i*g*e|S*p*o*n*s*o*r*i*s*é|P*a*t*r*o*c*i*n*a*d*o|S*p*o*n*s*o*r*i*z*z*a*t*o)/ 'li[class*="brwrvr__item-card"]' 'div[class="su-component su-sponsored-label"] > span[class="su-sponsored-label__sep"] > span[aria-labelledby][role="text"]'
 ! pp
 ebay.*#$#hide-if-contains-visible-text /(\s*sponsored\s*|\s*anzeigen\s*|\s*sponsorisés\s*|\s*commandités\s*|\s*sponsorowane\s*|\s*gesponsord\s*|\s*patrocinados\s*|\s*sponsorizzati\s*)/ 'div[data-viewport]' 'div[data-viewport] h2'
-ebay.*#$#hide-if-contains-visible-text /(S*p*o*n*s*o*r*e*d|A*n*z*e*i*g*e|S*p*o*n*s*o*r*i*s*é|C*o*m*m*a*n*d*i*t*é|P*a*t*r*o*c*i*n*a*d*o|S*p*o*n*s*o*r*i*z*z*a*t*o)/ 'div[data-viewport]' 'div[class^="_0-OX"]'
+ebay.*#$#hide-if-contains-visible-text /(S*p*o*n*s*o*r*e*d|A*n*z*e*i*g*e|S*p*o*n*s*o*r*i*s*é|C*o*m*m*a*n*d*i*t*é|P*a*t*r*o*c*i*n*a*d*o|S*p*o*n*s*o*r*i*z*z*a*t*o)/ 'div[data-viewport]' 'div[class^="tTwB"]'
 ebay.*#$#hide-if-contains-visible-text /(Sponsored|Anzeige|Sponsorisé|Commandité|Sponsorowane|Gesponsord|Patrocinado|Sponsorizzato)/ 'div[data-viewport]' 'div[data-viewport] div[role="text"]'
 ebay.*#$#hide-if-contains-visible-text /(Sponsored|Anzeige|Sponsorisé|Commandité|Sponsorowane|Gesponsord|Patrocinado|Sponsorizzato|贊助)/ 'div[class][data-testid] div[id^="placement"]' 'div ^^sh^^ *[role^="text"]'; hide-if-contains-visible-text /(Sponsored|Anzeige|Sponsorisé|Commandité|Sponsorowane|Gesponsord|Patrocinado|Sponsorizzato|贊助)/ 'div[class][data-testid] div[id^="placement"] ^^sh^^ > div' 'div ^^sh^^ *[role^="text"]'; hide-if-contains-visible-text /(Sponsored|Anzeige|Sponsorisé|Commandité|Sponsorowane|Gesponsord|Patrocinado|Sponsorizzato|贊助)/ 'div[class][data-testid] div[id^="placement"][style] ^^sh^^ *' 'div ^^sh^^ *';
 ! sp
@@ -2137,6 +2137,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||dinkiersenhora.com^
 ||dirgesimious.com^
 ||discepttaked.com^
+||doesnscapha.com^
 ||dogfalcons.com^
 ||dopiestdappled.com^
 ||dotefour.com^
@@ -2144,11 +2145,13 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||dyedmurders.com^
 ||eidersrettory.com^
 ||encystkokil.com^
+||endleafroaches.com^
 ||engridfanlike.com^
 ||errandsracket.com^
 ||examplescug.com^
 ||fabricforrel.com^
 ||fanosbilbos.shop^
+||favusesporret.com^
 ||feretraconcion.com^
 ||fermataintima.com^
 ||filumbehest.com^
@@ -2163,6 +2166,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||garrafaspotted.com^
 ||geishastending.com^
 ||gemaricspieled.com^
+||gestatejiggly.com^
 ||girnalnemean.com^
 ||giuntaexhort.com^
 ||glebyoidioid.com^
@@ -2181,6 +2185,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||hoodlumbragget.com^
 ||hoopersnonpoet.com^
 ||hottedholster.com^
+||huspilsympode.com^
 ||hybridssteng.com^
 ||hydrasploughs.com^
 ||ibexabray.com^
@@ -2196,6 +2201,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||jejunalduets.cyou^
 ||jgtjw.com^
 ||johannatailor.com^
+||justspoisure.com^
 ||katsuprosillo.com^
 ||kilehkatrina.top^
 ||kolhozclarain.com^
@@ -2244,6 +2250,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||ousiademark.com^
 ||outdrawcrayons.com^
 ||oxyacidalogia.com^
+||panuncave.com^
 ||papaneecorche.com^
 ||pelitecontg.top^
 ||pilleustrig.com^
@@ -2290,6 +2297,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||sporulekakis.com^
 ||sterolsawaited.com^
 ||stoachdarts.com^
+||stoodhiplike.com^
 ||stuffedclipse.com^
 ||stulmunshent.com^
 ||suffarilbf.com^
@@ -2316,6 +2324,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||uncotorture.com^
 ||uncrookcurry.com^
 ||ungreeninwrit.com^
+||unhangignore.com^
 ||unmeetbookies.com^
 ||unrigscsc.com^
 ||urgingslaurae.com^
