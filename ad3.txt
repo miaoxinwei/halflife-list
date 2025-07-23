@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NNjL1XNBPIgWvyk2y17Jiw
+! Checksum: dC7t0oh5sw2q2r4dgDd76g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507230232
-! Last Modified: 2025年07月23日 02:32
+! Version: 202507230953
+! Last Modified: 2025年07月23日 09:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -24092,6 +24092,7 @@ omni.soundestlink.com$image
 ||dlxpix.net^
 ||dm-event.net^
 ||dmepyodjotcuks.com^
+||dmndfrcstng.com^
 ||dmpxs.com^
 ||domself.de^
 ||doublestat.info^
@@ -31312,6 +31313,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stroeerdp.de^*_gtm.js
 ||strongvpn.com/aff/
 ||suedtirol.live/slc.js
+||t.cpurls.net^
 ||t.etraveli.com^
 ||t.nativendo.de^
 ||t.quisma.com^
@@ -32066,6 +32068,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||browser-updater.yandex.net^
 ||c.bigmir.net^
 ||cdn-rum.ngenix.net^
+||clickstream.sberbank.ru^
 ||client-analytics.mts.ru^
 ||cnstats.cdev.eu^
 ||cnt.logoslovo.ru^
@@ -32752,6 +32755,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||df.infra.sz.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
+||diabrowser.com/api/event
+||diabrowser.com/js/arcnet-script.js
 ||digital.flytedesk.com/js/head.js
 ||discover-metrics.cloud.seek.com.au^
 ||dls-account.di.atlas.samsung.com^
@@ -70307,6 +70312,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
+||time.aktion-mensch.de^
 ||timing.uhrforum.de^
 ||tm.swp.de^
 ||tr.wbstraining.de^
