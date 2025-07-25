@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gN2YAjmcJnBThV8YNPLwNQ
+! Checksum: UmEmMod1JaP9d3Mx3vF/Zw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507250232
-! Last Modified: 2025年07月25日 02:32
+! Version: 202507250952
+! Last Modified: 2025年07月25日 09:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1888,6 +1888,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||1qa5x1k5v.com^
+||txbgcd1is.com^
+||gio07250rp.com^
+||oogqem.icu^
+||orangevd.top^
+||lrta.cn^
 ||fiwf54qahl.com^
 ||t0cv7pmo2y.com^
 ||qlkysc.icu^
@@ -72276,6 +72282,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getpublica.com/playlist.m3u8$xmlhttprequest
 @@||github.com/gorhill/uBlock/*/src/web_accessible_resources/fingerprint2.js$~third-party
+@@||glancecdn.net/cobrowse/$domain=payroll.toasttab.com
 @@||globalatlanticannuity.com/assets/embed/gtm.js$script,~third-party
 @@||glookup.info/api/json/$domain=grabify.link
 @@||gnar.grammarly.com/events$xmlhttprequest,domain=account.grammarly.com
