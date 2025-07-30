@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6UQrI9b6UnQtK1yy7JEzcA
+! Checksum: BQMTjtK8CdYsYb5L4fjG+Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507300955
-! Last Modified: 2025年07月30日 09:55
+! Version: 202507301435
+! Last Modified: 2025年07月30日 14:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1896,6 +1896,8 @@ newduba.cn###jq_youxi
 ||nug07300lu.com^
 ||5fyme6x6uy.com^
 ||utve.cn^
+||b82q168jgj.com^
+||gio07300rp.com^
 ||oaatyq.icu^
 ||sneakersq5.com^
 ||xpya.cn^
@@ -30852,6 +30854,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||video-ad-stats.googlesyndication.com^
 ||video-analytics-api.cloudinary.com^
 ||video-cdn.net/event?
+||video-intel.pixels.ai^
 ||video.google.com/api/stats/
 ||videoevents.outbrain.com^
 ||videoly.co^*/event/
@@ -33268,6 +33271,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||keirin.netkeiba.com/ndtracker/
 ||kemono.cr/api/v1/creators|
 ||kgoma.com/v1/stat/
 ||khanacademy.org/api/internal/_analytics/
