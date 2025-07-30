@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q2MjIb4QYyqbnCt3YKuGRg
+! Checksum: 6UQrI9b6UnQtK1yy7JEzcA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202507300234
-! Last Modified: 2025年07月30日 02:34
+! Version: 202507300955
+! Last Modified: 2025年07月30日 09:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1889,7 +1889,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||f7ugx6b863.com^
 ||4xicd08qs.com^
+||cinemaup.top^
+||udwlki.icu^
+||nug07300lu.com^
+||5fyme6x6uy.com^
+||utve.cn^
 ||oaatyq.icu^
 ||sneakersq5.com^
 ||xpya.cn^
@@ -32783,6 +32789,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contentpass.net/error-tunnel
 ||contentpass.net/stats
 ||cookpad.com/*/activity_logs
+||coomer.st/api/v1/creators|
 ||copilot-telemetry.githubusercontent.com^
 ||count.all.biz^
 ||count.darkreader.app^
@@ -33261,6 +33268,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||kemono.cr/api/v1/creators|
 ||kgoma.com/v1/stat/
 ||khanacademy.org/api/internal/_analytics/
 ||kinesis.us-east-1.analytics.edmentum.com^
