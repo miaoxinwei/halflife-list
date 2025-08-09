@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oPKYKIYY9OhRQEenbOMQog
+! Checksum: 7oTZMRQF71ixEeSWZOd8IA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508082048
-! Last Modified: 2025年08月08日 20:48
+! Version: 202508091430
+! Last Modified: 2025年08月09日 14:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1898,6 +1898,9 @@ newduba.cn###jq_youxi
 ||dqjrxj.icu^
 ||tjv250730ads.com^
 ||ptju.cn^
+||hmd3jvhrf.com^
+||qvdn.cn^
+||camerain.top^
 ||junpjmg96.com^
 ||cheesevp.com^
 ||nug08030lu.com^
@@ -29643,6 +29646,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||klickly.com/track
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
+||kumo.network-n.com^$third-party
 ||kununu.com^*/tracking/
 ||kxcdn.com/actor/$third-party
 ||kxcdn.com/assets/js/script.js
@@ -33789,6 +33793,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.gofile.io^
 ||s.infogram.com^
 ||s.smallpdf.com/static/track-js-
+||s.sofoot.com/script.js
 ||s.wayfair.com^
 ||sa.uswitch.com^
 ||saa.insideedition.com^
