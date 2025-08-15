@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9ri3nNOmSKJnqdj0KeqEXQ
+! Checksum: gfZONRmVbfcCPJXNaFZvJg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508152041
-! Last Modified: 2025年08月15日 20:41
+! Version: 202508160230
+! Last Modified: 2025年08月16日 02:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23795,6 +23795,7 @@ m.babytree.com##script + a[class]
 ://plausible.*/api/event|
 ://plausible.*/js/script.
 ://posthog.$script,domain=~posthog.com
+://rum.collector.
 ://segment-api.
 ://segment-cdn.
 ://stat.*/pageview/$xmlhttprequest
@@ -24203,6 +24204,7 @@ _WebVitalsReporter_
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://parcel-api.delivery-status.*/open/$image
+://t.*/open^$image
 ://t.order.*/r/?id=$image
 ^endpoint=track^$image
 _ad_impression.
@@ -28508,6 +28510,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analyticcdn.globalmailer.com^
 ||analyticcdn.wlmediahub.com^
 ||analytics-1.cavai.com^
+||analytics-api.gemcommerce.com^
 ||analytics-api.klickly.com^
 ||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
@@ -31553,6 +31556,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sheego.de/ar/$third-party
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
+||simetra.tracking.ringieraxelspringer.tech^
 ||skoom.de/gratis-counter/
 ||somquery.sqrt-5041.de/tv/tracking-event
 ||sp.data.funkedigital.de^
@@ -33939,6 +33943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snapchat.com/web/metrics
 ||snohetta.com/js/plascript.js
 ||sofire.terabox.app^
+||solarwinds.com/ra-$script
 ||solidcams.com/api/metrics
 ||solvusoft.com^*/scripts/visitor.js
 ||sortlist.cloud/log
@@ -72326,6 +72331,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||scribe.wongnai.com^
 ||ta.sanook.com^
 ||thairath.co.th/event/
+||analytics.cosmopolitanmag.com.tr^
 ||athena-event-provider.n11.com^
 ||c.gazetevatan.com^
 ||cimri.com/api/pixel
