@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CtoI7br6DlTxp6OkUXvi0Q
+! Checksum: qKETRPpk9eiHuzxbIHVyqQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508171430
-! Last Modified: 2025年08月17日 14:30
+! Version: 202508172040
+! Last Modified: 2025年08月17日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1900,6 +1900,7 @@ newduba.cn###jq_youxi
 ||nkif.cn^
 ||uhnd2ru20.com^
 ||9o29nhxgp.com^
+||daleknutbg.com^
 ||0rvv7l6k7g.com^
 ||d6hvvn5jvc.com^
 ||wbczkm.icu^
@@ -22268,6 +22269,7 @@ m.babytree.com##script + a[class]
 /js/hbx.js
 /js/logger?
 /js/quantcast-
+/js/script.pageview-props.
 /js_ibeat_ext.cms
 /js_log_error.js
 /js_logger.php
@@ -23996,6 +23998,7 @@ _WebVitalsReporter_
 .emlfiles4.com/cmpimg/t/$image
 .emltrk.com/
 .epicgames.com/O/
+.eurowings.com/cl.aspx?$image
 .eventim.de/op/$image
 .everestengagement.com/$image
 .eviq.org.au/CMSModules/$image
@@ -32707,6 +32710,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.bitchute.com^
 ||analytics.brave.com^
 ||analytics.chase.com^
+||analytics.consumerrights.wiki^
 ||analytics.cookiefirst.dev^
 ||analytics.crazygames.com^
 ||analytics.designspiration.com^
