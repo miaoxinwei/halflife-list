@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z6nkksS4W+3OjwYMlt2evw
+! Checksum: OM17twzcyuDoF0NtnNrtdA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508181434
-! Last Modified: 2025年08月18日 14:34
+! Version: 202508182046
+! Last Modified: 2025年08月18日 20:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1899,6 +1899,8 @@ newduba.cn###jq_youxi
 ||qoqg.cn^
 ||futhacifl.com^
 ||batteryod.com^
+||h5vem1jjft.com^
+||pyonbrj41b.com^
 ||bqdisnocj.com^
 ||4wg67b9vb.com^
 ||ueyuww.icu^
@@ -26227,6 +26229,7 @@ omni.soundestlink.com$image
 ||openstat.net^$third-party
 ||opentracker.net^$third-party
 ||openvenue.com^$third-party
+||openweb.bid^$third-party
 ||oproi.com^$third-party
 ||opstag.com^$third-party
 ||optify.net^$third-party
@@ -26451,7 +26454,6 @@ omni.soundestlink.com$image
 ||recruitics.com^$third-party
 ||redcounter.net^$third-party
 ||redfastlabs.com^$third-party
-||redirectify.app^$third-party
 ||redistats.com^$third-party
 ||redstatcounter.com^$third-party
 ||reedbusiness.net^$third-party
@@ -30345,6 +30347,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||redditsave.com/api/event
 ||redditstatic.com/ads/pixel.js
 ||redfast.com/ping/
+||redirectify.app/script_tags/tracking.js
 ||reevoo.com/track_url/
 ||refer.wordpress.com^
 ||referrer.disqus.com^
