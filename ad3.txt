@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OM17twzcyuDoF0NtnNrtdA
+! Checksum: 77BvnXOGPhGfVnwRPk847w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508182046
-! Last Modified: 2025年08月18日 20:46
+! Version: 202508190231
+! Last Modified: 2025年08月19日 02:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1901,6 +1901,12 @@ newduba.cn###jq_youxi
 ||batteryod.com^
 ||h5vem1jjft.com^
 ||pyonbrj41b.com^
+||ecriqadg.com^
+||goi08181kh.com^
+||vgragvory.com^
+||odhivvin.com^
+||fhhctb.icu^
+||bootscritp.com^
 ||bqdisnocj.com^
 ||4wg67b9vb.com^
 ||ueyuww.icu^
@@ -14857,7 +14863,7 @@ ikjzd.com##.wv-right-content > .imgTop-right
 52pk.com##.wxbox
 55188.com##.wz_text
 eyy5.cn##.wzgg
-tmioe.com##.ekxxhn
+tmioe.com##.gorand
 tmioe.com##a[href*=".zps.im"]
 sohu.com##.x-adv-band-panel
 sohu.com##.x-adv-flogo-panel
@@ -22639,6 +22645,7 @@ m.babytree.com##script + a[class]
 /owa.tracker-combined-min.js
 /oxAnalytics.js
 /p.gif?
+/p/tm.js?
 /page-addviews?
 /page-analytics.js
 /page-events/trackclick/*
@@ -28106,6 +28113,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pdmp.jp^$third-party
 ||performancefirst.jp^$third-party
 ||polymorphicads.jp^$third-party
+||pop.unitedgate.co.jp^$third-party
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$script,third-party
 ||rays-counter.com^$third-party
@@ -28126,6 +28134,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thesmilingpencils.com^$third-party
 ||trackfeed.com^$third-party
 ||uncn.jp^$third-party
+||valis-cpx.jp^$third-party
 ||viaklera.com^$third-party
 ||wonder-ma.com^$third-party
 ||woomy.me^$third-party
@@ -32094,6 +32103,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.spearly.com^
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
+||api.quantumgraph.com/web/cm/
 ||app.tag-plus.com/ja/api/v1/unison_planet/heat_map
 ||appront.net/click.js
 ||asumi.shinobi.jp^
@@ -32220,6 +32230,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
+||tag.eisa.mercari.com^
 ||tag.flvcdn.net/lytag.js
 ||targeting.focas.jp^
 ||tetori-colorme.com/share/js/tracking.js
