@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NMFxkXXfGcrk+vk7BAvIdw
+! Checksum: Q9bhIo77PHjdKrcVm6k/tQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508190941
-! Last Modified: 2025年08月19日 09:41
+! Version: 202508191431
+! Last Modified: 2025年08月19日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -32809,6 +32809,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
 ||apple-mapkit.com/mw/v1/reportAnalytics
+||aptoide-mmp.aptoide.com^
 ||argtesa.com/cdn-cgi/trace
 ||armedangels.com/javascript/script.js
 ||arttrk.com/pixel/
@@ -72783,6 +72784,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.myfinance.com/widget/$domain=savingspro.org
+@@||stats.britishbaseball.org.uk^
 @@||stats.gleague.nba.com/templates/angular/tables/events/shots.html$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
