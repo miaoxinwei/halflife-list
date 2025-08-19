@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 77BvnXOGPhGfVnwRPk847w
+! Checksum: NMFxkXXfGcrk+vk7BAvIdw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508190231
-! Last Modified: 2025年08月19日 02:31
+! Version: 202508190941
+! Last Modified: 2025年08月19日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||3yq51wjim.com^
+||xegnfwkju.com^
+||yxqhuy.icu^
+||bteucoiyp.com^
+||twho.cn^
 ||vejrp6iq25.com^
 ||ahupio.icu^
 ||re41qiitb1.com^
@@ -72613,6 +72618,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||ignitetv.rogers.com/js/api/fingerprint.js$script,~third-party
 @@||ignitetv.shaw.ca/js/api/fingerprint.js$~third-party
 @@||ikea.com^*/analyticsEvent.$script,~third-party
+@@||img.logo.dev^$image,third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||intuitcdn.net/libs/*/track-star.min.js$script,domain=turbotax.intuit.com
@@ -72643,7 +72649,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
 @@||loader-cdn.azureedge.net/prod/smi/loader.min.js$domain=pressdemocrat.com
 @@||logging.apache.org^$~third-party
-@@||logo.clearbit.com^$image,third-party
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||m1tm.insideevs.com/gtm.js$~third-party
 @@||magento-recs-sdk.adobe.net/v2/index.js$script,domain=superbrightleds.com
