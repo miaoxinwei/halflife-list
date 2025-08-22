@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lw5lT47J+9Gs1rEeb518vg
+! Checksum: ysiJEHp+rDCZGXmhM9Eutg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508220939
-! Last Modified: 2025年08月22日 09:39
+! Version: 202508221430
+! Last Modified: 2025年08月22日 14:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -10561,6 +10561,7 @@ meijutt.*/js/pcjs/
 ||ifeng.com/relateshare?
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+mydrivers.com##div[style="text-align: center;margin-top: 10px;"]
 msn.cn##above-river-block
 vmlib.com##.wp-caption
 vmlib.com##.elementor-widget > .elementor-widget-container > a[href^="http"]:not([href*="vmlib."])
@@ -23260,7 +23261,7 @@ m.babytree.com##script + a[class]
 /stats/collect?
 /stats/collector.js
 /stats/event.js?
-/stats/events$xmlhttprequest
+/stats/events$xmlhttprequest,domain=~wbsc.org
 /stats/footer.js
 /stats/ga.js
 /stats/header.js
@@ -28539,6 +28540,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adnz.co/dmp/publisher.js
 ||adnz.co/header.js
 ||adobedc.net/collector/
+||ads-tracking.beop.io^
+||ads-tracking.collectiveaudience.co^
 ||ads-trk.vidible.tv^
 ||adsmoloco.com^$third-party
 ||adsolutions.com^$third-party
@@ -29193,7 +29196,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||contentdriver.com/api/impression
 ||contently.com/xdomain/
 ||contentpass.net/stats?$third-party
-||contents-tracking.beop.io^
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
 ||convertflow.co^*/visitors/
@@ -29653,6 +29655,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||harvest.graindata.com^
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
+||hb.collectiveaudience.co^
 ||hb.vhsrv.com^
 ||hcmanager.swifteq.com/hc_events/
 ||hdnux.com/HNP/stats/page_view?
@@ -29987,6 +29990,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mediaplex.com^*?mpt=
 ||meebo.com/cim/sandbox.php?
 ||merklesearch.com/merkle_track.js
+||messagebird.com/assets/fp.min.js
+||messagebird.com/metrics.js
 ||metabroadcast.com^*/log?
 ||metaffiliation.com^*^mclic=
 ||meteored.com/cmp/web/events/analytic/
@@ -30463,6 +30468,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.autopilotapp.com^
 ||s.axon.ai/s/pixel.js
 ||s.beop.io^
+||s.collectiveaudience.co^
 ||s.logsss.com^
 ||s.pinimg.com/ct/core.js
 ||s.srvsynd.com^
@@ -71288,6 +71294,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||l.zdnet.fr^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-sentry/lc-sentry.js
+||lacentrale.fr/static/fragment-tracking/tracking-
 ||lacoccinelle.net/tools.js
 ||laposte.fr/cdp/events?
 ||ldlc.com/V4px/js/ldlcmachine.js
