@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oiNW61aiRNYjiExdVjSgmw
+! Checksum: TlGEStL2AcYEN1t8ko6zCg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508250226
-! Last Modified: 2025年08月25日 02:26
+! Version: 202508250944
+! Last Modified: 2025年08月25日 09:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||m4fxreb5s.com^
+||bjk08250ip.com^
+||p70y44odg.com^
+||cpcxke.icu^
+||hpfkvr.icu^
+||sliw.cn^
+||clarityid.top^
+||medaahmo.com^
 ||okszf0rvcg.com^
 ||j8tzoy3xwn.com^
 ||bjk08240ip.com^
@@ -25229,6 +25237,7 @@ omni.soundestlink.com$image
 ||chartbeat.net^$third-party
 ||checkreferrer.io^$third-party
 ||checkstat.nl^$third-party
+||chibi.sh^$third-party
 ||christiantop1000.com^$third-party
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
