@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +dJSpPwuGxiSidlpybMewg
+! Checksum: AAkayBL80CB/Gw4IG0XMDA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508251432
-! Last Modified: 2025年08月25日 14:32
+! Version: 202508252042
+! Last Modified: 2025年08月25日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1902,6 +1902,7 @@ newduba.cn###jq_youxi
 ||0vllsf2g2.com^
 ||kkzv9rhek.com^
 ||bjk08251ip.com^
+||upvx.cn^
 ||okszf0rvcg.com^
 ||j8tzoy3xwn.com^
 ||bjk08240ip.com^
@@ -29993,6 +29994,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
+||magic.prism.gg^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
 ||mail.ru/dstat?
@@ -32803,6 +32805,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aiv-delivery.net/v1/ReportEvent
 ||ajax.pngtree.com/api/statistics/
 ||akamaihd.net/paay6hyr.gif?
+||al.levels.fyi/api/event
 ||alb.reddit.com^
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
