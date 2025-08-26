@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SvbpaqF9cNCrSZ3C/F8IsA
+! Checksum: zrH05ugli/8x3J89zRVIEw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508261431
-! Last Modified: 2025年08月26日 14:31
+! Version: 202508262044
+! Last Modified: 2025年08月26日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,8 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||otfx.cn^
+||itqseeh.icu^
 ||9e0917xf7x.com^
 ||3bzsoex618.com^
 ||bjk08260ip.com^
@@ -1900,6 +1902,7 @@ newduba.cn###jq_youxi
 ||thricroiw.com^
 ||828guvngj1.com^
 ||bjk08261ip.com^
+||64lv69ncb9.com^
 ||m4fxreb5s.com^
 ||bjk08250ip.com^
 ||p70y44odg.com^
@@ -24382,6 +24385,7 @@ omni.soundestlink.com$image
 ||4251.tech^
 ||44.228.85.26^
 ||46rtpw.ru^
+||5gtb.com^
 ||6dp0i7.ru^
 ||a1webstrategy.com^
 ||a47b.com^
@@ -28848,6 +28852,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.adjust.com^$third-party
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
+||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
 ||app.pendo.io/data/$image
 ||app.posthog.com/e/?compression=
@@ -28935,7 +28940,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
 ||b.bedop.com^
-||b.trueanthem.com^
 ||b5media.com/bbpixel.php
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b8cdn.com/assets/v1/analytics-
@@ -31116,6 +31120,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
+||trueanthem.com^$third-party
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
@@ -33431,6 +33436,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gamemonetize.com/account/event.php?
 ||gamemonetize.com/account/eventvideo.php?
 ||gamivo.com/tcllc?
+||gardpro.com/api/collect
 ||gc.newsweek.com/front/js/counter.js
 ||gct.americanexpress.com^
 ||gemoo-resource.com/js/analytics.js
