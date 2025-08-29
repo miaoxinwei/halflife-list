@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PzpWUNi/RVNn4zYTNCL+jg
+! Checksum: tZ93lAgmBw/AQcCiIlxVgg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508290228
-! Last Modified: 2025年08月29日 02:28
+! Version: 202508290937
+! Last Modified: 2025年08月29日 09:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||t8t8jyxsr.com^
+||ziqi462ni.com^
+||nio08290lt.com^
+||wu2088-607.shop^
+||comxei.icu^
+||rvkhazel.com^
+||summerwm1.com^
+||vqta.cn^
 ||86aocbvvsh.com^
 ||finallyy2.top^
 ||6t51r3ge18.com^
@@ -32922,6 +32930,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
+||collection.mola.tv^
 ||collector-direct.xhamster.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
@@ -33422,6 +33431,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jockey.com/event/
 ||jockey.com/scripts/omt-base.js
 ||joggo.run/api/events
+||js.monitor.azure.com/scripts/c/ms.shared.analytics.mectrl-3.gbl.min.js$domain=microsoft.com
 ||julius.ai/monitoring
 ||jumbo.zomato.com^
 ||juno.com/start/javascript.do?message=
@@ -33582,6 +33592,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mi.dickssportinggoods.com/p/js/1.js
 ||mi.grubhub.com^
 ||miao.baidu.com^
+||microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/
 ||midas.chase.com^
 ||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
@@ -33646,7 +33657,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nextdoor.*/ajax/ping_ndas/
 ||nextdoor.com/events/
 ||nflshop.com/api/track
-||nid.thetimes.com/prod/sp/nid_sp.js
+||nid.thesun.co.uk^
+||nid.thetimes.com^
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
 ||nitroscripts.com^$script,domain=pcguide.com
@@ -46764,7 +46776,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||target.miaprova.com^
 ||target.michaels.com^
 ||target.microchip.com^
-||target.microsoft.com^
 ||target.monaco.pwc.fr^
 ||target.mtu-solutions.com^
 ||target.myhealthtoolkit.com^
@@ -72749,7 +72760,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
 @@||taplytics.com^$domain=royalbank.com
-@@||target.microsoft.com/rest/$xmlhttprequest,domain=microsoft.com
 @@||targetimg1.com/webui/$script,domain=target.com
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
@@ -72823,7 +72833,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! collect.igodigital.com/collect.js
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 !! browser.sentry-cdn.com
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|alphaxiv.org|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|members.bifa.film|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 !! ||assets.adobedtm.com/extensions/*/AppMeasurement.min.js
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
 !! ||assets.adobedtm.com/extensions/*/AppMeasurement* (general)
