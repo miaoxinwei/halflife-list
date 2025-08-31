@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6NSnZaYbAujqdN3WR7qlXA
+! Checksum: 2IqivLUZyFlrxHa3BlaX6w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508310941
-! Last Modified: 2025年08月31日 09:41
+! Version: 202508311427
+! Last Modified: 2025年08月31日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1899,6 +1899,11 @@ newduba.cn###jq_youxi
 ||ghekcc.icu^
 ||zathrilgiw.com^
 ||qeih.cn^
+||ymgbwkw.icu^
+||rbjwels.xyz^
+||i2wj211yk.com^
+||nio08311lt.com^
+||rg84983is.com^
 ||s0drxaq4v7.com^
 ||assure66.top^
 ||nio08300lt.com^
@@ -30052,6 +30057,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||obseu.netgreencolumn.com^
 ||ocmail1.in/rtw/$image
 ||oct8ne.com/Visitor/
+||octaneai.com/api/v1/beacon
 ||octaneai.com^*/utrk
 ||octopart-analytics.com^$third-party
 ||oda.markitondemand.com^
@@ -33438,6 +33444,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||insideevs.com/analytics.js
 ||insights-mxp-cdn.coursecareers.com^
 ||instagram.com/ajax/bz
+||instagram.com/ajax/qm/?
 ||instructables.com/counter
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
@@ -33706,7 +33713,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nid.thetimes.com^
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
-||nitroscripts.com^$script,domain=pcguide.com
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
