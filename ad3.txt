@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: M8gGJGxJECEp4hbCKu+crg
+! Checksum: wCmp/59GL/gJanMEnP1etw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509011432
-! Last Modified: 2025年09月01日 14:32
+! Version: 202509012041
+! Last Modified: 2025年09月01日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1900,6 +1900,12 @@ newduba.cn###jq_youxi
 ||rtau9pif4.com^
 ||yirst6pfi.com^
 ||ebcf.cn^
+||d5xogy0qi.com^
+||nio09011lt.com^
+||mgrwaui4.top^
+||zhangyuyidong.cn^$third-party
+||fgtyhocutb.com^
+||c08ls11j.top^
 ||gdpj8lm2t.com^
 ||cbo9vo98i.com^
 ||alternatee23.com^
@@ -28665,6 +28671,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.vendemore.com^
 ||analytics.vitalsignstracker.com^
 ||analytics.vixcloud.co^
+||analytics.wask.co^
 ||analytics.webgains.io^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
@@ -72601,7 +72608,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.tm-awx.com^$script,domain=birminghammail.co.uk|bristolpost.co.uk|dailyrecord.co.uk|hulldailymail.co.uk|liverpoolecho.co.uk|manchestereveningnews.co.uk|stokesentinel.co.uk
-@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|hungryroot.com|usa.experian.com
+@@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|espn.com|goindigo.in|hungryroot.com|usa.experian.com
 @@||datadome.monster.com.first-party-js.datadome.co^$script,domain=monster.com
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||docs.google.com/*/viewdata$~third-party
