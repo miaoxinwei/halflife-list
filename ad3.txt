@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: chrzAabb26VTqyuxCxvqsQ
+! Checksum: NECl+o8kvszkhOW9vIIbwQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202508312036
-! Last Modified: 2025年08月31日 20:36
+! Version: 202509010950
+! Last Modified: 2025年09月01日 09:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1891,6 +1891,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||nxu3l4c8u.com^
+||perspective44.top^
+||nio09010lt.com^
+||tocr.cn^
+||naivtyu.icu^
+||njpilt.icu^
+||rtau9pif4.com^
 ||gdpj8lm2t.com^
 ||cbo9vo98i.com^
 ||alternatee23.com^
@@ -21892,6 +21899,7 @@ m.babytree.com##script + a[class]
 /fingerprint2.min.js
 /fingerprint3.js
 /fingerprint3.min.js
+/Fingerprintjs2/fpt2.js
 /firebase-performance-compat.js
 /firebase-performance-standalone.js
 /firestats/js/fs.js.php
@@ -28706,6 +28714,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.link/_r?$script,third-party
 ||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
+||app.optibase.io^
 ||app.pendo.io/data/$image
 ||app.posthog.com/e/?compression=
 ||app.posthog.com/e/?ip=
@@ -29445,6 +29454,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||followistic.com/widget/stat/
 ||footballmedia.com/tracking/
 ||forethought.ai/workflow/tracking-event
+||form.typeform.com/forms/*/insights/
 ||forms.aweber.com^*/displays.htm?id=
 ||formstack.com/forms/analytics.php
 ||formstack.com/forms/js/*/analytics_
@@ -33671,6 +33681,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||msn.com/OneCollector/
 ||mstm.motorsport.com^
 ||mtg.macpaw.com^
+||mtm.bondagevalley.cc^
 ||mx.eneba.com^
 ||myanimelist.net/static/logging.html
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
@@ -72032,10 +72043,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ad-log.dable.io^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
+||analysis.sooplive.co.kr^
 ||auction.co.kr/ad/log.js
 ||auction.co.kr/montelena.js
 ||bizlog-gateway.myrealtrip.com^
 ||chosun.com/hitlog/
+||collector1.sooplive.co.kr^
 ||count.munhwa.com^
 ||cue.search.naver.com/api/*/log/
 ||data-logdelivery.wconcept.co.kr^
@@ -72055,6 +72068,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ntm.pstatic.net/scripts/ntm_$domain=naver.com
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
+||res.sooplive.co.kr/script/player/service-maintenance.js
 ||seoul.co.kr/weblog/
 ||shinsegae.com/topNPopup.do
 ||sp.naver.com^
