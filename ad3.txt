@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NFD1zVJHd99zrBGcqelpFQ
+! Checksum: swfWuH0ty+N7p+x3Z6MnTA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509030924
-! Last Modified: 2025年09月03日 09:24
+! Version: 202509031427
+! Last Modified: 2025年09月03日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1898,6 +1898,9 @@ newduba.cn###jq_youxi
 ||4fzfc1irq.com^
 ||jphyjv.icu^
 ||iwqx.cn^
+||bbrav96ax.com^
+||12ybs41sa.com^
+||nio09031lt.com^
 ||progress12.com^
 ||p2h08fn94d.com^
 ||ewrrpuquc1.com^
@@ -32844,6 +32847,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arttrk.com/pixel/
 ||as.coinbase.com/metrics
 ||asanalytics.booking.com^
+||asset.d5techs.com/script/track.min.js
+||asset.d5techs.com/script/utm.min.js
 ||assets.engoo-static.com/tracking.js
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
@@ -73012,6 +73017,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||app.clarity.so^$~third-party
 @@||cbsi.map.fastly.net^
 @@||content.ingbank.pl^
+@@||ct.ddc.venmo.com.fpc.datadome.co^$domain=id.venmo.com
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
