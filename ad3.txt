@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CHexPnXgtqLFIsPG5Bn2GQ
+! Checksum: w21byXUhxmb3WAWYl3Jupg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509051428
-! Last Modified: 2025年09月05日 14:28
+! Version: 202509052038
+! Last Modified: 2025年09月05日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1901,6 +1901,7 @@ newduba.cn###jq_youxi
 ||nijlfx.icu^
 ||yrgsqi0zc.com^
 ||joi09051pt.com^
+||nio09051lt.com^
 ||oztg6i0ass.com^
 ||wmnqifp98t.com^
 ||receiptgg.top^
@@ -10507,6 +10508,8 @@ meijutt.*/js/pcjs/
 ||lancdn.com/public/images/view/Tencent-
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+pornlulu.com##.container-fluid[style="background:#000;height:40px;"]
+pornlulu.com##.links:not([role="menu"]:last-child)
 barryblogs.com##div[style="margin-bottom: 10px; width: 300px; height: 300px;"]
 barryblogs.com##.ad-single-top
 iplark.com##div[class^="banner"]
@@ -34622,14 +34625,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youjizzlive.com/api/metrics
 ||youmaker.com/g/test
 ||yourupload.com/jwe?
-||youtube-nocookie.com/api/stats/atr?
+||youtube-nocookie.com/api/stats/atr?ns=
 ||youtube-nocookie.com/api/stats/delayplay?
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?
+||youtube.com/api/stats/atr?ns=
 ||youtube.com/api/stats/delayplay?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/get_video?
