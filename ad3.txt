@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GEvAh4JxEt+JMNa4i7dZLA
+! Checksum: Ak0CkrpTFbPE19JQHR7Npw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509062034
-! Last Modified: 2025年09月06日 20:34
+! Version: 202509070223
+! Last Modified: 2025年09月07日 02:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -25406,6 +25406,7 @@ omni.soundestlink.com$image
 ||leadlab.click^$third-party
 ||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
+||leadpipe.com^$third-party
 ||leadsius.com^$third-party
 ||leadsleap.com^$third-party
 ||leadsmonitor.io^$third-party
@@ -26144,6 +26145,7 @@ omni.soundestlink.com$image
 ||siteimproveanalytics.com^$third-party
 ||siteimproveanalytics.io^$third-party
 ||sitelabweb.com^$third-party
+||sitelytics.tech^$third-party
 ||sitemeter.com^$third-party
 ||siteplug.com^$third-party
 ||sitereport.org^$third-party
@@ -34088,7 +34090,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
-||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/atr?ns=
 ||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/get_video?
