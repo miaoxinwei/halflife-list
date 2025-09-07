@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sn1ur3KzYFsaLjiVYVo33g
+! Checksum: +J6usgMqmY0BPtK9vOQ2Bw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509071426
-! Last Modified: 2025年09月07日 14:26
+! Version: 202509072035
+! Last Modified: 2025年09月07日 20:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1900,6 +1900,8 @@ newduba.cn###jq_youxi
 ||nrki.cn^
 ||jbbydz.icu^
 ||3x5h6x434.com^
+||fsu1cg19c.com^
+||joi09071pt.com^
 ||ilgt04vkw4.com^
 ||d7fl3a3vwh.com^
 ||joi09060pt.com^
@@ -21409,6 +21411,7 @@ m.babytree.com##script + a[class]
 /fe_logger?
 /feature/metrics$xmlhttprequest
 /figanalytics-short-ttl.js
+/fingerprint-3.4.1.js
 /fingerprint.js$domain=~github.com
 /fingerprint.min.js
 /fingerprint/iife.min.js
@@ -22531,6 +22534,7 @@ m.babytree.com##script + a[class]
 /sentry/bundle.min.js
 /seo.taCo.min.js
 /seo/pageStat/*
+/seon/agent.js
 /seostats.php
 /seotracking-v3.js
 /server.php?request=track&output=
@@ -28102,6 +28106,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.digitalpfizer.com^
 ||analytics.disney.go.com^
 ||analytics.disneyinternational.com^
+||analytics.dv.socure.io^
 ||analytics.dvidshub.net^
 ||analytics.edgekey.net^
 ||analytics.eggoffer.com^
@@ -29025,6 +29030,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gateway.bridged.media/Logging/
 ||gateway.dev/log
 ||gateway.foresee.com^
+||gateway.us.zip.co/analytics
 ||gcion.com/gcion.ashx?
 ||gecko.space/count.js
 ||geckofoot.com/gfcounterimg.aspx?
@@ -29441,6 +29447,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.webvisor.org^
 ||mc.yandex.com^
 ||mc.yandex.ru^
+||mc.yango.com^
 ||mcdp-*.outbrain.com^
 ||mcssl.com^*/track.ashx?
 ||mdxprod.io/analytics.js
@@ -34113,6 +34120,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youtubekids.com/ptracking?
 ||youtubekids.com/youtubei/v1/log_event?
 ||ypmate.com/api/metrics
+||yupp.ai/api/log-event
 ||z.cdp-dev.cnn.com^
 ||z737.thestar.com^
 ||za.qeeq.com^
