@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jgX5HL1GWT7firRDgbRQAQ
+! Checksum: UCUFJqgEuACBcZ0q9kK7hA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509102039
-! Last Modified: 2025年09月10日 20:39
+! Version: 202509110227
+! Last Modified: 2025年09月11日 02:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,7 @@ newduba.cn###jq_youxi
 ||nio09101lt.com^
 ||eyqbpifffccdc.net^
 ||mtmvrulutr.com^
+||rxoi.cn^
 ||kkbnzz.cn^
 ||joi09090pt.com^
 ||whistle35.com^
@@ -33232,6 +33233,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||megatron.igraal.com^
 ||mensjournal.com/.bootscripts/analytics.min.js
 ||mentimeter.com/performance-metrics
+||mercdn.net/assets/scripts/raphaelp
 ||mercedes-benz.com/datadog-
 ||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
 ||messari.io/js/wutangtrack.js
@@ -71544,6 +71546,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||doda.jp/DodaFront/Html/js/dodaPrime_pc_aaTag.js
 ||doda.jp/resources/dcfront/js/usrclkTracking.js
 ||dxlive.com/js/dtrace.js
+||ek-tracker.ekitan.com^
+||ekitan.com/*-tracker.js
+||ekitan.com/cmn/js/ekitan.log.js
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eropuru.com/plugin/tracking/
@@ -72669,6 +72674,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
 @@||forecast.lemonde.fr/p/event/pageview?$image,~third-party
+@@||franceinfo.fr/assets/*/piano-analytics/piano-analytics-$script,~third-party
 @@||helix.videotron.com/js/api/fingerprint.js$~third-party
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
