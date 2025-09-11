@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8YKC5J1E3ZB/7Q3xQdmmRw
+! Checksum: gMZ1f7QXR3ezpZSWu3Itag
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509111429
-! Last Modified: 2025年09月11日 14:29
+! Version: 202509112038
+! Last Modified: 2025年09月11日 20:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1903,6 +1903,9 @@ newduba.cn###jq_youxi
 ||vsct.cn^
 ||y63eay93i.com^
 ||q2fwgl4q8.com^
+||joi09111pt.com^
+||yur09111og.com^
+||lnwe.cn^
 ||bpuvuun0xg.com^
 ||hnsgpw.com^
 ||nmulwz.cn^
@@ -24207,6 +24210,7 @@ omni.soundestlink.com$image
 ||trakle01.online^
 ||transmapp.com^
 ||triplestat.online^
+||trk-brevinate.com^
 ||trk-maiorum.com^
 ||trkapi.impact.com^
 ||trkbc.com^
@@ -29356,6 +29360,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kochava.com/track/$third-party
 ||kumo.network-n.com/configs/sites/
 ||kununu.com^*/tracking/
+||kustomerapp.com/c/v1/tracking/
 ||kxcdn.com/actor/$third-party
 ||kxcdn.com/assets/js/script.js
 ||kxcdn.com/prj/
@@ -30723,6 +30728,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webedia.fr/js/gs.js
 ||webeyo.com/ipinfo
 ||webgames.io/imp/
+||webmasters.ksalsocial.online/pixel/
 ||websdk.appsflyer.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
@@ -31201,6 +31207,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||px.staticfiles.at^
 ||qa-events-schema.viacom.tech^
 ||quiz.stroeermediabrands.de/pub/$image
+||ravde.re-in.de/z?
 ||retrack.q-divisioncdn.de^
 ||retresco.de^*/stats/$third-party
 ||rum.mauve.eu^
@@ -32204,6 +32211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hulyagedikci.com/vhit.php?
 ||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||izinal.com/log
+||kolayik.com/gjyo/
 ||log.collectaction.com^
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
@@ -34049,6 +34057,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanityfair.com/user-context?referrer
 ||vbox7.com/aj/player-stats?
 ||vf.startpage.com^
+||videezy.com/assets/tracking/show_page_tracking-
 ||video.mobile.yahoo.com/log|$xmlhttprequest
 ||vidsrc.icu/js/script-custom.js
 ||vidyard.com/api/metrics
@@ -71399,6 +71408,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||outal.origo.hu^
 ||rtl.hu/_stat/
 ||videa.hu/flvplayer_setcookie.php?
+||bhaskar.com/comscore-ajax/
 ||handler.amarujala.com/user/event
 ||staticasset.amarujala.com/handler/recomUserEvent.js
 ||analytic20.detik.com^
