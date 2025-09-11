@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5Ex9Qu7KowT+aR/ZpLRlTA
+! Checksum: 8YKC5J1E3ZB/7Q3xQdmmRw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509110927
-! Last Modified: 2025年09月11日 09:27
+! Version: 202509111429
+! Last Modified: 2025年09月11日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1901,6 +1901,8 @@ newduba.cn###jq_youxi
 ||eaylmi.icu^
 ||trigminp.com^
 ||vsct.cn^
+||y63eay93i.com^
+||q2fwgl4q8.com^
 ||bpuvuun0xg.com^
 ||hnsgpw.com^
 ||nmulwz.cn^
@@ -32206,6 +32208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
+||tmssl.akamaized.net/js/news-viewport-tracking.js$domain=transfermarkt.com.tr
 ||track.livasoft.com.tr^
 ||traffic.wdc.center^
 ||web.tv/analytics/
@@ -34174,16 +34177,17 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youjizzlive.com/api/metrics
 ||youmaker.com/g/test
 ||yourupload.com/jwe?
+||youtube-nocookie.com/api/stats/atr?ns=
 ||youtube-nocookie.com/api/stats/qoe?
 ||youtube-nocookie.com/ptracking?
 ||youtube-nocookie.com/robots.txt?
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
-||youtube.com/api/stats/atr?ns=
-||youtube.com/api/stats/qoe?fmt=
+!||youtube.com/api/stats/atr?ns=
+!||youtube.com/api/stats/qoe?fmt=
 ||youtube.com/get_video?
 ||youtube.com/pcs/activeview?
-||youtube.com/ptracking?html5=1&
+!||youtube.com/ptracking?html5=1&
 ||youtube.com/set_awesome?
 ||youtube.com/youtubei/v1/log_event?
 ||youtube.googleapis.com/youtubei/v1/log_event?
