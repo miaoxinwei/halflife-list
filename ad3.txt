@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VGyHgcr6MURj4qaD/eQNiA
+! Checksum: yT+j6cJMEFKuwFADTwKG6Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509120224
-! Last Modified: 2025年09月12日 02:24
+! Version: 202509120924
+! Last Modified: 2025年09月12日 09:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||wthizudgdg.com^
+||wa9dald544.com^
+||g15wt3ci68.com^
+||pqhtjn.icu^
+||cqudya.icu^
+||behavior65.top^
+||gxam.cn^
+||0m9mjmrd.top^
 ||6s8w2ck1g.com^
 ||baqwo74y8.com^
 ||ralyxv.icu^
@@ -25175,6 +25183,7 @@ omni.soundestlink.com$image
 ||getstatistics.se^$third-party
 ||getstats.org^$third-party
 ||getviously.com^$third-party
+||getwarmly.com^$third-party
 ||gez.io^$third-party
 ||giddyuptrk.com^$third-party
 ||gigcount.com^$third-party
@@ -29549,6 +29558,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.nsureapi.com^
 ||metrics.onshape.com^
 ||metrics.pico.tools^
+||metrics.rapidedge.io^
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
 ||metrix.emagister.com^
@@ -33967,6 +33977,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trackr.vivenu.com^
 ||tradingview-widget.com/static/bundles/embed/snowplow-embed-widget-tracker.$script
 ||tradingview.com/ping
+||trafficid.brandwell.ai^
 ||traveloka.com/api/v1/tvlk/events
 ||trck.coomeet.com^
 ||trckng.dainese.com^
