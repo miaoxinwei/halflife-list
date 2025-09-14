@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +3oOuar4VZfeFRBIpYV11Q
+! Checksum: i9XxzSV5RnRveKyOI9t0KA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509141426
-! Last Modified: 2025年09月14日 14:26
+! Version: 202509142034
+! Last Modified: 2025年09月14日 20:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23849,6 +23849,7 @@ _WebVitalsReporter_
 ://links.paypal.*/eos/$image
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
 ://parcel-api.delivery-status.*/open/$image
+://sg1.wizrocketmail.net/r?e=$image
 ://t.*/open^$image
 ://t.order.*/r/?id=$image
 ^endpoint=track^$image
@@ -29041,6 +29042,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||evt.24.com^
 ||evt.collarity.com^$image
 ||evt.houzz.com^
+||ewe.loudcrowd.com^
 ||ex.co/content/monetization/legacy-pixels/
 ||exacttarget.com^$~subdocument,third-party
 ||excite.ie/?click_in=
@@ -71603,6 +71605,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||vvvvid.it^$ping
 ||yachtingnetwork.it/stat/
 ||abema-tv.com/v1/stats/
+||ad-bls-tracking.lemino.docomo.ne.jp^
 ||ad-platform.jmty.jp^
 ||altema-log.com^
 ||amazonaws.com/ai-img/aia.js
