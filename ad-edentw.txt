@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5WBLXNCNYtKt2Hw/fQJycQ
+! Checksum: ZxgxoKBovqjzN3kc46LY4Q
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202509170227
-! Last Modified: 2025年09月17日 02:27
+! Version: 202509170925
+! Last Modified: 2025年09月17日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -944,8 +944,8 @@ upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
 kickassanime.io##.ka-ax-wrp.mb-3
 imagefap.com#$#abort-on-property-read popCookie
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#race start; hide-if-matches-xpath './/img[@alt][starts-with(@src,"/wp-content/uploads/")]/ancestor-or-self::a[starts-with(@href,"/offernf?")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"affernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"ffernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"eefernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"uffer") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ernf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"fcrnf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffec=") or contains(@href,"/gameadult/")]/parent::p[1]'; race stop;
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#abort-on-property-write advanced_ads_ready; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement; abort-on-property-write window.open; abort-current-inline-script document.documentElement break;case $.
+igg-games.*,pcgamestorrents.*#$#race start; hide-if-matches-xpath './/img[@alt][starts-with(@src,"/wp-content/uploads/")]/ancestor-or-self::a[starts-with(@href,"/offernf?")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"affernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"ffernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"eefernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"uffer") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ernf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"fcrnf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffec=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"fdrnfa?") or contains(@href,"/gameadult/")]/parent::p[1]'; race stop;
+igg-games.*,pcgamestorrents.*#$#abort-on-property-write advanced_ads_ready; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement; abort-on-property-write window.open; abort-current-inline-script document.documentElement break;case $.
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
@@ -2288,6 +2288,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||mesodepointed.com^
 ||mimamsaslews.com^
 ||misweenownself.com^
+||molalatroce.com^
 ||moneraltilting.com^
 ||morsalurluch.com^
 ||mournersamoa.com^
@@ -2295,6 +2296,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||murathernias.com^
 ||mutinedgunster.com^
 ||nainepidia.com^
+||nairydeices.com^
 ||nasrolrt.com^
 ||ndrimmers.com^
 ||ningposkidi.com^
@@ -2324,7 +2326,9 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||parazoamirks.com^
 ||pelitecontg.top^
 ||perksburian.com^
+||piasabagiveth.com^
 ||pilleustrig.com^
+||plaitluctual.com^
 ||plasmidjerky.com^
 ||plumbicwooler.com^
 ||plungescreeve.com^
@@ -2381,6 +2385,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||tammycooly.com^
 ||tampurunrig.com^
 ||tattvaballute.com^
+||taujubarb.com^
 ||techneparlous.com^
 ||teenerdormer.com^
 ||tembeyeaned.cyou^

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Moe/kt1F59lwjltKPI9vrA
+! Checksum: LnuOFKKs5C0+vXxancSE2A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509161429
-! Last Modified: 2025年09月16日 14:29
+! Version: 202509170925
+! Last Modified: 2025年09月17日 09:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||yur09170og.com^
+||gtfccewpo.com^
+||w2j4kdjma.com^
+||ifkyco.icu^
+||harmony573.top^
+||xvkz.cn^
+||nfxonb.icu^
 ||lg0lh2qfj4.com^
 ||ukew6uo7u1.com^
 ||yur09160og.com^
@@ -28399,6 +28406,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.posthog.com/e/?ip=
 ||app.posthog.com/static/array.js
 ||app.posthog.com/static/recorder-v2.js
+||app.qualified.com/*/sentry/
+||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
 ||app.trytada.com/addImpression
 ||app.yesware.com/t/$third-party
