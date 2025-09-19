@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v4k8MHxjWJ0Eio0VqXy8JA
+! Checksum: w7lomB6KLGMmbEiwAz1O5w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509191429
-! Last Modified: 2025年09月19日 14:29
+! Version: 202509192039
+! Last Modified: 2025年09月19日 20:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1901,6 +1901,8 @@ newduba.cn###jq_youxi
 ||elclaq.icu^
 ||oizs.cn^
 ||jjpyaj214.com^
+||unpw0czu7.com^
+||dfi09191kq.com^
 ||dfi09180kq.com^
 ||ao5yygeilh.com^
 ||jd6wnmvacs.com^
@@ -23746,6 +23748,7 @@ _WebVitalsReporter_
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
 .revolut.com/q/$image
+.s-pt.jp/mail/info/*/img/_.gif
 .salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
@@ -23909,6 +23912,7 @@ _WebVitalsReporter_
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
+://openedlog.
 ://parcel-api.delivery-status.*/open/$image
 ://sg1.wizrocketmail.net/r?e=$image
 ://t.*/open^$image
