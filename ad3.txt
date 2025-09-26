@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tqq3YuSU+iXy5z/LsZ3+vA
+! Checksum: /EK7ygkP2FCFQBkGeBPZ4g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509261429
-! Last Modified: 2025年09月26日 14:29
+! Version: 202509262040
+! Last Modified: 2025年09月26日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1904,6 +1904,8 @@ newduba.cn###jq_youxi
 ||1f0l.top^
 ||ck4g3p2x92.com^
 ||nzl09261oa.com^
+||fahwlqf37l.com^
+||pimuedrozt.com^
 ||dfi09250kq.com^
 ||s72h7io4o.com^
 ||5mn041cdz.com^
@@ -22856,7 +22858,7 @@ m.babytree.com##script + a[class]
 /smetrics.*/b/ss/*
 /smetrics.*/id?
 /smg_tracking/js/onthe.io.js
-/Smile_ElasticsuiteTracker/*$script
+/Smile_ElasticsuiteTracker/js/tracking.min.js
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
@@ -73179,6 +73181,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||komplett.no/gtm.js$script,~third-party
 !---------- Polish ----------
 @@||gemius.pl/gstream.js
+@@||gildia.pl/static/*/Smile_ElasticsuiteTracker/js/tracking.min.js$~third-party
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
 @@||iwa.iplsc.com/iwa.js$script
