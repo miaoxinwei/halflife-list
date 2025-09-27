@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GBJjKohP3bKCZXOIa6o/rg
+! Checksum: Xk3wSUxeKDKpzibjKE9f7Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509270226
-! Last Modified: 2025年09月27日 02:26
+! Version: 202509270923
+! Last Modified: 2025年09月27日 09:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||nzl09270oa.com^
+||mfhxz0hz7.com^
+||r0eybo511.com^
+||twinkleop.com^
+||mwgooq.icu^
 ||ttxjnt.icu^
 ||giwl0p3gx7.com^
 ||m6d3h9vc3z.com^
@@ -29774,6 +29779,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||measure.refinery89.com^
 ||media-imdb.com/twilight/?
 ||media-lab.ai/ana-sentry.js
+||media-lab.ai/events
 ||media-platform.com/common/js/lib/cxense/
 ||mediabong.com/t/
 ||mediabong.net/t/
@@ -31057,7 +31063,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.babe.today^
 ||x.disq.us^
 ||x.weather.com^
-||xeno.media-lab.ai/events
 ||xp2023-pix.s3.amazonaws.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yahoo.com/sync/casale/
