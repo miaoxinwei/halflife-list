@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Dhfs34RqeNzgCMYGeRKsCg
+! Checksum: TCBnMUd9wLCkfxyTuvquZw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202509290937
-! Last Modified: 2025年09月29日 09:37
+! Version: 202509291431
+! Last Modified: 2025年09月29日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1895,6 +1895,15 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||ytv7335mt.com^
 ||nzl09290oa.com^
+||6x59axt21.com^
+||ipybks.icu^
+||ufne.cn^
+||vplrvf.icu^
+||rgcrunzozp.com^
+||umbrella6.top^
+||fuw6cipmw.com^
+||nzl09291oa.com^
+||uesv3jjf6.com^
 ||d0i8m5ddv6.com^
 ||3i3w8hl6do.com^
 ||nzl09280oa.com^
@@ -28077,6 +28086,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||24log.ru^$third-party
 ||24smi.info^$third-party
 ||24smi.net^$third-party
+||2xclick.ru^$third-party
 ||a-counter.kiev.ua^$third-party
 ||admile.ru^$third-party
 ||adsmediator.com^$third-party
@@ -28622,6 +28632,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||assets.yumpu.com/release/*/tracking.js
 ||assistant.watson.appdomain.cloud/analytics/
 ||asterpix.com/tagcloudview/
+||async-px.dynamicyield.com^
 ||at.cbsi.com/lib/api/client-info
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
@@ -32932,6 +32943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
 ||collector.quillbot.com^
+||collector.spankbang.party^
 ||collector.taoxh.life^
 ||collector.xhaccess.com^
 ||collector.xhamster.com^
@@ -32941,6 +32953,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.xhamsterporno.mx^
 ||collider.com/strpixel.png
 ||colvk.viki.io^
+||comms.bps.org.uk^
 ||confiant.msn.com^
 ||configurator.ecom-mobile-samsung.com/api/logger
 ||connatix.com/scripts/$~third-party
@@ -32986,8 +32999,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
 ||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
-||darkreader.org/data/top-backers.json
-||darkreader.org/elements/backers-
 ||darkreader.org/elements/statistics.js
 ||data.allstate.com^
 ||data.barry-callebaut.com^
@@ -32996,14 +33007,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.jerkmate.com^
 ||data.torry.io^
 ||data.ublock-browser.com^
-||data.webullfintech.com/event/
-||data.whop.com/api/v1/track/
+||data.vevor.com^
 ||data.younow.com^
 ||datadoghq.com/assets/dd-browser-logs-rum.js
 ||datadome.maisonsdumonde.com^
 ||datayze.com/callback/record_visit?
 ||datum.jsdelivr.com^
-||dbhsejcg-meetup-com.cdnjs.network^
 ||dc.banggood.com^
 ||dcf.espn.com/privacy/
 ||dd.auspost.com.au^
@@ -33013,7 +33022,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dealdash.com/tracker-json
 ||dealnews.com/lw/ul.php
 ||deepl.com/web/statistics
-||deepnote.com/api/track
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
 ||deliveroo.com^*/events
 ||deliveryrank.com/drapp070eb2deb1932e2101e6.js
@@ -33841,6 +33849,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||r.3hentai.net^
 ||r.apkpure.net^
 ||r.bbci.co.uk^
+||r.cdnpure.com/webReport
 ||ra.co/proxy/client/metrics
 ||ra.co/track/
 ||rabbit.donald.cat^
@@ -33903,6 +33912,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rta2.newzit.com^
 ||rtds.progressive.com^
 ||rum.api.intuit.com^
+||rum.cdnpure.com^
 ||rum.condenastdigital.com^
 ||rumble.com/l/
 ||run.app/events$domain=imgur.com|worldstar.com|worldstarhiphop.com
@@ -33933,6 +33943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||secretbenefits.com/js/script.js
 ||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
+||segapi.whop.com^
 ||service.techzine.eu^
 ||services.haaretz.com/ds/impression
 ||services.haaretz.com/ms-gstat-campaign/
@@ -34340,6 +34351,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||two.cm.com^
 ||tyler-brown.com/api/stats?
 ||typepad.com/t/stats?
+||u1sdata.webullfintech.com^
 ||ua.financialexpress.com/api/capture
 ||ua.indianexpress.com^
 ||ub.galaxus.
