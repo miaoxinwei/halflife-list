@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EK3QQ2c1RaJc8GwYC39fxA
+! Checksum: 4XJq0z2ItfuqGE4cka/Q3w
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202509291431
-! Last Modified: 2025年09月29日 14:31
+! Version: 202509300926
+! Last Modified: 2025年09月30日 09:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1893,7 +1893,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||vzia.cn^
 ||ytv7335mt.com^
+||dftraanudh.com^
+||ecbwemnff3.com^
+||yxonk5bcue.com^
+||osuwwk.icu^
+||mollified.top^
+||dtindrofe.com^
+||tshmhp.icu^
 ||nzl09290oa.com^
 ||6x59axt21.com^
 ||ipybks.icu^
@@ -10271,6 +10279,11 @@ meijutt.*/js/pcjs/
 ||cdxyspa.com/js/e
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+ydwgame.net###float_mask
+ydwgame.net###diy3
+ydwgame.net##.pictextad
+ydwgame.net##a[href="http://www.discuz.net"]
+ydwgame.net##.cl.wp[style="width:1200px;"]
 ternity.net###playerdavLayer
 ternity.net##.da
 csdn.net###kp_box_www_swiper
