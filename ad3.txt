@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /thn11GhPmWTCv19S/2g5g
+! Checksum: szC7gQiN2aiE4iJ0yOmMtw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510030227
-! Last Modified: 2025年10月03日 02:27
+! Version: 202510031428
+! Last Modified: 2025年10月03日 14:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1893,6 +1893,19 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||sjhgfrvbxrbbr.com^
+||lyo1dkdbp.com^
+||kgoj4nrhe.com^
+||hlj10030ip.com^
+||orbk.cn^
+||xqtcpf.icu^
+||kqgmea.icu^
+||ybuneloeh.com^
+||warthog4.top^
+||q29k22vpu.com^
+||instrument95.com^
+||hlj10031ip.com^
+||92hjv5r20.com^
 ||sz2xlvu6jq.com^
 ||saptuqse29.com^
 ||hlj10020ip.com^
@@ -24136,6 +24149,7 @@ omni.soundestlink.com$image
 ||aditude.cloud^
 ||admaxium.com^
 ||adnext.co^
+||adrsbl.io^
 ||adrtx.net^
 ||adscore.com^
 ||adsmeasurement.com^
@@ -24404,6 +24418,7 @@ omni.soundestlink.com$image
 ||motu-teamblue.services^
 ||mrpdata.net^
 ||mt48.net^
+||myangular.life^
 ||mysingleromance.com^
 ||native-track.com^
 ||niblewren.co^
@@ -29468,6 +29483,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||getglue.com^*/count?
 ||getkudos.me/a?$image
 ||getmetrical.com/storagesync
+||getnodejs.com/add-event/
 ||getpos.de/ext/
 ||getrockerbox.com/pixel?
 ||gg-unleash-prod.azurewebsites.net/proxy/client/metrics
@@ -32476,6 +32492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tbe.tom.ru^
 ||telemetry.jivosite.com^
 ||test.legitcode.ws^
+||test.showvid.ws^
 ||tms-st.cdn.ngenix.net^
 ||tms.dmp.wi-fi.ru^
 ||top.elec.ru^
@@ -72274,6 +72291,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||2gis.ru/_/metrics
 ||3dnews.ru/track
 ||4pda.ru/stat/
+||a.lifehacker.ru^
 ||a.mts.ru^
 ||a.pikabu.ru^
 ||a.ria.ru^
