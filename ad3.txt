@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: K84n3J+2UANKadO1YcPKkQ
+! Checksum: sm5Oyu2rC4J0KT64pzIFXQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510070926
-! Last Modified: 2025年10月07日 09:26
+! Version: 202510071429
+! Last Modified: 2025年10月07日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1900,6 +1900,8 @@ newduba.cn###jq_youxi
 ||hlj10070ip.com^
 ||anode67.top^
 ||wzvaknomh.com^
+||1jlp1qbgu.com^
+||hlj10071ip.com^
 ||steamers77.com^
 ||hlj10060ip.com^
 ||meimpheaea.com^
@@ -18103,7 +18105,9 @@ yydstxt*.com/js/cdn.
 ||banzhu33333.net/js/html
 ||djdedu.net/static/*.gif
 ||28lu.net^*/0
+||28lu.net^*/1
 ||wodeshucheng.com^*/0
+||wodeshucheng.com^*/1
 ||xiguasuwu.com/static/m.
 ||biqgg.com/n.
 ||biqgg.com/w.
@@ -28028,7 +28032,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fpad.jp^$third-party
 ||fspark-ap.com^$third-party
 ||fw-ad.jp^$third-party
-||gacraft.jp^$third-party
 ||geniee.jp^$third-party
 ||genieessp.jp^$third-party
 ||gmodmp.jp^$third-party
@@ -32188,6 +32191,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ev.tpocdm.com^
 ||flux-cdn.com/client/ukiuki/flux_wikiwiki_AS_TM_AT.min.js
 ||future-shop.jp/rview.gif?
+||gacraft.jp/publish/token.html
 ||hatmiso.net^$third-party
 ||ip2c.landscape.co.jp^
 ||ipcheck.blogsys.jp^
