@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sm5Oyu2rC4J0KT64pzIFXQ
+! Checksum: N9drsfwrN/rs7a1u/I7pZQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510071429
-! Last Modified: 2025年10月07日 14:29
+! Version: 202510072041
+! Last Modified: 2025年10月07日 20:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1902,6 +1902,8 @@ newduba.cn###jq_youxi
 ||wzvaknomh.com^
 ||1jlp1qbgu.com^
 ||hlj10071ip.com^
+||u7ugo0jr3.com^
+||xpncjj.icu^
 ||steamers77.com^
 ||hlj10060ip.com^
 ||meimpheaea.com^
@@ -23210,7 +23212,6 @@ m.babytree.com##script + a[class]
 /tatari-shopify/tracker-snippet-latest.min.js
 /tc_analytics.js
 /tc_analytics.min.js
-/tc_imp.gif?
 /tccl.min.js
 /tck/gif/*
 /teal-comscore-
@@ -24231,6 +24232,7 @@ omni.soundestlink.com$image
 ||awmonitor.com^
 ||b3mxnuvcer.com^
 ||bfmio.com^
+||bgalytics.com^
 ||bidgx.com^
 ||bidswitch.net^
 ||bkrtx.com^
@@ -29128,7 +29130,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||content.kaspersky-labs.com/public/analytics-scripts/analytical_functions.js
 ||contentdriver.com/api/impression
 ||contently.com/xdomain/
-||contentpass.net/stats?$third-party
 ||control.cityofcairns.com^$third-party
 ||conversions.genieventures.co.uk^
 ||convertflow.co^*/visitors/
@@ -29506,7 +29507,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gateway.dev/log
 ||gateway.foresee.com^
 ||gateway.src-play.com/Analytics/
-||gateway.us.zip.co/analytics
 ||gcion.com/gcion.ashx?
 ||gecko.space/count.js
 ||geckofoot.com/gfcounterimg.aspx?
@@ -32221,6 +32221,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
 ||moshimo.com^*/impression?
+||navismithapis-cdn.com/js/tracking.js
 ||ocn-tag.sienca.jp/api/v1/event/pv
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
@@ -33668,7 +33669,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lucida.su/api/event
 ||lyft.com/api/track
 ||lyngsat.com/system/loadclick.js
-||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
 ||macys.com/tag_path/
@@ -33850,6 +33850,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||overstock.com/analytics/
 ||overstock.com/dlp?
 ||ovyerus.com/js/script.js
+||p.codio.com^
 ||p.ctpost.com/article?
 ||p.hentaiforce.net^
 ||p.minds.com^
@@ -72069,6 +72070,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hatarako.net/api/recommend/analyze_logger
 ||hatena.ne.jp/api/log?
 ||i2i.jp/bin/
+||ias.r10s.jp/grp15/lib/ichiba_frame.js
 ||img.syosetu.org/js/c_
 ||is-log.furunavi.jp^
 ||j1.ax.xrea.com^
@@ -72110,6 +72112,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
 ||pzd.rakuten.co.jp^
+||r.r10s.jp/com/ap/plugin/mediatrack/mediatracker_ichiba_item.js
 ||rakuten.co.jp/com/js/omniture/
 ||rakuten.co.jp/gw.js
 ||ranking.fc2.com/analyze.js
