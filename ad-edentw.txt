@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JBGMX4TvEEwLFSfuBdR5SQ
+! Checksum: COYRNTPgPWbKtu65MZoXaw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202510082041
-! Last Modified: 2025年10月08日 20:41
+! Version: 202510090229
+! Last Modified: 2025年10月09日 02:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1035,7 +1035,7 @@ vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded; abor
 @@||nosteam.ro/notcaptcha/adheader.js$domain=nosteamgames.ro
 /lvcsm/abck-banners/*^$domain=xv-ru.com|xvideos.com
 xvideos.com##div[id^="video-ad"]+div[class]
-xv-ru.com,xvideos.com,xnxx.com#$#prevent-listener DOMContentLoaded banners; json-prune 'banners'; abort-on-property-read xv.sda.banners
+xv-ru.com,xvideos.com,xnxx.com#$#prevent-listener DOMContentLoaded /loadAdsDelayed/; override-property-read xv.sda.pp.init noopFunc
 filelions.com,filelions.to#$#hide-if-matches-xpath './/div[contains(@style,"position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01")]/self::div[1]'
 adblockeronstreamtape.xyz,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,noblocktape.com,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamtape.*,streamtapeadblock.art,strtape.*,tapewithadblock.org#$#abort-current-inline-script JSON.parse Promise; abort-current-inline-script document.createElement adblock;
 */larkf?id=*$domain=animeunity.cc
@@ -2082,6 +2082,7 @@ mail.ru#@#[href*="https://dzen.ru"]
 ! #CV-782
 www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.5'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.8'; race stop;
 www.youtube.com#$#map-override set AD_PLACEMENT '' value.kind;
+www.youtube.com#$#json-prune 'adSlots adPlacements playerAds' 'streamingData.formats.0.qualityOrdinal'; json-prune 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adPlacements playerResponse.adSlots' 'playerResponse.streamingData.formats.0.qualityOrdinal'
 www.youtube.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adSlots emptyArray; override-property-read ytInitialPlayerResponse.adPlacements emptyArray;override-property-read ytInitialPlayerResponse.playerAds emptyArray;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
