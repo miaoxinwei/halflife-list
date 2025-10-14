@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BnmstGfxbbKyOabpYGVyZQ
+! Checksum: EpLC4p6a8Rn4kbL5i7ao6A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510140926
-! Last Modified: 2025年10月14日 09:26
+! Version: 202510141430
+! Last Modified: 2025年10月14日 14:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1901,6 +1901,7 @@ newduba.cn###jq_youxi
 ||recognize04.top^
 ||zxvklz.icu^
 ||egxo.cn^
+||7bfst8xxtc.com^
 ||reorganizes64.com^
 ||leyf5q4rk.com^
 ||rhmt1jjyo.com^
@@ -24385,6 +24386,7 @@ omni.soundestlink.com$image
 ||sjpf.io^
 ||skcrtxr.com^
 ||smartmetrics.co.uk^
+||smartytouch.co^
 ||snptrk.com^
 ||soapfighters.com^
 ||solutionshindsight.net^
@@ -29102,6 +29104,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||drift.com/targeting/evaluate_with_log
 ||drift.com/track
 ||dugout.co/das2.js
+||duplexer.wix.com^
 ||dw.com.com^$script
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
@@ -31220,6 +31223,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcv4p460uqa46.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
+||de5zarwna0j2q.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
 ||dh0c1bz67fuho.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
@@ -71733,6 +71737,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ta.tokopedia.com/promo/v1/views
 ||tokopedia.com/helios-client/client-log
 /~shared/do/~/count/?$image
+||adnkronos.com/isf-rum/
 ||alfemminile.com/logpix.php
 ||altervista.org/js/contatore.js
 ||altervista.org/js_tags/contatore.js
@@ -72025,7 +72030,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||log.kinolights.com^
 ||log.tossinvest.com^
 ||log.zdnet.co.kr^
-||nam.veta.naver.com^
 ||naver.com/jackpotlog/
 ||naver.com/PostView.nhn?$image
 ||ntm.pstatic.net/scripts/ntm_$domain=naver.com
