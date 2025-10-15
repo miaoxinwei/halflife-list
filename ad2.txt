@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yIvWEYU5qqCjr+DT2IfdDA
+! Checksum: SWUgH5hP+GrcTeX6SS4USw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202510151430
-! Last Modified: 2025年10月15日 14:30
+! Version: 202510152042
+! Last Modified: 2025年10月15日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1903,6 +1903,9 @@ newduba.cn###jq_youxi
 ||xarfxj.icu^
 ||trmn.cn^
 ||u3qrlykp2.com^
+||ggo10151lq.com^
+||ggrumillu.com^
+||xleemek84.com^
 ||rndmlk8asw.com^
 ||yp0loy5lcl.com^
 ||ggo10140lq.com^
@@ -5845,7 +5848,7 @@ $image,third-party,domain=lady1.top
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
-$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 .194007.com/4058.gif
 .gif|$domain=7mshipin.org|viidii.info
 .html|$domain=www.gamer.com.tw
@@ -10213,6 +10216,8 @@ meijutt.*/js/pcjs/
 ||layuion.com/get/showcase/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+sojson.com##._right_ad
+sojson.com##._left_ad
 ydwgame.net###float_mask
 ydwgame.net###diy3
 ydwgame.net##.pictextad
