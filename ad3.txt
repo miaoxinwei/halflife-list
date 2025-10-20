@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gwQLc4+gzeqyXuUAg8q24g
+! Checksum: eGVmYje+ldTPinBIzMoYeA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510201431
-! Last Modified: 2025年10月20日 14:31
+! Version: 202510202042
+! Last Modified: 2025年10月20日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1903,6 +1903,8 @@ newduba.cn###jq_youxi
 ||interviewbq.com^
 ||tqub.cn^
 ||0b6rvr210q.com^
+||zsy10201yok.com^
+||m78vxjm35d.com^
 ||alcoholic56.top^
 ||lf2cgxz0b.com^
 ||84dwl4bbq.com^
@@ -25608,6 +25610,7 @@ omni.soundestlink.com$image
 ||indicia.com^$third-party
 ||individuad.net^$third-party
 ||ineedhits.com^$third-party
+||inetstats.org^$third-party
 ||inferclick.com^$third-party
 ||infinigraph.com^$third-party
 ||infinity-tracking.com^$third-party
@@ -71924,6 +71927,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
+||apps.nhk.jp/assets/dtm/
 ||askdoctors.jp/assets/packs/js/impression_tracker-
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
