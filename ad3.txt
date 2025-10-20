@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vM00THiUPwHWvEbd1XL0AQ
+! Checksum: gwQLc4+gzeqyXuUAg8q24g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510200944
-! Last Modified: 2025年10月20日 09:44
+! Version: 202510201431
+! Last Modified: 2025年10月20日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1869,6 +1869,7 @@ newduba.cn###jq_youxi
 ###banner_links.banner-container
 ##.a-media.ex-728-90
 ##a[clickmode="cpt"]
+###foot > #btmBox
 ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
@@ -1901,6 +1902,7 @@ newduba.cn###jq_youxi
 ||dpxadf.icu^
 ||interviewbq.com^
 ||tqub.cn^
+||0b6rvr210q.com^
 ||alcoholic56.top^
 ||lf2cgxz0b.com^
 ||84dwl4bbq.com^
@@ -5617,7 +5619,6 @@ newduba.cn###jq_youxi
 ||twrank.com^$third-party
 ||uu11881.com^
 ||uu22332.com^
-||hulichuang.mobi^
 ||uu22112.com^
 ||tu2024020388.com^
 ||uu22662.com^
@@ -10264,6 +10265,7 @@ meijutt.*/js/pcjs/
 ||cdxyspa.com/js/e
 ||layuion.com/get/showcase/
 ||xxir.com/static/images/ad.
+||7wzx9.com/tbad.
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 sojson.com##._right_ad
@@ -26027,6 +26029,7 @@ omni.soundestlink.com$image
 ||nik.io^$third-party
 ||ninjacat.io^$third-party
 ||nmrodam.com^$third-party
+||nnmtools.com^third-party
 ||noibu.com^$third-party
 ||noowho.com^$third-party
 ||nordicresearch.com^$third-party
