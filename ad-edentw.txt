@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zdg3Tik5clZPogRZSMsqqQ
+! Checksum: 1ojHcWee9UZeDi9gq33wog
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202510212043
-! Last Modified: 2025年10月21日 20:43
+! Version: 202510220229
+! Last Modified: 2025年10月22日 02:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -539,6 +539,7 @@ expres.cz##a[href*="preroll"]
 expres.cz##a[href*=";cdata="]
 expres.cz##a[href*="/supertag=InstreamVideo/"]
 karaoketexty.cz#$#abort-current-inline-script  adb
+livesport.cz#$#hide-if-matches-xpath './/span[.="AD"]/parent::div/ancestor::div[@id][@class][1]'
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
 ! *** abp-filters-anti-cv:dutch.txt ***
@@ -957,7 +958,7 @@ upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
 kickassanime.io##.ka-ax-wrp.mb-3
 imagefap.com#$#abort-on-property-read popCookie
-igg-games.*,pcgamestorrents.*#$#race start; hide-if-matches-xpath './/img[@alt][starts-with(@src,"/wp-content/uploads/")]/ancestor-or-self::a[starts-with(@href,"/offernf?")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"affernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"ffernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"eefernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"uffer") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ernf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"fcrnf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffeci=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffecd") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffec=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffecc=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath '//article//*[self::*/a[@href][.//*[@width="669" and @height="85"]]]'; race stop;
+igg-games.*,pcgamestorrents.*#$#race start; hide-if-matches-xpath './/img[@loading][@alt][@src][@width][@height]/parent::a[not(@aria-label)]/parent::p'; hide-if-matches-xpath './/img[@alt][starts-with(@src,"/wp-content/uploads/")]/ancestor-or-self::a[starts-with(@href,"/offernf?")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"affernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"ffernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"eefernf?") or contains(@href,"/gameadult/")]/parent::div[1]'; hide-if-matches-xpath './/a[contains(@href,"uffer") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ernf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"fcrnf?") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffeci=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffecd") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffec=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath './/a[contains(@href,"ffecc=") or contains(@href,"/gameadult/")]/parent::p[1]'; hide-if-matches-xpath '//article//*[self::*/a[@href][.//*[@width="669" and @height="85"]]]'; race stop;
 igg-games.*,pcgamestorrents.*#$#abort-on-property-write advanced_ads_ready; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement; abort-on-property-write window.open; abort-current-inline-script document.documentElement break;case $.
 /\/uploads\/2025\/\d{2}\/[0-9a-z]{6,12}\.jpg$/$image,match-case,domain=igg-games.*|pcgamestorrents.*
 searchenginereports.net#$#abort-on-property-read adsbygoogle
@@ -1141,6 +1142,7 @@ stuff.co.nz#$#hide-if-matches-xpath '//div[@class="sponsored-container"]/div[@cl
 ups2up.*##div[style]>iframe[style]
 subtaboo.com#$#hide-if-matches-xpath './/div[@style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 1769px; height: 1010px; z-index: 2147483647;"]/ancestor-or-self::div[1]';
 showboxmovies.net,xprime.tv,uqload.*,up4stream.*#$#abort-current-inline-script document.createElement /String\.fromCharCode.*[0-9]{2,3}/
+perezhilton.com##.lazy-ad-parent
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
@@ -1253,6 +1255,7 @@ anime-sama.fr#$#hide-if-matches-xpath './/a[contains(@href,"paid_referral")]/img
 automobile-propre.com#$#hide-if-matches-xpath '//div[contains(@class,"optidigital-ad-center-sticky")]/preceding::p[contains(text(),"annonce")]/parent::div[contains(@class,"max-md:!hidden")][1]'
 automobile-propre.com##div[data-ref="halfpage-ad"]
 automobile-propre.com##div[class*="ad-desktop"]
+pausemusicale.com#$#hide-if-matches-xpath './/div[contains(@id,"hit-inc-")][@style="min-height:280px"]'
 ! Popup/Popunder
 jetanimes.*,voirseries.*#$#abort-on-property-read open
 manga-scantrad.net,toonanime.*#$#abort-current-inline-script document.querySelectorAll popMagic
@@ -1435,7 +1438,7 @@ filmehd.to##iframe[src][style]
 zen.yandex.ru##div[class*="is-parent-size_undefined"]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class*="item_type_"][class*="item_rendered"]
 ||razlozhi.ru^$script,header=report-to
-avtovzglyad.ru,baby.ru,dni.ru,kufar.by,russian7.ru,selflib.me,ura.news,www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
+avtovzglyad.ru,baby.ru,dni.ru,kufar.by,russian7.ru,selflib.me,www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
 ||liveinternet.ru^$xmlhttprequest,header=Uniformat-Product-Type
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
