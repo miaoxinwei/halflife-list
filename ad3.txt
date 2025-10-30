@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pht1ad8FOPIQIJi7a8P9HA
+! Checksum: FMVx21d+X5qh1jnXMFPyYg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202510300943
-! Last Modified: 2025年10月30日 09:43
+! Version: 202510302042
+! Last Modified: 2025年10月30日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1909,6 +1909,10 @@ newduba.cn###jq_youxi
 ||braised58.top^
 ||ebqonaidz.com^
 ||eqqp.cn^
+||uxx1sawfwm.com^
+||zbl40hvzzy.com^
+||zdh10301lo.com^
+||ijxi.cn^
 ||careless05.com^
 ||zdh10290lo.com^
 ||1futnsio0.com^
@@ -18213,6 +18217,7 @@ wss://*.*.top/$third-party
 ||lzbao.net/mtvbox.
 ||4taoxs.com/api/accept/
 ||biquge.ac/tongji/ad.
+||haogushi88.cc/static/simple/yue
 .cn/Ao390sW2.js
 .cn/cS389.js
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
@@ -29779,6 +29784,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||io.narrative.io/?$third-party
+||ip-check-perf.radar.cloudflare.com^
 ||ip.lovely-app.com^
 ||ip.momentummedia.com.au^
 ||ippen.space/idat
@@ -72800,6 +72806,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||console.statsig.com/_next/$~third-party
 @@||content.canadiantire.ca/fp/tags.js$domain=customerauth.triangle.com
 @@||coremetrics.com*/eluminate.js
+@@||cos.accelerate.myqcloud.com/assets/sensorsdata.min.js$domain=ruijienetworks.com
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html$xmlhttprequest
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/visitor-api.html$xmlhttprequest
