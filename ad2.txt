@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mt95VhvyKxIYjFy5BJkRhA
+! Checksum: E5nqmujKAxqtHwjLE6Npww
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202511010943
-! Last Modified: 2025年11月01日 09:43
+! Version: 202511011427
+! Last Modified: 2025年11月01日 14:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,11 @@ newduba.cn###jq_youxi
 ||zddsnuxow.icu^
 ||uhek.cn^
 ||novikanidf.com^
+||9gau3j8x7.com^
+||srfo.cn^
+||zngvqwp.icu^
+||01anf08rf.com^
+||zdh11011lo.com^
 ||m17d1e83q.com^
 ||pzq7ilwvv.com^
 ||specialty75.com^
@@ -1961,8 +1966,6 @@ newduba.cn###jq_youxi
 ||ttnjhlhys.icu^
 ||rsoz.cn^
 ||tkdjrsee.icu^
-||jxal.cn^
-||rstdfyerm.icu^
 ||0xzxwnkqdu.com^
 ||jxal.cn^
 ||3sqvexc60y.com^
@@ -10437,6 +10440,7 @@ meijutt.*/js/pcjs/
 ||cloudfront.net/yongli04/
 ||baidu.com/forum/pic/item/0bd162d9f2d3572cef1c4acdcc13632762d0c322.
 ||natgeomedia.com/js/ads-parallax.
+||shipin188.com/66
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 udn.com##.ec-section
@@ -13211,7 +13215,6 @@ xiaoz.me##.gg5
 iqilu.com##.gg580140
 xiaoz.me##.gg6
 5184.com##.gg600
-zt5.com##.gg_1
 5173.com##.gg_130
 5ifxw.com##.gg_300250
 163disk.com##.gg_990_65
