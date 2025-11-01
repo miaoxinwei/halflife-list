@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Jj8xfhdj2tcv/p8q+q1XaA
+! Checksum: WLuU26d0qKx3Y5amsvmZIg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202510312042
-! Last Modified: 2025年10月31日 20:42
+! Version: 202511010943
+! Last Modified: 2025年11月01日 09:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2350,6 +2350,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||5h3wnuhr8.com^
+||dz3tfc2m9.com^
+||meituancdn.cc^
+||zdh11010lo.com^
+||bzabwir.icu^
+||xtxbemp.xyz^
+||considerice.com^
+||uniicreative.com^$third-party
+||zddsnuxow.icu^
+||uhek.cn^
+||novikanidf.com^
 ||m17d1e83q.com^
 ||pzq7ilwvv.com^
 ||specialty75.com^
@@ -10875,6 +10886,7 @@ meijutt.*/js/pcjs/
 ||natgeomedia.com/js/ads-parallax.
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+udn.com##.ec-section
 qqdsw8.cn##.joe_index__ad
 qqdsw8.cn##.ad
 qqdsw8.cn##.advert
