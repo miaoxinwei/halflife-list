@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5IdpqtKUgHYF035lkM4NeQ
+! Checksum: nDwjfXeGR0uTFBpvbUXKlw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511021429
-! Last Modified: 2025年11月02日 14:29
+! Version: 202511022036
+! Last Modified: 2025年11月02日 20:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,7 @@ newduba.cn###jq_youxi
 ||m69tvg6wqd.com^
 ||6v2wkfw6pc.com^
 ||zdh11021lo.com^
+||mhoccoirq.com^
 ||5h3wnuhr8.com^
 ||dz3tfc2m9.com^
 ||meituancdn.cc^
@@ -20737,6 +20738,7 @@ m.babytree.com##script + a[class]
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 !--------------------------------Tracking Systems-----------------------------!
 ||shinpa.me^
+||dytt8899.com/js/tj.js
 ||xuan5.com^$third-party
 ||com.day^
 ||tongjiniao.com^$third-party
@@ -73383,6 +73385,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
 !---------- Hungarian ----------
+@@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||keytiles.com/tracking/$script,domain=blikk.hu
 @@||kozkutak.hu/getdata.php?v*=pageview$~third-party
 !---------- Icelandic ----------
