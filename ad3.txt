@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 56m/8jhjoGMLTih2/lt+UA
+! Checksum: JTUCx0c8bvjQhtBlSHCujA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511060229
-! Last Modified: 2025年11月06日 02:29
+! Version: 202511060941
+! Last Modified: 2025年11月06日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1903,6 +1903,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||workshop39.top^
+||svhk4bt874.com^
+||xuwmylm697.com^
+||zdh11060lo.com^
+||vurr.cn^
+||lls11060ko.com^
+||vrovadwd.com^
 ||voqf299p8.com^
 ||0s1wclct6.com^
 ||lls11050ko.com^
@@ -72847,7 +72854,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com
 @@||sc.youmaker.com/site/article/count?
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
-@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=mundodeportivo.com
+@@||sdk.mrf.io/statics/marfeel-sdk.js$script,domain=computerhoy.20minutos.es|mundodeportivo.com
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
