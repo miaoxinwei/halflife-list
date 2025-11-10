@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5Dwylpa2YP6P0/lQ0Po3vg
+! Checksum: 0p+ArRX23vkzoDILP3NWbg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511101433
-! Last Modified: 2025年11月10日 14:33
+! Version: 202511102043
+! Last Modified: 2025年11月10日 20:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1908,6 +1908,9 @@ newduba.cn###jq_youxi
 ||q58nf16jd3.com^
 ||wueyninj7r.com^
 ||pdrerzug.com^
+||wbea.cn^
+||fxab9iuprt.com^
+||lls11101ko.com^
 ||hc1kycrud.com^
 ||lls11090ko.com^
 ||vocabulary83.com^
@@ -17736,7 +17739,7 @@ $script,third-party,domain=cilimao.co|cilimao.one
 cilimao.co,cilimao.one##div[class^="FixBanner"]
 ||cilimao.*/amaod/
 !#CSP filters
-$csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
+$csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
 !#ddooo.com
 ddooo.com##.gadat_list
@@ -33277,6 +33280,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
+||extremetech.com/js/ga.js
 ||f.cdngeek.com^$domain=edugeek.net
 ||f.pie.org^
 ||f362.nola.com^
