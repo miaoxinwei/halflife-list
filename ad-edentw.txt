@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: MXT+hs+WVLkSUnVqcC/Jcg
+! Checksum: dJY6hBVNgghB5mxQQhBkhQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202511120941
-! Last Modified: 2025年11月12日 09:41
+! Version: 202511122044
+! Last Modified: 2025年11月12日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1721,7 +1721,7 @@ www.diendancauduong.com#$#abort-on-property-read antiAdBlockerHandler
 xem16.net#$#json-prune props.children.[].props.tvc
 hh2d.tv#$#abort-current-inline-script $ adblock
 tram3d.xyz#$#abort-current-inline-script setTimeout appendChild
-cliphubs.com#$#abort-current-inline-script document.addEventListener pop
+cliphubs.com,greengatewills.co.uk#$#abort-current-inline-script document.addEventListener pop
 ! Popup/Popunder/Clickunder
 vinaurl.net,anime12.site,anh.moe,maclife.io,xemphimjav.us,hoctot.hocmai.vn,keysmatterinc.com,samtruyentranh.com,player.phimapi.com,noitu.site,sachmoi.net,xfast.sbs,anime47.best,s1.phimsexvn1.blog#$#abort-on-property-read open
 tvhay.top#$#abort-current-inline-script JSON.parse atob
@@ -1941,7 +1941,7 @@ allegro.*##div[data-box-name][data-analytics-groups*="allegro.ads"]
 ! HP
 allegro.*#$#hide-if-matches-xpath './/ul//span[text()="Sponsorowane"]/../../parent::a/ancestor::li[1]' '' complete
 allegro.*#$#hide-if-matches-xpath './/span[text()="Sponsorowane" or text()="Sponzorované"]/../../parent::div/ancestor::div[@data-box-id][1]/../../../parent::div[@style]' '' complete
-allegro.pl#$#hide-if-matches-xpath '//div[@data-box-name="structure-container"][@data-analytics-category="layout.container"][.//span[text()="Sponsorowane"]]' '' complete
+allegro.*#$#hide-if-matches-xpath '//div[@data-box-name="structure-container"][@data-analytics-category="layout.container"][.//span[text()="Sponsorowane"] or .//span[text()="Szponzorált"]]' '' complete
 ! MISC
 allegro.*#$#override-property-read adblockEnabledPreferenceUpdated true
 ! #RM-42
