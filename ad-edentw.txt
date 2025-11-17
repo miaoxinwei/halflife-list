@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lLkMNzXkadpRNJ4f5BKlZg
+! Checksum: +TFBdxpsvfCW/Hqmw2N8Vg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202511172043
-! Last Modified: 2025年11月17日 20:43
+! Version: 202511180230
+! Last Modified: 2025年11月18日 02:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -19,15 +19,14 @@ stardima.*#$#abort-current-inline-script document.createElement /break|case/
 iegybest.*#$#abort-on-property-read attr
 ! #CV-685
 arabseed.*#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
-hawak.net,rotana.video#$#abort-on-property-read atob
+hawak.net#$#abort-on-property-read atob
 ! #CV-667
 beinconnect.*,coroot.blogspot.com,ktarab.com,actionz.tv,brstej.com,movs4u.*,kora-online.tv,filmey.tv,animetak.net,arabseed.*#$#abort-current-inline-script Math zfgloaded
 ! Popup/Popunder/Clickunder
 egyanime.*,egydead.*#$#abort-on-property-write _pop
-actionz.tv,cimaclub.com,cimaclub.in,elmstba.com,hawak.net,lodynet.*,rotana.video#$#abort-on-property-read decodeURIComponent
+actionz.tv,cimaclub.com,cimaclub.in,elmstba.com,hawak.net,lodynet.*#$#abort-on-property-read decodeURIComponent
 egy.*,egybest.*,egybest2.*,iegy.*#$#abort-on-property-read open
-akhbara24.news,anime4up.*,arabseed.*,asia2tv.*,baramjak.com,cima-club.*,cima4u.*,cimalina.*,egy-live.online,egynow.*,faselhd.*,hawak.net,iegybest.co,lodynet.*,manga.ae,moshahda.net,movizland.online,egyanime.com,egydead.*,shahed4u.*,shaheed4u.*,shahid4uu.*,shahidd4u.*,tuktukcinema.*,witanime.com,yalla-shoot.today#$#abort-current-inline-script document.documentElement /atob|case|JSON.parse/; abort-current-inline-script String.fromCharCode /atob|break/; abort-on-property-write JSON.parse; abort-current-inline-script Math /atob|break/;
-arabxd.com#$#abort-current-inline-script document.querySelectorAll popMagic
+akhbara24.news,anime4up.*,arabseed.*,asia2tv.*,cima-club.*,cima4u.*,cimalina.*,egy-live.online,egynow.*,faselhd.*,hawak.net,iegybest.co,lodynet.*,manga.ae,moshahda.net,movizland.online,egyanime.com,egydead.*,shahed4u.*,shaheed4u.*,shahid4uu.*,shahidd4u.*,tuktukcinema.*,witanime.com,yalla-shoot.today#$#abort-current-inline-script document.documentElement /atob|case|JSON.parse/; abort-current-inline-script String.fromCharCode /atob|break/; abort-on-property-write JSON.parse; abort-current-inline-script Math /atob|break/;
 cima-club.*#$#abort-on-property-read window.zfgstorage
 topcinema.*#$#abort-current-inline-script document.createElement delete window
 ! #CV-754
@@ -558,7 +557,7 @@ marketwatch.com,wsj.com#$#abort-on-property-write window.__buildAd;
 marketwatch.com#$#hide-if-contains-visible-text /Advertisement/ 'div[class^="container"]' 'div>span'
 ! CV-1364
 ||html-load.com^$script,xmlhttprequest,domain=convertcase.net|manta.com|wfmz.com|golf-live.at|eurointegration.com.ua|sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|winfuture.de|dictionary.cambridge.org|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|gutefrage.net|tz.de
-||error-report.com^$domain=sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|tz.de|winfuture.de|gutefrage.net|dictionary.cambridge.org|huffpost.com|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com
+||error-report.com^$domain=sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|tz.de|winfuture.de|gutefrage.net|dictionary.cambridge.org|huffpost.com|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|gutefrage.net
 sourceforge.net,dictionary.cambridge.org,bab.la,loawa.com,gazetaprawna.pl,tz.de,winfuture.de,gutefrage.net,collinsdictionary.com#$#event-override message trusted /unfilled/; event-override visibilitychange disable;
 convertcase.net,manta.com,wfmz.com,golf-live.at,eurointegration.com.ua#$#abort-current-inline-script Symbol error-report.com
 malaymail.com,dictionary.cambridge.org#$#abort-current-inline-script setTimeout /error-report.com/
@@ -573,17 +572,18 @@ pons.com#$#override-property-read performance.getEntriesByType noopFunc; overrid
 ||0.loader.gutefrage.net/article^$script,domain=gutefrage.net
 ||0.as.sourceforge.net/article^$script,domain=sourceforge.net
 ||0.content-loader.com/article^$script,third-party,domain=timesofindia.indiatimes.com|sankei.com|dictionary.cambridge.org|bab.la|pons.com|loawa.com|gazetaprawna.pl|winfuture.de|collinsdictionary.com|malaymail.com|tz.de
-||dbloader.leboncoin.info^$script,third-party,domain=leboncoin.fr
+||fb.html-load.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|wetter.com|winfuture.de
+||content-loader.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|wetter.com|winfuture.de
 collinsdictionary.com,bab.la,timesofindia.indiatimes.com,winfuture.de#$#override-property-read Date.now noopFunc
 gutefrage.net,timesofindia.indiatimes.com,tz.de,wetter.com,winfuture.de#$#abort-on-property-write window.confirm
 gutefrage.net,timesofindia.indiatimes.com,tz.de,wetter.com,winfuture.de#$#abort-on-property-write window.alert
-||fb.html-load.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|wetter.com|winfuture.de
-||content-loader.com^$script,domain=gutefrage.net|timesofindia.indiatimes.com|tz.de|wetter.com|winfuture.de
 collinsdictionary.com,bab.la,tz.de,timesofindia.indiatimes.com,winfuture.de#$#override-property-read Element.prototype.remove noopFunc
-||*/loader.min.js|$script,domain=bab.la|collinsdictionary.com
+gutefrage.net#$#override-property-read window.navigator.connection.rtt 1001
+||*/loader.min.js|$script,domain=bab.la|collinsdictionary.com|gutefrage.net
 ||asloader.tz.de^$script,domain=tz.de
 tz.de##iframe[src*="report.error-report.com/modal"]
 ||html-load.com/players/*/70/$xmlhttprequest, domain=mentalfloss.com
+||dbloader.leboncoin.info^$script,third-party,domain=leboncoin.fr
 ! #CV-1935
 ##.jag8CityBio212023
 reddit.com##.jag8CityBio212023
@@ -1745,7 +1745,7 @@ sex.javnong.cc#$#abort-on-property-read Math.round
 viet69.nu,dualeotruyenks.com,yurineko.my,haysexmoi.net,cliphot69.shop,doctruyen3qui17.com,ihentai.cloud,animehay.life,hentaivc.com,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.love,phimsexhayvn60.com,phim18hdxx.com,vn5.sexviet88.xyz,demo.14412882.com,xem.sexnung3x.com,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.co,truyenqqno.com,clipsexsub3x.net,sayhentaii.ink,motphim.pokemonviet.com,lxmanga.my,phimlongtieng.net,newtruyenhot.pro#$#abort-current-inline-script WebAssembly instantiate
 www.motchill33.com,xnhau.sh,teamlanhlung8.shop,xemphimjav.us#$#abort-on-property-read localStorage
 hh3dhay.life,tram3d.net,animevietsub.show#$#abort-current-inline-script eval $._Eu
-p.thoctv.com,phimlongtieng.net#$#abort-current-inline-script document.createElement script
+phimlongtieng.net#$#abort-current-inline-script document.createElement script
 motchill.ad#$#abort-current-inline-script document.addEventListener linksToOpen
 dualeotruyenks.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.my#$#abort-current-inline-script $ PopUnder
@@ -1767,7 +1767,7 @@ phimmoi.sale,motphimww.biz#$#abort-current-inline-script addEvent popu
 freeplayervideo.com,abysscdn.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online#$#override-property-read open noopFunc
 freeplayervideo.com,abysscdn.com,player-cdn.com,playhydrax.com#$#abort-current-inline-script document.getElementById openPop
 nettruyenar.com#$#abort-on-property-read links
-goctruyentranhvui17.com,sextop1.show,hhvsub.com,vn5.sexviet88.xyz#$#abort-current-inline-script WebAssembly globalThis
+goctruyentranhvui17.com,sextop1.show,hhvsub1.com,vn5.sexviet88.xyz#$#abort-current-inline-script WebAssembly globalThis
 hh3dhay.life#$#abort-current-inline-script Symbol break;case
 animehay.life#$#abort-current-inline-script Number ;break;case
 gocmod.com#$#abort-current-inline-script jQuery popup
@@ -2121,8 +2121,11 @@ mail.ru#@#[href*="https://dzen.ru"]
 ! *** abp-filters-anti-cv:distribution/abp-filters-partners.txt ***
 ! Filters to be used by distribution partners
 ! #CV-782
-www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.5'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-skip-to:1.8'; race stop;
-www.youtube.com#$#map-override set AD_PLACEMENT '' value.kind;
+www.youtube.com,youtube-nocookie.com#$#skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]';
+www.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]';
+www.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]';
+www.youtube.com,youtube-nocookie.com#$#event-override click trusted; simulate-mouse-event 'button.ytp-skip-ad-button.ytp-ad-component--clickable$delay=0'; simulate-mouse-event 'button.ytp-skip-ad-button$delay=0';
+www.youtube.com#$#map-override set /AD_PLACEMENT_KIND_/ '' value.kind
 www.youtube.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adSlots emptyArray; override-property-read ytInitialPlayerResponse.adPlacements emptyArray;override-property-read ytInitialPlayerResponse.playerAds emptyArray;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
@@ -2260,6 +2263,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||didspack.com^
 ||dinespendn.com^
 ||dinkiersenhora.com^
+||dinusoronoko.com^
 ||dirgesimious.com^
 ||discepttaked.com^
 ||dizdivrc.com^
@@ -2300,6 +2304,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||gearmanswings.com^
 ||gemaricspieled.com^
 ||gentrycheaper.com^
+||gerentstaperly.com^
 ||gestatejiggly.com^
 ||ghatwalfridays.com^
 ||ghurrytacoma.com^
@@ -2340,7 +2345,9 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||issuedkuvasz.com^
 ||ivdjs.com^
 ||jaspersfamilia.cyou^
+||jerbilhalters.com^
 ||jgtjw.com^
+||joshedsnight.com^
 ||justspoisure.com^
 ||karakuloutmate.com^
 ||katsuprosillo.com^
@@ -2356,6 +2363,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||lawzyscapoid.com^
 ||lepidpomps.com^
 ||lettenfluoric.com^
+||liepotikons.com^
 ||liftjoinant.com^
 ||limbecculvers.com^
 ||lobiwearies.com^
@@ -2384,11 +2392,13 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||mutinedgunster.com^
 ||nainepidia.com^
 ||nairydeices.com^
+||nappieoxbows.com^
 ||nasrolrt.com^
 ||ndrimmers.com^
 ||newtsbowk.com^
 ||nhanweigh.com^
 ||ningposkidi.com^
+||noisetumour.com^
 ||noritesfarrago.com^
 ||nosydorymen.com^
 ||nplaf.com^
@@ -2445,6 +2455,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||reseekshollin.com^
 ||rethephrased.com^
 ||retinaspealer.com^
+||rhythmpreside.com^
 ||ribwortjulep.com^
 ||richardghain.com^
 ||rubacemussick.help^
@@ -2472,6 +2483,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||stuffedclipse.com^
 ||stulmunshent.com^
 ||suffarilbf.com^
+||sunstaytorous.click^
 ||surbatebeclose.com^
 ||sykerlycataian.com^
 ||synochaauca.com^
@@ -2492,12 +2504,14 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||thiazinamus.com^
 ||thimpardas.com^
 ||thummingnats.com^
+||tiarajustina.com^
 ||tibiaescourer.com^
 ||tiepinshazings.com^
 ||tinnerydunging.com^
 ||tirtovoudrugn.com^
 ||togaefaffy.com^
 ||tomandligula.com^
+||tontineepulis.com^
 ||toodlerehouse.com^
 ||toothsepinard.com^
 ||tootsykyklops.com^

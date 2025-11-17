@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bwYePxQOgplnKkSW06WS8w
+! Checksum: M1r0rdljFBlab0wYIDlsjQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202511172043
-! Last Modified: 2025年11月17日 20:43
+! Version: 202511180230
+! Last Modified: 2025年11月18日 02:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1916,6 +1916,7 @@ newduba.cn###jq_youxi
 ||49ioqq6kt.com^
 ||xxts11171zs.com^
 ||frchavvati.com^
+||carlinaframh.com^
 ||uetx75ibcu.com^
 ||dh8ypn3lq8.com^
 ||xxts11160zs.com^
@@ -10507,7 +10508,7 @@ ip138.com###banana
 appinn.com###sidebar > .widget_block > a
 52asus.com###AsusMall-contain
 mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(display: inline-block;))
+bing.com,~www.bing.com#?#.b_algo:-abp-has(p:-abp-properties(display: inline-block;))
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
 bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
