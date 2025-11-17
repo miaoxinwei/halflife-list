@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: slPQ6QsszuZlRjupREKbOg
+! Checksum: Wu6Ssb4yuAR27F8v/8bKqw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511170943
-! Last Modified: 2025年11月17日 09:43
+! Version: 202511171432
+! Last Modified: 2025年11月17日 14:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1908,6 +1908,11 @@ newduba.cn###jq_youxi
 ||0oi1ej7mo.com^
 ||a85t9mxnj.com^
 ||xxts11170zs.com^
+||57m2em0y.xyz^
+||recount57.com^
+||qheg.cn^
+||iiahutvaa.com^
+||qq2tdd0xx.com^
 ||uetx75ibcu.com^
 ||dh8ypn3lq8.com^
 ||xxts11160zs.com^
@@ -10395,6 +10400,11 @@ meijutt.*/js/pcjs/
 /\/[a-z]+$/$script,third-party,domain=gimy.com.tw
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+91porna.com##.dx-banner-item
+91porna.com##.checkNum[target="_blank"]:not([href*="91porna.com"])
+91porna.com##.h-full.swiper
+91porna.com##.ad-dialog
+91porna.com##.modal-backdrop
 avbebe.com##.footer_column:nth-child(n+2)
 xchina.co##.block-overlay
 baozimh.org#?#.relative:-abp-has(>.bg-red-500)
@@ -33857,7 +33867,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||navan.com/api/analytics
 ||nbarizona.com/metrics/
 ||nbc.com/webevents/
-||nbcnews.com/_next/static/chunks/ads.$script,domain=msnbc.com|nbcnews.com
+||nbcnews.com/_next/static/chunks/ads.$script,domain=nbcnews.com
 ||neatorama.com/story/view/
 ||neeva.com/logql/log
 ||neighbourly.co.nz/event-tracking
