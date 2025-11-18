@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1hz//gl8Xib32Pi0c9Utrg
+! Checksum: lATSbK335eWMt2hK00Snxg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511181431
-! Last Modified: 2025年11月18日 14:31
+! Version: 202511182043
+! Last Modified: 2025年11月18日 20:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,10 @@ newduba.cn###jq_youxi
 ||ucriqupq.com^
 ||yrnv.cn^
 ||k5w06v2yzh.com^
+||xxts11181zs.com^
+||vhgu5ivtew.com^
+||dwchovra.com^
+||hjjwxb.icu^
 ||0oi1ej7mo.com^
 ||a85t9mxnj.com^
 ||xxts11170zs.com^
@@ -18178,7 +18182,8 @@ wss://*.*.top/$third-party
 ##body > div[style$=";background: #000;opacity:0.01;"]
 /static/idingdian/idd.
 /themes/default/wap/images/douyin.gif
-||tunshixingkong2.com/config/v7.js
+.com/config/v7.js
+.org/config/v7.js
 ||mihoutao1868.github.io^
 ||wanmeisxs.cc/js/m.
 ||biqugie.com/js/wap.
@@ -72875,6 +72880,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=abeautifuldominion.com|bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|kinsfarmmarket.com|senate.gov
+@@||fathom.video/embed/$subdocument
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
 @@||fdi.fiduciarydecisions.com/v/app/components/*/Analytics.js$script,~third-party
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
