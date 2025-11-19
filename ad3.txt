@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: y9+0TdIRzKTe2CQDSwIibQ
+! Checksum: i+x5xFfwHBGMfC9NkOY27g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511190941
-! Last Modified: 2025年11月19日 09:41
+! Version: 202511191431
+! Last Modified: 2025年11月19日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,7 @@ newduba.cn###jq_youxi
 ||symposium44.com^
 ||fmfrht.icu^
 ||euuh.cn^
+||zjklt4ei4.com^
 ||jqmr7zssmd.com^
 ||k06kldksi3.com^
 ||xxts11180zs.com^
@@ -28535,6 +28536,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adsmoloco.com^$third-party
 ||adsolutions.com^$third-party
 ||adv-analytics-collector.videograph.ai^
+||adyen.com/checkoutanalytics/
 ||adyen.com/checkoutshopper/images/analytics.png?
 ||adyen.com/checkoutshopper/v2/analytics/log?
 ||affiliate-api.raptive.com^
@@ -28996,6 +28998,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||calltrk.com/companies/
 ||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
+||campaign.fbot.me^
 ||canada.com/js/analytics/
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
@@ -33253,6 +33256,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dd.auspost.com.au^
 ||dd.g2.com^
 ||dd.nytimes.com^
+||dd.viator.com^
 ||ddome-tag.blablacar.com^
 ||dealdash.com/tracker-json
 ||dealnews.com/lw/ul.php
