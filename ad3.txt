@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2aGTHHExYmYMCmgYxXZgEw
+! Checksum: qR8Q2umnHbnHleYKNtsvZQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511230954
-! Last Modified: 2025年11月23日 09:54
+! Version: 202511231429
+! Last Modified: 2025年11月23日 14:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,10 @@ newduba.cn###jq_youxi
 ||nyzrbx.icu^
 ||quudraidfg.com^
 ||nfvp.cn^
+||l9qxrmda6.com^
+||t1thmtn5.xyz^
+||xjx11231ts.com^
+||coisj3nil.com^
 ||3k2frl8r79.com^
 ||h4htfgrei0.com^
 ||xjx11220ts.com^
@@ -24493,6 +24497,7 @@ omni.soundestlink.com$image
 ||fzlnk.com^
 ||g10102301085.co^
 ||g10300385420.co^
+||g10498469755.co^
 ||g11686975765.co^
 ||g1188506010.co^
 ||g11885060100.co^
@@ -24500,11 +24505,13 @@ omni.soundestlink.com$image
 ||g12281228770.co^
 ||g1386590346.co^
 ||g1584674682.co^
+||g1584674683.co^
 ||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
 ||g2575096355.co^
+||g594253006.co^
 ||g792337340.co^
 ||g792337342.co^
 ||g792337343.co^
@@ -24514,6 +24521,7 @@ omni.soundestlink.com$image
 ||g9508048080.co^
 ||g9706132415.co^
 ||g990421675.co^
+||g9904216750.co^
 ||g990421676.co^
 ||gbqofs.com^
 ||gcprivacy.com^
@@ -28811,6 +28819,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.ziftsolutions.com^
 ||analytics1.vdo.ai^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsplusdev.clientify.net^
 ||analyticssec.overwolf.com^
 ||ancestrycdn.com/tao/at/
 ||anyclip.com/getuids?
@@ -30059,6 +30068,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mail.ru/dstat?
 ||mail.ru/grstat?
 ||mail.ru/k?
+||maillist-manage.eu/wa/actionlogger?
 ||mandrillapp.com/track/
 ||maptrackpro.com/track/
 ||marker.io/widget/ping
@@ -30534,6 +30544,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||redditsave.com/api/event
 ||redditstatic.com/ads/pixel.js
 ||redfast.com/ping/
+||redirect.prod.experiment.routing.cloudfront.aws.a2z.com/x.png$domain=amazon.com
 ||redirectify.app/script_tags/tracking.js
 ||reevoo.com/track_url/
 ||refer.wordpress.com^
@@ -30920,6 +30931,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.getamigo.io^
 ||tag.imagino.com^
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
@@ -33911,6 +33923,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
 ||metro.co.uk/cvx/client/sync/fpc?
+||metrobyt-mobile.com/self-service-metro/v1/logging
 ||metroweekly.com/tools/blog_add_visitor/
 ||meucdn.vip/cdn-cgi/trace
 ||mewe.com/ubk4jrxn.js
@@ -34767,6 +34780,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wealthfront.com/event
 ||wealthfront.com/track_next?p=
 ||web-perf.booking.com^
+||web.analytics.metrobyt-mobile.com^
 ||web.snapchat.com/web-analytics-v2/web/events
 ||web.whatsapp.com/wam
 ||webapi.3cx.com^
