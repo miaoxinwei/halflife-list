@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 03auIaREtFU1lax09AW0sg
+! Checksum: cSQz/e+pLpmGjXASqxHqcA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511251433
-! Last Modified: 2025年11月25日 14:33
+! Version: 202511252044
+! Last Modified: 2025年11月25日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,8 @@ newduba.cn###jq_youxi
 ||qrumphathu.com^
 ||85270jylmzsym.top^
 ||ufa9tt1n5.com^
+||v3pnvck24.com^
+||xjx11251ts.com^
 ||xyf21yawkj.com^
 ||1mb71rr5oo.com^
 ||xjx11240ts.com^
@@ -30735,6 +30737,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snowplowjs.darwin.cx^
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
+||sockr.birdie.so/event
 ||solutions.invocacdn.com^
 ||sonic-prod.cbssports.cloud/analytics/
 ||souisa.com/analytics/
@@ -33586,6 +33589,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ft.com/ingest?
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
 ||fusevideo.io/api/event
+||futureparty.com/nectar_analytics
+||futureparty.com/page_view
 ||g-scale.org/scripts/EventLog.js
 ||g.ign.com^
 ||g.mashable.com^
