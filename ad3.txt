@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cSQz/e+pLpmGjXASqxHqcA
+! Checksum: NrzEVj9YlgZYQwa3P3sZuQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511252044
-! Last Modified: 2025年11月25日 20:44
+! Version: 202511260942
+! Last Modified: 2025年11月26日 09:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1904,6 +1904,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||klljo2cp63.com^
+||jqz8z7gqxw.com^
+||xjx11260ts.com^
+||veirkaey.com^
 ||d89sze2uu.com^
 ||j33xvvanl.com^
 ||jerhzr.icu^
@@ -1916,6 +1920,7 @@ newduba.cn###jq_youxi
 ||ufa9tt1n5.com^
 ||v3pnvck24.com^
 ||xjx11251ts.com^
+||shiyiyuefalkjui.com^
 ||xyf21yawkj.com^
 ||1mb71rr5oo.com^
 ||xjx11240ts.com^
@@ -31602,6 +31607,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dljnjom9md7c.cloudfront.net/02/zara.js
+||dmw2pzbenclyd.cloudfront.net^
 ||dmxhgf4zuwdvu.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dniyppubkuut7.cloudfront.net^
