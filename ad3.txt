@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SdS2TVe6+yWqkOP50sMiOQ
+! Checksum: 0tooXg6HYZc/vX9h+eGa8Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202511262046
-! Last Modified: 2025年11月26日 20:46
+! Version: 202511270941
+! Last Modified: 2025年11月27日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1904,6 +1904,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||jwf8lxo7b.com^
+||pkpmhr2gw.com^
+||generation456.com^
+||archetype32.top^
+||nxjuvt.icu^
+||ltiekurv.com^
 ||klljo2cp63.com^
 ||jqz8z7gqxw.com^
 ||xjx11260ts.com^
@@ -21125,6 +21131,7 @@ m.babytree.com##script + a[class]
 .pageview-props.js
 .php?action=browse&
 .php?action_name=
+.php?logid=$image
 .php?logRefer=
 .php?logType=
 .php?notrack=
@@ -71038,6 +71045,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||t.wayfair.de^
 ||t2.aboutyou.de^
 ||tagm.eduscho.at^
+||tapi.kaufda.de^
 ||tarnkappe.info^$ping
 ||taz.de/count/
 ||teltarif.de/scripts/ttt.js
