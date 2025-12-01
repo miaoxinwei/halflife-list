@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: drzFtC55IhU286KhWMXOCQ
+! Checksum: v7BbnmGyW8s1gcA/Ppmgsw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512010228
-! Last Modified: 2025年12月01日 02:28
+! Version: 202512011000
+! Last Modified: 2025年12月01日 10:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1904,6 +1904,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||9a4v0clpi.com^
+||xjoiteee8.com^
+||engineer66.com^
 ||cehb1d1lsm.com^
 ||a4xvv2g18l.com^
 ||eyzerannl.com^
@@ -73195,6 +73198,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$~third-party
 @@||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$~third-party
 @@||petdrugsonline.co.uk/scripts/gtm.js$~third-party
+@@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform.bombas.com/external/gtm.js$script,~third-party
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
@@ -73516,6 +73520,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party
 @@||rudaw.net/images/pixel.gif$~third-party
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMapping.json?$~third-party,xmlhttprequest
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMappingOverrides.json?$~third-party,xmlhttprequest
 @@||static.leaddyno.com/js$script,domain=s4l.us
 !---------- Bosnian ----------
 @@||ocdn.eu/ucs/static/*/onesignal.js$script,domain=pulsonline.rs
