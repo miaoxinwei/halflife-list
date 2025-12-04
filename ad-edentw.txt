@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ouSe0gMqXvhYFHmYzlR1sQ
+! Checksum: pNcimXhhU8l7MubEcC5t8Q
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202512042048
-! Last Modified: 2025年12月04日 20:48
+! Version: 202512050234
+! Last Modified: 2025年12月05日 02:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1299,12 +1299,16 @@ zozovideo.com#$#hide-if-matches-xpath './/div[@class="ninja-recommend-block"]/pa
 2chan.net##iframe[src^="https://dec.2chan.net/bin/"]
 hitomi.la#$#hide-if-matches-xpath './/iframe[@id][@sandbox][@scrolling]/parent::div[@id][1]'
 game8.jp#$#hide-if-matches-xpath './/iframe[@src]/parent::div[@style]/ancestor::div[contains(@id, "img_")][1]
+suzusoku.blog.jp#$#abort-current-inline-script jQuery floatingAd; hide-if-matches-xpath './/div[contains(@class,"-ad") or contains(@class,"2ad")]/self::div[1]'
+onecall2ch.com#$#hide-if-matches-xpath './/div[contains(@class,"-ad") or contains(@class,"2ad")]/self::div[1]'
+||a8.net^$third-party,domain=suzusoku.blog.jp
+||spiritednow.xyz/ad^$subdocument,domain=pressian.com
 ! Korean sites
 style24.com#$#simulate-mouse-event 'xpath(.//div[@class="popup_main_notice"]//a[@id="btnPopupClose"][@onclick])$delay=0'
 style24.com#$#simulate-mouse-event 'xpath(.//div[@id="popupMainNotice"]//a[@id="btnPopupClose"][@onclick])$delay=0'
 ygosu.com##iframe[src^="https://cdn.nhnace.com"]
 ygosu.com##iframe[src^="https://tab2.clickmon.co.kr"]
-ygosu.com#$#hide-if-matches-xpath '//div[@style="text-align:center"][./iframe[@src]]'
+ygosu.com#$#hide-if-matches-xpath '//div[@style="text-align:center"][./iframe[@src]]'; hide-if-matches-xpath './/a[contains(@href,"board/ad")]/parent::td/parent::tr[1]'
 ! Thai sites
 animetaro.com#$#abort-on-property-read window.open
 ! Croatian sites
@@ -1435,6 +1439,7 @@ haaretz.co.il#$#hide-if-contains-and-matches-style /Labels/ section h2[class]
 ! MISC
 idokep.hu##div[class*="ad-lockup-top-"]
 idokep.hu#$#hide-if-matches-xpath '//div[contains(@class,"info-small")][text()="Hirdetés"]'
+slobodnadalmacija.hr#$#hide-if-matches-xpath './/div[@id][contains(@class,"ad--align")]/ancestor::div[1]'
 ! *** abp-filters-anti-cv:indian.txt ***
 ! #CV-669
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
