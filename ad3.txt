@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xv18k6iHiku3vqQfoe6W3g
+! Checksum: 5X2BiKhmu/lvPANbou1feQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512050946
-! Last Modified: 2025年12月05日 09:46
+! Version: 202512051433
+! Last Modified: 2025年12月05日 14:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,10 @@ newduba.cn###jq_youxi
 ||dialogue32.com^
 ||vid12050hl.com^
 ||sofsxz.com^
+||kawf.cn^
+||electronic23.com^
+||qhangrotl.com^
+||72xh073u9.com^
 ||lk0v8teerw.com^
 ||volume68.top^
 ||dvvv9ld5b0.com^
@@ -22709,6 +22713,7 @@ m.babytree.com##script + a[class]
 /monitor/v1/log
 /monitor?rtype=
 /monitor_analytic.js
+/monitor_browser/collect/*
 /monitoring?o=$xmlhttprequest
 /monitus.js
 /monsido.js
@@ -73070,6 +73075,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||chasecdn.com/web/*/eventtracker.js$domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
+@@||clcouncil.org/wp-content/plugins/counter-block/assets/js/counter.js?$script,~third-party
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||clouderrorreporting.googleapis.com^$domain=waze.com
