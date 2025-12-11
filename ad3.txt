@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yyhTNZlP0M72+ykfPw9yAw
+! Checksum: YnNK6lj7PEBeoXB55OagQQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512110948
-! Last Modified: 2025年12月11日 09:48
+! Version: 202512111435
+! Last Modified: 2025年12月11日 14:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1909,6 +1909,14 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||accomplish89.com^
 ||vdhatq0co.com^
+||68tkaiaji.com^
+||ycglik.icu^
+||tkll12110nb.com^
+||ysuy.cn^
+||hanzidnbn.com^
+||vid12110hl.com^
+||chairman69.top^
+||yeql3hzbd.com^
 ||vid12100hl.com^
 ||smkqwa.icu^
 ||agency23.top^
@@ -18229,7 +18237,7 @@ wss://*.*.top/$third-party
 ||6gxs.net/js/
 ||maomaoks.com/1.
 ||feiniaoks.com/1.
-||wuxianxs.net/mm.
+||wuxianxs.net/m
 /skin/default/js/qbtr.js
 ||62868.com/static/js/gg.
 ||deqixs.com/config/
@@ -18246,6 +18254,7 @@ wss://*.*.top/$third-party
 ||lzbao.net/mtvbox.
 ||4taoxs.com/api/accept/
 /tongji/ad.js
+/tt1-1367073066.cos.
 ||haogushi88.cc/static/simple/yue
 ||zztxt.net/Public/wapbiquge/js/static.js
 ||haishuxs.com/js/
