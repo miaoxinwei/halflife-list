@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jVHxk9Y3nmApW2vgw+1PmQ
+! Checksum: sFe255+Tara95zyDi1hReQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512120948
-! Last Modified: 2025年12月12日 09:48
+! Version: 202512121434
+! Last Modified: 2025年12月12日 14:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,10 @@ newduba.cn###jq_youxi
 ||tkll12120nb.com^
 ||entrepreneurs46.com^
 ||enelveufry.com^
+||vwe5pjt0jq.com^
+||wres.cn^
+||of384py2xt.com^
+||tkll12121nb.com^
 ||accomplish89.com^
 ||vdhatq0co.com^
 ||68tkaiaji.com^
@@ -23390,6 +23394,7 @@ m.babytree.com##script + a[class]
 /track.v2.js
 /track/?*&event=
 /track/?data=
+/track/?verbose=
 /track/aggregate?
 /track/batch?
 /Track/Capture.aspx?
@@ -28892,6 +28897,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||assets.9gtb.com^
 ||assets.apollo.io/micro/website-tracker/
 ||assets.hearstapps.com/commerce/release/affiliate-bundle.
+||assets.minutemediacdn.com/mm-cwv-tracker/
 ||assets.moneymade.io/js/fp.min.js
 ||assets.trendii.com/pixel/main.js
 ||assets.yumpu.com/release/*/tracking.js
