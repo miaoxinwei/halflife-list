@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eg5mk4m1u2hY8nvEtiTGRA
+! Checksum: yhvqUp4cPRFi1f9k9oSNDQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512130942
-! Last Modified: 2025年12月13日 09:42
+! Version: 202512131431
+! Last Modified: 2025年12月13日 14:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,7 @@ newduba.cn###jq_youxi
 ||vrrm.cn^
 ||insurance55.top^
 ||yarcokme.com^
+||fsmnmorgb.com^
 ||3nopvvhju5.com^
 ||veuf2obzc8.com^
 ||travel44.top^
@@ -28627,6 +28628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alexandria.marfeelcdn.com^
 ||algolia.io/1/events?
 ||algolia.io/1/isalive
+||alib.nine.com.au^
 ||alibaba.com/ts?
 ||alipay.com/service/clear.png?
 ||aliyun.com/actionlog/
@@ -34265,6 +34267,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.smallpdf.com/static/track-js-
 ||s.sofoot.com/script.js
 ||s.wayfair.com^
+||s.yimg.com/ss/analytics-$script,domain=yahoo.com
 ||sa.uswitch.com^
 ||saa.insideedition.com^
 ||samsung.com/us/web/internal/logger
