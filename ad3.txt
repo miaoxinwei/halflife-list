@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Vx4zfJmqorMlPJlg0/1gEg
+! Checksum: r9RqAsHOq4fwmnc6pAciPQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512140228
-! Last Modified: 2025年12月14日 02:28
+! Version: 202512140954
+! Last Modified: 2025年12月14日 09:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1907,6 +1907,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||harmful26.top^
+||tasgxk4ia6.com^
+||0tc1bdbgsm.com^
+||tkll12140nb.com^
+||oekkuthy.com^
 ||0hagz9mdc.com^
 ||appoint38.com^
 ||v84tz11w7.com^
@@ -29460,6 +29465,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dynamicyield.com/var?
 ||e.channelexco.com^
 ||e.ebidtech.com/cv/
+||e.revenue.cat^
 ||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||early-birds.fr/tracker/
@@ -73656,6 +73662,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
+@@||docs.rucml.ru/e.gif?$~third-party
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||k12-company.ru^*/statistics.js$script
 @@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
