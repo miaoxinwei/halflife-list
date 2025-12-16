@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KVi/ho9jcg6ndbdkT63ZnA
+! Checksum: 2fydRuOnOyn+NfVmUd89DA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512160949
-! Last Modified: 2025年12月16日 09:49
+! Version: 202512161435
+! Last Modified: 2025年12月16日 14:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,7 @@ newduba.cn###jq_youxi
 ||fortune59.com^
 ||tkll12160nb.com^
 ||zbfo.cn^
+||3245duu17z.com^
 ||grateful03.com^
 ||877mcpiom.com^
 ||p99c3kwxg.com^
@@ -24225,6 +24226,7 @@ _WebVitalsReporter_
 /c.vialoops.com/*$image
 /ck.m.honto.jp/c/*$image
 /click.*/q/*$image
+/click.comicomi-studio.com/mail/u/*$image
 /click.em.nike.com/*$image
 /click.email.$image
 /click.instahyre.com/*$image
@@ -72697,6 +72699,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mirtesen.ru/js/ms.js
 ||ms.dzen.ru^
 ||ms.vk.com^
+||ms.vk.ru^
 ||mstat.mos.ru^
 ||mts.ru/fe-api/logger
 ||mtsbank.ru/hustonwehaveaproblem/
@@ -72752,6 +72755,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||umschool.net/_jts/api/s/track
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||vk.ru/rtrg
 ||vkvideo.ru/al_video.php?act=track
 ||vstat.rtr-vesti.ru^
 ||webbff.ru.4game.ru/api/exporter/events
