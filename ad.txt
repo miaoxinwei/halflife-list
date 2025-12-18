@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Maw82KX7Uqbm2Ly4D3NuZw
+! Checksum: K5eJtxKWowuw5Dsy33oV5Q
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202512180944
-! Last Modified: 2025年12月18日 09:44
+! Version: 202512182046
+! Last Modified: 2025年12月18日 20:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1400,6 +1400,7 @@ _tm11_pmt_
 _yad_jsonp_
 ubmcmm.baidustatic.com
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?e=$third-party
 wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 |http://*.cn/ad/
@@ -2326,6 +2327,7 @@ newduba.cn###jq_youxi
 ##.a-media.ex-728-90
 ##a[clickmode="cpt"]
 ###foot > #btmBox
+##.home-qf > div[class*="img-qf"]
 ##.home-qf > div[class*="img-ad"]
 ##.module-player > .dds_w
 ##.content > .dds_w
@@ -2365,6 +2367,15 @@ newduba.cn###jq_youxi
 ||yqhorcill.com^
 ||senior82.com^
 ||dkaon1jjeo.com^
+||jaimbai2b1.com^
+||wuk1ruqhcs.com^
+||ggai12181cp.com^
+||tkll12181nb.com^
+||9z6p1shhsh.top^
+||eftd.cn^
+||qkixeld.xyz^
+||bvtwtwp.xyz^
+||qezkdby1jj.com^
 ||basically97.top^
 ||990ir3zfu.com^
 ||l6906qxga.com^
@@ -10988,6 +10999,7 @@ meijutt.*/js/pcjs/
 ||wujinyuzhou.top/ny/ny852x116.
 ||ping0.cc/static/images/ad/
 ||workers.dev^$domain=axiang.cc
+||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 youku.com##div[class*="adDrawer"]
