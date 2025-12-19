@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zW1ecK3/omZI8eeTmPwSuw
+! Checksum: fv3o09USK/qJCmhZYnCvFg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512191433
-! Last Modified: 2025年12月19日 14:33
+! Version: 202512192044
+! Last Modified: 2025年12月19日 20:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1925,6 +1925,13 @@ newduba.cn###jq_youxi
 ||qrzwjfq.xyz^
 ||xn--54q23ckxiyx0e.com^
 ||qwsbegovo.top^
+||jo9q3dhqf.com^
+||n2ivsbik2.com^
+||ggai12191cp.com^
+||unqvaof.xyz^
+||aa3zx8wko.top^
+||me4b65enw.com^
+||5dfiuae82.com^
 ||hriy.cn^
 ||extremely58.top^
 ||pb1b7cqwvs.com^
@@ -10571,6 +10578,9 @@ meijutt.*/js/pcjs/
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+h-ciyuan.com##.responsive-figure
+warcraftlogs.com##span[id^="ap-"]
+warcraftlogs.com##span[id^="apsf-"]
 youku.com##div[class*="adDrawer"]
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 6park.com##td[style="line-height:30px;text-align:center;color:red;background-color:white;"]
@@ -29592,6 +29602,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ensighten.com/error/e.php?
 ||envato.market/i/
 ||epimg.net/js/gdt/
+||episerver.net/ia.js
 ||epl.paypal-communication.com^$script
 ||epromote.co.za/track/
 ||eq.userneeds.com^
@@ -30707,6 +30718,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rtc.multiscreensite.com^
 ||rtxpx-a.akamaihd.net^
 ||rudder-tracking.rudderstack.com^
+||rum-collector.leaderint.workers.dev^
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.corewebvitals.io^
@@ -31090,6 +31102,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.reembed.com^
 ||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
+||telemetry.svc.transifex.net^
 ||telemetry.tableausoftware.com^
 ||telemetry.transcend.io^
 ||telemetry.vtex.com^
@@ -31463,6 +31476,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||web-beacon.starii-rover.com^
 ||web-rabbit.meitustat.com/report?
 ||web-tracker.smsbump.com^
+||web-vitals-script.leaderint.workers.dev^
 ||web.aips-sol.com/v1/events?
 ||web.valiuz.com^*/tag.js
 ||web1.51.la^
@@ -73542,6 +73556,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||showheroes.com/pubtag.js$domain=rollingstone.de
 @@||siteintercept.qualtrics.com/$domain=idealo.de
 @@||sophi.io/assets/demeter/$script,domain=faz.net
+@@||spezialklinik-neukirchen.de/matomo/$~third-party
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||taboola.com/libtrc/$script,domain=bild.de|computerbild.de|fitbook.de|jetzt.de|metal-hammer.de|musikexpress.de|noizz.de|rollingstone.de|stylebook.de|sueddeutsche.de|techbook.de|travelbook.de|welt.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|rtl.de|vip.de
