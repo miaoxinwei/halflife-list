@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bamHyaUh5s4MTOrJ9T0ysA
+! Checksum: WJXqcQbatK41GtcDb4Odgg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512200942
-! Last Modified: 2025年12月20日 09:42
+! Version: 202512202040
+! Last Modified: 2025年12月20日 20:40
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1922,6 +1922,13 @@ newduba.cn###jq_youxi
 ||iyhaatedew.com^
 ||cq2f5kn85c.top^
 ||ydeyivh.xyz^
+||kvzscvzk0t.com^
+||06cp8ypn8j.com^
+||ggai12201cp.com^
+||zsz8xljo8y.top^
+||17ryi4j3qb.com^
+||fmnoaqebhe.com^
+||g9cvic3khh.com^
 ||dtjal7b1f.com^
 ||spellbind33.com^
 ||0wpfe0duo.com^
@@ -25878,6 +25885,7 @@ omni.soundestlink.com$image
 ||gostats.com^$third-party
 ||gostats.org^$third-party
 ||gosupersonic.ai^$third-party
+||govisibl.io^$third-party
 ||govmetric.com^$third-party
 ||granify.com^$third-party
 ||grapheffect.com^$third-party
@@ -34104,6 +34112,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||miao.baidu.com^
 ||microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/
 ||midas.chase.com^
+||military1st.com/datalayer/index/events?
 ||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
 ||mixproxy.epoch.cloud^$domain=theepochtimes.com
