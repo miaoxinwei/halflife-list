@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jNceHyQmQ/IwmHviJ/B1FQ
+! Checksum: dwqC0fo4zLR28LDR71L7UA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512210227
-! Last Modified: 2025年12月21日 02:27
+! Version: 202512210954
+! Last Modified: 2025年12月21日 09:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||7zivoy6qs.com^
+||sqiorli2w.com^
+||rdblieez7.com^
+||overcoat55.top^
+||ggai12210cp.com^
+||zfc2ul88s.top^
+||shxubwa.xyz^
+||crinukpd.com^
+||laundry76.top^
+||ndbgngx6m.com^
+||lapj.cn^
 ||9j9gc694o4.com^
 ||highwayfk.com^
 ||ggai12200cp.com^
@@ -31174,6 +31185,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tpx.tesseradigital.com^
 ||tr-experiments.parsely.com^
 ||tr-op.datatrics.com^
+||tr.attribuly.com^
 ||tr.cloud-media.fr^
 ||tr.datatrics.com^
 ||tr.marsflag.com^
