@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: U8z/94ph8K76GUcwlvY9Eg
+! Checksum: mpwjwnmyM1WgGJiubRV07A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512230232
-! Last Modified: 2025年12月23日 02:32
+! Version: 202512230949
+! Last Modified: 2025年12月23日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,16 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||burette34.com^
+||8uuxq3tvn.com^
+||4wym8gups.com^
+||mrko3xiug.com^
+||opzphurkro.com^
+||ggai12230cp.com^
+||tmlyhh.icu^
+||fhnahnad.com^
+||omelette12.top^
+||xzkumjdqj.com^
 ||secondly74.com^
 ||rkjmhv2lvh.com^
 ||k8mb640mta.com^
@@ -29259,6 +29269,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||camel.headfarming.com^
 ||campaign.fbot.me^
 ||canada.com/js/analytics/
+||capi.connatix.com^
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^$third-party
@@ -29531,6 +29542,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crowdtwist.com/trck/$script
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
+||cs.media.net^
 ||cs.zg-api.com^
 ||csi.gstatic.com^
 ||csp-collector.appspot.com^
