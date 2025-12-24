@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hwKT6NW8PIYa+I8sRaNxzw
+! Checksum: OYprFbiAJnD+pz9rtDw3Vw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512240233
-! Last Modified: 2025年12月24日 02:33
+! Version: 202512240947
+! Last Modified: 2025年12月24日 09:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1910,6 +1910,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||u39q45jzoj.com^
+||4zm6p17ppr.com^
+||pipette22.top^
+||z60ft9y8lj.com^
+||wnacammull.com^
+||rchqtr.icu^
+||entrance79.top^
 ||burette34.com^
 ||8uuxq3tvn.com^
 ||4wym8gups.com^
@@ -59697,7 +59704,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||bbk.pnc.com^
 ||bbworld.blackboard.com^
 ||be-go.experian.com^
-||belgium.wolterskluwer.com^
 ||belong.curtin.edu.au^
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
@@ -62179,7 +62185,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lp.tix.lehigh.edu^
 ||lp3.dentsplysirona.com^
 ||lps-info.arval.com^
-||lrbelgium.wolterskluwer.com^
 ||lrgermany.wolterskluwer.com^
 ||lrhungary.wolterskluwer.com^
 ||lritaly.wolterskluwer.com^
@@ -67450,7 +67455,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||app.mylogoinc.com^
 ||app.myrbhs.com.au^
 ||app.mywaggle.com^
-||app.naga.com^
 ||app.naked.insure^
 ||app.nala.money^
 ||app.nalogi.online^
