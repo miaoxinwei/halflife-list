@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RN0O+FAFP2EPccN18GKmaA
+! Checksum: nxrZTnWSYh/vOjFsouFWQQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202512280959
-! Last Modified: 2025年12月28日 09:59
+! Version: 202512281433
+! Last Modified: 2025年12月28日 14:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -21827,6 +21827,7 @@ m.babytree.com##script + a[class]
 /cdn-cgi/beacon/*
 /cdn-cgi/ping?$image
 /cdn-cgi/rum?
+/cdn-cgi/rum|
 /cdn-cgi/zaraz/*
 /cdn_cookie_service.html
 /cedexis.js
@@ -24547,6 +24548,7 @@ _WebVitalsReporter_
 /p/rp/*?mi_u=*=&sap_id=$image
 /p1x1.gif
 /page.bsigroup.com/*
+/parceldns.com/t/*$image
 /pixel-prod.
 /pixel.mathtag.com/*
 /pixel?cid=
@@ -25496,6 +25498,7 @@ omni.soundestlink.com$image
 ||capturemedia.network^$third-party
 ||capturly.com^$third-party
 ||caramel.press^$third-party
+||carts.guru^$third-party
 ||cartstack.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -28920,6 +28923,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aliyun.com/actionlog/
 ||allanalpass.com/track/
 ||alpharank.io/api/pixel/
+||amazon.com/cs/uedata
 ||amazonaws.com/analytics.
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
@@ -29141,6 +29145,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.mambasms.com/monitorEvent/
 ||api.picox.bendingspoons.com/v1/events
 ||api.sardine.ai/assets/loader.min.js$third-party
+||api.sovendus.com/js/landing.js
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
@@ -29152,6 +29157,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.octaneai.com/get_analytics_engine/
 ||app.opmnstr.com/v2/geolocate/
 ||app.optibase.io^
+||app.partnerboost.com^
 ||app.pendo.io/data/$image
 ||app.posthog.com/e/?compression=
 ||app.posthog.com/e/?ip=
@@ -29161,6 +29167,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
 ||app.trytada.com/addImpression
+||app.varify.io/varify.js
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -30211,6 +30218,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jly24aw29n5m-a.akamaihd.net^
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
+||js.cdn.applicationinsights.io/scripts/b/ai.3.gbl.min.js
 ||js.go2sdk.com/v2/tune.js
 ||js.verisoul.ai^
 ||jscache.com/static/page_moniker/
@@ -30302,6 +30310,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||listrak.com/api/Activity/impression
 ||listrakbi.com/activity/
 ||listrakbi.com/api/ActivityEvents/
+||listrakbi.com/ModalImpression.ashx?
 ||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
@@ -31211,6 +31220,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.mail.sony-europe.com/r/?
 ||t.menepe.com^
 ||t.metrilo.com^
+||t.mydialoginsight.com^
 ||t.pointandplace.com^
 ||t.powerreviews.com^$third-party
 ||t.raptorsmartadvisor.com^
@@ -32149,6 +32159,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||script.idgentertainment.de/gt.js
 ||serverkompetenz.net/cpx.php?
 ||sheego.de/ar/$third-party
+||shopper.shop.pe/input.js
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
 ||simetra.tracking.ringieraxelspringer.tech^
@@ -35053,6 +35064,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||upwork.com/upi/jslogger
 ||urs.metacritic.com^
 ||useblackbox.io/telemetry
+||user-back.ggcorp.me/statistics
 ||user-metrics.onthemarket.com^
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json
@@ -70892,7 +70904,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||t.service.thetimes.co.uk^
 ||t.staging-mail.tabcorp.com.au^
 ||t.twenty.co^
-||t.vrbo.io^
 ||t1.benefits.tops.co.th^
 ||t1.discover.flashnews.com.au^
 ||t1.stadiumgoods.com^
@@ -71183,6 +71194,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||as.mytoys.de^
 ||as.yomonda.de^
 ||autoscout24.de^$ping
+||aw.perlesandco.com^
 ||basicthinking.de/stats/
 ||behave.sn.at^
 ||berliner-stadtplan.com/t.gif
@@ -72900,6 +72912,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||adme.media/metric-collector
 ||affilate.hh.ru^
 ||agroserver.ru/ct/
+||alloy-web.zvuk.com^
 ||analytics.carambatv.ru^
 ||api-metric.gosweb.gosuslugi.ru^
 ||api.litres.ru/tracker/
