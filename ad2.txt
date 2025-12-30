@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3eY4xDFOj4or4tBg+EcWMw
+! Checksum: LIt2AVHxEgW3N5BLQZSbZA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202512300949
-! Last Modified: 2025年12月30日 09:49
+! Version: 202512301435
+! Last Modified: 2025年12月30日 14:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -160,6 +160,7 @@ stgowan.com
 -*-*-*-*.alpha^$script,third-party
 /7755com-*00x*.gif
 /CC6F9ACB52D1582671AFEA808AFE10FE.gif
+.top/herebyad
 ||subhd.*/kaiyad.
 /js/clickadu.js
 /emwappopads/*
@@ -1919,6 +1920,12 @@ newduba.cn###jq_youxi
 ||ammonia20.com^
 ||vujglx.icu^
 ||2lj9n8sz0w.com^
+||kxsu.cn^
+||lavtcyojffug.com^
+||horribletrainer.com^
+||3q9j4w2r9d.com^
+||1dgfd.cc^
+||9txnu9rlmd.com^
 ||bmzzojmzu.com^
 ||d8lzzy93g.com^
 ||msn5vg8em.com^
@@ -10762,8 +10769,10 @@ meijutt.*/js/pcjs/
 ||workers.dev^$domain=axiang.cc
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||douyucdn.cn/adxdsp/
+||711dm.com/color.
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+muinz.top##.module
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[src="https://d.sinaimg.cn/prd/1005/891/2025/03/21/icon_auth_white.png"])
 douyu.com#?#div[class^="body__"] > div[class^="card__"] > span > span[class^="card__"]:-abp-has(span[class^="cardTypeLabel"]:-abp-contains(广告))
 h-ciyuan.com##.theiaStickySidebar .widget_media_image
