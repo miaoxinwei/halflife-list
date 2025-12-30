@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: up0wYUL9RPH/bXYb3spHHg
+! Checksum: 9tLUFuw2aMl8njVvQ0kpPg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202512300232
-! Last Modified: 2025年12月30日 02:32
+! Version: 202512300949
+! Last Modified: 2025年12月30日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2357,6 +2357,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||6kpudsordv.com^
+||i3j6h7j9cj.com^
+||kje9v2ic57.com^
+||ainb12300zh.com^
+||briefcase95.com^
+||zhuqellv.com^
+||ammonia20.com^
+||vujglx.icu^
+||2lj9n8sz0w.com^
 ||bmzzojmzu.com^
 ||d8lzzy93g.com^
 ||msn5vg8em.com^
@@ -18940,6 +18949,8 @@ yydstxt*.com/js/html
 yydstxt*.com/js/cdn.
 /js/ad.js$domain=69shuba.com
 ||vqbmxyzda.icu^
+||bz*.com/js/cdn.
+||bz*.com/js/html$~third-party,script
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||djdedu.net/static/*.gif
