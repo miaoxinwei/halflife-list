@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7l4fLMG+qdn3pPAgdzBM9g
+! Checksum: ZPrjp80XDoWsbHu7lfLq/A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601012046
-! Last Modified: 2026年01月01日 20:46
+! Version: 202601020951
+! Last Modified: 2026年01月02日 09:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1911,6 +1911,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||0hagal2csg.com^
+||5hu7hee0pt.com^
+||ainb01020zh.com^
+||praairfo.com^
+||rzbvxn.icu^
+||velocity30.com^
+||cgcg01020ht.com^
+||dissolution06.com^
 ||rz6jf5oqz.com^
 ||lvdvltsid.com^
 ||bk2l4eidc.com^
@@ -73344,7 +73352,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
-@@||browser-intake-datadoghq.com^$domain=pluto.tv
+@@||browser-intake-datadoghq.com^$xmlhttprequest,domain=mightyape.co.nz
 @@||browser.covatic.io/sdk/v1/bauer.js$script,domain=hellorayo.co.uk
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
