@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2AO6kcVZTuzrUkGKzSNzmg
+! Checksum: KUuAEx3wK37dxuIaS4Q89g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601030232
-! Last Modified: 2026年01月03日 02:32
+! Version: 202601030945
+! Last Modified: 2026年01月03日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1911,6 +1911,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||5p35xkp1p.com^
+||c0xz0b2dy.com^
+||w75zr9nfj.com^
+||g12tm6xl3.com^
+||taiverturena.com^
+||ainb01030zh.com^
+||cgcg01030ht.com^
+||swaw.cn^
+||cancellation58.top^
+||hluraiwoy.com^
+||ppxqhx.icu^
 ||0hagal2csg.com^
 ||5hu7hee0pt.com^
 ||ainb01020zh.com^
@@ -34370,6 +34381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.hackerrank.com^
 ||metrics.hyperliquid.xyz^
 ||metrics.imdb.com^
+||metrics.morethings.digital^
 ||metrics.onewegg.com^
 ||metrics.roblox.com^
 ||metrics.spkt.io^
@@ -34934,6 +34946,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.goodchop.com^
 ||t.indeed.com^
 ||t.ionos.com^
+||t.jasper.ai^
 ||t.jossandmain.com^
 ||t.kck.st^
 ||t.lataco.com/collect
@@ -35181,6 +35194,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||upwork.com/shasta/suit
 ||upwork.com/upi/jslogger
 ||urs.metacritic.com^
+||use.hetzner.com^
 ||useblackbox.io/telemetry
 ||user-back.ggcorp.me/statistics
 ||user-metrics.onthemarket.com^
