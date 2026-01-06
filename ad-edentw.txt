@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GhDpNPmkC/7+TuxQCevoVg
+! Checksum: Qa8OspzX0kk/yI2Wh4O2VQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202601062048
-! Last Modified: 2026年01月06日 20:48
+! Version: 202601070234
+! Last Modified: 2026年01月07日 02:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -599,12 +599,6 @@ slashdot.org#$#abort-on-property-write window.alert
 ||*/loader.min.js|$script,domain=slashdot.org
 ||error-report.com^$domain=slashdot.org
 slashdot.org##iframe[src*="report.error-report.com/modal"]
-sourceforge.net#$#override-property-read Element.prototype.remove noopFunc
-sourceforge.net#$#abort-on-property-read window.confirm
-sourceforge.net#$#abort-on-property-read window.alert
-||*/loader.min.js|$script,domain=sourceforge.net
-||error-report.com^$domain=sourceforge.net
-sourceforge.net##iframe[src*="report.error-report.com/modal"]
 si.com#$#override-property-read Element.prototype.remove noopFunc
 si.com#$#abort-on-property-write window.confirm
 si.com#$#abort-on-property-write window.alert
@@ -718,9 +712,6 @@ laleggepertutti.it#$#override-property-read window.navigator.connection.rtt 1001
 avsforum.com#$#override-property-read window.navigator.connection.rtt 1001
 ||*/loader.min.js|$script,domain=fansided.com
 ||error-report.com^$domain=fansided.com
-fansided.com#$#override-property-read Element.prototype.remove noopFunc
-fansided.com#$#abort-on-property-read window.confirm
-fansided.com#$#abort-on-property-read window.alert
 fansided.com##iframe[src*="report.error-report.com/modal"]
 ||*/loader.min.js|$script,domain=oxfordlearnersdictionaries.com
 ||error-report.com^$domain=oxfordlearnersdictionaries.com
