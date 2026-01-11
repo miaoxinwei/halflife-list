@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hBDM3DmKGJE06MNsGBhfig
+! Checksum: 8KC7DLoK/wF7nPeuC0vnUg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601102042
-! Last Modified: 2026年01月10日 20:42
+! Version: 202601111000
+! Last Modified: 2026年01月11日 10:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,18 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||9jk7puqza.com^
+||zgqsc3shr.com^
+||yjigiv1ic.com^
+||bugs01110ko.com^
+||kreirkaer.com^
+||harpsichord34.com^
+||0e9knynfb.com^
+||vojolj.icu^
+||vfnq.cn^
+||rehearsal55.top^
+||dxzgwti.com^
+||vfymgla.com^
 ||7649s7szsu.com^
 ||yb2es1rd82.com^
 ||f0zvx9koy3.com^
@@ -18446,6 +18458,7 @@ wss://*.*.top/$third-party
 .cn/cS389.js
 ||uaa.com/js/dxj.
 uaa.com##.popup_dialog_box
+wss://*.com:29189/880
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
 $csp=script-src 'self' * 'unsafe-inline',domain=erciyan.com|feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
@@ -24202,6 +24215,7 @@ _WebVitalsReporter_
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
 .alcmpn.com/
+.animatebookstore.com/c/$image
 .aozorabank.co.jp/r/*/open/$image
 .app.returnpath.net/
 .aveda.com/t/$image
@@ -24301,6 +24315,7 @@ _WebVitalsReporter_
 .pledgebox.com/t/$image
 .pstmrk.it/open^
 .publish0x.com/t/
+.qualtrics.com/subscription/watermark.gif?
 .quora.com/qemail/mark_read?
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
@@ -26317,6 +26332,7 @@ omni.soundestlink.com$image
 ||measured.com^$third-party
 ||measuremap.com^$third-party
 ||measurementapi.com^$third-party
+||media.net^$third-party
 ||media01.eu^$third-party
 ||mediaarmor.com^$third-party
 ||mediaforgews.com^$third-party
@@ -28950,6 +28966,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.mlstatic.com^
 ||analytics.myfidevs.io^
 ||analytics.myfinance.com^
+||analytics.netronline.dev^
 ||analytics.newscred.com^
 ||analytics.onlyonlinemarketing.com^
 ||analytics.optilead.co.uk^
@@ -31291,6 +31308,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.yfret.com^
 ||track.yieldsoftware.com^
 ||track.zappos.com^
+||track1.avplayer.com^
 ||trackdesk.com/tracking.js
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker-server.high-cdn.com^
