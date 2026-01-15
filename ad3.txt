@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fWpTgOGOLLAIDi9M0Brbqg
+! Checksum: Ol+BkoCOR0sZQEzK4X1cJg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601142050
-! Last Modified: 2026年01月14日 20:50
+! Version: 202601150951
+! Last Modified: 2026年01月15日 09:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||dbraulmat.com^
+||3xeo00tqz.com^
+||jgpo1zqhj.com^
+||ufihgd3ck.com^
+||bugs01150ko.com^
+||eztravude.com^
+||solitaire47.com^
+||plectrum53.top^
+||qzs43ai3p.com^
+||jtav.cn^
+||w54551.cc^
 ||1o0g85u7k1.com^
 ||02exl1ql2l.com^
 ||yfmwnkd1ti.com^
@@ -73244,6 +73255,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.sprig.com/sdk/1/environments/$xmlhttprequest,domain=developer.salesforce.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
+@@||api.twitter.com/1.1/onboarding/referrer.json$~third-party
 @@||api.useinsider.com/api/web/$xmlhttprequest
 @@||api.vk.com/method/statEvents.$~third-party
 @@||api.zeeg.me/api/analytics/events/$~third-party
