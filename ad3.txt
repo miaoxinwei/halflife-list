@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: T/CN8GnmpeJeFnKBfhgzig
+! Checksum: WV8zdjcoMWZB2AwgWL7txQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601180959
-! Last Modified: 2026年01月18日 09:59
+! Version: 202601181433
+! Last Modified: 2026年01月18日 14:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,9 @@ newduba.cn###jq_youxi
 ||solitaire50.top^
 ||xylophone37.com^
 ||kacq.cn^
+||8fdmj67f5e.com^
+||nie8fe9far.com^
+||zqqwr9snx1.com^
 ||354xxcdt1.com^
 ||hbz8v.com^
 ||w5c6d9.cc^
@@ -25103,6 +25106,7 @@ omni.soundestlink.com$image
 ||venture-365-inspired.com^
 ||venusrevival.com^
 ||veozn3f.com^
+||veradata.network^
 ||vfghe.com^
 ||videoplayerhub.com^
 ||visit-server.inmobi-choice.io^
@@ -33594,6 +33598,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||carsandbids.com/a/p
 ||cbc.ca/g/stats/
 ||cc.cc/visit_log_ajax/visit_log_save_ajax.php?
+||cdapi.collegedunia.com^
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
 ||centerblog.net/stats.js
@@ -73981,6 +73986,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cpt.geniee.jp/hb/*/wrapper.min.js$domain=hoyme.jp
 @@||cybozu.com/*/event.gif?$~third-party
+@@||dan-ball.jp/en/javagame/mine/data/d.gif$image,~third-party
 @@||datadoghq-browser-agent.com/*/datadog-logs.js$domain=crosset.onward.co.jp
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
