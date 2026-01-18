@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WV8zdjcoMWZB2AwgWL7txQ
+! Checksum: bWW9C6XVrxBQJ1YhLz7hWA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601181433
-! Last Modified: 2026年01月18日 14:33
+! Version: 202601182042
+! Last Modified: 2026年01月18日 20:42
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1924,6 +1924,9 @@ newduba.cn###jq_youxi
 ||8fdmj67f5e.com^
 ||nie8fe9far.com^
 ||zqqwr9snx1.com^
+||bugs01181ko.com^
+||rxi8jcy0aq.com^
+||mukkoiigam.com^
 ||354xxcdt1.com^
 ||hbz8v.com^
 ||w5c6d9.cc^
@@ -29228,6 +29231,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.qualified.com/*/sentry/
 ||app.qualified.com/*/visitor_events
 ||app.revenuehero.io/logs/ingest
+||app.termly.io/api/*/statistics
 ||app.trytada.com/addImpression
 ||app.varify.io/varify.js
 ||app.yesware.com/t/$third-party
@@ -34382,6 +34386,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mov.t-mobile.com/p/js/1.js
 ||movetv.com/sa-events
 ||mp.imgur.com^
+||mp.sintra.ai^
 ||mp.theepochtimes.com^
 ||mparticle.weather.com/identity/
 ||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
@@ -35347,7 +35352,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ://track.opentable.
 ://www.vinted.*/relay/events
 ||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
-||edge-client^$script,domain=barrons.com
+://edge-client/$domain=barrons.com
 ||jeremiahlee.com/fanboynz.js
 ||hubspot.com/collected-forms/$xmlhttprequest,domain=confection.io
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
