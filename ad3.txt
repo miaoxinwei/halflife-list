@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bW88FU86F+4WrlLZN7s3yw
+! Checksum: J4BO+/b6GP9EC9kXJ2nk1w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601220244
-! Last Modified: 2026年01月22日 02:44
+! Version: 202601220956
+! Last Modified: 2026年01月22日 09:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||vkoq4kyzmj.com^
+||gwbb1p2t9s.com^
+||xvbwjd.icu^
+||lyk35otqfm.com^
+||cataract40.com^
+||quoits96.top^
+||heoddikvdm.com^
+||bugs01220ko.com^
+||innveu2ji6.com^
 ||96zddjwn2.com^
 ||8g2a7mifv.com^
 ||gsk801211hh.com^
@@ -24771,6 +24780,7 @@ omni.soundestlink.com$image
 ||bidgx.com^
 ||bidswitch.net^
 ||bkrtx.com^
+||bloomreach.co^
 ||bluekai.com^
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
@@ -25162,6 +25172,7 @@ omni.soundestlink.com$image
 ||ugdturner.com^
 ||uidapi.com^
 ||uimarketpro.com^
+||unidays.world^
 ||uqd.io^
 ||usrpubtrk.com^
 ||ustat.info^
@@ -29048,6 +29059,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alpharank.io/api/pixel/
 ||amazon.com/cs/uedata
 ||amazonaws.com/analytics.
+||amazonaws.com/analytics/
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
 ||amazonaws.com/b2bjsstore/
