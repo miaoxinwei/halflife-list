@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +IfY7+Ykc85peQ0SezSs6g
+! Checksum: 797LT7NGnDzu/V/OmhR2Aw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601231437
-! Last Modified: 2026年01月23日 14:37
+! Version: 202601232051
+! Last Modified: 2026年01月23日 20:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,19 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||oiu132jhz.com^
 ||oqvodgp36.com^
+||p2muoczf5.com^
+||etff5y04k.com^
+||clo41zgrs.com^
+||bugs01231ko.com^
+||gsk801231hh.com^
+||gfvk.cn^
+||nenodhezm.com^
+||1fp9k4zrm.com^
+||fkhagviev.com^
+||promontory32.com^
+||waterfall90.top^
+||vbw3q6jxn.com^
+||mtaitdupf.com^
 ||vkoq4kyzmj.com^
 ||gwbb1p2t9s.com^
 ||xvbwjd.icu^
@@ -16504,6 +16517,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@.adserver.$domain=litv.tv
 @@||holmesmind.com/js/drawV2.$domain=bingfong.com
 @@||hkcards.com^$generichide
+@@||linovelib.com^$generichide
 @@/prebid.$script,domain=mingpao.com
 @@||txws.yyzb456.top^$domain=857zb7.tv
 @@||jinritemai.com^$generichide
@@ -26610,6 +26624,7 @@ omni.soundestlink.com$image
 ||ml-attr.com^$third-party
 ||mlclick.com^$third-party
 ||mlno6.com^$third-party
+||mlytics.com^$third-party
 ||mm7.net^$third-party
 ||mmccint.com^$third-party
 ||mno.link^$third-party
@@ -29836,6 +29851,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.debugbear.com^$third-party
 ||data.digitalks.az^
 ||data.eetech.com^
+||data.emb-api.com^
 ||data.embeddables.com^
 ||data.gosquared.com^
 ||data.minute.ly^
@@ -74194,6 +74210,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||sibs.com/fingerprint/sfp2/fp2.min.js$script,domain=net24.bancomontepio.pt
 @@||siteapps.com^$script,domain=netcombo.com.br
 @@||tags.t.tailtarget.com/t3m.js?$domain=superesportes.com.br
+!---------- Qatar ----------
+@@||src.litix.io/*/bitmovin-mux.js$domain=shoof.alkass.net
 !---------- Romanian ----------
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
 @@||imobiliare.ro/js/gtm.js$script,~third-party
