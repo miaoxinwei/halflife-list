@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 797LT7NGnDzu/V/OmhR2Aw
+! Checksum: hhvo6p5Yaba4tsyu4hLZ5w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601232051
-! Last Modified: 2026年01月23日 20:51
+! Version: 202601240949
+! Last Modified: 2026年01月24日 09:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||rgoxcknehm.com^
+||zrz0c0sh7e.com^
+||gsk801240hh.com^
+||2fjxw3dyip.com^
+||6n528aywi9.com^
+||freshet40.top^
+||tableland06.top^
+||fbtacriikh.com^
 ||oiu132jhz.com^
 ||oqvodgp36.com^
 ||p2muoczf5.com^
@@ -26843,7 +26851,7 @@ omni.soundestlink.com$image
 ||perljs.com^$third-party
 ||permutive.com^$third-party
 ||personyze.com^$third-party
-||petametrics.com^$third-party,domain=~telegraph.co.uk
+||petametrics.com^$third-party,domain=~telegraph.co.uk|~thestreet.com
 ||pghub.io^$third-party
 ||pgs.io^$third-party,domain=~publicgood.com
 ||phonalytics.com^$third-party
@@ -29550,6 +29558,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cbsaavideo.com/measurements/
 ||cbsivideo.com/measurements/
 ||cc.swiftype.com^
+||cca-lite.coinbase.com/amp
 ||cca-lite.coinbase.com/metrics
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
@@ -29963,6 +29972,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||errors.snackly.co^
 ||essential-apps-analytics.herokuapp.com^
 ||et.educationdynamics.com^
+||eth.llamarpc.com^
 ||etl.springbot.com^
 ||etoro.com/tradesmonitor/
 ||eu-mobile.events.data.microsoft.com^
@@ -30637,6 +30647,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mkcms.com/stats.js
 ||ml.com/enterprisetagging/
 ||mlweb.dmlab.hu^
+||mm-sdk-analytics.api.cx.metamask.io^
 ||mmcdn.com/events/
 ||mmi.bemobile.ua^
 ||mochiads.com/clk/
@@ -30850,8 +30861,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perimeterx.net/api/v1/collector/
 ||perr.h-cdn.com^
 ||perso.aws.arc.pub^
-||petametrics.com^$domain=meidastouch.com
-||petametrics.com^$image,third-party,xmlhttprequest
+||petametrics.com/*/activity
+||petametrics.com/*/modal
 ||pets.channeladvisor.com^
 ||photobox.com/event
 ||photobox.com/logs
@@ -73130,6 +73141,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||agrointel.ro/ga.js
 ||agrointel.ro/track.js
 ||analytics.okazii.ro^
+||tracking-api.bookzone.ro^
 ||views.b1tv.ro^
 ||views.romaniatv.net^
 ||2ch.hk^*/tracker.js?
