@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9dpLta0m1sGYGvV0YsVoyQ
+! Checksum: h8Q95W3HBUWRkU6b2ng50g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601241434
-! Last Modified: 2026年01月24日 14:34
+! Version: 202601242043
+! Last Modified: 2026年01月24日 20:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,8 @@ newduba.cn###jq_youxi
 ||freshet40.top^
 ||tableland06.top^
 ||fbtacriikh.com^
+||8k69vb6421.com^
+||ngfkrduait.com^
 ||oiu132jhz.com^
 ||oqvodgp36.com^
 ||p2muoczf5.com^
@@ -29187,6 +29189,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.edgekey.net^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
+||analytics.everythingstream.com^
 ||analytics.fabricators.ltd^$third-party
 ||analytics.facebook.com^$third-party
 ||analytics.fatmedia.io^
@@ -31422,6 +31425,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.menepe.com^
 ||t.metrilo.com^
 ||t.mydialoginsight.com^
+||t.nc0.co^
 ||t.paypal.com/ts?
 ||t.pointandplace.com^
 ||t.powerreviews.com^$third-party
