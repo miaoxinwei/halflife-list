@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hhvo6p5Yaba4tsyu4hLZ5w
+! Checksum: 9dpLta0m1sGYGvV0YsVoyQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601240949
-! Last Modified: 2026年01月24日 09:49
+! Version: 202601241434
+! Last Modified: 2026年01月24日 14:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -29459,6 +29459,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.klm.com^
+||beacon.peakhour.io^
 ||beacon.riskified.com^
 ||beacon.s.llnwi.net^
 ||beacon.searchspring.io^
@@ -29581,6 +29582,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.super.com/remote-event-registry.json
 ||cdn.tolt.io/tolt.js
+||cdn.transifex.com/live.js
 ||cdn.usefathom.com^
 ||cdn.zg-api.com^*/analytics.js
 ||cdnjs.work/metrics.js
@@ -33912,6 +33914,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||diabrowser.com/js/arcnet-script.js
 ||digital.flytedesk.com/js/head.js
 ||discover-metrics.cloud.seek.com.au^
+||discover.hubpages.com/.bootscripts/analytics.min.js
+||discover.hubpages.com/.bootscripts/hubPagesViewDurationTracker.min.js
 ||dls-account.di.atlas.samsung.com^
 ||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
 ||docs.github.com/events
@@ -33962,6 +33966,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebaystatic.com/cr/v/c01/ubt241024192c097b9ddc0a81e0a.js
 ||ebaystatic.com^*tracking/configuration.js
 ||ec.thredup.com^
+||eddl.cdi.services.sap.com^
 ||edge.staging.fullstory.com^
 ||edisound.com/api/p/stats
 ||eec.crunchyroll.com^
@@ -34567,6 +34572,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nextdoor.*/ajax/ping_ndas/
 ||nextdoor.com/events/
 ||nflshop.com/api/track
+||ngds.sap.com^
 ||nid.mansionglobal.com^
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
