@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x7iBbngIDj65ajMOOTMzrg
+! Checksum: lTPy8qisIeVa4l6ypO7Azw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601280240
-! Last Modified: 2026年01月28日 02:40
+! Version: 202601280955
+! Last Modified: 2026年01月28日 09:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||03in08p3r1.com^
+||2xx63f0bfy.com^
+||nyv388w6lc.com^
+||gsk801280hh.com^
+||volcano93.top^
+||tempest33.com^
+||6acupxubky.com^
 ||lp780937a.com^
 ||gsk801270hh.com^
 ||i5qquywfz.com^
@@ -1929,6 +1936,8 @@ newduba.cn###jq_youxi
 ||77zdmt8yq.com^
 ||lonarzelq.com^
 ||5yahh8v3.xyz^
+||m3ks1o8jz.com^
+||affxc.com^$third-party
 ||nb4ds7c13d.com^
 ||rzjdsm7tgz.com^
 ||twa735xojg.com^
@@ -10935,8 +10944,6 @@ meijutt.*/js/pcjs/
 ||711dm.com/color.
 ||joyacg.top/wp-content/uploads/*-640
 ||wnacg.com/game/
-||affxc.com^*-792-180.
-||affxc.com/topbanner-
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 dailijichang.com,qv2ray.org##.elementor-popup-modal
@@ -23290,6 +23297,7 @@ m.babytree.com##script + a[class]
 /plausible.outbound-links.js$domain=~plausible.io
 /player-test-impression?
 /player/stats.php?
+/plg_convertformstools_gatracker/js/script.js
 /plog?id
 /plow.lite.js
 /plugins/affiliate-wp/assets/js/tracking.min.js
@@ -23512,6 +23520,7 @@ m.babytree.com##script + a[class]
 /screencount?vcid=
 /scribd_events?
 /script.hash.outbound-links.pageview-props.tagged-events.js
+/script.pageview-props.tagged-events.js
 /script.tagged-events.js
 /script.tagged-events.outbound-links.js
 /script/pixel.js
@@ -24195,6 +24204,7 @@ m.babytree.com##script + a[class]
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
 /web-vitals-analytics.js
+/web-vitals.iife.js
 /web/push?
 /web_analytics/*
 /web_answertip.js
@@ -26467,6 +26477,7 @@ omni.soundestlink.com$image
 ||journera.com^$third-party
 ||journity.com^$third-party
 ||js-delivr.com^$third-party
+||js.clickrank.ai^$third-party
 ||jstracker.com^$third-party
 ||jumplead.com^$third-party
 ||justuno.com^$third-party
@@ -34287,6 +34298,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hellopeter.com/api/consumer-tracking/
+||helpmonks.com/cftag/
 ||hepsiburada.com/api/$ping
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
@@ -34714,6 +34726,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pcmag.com/js/ga.js
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pcp.coupert.com^
+||pdfcrowd.com/static/3rd/js/fpr.js
 ||pdffiller.com/api_v3/experiment/
 ||pdffiller.com/api_v3/uploader/stats
 ||pdffiller.com/click-stream/
@@ -35052,6 +35065,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.vk-portal.net^
 ||stats.wordpress.com^
 ||stats.wwitv.com^
+||stats2.helpmonks.com^
 ||stats2.mytuner.mobi^
 ||statsegg.cdngeek.com^
 ||stayforlong.com/api/kafka/tracking
