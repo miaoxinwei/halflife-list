@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mJZCPp2VX8Jv/LfTQtZlPg
+! Checksum: 0WiKQ04QwLNJ/37ht5TLKA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601281438
-! Last Modified: 2026年01月28日 14:38
+! Version: 202601282054
+! Last Modified: 2026年01月28日 20:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1925,6 +1925,8 @@ newduba.cn###jq_youxi
 ||wvrp.cn^
 ||224oztn8dq.com^
 ||gsk801281hh.com^
+||6b8emvi3ya.com^
+||k0winsnua2.com^
 ||lp780937a.com^
 ||gsk801270hh.com^
 ||i5qquywfz.com^
@@ -10942,7 +10944,6 @@ meijutt.*/js/pcjs/
 ||mysteel.com/ads/
 ||wujinyuzhou.top/ny/*00x
 ||wujinyuzhou.top/ny/ny852x116.
-||ping0.cc/static/images/ad/
 ||workers.dev^$domain=axiang.cc
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||douyucdn.cn/adxdsp/
@@ -10951,7 +10952,8 @@ meijutt.*/js/pcjs/
 ||wnacg.com/game/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
-dailijichang.com,qv2ray.org##.elementor-popup-modal
+ping0.cc##.myeles
+linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
 dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 supercloudsms.com##.container > img
 muinz.top##.module
@@ -10977,7 +10979,6 @@ orzice.com##.ad-guanggao
 orzice.com###jinzhu_top
 twkan.com###mobile-ad
 axiang.cc###achang-related-adsense
-ping0.cc##.adeles
 hcbbs.com##.plc > .pct + :last-child
 mysteel.com###float-adv
 91porna.com##.dx-banner-item
@@ -23336,6 +23337,7 @@ m.babytree.com##script + a[class]
 /plugins/wordfence/visitor.php?
 /plugins/wp-vgwort/*
 /pmc-cxense.js
+/pmfastclick.min.js
 /pointeur.gif?
 /pomegranate.js
 /pongAudienceLS?
@@ -29674,6 +29676,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.stamped.io/cdn/images/pixel.png
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.super.com/remote-event-registry.json
+||cdn.tds.bid/bid.js
 ||cdn.tolt.io/tolt.js
 ||cdn.transifex.com/live.js
 ||cdn.usefathom.com^
