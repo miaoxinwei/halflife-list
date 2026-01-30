@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tpm7tY4uq8rcknuEniAqzQ
+! Checksum: be41/Nj7KWf+KJaEY/NKvg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601302059
-! Last Modified: 2026年01月30日 20:59
+! Version: 202601310245
+! Last Modified: 2026年01月31日 02:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -25208,6 +25208,7 @@ omni.soundestlink.com$image
 ||o1ych4jb.com^
 ||ofgreencolumn.com^
 ||omtrdc.net^
+||op-mobile.opera.com^
 ||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
@@ -26591,6 +26592,7 @@ omni.soundestlink.com$image
 ||leadforensics.com^$third-party
 ||leadid.com^$third-party
 ||leadin.com^$third-party
+||leadinfo.eu^$third-party
 ||leadinfo.net^$third-party
 ||leadintel.io^$third-party
 ||leadintelligence.co.uk^$third-party
