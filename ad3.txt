@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: be41/Nj7KWf+KJaEY/NKvg
+! Checksum: JYxEB/WGCc8NNGpvprgTZw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202601310245
-! Last Modified: 2026年01月31日 02:45
+! Version: 202601311005
+! Last Modified: 2026年01月31日 10:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,16 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||8proe3xx6.com^
+||jgo1pcbx9.com^
+||011qt7cln.com^
+||gsk801310hh.com^
+||hythroqu.com^
+||arullelb.com^
+||sandbank68.com^
+||dependence39.com^
+||wy7btl038.com^
+||toaadwh.icu^
 ||9i5x05ovp7.com^
 ||l9moubljmc.com^
 ||crjitvekbx.com^
@@ -22358,6 +22368,7 @@ m.babytree.com##script + a[class]
 /ecap.min.js
 /ecblank.gif?
 /ecg-js-ga-tracking/index.
+/eclytics/*
 /ecom/status.jsp?
 /edAnalyticsWrapper.js
 /edapi/event?
@@ -22652,6 +22663,7 @@ m.babytree.com##script + a[class]
 /googleAnal.js
 /GoogleAnalystics.js
 /GoogleAnalyticActionLib.js
+/googleanalytics.js
 /googleAnalytics1.js
 /googleAnalytics4.js
 /GoogleAnalytics?utmac=
@@ -31243,6 +31255,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.hlx.page^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
+||rum.optimizely.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
 ||rumstat.cdnvideo.ru^
@@ -34481,6 +34494,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jockey.com/event/
 ||jockey.com/scripts/omt-base.js
 ||joggo.run/api/events
+||johnlewis.com/browser-performance/
 ||js.monitor.azure.com/scripts/c/ms.analytics-web-4.min.js$domain=microsoft.com
 ||js.monitor.azure.com/scripts/c/ms.shared.analytics.$domain=microsoft.com
 ||julius.ai/monitoring
