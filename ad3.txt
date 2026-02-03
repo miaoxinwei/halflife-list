@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NuLFmpOf7Tf/63vvx+vQYQ
+! Checksum: ZACqOUBqNTPwYeZrLhSivg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602031454
-! Last Modified: 2026年02月03日 14:54
+! Version: 202602032104
+! Last Modified: 2026年02月03日 21:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,11 @@ newduba.cn###jq_youxi
 ||lgu7in90o.com^
 ||permissible67.com^
 ||gsk802030hh.com^
+||pvtd.cn^
+||q1txsah8s.com^
+||gnfr03906.com^
+||gsk802031hh.com^
+||zceniddd.com^
 ||qizq4hn7pr.com^
 ||ojn1zxz0ni.com^
 ||guu0bfmpf5.com^
@@ -10763,8 +10768,8 @@ ping0.cc##.myeles
 cngold.org##.foot_megagame
 cngold.org##.fixed_jt
 hanime1.me#?#div[style*="text-align:"]:-abp-has(>div[style*="color: white"])
-linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
-dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 supercloudsms.com##.container > img
 muinz.top##.module
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[src="https://d.sinaimg.cn/prd/1005/891/2025/03/21/icon_auth_white.png"])
@@ -17318,6 +17323,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 !#BaiduUnion
 /css_js/*$domain=aiyangedu.com|duanmeiwen.com|jy135.com|oh100.com|qunzou.com|ruiwen.com|unjs.com|yjbys.com|yuwenmi.com
 ?*=*=*=$subdocument,domain=00cha.com|06ps.com|10000xing.cn|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|192ly.com|1ppt.com|1ting.com|201980.com|21hubei.com|263y.com|2hanju.com|2liang.net|32r.com|32xp.com|360doc.cn|39.net|4aqq.com|5000yan.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52wubi.com|52zxw.com|5djiaren.com|5h.com|5nd.com|5seestar.com|66law.cn|7y7.com|86huoche.com|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|99.com.cn|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|annhe.net|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|b2b168.com|b2b6.com|baicaolu.net|baotang5.com|bbdj.com|bendibao.com|bianzhile.com|blog.sina.cn|boosj.com|bu-shen.com|bytravel.cn|c1km4.com|chajiaotong.com|chazidian.com|china.com|chinacar.com.cn|chinakaoyan.com|chinawj.com.cn|chuiyue.com|cidianwang.com|cjcp.com.cn|cnbanbao.cn|cncn.com|cnkang.com|cnlinfo.net|coozhi.com|cr173.com|cyyangqiguan.com|d17.cc|d1xz.net|daquan.com|dgzj.com|diangon.com|diyifanwen.com|diyju.com|dugoogle.com|dxsbb.com|eastday.com|enterdesk.com|exam58.com|fangdaijisuanqi.com|faxingzhan.com|friok.com|fun48.com|gaosan.com|gaotie.cn|gucheng.com|gugu5.com|gulongbbs.com|gushiwen.cn|hc23.com|hqhot.com|huangye88.com|hxnews.com|hydcd.com|icauto.com.cn|idongde.com|isanxia.com|ixinwei.com|ixiunv.com|jeasyui.net|jf258.com|jianbihua.com|jinbaodm.com|jingdianlaoge.com|jintang114.org|jj20.com|jy135.com|latiaozixun.net|liuxue86.com|m.douban.com|makepolo.com|mama.cn|meishij.net|mipcache.bdstatic.com|miyudaquan.com|mmyuer.com|oh100.com|pansoso.com|phb123.com|pig66.com|pikacn.com|pingguolv.com|pingshu8.com|qcrx.cn|qcwxjs.com|qizuang.com|qm120.com|qncye.com|qqzhi.com|quwenqushi.com|riji.cn|ruiwen.com|sc115.com|shadafang.com|shenchuang.com|ssqzj.com|szdushi.com.cn|szhk.com|uzuzuz.com|webshu.net|wenkuxiazai.com|wenshenxiu.com|wenzhangba.com|wmxa.cn|woyaogexing.com|xiachufang.com|xiangha.com|xiao84.com|xiaole8.com|xiegw.cn|xywy.com|yellowurl.cn|yiqig.cn|yiyouliao.com|yjbys.com|yuwenmi.com|yxlady.com|yyrtv.com|zdface.com|zhifure.com|zhongyoo.com|zixuntop.com|ziyuanm.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net
+||kdewa111.familydoctor.com.cn^
 ||5tmobi.cn^$third-party
 ||zgzxm.weathercn.com^
 ||cientch.360doc.cn^
@@ -25150,6 +25156,7 @@ omni.soundestlink.com$image
 ||24counter.com^$third-party
 ||24log.com^$third-party
 ||2o7.net^$third-party
+||2trk.info^$third-party
 ||360i.com^$third-party
 ||360tag.com^$third-party
 ||360tag.net^$third-party
@@ -26797,6 +26804,7 @@ omni.soundestlink.com$image
 ||prchecker.info^$third-party
 ||prebidmanager.com^$third-party
 ||precisioncounter.com^$third-party
+||preciso.net^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
 ||preflect.com^$third-party
@@ -28927,6 +28935,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ab.dns-finder.com^
 ||accesswire.com/img.ashx
 ||accounts.google.com/gsi/log
+||acds-events.adobe.io^
 ||activengage.com/overwatch/
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
@@ -29475,7 +29484,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.super.com/remote-event-registry.json
 ||cdn.tds.bid/bid.js
 ||cdn.tolt.io/tolt.js
-||cdn.transifex.com/live.js
 ||cdn.usefathom.com^
 ||cdn.zg-api.com^*/analytics.js
 ||cdnjs.work/metrics.js
@@ -30402,6 +30410,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
 ||live-tv.top/js/k.min.js
+||live.exchangesolutions.com^
 ||live.mrf.io/statics/marfeel/gardac-sync.js
 ||live2support.com^*/js_lstrk.
 ||livechatinc.com^*/control.cgi?
@@ -30879,6 +30888,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pub.pixels.ai/metrics-lib.js
 ||pub.sheknows.com^
 ||pubimgs.net/main.gif?
+||public.9gtb.com^
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||public.fbot.me/track/
 ||publicbroadcasting.net/analytics/
@@ -31049,6 +31059,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scribol.com/traffix/widget_tracker/
 ||script-api.kinja.com/script?
 ||script.claspo.io/forms/v1/event
+||scripts.postie.com/otcteung/lp.1.js
 ||scripts.psyma.com^
 ||scripts.stay22.com/letmeallez.js
 ||scripts.swifteq.com/hc_events.js
