@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WYmWJJT6desfbfmwMLDdLQ
+! Checksum: j+NYAG8ig3R02cMPYW16lg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602061457
-! Last Modified: 2026年02月06日 14:57
+! Version: 202602062102
+! Last Modified: 2026年02月06日 21:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1918,6 +1918,12 @@ newduba.cn###jq_youxi
 ||fvk6k2jrdu.com^
 ||ny70zesy5v.com^
 ||gsk802061hh.com^
+||gnla02061qp.com^
+||gxvf.cn^
+||agricultural64.top^
+||nneephon.com^
+||w58ce6.com^
+||w58ce6.com^
 ||immediate49.com^
 ||k0tdrkbhx.com^
 ||d6gsujd8v.com^
@@ -73926,6 +73932,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||ct.ddc.venmo.com.fpc.datadome.co^$domain=id.venmo.com
 @@||datadome.garena.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=auth.garena.com
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
+@@||dd.qa.moneygram.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=moneygram.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
