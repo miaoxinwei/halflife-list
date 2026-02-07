@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uGj5vDfPTKzLEB1ot/7HTQ
+! Checksum: marAOEnT/vt7I/1fVLsKvg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602071008
-! Last Modified: 2026年02月07日 10:08
+! Version: 202602071444
+! Last Modified: 2026年02月07日 14:44
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1917,6 +1917,11 @@ newduba.cn###jq_youxi
 ||412dyo1ef.com^
 ||ivza0m05f.com^
 ||dcwxhamq0.com^
+||zyek35wsn.com^
+||reluctance58.com^
+||avpr.cn^
+||gnla02070qp.com^
+||vwvaddoet.com^
 ||aztwrmsgn4.com^
 ||fvk6k2jrdu.com^
 ||ny70zesy5v.com^
@@ -24861,6 +24866,7 @@ omni.soundestlink.com$image
 ||fptls2.com^
 ||fptls3.com^
 ||fptls4.com^
+||fran.pro^
 ||ftlaunchpad.ai^
 ||funnelserv.systems^
 ||fzlnk.com^
@@ -27301,6 +27307,7 @@ omni.soundestlink.com$image
 ||sumologic.com^$third-party,domain=~sumologic.net
 ||sumome.com^$third-party
 ||sundaysky.com^$third-party
+||superboosty.com^$third-party
 ||supercounters.com^$third-party
 ||superfiliate.com^$third-party
 ||superspeedapp.com^$third-party
@@ -29821,6 +29828,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.emb-api.com^
 ||data.embeddables.com^
 ||data.gosquared.com^
+||data.jaytuckwell.com^
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
@@ -31405,6 +31413,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.spbx.app^
 ||t.splicky.com^
 ||t.spot.im^
+||t.themarketer.com^
 ||t.vibe.co^
 ||t2.profityi.com/api/visit/
 ||t2.t2b.click^
@@ -33724,6 +33733,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||chatroll.com/t.gif
 ||chewy.com/api/event/
 ||chickadvisor.com/js/detect.min.js
+||chloro.trip.com^
 ||chronicle.medal.tv^
 ||cidrap.umn.edu/core/modules/statistics
 ||cisco.com/c/dam/cdc/j/at.js
