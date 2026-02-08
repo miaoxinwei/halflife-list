@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8welnYb/85oDxhSas3K9DA
+! Checksum: eCaUIfMdLlMxqf3XQb+ixw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602080237
-! Last Modified: 2026年02月08日 02:37
+! Version: 202602081041
+! Last Modified: 2026年02月08日 10:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||i4320rdrta.com^
+||yy19xdgtud.com^
+||gnla02080qp.com^
+||frhi5v6ez1.com^
+||w58547.com^
+||myieldell.com^
+||nsul.cn^
+||seductive37.top^
 ||412dyo1ef.com^
 ||ivza0m05f.com^
 ||dcwxhamq0.com^
@@ -22292,6 +22300,7 @@ m.babytree.com##script + a[class]
 /fbevents.min.js
 /fbpix-events-
 /fbpixel.js
+/fdmg-tag-manager/tags.js
 /fe_logger?
 /feature/metrics$xmlhttprequest
 /federated-analytics.all.min.js
@@ -23669,6 +23678,7 @@ m.babytree.com##script + a[class]
 /supercookie.asp
 /supercookie.js
 /svs.gif?
+/sw.js?origin=
 /sw/analytics.js
 /swa_t.gif?
 /swatag.js
@@ -24250,6 +24260,7 @@ m.babytree.com##script + a[class]
 ://signal.*/hardal
 ://signals.*/hardal
 ://sp.*/sp/h|$xmlhttprequest
+://ssgtm.
 ://stat.*/pageview/$xmlhttprequest
 ://stats.*/code/e.js
 ://t.targito.
@@ -24306,6 +24317,7 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+/cdn/wpm/b3918e4e0wbf3ac3cepc5707306mb02b36c6m.js
 /_static/deliver.js?nonce=$script,~third-party
 /javascripts/browserfp.min.js?templateId=
 /munin/a/ls?t=$xmlhttprequest
@@ -33613,6 +33625,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||assets.engoo-static.com/tracking.js
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
+||assets.targetimg1.com/ssx/ssx.mod.js$domain=target.com
 ||ats.alot.com^
 ||att.com/scripts/adobe/prod/marketing.min.js
 ||audacy.com/data-events/
@@ -34640,6 +34653,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||pardot.com/pd.js
+||partsgeek.com/sspgt/
 ||pay4fans.com/api/analytics
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
@@ -34936,6 +34950,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.photospecialist.co.uk^
 ||sst.brodo.com^
 ||sst.bwt.com^
+||sst.carwow.
 ||sst.shopware.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
@@ -37486,6 +37501,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
+||analytics.editorialedomani.it^
 ||analytics.eikko.ai^
 ||analytics.ericafischerphotography.com^
 ||analytics.gamedatacrunch.com^
@@ -71509,6 +71525,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||geoip.finanzen.net^
 ||glomex.com^$ping
 ||gmx.net/monitoring/
+||go.absolventa.de^
+||go.azubi.de^
 ||golem.de/staticrl/scripts/external/snow-390-min.js
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||hamburger-stadtplan.com/t.gif
@@ -71533,6 +71551,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lynx.gruender.de^
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
+||metrik.freitag.de^
 ||moviepilot.de/assets/autotrack-
 ||msboul.gruenwelt.de^
 ||mtb-news.de/metric/
