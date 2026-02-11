@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1a6Fs0At12pwMMWqlkPDNg
+! Checksum: eIYKmuARKc8KbGbYn0NzIQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202602111502
-! Last Modified: 2026年02月11日 15:02
+! Version: 202602112114
+! Last Modified: 2026年02月11日 21:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1919,6 +1919,10 @@ newduba.cn###jq_youxi
 ||yzhcp6cw1.com^
 ||gohgn02111la.com^
 ||6mdf9teiz.com^
+||6h6pdph56.com^
+||x0b5edl6u.com^
+||mvquiema.xyz^
+||zkcizao.com^
 ||93gtx4pc2w.com^
 ||26yj3wme9q.com^
 ||w5ba5b.com^
@@ -10863,6 +10867,10 @@ meijutt.*/js/pcjs/
 ||wnacg.com/game/
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+iplark.com##div[style="position: relative;"]
+cngold.org#?#.w310:-abp-has(>.swiper-company)
+cngold.org##.headCompanys
+cngold.org##.mainRight > .border_top:first-child
 ping0.cc##.myeles
 cngold.org##.foot_megagame
 cngold.org##.fixed_jt
@@ -17838,7 +17846,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||dmr.cnhoney.com^
 ||dms.vancss.com^
 ||dms.xuexxing.com^
-||dmym.aixyy.com^
+||dmym.fwol.cn^
 ||dn*.ixinwei.com^
 ||dnpz123.com^$third-party
 ||domain1.chahaoba.cn^
