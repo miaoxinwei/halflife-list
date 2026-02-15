@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ERS4jRx37Eya0q6bG/EYTQ
+! Checksum: FJRrvXtauWCPgu5MjYmrdg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202602151454
-! Last Modified: 2026年02月15日 14:54
+! Version: 202602152054
+! Last Modified: 2026年02月15日 20:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2367,6 +2367,7 @@ newduba.cn###jq_youxi
 ||f9bnlbgjf.com^
 ||5w31xv1a2.com^
 ||v8fjvv9o3.com^
+||wbkar038r.com^
 ||aa7hzjsow.com^
 ||jh2szzt7n.com^
 ||envision75.com^
@@ -14689,7 +14690,7 @@ douguo.com##.mbs
 pcworks.cn##.md-show
 hk01.com##.md\:min-h-\[90px\]
 redian.news##.md\:w-\[728px\].mx-auto
-1909.me,8se.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
+1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.mediago-ad-wrapper
 cnool.net##.meilai_box
 qq.com##.member_ads
