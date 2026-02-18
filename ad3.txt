@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j5WDxlv6kH4rikIuVdYN6Q
+! Checksum: +JycOE39nlz/idLMnUZImQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602181025
-! Last Modified: 2026年02月18日 10:25
+! Version: 202602181502
+! Last Modified: 2026年02月18日 15:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1918,6 +1918,9 @@ newduba.cn###jq_youxi
 ||ucuypyhcns.com^
 ||z198vxfuy3.com^
 ||benchmark84.top^
+||a8qwjt7dwi.com^
+||pwk73hidf2.com^
+||w1irjtvdt4.com^
 ||foremost57.top^
 ||tb1mdkeni.com^
 ||i7bqmgn87.com^
@@ -30609,6 +30612,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||livelyvideo.tv/lb/logger
 ||liverail.com/?metric=
 ||liverail.com/track/?
+||livesearch-metrics.magento-ds.com^
 ||livestats.kaltura.com^
 ||livestory.io/*/collect
 ||llama.fi/script.js
@@ -32852,6 +32856,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ubt-sgp.travix.com^
 ||ugent.be/js/log.js
 ||almamedia.fi^*/scroll-monitor.min.js
+||ddl.alma.iltalehti.fi^
 ||dnt-userreport.com^
 ||er.sanoma-sndp.fi/stats/
 ||er.sanoma-sndp.fi/v2/stats/
