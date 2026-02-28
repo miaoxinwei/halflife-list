@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nRD51PSULcbVtC+zNPkPCQ
+! Checksum: L6VdVoKA+nO5hjFxZn2OCg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202602281440
-! Last Modified: 2026年02月28日 14:40
+! Version: 202602282049
+! Last Modified: 2026年02月28日 20:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,7 @@ newduba.cn###jq_youxi
 ||bgblsb5s6a.com^
 ||jbw4kkuf2y.com^
 ||tgdlqeqpbh.com^
+||5yc8ui0n3j.com^
 ||muxc8wxhv.com^
 ||z0vogb8ns.com^
 ||jvqo1iiej.com^
@@ -24813,6 +24814,7 @@ _WebVitalsReporter_
 /email/open?
 /email_open_log_
 /emailopen?q=$image
+/emailtrack.offers-exchange.com/*$image
 /emimp/*$image
 /engage.indeed.com/*$image
 /eo?_t=$image
@@ -29967,6 +29969,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||concert.io/lookup/
 ||conde.io/beacon
 ||condenastdigital.com/content?$third-party
+||conduit.redfast.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config-security.com/event
 ||confirmit.com/wix/inline.aspx?
@@ -30134,6 +30137,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||doppiocdn.org/healthcheck
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
+||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
 ||drift.com/impressions/
@@ -31776,6 +31780,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tr.thecontentserver.com^
 ||tr.vitals.co^
 ||tr.webantenna.info^
+||tr6.snapchat.com^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
 ||trace.swaven.com^
@@ -32084,6 +32089,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vs4.com/impr.php?
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
+||vtrk.dv.tech^
 ||vuukle.com/bq-publish?
 ||vuukle.com/getGeo
 ||vvhp.net/read/view.gif
@@ -35183,6 +35189,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sp.ecosia.org^
 ||sp.justwatch.com^
 ||sp.pcoptimum.ca^
+||sp.pluto.tv^
 ||sp.welcometothejungle.com^
 ||spaning.creavite.co^
 ||spanishdict.com/page-view-metadata
