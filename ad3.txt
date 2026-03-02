@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SuflBHuo1dPuxg2AcAi8dg
+! Checksum: rFajv37ALEBMNfmd7HqRuQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603021500
-! Last Modified: 2026年03月02日 15:00
+! Version: 202603022102
+! Last Modified: 2026年03月02日 21:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1917,6 +1917,8 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||ddpoupmu.icu^
 ||fco896oi39.com^
+||4cxup4kp3c.com^
+||ajjo5hsvlp.com^
 ||ax2t0u9ly.com^
 ||ncb6t8bn4.com^
 ||mp65va7y1.com^
@@ -73819,6 +73821,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.facil-iti.app/tags/faciliti-tag.min.js$script,domain=apec.fr|kyoto.travel
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
+@@||cdn.intellimize.co/snippet/$script,domain=talkspace.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.matomo.cloud/tekuchi.matomo.cloud/matomo.js$domain=berkeleygroup.digital
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
