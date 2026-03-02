@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hQ9/6J4oD0fQ9YtPuf52Sw
+! Checksum: SuflBHuo1dPuxg2AcAi8dg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603021021
-! Last Modified: 2026年03月02日 10:21
+! Version: 202603021500
+! Last Modified: 2026年03月02日 15:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23732,6 +23732,7 @@ m.babytree.com##script + a[class]
 /silveregg/js/cookie_lib.js
 /simple_reach.js
 /simtracker.min.js
+/site24x7rum-min.js
 /site_statistics.js
 /site_stats.js
 /site_stats/*
