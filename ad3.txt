@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BNGUZOMAeh4hOolGnilA1A
+! Checksum: s93u1Tep5st2reX+NJoRqw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603032101
-! Last Modified: 2026年03月03日 21:01
+! Version: 202603041009
+! Last Modified: 2026年03月04日 10:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||hnlghkmp.icu^
+||mhmciof8ef.com^
+||fp9gvw5ber.com^
 ||x6d93mku0.com^
 ||bkam33lsr.com^
 ||fvfxpkmo.icu^
@@ -1925,6 +1928,8 @@ newduba.cn###jq_youxi
 ||xhgwho0fx.com^
 ||fpgxyjv3h.com^
 ||hebaidu.cc^
+||bwau1s2fm.com^
+||t57u6anx2.com^
 ||ddpoupmu.icu^
 ||fco896oi39.com^
 ||4cxup4kp3c.com^
@@ -21537,6 +21542,7 @@ m.babytree.com##script + a[class]
 /__utm.js
 /__wsm.gif
 /_assets/oply/public/*
+/_astro/useProtonTelemetry.$script
 /_blazor/*$ping
 /_events/api/setEvent$xmlhttprequest
 /_ga?send&
@@ -46572,6 +46578,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||somni.suntrust.com^
 ||somni.superonline.net^
 ||somni.syf.com^
+||somni.syfpayments.com^
 ||somni.synchrony.com^
 ||somni.synchronybank.com^
 ||somni.synchronybusiness.com^
@@ -69705,7 +69712,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||join.stuypend.com^
 ||join.talker.network^
 ||join.thekrishi.com^
-||join.tlon.io^
 ||join.travelxp.com^
 ||join.vibely.io^
 ||join.vtail.co^
