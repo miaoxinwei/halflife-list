@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LQKrQL74AydUZptVZuoBbQ
+! Checksum: a0Qp/Ce8CvP16k3u+O12GQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603060317
-! Last Modified: 2026年03月06日 03:17
+! Version: 202603061011
+! Last Modified: 2026年03月06日 10:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||0fs6pe6w0j.com^
+||brb3mb25zg.com^
+||89ga0evbha.com^
+||xxhfuaek.icu^
+||boodper.com^
+||xdyn03060jy.com^
+||hthelulyq.com^
+||yxtmums.com^
+||ekpafzj.com^
+||likelihood55.com^
+||gfh9j4wyub.com^
 ||pow46ru6c.com^
 ||vfbwcfej.icu^
 ||b9jda4zig.com^
@@ -71706,6 +71717,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||pixel.ionos.de^
 ||plausible.motorpresse.de^
 ||playox.de/analytics/
+||pons.com/pons-site-website-assets/lib/analytics.min.js
+||pons.com/pons-site-website-int/_astro/website-analytics.$script
 ||potsdamer-stadtplan.com/t.gif
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
