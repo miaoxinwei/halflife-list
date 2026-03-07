@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vhXqOlbB4AQp+KhJw9kH6g
+! Checksum: sP65Sm+gzgN19FBwGGl3eQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603071443
-! Last Modified: 2026年03月07日 14:43
+! Version: 202603072051
+! Last Modified: 2026年03月07日 20:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1930,6 +1930,8 @@ newduba.cn###jq_youxi
 ||jdpbpd.icu^
 ||jkpzthxjt.com^
 ||wlemdl1yx.com^
+||xdyn03071jy.com^
+||rfk2ddbh9.com^
 ||0fs6pe6w0j.com^
 ||brb3mb25zg.com^
 ||89ga0evbha.com^
@@ -31499,6 +31501,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
 ||storage.googleapis.com/tm-frend-graffiti/
+||storage.googleapis.com/vs-scripts/intentiq/vsintentiq.js
 ||storage.syncmedia.io/libs/sm_capture_
 ||stormgate.production.raptive.com^
 ||stream-log.dditscdn.com^
@@ -35114,6 +35117,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||srv.plesk.com^
 ||ss.esade.edu^
 ||ss.photospecialist.co.uk^
+||ssl-images-amazon.com/images/I/21auWwkMYgL.js$domain=imdb.com
 ||sst.brodo.com^
 ||sst.bwt.com^
 ||sst.carwow.
