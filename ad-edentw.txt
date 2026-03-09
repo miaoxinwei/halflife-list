@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bm/xa9GMLA5V+3iis++3mA
+! Checksum: J5BPSOdmWYVn2LZjelcSKQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202603071004
-! Last Modified: 2026年03月07日 10:04
+! Version: 202603092107
+! Last Modified: 2026年03月09日 21:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -350,7 +350,7 @@ www.seznam.cz#$#cookie-remover pubmatic
 www.seznam.cz#$#cookie-remover adform
 www.seznam.cz#$#override-property-read sssp emptyObj
 www.seznam.cz#$#replace-fetch-response '/adType/' {}; hide-if-matches-xpath '//a[@rel][contains(translate(translate(text(), "ĂÂÎȘȚăâîșțR̆", "AAISTaaistR"), "REKLAMA", "reklama"), "reklama")][contains(@class,"color-neutral-2")]/parent::div/parent::div/parent::div/parent::div[@style][1]'
-! CV-3922
+! #CV-3922
 www.idnes.cz#$#override-property-read Unidata.reklama false
 www.idnes.cz#$#abort-on-property-write Object.prototype.Branding
 www.idnes.cz#$#abort-on-property-write Storage.data.evilad05
@@ -551,16 +551,16 @@ dlouha-videa.cz#$#abort-on-property-read _0x4c29
 ajaxshowtime.com#?#div:-abp-properties(content: "Advertentie";)
 ajaxshowtime.com##div.leaderboard_ad + div
 ! *** abp-filters-anti-cv:english.txt ***
-! CV-4235
+! #CV-4235
 testpages.eyeo.com#$#hide-if-contains 'filter not applied' p[id]
-! CV-3560
+! #CV-3560
 groceries.morrisons.com#$#hide-if-matches-xpath './/div[@data-test="products-page"]//*[starts-with(@data-test, "fop-wrapper")]/div[.//*[contains(text(), "Sponsored")] or @class="outer-header-container" and ./span[@data-test="breadcrumb-text"][contains(text(), "Featured")]]'
-! CV-3613
+! #CV-3613
 threenow.co.nz#$#override-property-read Object.prototype.adConfigId undefined; json-prune 'ad_keys cue_points' 'account_id sources';
-! CV-3435
+! #CV-3435
 marketwatch.com,wsj.com#$#abort-on-property-write window.__buildAd;
 marketwatch.com#$#hide-if-contains-visible-text /Advertisement/ 'div[class^="container"]' 'div>span'
-! CV-1364
+! #CV-1364
 ||html-load.com^$script,xmlhttprequest,domain=convertcase.net|manta.com|wfmz.com|golf-live.at|eurointegration.com.ua|sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|winfuture.de|dictionary.cambridge.org|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|gutefrage.net|tz.de
 ||error-report.com^$domain=sourceforge.net|bab.la|pons.com|loawa.com|gazetaprawna.pl|malaymail.com|tz.de|winfuture.de|gutefrage.net|dictionary.cambridge.org|huffpost.com|collinsdictionary.com|sankei.com|timesofindia.indiatimes.com|picrew.me
 sourceforge.net,dictionary.cambridge.org,bab.la,loawa.com,gazetaprawna.pl,tz.de,winfuture.de,gutefrage.net,collinsdictionary.com#$#event-override message trusted /unfilled/; event-override visibilitychange disable;
@@ -1823,7 +1823,7 @@ e.mail.ru#$#array-override push /adv-content|slot/
 kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 ! #CV-685
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
-! CV-715
+! #CV-715
 informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 ! #CV-716
 kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,agroter.com.ua,apnews.com.ua,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dv-gazeta.info,dyvys.info,economistua.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,promin.cv.ua,mistosumy.com,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.com,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wona.com.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
@@ -1907,7 +1907,7 @@ phimhdplus.com#$#json-prune ads; abort-current-inline-script setTimeout click_ti
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 tusachmanga99.com#$#abort-current-inline-script $ window.open
-motchillk.vip#$#abort-on-property-read sessionStorage
+motchillk.soy#$#abort-on-property-read sessionStorage
 rk.plcdn.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abort-on-property-read ads; abort-on-property-read keyPlayer; abort-on-property-read adsPopupPlayer;
 hh3dhay.life,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
 cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn,afamily.vn,thanhnien.vn#$#override-property-read ADMStorageFileCDN noopFunc
@@ -1915,7 +1915,7 @@ cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn,afamily.vn,thanhnien.vn#$
 bongda365f.com#$#override-property-read isSkipAds true
 znews.vn#$#abort-on-property-read adtimaConfig
 baomoi.com#$#abort-on-property-write AdtimaRender
-xoilaczzlz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
+xoilaczznz.tv#$#override-property-read adsPlayer ''; override-property-read adsTvcs ''
 kenh14.vn#$#override-property-read Constants.allowAds false
 vndoc.com#$#override-property-read seconds 0
 phimvuihd.one#$#override-property-read urlAds ''
@@ -1923,7 +1923,7 @@ n.thapcam53.pro#$#simulate-mouse-event '#modalasd$continue,delay=300'
 xemphim.site,animet.org,motchillzz.site#$#override-property-read maxAds 0
 www.iosviet.com#$#override-property-read timer 0
 saigon24.net#$#abort-current-inline-script document.getElementById myModal
-xoilaczzlz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
+xoilaczznz.tv#$#hide-if-matches-xpath './/div[@id or @class]/p/a[@title]/ancestor-or-self::div[1]'
 www.diendancauduong.com#$#abort-on-property-read antiAdBlockerHandler
 xem16.net#$#json-prune props.children.[].props.tvc
 hh2d.tv#$#abort-current-inline-script $ adblock
@@ -1946,7 +1946,7 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 seltzerland.com#$#abort-on-property-read adsRedirectPopups
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad; abort-on-property-read pushOnPageGala
 sex.javnong.cc#$#abort-on-property-read Math.round
-viet69.ke,dualeotruyenky.com,yurineko.my,lauxanh9x.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xem.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,viet69.ke,goctruyentranhvui19.com,viet69vn.at#$#abort-current-inline-script WebAssembly instantiate
+viet69.ke,dualeotruyenky.com,yurineko.my,kopekilani.net,cliphot69.shop,doctruyen3qhubs.com,ihentai.network,chuyentiepanimehay.one,hentaivc.blog,streamvl.top,buomtv.media,truyenvn.shop,javtiful.com,quatvn.my,phimsexhayvn96.com,phim18hdxx.com,vn6.sexviet88.xyz,demo.14412882.com,xx.phimnung3x.pro,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenz.org,damconuong.city,truyenqqno.com,clipsexsub3x.net,sayhentai.vc,motphim.pokemonviet.com,lxmanga.space,phimlongtieng.net,newtruyentranh7.com,www.sieutamphim.pro,vevocloud.com,sex.xinh3x.me,sexviet88.xyz,goctruyentranhvui19.com,viet69vn.at,misskon.com#$#abort-current-inline-script WebAssembly instantiate
 www.motchill49.com,teamlanhlung8.shop,xemphimjav.xyz#$#abort-on-property-read localStorage
 xnhau.hot#$#prevent-listener click /acquirecardedsullen|POPUNDER_INTERVAL|lastPopunderTime/; abort-current-inline-script document.addEventListener lastPopunderTime;
 hh3dhay.life,tram3d.online,animevietsub.how#$#abort-current-inline-script eval $._Eu
@@ -1971,12 +1971,12 @@ rophim.moe,motphimww.biz#$#abort-current-inline-script addEvent popu
 freeplayervideo.com,abysscdn.com,player-cdn.com,playhydrax.com,www.bachnguyetquang.online#$#override-property-read open noopFunc
 freeplayervideo.com,abysscdn.com,player-cdn.com,playhydrax.com#$#abort-current-inline-script document.getElementById openPop
 nettruyenar.com#$#abort-on-property-read links
-sextop1.dad,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
+sextop1.uno,hhvsub1.com#$#abort-current-inline-script WebAssembly globalThis
 hh3dhay.*#$#abort-current-inline-script Symbol /break|case/
 gocmod.com#$#abort-current-inline-script jQuery popup
 animevietsub9.com#$#abort-on-property-read _0x3f9b
 www.motchill49.com,trumtruyen.xyz#$#abort-current-inline-script setTimeout Aff
-xem.phimnung3x.pro#$#abort-on-property-read Cookies
+xx.phimnung3x.pro#$#abort-on-property-read Cookies
 childish2x1.fun,childish2x2.fun,tekora.space,lottedira.store,tekora.fun#$#abort-current-inline-script $ aff
 javhd.shop#$#abort-current-inline-script document.addEventListener Click
 ios.codevn.net#$#abort-current-inline-script jQuery Popup
@@ -1994,10 +1994,10 @@ audiotruyenfull.com#$#abort-current-inline-script setTimeout Aff
 pheclip.love,phim18vip.top,sieudam.sh#$#abort-current-inline-script $ pop
 vozer.io#$#abort-current-inline-script document.addEventListener atob
 thiendia1.vip#$#abort-current-inline-script document.addEventListener adState
-xoilaczzlz.tv#$#abort-current-inline-script jQuery open
-phimmoii.nl,sendpage.org,onflix.me,sendpage.org#$#prevent-listener click ads
+xoilaczznz.tv#$#abort-current-inline-script jQuery open
+phimmoii.nl,motchillzr.sh,onflix.me#$#prevent-listener click ads
 www.asu.baby#$#abort-on-property-read initialAdURLs
-elkiosko.online#$#abort-current-inline-script window.addEventListener Ads
+ostriacapri.com#$#abort-current-inline-script window.addEventListener Ads
 cap3.store#$#prevent-listener click /setTimeout|e\.target/; prevent-listener click d .art-control-fullscreen; prevent-listener fullscreenchange e.target;
 ! *** abp-filters-anti-cv:RM.txt ***
 ! #RM-1
@@ -2486,6 +2486,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||chivwtusseh.com^
 ||closishcool.com^
 ||cloudscape84.net^
+||cluinglwo.qpon^
 ||coateebyth.com^
 ||coesitecubbing.com^
 ||colordownbye.com^
@@ -2681,6 +2682,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||oxyacidalogia.com^
 ||pantomimemailman.com^
 ||papaneecorche.com^
+||pawnsrewagerandrea.qpon^
 ||perksburian.com^
 ||persinners.com^
 ||pilleustrig.com^
@@ -2715,6 +2717,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||sansaradivulse.com^
 ||scalarsmartfoundationindustries.com^
 ||scandiakenyan.com^
+||scarcehepatitis.com^
 ||schizypdq.com^
 ||scrivencaccias.com^
 ||seamylygeum.com^
@@ -2763,6 +2766,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||tiarajustina.com^
 ||tibiaescourer.com^
 ||tiepinshazings.com^
+||tinkledtertium.com^
 ||tinnerydunging.com^
 ||togaefaffy.com^
 ||tollboagane.com^
