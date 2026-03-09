@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CRQwiLD/1LvhqGAYyqrLdg
+! Checksum: ID0VPN9TAfwxHm2t4TpPug
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202603090236
-! Last Modified: 2026年03月09日 02:36
+! Version: 202603091023
+! Last Modified: 2026年03月09日 10:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1894,6 +1894,7 @@ newduba.cn###jq_youxi
 ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 ##td[id^="td_"] > a[href^="/htmm/"]
+##.floating-ad
 !----------------------------------Ads-Union----------------------------------!
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
@@ -1916,6 +1917,18 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||3hg6yh6h0.com^
+||nb5a7g5r1.com^
+||pztnzqwz.icu^
+||c3mldou51.com^
+||zfru.cn^
+||lkpjbr.icu^
+||nwholf.icu^
+||xdyn03090jy.com^
+||eghaailr.com^
+||bonehead49.top^
+||72qv9fhgm.com^
+||ohdaqtkuvnt.in^
 ||drudgery89.com^
 ||wkjwumtex3.com^
 ||n1yy6blznk.com^
@@ -10965,6 +10978,7 @@ meijutt.*/js/pcjs/
 ||thjfcs.cn/hc237/uploads/default/other/2025-12-10/81a0f876800ea81616864d841f102ef4.
 ||bad.news/scripts?
 ||gliacloud.com^$domain=thisiscm.com
+||cilipa.com^*0.js
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 novel543.com,thisiscm.com##.gadBlock
