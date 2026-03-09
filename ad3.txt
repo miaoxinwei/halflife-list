@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Z81Ud83OrUyFztcRcEUipg
+! Checksum: 2vgTfPAOxt6eNrmy0c0sJA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603091023
-! Last Modified: 2026年03月09日 10:23
+! Version: 202603091503
+! Last Modified: 2026年03月09日 15:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1929,6 +1929,10 @@ newduba.cn###jq_youxi
 ||bonehead49.top^
 ||72qv9fhgm.com^
 ||ohdaqtkuvnt.in^
+||hnveehmeh.com^
+||dnnxq2b16.com^
+||vhk1icmps.com^
+||xdyn03091jy.com^
 ||drudgery89.com^
 ||wkjwumtex3.com^
 ||n1yy6blznk.com^
@@ -22978,7 +22982,6 @@ m.babytree.com##script + a[class]
 /logger.ashx?
 /logger.dll/*
 /logger/?referer=
-/logging/ClientEvent
 /logging/log.do
 /logging/logjs
 /logging/pageView
@@ -29742,6 +29745,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdns.brsrvr.com^
 ||cdp.sph.com.sg/activation/activation.js
 ||ceros.com/a?data
+||cert.tryggehandel.net/ping
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.api.instant.one^
 ||cf.overblog.com^
@@ -74054,7 +74058,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||tm.regions.com/tags.js$~third-party
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
-@@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||tools.pinpoll.com^$script,subdocument,domain=iframely.net
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
@@ -74148,11 +74151,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! cxense.com/persisted/execute
 @@||cxense.com/persisted/execute$domain=nippon.com
 !! cxense.com/public/widget/
-@@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|rikejo.jp|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
+@@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cxpublic.com|cyclestyle.net|diamond.jp|friday.gold|friday.kodansha.co.jp|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|rikejo.jp|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
 !! cxense.com/cx.cce.js
-@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|inquirer.com|mainichi.jp|marketwatch.com|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tvnet.lv|wsj.com
+@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|diamond.jp|handelsblatt.com|inquirer.com|mainichi.jp|marketwatch.com|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tvnet.lv|wsj.com
 !! cxense.com/cx.js
-@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
+@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|businessinsider.jp|computerbild.de|cyclestyle.net|diamond.jp|handelsblatt.com|inquirer.com|journaldequebec.com|ksml.fi|mainichi.jp|marketwatch.com|nikkansports.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
 !! collector.appconsent.io
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 !! imrworldwide.com/*ggc
