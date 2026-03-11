@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vsQ1aOhYbUHiW5Ph/Y9qsg
+! Checksum: jbGUGBMlSDCF/5FCyfMDHw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202603110252
-! Last Modified: 2026年03月11日 02:52
+! Version: 202603111007
+! Last Modified: 2026年03月11日 10:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1865,7 +1865,6 @@ newduba.cn###jq_youxi
 ##.video-ad-item
 ##.ceo_ads
 ##.yalayi_box
-##.uk-container.uk-container-expand
 ###side_promo.bc_dp
 ###fucku.col-md-8
 ###index_banner[src*=".imgdd.com"]
@@ -1917,6 +1916,21 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||i12het785.com^
+||ryd626moj.com^
+||z0rto0758.com^
+||xscp03110xq.com^
+||mapbbqy.com^
+||ctirhpp.com^
+||fagmiethe.com^
+||nnuc.cn^
+||stringent19.com^
+||jpzbjh.icu^
+||xdyn03110jy.com^
+||pdhwzl.icu^
+##a[href*="/lesi151.cc"]
+##a[href*="/lesi198.com"]
+||i6nnwepgm.com^
 ||0wk6gdkg8r.com^
 ||j5sgdum5n4.com^
 ||lzdjxp.icu^
@@ -11006,8 +11020,10 @@ meijutt.*/js/pcjs/
 ||gliacloud.com^$domain=thisiscm.com
 ||cilipa.com^*0.js
 ||ttks.tw/js/otherad.
+||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+vpstop.cn##a[href*="/ClickAd"]
 joyacg.top##a[href^="http"] > .img-fluid
 ttks.tw##.txtcenter
 novel543.com,thisiscm.com##.gadBlock
@@ -19706,6 +19722,7 @@ _box_ad_
 ! CJX's Annoyance List
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
+/npm/disable-devtool
 /bbs/include/javascript/adblock.
 /template/bingfeng/statics/js/pingbi.js
 -bobo_recommend_
