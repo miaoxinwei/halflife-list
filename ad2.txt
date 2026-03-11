@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tOtBMb8sPd2kIRW3v9eORA
+! Checksum: x/gqvt3XHIE2srM8rfQRjA
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202603111456
-! Last Modified: 2026年03月11日 14:56
+! Version: 202603112103
+! Last Modified: 2026年03月11日 21:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -649,10 +649,6 @@ stgowan.com
 /lapi/sign/phonegameapi/getinfo
 /lapi/sign/signapi/getinfo
 /lapi/sign/web/getinfo
-/lenovo/2021/all*.js
-/lenovo/pc/all*.js
-/lenovo/pc/piaofu2.js
-/lenovo/pc/top.js
 /letv-gug/*
 /live173/640320_
 /live173_*/46860.
@@ -1935,6 +1931,10 @@ newduba.cn###jq_youxi
 ||xdyn03111jy.com^
 ||2ztav5r7r.com^
 ||6knlhnjfv.com^
+||ojg8sflgl.com^
+||fbraaphra.com^
+||wlgjz02mo.com^
+||gtmajs.click^
 ||0wk6gdkg8r.com^
 ||j5sgdum5n4.com^
 ||lzdjxp.icu^
@@ -11025,6 +11025,7 @@ meijutt.*/js/pcjs/
 ||cilipa.com^*0.js
 ||ttks.tw/js/otherad.
 ||*.mp4$rewrite=abp-resource:blank-mp3,domain=huavod.com
+||pan0304.com/ads.
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
 vpstop.cn##a[href*="/ClickAd"]
@@ -11039,7 +11040,8 @@ iplark.com##div[style="position: relative;"]
 cngold.org#?#.w310:-abp-has(>.swiper-company)
 cngold.org##.headCompanys
 cngold.org##.mainRight > .border_top:first-child
-ping0.cc##.myeles
+ping0.cc##.xxeles
+ping0.cc###adxright
 cngold.org##.foot_megagame
 cngold.org##.fixed_jt
 hanime1.me#?#div[style*="text-align:"]:-abp-has(>div[style*="color: white"])
@@ -17180,7 +17182,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||mm.maxthon.cn/ad/
 @@||mmaa99.xyz^$generichide
 @@||mmee04.com^$generichide
-@@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
 @@||mmuu22.link^$generichide
 @@||mmy.la^*300*250
