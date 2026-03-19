@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6jfLxvEpInlsO2TRcqswAw
+! Checksum: M4qtblM3lVOPt2W8EqVYBA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603190302
-! Last Modified: 2026年03月19日 03:02
+! Version: 202603191027
+! Last Modified: 2026年03月19日 10:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||dvjxk947e.com^
+||kqg8jh8rk.com^
+||radexh.icu^
+||expediency36.com^
+||gvodieta.com^
+||acgbryg.com^
 ||kvxc7buwv3.com^
 ||z9sab7vr0b.com^
 ||ynkunarlg.com^
@@ -11116,6 +11122,7 @@ meijutt.*/js/pcjs/
 ||mwka.cc/static/gg.
 !------------------------Specific element hiding rules------------------------!
 zhihu.com##.Pc-word-new
+baidu.com##div[data-key^="ad__"]
 4hu.tv##.kkm-content
 vpstop.cn##a[href*="/ClickAd"]
 joyacg.top##a[href^="http"] > .img-fluid
@@ -15787,6 +15794,7 @@ editcode.net,itboth.com,itkeyword.com,ruyo.net,zhanzhangb.com##a[href*="cloud.te
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"]
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"] + .bili-video-card__info
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"])
+bilibili.com##.recommended-swipe .carousel-footer-title > a[href^="http"]:not([href*=".bilibili.com/"])
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"]) + .bili-video-card__info
 china.com.cn##a[href*="dwz.cn"]
 tiexue.net##a[href*="game.tiexue."]
@@ -25162,6 +25170,7 @@ omni.soundestlink.com$image
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
+||emrld.cc^
 ||entail-insights.com^
 ||enterombacerick.com^
 ||enthusiastgaming.net^
@@ -73870,7 +73879,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||addthis.com/js/*/addthis_widget.js$script,domain=stagecoachbus.com
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
-@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
+@@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com|westjet.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/launch-$script,xmlhttprequest
 @@||adobedtm.com^*/s-code-$script
