@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ygb1Rfdw/4+jJOv1xJ0WZg
+! Checksum: +UvQaiZITfCz1vYekznpqQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603210252
-! Last Modified: 2026年03月21日 02:52
+! Version: 202603211007
+! Last Modified: 2026年03月21日 10:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1912,6 +1912,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||7s8z7w24u.com^
+||d2c1htpgj.com^
+||hhba03210kdh.com^
+||sandbank56.com^
+||ejiwvof.icu^
+||ngvrtj.icu^
+||vnlozunyvl.com^
 ||ygx2myq993.com^
 ||zfpn7ef472.com^
 ||vx2tbw9xin.com^
@@ -23257,6 +23264,7 @@ m.babytree.com##script + a[class]
 /mpulse.min.js
 /ms-widgets/tracking-cookies/*
 /ms.analytics-web-3.min.js
+/msq.tracker.min.js
 /mtc.js
 /mtifonttracker.js
 /mtiFontTrackingCode.js
@@ -23354,6 +23362,7 @@ m.babytree.com##script + a[class]
 /oval_web_analytics_latest.js
 /owa.Analytics.m.js
 /owa.tracker-combined-min.js
+/owa.tracker.js
 /oxAnalytics.js
 /p.gif?
 /p/tm.js?
@@ -24456,6 +24465,7 @@ m.babytree.com##script + a[class]
 /whisper?event=
 /white_pixel.gif?
 /wildfire/i/CIMP.gif?
+/wix-code-telemetry-collector/*
 /wix-engage-visitors-
 /wlexpert_tracker.js
 /wmxtracker.js
@@ -26583,6 +26593,7 @@ omni.soundestlink.com$image
 ||ibpxl.net^$third-party
 ||ic-live.com^$third-party
 ||iclive.com^$third-party
+||icreate-campaign.com^$third-party
 ||icstats.nl^$third-party
 ||iculture.report^$third-party
 ||id-visitors.com^$third-party
@@ -28076,6 +28087,7 @@ omni.soundestlink.com$image
 ||zesep.com^$third-party
 ||zeustechnology.com^$third-party
 ||zoomanalytics.co^$third-party
+||zoomengage.com^$third-party
 ||zoomino.com^$third-party
 ||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
@@ -34983,6 +34995,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nid.thetimes.com^
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
+||nixie.starlightnet.work^
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
@@ -35515,6 +35528,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
+||tags-event.woolworths.co.nz^
 ||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.johnlewis.com^
