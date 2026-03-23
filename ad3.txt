@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: f74g1ea9cr3HUYMiZ6Qm9w
+! Checksum: oAvy4QjEnxsyJi/HXsSqyA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603230239
-! Last Modified: 2026年03月23日 02:39
+! Version: 202603231028
+! Last Modified: 2026年03月23日 10:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,10 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||z84dbowgc.com^
+||3x1ry6we9.com^
+||hhba03230kdh.com^
+||profitablecpmratenetwork.com^
 ||fh0og4jhs0.com^
 ||fqthetotf.com^
 ||93txjw4rt2.com^
@@ -29785,6 +29789,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||baidu.com/push.js
 ||bamgrid.com/dust$domain=~disneyplus.com
 ||bamgrid.com/telemetry
+||banner.appsflyersdk.com^
 ||baqend.com/v1/rum/
 ||barium.cheezdev.com^
 ||basis.net/assets/up.js
@@ -30508,6 +30513,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||futurecdn.net^*/abp.js
 ||futurehybrid.tech^$third-party
 ||futureplc.com/push_metrics/
+||fvalid.appsflyersdk.com^
 ||fw.tv/embed/impressions
 ||g.msn.com^
 ||g2insights-cdn.azureedge.net^
@@ -31141,6 +31147,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ondigitalocean.app/insight-analytics.js
 ||one.store/v1/analytics/
 ||onecount.net/onecount/oc_track/
+||onelinksmartscript.appsflyersdk.com^
 ||onescreen.net/os/static/pixels/
 ||onesignal.com/api/v*/apps/
 ||onesignal.com/api/v1/sync/
@@ -32249,6 +32256,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vwdealerdigital.com/cdn/sd.js
 ||w3track.com/newtrk/$third-party
 ||w4o7aea80ss3-a.akamaihd.net^
+||wa.appsflyersdk.com^
 ||wallkit.net^*/user/event
 ||wantlive.com/pixel/
 ||warnermedia.com/api/v1/events?
@@ -32269,6 +32277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webgames.io/imp/
 ||webmasters.ksalsocial.online/pixel/
 ||websdk.appsflyer.com^
+||websdk.appsflyersdk.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||websuccess-data.com/tracker.js
@@ -34622,6 +34631,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||grabify.link/api/js
 ||graylog.prod.cams.run^
 ||grgnsht.nzxt.com^
+||grok.com/_data/v1/a/
+||grok.com/_data/v1/events
+||grok.com/_data/v1/experiment/exposure
+||grok.com/api/log_metric
 ||grokipedia.com/api/analytics
 ||grokipedia.com/api/ev
 ||grokipedia.com/api/stats
