@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: oAvy4QjEnxsyJi/HXsSqyA
+! Checksum: bQkPMX2X9rnW+LCDjWOVrg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603231028
-! Last Modified: 2026年03月23日 10:28
+! Version: 202603231512
+! Last Modified: 2026年03月23日 15:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1917,6 +1917,8 @@ newduba.cn###jq_youxi
 ||3x1ry6we9.com^
 ||hhba03230kdh.com^
 ||profitablecpmratenetwork.com^
+||7r4jkbpol.com^
+||cvpl9qbz6.com^
 ||fh0og4jhs0.com^
 ||fqthetotf.com^
 ||93txjw4rt2.com^
@@ -22211,6 +22213,7 @@ m.babytree.com##script + a[class]
 /boomerang.js
 /boomerang/beacon
 /boomr.js
+/boost-pfs-analytics-custom.js
 /boost-sd-analytic.js
 /boost_stats.php
 /bootstrap/metrics.js
@@ -23199,6 +23202,7 @@ m.babytree.com##script + a[class]
 /logviewedpage?
 /ls.gif?
 /lst/universal-script?ph=
+/lti-analytics-$script
 /lunametrics-
 /m.gif?
 /madAnalytics.js
@@ -28964,6 +28968,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2-apps.net^$third-party
 ||d2c.ne.jp^$third-party
 ||dbfocus.jp^$third-party
+||dc-tag.jp^$third-party
 ||deteql.net^$third-party
 ||dmtag.jp^$third-party
 ||docodoco.jp^$third-party
@@ -31811,6 +31816,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.id.net/log
 ||t.irtyc.com^
 ||t.jobsyn.org^
+||t.ltiquery.com^
 ||t.mail.sony-europe.com/r/?
 ||t.menepe.com^
 ||t.metrilo.com^
@@ -35058,6 +35064,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||online-umwandeln.de/analytics.js
 ||online.marketing/a.js
 ||ontraport.com/opt_assets/static/js/logging.js
+||op.dragonfru.it^
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||oppo.com/api/country
@@ -73770,6 +73777,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||top.mail.ru/tc?js
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
+||traces.youdo.com^
 ||trk.mail.ru^$image,script
 ||umschool.net/_jts/api/s/track
 ||vedomosti.ru/boom?
