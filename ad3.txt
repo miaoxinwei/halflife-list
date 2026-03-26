@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DvyEm5sduf13n1j0rhDG7w
+! Checksum: dthZ7ljW02NitAyC+TcOPQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603261032
-! Last Modified: 2026年03月26日 10:32
+! Version: 202603261511
+! Last Modified: 2026年03月26日 15:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1922,6 +1922,10 @@ newduba.cn###jq_youxi
 ||estuary98.top^
 ||pbuuzazvrw.com^
 ||cnaiuks.icu^
+||gf6axe5bdb.com^
+||ynpkjip43x.com^
+||ujfyzxfc01.com^
+||qirloith.com^
 ||00k456wyh.com^
 ||s3bltexcm.com^
 ||ptzxed507.com^
@@ -23885,6 +23889,7 @@ m.babytree.com##script + a[class]
 /sf-recommendations-events-listener.js
 /sfCounter/*
 /sfdc/networktracking.js
+/sftouch?branchId=
 /sgtracker.js
 /shared/sentry/*
 /sherlock.gif?
@@ -29978,6 +29983,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-channels-pixel.ex.co^
 ||cdn-ds.com/analytics/
 ||cdn-eu.usefathom.com^
+||cdn-js.xyz/code?
 ||cdn-staging.delivr.ai/pixels/
 ||cdn.9gtb.com^
 ||cdn.app.cfigroup.com/webmon/$script
@@ -32293,10 +32299,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vissle.me/track/
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
+||visualwebsiteoptimizer.com*/ee.gif
 ||visualwebsiteoptimizer.com/analysis/
 ||visualwebsiteoptimizer.com/cdn/analysis/
 ||visualwebsiteoptimizer.com/dyn
-||visualwebsiteoptimizer.com/ee.gif?
 ||visualwebsiteoptimizer.com/events/t?
 ||visualwebsiteoptimizer.com/gv.gif?
 ||visualwebsiteoptimizer.com/server-side/track-user?
@@ -33865,6 +33871,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.ticimax.cloud^
 ||analytics.turk.pro^$third-party
 ||app.kulgacdn.com/js/script.js
+||apps.ihlasdigitalassets.com/stats
 ||c.keltis.com^
 ||collector.wawlabs.com^
 ||core.dehapi.com/ip.php
