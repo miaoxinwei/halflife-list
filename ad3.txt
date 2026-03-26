@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NsWZHGHcuW9R8u6DOvZNNg
+! Checksum: 8jPNoKfb3ibHEYICNWQlPw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603262119
-! Last Modified: 2026年03月26日 21:19
+! Version: 202603270308
+! Last Modified: 2026年03月27日 03:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23718,6 +23718,7 @@ m.babytree.com##script + a[class]
 /RcAnalyticsEvents.js
 /rcAnalyticsLib.js
 /rd-js-integration.min.js
+/rdtracker/rdtracker.min.js
 /readReceipt/notify/?img=$image
 /readthedocs-analytics.js
 /realtimeapi/impression?
@@ -27017,6 +27018,7 @@ omni.soundestlink.com$image
 ||minewhat.com^$third-party
 ||minkatu.com^$third-party
 ||mirabelsmarketingmanager.com^$third-party
+||mirakl.net^$third-party
 ||mixi.mn^$third-party
 ||mixpanel.com^$third-party
 ||mkt3261.com^$third-party
@@ -34683,6 +34685,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
+||givefreely.com/ingest/
 ||glassdoor.*/geb/events/
 ||glassmoni.researchgate.net^
 ||global.canon/00cmn/js/*/analytics-
@@ -35508,6 +35511,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stapewithadblock.xyz/stat/
 ||starfiles.co/analytics.php
 ||startpage.com/sp/$ping
+||startpage.com/sp/atq/ep2/sodar/sodar2.js
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
 ||starzplay.com/resources/js/analytics.js
@@ -73260,7 +73264,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||adat.travelo.hu^
 ||adat.veol.hu^
 ||adat.videa.hu^
+||arukereso.hu/*.impression?tt=
 ||beam.telex.hu^
+||checkout.arukereso.hu^$ping
 ||events.ingatlan.com^
 ||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
