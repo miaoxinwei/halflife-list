@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OeQuE8n52YBMDc4xTBIOIw
+! Checksum: fmj6RoAQd+IYTm02ZHpIGw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202603312122
-! Last Modified: 2026年03月31日 21:22
+! Version: 202604010303
+! Last Modified: 2026年04月01日 03:03
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -16928,7 +16928,6 @@ eprice.com.hk#@#.one-ad
 weiyun.com#@#.page-ad
 chinatimes.com#@#.page_ad
 xpiaotian.net#@#.pagead
-wnacg.com#@#.pcgg
 fjsen.com,nuomi.com#@#.right-ad
 perfectmatch.tw#@#.right_ad
 360zbz.com#@#.rightad
@@ -19220,6 +19219,7 @@ webkaka.com##td[id$="_SPONSOR"]
 ||webkaka.com/script/cp.js
 ||webkaka.com^*x50.
 !#wnacg.com
+wnacg.com#@#.pcgg
 wnacg.com#@##adsbox
 wnacg.com#@#.Flagrow-Ads-under-header
 wnacg.com#@#.RMss1
@@ -19232,6 +19232,7 @@ wnacg.com#@#.google-ads
 wnacg.com#@#.hlol_ad
 wnacg.com#@#.pcd_ad
 ##a[href*=".labsda.com"] > img[src^="/game/20"]
+||wnacg.com/game/$image,rewrite=abp-resource:1x1-transparent-gif,domain=wnacg.com
 !#W
 !#x
 !#Y
@@ -25095,6 +25096,7 @@ _WebVitalsReporter_
 /go.news.fly.io/e/o/*$image
 /gp/r.html?$image
 /gridinbound.blob.core.
+/ho.php?t=$image
 /i?aid=*&se_ac=open&$image
 /image.info.jr-odekake.net/lib/*$image
 /impression?mkevt=
@@ -25566,6 +25568,7 @@ omni.soundestlink.com$image
 ||procroanalytics.com^
 ||proftrafficcounter.com^
 ||progmxs.com^
+||protechts.net^
 ||purple-hit.com^
 ||pushvisit.xyz^
 ||pxlstat.com^
@@ -35388,6 +35391,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rabbit.donald.cat^
 ||raenonx.cc/api/tag
 ||raenonx.cc/g/usage/
+||rainbet.com/api/ping
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/px
