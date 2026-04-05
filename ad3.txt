@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ekOkxca9969KwtZ7HG8jtQ
+! Checksum: vdd7EWwgLcwfKdBAWnEhsA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604050245
-! Last Modified: 2026年04月05日 02:45
+! Version: 202604051039
+! Last Modified: 2026年04月05日 10:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||bj9zvb5ih.com^
+||d5zkrmttu.com^
+||rzrnpx.icu^
+||jyiwnb82b.com^
+||fzu7rg.site^
+||tljsxt.icu^
+||legislator85.top^
 ||twvsdn.icu^
 ||nwtg5ywz2j.com^
 ||1hotu9uyll.com^
@@ -32663,6 +32670,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
+||d2o9p5vky89u4e.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2pozfvrp52dk4.cloudfront.net^
 ||d2pt12ct4kmq21.cloudfront.net^
@@ -34374,6 +34382,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cbc.ca/g/stats/
 ||cc.cc/visit_log_ajax/visit_log_save_ajax.php?
 ||cdapi.collegedunia.com^
+||cdn.eaec.fpfis.tech.ec.europa.eu^
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdp.vercel.com/rs/
