@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 74E27Q5syJ4jRufwFlk1Zg
+! Checksum: NH2axxjvff16ZGW+shCmHw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202604091030
-! Last Modified: 2026年04月09日 10:30
+! Version: 202604091525
+! Last Modified: 2026年04月09日 15:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2364,12 +2364,14 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||rf23ecvf4.com^
 ||zwbngpnpa.com^
-||wubizigeng.com^
 ||zlbnjb.icu^
 ||txtvrp.icu^
 ||jwt18trhq.com^
 ||overflow33.com^
 ||vtrelphail.com^
+||5vszw5ab2.com^
+||q6iw41lkk.com^
+||gspwpr0ox.com^
 ||ry7icaih0p.com^
 ||ylr1xn2b4i.com^
 ||tvfvxr.icu^
@@ -6586,7 +6588,6 @@ newduba.cn###jq_youxi
 ||qpqp05100oki.com^
 ||rdut.cn^
 ||sdwrghcv.top^
-||wubizigeng.com^
 ||fktaxk.top^
 ||mppanittie.com^
 ||unwucnt.top^
@@ -7158,6 +7159,7 @@ newduba.cn###jq_youxi
 ||zlgame.top^
 ||zlongad.com^$third-party
 !long-term
+||wubizigeng.com^
 ||xxsmad7.com^
 ||ra10.xyz^
 ||tu1500919341.cc^
@@ -11845,6 +11847,7 @@ meijutt.*/js/pcjs/
 ||mwka.cc/static/gg.
 !------------------------Specific element hiding rules------------------------!
 qq.com##.qzone-carousel-ad
+m.mydrivers.com##.news_content + div > a:first-child
 madou.com###videoPauseBox
 madou.com##a[ref="nofollow sponsored"]
 madou.com##.top-and-banners
