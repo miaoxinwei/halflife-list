@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 47bcaN9wxFvNwKH2U8a4JQ
+! Checksum: 2oq5Rq38z/bdF6GaykJ5Fg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604121516
-! Last Modified: 2026年04月12日 15:16
+! Version: 202604130252
+! Last Modified: 2026年04月13日 02:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -72301,6 +72301,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||chartsurfer.de/js/mtm.js
 ||chartsurfer.de/uscoll.php?
 ||chefkoch-cdn.de/agf/agf.js
+||chefkoch-cdn.de/search/tracking/
 ||chefkoch.de/search/tracking/
 ||chefkoch.de/tracking/
 ||cinestar.de/collect/
