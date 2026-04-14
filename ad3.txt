@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JvftevvMpzbflqNnt/UEKQ
+! Checksum: jJZxHupK1zWcqvj3vPv1Pg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604142144
-! Last Modified: 2026年04月14日 21:44
+! Version: 202604150318
+! Last Modified: 2026年04月15日 03:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -19277,7 +19277,7 @@ niuyankan.top###content > a
 ||uaa.com/js/dxj.
 uaa.com##.popup_dialog_box
 wss://*.com:29*/$third-party
-wss://*.com:800*/$third-party
+wss://*.com:800*/$third-party,domain=~survev.io
 ##.row.nav-bottom + div[style^="display: block; position: relative; width: 0px; height:"]
 ##a[href*="aHR0cHM6Ly9xc2Z2bDExLmFsYXp2LmNvbS8zNzA4Lmh0bWw="]
 ||lzbao.net/syster.
@@ -27277,7 +27277,6 @@ omni.soundestlink.com$image
 ||metarouter.io^$third-party
 ||meteorsolutions.com^$third-party
 ||metricode.com^$third-party
-||metricool.com^$third-party
 ||metrics0.com^$third-party
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
@@ -32367,6 +32366,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.metricool.com^
 ||tracker.mrpfd.com^
 ||tracker.myth.dev^
 ||tracker.myyschool.xyz^
