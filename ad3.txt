@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yJuh8d1yTIJgmcLoBMjerw
+! Checksum: nZHwQYj/9Q9mdSM6Ekzz8Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604172122
-! Last Modified: 2026年04月17日 21:22
+! Version: 202604180302
+! Last Modified: 2026年04月18日 03:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -11504,6 +11504,7 @@ meijutt.*/js/pcjs/
 ||okokserver.com/uploads/lesi/
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
+2345.com##.part-banner
 qq.com##.qzone-carousel-ad
 m.mydrivers.com##.news_content + div > a:first-child
 madou.com###videoPauseBox
@@ -17368,7 +17369,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||ads.cdn.tvb.com^*.key
 @@||ads.lingxing.com^$~third-party
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
-@@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.tiktok.com^$generichide
 @@||ads.tiktok.com^$~third-party
 @@||adsense.woso.cn^$~third-party
@@ -17688,7 +17688,6 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||ms332.com^$generichide
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
-@@||myqqjd.com^$generichide
 @@||nceea.cn/Content/images/ad/
 @@||netded.com/plus/ad_js.php?aid=3|
 @@||netflav.com^$generichide
@@ -17719,7 +17718,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -25473,6 +25472,7 @@ omni.soundestlink.com$image
 ||adcontroll.com^
 ||aditude.cloud^
 ||admaxium.com^
+||admediasales.com^
 ||admetrics.events^
 ||adnext.co^
 ||adrsbl.io^
@@ -25482,6 +25482,7 @@ omni.soundestlink.com$image
 ||adspsp.com^
 ||adstk.io^
 ||adultium.com^
+||advertease.store^
 ||afrdtech.com^
 ||aftership-pixel.com^
 ||aggle.net^
@@ -25502,6 +25503,7 @@ omni.soundestlink.com$image
 ||aseads.com^
 ||astarsbuilding.com^
 ||atmtd.com^
+||audiencetrk.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
@@ -25554,6 +25556,7 @@ omni.soundestlink.com$image
 ||confiant-integrations.net^
 ||convead.io^
 ||convertlink.com^
+||coolretargeting.com^
 ||counter247.live^
 ||cpx.to^
 ||cr-relay.com^
@@ -25584,6 +25587,7 @@ omni.soundestlink.com$image
 ||dttrk.com^
 ||dwin1.com^
 ||dwin2.com^
+||e-ads.com^
 ||e1e.io^
 ||eagle-insight.com^
 ||ecn-ldr.de^
@@ -25727,6 +25731,7 @@ omni.soundestlink.com$image
 ||lmepbq.com^
 ||log.dance^
 ||logicanalytics.io^
+||logstracker.com^
 ||logtail.com^
 ||loopcybersec.com^
 ||lordofthesuperfrogs.com^
@@ -25736,6 +25741,7 @@ omni.soundestlink.com$image
 ||maggieeatstheangel.com^
 ||mapixl.com^
 ||markadver.com^
+||match2one.net^
 ||matheranalytics.com^
 ||mathilde-ads.com^
 ||matomo3.org^
@@ -25761,7 +25767,9 @@ omni.soundestlink.com$image
 ||monicaatron.com^
 ||mors22.com^
 ||motu-teamblue.services^
+||mpstech.space^
 ||mrpdata.net^
+||msfunction.online^
 ||mt48.net^
 ||mxradon.com^
 ||myangular.life^
@@ -25807,8 +25815,10 @@ omni.soundestlink.com$image
 ||proftrafficcounter.com^
 ||progmxs.com^
 ||protechts.net^
+||purcartz.com^
 ||purple-hit.com^
 ||pushvisit.xyz^
+||pxlnow.in^
 ||pxlstat.com^
 ||pzapi-ij.com^
 ||pzapi-kg.com^
@@ -25827,6 +25837,7 @@ omni.soundestlink.com$image
 ||rfpx1.com^
 ||rkdms.com^
 ||robotflowermobile.com^
+||rt-pixel.com^
 ||rtactivate.com^
 ||rtgvwr.com^
 ||rtmscl.com^
@@ -25846,6 +25857,7 @@ omni.soundestlink.com$image
 ||sgstats.com^
 ||shdid.me^
 ||shgcdn3.com^
+||shop-cart.app^
 ||site24x7rum.eu^
 ||sitecounter.site^
 ||sitedataprocessing.com^
@@ -25866,6 +25878,7 @@ omni.soundestlink.com$image
 ||srvgl.com^
 ||ssevt.com^
 ||stack-sonar.com^
+||stalkoda.com^
 ||stat.ovh^
 ||statisticplatform.com^
 ||statisticsplatform.com^
@@ -25889,6 +25902,7 @@ omni.soundestlink.com$image
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
+||trackier.com^
 ||tracking24.net^
 ||trakle01.online^
 ||transmapp.com^
@@ -26065,6 +26079,7 @@ omni.soundestlink.com$image
 ||adsave.co^$third-party
 ||adsensedetective.com^$third-party
 ||adsmatcher.com^$third-party
+||adssistem.com^$third-party
 ||adtarget.me^$third-party
 ||adtector.com^$third-party
 ||adtelligence.de^$third-party
@@ -26259,6 +26274,7 @@ omni.soundestlink.com$image
 ||best-top.de^$third-party
 ||bestcontactform.com^$~image,third-party
 ||betarget.com^$third-party
+||betsmart.media^$third-party
 ||bettermeter.com^$third-party
 ||beusable.net^$third-party
 ||bfoleyinteractive.com^$third-party
@@ -26968,6 +26984,7 @@ omni.soundestlink.com$image
 ||hotjar.io^$third-party
 ||hotlog.ru^$third-party
 ||hscta.net^$third-party
+||hubdigitalads.com^$third-party
 ||hubvisor.io^$third-party
 ||hum.works^$third-party
 ||humanclick.com^$third-party
@@ -27293,6 +27310,7 @@ omni.soundestlink.com$image
 ||media.net^$third-party
 ||media01.eu^$third-party
 ||mediaarmor.com^$third-party
+||mediaconvertly.com^$third-party
 ||mediaforgews.com^$third-party
 ||mediagauge.com^$third-party
 ||mediaglacier.com^$third-party
@@ -28399,6 +28417,7 @@ omni.soundestlink.com$image
 ||webtrendslive.com^$third-party
 ||webtuna.com^$third-party
 ||wecantrack.com^$third-party
+||wewomedia.com^$third-party
 ||wgsas.com^$third-party
 ||whale.camera^$third-party
 ||wheredoyoucomefrom.ovh^$third-party
@@ -29484,6 +29503,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trafficscanner.pl^$third-party
 ||way2traffic.com^$third-party
 ||ad5track.com^$third-party
+||afilio.com.br^$third-party
 ||bob-recs.com^$third-party
 ||btg360.com.br^$third-party
 ||clearsale.com.br^$third-party
@@ -29497,6 +29517,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||goadopt.io^$third-party
 ||hariken.co^$third-party
 ||lomadee.com^$third-party
+||mailinbox.com.br^$third-party
 ||marktest.pt^$third-party
 ||percycle.com^$third-party
 ||pmweb.com.br^$third-party
@@ -30291,6 +30312,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||castify-trk.playitviral.com^
 ||cbsaavideo.com/measurements/
 ||cbsivideo.com/measurements/
+||cbso.uk.net^
 ||cc.swiftype.com^
 ||cca-lite.coinbase.com/amp
 ||cca-lite.coinbase.com/metrics
@@ -30668,6 +30690,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
+||doubleclick.uk.net^
 ||drift.com/impressions/
 ||drift.com/targeting/evaluate_with_log
 ||drift.com/track
@@ -31867,6 +31890,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||roomvo.com/services/event/
 ||route.com/collect
 ||routeapp.io/route-analytics/
+||rp.mustreadnew.com^
 ||rs.sinajs.cn^
 ||rt.flix360.com^
 ||rtb.prod.carbonatixaudio.com^
@@ -32674,6 +32698,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||web1.51.la^
 ||webcare.byside.com/agent/usert_agent.php
 ||webedia.fr/js/gs.js
+||webevents.kayzen.io^
 ||webeyo.com/ipinfo
 ||webgames.io/imp/
 ||webmasters.ksalsocial.online/pixel/
@@ -74641,6 +74666,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||onenote.com^*/aria-web-telemetry
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
+@@||open.video/ezais/analytics?$~third-party
 @@||openfpcdn.io/botd/v1$script,domain=collinsdictionary.com
 @@||opex.xplan.iress.com.au/js/xiled/util/pageview.js$~third-party
 @@||optimove.net^$domain=app.touchnote.com
