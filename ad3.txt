@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +c2h4gwN9O/Dz4n7DZCd8g
+! Checksum: uDy2CeiVnHrXE1G90jS0oQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604201051
-! Last Modified: 2026年04月20日 10:51
+! Version: 202604201610
+! Last Modified: 2026年04月20日 16:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1923,6 +1923,10 @@ newduba.cn###jq_youxi
 ||tfgfgtm.com^
 ||treatment11.top^
 ||veldpj.icu^
+||hygiene86.com^
+||44ipavmq2n.com^
+||6b9wbbjf5s.com^
+||3f6e7oacgi.com^
 ||0jghm60qg.com^
 ||26io4qnxz.com^
 ||relapse37.com^
@@ -22230,6 +22234,7 @@ m.babytree.com##script + a[class]
 /api/v3/getPageVisits
 /api/v3/trackSegmentEvent
 /api/video/stats/*$xmlhttprequest
+/api/web/v1/tracker$ping
 /api_adlog.php?
 /api_ip_info.php
 /apilog?
@@ -25313,6 +25318,7 @@ omni.soundestlink.com$image
 ||briskpelican.io^
 ||broadstreet.ai^
 ||brwsrfrm.com^
+||btldr.net^
 ||btloader.com^
 ||bx-cloud.com^
 ||bxtag.com^
@@ -25652,6 +25658,7 @@ omni.soundestlink.com$image
 ||siteperformancetest.net^
 ||sjpf.io^
 ||skcrtxr.com^
+||smartiwheel.com^
 ||smartmetrics.co.uk^
 ||smartytouch.co^
 ||snptrk.com^
@@ -28103,6 +28110,7 @@ omni.soundestlink.com$image
 ||ventivmedia.com^$third-party
 ||vercel-analytics.com^$third-party
 ||vercel-insights.com^$third-party
+||verisoul.ai^$third-party
 ||vertical-leap.co.uk^$third-party
 ||vertical-leap.net^$third-party
 ||verticalscope.com^$third-party
@@ -32349,6 +32357,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||try.abtasty.com^
+||trygravity.ai/ack?
 ||ts.tradetracker.net^
 ||turnto.com/event
 ||tvpage.com/tvpa.min.js
@@ -33974,6 +33983,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||marker.konograma.com^
 ||mat.socy.es^
 ||mdstrm.com/js/lib/streammetrics.js
+||met.seriesapi.co^
 ||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||recogerconsentimiento.com/consent/
@@ -35909,6 +35919,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||touch.myntra.com^
 ||toyota.com/analytics/
 ||tpcs.payu.in/pixelwithcookie.gif$domain=hindustantimes.com
+||tpead.net/stat/
 ||tr.api.fanbyte.com^
 ||tr.clickstay.com^
 ||tr.www.cloudflare.com^
@@ -72221,7 +72232,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
 ||epimetheus.navigator.web.de^
-||epochtimes.de/mp/track/
+||epochtimes.de/epoch-mp/epoch_mp.min.js
 ||eum.instana.rewe-group.com^
 ||event-collector.prd.data.s.joyn.de^
 ||events.limango.com^
