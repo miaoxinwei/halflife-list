@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ijXf5TukyfXqxkauAg7Jcw
+! Checksum: d0kMH/28PpA23e7A0Y41TA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202604280324
-! Last Modified: 2026年04月28日 03:24
+! Version: 202604281124
+! Last Modified: 2026年04月28日 11:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1919,6 +1919,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||rg338ne0rt.com^
+||njawz0tlek.com^
+||pibpjoo0lm.com^
+||tsaor7o1e9.com^
+||callosity19.top^
+||lwdla7fjns.com^
+||itxzlhijfcenxejclcaj.top^
 ||2g8lomzrb.com^
 ||49dlt9myv.com^
 ||8yo772d29.com^
@@ -19223,7 +19230,7 @@ yemancomic.com##.z-index-99 > a
 ||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||hhba0*kdh.com^$script,xmlhttprequest,third-party
-bitxzlhi*.top/$script,xmlhttprequest,third-party
+fcenxe*.top/$script,xmlhttprequest,third-party
 ||55561.net/ml.
 ||miaoshu6.com/static/js/read.
 ||qiqiuges.com/mk.
@@ -26212,7 +26219,6 @@ omni.soundestlink.com$image
 ||blogreaderproject.com^$third-party
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
-||bluecore.com^$third-party
 ||blueknow.com^$third-party
 ||blvdstatus.com^$third-party
 ||bm23.com^$third-party
@@ -29963,6 +29969,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.axept.io/v1/analytics/evts
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
+||api.bluecore.app/api/track/
 ||api.collarity.com/cws/*http
 ||api.config-security.com/first
 ||api.country.is^$third-party
@@ -31489,6 +31496,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||onet.pl/eclk/
 ||onet.pl^*/tags?
 ||onetrust.com^$ping
+||onsitestats.bluecore.com^
 ||onsugar.com/static/ck.php?
 ||ontraport.com/track.php
 ||ontraport.com/tracking.js

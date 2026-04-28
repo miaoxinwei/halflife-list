@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gQCjMyDfahaiGcYqW4W5pQ
+! Checksum: 2hbJ9TT9HaOZFfmorSOa1Q
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202604280324
-! Last Modified: 2026年04月28日 03:24
+! Version: 202604281124
+! Last Modified: 2026年04月28日 11:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2366,6 +2366,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||rg338ne0rt.com^
+||njawz0tlek.com^
+||pibpjoo0lm.com^
+||tsaor7o1e9.com^
+||callosity19.top^
+||lwdla7fjns.com^
+||itxzlhijfcenxejclcaj.top^
 ||2g8lomzrb.com^
 ||49dlt9myv.com^
 ||8yo772d29.com^
@@ -19670,7 +19677,7 @@ yemancomic.com##.z-index-99 > a
 ||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||hhba0*kdh.com^$script,xmlhttprequest,third-party
-bitxzlhi*.top/$script,xmlhttprequest,third-party
+fcenxe*.top/$script,xmlhttprequest,third-party
 ||55561.net/ml.
 ||miaoshu6.com/static/js/read.
 ||qiqiuges.com/mk.
