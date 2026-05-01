@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ldj220zkzidD1ye00Ns41A
+! Checksum: wVsVRRyVUs6xDwezvEHNgg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202605011612
-! Last Modified: 2026年05月01日 16:12
+! Version: 202605012121
+! Last Modified: 2026年05月01日 21:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1924,6 +1924,12 @@ newduba.cn###jq_youxi
 ||3hx1ui2vt.com^
 ||neurologist19.com^
 ||zalwlz.icu^
+||jp532fdo5.com^
+||x4bxnav4g.com^
+||d6er6wrvw.com^
+||devpz.cn^
+||2ytoxb1r7.com^
+||gqcrgyufg.com^
 ||fummd03je4.com^
 ||06hkgn0jl3.com^
 ||affection28.top^
@@ -11441,6 +11447,7 @@ meijutt.*/js/pcjs/
 ||kuazhi.com/kuazhi_click.
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
+jin10.com##.desktop-tip
 mobile01.com##.dable-bottom_theme
 udn.com##.fixed-ad
 nfuwow.com##.ad1320top
@@ -35463,6 +35470,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nr.noelleeming.co.nz^
 ||nslookup.io/pl.js
 ||ntvid.online/cdn-cgi/trace
+||nvrmd.novaramedia.com^
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
 ||nzherald.co.nz/pf/resources/scripts/tracking/data-ref.js
@@ -75118,7 +75126,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
-@@||wf.typesquare.com^$font,domain=morisawafonts.com
+@@||wf.typesquare.com^$font,domain=app.studio.design|morisawafonts.com
 @@||yjtag.yahoo.co.jp/tag?$script,domain=bousai.yahoo.co.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||zinro.net/m/log.php
