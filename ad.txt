@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EJwxWB8pFLpz/eiYXf2vLA
+! Checksum: wm9x1WqfWJ8uj+0Z/K74eg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202605022115
-! Last Modified: 2026年05月02日 21:15
+! Version: 202605031125
+! Last Modified: 2026年05月03日 11:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -606,6 +606,7 @@ stgowan.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
 /7755com-*00x*.gif
+/phoenix-share/js/code.123.bg.
 .com/co/$domain=1anime.me
 /CC6F9ACB52D1582671AFEA808AFE10FE.gif
 .top/herebyad
@@ -2366,6 +2367,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||7g761j2nc.com^
+||ght2bvin1.com^
+||lkpseyc3d.com^
+||tocologist44.top^
+||dtdjhb.icu^
 ||ngd2rf6mqe.com^
 ||p78vz5tcho.com^
 ||riptgxsype.com^
@@ -19636,7 +19642,7 @@ yydstxt*.com/js/cdn.
 ||biqgg.com/n.
 ||biqgg.com/w.
 ||fd80s.com/static/m.
-||chachefa.com/asdfasdfqwer/
+||chachefa.com^*.js?v=
 ||jjjxsw.com/js/common.
 ||diyibanzhu*.com/js/html
 ||diyibanzhu*.com/js/cdn.
