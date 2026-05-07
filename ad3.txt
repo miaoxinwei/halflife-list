@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9WAFI7oUfeLnFaf3QoXyAQ
+! Checksum: UbWcBx7AzXzVLDBqf+agXg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202605072212
-! Last Modified: 2026年05月07日 22:12
+! Version: 202605080343
+! Last Modified: 2026年05月08日 03:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -25318,6 +25318,7 @@ _WebVitalsReporter_
 /beacon?data=$image
 /beaconimages.netflix.net/*$image
 /c.vialoops.com/*$image
+/CI0/0$image
 /ck.m.honto.jp/c/*$image
 /cl.animate.co.jp/c/*$image
 /cl.mos.jp/q/*$image
@@ -25454,7 +25455,6 @@ _WebVitalsReporter_
 ://email.*/o/$image
 ://emailtracking.$image
 ://i.*@groovehq.com.gif$image
-://line.karte.io/CI0/$image
 ://links.flickr.com/s/eo/$image
 ://links.paypal.*/eos/$image
 ://mail01.monex.co.jp/bin/checker?
