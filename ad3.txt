@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2PFj0UJ7ylWMMlbhHqEcLQ
+! Checksum: IWMJiXw8hZgbchZZ1IKbPg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202605092120
-! Last Modified: 2026年05月09日 21:20
+! Version: 202605101128
+! Last Modified: 2026年05月10日 11:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1920,6 +1920,9 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||l3j3glzp6g.com^
+||ir3f1x3aet.com^
+||stitches08.com^
 ||qiey8zrxz.com^
 ||rdgck4jo4.com^
 ||qnywphp.forum^
@@ -30742,7 +30745,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||distillery.wistia.com^
 ||dl.episerver.net^
 ||dmcdn.net/behavior/
-||dmg-libs.anm.co.uk^
 ||dnnapi.com/analytics/
 ||doh.cq0.co^
 ||doofinder.com/api/v2/stats/
@@ -34677,6 +34679,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdn.reverso.net/rumjs/
+||cdp.howtotrade.com^
 ||cdp.vercel.com/rs/
 ||centerblog.net/stats.js
 ||cgtn.com/api/collect/
