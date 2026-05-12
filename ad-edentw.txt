@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /WI/rtKY5DlUbaUz+GGgkw
+! Checksum: bYoDSeh9OiFC+Wgn7kFg3g
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202605122227
-! Last Modified: 2026年05月12日 22:27
+! Version: 202605130354
+! Last Modified: 2026年05月13日 03:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1458,6 +1458,7 @@ animetsu.net#$#hide-if-matches-xpath './/iframe[@sandbox][@srcdoc]/parent::div[@
 vixsrc.*#$#abort-on-property-read dispatchEvent; hide-if-matches-xpath './/div[(@style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;") or (@class and starts-with(@style, "pointer-events: none; position: absolute; top: 0px; left: 0px; width:"))]'; abort-on-property-read window.open; abort-current-inline-script String.fromCharCode 2147483647;
 vsembed.ru#$#override-property-read sb_test true
 brittanyaheadnew.com,maryspecialwatch.com#$#abort-on-property-read open; abort-current-inline-script WebAssembly Promise; abort-current-inline-script WebAssembly atob; abort-on-property-read BetterJsPop; abort-current-inline-script encodeURIComponent;
+bysebuho.com,398fitus.com#$#abort-current-inline-script EventTarget.prototype.addEventListener 'delete window'; abort-on-property-read open; timer-override setTimeout readyWait
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
