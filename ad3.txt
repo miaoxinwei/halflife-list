@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bZsszNkOWJbLelZoxjUhbw
+! Checksum: cRS9daTMaPkHqPIMs+RxSg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202605132237
-! Last Modified: 2026年05月13日 22:37
+! Version: 202605140356
+! Last Modified: 2026年05月14日 03:56
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -25443,7 +25443,6 @@ _WebVitalsReporter_
 /link.pbtech.co.nz/mo/*$image
 /link.theatlantic.com/img/*
 /link.thrillist.com/img/*$image
-/links.gitlab.com/s/eo/*$image
 /links1.strava.com/*$image
 /lzdmailer.letter.open?
 /m-email/t.png?
@@ -25523,7 +25522,7 @@ _WebVitalsReporter_
 ://email.*/o/$image
 ://emailtracking.$image
 ://i.*@groovehq.com.gif$image
-://links.flickr.com/s/eo/$image
+://links.*/s/eo/$image
 ://links.paypal.*/eos/$image
 ://mail01.monex.co.jp/bin/checker?
 ://mailmag.hhcross.hankyu-hanshin.jp/c/*.gif
