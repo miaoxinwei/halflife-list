@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iBj3U/QpY8wESJtGvBTebg
+! Checksum: l/wTM7ibnLaJmwMV3D7GGw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202605201736
-! Last Modified: 2026年05月20日 17:36
+! Version: 202605202323
+! Last Modified: 2026年05月20日 23:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1936,6 +1936,8 @@ newduba.cn###jq_youxi
 ||cancellation10.top^
 ||i5rd6bukys.com^
 ||lmd6dc1aq7.com^
+||4z48fqo12n.com^
+||ssyegkbu0g.com^
 ||3is34bpqs4.com^
 ||ecg21n9t8d.com^
 ||oa83fs5udz.com^
@@ -11293,6 +11295,7 @@ meijutt.*/js/pcjs/
 ||riskbird.com/riskbird-api/guest/unionGoods
 ||kuazhi.com/kuazhi_click.
 ||pc-util.gamersky.com^
+||kssms.com/click/play.
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
 jin10.com##.desktop-tip
@@ -31000,6 +31003,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
 ||js.cdn.applicationinsights.io/scripts/b/ai.3.gbl.min.js
+||js.dashfi.net/dashfinet-analytics.js
 ||js.go2sdk.com/v2/tune.js
 ||js.verisoul.ai^
 ||jscache.com/static/page_moniker/
@@ -31498,6 +31502,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.blivenyc.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
+||pixel.dashfi.dev^
 ||pixel.driveniq.com^
 ||pixel.embed.su^
 ||pixel.fohr.co^
@@ -31791,6 +31796,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||secureserver.net/t/
 ||security.giokko.ru/cookie.php
 ||seg.sharethis.com^
+||segmentapis.com/v1/t
 ||segments.adap.tv^$third-party
 ||sempra.pro/stat/
 ||sendtonews.com/stn_trk.gif?
@@ -34762,6 +34768,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||facebook.com/ajax/weblite_load_logging/
 ||facebook.com/sem_mpixel/
 ||facebook.com/sw/log/init/
+||fairprice.com.sg/VZl2n4/
 ||fanatics.com/api/track
 ||fancentro.com/lapi/statisticWriter/
 ||fancentro.com/trck-
@@ -36178,6 +36185,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webd-assets.cdn4dd.com/s.js$domain=doordash.com
 ||weblog.flyasiana.com^
 ||webmd.com/static/v/c?
+||website-api.omni.fairprice.com.sg/api/tracking/
 ||weedmaps.com/pixel?
 ||wellsfargo.com/as/jsLog
 ||wellsfargo.com/dti_apg/
