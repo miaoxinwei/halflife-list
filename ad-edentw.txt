@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UUSftoPdtrrY2VUB+nmaYw
+! Checksum: E4o1ICu0ntZ1hb5yInCsWg
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202605281804
-! Last Modified: 2026年05月28日 18:04
+! Version: 202605282359
+! Last Modified: 2026年05月28日 23:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2135,7 +2135,7 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 prevailion.com#$#abort-on-property-read adsRedirectPopups
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad; abort-on-property-read pushOnPageGala
 sex.javnong.cc#$#abort-on-property-read Math.round
-buomtv.life,phimsex247.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen6.com,lxmanga.space,misskon.com,mupsexphim.com,newtruyentranh10.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
+buomtv.life,phimsex247.net,animehay03.site,cliphot69.wiki,clipphimsex3x.net,damconuong.lol,demo.14412882.com,doctruyen3qhub.org,dualeotruyengl.com,hentaivkl.com,hhtq5.vip,qmanga.art,javtiful.com,luottruyen6.com,lxmanga.space,misskon.com,mupsexphim.com,phim18hdxx.com,phimlongtieng.net,phimsexhayvzz.com,quatvn.my,sayhentai.sh,sex.xinh3x.me,sexdiary.club,sexviet88.it.com,streamvl.top,truyenqqko.com,truyenvn.sbs,umetruyenz.org,vevocloud.com,viet69.be,viet69vn.at,vn2.xvideos69.xxx,sexviet88.it.com,www.sieutamphim.pro,yurineko.*#$#abort-current-inline-script WebAssembly instantiate
 teamlanhlung8.shop,javgiga.wordpress.com,www.aphim6.com#$#abort-on-property-read localStorage
 xnhau.shop#$#prevent-listener click /acquirecardedsullen|POPUNDER_INTERVAL|lastPopunderTime/; abort-current-inline-script document.addEventListener lastPopunderTime;
 animevietsub.site,animevietsub.site,hh3dhay.life,tram3d.online#$#abort-current-inline-script eval $._Eu
@@ -2151,7 +2151,6 @@ tctruyen.org#$#abort-current-inline-script $ popup
 phim.haysex.asia,truyenqqtto.com#$#abort-current-inline-script Promise /break|case/
 ombak700.org#$#abort-on-property-read sp
 phimtho.cc#$#abort-current-inline-script $ p0pUpRandom
-tailieumoi.vn#$#override-property-read linkAff null
 cunghocvui.com#$#abort-current-inline-script document.addEventListener opened_window_shoppe
 truyensextv.com,yanhh3d.ad,z.chinav.sex#$#abort-current-inline-script document.addEventListener opup
 imail.edu.vn#$#abort-current-inline-script setTimeout Aff; abort-current-inline-script setTimeout ad_block
