@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 6XIi5sWbV4WfHr0RSi9Ccw
+! Checksum: xrzm0IQFaqkYtgmZizmL1A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606011214
-! Last Modified: 2026年06月01日 12:14
+! Version: 202606011937
+! Last Modified: 2026年06月01日 19:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,11 @@ newduba.cn###jq_youxi
 ||quu175kt3.com^
 ||freesia45.top^
 ||jasmine33.top^
+||vd09de2i0.com^
+||xzv5vu7wl.com^
+||9pyn42z6d.com^
+||rl8yj74pr.com^
+||1ehioxpqe.com^
 ||d1129ldr7.com^
 ||ddhwxwi6h.com^
 ||wk5fo6pyf.com^
@@ -25822,6 +25827,7 @@ omni.soundestlink.com$image
 ||ugdturner.com^
 ||uidapi.com^
 ||uimarketpro.com^
+||umami.dev^
 ||uqd.io^
 ||usrpubtrk.com^
 ||ustat.info^
@@ -31824,6 +31830,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rtxpx-a.akamaihd.net^
 ||rudder-server-prd.arena.im/v1/track
 ||rudder-tracking.rudderstack.com^
+||rudderstack.com/v1/track
 ||rum-collector.leaderint.workers.dev^
 ||rum.azion.com^
 ||rum.azioncdn.net^
