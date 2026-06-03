@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4tfvNvuCAHkT4G6CGGYA8Q
+! Checksum: 3st1j0PAJb/RMSHzjzFvcQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606031901
-! Last Modified: 2026年06月03日 19:01
+! Version: 202606040051
+! Last Modified: 2026年06月04日 00:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1926,6 +1926,8 @@ newduba.cn###jq_youxi
 ||ge99lo1z2.com^
 ||hoamt60fa.com^
 ||m9ylqs5rn.com^
+||h1883c5wn.com^
+||hcp5dq18h.com^
 ||magnolia77.top^
 ||ej8f5vk381.com^
 ||hzyolohcz6.com^
@@ -34716,6 +34718,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dap.digitalgov.gov/Universal-Federated-Analytics-Min.js
 ||darkreader.org/elements/statistics.js
 ||data.allstate.com^
+||data.api.canalplus.com/event
 ||data.barry-callebaut.com^
 ||data.cheatography.com/banana.js
 ||data.debugbear.com^
@@ -36419,6 +36422,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||youtube-nocookie.com/youtubei/v1/log_event?
 ||youtube.com/api/stats/ads?
 ||zed.dev/docs/theme/analytics.js
+||zoom.us/*/telemetry
 !||youtube.com/api/stats/atr?ns=*&ver=2&cmt=1.*&fs=0&*&euri&lact=
 ||youtube.com/api/stats/qoe?*page&ns=yt&fexp=v1%*&event=streamingstats&
 ||youtube.com/get_video?
