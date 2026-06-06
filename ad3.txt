@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xIz+U+quy61w0u5CtTo4xQ
+! Checksum: d2qcB2cC86wUwfpsejlS9w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606061634
-! Last Modified: 2026年06月06日 16:34
+! Version: 202606062146
+! Last Modified: 2026年06月06日 21:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1925,6 +1925,10 @@ newduba.cn###jq_youxi
 ||daciuehpyf.com^
 ||g5xu1dslr6.com^
 ||tdlop7tsme.com^
+||3pf2kwmc3g.com^
+||zfdfs1tpyd.com^
+||a5wlr2yplf.com^
+||etjkljs.beauty^
 ||lodipq3zb.com^
 ||wwavo59q3.com^
 ||blackthorn88.com^
@@ -73212,9 +73216,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lecho.be/fb2?
 ||lecho.be/tag/tag-
 ||ledevoir.com/js/pianoAnalyticsTags.js
-||lemonde.fr/*.pa.js
-||lemonde.fr/bucket/*/tagistan.
-||lemonde.fr^$ping
+||lemonde.fr/b9d29410eafefd859fb36add0cb64f9b4ad2138b
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
 ||lepetitjournal.com/monitoring?
