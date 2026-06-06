@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kcd/WjdoOz8TASFOgwNm8w
+! Checksum: xIz+U+quy61w0u5CtTo4xQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606061138
-! Last Modified: 2026年06月06日 11:38
+! Version: 202606061634
+! Last Modified: 2026年06月06日 16:34
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1922,6 +1922,9 @@ newduba.cn###jq_youxi
 ||o5y2zd1lq8.com^
 ||hickory27.top^
 ||lddvxfmswnnxny.com^
+||daciuehpyf.com^
+||g5xu1dslr6.com^
+||tdlop7tsme.com^
 ||lodipq3zb.com^
 ||wwavo59q3.com^
 ||blackthorn88.com^
@@ -36493,6 +36496,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zumper.com/events
 ||googleusercontent.com/*/wf/open?upn=$image
 ://track.opentable.
+://tralut.*/collect/value?
+://tralut.*/js/script-dynamic.js
+://tralut.*/js/tracking.js
 ://www.vinted.*/relay/events
 ||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
 ://edge-client/$domain=barrons.com
@@ -74952,6 +74958,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||dd.blackhawknetwork.com.first-party-js.datadome.co^$domain=redeem.rewardlink.com
 @@||dd.qa.moneygram.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=moneygram.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
+@@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
