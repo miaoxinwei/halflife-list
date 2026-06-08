@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: N6O+EYF1ki4EIsDdU42HMA
+! Checksum: +on00r3aTaKdoYWatviHxA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606072155
-! Last Modified: 2026年06月07日 21:55
+! Version: 202606081209
+! Last Modified: 2026年06月08日 12:09
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1917,6 +1917,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||4f8g9foqwy.com^
+||zu9srbxg0t.com^
+||34dcvgw197.com^
+||satinwood84.com^
+||pwvlthpqzonnfe.com^
 ||7da1aovz6.com^
 ||d5092moci.com^
 ||q0m9dkp5c.com^
@@ -22363,6 +22368,7 @@ m.babytree.com##script + a[class]
 /analyticstrack.js
 /analyticstracking.js
 /analyticstrain.min.js
+/analytify-events-tracking.js
 /anametrix/cas.js
 /anclytic-ajax.html
 /anclytic.htm
@@ -24831,6 +24837,8 @@ m.babytree.com##script + a[class]
 /wmxtracker.js
 /woocommerce-google-adwords-conversion-tracking-tag/*
 /woopra.js
+/wp-analytify-forms/assets/js/tracking.js
+/wp-analytify/assets/js/scrolldepth.js
 /wp-coin-hive-util.js
 /wp-coin-hive.js
 /wp-content/plugins/confection/bridge.php
@@ -25823,6 +25831,7 @@ omni.soundestlink.com$image
 ||screen13.com^$image
 ||script.ac^
 ||seadform.net^
+||seaskypro.com^
 ||selphiu.com^
 ||seoab.io^
 ||sf-insights.io^
