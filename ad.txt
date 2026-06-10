@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ua27KxZ0wEpLdxnUejWjyw
+! Checksum: c4vxa468CN8E+jtjkruJ4A
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202606092254
-! Last Modified: 2026年06月09日 22:54
+! Version: 202606101153
+! Last Modified: 2026年06月10日 11:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2364,6 +2364,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||whkhct2lnf.com^
+||5ipifco2tf.com^
+||4uitrrt700.com^
+||lpxyrjholunvdk.com^
+||theorem12.top^
 ||mathematics34.com^
 ||nzrdfrlsfrznrk.com^
 ||bncqucpia.com^
@@ -17597,6 +17602,8 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@.adserver.$domain=litv.tv
 @@||holmesmind.com/js/drawV2.$domain=bingfong.com
 @@||hkcards.com^$generichide
+@@||laosu.tech^$generichide
+@@||laosu.cf^$generichide
 @@||huavod.com^$generichide
 @@||mytvsuper.com^$generichide
 @@||tvb.com^$generichide
