@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VF1gGxkDvovFV7n2jwP76Q
+! Checksum: 9Y/KB+adKRp/vqSSd9ixMA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202606101803
-! Last Modified: 2026年06月10日 18:03
+! Version: 202606102336
+! Last Modified: 2026年06月10日 23:36
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2373,6 +2373,8 @@ newduba.cn###jq_youxi
 ||jfffe1o97b.com^
 ||kf4kwomxhl.com^
 ||xjl2ts2q6a.com^
+||guulgakv.com^
+||dwh3rjyzxj.com^
 ||mathematics34.com^
 ||nzrdfrlsfrznrk.com^
 ||bncqucpia.com^
@@ -7568,7 +7570,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 ||yy18.info^*thanks$popup
 !----------------------Specific advert blocking filters-----------------------!
 $image,third-party,domain=lady1.top
-$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
+$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -12005,7 +12007,7 @@ twkan.com###mobile-ad
 axiang.cc###achang-related-adsense
 hcbbs.com##.plc > .pct + :last-child
 mysteel.com###float-adv
-91porna.com##.dx-banner-item
+91porna.com,evgpopxb.cc##.dx-banner-item
 91porna.com##.checkNum[target="_blank"]:not([href*="91porna.com"])
 91porna.com##.h-full.swiper
 91porna.com,evgpopxb.cc##.ad-dialog
