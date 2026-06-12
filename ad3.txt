@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KaaPOdD+mo+LTJUBaz/M3A
+! Checksum: 5WF1zY/h0GiDVFortZQfDQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606120003
-! Last Modified: 2026年06月12日 00:03
+! Version: 202606121208
+! Last Modified: 2026年06月12日 12:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1918,6 +1918,13 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||08pkgxft0u.com^
+||uks8suop4b.com^
+||g6ird1tez2.com^
+||operation67.com^
+||piplnlkmoandbq.com^
+||fih3r.com^
+||huanle97.com^
 ||calculation94.top^
 ||je3zdrcua.com^
 ||onttsrh5i.com^
@@ -22100,6 +22107,7 @@ m.babytree.com##script + a[class]
 &refer=http$script
 &sst.gcsub=
 &t=pageview&
+&ui-instrumentation-components-beacon.InstrumentationBeacon.sendData=1
 -adobe-analytics/
 -adobeDatalayer_bridge.js
 -click-tracker.
@@ -32532,6 +32540,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.g2crowd.com^
 ||tracking.godatafeed.com^
 ||tracking.graphly.io^
+||tracking.groupe-ldlc.com^
 ||tracking.happierleads.com^
 ||tracking.hivecloud.net^
 ||tracking.hyros.com^
@@ -73297,6 +73306,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||quellavelinge.com/referer.php?
 ||res.paruvendu.fr^
 ||rts.ch^*/boreas_b01.js
+||rueducommerce.fr/ps/events.js
 ||s5.charliehebdo.fr^
 ||seloger.com/cdp-bff/analytics
 ||serv.letudiant.fr^
