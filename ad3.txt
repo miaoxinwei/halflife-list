@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xt0+vMsvTr9yWLV8RMIEbA
+! Checksum: xYIFKoUouKH7Mhbrpin+Eg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606201150
-! Last Modified: 2026年06月20日 11:50
+! Version: 202606201717
+! Last Modified: 2026年06月20日 17:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1924,6 +1924,10 @@ newduba.cn###jq_youxi
 ||iv6xaoopvq.com^
 ||pttoblakstpjti.com^
 ||qbyngdjq8g.com^
+||8zqpw2lj8n.com^
+||y6p7022ep4.com^
+||7magjd84rd.com^
+||ajazaci.icu^
 ||1cimslrk3.com^
 ||gie0izinx.com^
 ||quotient75.com^
@@ -31510,6 +31514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.yango.com^
 ||mccdn.me/assets/js/widget.js
 ||mcdp-*.outbrain.com^
+||mcjs.prd.a.intuit.com/assets/pixel-reporting-sdk/
 ||mcssl.com^*/track.ashx?
 ||mdxprod.io/analytics.js
 ||measure.refinery89.com^
@@ -74156,6 +74161,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ad-log.dable.io^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
+||aka.asiae.co.kr/scripts/AKACollect.js
 ||analysis.sooplive.co.kr^
 ||auction.co.kr/ad/log.js
 ||auction.co.kr/montelena.js
