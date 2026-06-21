@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: u928ogQ1Yp0RPvuzG6iibg
+! Checksum: E6Baa5S44t4UbGTzYzzNmQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606211221
-! Last Modified: 2026年06月21日 12:21
+! Version: 202606211751
+! Last Modified: 2026年06月21日 17:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1924,6 +1924,9 @@ newduba.cn###jq_youxi
 ||elwebmx21.com^
 ||yqgtuqf.icu^
 ||vwpgnvwgywbrfo.com^
+||8cj70f905.com^
+||jba33y5xx.com^
+||9rkh7nbaj.com^
 ||dividend56.top^
 ||zkhjsta.beauty^
 ||h702886htm.com^
@@ -11621,6 +11624,7 @@ meijutt.*/js/pcjs/
 ||nbpicture.xyz^$domain=ltd.ua
 ||tcptest.cn/prod-api/web/adLinks/
 ||r3sub.com/nb/
+||xwcm.net/caches/ahm.
 !------------------------Specific element hiding rules------------------------!
 huaren.live##.pause-love
 jucha.com##.money_item
@@ -35794,6 +35798,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||player-telemetry.vimeo.com^
 ||player.instaread.co/js/inarticle-metrics.js
 ||player.javboys.cam/cdn-cgi/trace
+||player.videasy.to/scripts/ab.js
 ||playvideohd.com/cdn-cgi/trace
 ||plenty.vidio.com^
 ||plushd.bio/cdn-cgi/trace
@@ -36463,6 +36468,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||useblackbox.io/telemetry
 ||user-back.ggcorp.me/statistics
 ||user-metrics.onthemarket.com^
+||users.videasy.to/api/track
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json
 ||uviu.com/activity/
