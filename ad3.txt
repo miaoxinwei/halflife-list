@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tOV9ihfVToNWf0Y/Nc4qzA
+! Checksum: MH54eeQX+vdRcrRy+2UP6Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202606281158
-! Last Modified: 2026年06月28日 11:58
+! Version: 202606281653
+! Last Modified: 2026年06月28日 16:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1922,6 +1922,8 @@ newduba.cn###jq_youxi
 ||opev2lhm7h.com^
 ||byuh78fy2m.com^
 ||xrnrplqcfmpxfg.com^
+||bbqy4ihvz9.com^
+||m2wrsmrsbj.com^
 ||ollsok.icu^
 ||ble7orbnz.com^
 ||goqix4lm5.com^
@@ -22538,6 +22540,7 @@ m.babytree.com##script + a[class]
 /busting/facebook-tracking/*
 /busting/google-tracking/*
 /bv-analytics.js
+/bydataAnalytics.js
 /c.gif?
 /c.wrating.com/*
 /c2_count.js
@@ -22969,6 +22972,7 @@ m.babytree.com##script + a[class]
 /fingerprint3.min.js
 /Fingerprintjs2/fpt2.js
 /firebase-performance-compat.js
+/firebase-performance-standalone-compat.js
 /firebase-performance-standalone.js
 /firestats/js/fs.js.php
 /firm_tracking.js
@@ -25512,6 +25516,7 @@ omni.soundestlink.com$image
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||dadalytics.it^
 ||datas3ntinel.com^
+||dclsrv.com^
 ||ddlnk.net^
 ||demdex.net^
 ||deviceinf.com^
@@ -25828,6 +25833,7 @@ omni.soundestlink.com$image
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||sy57d8wi.com^
+||syncingbridge.com^
 ||t13.io^
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
@@ -27554,6 +27560,7 @@ omni.soundestlink.com$image
 ||plausible.avris.it^$third-party
 ||plausible.io^$third-party
 ||plavxml.com^$third-party
+||playdigo.com^$third-party
 ||plecki.com^$third-party
 ||pleisty.com^$third-party
 ||plerdy.com^$third-party
@@ -28140,6 +28147,7 @@ omni.soundestlink.com$image
 ||trackeame.com^$third-party
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
+||tracker-shr.ortb.net^
 ||trackertest.org^$third-party
 ||tracking202.com^$third-party
 ||trackingca.com^$third-party
@@ -29820,6 +29828,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.amakings.com^
 ||analytics.api.justeattakeaway.com^
 ||analytics.apnewsregistry.com^
+||analytics.atlas5.co^
 ||analytics.audioeye.com^
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
@@ -34341,6 +34350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazon.com/1/events/$domain=~aws.amazon.com
 ||amazon.com/e/xsp/imp?
 ||amazon.com/empty.gif?$image
+||amazonaws.com/telemetry.bydata/
 ||amboss.com/analytics/
 ||americanexpress.com/beacon
 ||amethyst.6pm.com^
