@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DwQc847LVDC+3BYcLMW9dQ
+! Checksum: 75L6VfTkGnm9tCQ4fDKxeg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607011749
-! Last Modified: 2026年07月01日 17:49
+! Version: 202607012238
+! Last Modified: 2026年07月01日 22:38
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,8 @@ newduba.cn###jq_youxi
 ||cylinder35.top^
 ||u7lb6db41.com^
 ||ukgm0qily.com^
+||ueya0wo6m.com^
+||e81j0an3d.com^
 ||oe8mnxdtoi.com^
 ||y2ej3xxfve.com^
 ||tkpenntaispfdm.com^
@@ -34454,6 +34456,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.channel.io/*/events
 ||api.doodle.com/data-layer/track
 ||api.ffm.to/sl/e/$image
+||api.headliner.link/api/v1/b/receive
 ||api.invideo.io/v3/send_analytics_event
 ||api.meetup.com/pico/v4/web-events
 ||api.narrativ.com/favicon.ico
@@ -36141,6 +36144,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thehackernews.com/ga4/c
 ||thehealthsite.com/apstag.js
 ||theladders.com/api/user-tracking/
+||thepoorswiss.com/tps/cfwa-collect
 ||thesun.co.uk/assets/client/analyticsListeners~
 ||thesun.co.uk/assets/client/newrelicExperimentTracking~
 ||thesun.ie/track?
@@ -72542,7 +72546,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hannover-stadtplan.com/t.gif
 ||happysex.ch/app_jquery/Tracking.js
 ||hartgeld.com/cgi-sys/Count.cgi?
+||heise.de/hlt/statistics/$xmlhttprequest
 ||heise.de/ivw-bin/ivw/cp/
+||heise.de/positions|$xmlhttprequest
+||heise.de/pw/metrics/$xmlhttprequest
+||heise.de/recommendation/m/impression$xmlhttprequest
+||heise.de/recommendation/m/view$xmlhttprequest
 ||herz-fuer-tiere.de^*/ad.gif?
 ||herz-fuer-tiere.de^*/sunshine.gif?
 ||hokuspokus.tarnkappe.info^
