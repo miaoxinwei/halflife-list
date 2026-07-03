@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: V77alxzUOff5KfEoof+uUw
+! Checksum: f25/nHZq917CC51YmAwDAw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202607031719
-! Last Modified: 2026年07月03日 17:19
+! Version: 202607032207
+! Last Modified: 2026年07月03日 22:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1300,7 +1300,7 @@ coflix.*,dhtpre.com,fmovies.*,swatchseries.*,vidhidepro.com,vidply.com,watchflix
 9n8o.com,abstream.to,aniwatchtv.*,advertape.*,asnwish.com,bflix.*,bigwarp.*,cdn1.site,cloudnestra.com,dlhd.*,dudestream2.com,f16px.com,frembed.*,freestreams-live1.*,g9r6.com,gamehub.cam,hianime.*,hoca6.com,ico3c.com,livecamrips.*,m1xdrop.*,magasavor.net,movielair.cc,moviesapi.to,moviesjoy.*,myflixerz.*,pkembed.*,rmaxfinishseveral.com,s1p1cd.com,savefiles.com,seeflix.*,seriesonline.*,stellarthread.com,streamingcommunityz.*,streaming-community.*,streamtape.*,strmup.*,ups2up.*,uqload.*,vide0.net,vidnest.*,vidup.to,vids.*,vidzy.*,vixcloud.*,voe.sx,watchug.*,xpornium.net#$#abort-on-property-write window.open; abort-current-inline-script EventTarget.prototype.addEventListener 'delete window';
 pornproxy.*#$#abort-current-inline-script document.createElement /script/; abort-on-property-write PopCookieTimeout; abort-on-property-read PopURL
 sexvid.*#$#abort-on-property-read atob; abort-current-inline-script document.write /promo/; override-property-read window.diptr undefined; abort-on-property-read window.pu; abort-current-inline-script document.write iframe;
-1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,camslib.com,camwhores.*,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,embdmstrplayer.com,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,putarvid.com,tpead.net,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.com,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
+1377x.*,123moviesfree.*,1flix.*,bigclatterhomesguideservice.com,camslib.com,camwhores.*,callistanise.com,cucuflix.*,doood.*,dooodster.*,dramacool.sr,embdmstrplayer.com,gogoanimes.*,hltv.org,igetintopc.com,japscan.me,jasminetesttry.com,l1afav.*,maxfinishseveral.com,minochinos.com,miraculous.to,movies-watch.com.pk,moviesapi.*,myflixerzz.*,nosteam.ro,primewire.*,ployan.*,readcomiconline.li,reputationsheriffkennethsand.com,root-nation.com,putarvid.com,tpead.net,seaporn.org,sfile.mobi,soap2day.*,solarmovie.*,toongod.*,usersdrive.com,vid2faf.*,vidara.*,vidfast.*,vidlink.*,vidsrc.*,watchflix.*,watchseriestv.*,yomovies.*#$#abort-on-property-read window.open
 advertape.*,bigwarp.*,jilliandescribecompany.com,lauradaydo.com,luluvid.com,mangakakalot.gg,rule34.*,savefiles.com,vide0.net,voe.sx,walterprettytheir.com#$#abort-current-inline-script WebAssembly atob;
 torkitty.*#$#prevent-listener click handlePopunder
 /api/users/*&ev=*$script,domain=supjav.com
@@ -1374,7 +1374,7 @@ cataz.stream,movies2watch.*#$#abort-on-property-write zfgdlpopup
 streamingnow.mov,vidzy.cc#$#abort-on-property-read aclib.runPop
 stre4mpay.*,straemplay.org,stre4mplay.*#$#abort-on-property-read puOverlay
 mycloudz.*#$#override-property-read window.open noopFunc
-cineby.*#$#override-property-read window.atOptions1 undefined; override-property-read window.atOptions2 undefined
+cineby.*#$#override-property-read window.atOptions1 undefined; override-property-read window.atOptions2 undefined; abort-current-inline-script document.addEventListener /adNetworks/; abort-current-inline-script document.getElementById
 vidwish.*#$#abort-current-inline-script Math.random parseInt
 steamplay.*#$#abort-on-property-read btoa; abort-on-property-write adcashMacros
 vids.*#$#abort-current-inline-script document.createElement pop_tag
@@ -1667,9 +1667,10 @@ camwhores.*,camslib.com#$#override-property-read flashvars.video_click_url undef
 myabandonware.com#$#hide-if-matches-xpath './/a[contains(@rel,"nofollow") and contains(@rel,"noreferrer")][@style]/parent::div[contains(@class,"adm-")]/ancestor::div[contains(@style,"background") or contains(@class,"abox")]|.//a[contains(@rel,"nofollow") and contains(@rel,"noreferrer")][@style]'
 lookmovie2.*#$#prevent-listener initPrePlaybackCounter-event
 movies2watch.*#$#hide-if-matches-xpath './/a[@href][@target="_blank"][@rel="noopener"]/img[@loading][@style]/ancestor::div[contains(@style,"width:100%")][1]'
-/scripts/os.js^$script,domain=cineby.sc
+/scripts/os.js^$script,domain=cineby.sc|cineby.cc
 bootyexpo.net#$#abort-on-property-read adsBlocked; hide-if-matches-xpath './/img[contains(@src,"gif")][@width][@border]/parent::a[@target="_blank"]'
 javsub.*#$#abort-on-property-read juicy_tags
+toongod.*#$#hide-if-matches-xpath '//div[div/iframe[contains(@src, "?iframeId=")]]'
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
@@ -3154,6 +3155,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||hackletrappels.com^
 ||halmfrisii.com^
 ||hardyforges.com^
+||haydntaal.com^
 ||hdwetwindle.com^
 ||heistedsignon.com^
 ||helcoiduncity.com^
@@ -3272,6 +3274,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||mirakdunes.com^
 ||misusedhough.com^
 ||modern-oven.com^
+||mploejuiashsatea.com^
 ||moluccadecoyed.com^
 ||mondejudgers.shop^
 ||monkismtheban.com^
@@ -3390,6 +3393,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||rigorkarate.com^
 ||rilletsshivoo.com^
 ||rodlikemortal.com^
+||ropsumemu.com^
 ||ruddytoph.com^
 ||runtime8000.com^
 ||russismvarsha.com^
