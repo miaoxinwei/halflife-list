@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7nNHwSNfE+c4rKRCwC6kHg
+! Checksum: Z0Hol+9UMdbplB2RGrH1kg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607042135
-! Last Modified: 2026年07月04日 21:35
+! Version: 202607051133
+! Last Modified: 2026年07月05日 11:33
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1915,6 +1915,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||polygon58.top^
+||f3a95oy5m.com^
+||m6cx48b0e.com^
+||tbthrfrgkqltpw.com^
+||snmytvt.com^
 ||rectangle99.com^
 ||jdjkljs.click^
 ||431kls9qsf.com^
@@ -28456,6 +28461,7 @@ omni.soundestlink.com$image
 ||xlisting.jp^$third-party
 ||xp.audience.io/sdk.js$third-party
 ||xstats.net^$third-party
+||xstats.st^$third-party
 ||xtremline.com^$third-party
 ||xxxcounter.com^$third-party
 ||xyztraffic.com^$third-party
@@ -34349,7 +34355,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
 ||adc-js.nine.com.au^
+||adguard-dns.io/-/event/
+||adguard-dns.io/-/logs/
+||adguard-dns.io/-/metrics/
 ||adguard.com/-/event/
+||adguardcheckout.com/-/event/
+||adguardcheckout.com/-/logs/
+||adguardcheckout.com/-/metrics/
 ||adl.bankofthewest.com^
 ||admin.microsoft.com/api/instrument/logclient
 ||adobe.io/system/log
