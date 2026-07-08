@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ttp8Z2d27ArgAchFB8ZXYg
+! Checksum: Dks86Wr7zXWmjj57KsEZoA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202607081629
-! Last Modified: 2026年07月08日 16:29
+! Version: 202607082211
+! Last Modified: 2026年07月08日 22:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2370,6 +2370,9 @@ newduba.cn###jq_youxi
 ||kvwssal.icu^
 ||h4tmdz92jq.com^
 ||granbbkzs3.com^
+||l1y267efmn.com^
+||esa2j46dwf.com^
+||mks8vq5qfu.com^
 ||multiplier47.top^
 ||knqthm4fc.com^
 ||smqg05dab.com^
@@ -18433,10 +18436,9 @@ jm18c-oec.club,18comic.org,18comic.vip,18comic.ink#?#div[data-group]:-abp-has(>.
 !#7
 !#8
 !#91porny.com
-91porny.com,91porn.fans,91porny.org###main > div[class][id] > .mb-0
-91porny.com,91porn.fans,91porny.org##.videoPlayContainer > style + div[data-nosnippet]
-91porny.com,91porn.fans,91porny.org#?##main > div[class][id]:-abp-has(>style)
-91porny.com,91porn.fans,91porny.org#?#.colVideoList:-abp-has(>.video-elem>.d-block[href^="http"])
+91porny.com,91porn.fans,91porny.org#?##main > div[class][id]:-abp-has(.video-elem>a[rel="noopener nofollow"])
+91porny.com,91porn.fans,91porny.org#?#.colVideoList:-abp-has(>.video-elem>.display[href^="http"])
+91porny.com,91porn.fans,91porny.org#?##main > div[class][id]:-abp-has(>div>style)
 ###playerJsvLayer.jsv-layer
 91porny.com##.container-fluid.p-0[class*="mb-"]
 ##.fixed-bottom.jsv.jsv-g1
@@ -19775,7 +19777,6 @@ yemancomic.com##.z-index-99 > a
 fcenxe*.top/$script,xmlhttprequest,third-party
 ||55561.net/ml.
 ||miaoshu6.com/static/js/read.
-||qiqiuges.com/mk.
 .net/themes/jieqi/wap/js/test.
 .net/themes/jieqi/wap/js/fixed.
 ||xp600.com/js/
