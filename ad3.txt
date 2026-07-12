@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: N9Sp8x5HvtXNDF05pWVodQ
+! Checksum: 4jsFxh2P/zmlkXUnsLpJcw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607121619
-! Last Modified: 2026年07月12日 16:19
+! Version: 202607122121
+! Last Modified: 2026年07月12日 21:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1921,6 +1921,8 @@ newduba.cn###jq_youxi
 ||juu5p55799.com^
 ||7xkdyg9b8k.com^
 ||43y3q8h5mz.com^
+||lomvmz5ze3.com^
+||n6al211kbp.com^
 ||handsaw46.com^
 ||cro541bud.com^
 ||cu9epqwr6.com^
@@ -23797,7 +23799,7 @@ m.babytree.com##script + a[class]
 /ot_e404.gif?
 /OtAutoBlock.js
 /ouibounce.min.js
-/outbrain.js
+/outbrain.js$~xmlhttprequest
 /outbrainAd.
 /outLoging.js
 /outLoging2.js
@@ -24477,7 +24479,7 @@ m.babytree.com##script + a[class]
 /t/event?
 /t?referer=
 /t?tcid=
-/taboola.js
+/taboola.js$~xmlhttprequest
 /taboola/loader.js
 /taboolaHead.js
 /taevents-c.js
@@ -31742,6 +31744,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||phrasetech.com/api/collect
 ||pi.ispot.tv^
 ||pi.pardot.com/analytics?
+||pi.pdfjs.express^
 ||piano.io/api/v3/customform/log/impression
 ||piano.io/tracker/
 ||pico.tools/metrics/
@@ -32646,6 +32649,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
+||trkweb.clinch.co^
 ||trueanthem.com^$third-party
 ||trustarc.com/cap?
 ||trustarc.com/log?
@@ -35877,6 +35881,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reports.tunein.com^
 ||researchgate.net/beacon/
 ||researchgate.net/track/
+||researchlog.dbresearch.com^
 ||reservationday.com/metrics/
 ||reverbnation.com/api/user/app_events
 ||revolut.com/api/t/errors
