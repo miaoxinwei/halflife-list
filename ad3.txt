@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4jsFxh2P/zmlkXUnsLpJcw
+! Checksum: V5PwXfItJHNsz9qYgpA8gw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607122121
-! Last Modified: 2026年07月12日 21:21
+! Version: 202607131054
+! Last Modified: 2026年07月13日 10:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1913,6 +1913,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||xxp4802or.com^
+||x94pjnejo.com^
+||wheelbarrow64.com^
+||bzxkfnsexolzbu.com^
+||4pyszxxaw.com^
+||myiqvn5w3.com^
 ||4c0wa2ml2f.com^
 ||fretsaw55.top^
 ||vwbptvlcrlxzpo.com^
@@ -30105,6 +30111,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.croct.io^
 ||api.gist.ai/v1/analytics/track
 ||api.gleap.io/sessions/ping
+||api.intelligems.io/v3/track
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
@@ -32631,6 +32638,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trafficmanager.net/uet/tracking_script?
 ||trakksocial.googlecode.com^$third-party
+||transcend.io/collect
 ||trap.skype.com^
 ||traq.li/tracker/
 ||travix.com/log
@@ -33654,6 +33662,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazonaws.com/prod/v1/track$domain=ixxi.com
 ||analytics.belgacom.be^
 ||analytics.hatech.dev^
+||analytics.infraloods.nl^
 ||analytics.newsifier.nl^
 ||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
