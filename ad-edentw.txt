@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: UjMxyCPCPW7HerapI2b0lQ
+! Checksum: 37Vq279voAUaBK3E4iOeig
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202607162153
-! Last Modified: 2026年07月16日 21:53
+! Version: 202607171610
+! Last Modified: 2026年07月17日 16:10
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1325,8 +1325,8 @@ instagram.com#$#json-prune data.xdt_injected_story_units.ad_media_items
 factfeed.com,mdrntoday.com,travelroo.com###vidazooAd
 factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contains(@class,"ad-lines") and contains(text(),"ADVERTISEMENT")]/parent::div[@class="ad-text-box"]/ancestor::div[@class][@style]'
 ! #CV-4801
-||coffeefire.net^$domain=coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com
-||peoplebrain.net^$domain=coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com
+||coffeefire.net^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com
+||peoplebrain.net^$domain=addictinggames.com|coolmathgames.com|dailykos.com|gamebanana.com|gameslantern.com|knowyourmeme.com
 ! Popup/Popunder/Clickunder
 0123movies.*,123freemovies.net,123movies.*,123movieshub.tc,adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,animepahe.*,anitube.*,bigtitsxxxfree.com,cineby.*,cinevo.nl,configspc.com,dood.*,doods.*,doodstream.*,dooodster.*,fastream.to,govid.*,hclips.com,hd-analporn.com,hentai2w.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.*,porn.com,porndollz.com,pornhat.com,prmovies.*,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
 adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.link,baytorrent.eu.org,dood.*,doods.*,doodstream.*,dooodster.*,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.*,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javjunkies.com,javmost.com,latinblog.tv,limetorrents.info,loadsubs.net,mixdrop.*,mypiratebay.*,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,strtape.*,strtapeadblock.me,tapewithadblock.org,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,voe.sx,youdbox.com#$#abort-on-property-write _pop
@@ -3132,6 +3132,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||cheefulfrary.com^
 ||chelaology.com^
 ||cheriesjaunt.com^
+||chewsever.com^
 ||chinnedomagra.com^
 ||chivwempover.com^
 ||chivwtusseh.com^
@@ -3249,6 +3250,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||erodiumvodums.com^
 ||espleestrick.com^
 ||esturecarnies.com^
+||esutamed.com^
 ||etymonstheine.shop^
 ||euclaseselenic.com^
 ||examplescug.com^
@@ -3343,6 +3345,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||helcoiduncity.com^
 ||heliobedlamp.com^
 ||henryslyceal.com^
+||hestherchiffer.com^
 ||hexingteeting.com^
 ||highathel.com^
 ||hippinglawns.com^
@@ -3617,6 +3620,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||seletardure.com^
 ||semuadisini.xyz^
 ||serenadislive.com^
+||sergurning.com^
 ||shalakobiarchy.com^
 ||shboshbok.com^
 ||shingonannates.com^
@@ -3656,7 +3660,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||stoperinbent.world^
 ||storagesew.com^
 ||storkhemodia.com^
-||str0611.cfd^
 ||streitetymon.com^
 ||stripchatgirls.com^
 ||stripchats.site^
