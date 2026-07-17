@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: onQxrxAxsBRUYY8+3iXTUA
+! Checksum: I2DiTcy0+qk7JSKBVay+4Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607172139
-! Last Modified: 2026年07月17日 21:39
+! Version: 202607180311
+! Last Modified: 2026年07月18日 03:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22546,6 +22546,7 @@ m.babytree.com##script + a[class]
 /api/reqAnalytic/*
 /api/sentry/tunnel$xmlhttprequest
 /api/stat?
+/api/stn/audience|$xmlhttprequest
 /api/track?guid
 /api/trk?
 /api/v1/EndpointTracker
@@ -33290,6 +33291,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
+||c.uniten.io^
 ||cdn.c-i.as^$script,third-party
 ||cesar-it.de/collect/
 ||cgicounter.onlinehome.de^
@@ -74332,6 +74334,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||namnak.com/act/stats.json
 ||namnak.com/ga.js
 |http://x.o2.pl^
+||ads.tvp.pl^
 ||analytics.gazeta.pl^
 ||app.mediaexpert.pl/spark-data/
 ||collect.state.centrum24.pl^
