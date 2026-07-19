@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nIm6D0ooT1TstbVjmh62fQ
+! Checksum: r+F0ye8E2FSA2jx4o8bB0Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202607190305
-! Last Modified: 2026年07月19日 03:05
+! Version: 202607191049
+! Last Modified: 2026年07月19日 10:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1914,6 +1914,14 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||riveter29.com^
+||k5qdqwgjit.com^
+||5bybyqjzl.com^
+||dshsnxfcjwdhpe.com^
+||invvuu9js.com^
+||ikuaiquwan6.com^
+||xejaxlfypblfvg.com^
+||nh93k0vtr.com^
 ||stepladder10.top^
 ||y9oog9hyuo.com^
 ||b0ko1hd9pb.com^
@@ -27514,6 +27522,7 @@ omni.soundestlink.com$image
 ||richard-group.com^$third-party
 ||richmetrics.com^$third-party
 ||rightmoveanalytics.co.uk^$third-party
+||ripples.sh^$third-party
 ||riskid.security^$third-party
 ||rivrai.com^$third-party
 ||rktch.com^$third-party
@@ -36229,7 +36238,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.com/1.1/graphql/user_flow.json
 ||x.com/1.1/jot
 ||x.com/9/measurement/
-||x.com/i/api/1.1/flow/viewer.json
 ||x.com/i/api/1.1/graphql/app_context.json
 ||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
