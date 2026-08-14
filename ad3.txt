@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yUruACwlV5Y5hXxsVfutBg
+! Checksum: yvp9vGVlCWuOEa7Se4OC4A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202608141524
-! Last Modified: 2026年08月14日 15:24
+! Version: 202608142107
+! Last Modified: 2026年08月14日 21:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1920,6 +1920,12 @@ newduba.cn###jq_youxi
 ||dahaolong.top^
 ||blowlamp38.top^
 ||coywadlw9r.com^
+||hrhojxbkc2.com^
+||ab41q03rvf.com^
+||cg38hrusov.com^
+||qo66feqfhs.com^
+||mqo60hadqz.com^
+||a5o3pv5rsx.com^
 ||zq7fe47jh.com^
 ||hajolxtoruvvps.com^
 ||trammel46.top^
@@ -26365,7 +26371,6 @@ omni.soundestlink.com$image
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
 ||cityadstrack.com^$third-party
-||cityspark.com^$third-party
 ||claritytag.com^$third-party
 ||clarium.io^$third-party
 ||clarivoy.com^$third-party
@@ -31124,6 +31129,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||informer.yandex.ru^
 ||infosniper.net/locate-ip-on-map.php
 ||infusionsoft.com^*/getTrackingCode?
+||ingest.in.signoz.cloud^
 ||ingest.make.rvapps.io^
 ||ingesteer.services-prod.nsvcs.net^
 ||ingress.rebelboost.com/_ingest-rbst-stats?
@@ -34417,6 +34423,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aljazeera.com/thirdparty/nr.js
 ||allaboutberlin.com/whoisthere.js
 ||allbbwcams.com/api/metrics
+||allenai.org/v5/event
 ||allevents.in/actracker/
 ||alljapanesepass.com/ascripts/gcu.js
 ||alljapanesepass.com/rstat
@@ -74926,8 +74933,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||plex.tv/api/v2/geoip$xmlhttprequest
 @@||plugin.intuitcdn.net/vep-collab-smlk-ui/assets/vendor/glance/cobrowse/
 @@||plugins.matomo.org^$image,~third-party
-@@||portal.cityspark.com/PortalScripts/DailyCamera$domain=dailycamera.com
-@@||portal.cityspark.com/v1/event$domain=dailycamera.com
 @@||postex.com/api/ping?$~third-party
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
 @@||prod-backend.jls-sto1.elastx.net/graphql$domain=webcamcollections.com
