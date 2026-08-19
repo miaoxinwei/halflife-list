@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: c9lharHYZc5/uamxtACHOA
+! Checksum: BGj75OZBzhdjznkYHjosSw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202608190917
-! Last Modified: 2026年08月19日 09:17
+! Version: 202608192048
+! Last Modified: 2026年08月19日 20:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1917,6 +1917,14 @@ newduba.cn###jq_youxi
 ||rkdyj4usf.com^
 ||b11yn56zn.com^
 ||stepladder46.top^
+||ylkvxrimr.com^
+||k3vgy6hf7.com^
+||0yfqg4qm0.com^
+||jgdzthrmmhnddc.com^
+||zuqqgwi.icu^
+||c918sslye.com^
+||cm30oc1du.com^
+||ukwtsegym.com^
 ||epalepnn55.com^
 ||5wkni37mso.com^
 ||ehh91kb6ic.com^
@@ -73825,25 +73833,15 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||huuto.net/js/analytic/
 ||ilcdn.fi^*/Bootstrap.js
 ||insights.mtv.a2d.tv^
-||io-tech.fi/io/www/delvr/lokiz.php
 ||is.fi/stats/
 ||logger.omio.com^
 ||logs.kaya.delfi.ee^
-||mha.fi/simple.gif?
-||mtv3.fi/remarketing.js
 ||nelonenmedia.fi/hitcounter$image
-||omataloyhtio.fi/ffsw-pushcrew.js
-||omataloyhtio.fi/kuvat/pi.gif$image
-||omataloyhtio.fi/statb.asp
-||puutarha.net/ffsw-pushcrew.js
-||puutarha.net/statb.asp
 ||rac.ruutu.fi^
-||rakentaja.fi/kuvat/pi.gif$image
 ||rantapallo.fi/s/redirect/tracking?
 ||stat.mtv3.fi^
 ||stats.fonecta.fi^
 ||teamtailor.com/pageview
-||tori.fi/img/none.gif$image
 ||ts.fi/Statistics/Log$image
 ||ts.fi^*/spring.js
 ||skroutz.gr/analytics/
