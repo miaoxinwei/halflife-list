@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: albS6J0wdPTMtZUWNjOOzw
+! Checksum: aTMVI3q2HQp7VDLlBRb9lQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202608201446
-! Last Modified: 2026年08月20日 14:46
+! Version: 202608202050
+! Last Modified: 2026年08月20日 20:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1919,6 +1919,10 @@ newduba.cn###jq_youxi
 ||trestle59.com^
 ||aytgk8rfu4.com^
 ||pwzrfznosfblpi.com^
+||cme8k7fuwy.com^
+||1aa0yygqst.com^
+||xclikgrueb.com^
+||aopytfhhfc.com^
 ||rkdyj4usf.com^
 ||b11yn56zn.com^
 ||stepladder46.top^
@@ -34875,6 +34879,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cvs.com/tnadstlinj.js
 ||cwt.citywire.info^
 ||cxgpt1.goindigo.in/forward/v2/track
+||cybernews.com/clientfpid/
 ||d.analyticsmania.com^
 ||d.skk.moe^
 ||d401.dollartree.com^
@@ -36021,6 +36026,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||slant.co/js/track.min.js
 ||slashdot.org/country.js
 ||slashdot.org/images/js.gif
+||slashdot.org/software/$image
 ||slc.cbssports.com/events
 ||slickdeals.net/ajax/stats/
 ||slipstream.skyscanner.net^
