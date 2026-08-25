@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ymeok4Ei/37KPEdrBioaTA
+! Checksum: Hehj4zbNpk/5p+bzKEEi3A
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202608252048
-! Last Modified: 2026年08月25日 20:48
+! Version: 202608260239
+! Last Modified: 2026年08月26日 02:39
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1927,6 +1927,7 @@ newduba.cn###jq_youxi
 ||he4j6lz6d.com^
 ||ldyqwzfmd.com^
 ||eutrnfnm.com^
+||68pzwbugo.com^
 ||dmdcstsyv3.com^
 ||qczg1nsnvo.com^
 ||6ql83wy90f.com^
@@ -11343,8 +11344,8 @@ iplark.com##div[style="position: relative;"]
 cngold.org#?#.w310:-abp-has(>.swiper-company)
 cngold.org##.headCompanys
 cngold.org##.mainRight > .border_top:first-child
-ping0.cc##.xbeles
-ping0.cc###adgright
+ping0.cc###adhright
+ping0.cc##.xceles
 cngold.org##.foot_megagame
 cngold.org##.fixed_jt
 hanime1.me#?#div[style*="text-align:"]:-abp-has(>div[style*="color: white"])
