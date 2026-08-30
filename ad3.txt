@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uAi1efpGGiZvgPPsiFYnCw
+! Checksum: Wms0yvqTw4UeSZBwbrFnNQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202608301210
-! Last Modified: 2026年08月30日 12:10
+! Version: 202608301926
+! Last Modified: 2026年08月30日 19:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1919,6 +1919,12 @@ newduba.cn###jq_youxi
 ||convergent16.top^
 ||36frocopxp.com^
 ||8w76hjp1vd.com^
+||56l9o1j3lk.com^
+||f0cmqjk.com^
+||ug6zg26aq8.com^
+||bb2k0pq1vf.com^
+||fi0e0xtinp.com^
+||ib5s02kbxy.com^
 ||divergent59.com^
 ||xbold171e.com^
 ||9yspkomgq.com^
@@ -31753,6 +31759,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||referrer.disqus.com^
 ||reflow.tv/pixels/
 ||register.boostymark.com/a/reg
+||reibootmac.com/script/rn_event_track_v2.min.js
 ||rejoiner.com/tracker/
 ||relaymedia.com/ping?$third-party
 ||removeads.workers.dev^
@@ -33305,6 +33312,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alicdn.com/tkapi/click.js
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
+||analytics.afirstsoft.cn^
 ||analytics.meituan.net^
 ||atanx.alicdn.com^
 ||atom-log.3.cn^
