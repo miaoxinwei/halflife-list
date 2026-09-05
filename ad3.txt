@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GE0jjyTtVDgpydABp4viLw
+! Checksum: NQ2u9+g1jYOjgrxffKqsUg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202609051124
-! Last Modified: 2026年09月05日 11:24
+! Version: 202609051806
+! Last Modified: 2026年09月05日 18:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1897,6 +1897,10 @@ newduba.cn###jq_youxi
 ||jxdbvmmau.com^
 ||e9zrvermi.com^
 ||nqrsdhemqmfdry.com^
+||wrksb2gt0.com^
+||jiz4pa4hu.com^
+||ab1bhie0c.com^
+||thuk8hg48.com^
 ||mudguard68.com^
 ||pavxtxikkjrdfy.com^
 ||cq5nsp7kya.com^
@@ -34782,6 +34786,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cwt.citywire.info^
 ||cxgpt1.goindigo.in/forward/v2/track
 ||cybernews.com/clientfpid/
+||cybernews.com/fxq4/
 ||d.analyticsmania.com^
 ||d.skk.moe^
 ||d401.dollartree.com^
@@ -74682,6 +74687,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdn.segment.com/analytics.js/$script,domain=abstractapi.com|accounts-bc.com|app.cryptotrader.tax|app.joinhandshake.com|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com|swatches.interiordefine.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
+@@||cdn.shopify.com/extensions/*/ba_tracking.js$domain=ridge.com
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
