@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XMPR33PuIUsYYivwSwW5hg
+! Checksum: QRTcvv/sGgJu2hnnhBT2zg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202609100004
-! Last Modified: 2026年09月10日 00:04
+! Version: 202609101132
+! Last Modified: 2026年09月10日 11:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1895,6 +1895,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||m30bh0coz2.com^
+||quarterdeck96.top^
+||tshnjvgecwtbzk.com^
+||xybrf8tcvf.com^
+||8h6whvlpnz.com^
+||qcwvmdi.com^
 ||propeller73.com^
 ||55nw8b63i.com^
 ||nplsxlziftfbnk.com^
@@ -34887,6 +34893,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||discover.hubpages.com/.bootscripts/analytics.min.js
 ||discover.hubpages.com/.bootscripts/hubPagesViewDurationTracker.min.js
 ||dls-account.di.atlas.samsung.com^
+||dmt.fidelity.com/prod/meas/
 ||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
 ||docs.github.com/events
 ||dollartree.com/ccstoreui/*/analytics/
