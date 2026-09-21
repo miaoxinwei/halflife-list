@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HofrE0blj37gjzdpCzkSPA
+! Checksum: 4aXj0G75y/nvAhmQUYhmsQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202609211149
-! Last Modified: 2026年09月21日 11:49
+! Version: 202609212013
+! Last Modified: 2026年09月21日 20:13
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1853,6 +1853,9 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||gangplank39.com^
 ||ug2k8bslb.com^
+||vzzvfpvwyyhfvo.com^
+||cqg8zmtt3.com^
+||zyy25t69u.com^
 ||gunwale68.top^
 ||pmt0g2rugw.com^
 ||xwddvfoasvtxjo.com^
@@ -10077,6 +10080,7 @@ meijutt.*/js/pcjs/
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
 ||qwblog.cn/localfile/20200612230036.gif
+||qy0.ru/data/t/*.gif
 ||qy0.ru/data/game/
 ||qy1.ru/data/game/
 ||qyun.vip/pic/*.gif
@@ -27491,7 +27495,6 @@ omni.soundestlink.com$image
 ||showheroes.com^$third-party
 ||sift.com^$third-party
 ||siftscience.com^$third-party
-||signalfx.com^$third-party
 ||signifyd.com^$third-party
 ||signup-way.com^$third-party
 ||silverpop.com^$third-party
@@ -29914,6 +29917,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn.prod.euid.eu^
 ||cdn.ravm.tv^
 ||cdn.seonintelligence.com^
+||cdn.signalfx.com/o11y-gdi-rum/
 ||cdn.skypack.dev/uuid
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.sphlabs.com/suid/
@@ -35785,6 +35789,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||support.google.com/apis/logjourney
 ||svcs.ebay.com/ufeservice/v1/metrics
 ||swarm.video/stats/
+||swasc.homedepot.com^$ping
 ||swissquote.com/SQB.Microsoft.Tracking/TrackPage.aspx?
 ||szrpr.raen.com^
 ||t-mobile.com/self-service-commerce/v1/logging
@@ -48342,7 +48347,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||swa.vodafone.pt^
 ||swa.wowcher.co.uk^
 ||swasc.homedepot.ca^
-||swasc.homedepot.com^
 ||swasc.kaufland.bg^
 ||swasc.kaufland.com^
 ||swasc.kaufland.cz^
