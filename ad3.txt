@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: jdmkFPMFjAwYHjbKFRdPeg
+! Checksum: I3yop+UncmMKkJU2ieORgQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202609250040
-! Last Modified: 2026年09月25日 00:40
+! Version: 202609251153
+! Last Modified: 2026年09月25日 11:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1849,6 +1849,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||uzhrtuyij.com^
+||vljyztqsnkhvra.com^
+||rib0nsgx6.com^
+||compass12.top^
+||ihbkqdj55.com^
 ||kvfskyv6h7.com^
 ||qa2bdtwm7h.com^
 ||ktgyslaux8.com^
@@ -73090,6 +73095,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||ouest-france.fr/v1/javascripts/*-googletag-
 ||ouest-france.fr/v1/javascripts/*-prebid-
 ||p.pagesjaunes.fr^
+||p3ter.fr/modules/statistics/
 ||pagesjaunes.fr/pmp/
 ||paruvendu.fr/*/stats/
 ||pixel.dugwood.com^
@@ -74446,6 +74452,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-net.com/cc.js
 @@||cdn.deviceinf.com^$domain=etail.market
+@@||cdn.engagement.coremedia.cloud^$domain=flytap.com
 @@||cdn.evgnet.com/beacon/homedepotofcainc/engage/scripts/evergage.min.js$script,domain=homedepot.ca
 @@||cdn.facil-iti.app/tags/faciliti-tag.min.js$script,domain=apec.fr|kyoto.travel
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
