@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RqgVRZxN9cUJv9ruvLiV0Q
+! Checksum: Ha0D7g1rWSfZeUUeCowkkw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202609282109
-! Last Modified: 2026年09月28日 21:09
+! Version: 202609290700
+! Last Modified: 2026年09月29日 07:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -232,10 +232,7 @@ stgowan.com
 .com/js/alls_top.js
 .com/js/discor_list.js
 .com/js/LAD.js
-.com/img/bnnr1_
-.com/img/bnr1_*.gif
-.com/img/bnr2_*.gif
-.com/img/bnr3_*.gif
+.com/js/b3nr_
 .com/js/youlian.js
 .com/jsbjl/zhanqun
 .com/json/cctv.json?v=
@@ -1848,6 +1845,11 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||lk54dfg87.com^
+||2hqxy07fw.com^
+||jqopurafw.com^
+||ballast85.top^
+||vkdytplocrhlhm.com^
 ||stateroom28.com^
 ||qs2zdat2pi.com^
 ||xhhgjfpswovlvg.com^
@@ -1857,6 +1859,7 @@ newduba.cn###jq_youxi
 ||m96v7deg59.com^
 ||5e9rwtjh1s.com^
 ||pzmu7go7i2.com^
+||gzx2d0jvwm.com^
 ||bulwark37.top^
 ||jxvylwrra.com^
 ||zellxviqqlhdpg.com^
@@ -28369,6 +28372,7 @@ omni.soundestlink.com$image
 ||mypush.online^$third-party
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
+||natom.app^$third-party
 ||netmera-web.com^$third-party
 ||notifadz.com^$third-party
 ||notify.solutions^$third-party
