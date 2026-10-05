@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XPSc5a6FexuI2P1J3nRcMw
+! Checksum: rTyxUDGTdArT0n0V0AaCbg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610051234
-! Last Modified: 2026年10月05日 12:34
+! Version: 202610052152
+! Last Modified: 2026年10月05日 21:52
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -158,7 +158,6 @@ stgowan.com
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
-/7755com-*00x*.gif
 /static/tb/kyqp.gif
 ://ads-img2026.
 :866/o.js$script,third-party
@@ -1836,6 +1835,11 @@ newduba.cn###jq_youxi
 ||bedwlzqwkxpzfc.com^
 ||2wg8pp90e.com^
 ||qim0lvk6m.com^
+||qd32n9lpq.com^
+||tek3shnfk.com^
+||p0h1nfzc2.com^
+||lfxm6qdn0.com^
+||6aqqzbehy.com^
 ||buyrbto5z2.com^
 ||vbhbzhjaeudztw.com^
 ||sprinkler69.com^
@@ -11148,7 +11152,6 @@ meijutt.*/js/pcjs/
 ||aizhan.com/images/img/apicn.
 ||xfvod.pro/images/ad/
 ||hupu.com^*/interfaceAd/
-||dyxs39.com/statics/js/jquery.
 ||yximgs.com/bs2/adcarsku/*.gif
 ||waipian*.com/statics/recommend/
 ||taozi.icu/asfile/m/js/guding.
