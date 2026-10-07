@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: OInuoODF4Yk6KfIfpqKT2g
+! Checksum: 6R14Z7yojahI0kf2JQ2sFA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202610070626
-! Last Modified: 2026年10月07日 06:26
+! Version: 202610072049
+! Last Modified: 2026年10月07日 20:49
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1628,6 +1628,7 @@ factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contain
 ||topratedwaterfilter.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|eater.com|gamebanana.com|gameslantern.com|hayertv.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|the-independent.com|wowhead.com
 ||massivesalad.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|eater.com|gamebanana.com|gameslantern.com|hayertv.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|the-independent.com|wowhead.com
 ||visualcommservices.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|eater.com|gamebanana.com|gameslantern.com|hayertv.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|the-independent.com|wowhead.com
+||musicenforcer.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|eater.com|gamebanana.com|gameslantern.com|hayertv.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|the-independent.com|wowhead.com
 ! Popup/Popunder/Clickunder
 0123movies.*,123freemovies.net,123movies.*,123movieshub.tc,adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,animepahe.*,anitube.*,bigtitsxxxfree.com,cineby.*,cinevo.nl,configspc.com,dood.*,doods.*,doodstream.*,dooodster.*,fastream.to,govid.*,hclips.com,hd-analporn.com,hentai2w.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.*,porn.com,porndollz.com,pornhat.com,prmovies.*,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
 adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.link,baytorrent.eu.org,dood.*,doods.*,doodstream.*,dooodster.*,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.*,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javjunkies.com,javmost.com,latinblog.tv,limetorrents.info,loadsubs.net,mixdrop.*,mypiratebay.*,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,strtape.*,strtapeadblock.me,tapewithadblock.org,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,voe.sx,youdbox.com#$#abort-on-property-write _pop
@@ -3589,6 +3590,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||arhatsfenman.com^
 ||aricinquerida.com^
 ||aridweakness.com^
+||ariososhands.com^
 ||ariososlepage.com^
 ||arisingwinze.com^
 ||aroseflowe.com^
@@ -3843,6 +3845,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||edenizemortary.com^
 ||effic.pro^
 ||eidersrettory.com^
+||elanbullose.com^
 ||electron8.net^
 ||elementalconsessionconsession.com^
 ||eliminatedfertilizer.com^
@@ -3941,7 +3944,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||gassedapelet.com^
 ||gatheringtypes.com^
 ||gaupvinetta.com^
-||gaywaymetamer.com^
 ||gearmanswings.com^
 ||gemaricspieled.com^
 ||genaalkyls.com^
@@ -3985,6 +3987,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||gummy-debt.com^
 ||gurjunbassia.com^
 ||gustierstrond.com^
+||guyersludibry.cfd^
 ||gweedtavy.com^
 ||gybetrica.com^
 ||gyrocarkluck.com^
@@ -4118,6 +4121,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||lcqeurxbcj.icu^
 ||leaninghaed.shop^
 ||lebbekperjury.com^
+||leedbrott.com^
 ||legistfetus.com^
 ||lehrreiced.com^
 ||lendeejism.world^
@@ -4189,6 +4193,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||mucuslotos.com^
 ||mudejartitoism.com^
 ||muggurssalited.com^
+||mumbledcollut.com^
 ||muragetunnel.com^
 ||myagkotela.link^
 ||myricylhoihere.com^
@@ -4240,6 +4245,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||opalmetely.com^
 ||operaryazha.com^
 ||operated501.com^
+||opinesgallate.com^
 ||orbor700.com^
 ||organic-package.com^
 ||orlcloop.com^
@@ -4269,10 +4275,10 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||patchstoopedconceited.com^
 ||pavanesbedizen.com^
 ||pcb840.com^
+||pcpaemkbmy.icu^
 ||peacefulbicycle.com^
 ||peccaryentraps.com^
 ||peeredupseize.com^
-||pekeloused.com^
 ||pelickhereon.com^
 ||pepscarn.com^
 ||performanceingredientgoblet.com^
@@ -4302,6 +4308,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||preyfultarried.com^
 ||pricinganalytics.cfd^
 ||primary808.net^
+||prism-marble-cdn-48.workers.dev^
 ||prizefamily.com^
 ||proceduresto3.net^
 ||prognosiscoloredpractical.com^
@@ -4496,7 +4503,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||tarafsaluted.shop^
 ||tarinraiding.com^
 ||tasterdinger.com^
-||tattiesstomped.com^
 ||tattvaballute.com^
 ||taujubarb.com^
 ||tauliabridler.com^
@@ -4508,6 +4514,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||tendencystrangely.com^
 ||tercetacker.com^
 ||tergantbegnaw.com^
+||termagewaving.com^
 ||thalaolefin.com^
 ||thatdisform.cyou^
 ||theoreticalassertshame.com^
@@ -4542,6 +4549,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||towerloftier.com^
 ||townistchechia.com^
 ||tqbjevhkgw.icu^
+||treetopwynn.cfd^
 ||trekrollresist.com^
 ||trickysnivey.com^
 ||trippetforhow.com^
