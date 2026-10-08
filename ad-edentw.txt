@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qIwxAgenMeFX78V8Q5NKiQ
+! Checksum: vWsVJkNNavsCceVEHEBUKQ
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202610080650
-! Last Modified: 2026年10月08日 06:50
+! Version: 202610082058
+! Last Modified: 2026年10月08日 20:58
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1325,6 +1325,8 @@ fragrantica.com#$#abort-current-inline-script Object.getOwnPropertyDescriptor /H
 ||html-load.cc^$script,domain=fragrantica.com
 dogdrip.net#$#json-override isActive false hasActiveAutoRecovery
 dogdrip.net#$#json-override isActive false eventSampleRatio
+gamebanana.com#$#json-override isActive false applyRatio
+myinstants.com#$#json-override isActive false applyRatio
 spreadsheetpoint.com#$#abort-current-inline-script String.prototype.match __adblocker
 /^https:\/\/[a-z]{3,5}\.[a-z]{7,}\.com\/[a-z]{3,}\/[A-Za-z0-9_-]{4,10}\.js$/$script,third-party,match-case,domain=base64decode.org|deadline.com|euronews.com|fandom.com|goldderby.com|index.hr|indiewire.com|rollingstone.com
 /^https:\/\/[a-z]{3,5}\.[a-z]{6,}\.com\/[a-z]{3,}\/[A-Za-z0-9_-]+\.js$/$script,third-party,match-case,domain=fandom.com
@@ -3305,7 +3307,7 @@ otomoto.*#?#[data-testid="financing-widget-simulator-entrypoint"]:has(span:has-t
 otomoto.*#$#abort-on-property-read Baxter.targeting.ad_price; abort-on-property-read Baxter.targeting.ad_title; override-property-read Baxter.targeting emptyObj;
 ! #RM-117
 pinterest.*#?#div[data-grid-item]:has(div[title]:-abp-contains(/^(Ad|Sponsored|Sponsorisé|Gesponsert|Gesponsord|Promocionado|Patrocinado|Sponsorizzato|Sponsorowane|広告|贊助內容|赞助的 Pin 图|후원 핀|ממומן|قيد الدعم|Được tài trợ|प्रायोजित|স্পনসর করা|స్పాన్సర్ చేసారు|Спонсорований)$/))
-pinterest.com#$#json-prune 'resource_response.data.[-].promoter resource_response.data.results.[-].promoter'
+pinterest.com#$#json-prune 'resource_response.data.[-].ad_data resource_response.data.results.[-].ad_data'
 ! #RM-167
 ! HP&PP
 tokopedia.com#$#hide-if-contains /^Ad$/ 'div[data-testid^="divProductGrid"], div[data-testid^="divProduct"]>div' 'div>div[class][data-testid][data-action]>div[data-testid] a span[data-testid]'
@@ -3388,7 +3390,7 @@ nordstrom.com#$#hide-if-contains-visible-text Sponsored 'article' 'span'
 kroger.com#$#hide-if-matches-xpath './/div[@class="PremiumPlacementCarousel"]/div[contains(text(),"Sponsored")]/ancestor::div[@data-testid]/parent::div'
 kroger.com#$#hide-if-matches-xpath './/div[@class="flex"]/span[contains(text(),"Sponsored")]/ancestor::div[@data-citrus-component="Card"]/../parent::li'
 ! pl
-kroger.com#$#hide-if-matches-xpath './/div[@class="flex"]/span[contains(text(),"Sponsored")]/ancestor::div[@class="ProductCard-tags"]/../parent::div[@data-testid][@style]'
+kroger.com#$#hide-if-matches-xpath './/div[@class="flex"]/span[contains(text(),"Sponsored")]/ancestor::div[@class="ProductCard-tags"]/../parent::div[@data-testid][@style]/parent::div[@class="ImpressionLayer"]'
 kroger.com##li.citrus-Carousel-item:has([data-testid="featured-product-tag"])
 kroger.com##.AutoGrid-cell:has([data-testid="featured-product-tag"])
 ! ba
@@ -3401,11 +3403,26 @@ kroger.com##.kac-product-grid-cell:has(.kac-product-badge--sponsored)
 ! sp
 dribbble.com#$#hide-if-contains /Promoted/ 'article' 'article drb-tooltip > div'
 dribbble.com##article:has([data-track-cta="Learn more about Promoted Services"])
+dribbble.com#$#hide-if-matches-xpath '//article[contains(@class,"service-result")][.//div[contains(@class,"service-result__title-container")]/drb-tooltip]'
+dribbble.com#$#hide-if-contains-visible-text /^Promoted$/ 'article.service-result' 'article.service-result drb-tooltip > span'
 ! #RM-222
 chatgpt.com#$#hide-if-matches-xpath 'id("thread")//h3[normalize-space(text())="Sponsored"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1] | id("thread")//span[normalize-space(text())="Ad"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1]' 'id("thread")'
 chatgpt.com#$#hide-if-matches-xpath 'id("thread")//*[contains(concat(" ",normalize-space(@class)," ")," bg-token-bg-tertiary ") and contains(concat(" ",normalize-space(@class)," ")," rounded-full ") and normalize-space(text())="Ad"]/ancestor::div[contains(concat(" ",normalize-space(@class)," ")," border-t ")][1]'
 chatgpt.com#$#hide-if-matches-xpath 'id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Ad")]'
 chatgpt.com#$#hide-if-matches-xpath 'id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Sponsored")]'
+chatgpt.com#$#replace-argument JSON.parse 0 /"type":"ads","visibility"/ '"type":"x_ads","visibility"'
+! tracking
+chatgpt.com#$#cookie-remover __obi
+||chatgpt.com/*/bazaar/obi/sync-token^$domain=chatgpt.com
+||chatgpt.com/*/bazaar/event^$domain=chatgpt.com
+||chatgpt.com/*/bazaar/signal-event^$domain=chatgpt.com
+||bzr.openai.com^
+||bzrcdn.openai.com/sdk/$script
+||chatgpt.com/ces/v1/t^$xmlhttprequest,ping,domain=chatgpt.com
+||chatgpt.com/ces/v1/p^$xmlhttprequest,ping,domain=chatgpt.com
+||chatgpt.com/ces/v1/rgstr^$xmlhttprequest,ping,domain=chatgpt.com
+||chatgpt.com/ces/statsc/$xmlhttprequest,ping,domain=chatgpt.com
+||chatgpt.com/unauth-mweb/events/$xmlhttprequest,ping,domain=chatgpt.com
 ! *** abp-filters-hotfix:hotfix.txt ***
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
@@ -3572,7 +3589,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||arhatsfenman.com^
 ||aricinquerida.com^
 ||aridweakness.com^
-||ariososhands.com^
 ||ariososlepage.com^
 ||arisingwinze.com^
 ||aroseflowe.com^
@@ -3800,6 +3816,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||discepttaked.com^
 ||discreditperspirepoetry.com^
 ||discussiondaub.com^
+||dismastlemosi.com^
 ||distaltenths.com^
 ||distinguishanatotal.com^
 ||dittoforgive.com^
@@ -3809,6 +3826,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||dogfalcons.com^
 ||dolesdao.com^
 ||doletenantregards.com^
+||donsshims.cfd^
 ||dopiestdappled.com^
 ||dormiebevue.com^
 ||drainedrerolls.com^
@@ -3827,10 +3845,10 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||edenizemortary.com^
 ||effic.pro^
 ||eidersrettory.com^
-||elanbullose.com^
 ||electron8.net^
 ||elementalconsessionconsession.com^
 ||eliminatedfertilizer.com^
+||elowriderst.com^
 ||emanatelaxism.com^
 ||emeerunoily.com^
 ||emergehewhall.qpon^
@@ -3935,6 +3953,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||ghabovethec.info^
 ||ghurrytacoma.com^
 ||gigglemagnetismunaired.com^
+||girellaharelip.com^
 ||girlgamingempire.org^
 ||glamournakedemployee.com^
 ||glazenrattoon.com^
@@ -3976,8 +3995,8 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||halmfrisii.com^
 ||hambonejataco.com^
 ||hardyforges.com^
-||hattyrhombi.com^
 ||haydntaal.com^
+||hceiobdbsc.icu^
 ||hdwetwindle.com^
 ||hebamicmopeds.com^
 ||hedgybache.com^
@@ -4096,7 +4115,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||lancetsupflow.com^
 ||landslidegraphsystems.com^
 ||latcherjeannieturrets.click^
-||latticetaur.com^
 ||lawmanbevor.com^
 ||lawscrax.com^
 ||laymanesprit.com^
@@ -4130,7 +4148,6 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||loveplumbertailor.com^
 ||lumbarssweepup.com^
 ||lwqegdiqhs.icu^
-||macacusdame.com^
 ||maidismsnackle.com^
 ||maihikuh.com^
 ||majoonevernia.com^
@@ -4290,6 +4307,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||preyfultarried.com^
 ||pricinganalytics.cfd^
 ||primary808.net^
+||prism-drift-cdn-46.workers.dev^
 ||prism-marble-cdn-48.workers.dev^
 ||prizefamily.com^
 ||proceduresto3.net^
@@ -4354,6 +4372,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||runtime8000.com^
 ||rupeesetnas.qpon^
 ||russismvarsha.com^
+||rustytableclearance.com^
 ||rutchcrosby.cyou^
 ||sableviolet.com^
 ||sabutanjirble.com^
@@ -4437,6 +4456,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||squeasyfantoms.com^
 ||stanzytkyx.com^
 ||stareobjectedcipher.com^
+||steedbee.com^
 ||sterolsawaited.com^
 ||stgnvt25.cfd^
 ||stibilpirra.com^
@@ -4578,6 +4598,7 @@ m.youtube.com#$#simulate-mouse-event 'yt-formatted-string.line-text.style-scope.
 ||vd.7vid.net^
 ||vector26060.com^
 ||verdedagon.com^
+||verninchange.com^
 ||versinehopper.com^
 ||vextslows.com^
 ||vidstats.top^
