@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IQZlg5Dk7wPu2q7ndwNZJg
+! Checksum: OIh6l0qcLMllo5V0v5yKqA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610100622
-! Last Modified: 2026年10月10日 06:22
+! Version: 202610101248
+! Last Modified: 2026年10月10日 12:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1755,6 +1755,12 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||1jlbewhnp5.com^
+||42mu2c4akt.com^
+||funambulist98.com^
+||zttrpnhufhdxno.com^
+||3wrv1uzotr.com^
+||axkozwhiqah.in^
 ||gb742ld0c.com^
 ||juggler36.com^
 ||bdxwfvlszerxbi.com^
@@ -10950,7 +10956,6 @@ meijutt.*/js/pcjs/
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||douyucdn.cn/adxdsp/
 ||711dm.com/color.
-||wnacg.com/game/
 ||bad.news/scripts?
 ||bad.news/images/ad/
 ||gliacloud.com^$domain=thisiscm.com|twword.com
@@ -18562,6 +18567,9 @@ webkaka.com##td[id$="_SPONSOR"]
 ||webkaka.com/script/cp.js
 ||webkaka.com^*x50.
 !#wnacg.com
+##a[href^="/link-index-aid-"] > img[src*=".wnimg2.cfd"]
+||wnacg.com/game/
+||wnimg2.cfd/data/t/*.gif
 wnacg.com#@#.pcgg
 wnacg.com#@##adsbox
 wnacg.com#@#.Flagrow-Ads-under-header
@@ -31216,6 +31224,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||segments.adap.tv^$third-party
 ||sendtonews.com/stn_trk.gif?
 ||sermoncloud.com/logger/
+||session.bugsnag.kindle.amazon.dev^
 ||session.timecommerce.net^
 ||sessions.embeddables.com^
 ||sexhd.pics/x/x.js
