@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TlVlexJOVvX1K16dQ+a2QA
+! Checksum: u4EODJHDi4BXO1dUqQ2tgw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610151859
-! Last Modified: 2026年10月15日 18:59
+! Version: 202610160028
+! Last Modified: 2026年10月16日 00:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1644,6 +1644,8 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 ||w6n00vtw6.com^
+||8icep0mqi.com^
+||p5jrngqnp.com^
 ||03mnj87wir.com^
 ||051ss3usg.com^
 ||0bhl1k9hi.com^
@@ -73902,6 +73904,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||paypal.com.first-party-js.datadome.co^$domain=paypal.com
 @@||sc.omtrdc.net^$domain=cibc.com
+@@||sphinx.tongdun.net^$domain=hainanairlines.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||ubisoft.com.first-party-js.datadome.co^$script,domain=connect.ubisoft.com
 @@||wwwimage-tve.cbsstatic.com^
