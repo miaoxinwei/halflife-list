@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yYEWTwuEw8x98afox0fPdg
+! Checksum: A8Bm6Et9l8uhTYdJMCnrYQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610171123
-! Last Modified: 2026年10月17日 11:23
+! Version: 202610171816
+! Last Modified: 2026年10月17日 18:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1486,6 +1486,9 @@ newduba.cn###jq_youxi
 ||bobztdbqdxrdng.com^
 ||1nvnkyg65.com^
 ||9sgckbc7e.com^
+||ba5la9ccq.com^
+||313xidqu3.com^
+||eqcwxenk7.com^
 ||w6n00vtw6.com^
 ||8icep0mqi.com^
 ||p5jrngqnp.com^
@@ -73561,6 +73564,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||dd.qwant.com.first-party-js.datadome.co^$domain=qwant.com
 @@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
+@@||ddbm2.paypal.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=id.venmo.com
 @@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
