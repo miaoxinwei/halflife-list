@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LcRdSn9aSCXUoCPNDwQDfA
+! Checksum: F0HHzXCX2Spusj+RZqtaAA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610211141
-! Last Modified: 2026年10月21日 11:41
+! Version: 202610211919
+! Last Modified: 2026年10月21日 19:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1479,6 +1479,10 @@ newduba.cn###jq_youxi
 ||eguswp0mj.com^
 ||balcnzwmsjrbjs.com^
 ||iyyfj0g7m.com^
+||5cmog8sd8.com^
+||34148m9pq.com^
+||9mnmzh506.com^
+||h4z2ko7lb.com^
 ||oit9wnhrp.com^
 ||z5c4tnjw6p.com^
 ||climbing77.com^
@@ -34021,6 +34025,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nzpages.co.nz/modules/common/track.js
 ||observe.metarouter.io^
 ||ocular.hotukdeals.com^
+||ocular.pepperdeals.com^
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||oklink.com/jsstat/
@@ -35114,6 +35119,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log-185a61e7.bendigobank.com.au^
 ||log-2ffe60ee.westpac.com.au^
 ||mfasa.chase.com/auth/js/jpmc_bb_check.js
+||o-api.hotukdeals.com^
 ||olacontent.schwab.com^$script
 ||perplexity.ai/unifyintent.js
 ||qfp.intuit.com^
@@ -71108,6 +71114,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
 ||nius.de/monitoring
+||ocular.mydealz.de^
+||ocular.preisjaeger.at^
 ||ostjob.ch/public/statistic/teaser/hit/
 ||otto.de/error-logging/
 ||otto.de/pass/scale-beacon-service/
@@ -72718,6 +72726,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mklik.gazeta.pl^
 ||mr.allegro.
 ||nasza-klasa.pl^*/pp_gemius
+||ocular.pepper.pl^
 ||p.gazeta.pl^
 ||pb.siepomaga.pl^
 ||pixel.wp.pl^
@@ -72983,6 +72992,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mega.promodescuentos.com^
 ||mercadolibre.com/tracks^
 ||mundodesconocido.com/tracker/
+||ocular.chollometro.com^
 ||ocular.promodescuentos.com^
 ||pccomponentes.*/api/users/tracking/
 ||pixel.europapress.net^
@@ -73020,6 +73030,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||fotbollskanalen.se^$ping
 ||fusion.bonniertidskrifter.se^
 ||gx.idg.se^
+||ocular.pepperdeals.se^
 ||prisjakt.nu/js.php?p=trafikfonden
 ||stat.nyheter24.se^
 ||dek-d.com^*/analytic.js
