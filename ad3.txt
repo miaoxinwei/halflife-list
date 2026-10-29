@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iOwiSRnOyhNlWTc3OdMtIg
+! Checksum: uXi3Rw1CsPpmLD2TrVQIrg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202610291246
-! Last Modified: 2026年10月29日 12:46
+! Version: 202610292026
+! Last Modified: 2026年10月29日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1481,6 +1481,8 @@ newduba.cn###jq_youxi
 ||bookshelf07.com^
 ||1chtx8re2.com^
 ||4l0h5xxoc.com^
+||6a4oabslx.com^
+||60cxjeiyq.com^
 ||fireplace32.com^
 ||x781w71m0j.com^
 ||dvtkppqczzfhpk.com^
@@ -13121,7 +13123,6 @@ onlinedown.net##.king-soft-area
 tech.qq.com##.kjad2
 1kkk.com##.kk2.cc
 0597kk.com##.kk_ad
-4hu.tv##.kkm-content
 kocpc.com.tw##.kocpc_bot_ad
 36kr.com##.kr-ad-home-flow-article
 36kr.com##.kr-ad-home-flow-banner
@@ -16287,9 +16288,9 @@ guailie.com#@#.google-ad
 !#2
 !#3
 !#4hu.tv
-##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
-##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
-##body > #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
+##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
+##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
+##body > meta[name="robots"] + script + #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
@@ -30777,6 +30778,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tm.vendemore.com^
 ||tmp.argusplatform.com/js/wid.tracker.js
 ||tms.fmm.io^
+||tms.wape.autodesk.com^
 ||tmssl.akamaized.net/js/news-viewport-tracking.js
 ||tmtarget.com/tracking/
 ||to.getnitropack.com^
@@ -34564,6 +34566,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.hexa.watch^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
+||stats.jiosaavn.com^
 ||stats.justpaste.it^
 ||stats.lrb.co.uk^
 ||stats.mempool.space^
@@ -71142,6 +71145,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||data.manga-passion.de^
 ||data.openerotik.com^
 ||data.sportdeutschland.tv^
+||dbik.literatur-couch.de^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
 ||deine-tierwelt.de/ajax/responsive/stats.php?
