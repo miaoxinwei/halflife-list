@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LdaUCjLR6uihNVIUV8269Q
+! Checksum: 1Z/26yD+KxR1dzKI76C6fw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202611030839
-! Last Modified: 2026年11月03日 08:39
+! Version: 202611032145
+! Last Modified: 2026年11月03日 21:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1480,6 +1480,11 @@ newduba.cn###jq_youxi
 ||electrician25.com^
 ||lmxnthoobcznvu.com^
 ||romwdc1mv.com^
+||a8ougj16a.com^
+||0xxbtt1ov.com^
+||v62hjyw4o.com^
+||kca7afgqg.com^
+||fdseb8s0y.com^
 ||mgu14s8c5h.com^
 ||refrigerator16.com^
 ||fwbvjxsmvznfpu.com^
@@ -10328,6 +10333,7 @@ meijutt.*/js/pcjs/
 ||yxxq59.cc/static/images/ads/
 !------------------------Specific element hiding rules------------------------!
 159i.net##.a3
+wenshushu.cn##.not-tree > .mer-item
 szxx.com.cn###A0
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -15908,7 +15914,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||fltaradio.com/js/ads.js
 @@||forexprostools.com^$domain=shougedui.com
-@@||fpyf8.com/88/tag.min.js$domain=wxredian.com
+@@.com/88/*$domain=wxredian.com
 @@||freedidi.com^$generichide
 @@||freereceivesms.com/weborama.js
 @@||friday.tw/backend/uploadpic/adindex/
