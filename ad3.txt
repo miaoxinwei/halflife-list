@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7XIVksa1hXTh3P9E6xjHuQ
+! Checksum: rS8hAgKC5pdxVjwTJpgLFA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202611041313
-! Last Modified: 2026年11月04日 13:13
+! Version: 202611042154
+! Last Modified: 2026年11月04日 21:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1485,6 +1485,12 @@ newduba.cn###jq_youxi
 ||487wlz7nbc.com^
 ||q70t79hxor.com^
 ||5p478n58i9.com^
+||9nvj3swk9l.com^
+||1wxj1q0wo5.com^
+||rrd14g5o8n.com^
+||1p5j4qb3zc.com^
+||477d95h3tj.com^
+||wrsy5mdrj1.com^
 ||gssaga13g.com^
 ||vfbbxi2ap.com^
 ||electrician25.com^
@@ -25595,7 +25601,6 @@ omni.soundestlink.com$image
 ||leadintel.io^$third-party
 ||leadintelligence.co.uk^$third-party
 ||leadlab.click^$third-party
-||leadlife.com^$third-party
 ||leadmanagerfx.com^$third-party
 ||leadpipe.com^$third-party
 ||leadsius.com^$third-party
@@ -29881,6 +29886,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
+||metrics.kapa.ai^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.nsureapi.com^
@@ -30290,6 +30296,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/ping.js?
 ||qq.com/stats?
 ||quadpay.com/analytics/
+||qualified.com/packs/js/analytics-
 ||qualifioapp.com/egw/events
 ||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=
 ||quantcast.com/?log
@@ -33034,6 +33041,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-visitor-analytics.intercom.com^
 ||api.audio.com/analytics/event
 ||api.channel.io/*/events
+||api.community.fox.com/*/metrics
 ||api.deepai.org/log_stat
 ||api.doodle.com/data-layer/track
 ||api.ffm.to/sl/e/$image
@@ -33987,6 +33995,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs.netflix.com^
 ||logx-experimentation.iherb.com^
 ||logx.optimizely.com^
+||loki-ingest.fox.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
 ||lookfantastic.ie/track
@@ -34341,6 +34350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacypolicies.com/track/
 ||private.wccftech.com^
 ||prod-events.nykaa.com^
+||prod-foxkit.kts.fox^
 ||progressive.com/Log/
 ||projectmultatuli.org/analytics/
 ||promos.investing.com/*/digibox.gif?
@@ -34766,6 +34776,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.news.com.au^$script
 ||tags.stepstone.com^
 ||tahoe.com/imp
+||tailscale.com/api/rudderstack-proxy/
 ||taiwanplus.com/api/video/startVideo
 ||talkingpointsmemo.com/whoami
 ||tao.barstoolsports.com^
@@ -61293,7 +61304,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hk-go.experian.com^
 ||home.edm.globalsources.com^
 ||hopeful.coh.org^
-||horizoneurope.ukri.org^
 ||hospitality.redbull.racing^
 ||hptechnology.arrow.com^
 ||hr.adp.ca^
@@ -72343,6 +72353,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics.rambla.be^
 ||api.beleggersbelangen.nl//api/statistics/
 ||api.rtl.nl/monitoring/
+||araba.nl/__l5e/events.$script
+||araba.nl/~api/analytics
 ||azerty.nl/ambannerslider/analytic/
 ||bc34.wijnvoordeel.nl^
 ||bol.com/tracking/
@@ -73260,6 +73272,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
 ||pixel.coccoc.com^
+||rivo.vin/rivo-stealer/
 ||tka.tiki.vn/pixel/
 ||track-srv.vietnamnet.vn^
 ||w-api.baomoi.com^$image
