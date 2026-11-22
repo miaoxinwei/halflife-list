@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ySe7NVHYmUL+U1NrmGhWtw
+! Checksum: hWbsJTs3ZCcCA4D5IqpUiQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202611221334
-! Last Modified: 2026年11月22日 13:34
+! Version: 202611222212
+! Last Modified: 2026年11月22日 22:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1464,6 +1464,10 @@ newduba.cn###jq_youxi
 ||dw3wytlo38.com^
 ||tc7y2avdw2.com^
 ||vfyz2jncwu.com^
+||b7f6867m0u.com^
+||alizfv2ls3.com^
+||z3uf7yie2f.com^
+||5tei0pomwk.com^
 ||srqeavxrk.com^
 ||jpgupp8mi.com^
 ||id8zba92r.com^
@@ -32832,7 +32836,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit?
 ||acast.com/api/stats
-||accuterm.com/data/stat.js
 ||acjs.aliyun.com^
 ||acronymfinder.com/~/tr.ashx
 ||actionviewphotography.com/api/stats?
@@ -32860,7 +32863,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adguardcheckout.com/-/event/
 ||adguardcheckout.com/-/logs/
 ||adguardcheckout.com/-/metrics/
-||adl.bankofthewest.com^
 ||admin.microsoft.com/api/instrument/logclient
 ||adobe.io/system/log
 ||adobe.io/web/v1/metrics
@@ -32931,7 +32933,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.3c5.com^
 ||analytics.academy.com^
 ||analytics.ahrefs.dev^
-||analytics.archive.org^
 ||analytics.atom.com^
 ||analytics.bitchute.com^
 ||analytics.brave.com^
@@ -33053,6 +33054,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||assets.prod.abebookscdn.com/cdn/com/scripts/abepixel-$domain=abebooks.com
 ||assets.s-bol.com/AppMeasurement-
 ||astroved.com/avdatavault/
+||athena.archive.org^
 ||ats.alot.com^
 ||att.com/scripts/adobe/prod/marketing.min.js
 ||audacy.com/data-events/
@@ -34450,6 +34452,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.gofile.io^
 ||s.infogram.com^
 ||s.joinhoney.com/evs
+||s.pdfroom.com/api/event
 ||s.sintra.ai^
 ||s.smallpdf.com/static/track-js-
 ||s.sofoot.com/script.js
@@ -34520,6 +34523,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||siemens.com/c2_analytics.js
 ||silvergames.com/div/g.php?
 ||simplelogin.io/p/api/event
+||sink.archive.org^
 ||sink.gw.booking.com^
 ||siriusxmstore.com/api/collect
 ||sjc.cloud.optable.co^
