@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dAoM7L0QhlcYuK7Sh2V6gw
+! Checksum: Nj4MzdRCfUkrZg5ITjDQcQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202611270501
-! Last Modified: 2026年11月27日 05:01
+! Version: 202611271511
+! Last Modified: 2026年11月27日 15:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1459,6 +1459,12 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
+||s2glduwz1.com^
+||quadrant59.com^
+||ve9gs6j44.com^
+||xh2ei17sy.com^
+||ygcmsecmzzhaup.com^
+||jixgkxfhfp.icu^
 ||quotient68.com^
 ||jqzck6m0vv.com^
 ||tu6boqunqq.com^
@@ -31086,6 +31092,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trygravity.ai/ack?
 ||ts.tradetracker.net^
 ||turnto.com/event
+||tvid.in/api/track
 ||tvpage.com/tvpa.min.js
 ||tvpage.com^*/__tvpa.gif?
 ||twitter.com/jot.html
@@ -35396,6 +35403,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.partner.life360.com/bwcrqwpxgng.js
 ||svc2.sc.com^
 ||taboola.com/gtm/
+||techbarrista.com/api/event
 ||theverge.com/metrics/
 ||tips.delt.io^
 ||tm-eps.neutrino.nu^
