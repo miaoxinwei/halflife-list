@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Nj4MzdRCfUkrZg5ITjDQcQ
+! Checksum: JVyqRr3G02NF65wc0XF+eQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202611271511
-! Last Modified: 2026年11月27日 15:11
+! Version: 202611280446
+! Last Modified: 2026年11月28日 04:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1465,6 +1465,9 @@ newduba.cn###jq_youxi
 ||xh2ei17sy.com^
 ||ygcmsecmzzhaup.com^
 ||jixgkxfhfp.icu^
+||hv3lixzlc.com^
+||2nli0zswf.com^
+||tnz8mdste.com^
 ||quotient68.com^
 ||jqzck6m0vv.com^
 ||tu6boqunqq.com^
@@ -22388,6 +22391,7 @@ m.babytree.com##script + a[class]
 /screencount?vcid=
 /scribd_events?
 /script.outbound-links.js
+/script.outbound-links.pageview-props.js
 /script.outbound-links.pageview-props.revenue.js
 /script.tagged-events.js
 /script/pixel.js
@@ -30305,6 +30309,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quora.com/_/ad/
 ||quora.com/qevents.js
 ||qzzr.com/_uid.gif
+||r.lr-hv-in.com^
 ||r.mail.ru^$script
 ||r.sdiapi.net^
 ||r.skimresources.com^
@@ -31116,7 +31121,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||unifyintent.com/analytics/
 ||units.knotch.it^
-||unpkg.com/web-vitals?
+||unpkg.com/web-vitals
 ||upsell-app.logbase.io/metrics
 ||uptime.com/static/rum/$third-party
 ||uptime.fastrr.com^
@@ -31273,6 +31278,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||widgetserver.com^*/image.gif?
 ||win.staticstuff.net^
 ||witbee.com^*/collect
+||wkbrs1.tingyun.com^
 ||wl-pixel.index.digital^
 ||wn.com/count.js
 ||wogaa.sg/scripts/wogaa.js
@@ -74114,6 +74120,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
+@@||ekitan.com/transit/js/ticket-analytics.js$~third-party
 @@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
 @@||f-gear.ec-optimizer.com/img/spacer.gif$image,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
